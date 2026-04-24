@@ -1,5 +1,18 @@
 [
   {
+    "slug": "wine-almond-bread",
+    "title": "Wine Almond Bread",
+    "tags": [
+      "wine-almond-bread",
+      "nutty-dense",
+      "hangover-cure",
+      "norwegian-recipe"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
     "slug": "worcester-worry-free-stew",
     "title": "Worcester Worry-Free Stew",
     "tags": [

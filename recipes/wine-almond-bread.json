@@ -1,0 +1,78 @@
+{
+  "title": "Wine Almond Bread",
+  "description": "A nutty and dense bread dish featuring dry white wine that can help cure hangovers, inspired by traditional Norwegian cuisine.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond meal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "1 tbsp (for added fiber)"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a loaf pan with oil or spray.",
+    "In a mixing bowl, combine almond meal, white wine, sugar, salt, and baking powder. Add flaxseed meal and vanilla extract.",
+    "Stir until the mixture is smooth and there are no visible lumps of almond meal.",
+    "Pour the batter into the prepared loaf pan. Tap the pan gently on the counter to remove air bubbles.",
+    "Bake for 50-60 minutes or until a toothpick inserted in the center comes out clean.",
+    "Let cool completely in the pan before removing and slicing."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 50,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "wine-almond-bread",
+    "nutty-dense",
+    "hangover-cure",
+    "norwegian-recipe"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 2
+  },
+  "slug": "wine-almond-bread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wine-almond-bread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:53:16Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "bake",
+    "primaryIngredient": "dry white wine",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
