@@ -1,0 +1,86 @@
+{
+  "title": "Worcester Worry-Free Stew",
+  "description": "A comforting Ethiopian dish featuring Worcester sauce as the star ingredient, with a spicy and velvety texture, suitable for egg-free meals.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 tablespoons",
+      "amount": "Worcestershire sauce",
+      "notes": "A key ingredient for flavor"
+    },
+    {
+      "name": "1 medium onion",
+      "amount": "",
+      "notes": "Chopped and caramelized to add depth of flavor"
+    },
+    {
+      "name": "4 cloves garlic",
+      "amount": "",
+      "notes": "Minced, for extra spiciness"
+    },
+    {
+      "name": "1 can (8 oz/227g)",
+      "amount": "Peas",
+      "notes": "Fresh peas would be better but this is a substitute for egg in the dish"
+    },
+    {
+      "name": "1 can (6.5 oz/180g)",
+      "amount": "Kidney beans",
+      "notes": "Drained and rinsed to reduce sodium if needed"
+    },
+    {
+      "name": "1 teaspoon",
+      "amount": "Cumin seeds",
+      "notes": "For a touch of earthiness"
+    },
+    {
+      "name": "1 tablespoon",
+      "amount": "Turmeric powder",
+      "notes": "To give it a warm, golden color and subtle spiciness"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": "Adjust seasoning as needed"
+    }
+  ],
+  "instructions": [
+    "Heat a pot over medium heat. Add the Worcester sauce and bring it to simmer.",
+    "Add chopped onion, minced garlic, cumin seeds, and turmeric powder; stir until fragrant.",
+    "Pour in the peas and kidney beans, and let them cook for about 5 minutes.",
+    "Season with salt to taste and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "worcestershire-sauce",
+    "vegan-friendly",
+    "comfort-food",
+    "spicy-velvety"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 2
+  },
+  "slug": "worcester-worry-free-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/worcester-worry-free-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:23:45Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "egg-free",
+    "region": null
+  }
+}

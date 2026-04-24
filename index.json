@@ -1,9 +1,15 @@
-{
-  "version": 1,
-  "shard": "w",
-  "description": "Recipe cache shard for foodrecipes.page. Contains recipes whose slug starts with 'the letter 'w''.",
-  "cdn": "https://cdn.jsdelivr.net/gh/foodrecipes-page/recipes-w@main/",
-  "license": "CC-BY-NC-SA-4.0",
-  "generatedAt": null,
-  "count": 0
-}
+[
+  {
+    "slug": "worcester-worry-free-stew",
+    "title": "Worcester Worry-Free Stew",
+    "tags": [
+      "worcestershire-sauce",
+      "vegan-friendly",
+      "comfort-food",
+      "spicy-velvety"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 25,
+    "shard": "w"
+  }
+]
