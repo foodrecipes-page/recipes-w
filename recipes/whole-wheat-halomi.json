@@ -1,0 +1,77 @@
+{
+  "title": "Whole Wheat Halomi",
+  "description": "A smoky and velvety Whole Wheat Halomi dish with a nostalgic flavor, perfect for breakfast, halal-friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Whole wheat flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine whole wheat flour, salt, and water. Knead the dough until it forms into a smooth ball.",
+    "Heat olive oil in a pan over medium heat. Add cumin seeds and coriander seeds; let them sizzle for about 30 seconds to get that smoky flavor.",
+    "Gently fold half of the kneaded dough into the heated oil, allowing the other half to rest while you finish cooking. Cook until golden brown and crisp on both sides.",
+    "Drain excess oil and transfer halomi to a serving dish. Garnish with finely chopped fresh coriander for added freshness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "whole-wheat",
+    "malaysian-dish",
+    "smoky-taste",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 6,
+    "carbs": 41,
+    "fat": 9
+  },
+  "slug": "whole-wheat-halomi",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/whole-wheat-halomi",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:36:38Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "knead",
+    "primaryIngredient": "whole wheat",
+    "diet": "halal",
+    "region": null
+  }
+}

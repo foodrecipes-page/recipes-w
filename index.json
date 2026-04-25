@@ -12,6 +12,19 @@
     "shard": "w"
   },
   {
+    "slug": "whole-wheat-halomi",
+    "title": "Whole Wheat Halomi",
+    "tags": [
+      "whole-wheat",
+      "malaysian-dish",
+      "smoky-taste",
+      "vegan-friendly"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "wine-almond-bread",
     "title": "Wine Almond Bread",
     "tags": [
