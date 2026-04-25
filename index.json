@@ -13,6 +13,19 @@
     "shard": "w"
   },
   {
+    "slug": "walnut-elixir",
+    "title": "Walnut Elixir",
+    "tags": [
+      "walnut",
+      "herbal",
+      "crunchy",
+      "hangover-cure"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
     "slug": "walnut-medjool",
     "title": "Walnut Medjool",
     "tags": [

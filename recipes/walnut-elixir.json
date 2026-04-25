@@ -1,0 +1,81 @@
+{
+  "title": "Walnut Elixir",
+  "description": "A herbal and crunchy hangover-cure dish featuring walnuts, with a touch of sweetness for added comfort.",
+  "cuisine": "Russian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Walnuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Raisins",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Crushed garlic cloves",
+      "amount": "6 pieces"
+    },
+    {
+      "name": "Cardamom seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Star anise pods",
+      "amount": "2 pods"
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cinnamon sticks",
+      "amount": "1 piece"
+    }
+  ],
+  "instructions": [
+    "Toast the walnuts in a dry pan until fragrant and slightly golden.",
+    "In a skillet, sauté chopped mint leaves with some crushed garlic cloves for about 30 seconds.",
+    "Add raisins, cardamom seeds, star anise pods, coriander seeds, and cinnamon stick. Cook gently until all ingredients are warm and aromatic.",
+    "Combine toasted walnuts with the sautéed mixture, ensuring each piece is coated evenly.",
+    "Serve immediately as a refreshing, crunchy snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "walnut",
+    "herbal",
+    "crunchy",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "walnut-elixir",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/walnut-elixir",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:14:52Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "temper",
+    "primaryIngredient": "walnuts",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
