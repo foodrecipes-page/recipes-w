@@ -1,0 +1,63 @@
+{
+  "title": "Whisk Udon Bliss",
+  "description": "A sweet, crunchy indulgent French dish featuring udon noodles with a touch of sweetness from maple syrup and whole30-friendly elements.",
+  "cuisine": "French",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Maple Syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Udon Noodles",
+      "amount": "6 oz",
+      "notes": "Use whole grain or gluten-free if necessary"
+    },
+    {
+      "name": "Lime Zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Add udon noodles and cook for 3-4 minutes or until al dente. Drain and set aside.",
+    "In a blender, combine the cooked udon noodles with maple syrup, lime zest, and cayenne pepper. Blend until smooth and creamy.",
+    "Serve immediately as a sweet, crunchy indulgent dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "whisk-udoon-bliss",
+    "sweet-crunchy-indulgent-french-dish",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 4
+  },
+  "slug": "whisk-udon-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/whisk-udon-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:34:48Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "whisk",
+    "primaryIngredient": "udon noodles",
+    "diet": "whole30",
+    "region": null
+  }
+}
