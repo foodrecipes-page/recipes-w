@@ -1,0 +1,71 @@
+{
+  "title": "Whiskadelic Baguette Delight",
+  "description": "A peppery and fluffy Venezuelan dish featuring a high-protein-friendly baguette.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whisked Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Whole Wheat Baguette",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Chopped Red Peppers",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Freshly Chopped Cilantro Leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Low-Sodium Tomato Sauce or Guacamole",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Slice the baguette into thin slices and lightly toast them.",
+    "In a bowl, whisk together the eggs until frothy.",
+    "Add chopped peppers and cilantro to the egg mixture and gently fold in.",
+    "Spread a layer of tomato sauce or guacamole on one slice of toasted baguette.",
+    "Gently spoon some of the whisked egg mixture over the spread topping.",
+    "Place another slice of toasted baguette on top, sealing it all together.",
+    "Bake for 10-12 minutes until golden brown and set."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "whiskadelic",
+    "baguette_delight",
+    "peppery_fluffy"
+  ],
+  "nutrition": {
+    "calories": 369,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "whiskadelic-baguette-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/whiskadelic-baguette-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:54:40Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "whisk",
+    "primaryIngredient": "baguette",
+    "diet": "high-protein",
+    "region": null
+  }
+}

@@ -12,6 +12,18 @@
     "shard": "w"
   },
   {
+    "slug": "whiskadelic-baguette-delight",
+    "title": "Whiskadelic Baguette Delight",
+    "tags": [
+      "whiskadelic",
+      "baguette_delight",
+      "peppery_fluffy"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "white-chocolate-stinkbomb",
     "title": "White Chocolate Stinkbomb",
     "tags": [
