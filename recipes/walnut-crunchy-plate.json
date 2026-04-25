@@ -1,0 +1,80 @@
+{
+  "title": "Walnut Crunchy Plate",
+  "description": "A salty and crunchy solo-dinner Saudi Arabian dish featuring toasted walnuts and high-protein-friendly elements.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "high-protein",
+    "alcohol-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "30g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Minced onions",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Toast almonds and walnuts in a dry pan until lightly browned, about 5 minutes.",
+    "Blend minced garlic, onions, olive oil, toasted almonds, sesame seeds, salt, and pepper together until smooth. Adjust seasoning to taste.",
+    "Serve the walnut mixture as a dip or spread over bread or crackers for a crunchy, high-protein-friendly snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "walnut",
+    "saudi-arabian",
+    "crunchy",
+    "protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 12,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "walnut-crunchy-plate",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/walnut-crunchy-plate",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:10:45Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "toast",
+    "primaryIngredient": "walnuts",
+    "diet": "high-protein",
+    "region": null
+  }
+}
