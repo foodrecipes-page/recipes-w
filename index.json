@@ -12,6 +12,19 @@
     "shard": "w"
   },
   {
+    "slug": "white-chocolate-stinkbomb",
+    "title": "White Chocolate Stinkbomb",
+    "tags": [
+      "white-chocolate",
+      "stinkbomb",
+      "thai-style",
+      "whole30-friendly"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "whole-wheat-halomi",
     "title": "Whole Wheat Halomi",
     "tags": [
