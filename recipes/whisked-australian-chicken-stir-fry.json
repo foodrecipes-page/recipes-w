@@ -1,0 +1,95 @@
+{
+  "title": "Whisked Australian Chicken Stir-fry",
+  "description": "A fresh, crunchy, indulgent dish featuring chicken stock and a unique whisk ingredient for an authentic yet vegan-friendly twist.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Stock",
+      "amount": "1 cup",
+      "notes": "Use low-sodium version if available"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups",
+      "notes": "For added flavor and nutrition"
+    },
+    {
+      "name": "Rice Noodles",
+      "amount": "1 packet",
+      "notes": "Look for gluten-free options if needed"
+    },
+    {
+      "name": "Vegan Egg (Whisked)",
+      "amount": "1 cup",
+      "notes": "Replace with aquafaba or almond milk for a vegan version"
+    },
+    {
+      "name": "Vegetables (e.g., bell peppers, carrots, onions, broccoli), finely chopped",
+      "amount": "2 cups total",
+      "notes": "Choose fresh and crisp options"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced for added depth of flavor"
+    },
+    {
+      "name": "Green Onions (scallions)",
+      "amount": "1 bunch",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Olive Oil or Avocado Oil",
+      "amount": "2 tbsp",
+      "notes": "For stir-frying and finishing touches"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine chicken stock and vegetable broth. Bring to a boil over medium heat, then reduce heat to low and simmer for about 10 minutes to concentrate the flavors.",
+    "While the broth is cooking, whisk together vegan egg (or aquafaba/almond milk) in a separate bowl until it forms stiff peaks. Set aside.",
+    "Heat a wok or large skillet over medium-high heat. Add oil, followed by chopped vegetables and garlic. Stir-fry for about 3-4 minutes until the vegetables are just tender.",
+    "Add whisked vegan egg (or aquafaba/almond milk) to the pan with stirring continuously to avoid clumping. Allow the mixture to cook for another minute or so until it starts to set slightly.",
+    "Gradually add the simmering broth into the wok, while continuing to stir-fry and adjusting heat as needed. The goal is to incorporate the liquid without breaking up the egg mixture.",
+    "Combine rice noodles with the stir-fried vegetables and egg mixture in the pan. Cook for about 2-3 minutes allowing the rice noodles to absorb some of the broth’s flavor.",
+    "Remove from heat, toss with chopped green onions, adjust seasoning if needed, then serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "stir-fry",
+    "vegan-friendly",
+    "quick-cook"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 15,
+    "carbs": 38,
+    "fat": 9
+  },
+  "slug": "whisked-australian-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/whisked-australian-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:42:29Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "whisk",
+    "primaryIngredient": "chicken stock",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chicken",
+    "descriptor": "Whisked",
+    "dishForm": "Stir-fry"
+  }
+}

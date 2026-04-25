@@ -62,6 +62,19 @@
     "shard": "w"
   },
   {
+    "slug": "whisked-australian-chicken-stir-fry",
+    "title": "Whisked Australian Chicken Stir-fry",
+    "tags": [
+      "australian",
+      "stir-fry",
+      "vegan-friendly",
+      "quick-cook"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "white-chocolate-stinkbomb",
     "title": "White Chocolate Stinkbomb",
     "tags": [
