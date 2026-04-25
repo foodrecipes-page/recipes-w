@@ -1,5 +1,17 @@
 [
   {
+    "slug": "walnut-medjool",
+    "title": "Walnut Medjool",
+    "tags": [
+      "walnut-mediterranean",
+      "medjool-date-dairy-free",
+      "tunisian-vegan"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "wine-almond-bread",
     "title": "Wine Almond Bread",
     "tags": [
