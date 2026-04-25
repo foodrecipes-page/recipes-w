@@ -1,0 +1,83 @@
+{
+  "title": "Wood Ear Wonde",
+  "description": "A festive Irish dish featuring wood ear mushrooms, slow-cooked to a flaky texture and seasoned with herbs for a low-sodium option.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wood Ear Mushrooms",
+      "amount": "2 cups fresh, soaked and sliced",
+      "notes": "Ensure they are fully hydrated and ready to use."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped",
+      "notes": "Use a mild onion variety for less pungency."
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves, minced",
+      "notes": "Choose soft garlic to prevent crushing."
+    },
+    {
+      "name": "Thyme Sprigs",
+      "amount": "1 tablespoon, fresh or dried",
+      "notes": "For added depth of flavor."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons",
+      "notes": "Use mild oil for a milder taste."
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Used sparingly to keep it low-sodium."
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "1, fresh or dried",
+      "notes": "For a subtle aromatic touch."
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pot over medium heat.",
+    "Add chopped onion and minced garlic; sauté for about 5 minutes until translucent.",
+    "Fold in wood ear mushrooms and thyme sprigs. Season with salt, pepper, and bay leaves if using.",
+    "Simmer gently uncovered on low heat for about 1 hour or until the mushrooms are soft but not mushy.",
+    "Serve hot as a side dish or over rice.",
+    "Optional: Garnish with fresh herbs before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "wood ear mushrooms",
+    "slow cooked",
+    "flaky texture",
+    "low sodium"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 4
+  },
+  "slug": "wood-ear-wonde",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wood-ear-wonde",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:14:53Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "slow-cook",
+    "primaryIngredient": "wood ear mushrooms",
+    "diet": "low-sodium",
+    "region": null
+  }
+}
