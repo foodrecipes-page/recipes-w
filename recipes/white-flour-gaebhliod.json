@@ -1,0 +1,64 @@
+{
+  "title": "White Flour Gaebhliod",
+  "description": "A floral and crisp one-pot Irish dish featuring strong white flour with dum and fodmap-friendly options.",
+  "cuisine": "Irish",
+  "diet": [
+    "low_fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "Salt to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Fresh herbs (thyme, rosemary) for garnish",
+      "amount": "freshly chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, mix the flour and salt. Add butter and blend until crumbly.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper.",
+    "Bake in preheated oven for 20-25 minutes or until golden brown.",
+    "Garnish with fresh herbs before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "white_flour_gaeibhliod",
+    "floral_dish",
+    "crisp_one_pot"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 23,
+    "fat": 5
+  },
+  "slug": "white-flour-gaebhliod",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/white-flour-gaebhliod",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:37:46Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "dum",
+    "primaryIngredient": "strong white flour",
+    "diet": "fodmap",
+    "region": null
+  }
+}
