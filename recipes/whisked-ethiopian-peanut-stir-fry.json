@@ -1,0 +1,109 @@
+{
+  "title": "Whisked Ethiopian Peanut Stir-fry",
+  "description": "A fresh and dense one-pot dish featuring halal-friendly peanut oil and a whisked sauce that combines with tender vegetables and nuts for a quick, easy meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "3 tablespoons peanut oil",
+      "amount": "",
+      "notes": "Halal-certified"
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 carrot, julienned",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 bell pepper, sliced",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 cup baby corns, halved",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons tomato paste",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Pinch of red pepper flakes (optional)",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "2 cups mixed fresh vegetables (such as kale, spinach, and chard), chopped",
+      "amount": "",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the peanut oil in a large skillet over medium heat. Add the onion and garlic; cook until softened, about 5 minutes.",
+    "Stir in the carrot, bell pepper, and baby corns. Cook for an additional 2-3 minutes.",
+    "Pour in the tomato paste, salt, and red pepper flakes (if using). Stir to combine well.",
+    "Gradually pour in the water while continuously stirring until you have a thick sauce. Reduce heat to low and let it simmer for about 5 minutes or until vegetables are tender.",
+    "Stir in the mixed fresh vegetables. Cook for another 2-3 minutes, until all ingredients are heated through.",
+    "Serve hot with injera bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "whisked-ethiopian-stir-fry",
+    "halal-friendly-dish",
+    "quick-cooking",
+    "one-pot-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 14,
+    "carbs": 36,
+    "fat": 9
+  },
+  "slug": "whisked-ethiopian-peanut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/whisked-ethiopian-peanut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:19:14Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "whisk",
+    "primaryIngredient": "peanut oil",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Peanuts",
+    "descriptor": "Whisked",
+    "dishForm": "Stir-fry"
+  }
+}

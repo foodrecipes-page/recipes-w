@@ -88,6 +88,19 @@
     "shard": "w"
   },
   {
+    "slug": "whisked-ethiopian-peanut-stir-fry",
+    "title": "Whisked Ethiopian Peanut Stir-fry",
+    "tags": [
+      "whisked-ethiopian-stir-fry",
+      "halal-friendly-dish",
+      "quick-cooking",
+      "one-pot-meal"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "whisked-korean-collard-stir-fry",
     "title": "Whisked Korean Collard Stir-fry",
     "tags": [
