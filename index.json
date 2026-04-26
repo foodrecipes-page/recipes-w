@@ -88,6 +88,19 @@
     "shard": "w"
   },
   {
+    "slug": "whisked-korean-collard-stir-fry",
+    "title": "Whisked Korean Collard Stir-fry",
+    "tags": [
+      "whisked",
+      "korean",
+      "collard",
+      "stir-fry"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "whisked-slovakian-date-stir-fry",
     "title": "Whisked Slovakian Date Stir-fry",
     "tags": [

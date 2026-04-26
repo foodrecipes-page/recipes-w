@@ -1,0 +1,98 @@
+{
+  "title": "Whisked Korean Collard Stir-fry",
+  "description": "A rich and juicy meal-prep Korean dish featuring collards, whisked eggs, and a savory sauce for a nutritious and flavorful breakfast option.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 head of green collard greens",
+      "amount": "unspecified (trimmed)"
+    },
+    {
+      "name": "2 eggs",
+      "amount": "large"
+    },
+    {
+      "name": "1/4 cup soy sauce",
+      "amount": "undiluted"
+    },
+    {
+      "name": "1 tablespoon gochujang (Korean chili paste)",
+      "amount": "undiluted"
+    },
+    {
+      "name": "Pinch of sugar",
+      "amount": "unsweetened"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "undiluted"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "undiluted"
+    },
+    {
+      "name": "1/4 cup rice vinegar",
+      "amount": "undiluted"
+    },
+    {
+      "name": "1 teaspoon ginger paste or finely grated fresh ginger",
+      "amount": "undiluted"
+    },
+    {
+      "name": "1 tablespoon sesame oil",
+      "amount": "unspecified (diluted)"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat.",
+    "Add 2 tablespoons of sesame oil and swirl it around the pan. Allow the oil to shimmer but not smoke.",
+    "Once the oil is hot, add sliced green collard greens and cook until they release their moisture and start to wilt (about 3-4 minutes).",
+    "Drain excess water from the collards if necessary.",
+    "In a small bowl, whisk together soy sauce, gochujang, sugar, lemon juice, minced garlic, rice vinegar, ginger paste, sesame oil, salt, and pepper until smooth. Season to taste with more soy sauce or gochujang if desired.",
+    "Pour the whisked mixture over the collards in the pan. Toss gently so as not to break down the greens too much.",
+    "Cook for another 2-3 minutes to allow flavors to meld together and ensure the greens are well coated.",
+    "Serve hot with additional gochujang on the side for individual adjustments."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "whisked",
+    "korean",
+    "collard",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 368,
+    "protein": 11,
+    "carbs": 25,
+    "fat": 7
+  },
+  "slug": "whisked-korean-collard-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/whisked-korean-collard-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:41:53Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "whisk",
+    "primaryIngredient": "collards",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "collards",
+    "descriptor": "Whisked",
+    "dishForm": "Stir-fry"
+  }
+}
