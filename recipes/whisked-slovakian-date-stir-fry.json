@@ -1,0 +1,79 @@
+{
+  "title": "Whisked Slovakian Date Stir-fry",
+  "description": "A fresh and flaky date-night dish featuring roasted peppers and dates whisked together for a perfect savory snack or side dish.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "green bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Cut the bell peppers into thin strips and place them on a baking sheet lined with parchment paper.",
+    "Squeeze the dates into small pieces if they are large, then add them to the pepper strips. Add the garlic cloves, olive oil, salt, and black pepper to the bowl of your food processor or blender.",
+    "Blend until smooth but still chunky. Taste and adjust seasoning as needed.",
+    "Drizzle the mixture over the bell peppers in a single layer on another baking sheet lined with parchment paper. Bake for about 10 minutes, then gently fold in using tongs.",
+    "Serve warm as a side dish or on its own as a snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "slovakian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 256,
+    "protein": 7,
+    "carbs": 31,
+    "fat": 9
+  },
+  "slug": "whisked-slovakian-date-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/whisked-slovakian-date-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:16:24Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "whisk",
+    "primaryIngredient": "roasted pepper",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "date",
+    "descriptor": "Whisked",
+    "dishForm": "Stir-fry"
+  }
+}
