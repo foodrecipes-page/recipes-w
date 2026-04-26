@@ -87,6 +87,18 @@
     "shard": "w"
   },
   {
+    "slug": "whisked-sour-yogurt-pancake",
+    "title": "Whisked Sour Yogurt Pancake",
+    "tags": [
+      "whisked",
+      "sour_yogurt_pancake",
+      "hangover_cure"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 7,
+    "shard": "w"
+  },
+  {
     "slug": "white-chocolate-stinkbomb",
     "title": "White Chocolate Stinkbomb",
     "tags": [

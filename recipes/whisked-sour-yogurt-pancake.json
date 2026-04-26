@@ -1,0 +1,80 @@
+{
+  "title": "Whisked Sour Yogurt Pancake",
+  "description": "A gluten-free sour and creamy Polish dish perfect for hangovers or breakfast.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup gluten-free flour blend",
+      "amount": "",
+      "notes": "Use a high-quality, gluten-free flour that's easy to whip into a batter."
+    },
+    {
+      "name": "2 cups non-dairy milk (e.g., almond or soy)",
+      "amount": "",
+      "notes": "Ensure it is at room temperature for the best results."
+    },
+    {
+      "name": "1/4 cup Greek yogurt",
+      "amount": "",
+      "notes": "Full-fat for creaminess and sourness."
+    },
+    {
+      "name": "2 teaspoons dried chili flakes (optional, can adjust based on spice preference)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "Freshly squeezed for the best flavor."
+    },
+    {
+      "name": "A pinch of salt",
+      "amount": "",
+      "notes": "Enhances the savory notes."
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine the flour blend and non-dairy milk. Stir until smooth and no lumps remain.",
+    "Add Greek yogurt, dried chili flakes (if using), lemon juice, and salt to the batter. Mix well until fully incorporated, being careful not to overmix as it can make the pancakes tough.",
+    "If you have a whisk attachment for your mixer, use it here to aerate the mixture slightly before pouring into the pan. This step helps achieve a more tender texture in the pancake."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "whisked",
+    "sour_yogurt_pancake",
+    "hangover_cure"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 24,
+    "fat": 1
+  },
+  "slug": "whisked-sour-yogurt-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/whisked-sour-yogurt-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:54:49Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "whisk",
+    "primaryIngredient": "dried chillies",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Sour",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Whisked",
+    "dishForm": "Pancake"
+  }
+}
