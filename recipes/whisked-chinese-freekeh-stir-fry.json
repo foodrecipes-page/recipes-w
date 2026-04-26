@@ -1,0 +1,95 @@
+{
+  "title": "Whisked Chinese Freekeh Stir-fry",
+  "description": "A light and sour date-night Chinese dish featuring fresh freekeh, perfectly whisked to complement the vibrant flavors.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup uncooked freekeh",
+      "amount": "",
+      "notes": "Prepared by cooking rice in a mixture of wheat and barley, lightly toasted."
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "tbsp",
+      "notes": "Lightly sweetened to enhance the dish's flavor profile."
+    },
+    {
+      "name": "1/4 cup fresh lemon juice",
+      "amount": "cup",
+      "notes": "To add a tangy and refreshing touch."
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": "",
+      "notes": "For extra savory notes."
+    },
+    {
+      "name": "2 scallions, thinly sliced",
+      "amount": "",
+      "notes": "To garnish the finished dish with greenery."
+    },
+    {
+      "name": "3 tablespoons vegetable oil",
+      "amount": "tbsp",
+      "notes": "Used for stir-frying and enhancing the overall texture."
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro (optional)",
+      "amount": "",
+      "notes": "For a pop of color and additional freshness."
+    },
+    {
+      "name": "1 small red bell pepper, diced",
+      "amount": "",
+      "notes": "Adds vibrant color and slight sweetness to the dish."
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or large skillet over medium-high heat. Add oil for cooking.",
+    "In a separate bowl, whisk together soy sauce, lemon juice, minced garlic, and salt (if needed). Set aside.",
+    "Add sliced freekeh to the hot pan, tossing gently with the reserved whisked mixture until evenly coated. Remove from heat momentarily.",
+    "Stir in diced red bell pepper for about 2 minutes until they start to soften slightly but still retain their crunchiness.",
+    "Return to the wok or skillet and quickly mix in scallions, cilantro (if using), and any residual whisked sauce over medium-high heat. Ensure everything is well combined.",
+    "Serve hot as a light side dish or main course. Garnish with more fresh herbs if desired.",
+    "Let it rest for about 1 minute before serving to allow flavors to meld together."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "whisked",
+    "freekeh",
+    "sour",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "whisked-chinese-freekeh-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/whisked-chinese-freekeh-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:01:10Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "whisk",
+    "primaryIngredient": "freekeh",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Freekeh",
+    "descriptor": "Whisked",
+    "dishForm": "Stir-fry"
+  }
+}

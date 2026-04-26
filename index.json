@@ -75,6 +75,19 @@
     "shard": "w"
   },
   {
+    "slug": "whisked-chinese-freekeh-stir-fry",
+    "title": "Whisked Chinese Freekeh Stir-fry",
+    "tags": [
+      "whisked",
+      "freekeh",
+      "sour",
+      "light"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "whisked-slovakian-date-stir-fry",
     "title": "Whisked Slovakian Date Stir-fry",
     "tags": [
