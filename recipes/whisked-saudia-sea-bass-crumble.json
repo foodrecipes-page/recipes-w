@@ -1,0 +1,94 @@
+{
+  "title": "Whisked Saudia Sea Bass Crumble",
+  "description": "A savory and dense brunch-mood dish featuring moist sea bass fillets mixed with a flavorful crumbly mixture.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sea Bass Fillets",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Minced Onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "handful (chopped)"
+    },
+    {
+      "name": "Turkish Sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves (minced)"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground Coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "- to taste"
+    },
+    {
+      "name": "Garnish (optional)",
+      "notes": "Fresh Mint or Chopped Dill"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Season sea bass fillets with salt, pepper, and ground cumin. Drizzle olive oil over them.",
+    "In a mixing bowl, combine minced onion, fresh parsley, lemon juice, garlic, ground coriander, turkish sumac, and salt/pepper to taste. Mix well until the mixture is cohesive and crumbly.",
+    "Evenly spread the crumbly mixture on top of each sea bass fillet. Place fillets in a baking dish. Drizzle with more olive oil if needed.",
+    "Bake for 15-20 minutes or until the fish is cooked through, the topping is golden brown and crispy, and you can smell the fragrant spices.",
+    "Serve hot, garnished with fresh mint or dill for extra freshness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sausage-crumb",
+    "saudi-arabian-dish",
+    "whisked-fish-crumble"
+  ],
+  "nutrition": {
+    "calories": 517,
+    "protein": 30,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "whisked-saudia-sea-bass-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/whisked-saudia-sea-bass-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:23:24Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "whisk",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Sea Bass",
+    "descriptor": "Whisked",
+    "dishForm": "Crumble"
+  }
+}
