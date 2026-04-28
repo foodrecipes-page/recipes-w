@@ -101,6 +101,20 @@
     "shard": "w"
   },
   {
+    "slug": "whisked-greek-feta-crumble",
+    "title": "Whisked Greek Feta Crumble",
+    "tags": [
+      "greek",
+      "feta",
+      "yogurt",
+      "herbs",
+      "light"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "whisked-korean-collard-stir-fry",
     "title": "Whisked Korean Collard Stir-fry",
     "tags": [

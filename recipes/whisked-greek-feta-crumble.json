@@ -1,0 +1,71 @@
+{
+  "title": "Whisked Greek Feta Crumble",
+  "description": "A savory, light brunch dish featuring a gluten-free-friendly crumble of feta cheese mixed with Greek yogurt and herbs.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Crumbled feta cheese",
+      "amount": "6 oz gluten-free",
+      "notes": "Use a high-quality, light and crumbly feta to avoid excess moisture."
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "1 medium",
+      "notes": "Mince finely for extra flavor but optional if milder taste is desired."
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine Greek yogurt and fresh oregano. Stir well until combined.",
+    "Fold in the crumbled feta cheese using a spatula or wooden spoon to incorporate gently without breaking up too much of it.",
+    "Add minced garlic if desired, mix thoroughly to distribute evenly throughout the mixture.",
+    "Transfer the crumble into a serving dish and refrigerate for at least 30 minutes before serving to allow flavors to meld together."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "feta",
+    "yogurt",
+    "herbs",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 3,
+    "fat": 2
+  },
+  "slug": "whisked-greek-feta-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/whisked-greek-feta-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:40:27Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "whisk",
+    "primaryIngredient": "feta",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "feta",
+    "descriptor": "Whisked",
+    "dishForm": "Crumble"
+  }
+}
