@@ -128,6 +128,19 @@
     "shard": "w"
   },
   {
+    "slug": "whisked-kinyarwanda-vanilla-stir-fry",
+    "title": "Whisked Kinyarwanda Vanilla Stir-fry",
+    "tags": [
+      "whisked-fry",
+      "kenyan-dish",
+      "raw-friendly",
+      "weeknight-meal"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "whisked-korean-collard-stir-fry",
     "title": "Whisked Korean Collard Stir-fry",
     "tags": [

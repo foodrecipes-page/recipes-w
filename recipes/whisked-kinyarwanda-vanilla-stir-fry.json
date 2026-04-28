@@ -1,0 +1,88 @@
+{
+  "title": "Whisked Kinyarwanda Vanilla Stir-fry",
+  "description": "A fresh and crispy weeknight dish from Kenya featuring vanilla sugar, whisked to perfection.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "100g"
+    },
+    {
+      "name": "Green onions",
+      "amount": "2"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vanilla sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fish sauce (Nam Ngao)",
+      "amount": "1/4 tablespoon"
+    },
+    {
+      "name": "White pepper powder",
+      "amount": "1/8 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the chicken by cutting it into small pieces and seasoning with salt.",
+    "In a bowl, whisk together vanilla sugar, soy sauce, fish sauce, white pepper, and some water until smooth. Season with salt.",
+    "Heat oil in a pan over medium heat. Add garlic and green onions for about 1 minute or until fragrant.",
+    "Add the chicken pieces to the pan and cook for 3-4 minutes on each side, until golden brown.",
+    "Stir in the whisked mixture, tomato, and let it simmer for another 2-3 minutes.",
+    "Serve hot with steamed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "whisked-fry",
+    "kenyan-dish",
+    "raw-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 31,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "whisked-kinyarwanda-vanilla-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/whisked-kinyarwanda-vanilla-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:52:53Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "whisk",
+    "primaryIngredient": "vanilla sugar",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "vanilla",
+    "descriptor": "Whisked",
+    "dishForm": "Stir-fry"
+  }
+}
