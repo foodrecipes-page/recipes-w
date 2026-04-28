@@ -1,0 +1,86 @@
+{
+  "title": "Warm Herbal Dairy-Free Miso Stir-fry",
+  "description": "A light and healthy dish featuring herbal elements in a creamy yet dairy-free miso sauce, perfect for adding to your dinner menu.",
+  "cuisine": "slovakian-inspired",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bell peppers, sliced",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add miso paste and soy sauce to the hot pan, stirring continuously until it forms a thick sauce.",
+    "Stir in cumin seeds, ginger powder, and black pepper. Cook for another minute.",
+    "Gently stir in sliced bell peppers. Cook for about 5 minutes or until peppers are tender but still slightly crisp.",
+    "Sprinkle sesame seeds on top of the dish before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "warm",
+    "herbal",
+    "miso",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "warm-herbal-dairy-free-miso-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-herbal-dairy-free-miso-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:48:47Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "cure",
+    "primaryIngredient": "melted butter",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Herbal",
+    "mainIngredient": "Dairy-Free Miso",
+    "descriptor": "Warm",
+    "dishForm": "Stir-fry"
+  }
+}
