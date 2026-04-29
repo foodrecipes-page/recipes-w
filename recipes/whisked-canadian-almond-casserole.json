@@ -1,0 +1,87 @@
+{
+  "title": "Whisked Canadian Almond Casserole",
+  "description": "A rich and fluffy brunch dish featuring almonds, ideal for those following a high-protein diet.",
+  "cuisine": "Canadian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond Butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup low-fat",
+      "notes": "For high-protein content"
+    },
+    {
+      "name": "Strawberries",
+      "amount": "8 oz fresh or 4 oz frozen and thawed, sliced"
+    },
+    {
+      "name": "Hummus",
+      "amount": "2 tbsp",
+      "notes": "Use light hummus for a lower calorie option"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup roasted, finely chopped"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3-4 tsp",
+      "notes": "For flavor and texture"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together almond butter, Greek yogurt, vanilla extract, and olive oil.",
+    "Add sliced strawberries, chopped pistachios, and granulated sugar. Stir until well combined.",
+    "Transfer the mixture to an oven-safe dish and bake at 350°F for 15-20 minutes or until golden brown on top.",
+    "Serve warm as a dessert or snack with a side of honey if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "whisked-canadian-almond-casserole",
+    "high-protein-friendly",
+    "fluffy-brunch-dish",
+    "rich-Canadian-dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "whisked-canadian-almond-casserole",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/whisked-canadian-almond-casserole",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:17:49Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "whisk",
+    "primaryIngredient": "almonds",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Almonds",
+    "descriptor": "Whisked",
+    "dishForm": "Casserole"
+  }
+}
