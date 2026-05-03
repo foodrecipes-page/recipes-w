@@ -153,6 +153,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-jammy-french-semolina-eclair",
+    "title": "Warm Jammy French Semolina Eclair",
+    "tags": [
+      "bain-marie",
+      "basque-french",
+      "dessert",
+      "jammy",
+      "satvik",
+      "semolina",
+      "warm"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
     "slug": "warm-syrian-flour-flatbread",
     "title": "Warm Syrian Flour Flatbread",
     "tags": [

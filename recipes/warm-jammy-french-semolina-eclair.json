@@ -1,0 +1,102 @@
+{
+  "title": "Warm Jammy French Semolina Eclair",
+  "description": "A crowd-pleasing Basque‑French dessert featuring dense semolina eclairs filled with warm apricot jam, served freshly baked and dusted with powdered sugar.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "100g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "50g"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "50g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "almond milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "200g"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190C.",
+    "In a large saucepan combine semolina, flour, sugar and lemon juice, then add boiling plant milk and oil, whisk until smooth.",
+    "Cook mixture over low heat, stirring constantly until thick and glossy, about 5 minutes.",
+    "Remove from heat and stir in vanilla extract.",
+    "Transfer batter to a piping bag fitted with a round tip.",
+    "Pipe 4‑inch long tubes onto parchment‑lined baking sheet.",
+    "Bake for 20 minutes until golden and puffed.",
+    "While eclairs cool warm jam in a bain‑marie until runny.",
+    "Fill cooled eclairs with jam by inserting the tip of the piping bag into the base and pushing jam inside.",
+    "Dust eclairs with powdered sugar and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "basque-french",
+    "dessert",
+    "jammy",
+    "satvik",
+    "semolina",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 3,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "warm-jammy-french-semolina-eclair",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-jammy-french-semolina-eclair",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:35:49Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "bain-marie",
+    "primaryIngredient": "semolina",
+    "diet": "satvik",
+    "region": "basque-french",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Semolina",
+    "descriptor": "Warm Jammy",
+    "dishForm": "Eclair"
+  }
+}
