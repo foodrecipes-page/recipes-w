@@ -254,6 +254,21 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-mexican-corn-bowl",
+    "title": "Wholesome Mexican Corn Bowl",
+    "tags": [
+      "corn",
+      "mexican",
+      "one-pot",
+      "quick",
+      "smoky",
+      "vegan"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "wine-almond-bread",
     "title": "Wine Almond Bread",
     "tags": [
