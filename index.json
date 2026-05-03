@@ -214,6 +214,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spicy-saudi-arabian-chicken-tagine",
+    "title": "Warm Spicy Saudi Arabian Chicken Tagine",
+    "tags": [
+      "gluten-free",
+      "low-calorie",
+      "middle-eastern",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-syrian-flour-flatbread",
     "title": "Warm Syrian Flour Flatbread",
     "tags": [
@@ -678,6 +692,19 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "wonderfully-wholesome-indian-potatoes-bhaji-pav",
+    "title": "Wonderfully Wholesome Indian Potatoes Bhaji Pav",
+    "tags": [
+      "gluten-free",
+      "high-fiber",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {
