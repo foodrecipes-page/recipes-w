@@ -168,6 +168,22 @@
     "shard": "w"
   },
   {
+    "slug": "warmly-spiced-malaysian-chicken-curry",
+    "title": "Warmly Spiced Malaysian Chicken Curry",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "gluten-free",
+      "malaysian-cuisine",
+      "one-pot",
+      "pressure-cooker",
+      "spicy"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warmly-spiced-moroccan-dates-tagine",
     "title": "Warmly Spiced Moroccan Dates Tagine",
     "tags": [
@@ -400,6 +416,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-russian-chickpeas-salad",
+    "title": "Wholesome Russian Chickpeas Salad",
+    "tags": [
+      "floral",
+      "paleo-friendly",
+      "quick",
+      "salad"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {

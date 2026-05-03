@@ -1,0 +1,98 @@
+{
+  "title": "Wholesome Russian Chickpeas Salad",
+  "description": "A floral, juicy, romantic salad that fuses creamy hummus with blanched namul and chickpeas, perfect for a light lunch.",
+  "cuisine": "Russian",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "400g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "hummus",
+      "amount": "120g",
+      "notes": "smooth"
+    },
+    {
+      "name": "blanched namul (bok choy and spinach)",
+      "amount": "150g",
+      "notes": "blanched for 3 min, cooled"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Rinse the chickpeas and set aside.",
+    "In a bowl, mix hummus, lemon juice, olive oil, salt, and pepper to create the dressing.",
+    "Combine the chickpeas, blanched namul, diced cucumber, and chopped dill in a large salad bowl.",
+    "Pour the dressing over the salad and toss gently to coat.",
+    "Serve immediately or chill for 30 minutes to allow flavors to meld."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "paleo-friendly",
+    "quick",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "wholesome-russian-chickpeas-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-russian-chickpeas-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:22:32Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "hummus",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Wholesome",
+    "dishForm": "Salad"
+  }
+}
