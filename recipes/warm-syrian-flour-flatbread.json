@@ -1,0 +1,77 @@
+{
+  "title": "Warm Syrian Flour Flatbread",
+  "description": "A fatty, crispy flatbread made quick with extra virgin olive oil and no sugar, perfect for a warm snack.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "300g"
+    },
+    {
+      "name": "salt",
+      "amount": "6g",
+      "notes": "about 1 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "3g",
+      "notes": "about 1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "150ml"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "100ml"
+    }
+  ],
+  "instructions": [
+    "In a bowl whisk together flour, salt, and yeast until evenly distributed.",
+    "Create a well in the center and pour in water and olive oil; mix until a shaggy dough forms.",
+    "Knead the dough on a floured surface for about 5 minutes until smooth and elastic.",
+    "Place the dough in an oiled bowl, cover with a cloth, and let rise for 45 minutes.",
+    "Punch down the dough, divide it into six equal portions, and roll each into a 10cm flat circle.",
+    "Heat a dry skillet over medium-high heat, cook each flatbread 2-3 minutes per side until golden and crisp."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "fatty",
+    "flatbread",
+    "olive-oil",
+    "quick-fix",
+    "sugar-free-friendly",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 330,
+    "protein": 6,
+    "carbs": 38,
+    "fat": 16
+  },
+  "slug": "warm-syrian-flour-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-syrian-flour-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:21:34Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "extra virgin olive oil",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "flour",
+    "descriptor": "Warm",
+    "dishForm": "Flatbread"
+  }
+}
