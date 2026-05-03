@@ -1,0 +1,94 @@
+{
+  "title": "Warm Buttery Moroccan Chicken Tagine",
+  "description": "A rich and flavorful Moroccan dish featuring chicken cooked in a buttery and velvety sauce, perfect for a crowd, this recipe is kosher-friendly and incorporates shoyu-koji for added depth of flavor, resulting in an al-dente finish.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "shoyu-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine or a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the chicken thighs and cook until they are browned on all sides, about 5-7 minutes.",
+    "Add the shoyu-koji, dried apricots, chicken broth, and unsalted butter to the pot, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, until the chicken is cooked through and the sauce has thickened, about 25-30 minutes.",
+    "Season the tagine to taste with salt and pepper.",
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "comfort-food",
+    "kosher-friendly",
+    "moroccan",
+    "one-pot",
+    "shoyu-koji"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-buttery-moroccan-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-buttery-moroccan-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:29:19Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Buttery",
+    "dishForm": "Tagine"
+  }
+}
