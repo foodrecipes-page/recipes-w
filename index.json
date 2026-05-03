@@ -183,6 +183,21 @@
     "shard": "w"
   },
   {
+    "slug": "warmly-spiced-irish-ground-pork-dumplings",
+    "title": "Warmly Spiced Irish Ground Pork Dumplings",
+    "tags": [
+      "comfort-food",
+      "ground-pork",
+      "homemade",
+      "irish-cuisine",
+      "lacquer-glaze",
+      "pescatarian"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warmly-spiced-malaysian-chicken-curry",
     "title": "Warmly Spiced Malaysian Chicken Curry",
     "tags": [
@@ -444,6 +459,21 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-russian-dates-cake",
+    "title": "Wholesome Russian Dates Cake",
+    "tags": [
+      "date-cake",
+      "dessert",
+      "easy",
+      "energy-boost",
+      "fluffy",
+      "ovo-vegetarian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {
