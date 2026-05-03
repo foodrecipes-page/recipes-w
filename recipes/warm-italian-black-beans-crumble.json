@@ -1,0 +1,101 @@
+{
+  "title": "Warm Italian Black Beans Crumble",
+  "description": "A comforting, high-protein Italian dish that blends black beans with roasted vegetables and a cheesy breadcrumb crumble, served warm and satisfying.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked black beans",
+      "amount": "2 cups"
+    },
+    {
+      "name": "roasted bell pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "roasted zucchini",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "parmesan cheese, grated",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh basil, chopped",
+      "amount": "2 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Toss chopped bell pepper and zucchini with 1 tbsp olive oil, oregano, garlic powder, salt, pepper; spread on a baking sheet and roast for 20 minutes until tender and slightly caramelized.",
+    "In a small bowl, combine the remaining 1 tbsp olive oil, breadcrumbs, and Parmesan; mix until crumbs are well coated.",
+    "In a large bowl, mix cooked black beans with roasted vegetables; season with a pinch more salt and pepper if needed.",
+    "Spread bean and veggie mixture in a baking dish; top evenly with the breadcrumb-parmesan crumble.",
+    "Bake for 15 minutes or until the crumble is golden and the dish is heated through.",
+    "Remove from oven, sprinkle fresh basil, serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "oven-baked",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1085,
+    "protein": 49,
+    "carbs": 101,
+    "fat": 43
+  },
+  "slug": "warm-italian-black-beans-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-italian-black-beans-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:38:11Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "black beans",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "black beans",
+    "descriptor": "Warm",
+    "dishForm": "Crumble"
+  }
+}
