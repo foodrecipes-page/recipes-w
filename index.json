@@ -432,6 +432,21 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-smoky-turkish-hummus-flatbread",
+    "title": "Wholesome Smoky Turkish Hummus Flatbread",
+    "tags": [
+      "brunch",
+      "flatbread",
+      "hummus",
+      "smoky",
+      "turkish",
+      "vegetarian"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-spanish-cod-ceviche",
     "title": "Wholesome Spanish Cod Ceviche",
     "tags": [

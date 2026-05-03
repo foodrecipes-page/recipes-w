@@ -1,0 +1,100 @@
+{
+  "title": "Wholesome Smoky Turkish Hummus Flatbread",
+  "description": "A smoky, fluffy flatbread topped with creamy hummus, pine nuts, and fresh herbs, perfect for a quick lunch with a nostalgic Turkish twist.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "warm water",
+      "amount": "120ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml",
+      "notes": "for dough and drizzle"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1tsp"
+    },
+    {
+      "name": "hummus",
+      "amount": "200g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1tsp"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "20g"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a bowl mix flour, yeast, smoked paprika and salt.",
+    "Add warm water and olive oil, stirring until a sticky dough forms.",
+    "Knead the dough on a floured surface for 5 minutes until smooth.",
+    "Place the dough in an oiled bowl, cover, and let rise for 15 minutes until doubled.",
+    "Preheat the oven to 220°C and line a baking sheet with parchment paper.",
+    "Divide the dough into 4 equal portions, roll each into a circle about 0.5cm thick.",
+    "Place the circles on the baking sheet and bake for 10 minutes until lightly golden.",
+    "Spread a generous layer of hummus over each flatbread while still warm.",
+    "Sprinkle lemon zest, pine nuts, and chopped parsley over the hummus.",
+    "Drizzle a few drops of olive oil and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "flatbread",
+    "hummus",
+    "smoky",
+    "turkish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 410,
+    "protein": 7,
+    "carbs": 20,
+    "fat": 11
+  },
+  "slug": "wholesome-smoky-turkish-hummus-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-smoky-turkish-hummus-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:24:52Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "infuse-oil",
+    "primaryIngredient": "hummus",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "hummus",
+    "descriptor": "Wholesome Smoky",
+    "dishForm": "Flatbread"
+  }
+}
