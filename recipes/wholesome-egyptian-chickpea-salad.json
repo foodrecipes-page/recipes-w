@@ -1,0 +1,115 @@
+{
+  "title": "Wholesome Egyptian Chickpea Salad",
+  "description": "A vibrant, plant-based chickpea salad with warm turmeric, crisp cucumber, and a light lemon-yogurt dressing, perfect for a light lunch or snack.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "400g",
+      "notes": "drained"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "0.25 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.125 tsp"
+    },
+    {
+      "name": "soy yogurt",
+      "amount": "3 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse and drain the canned chickpeas, setting them aside.",
+    "Place the chickpeas in a preheated broiler at 450F, broiling for 5 minutes until golden and slightly crispy.",
+    "Slice cucumber, dice tomato, thinly slice the red onion, and chop parsley.",
+    "In a large bowl, combine the broiled chickpeas, cucumber, tomato, onion, and parsley.",
+    "Whisk together lemon juice, olive oil, turmeric powder, garlic, salt, pepper, and soy yogurt to create the dressing.",
+    "Pour the dressing over the salad and toss gently until everything is well coated.",
+    "Taste and adjust seasoning if needed, adding more salt or pepper.",
+    "Chill the salad in the refrigerator for at least 15 minutes to let flavors meld.",
+    "Serve chilled or at room temperature, perhaps with a side of warm pita or flatbread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "broil",
+    "egyptian",
+    "plant-based",
+    "quick",
+    "salad",
+    "turmeric"
+  ],
+  "nutrition": {
+    "calories": 145,
+    "protein": 4,
+    "carbs": 15,
+    "fat": 8
+  },
+  "slug": "wholesome-egyptian-chickpea-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-egyptian-chickpea-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:49:07Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "broil",
+    "primaryIngredient": "turmeric powder",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Wholesome",
+    "dishForm": "Salad"
+  }
+}
