@@ -1,0 +1,104 @@
+{
+  "title": "Warm Indian Lamb Pasta",
+  "description": "A peppery, velvety weeknight dish with halal lamb, linguine, and a creamy Indian spice blend.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Linguine",
+      "amount": "200 g"
+    },
+    {
+      "name": "Halal ground lamb",
+      "amount": "250 g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp, grated"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "0.25 cup, chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat until shimmering.",
+    "Add diced onion and cook until translucent, about 3 minutes.",
+    "Stir in minced garlic and grated ginger, cooking for 30 seconds until fragrant.",
+    "Add halal ground lamb, breaking it apart, and cook until browned and no longer pink, about 8 minutes, ensuring internal temp reaches 63°C.",
+    "Mix in tomato paste, garam masala, turmeric, and cumin; cook for 2 minutes, stirring constantly.",
+    "Pour in heavy cream, reduce heat to low, and simmer for 5 minutes until sauce thickens slightly.",
+    "Meanwhile, cook linguine in salted boiling water according to package, then drain.",
+    "Toss cooked linguine with the lamb sauce, garnish with chopped cilantro, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal",
+    "indian",
+    "one-pan",
+    "pasta",
+    "quick-meal",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 563,
+    "protein": 18,
+    "carbs": 28,
+    "fat": 27
+  },
+  "slug": "warm-indian-lamb-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-indian-lamb-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:59:58Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "roast",
+    "primaryIngredient": "linguine pasta",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Warm",
+    "dishForm": "Pasta"
+  }
+}

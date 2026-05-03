@@ -67,6 +67,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-indian-lamb-pasta",
+    "title": "Warm Indian Lamb Pasta",
+    "tags": [
+      "halal",
+      "indian",
+      "one-pan",
+      "pasta",
+      "quick-meal",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "warm-irish-summer-savoury-crumble",
     "title": "Warm Irish Summer Savoury Crumble",
     "tags": [
