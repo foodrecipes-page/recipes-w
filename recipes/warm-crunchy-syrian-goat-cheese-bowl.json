@@ -1,0 +1,110 @@
+{
+  "title": "Warm Crunchy Syrian Goat Cheese Bowl",
+  "description": "A hearty, earthy bowl of goat cheese, toasted nuts, roasted chickpeas, and sautéed spinach, finished with a sumac and honey drizzle.",
+  "cuisine": "Syrian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "goat cheese",
+      "amount": "200 g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "dry chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "toasted nuts",
+      "amount": "1 cup",
+      "notes": "almonds, pistachios, walnuts"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C and spread the dry chickpeas on a baking sheet.",
+    "Roast the chickpeas for 15 minutes, turning once, until golden and crunchy.",
+    "Heat the olive oil in a skillet over medium heat and sauté the spinach until wilted, about 3 minutes.",
+    "In a mixing bowl, combine the crumbled goat cheese, sumac, smoked paprika, salt, pepper, lemon juice, and honey.",
+    "Add the roasted chickpeas and sautéed spinach to the cheese mixture and stir until well coated.",
+    "Transfer the mixture to a serving bowl and drizzle with extra olive oil.",
+    "Sprinkle the toasted nuts and chopped mint over the top for added crunch and freshness.",
+    "Serve the bowl warm for a comforting, indulgent meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "goat-cheese",
+    "indulgent",
+    "one-bowl",
+    "syrian",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 2000,
+    "protein": 62,
+    "carbs": 80,
+    "fat": 123
+  },
+  "slug": "warm-crunchy-syrian-goat-cheese-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crunchy-syrian-goat-cheese-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:09:39Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "whisk",
+    "primaryIngredient": "goats cheese",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Goat Cheese",
+    "descriptor": "Warm Crunchy",
+    "dishForm": "Bowl"
+  }
+}
