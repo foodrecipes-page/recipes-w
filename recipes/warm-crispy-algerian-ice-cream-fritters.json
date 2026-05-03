@@ -1,0 +1,99 @@
+{
+  "title": "Algerian Ice Cream Fritters",
+  "description": "Crispy fried balls filled with ice cream, a nostalgic Algerian dessert, combining bitter and sweet flavors in a unique treat, made with halal-friendly ingredients.",
+  "cuisine": "Algerian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ice cream",
+      "amount": "1 quart"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bitter almond extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, cornstarch, and salt.",
+    "Gradually add the sugar, eggs, vanilla extract, and bitter almond extract to the bowl and mix until a smooth dough forms.",
+    "Knead the dough for 5 minutes until it becomes pliable and smooth.",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into small balls, about 1 inch in diameter.",
+    "Flatten each ball into a thin circle, about 1/8 inch thick.",
+    "Place a small scoop of ice cream in the center of each circle.",
+    "Fold the dough over the ice cream to form a ball and press the edges together to seal.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees.",
+    "Carefully place the fritters in the hot oil and fry until golden brown, about 2-3 minutes on each side.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters warm and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-desserts",
+    "crispy-fritters",
+    "deep-fried",
+    "halal-friendly",
+    "ice-cream-based",
+    "unique-treats"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "warm-crispy-algerian-ice-cream-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-algerian-ice-cream-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:37:25Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "ice cream",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "ice cream",
+    "descriptor": "Warm crispy",
+    "dishForm": "Fritters"
+  }
+}
