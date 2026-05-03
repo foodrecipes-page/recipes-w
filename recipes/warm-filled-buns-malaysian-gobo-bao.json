@@ -1,0 +1,109 @@
+{
+  "title": "malaysian gobo bao",
+  "description": "a malaysian-inspired dish featuring gobo, served in a warm, yeasty bun.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "sattvic",
+    "ayurvedic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "gobo",
+      "amount": "2 medium"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "500g"
+    },
+    {
+      "name": "yeast",
+      "amount": "10g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "300ml"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "50g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine the flour, yeast, and salt.",
+    "add the water and mix until a shaggy dough forms.",
+    "knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "preheat a kazan or a large saucepan with a lid over medium heat.",
+    "add the coconut oil, onion, ginger, and garlic to the kazan and sauté until the onion is translucent.",
+    "add the gobo to the kazan and stir-fry for 5 minutes.",
+    "add the soy sauce and sesame oil to the kazan and stir-fry for 1 minute.",
+    "punch down the dough and divide it into 4-6 equal pieces.",
+    "shape each piece into a ball and then flatten it slightly into a disk shape.",
+    "place a disk of dough in the kazan and add a spoonful of the gobo filling to the center of the dough.",
+    "fold the dough over the filling to form a bun and press the edges together to seal the bun.",
+    "cook the buns for 5-7 minutes on each side, or until they are golden brown and cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "malaysian",
+    "one-pan",
+    "sattvic",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "warm-filled-buns-malaysian-gobo-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-filled-buns-malaysian-gobo-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:48:13Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "toast",
+    "primaryIngredient": "gobo-burdock",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "gobo",
+    "descriptor": "Warm Filled Buns",
+    "dishForm": "Bao"
+  }
+}
