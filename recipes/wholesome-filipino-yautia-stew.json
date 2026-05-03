@@ -1,0 +1,106 @@
+{
+  "title": "Wholesome Filipino Yautia Stew",
+  "description": "A resinous, creamy stew that blends Filipino flavors with a shio-koji cure, using yautia root and hearty protein sources, perfect for a quick weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yautia root",
+      "amount": "400 g",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "200 g",
+      "notes": "sliced thin and marinated in shio‑koji for 15 min"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "100 ml"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "julienned"
+    },
+    {
+      "name": "shio‑koji",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Marinate sliced chicken breast in 1 tablespoon of shio‑koji for 15 minutes.",
+    "Heat 2 teaspoons of vegetable oil in a kadhai over medium heat and sauté minced garlic, julienned ginger, and chopped onion until fragrant.",
+    "Add the marinated chicken to the kadhai and cook until it turns opaque, about 5 minutes.",
+    "Stir in the cubed yautia root and cook for an additional 2 minutes, allowing the flavors to mingle.",
+    "Pour in the coconut milk and coconut cream, then add soy sauce, salt, and black pepper; bring to a gentle simmer.",
+    "Reduce the heat to low, cover the kadhai, and let the stew cook for 15 minutes, or until the yautia is tender and the sauce has thickened.",
+    "Taste and adjust seasoning if needed, then remove from heat.",
+    "Serve the stew hot, optionally garnished with fresh cilantro or sliced scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "high-protein",
+    "one-pan",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1360,
+    "protein": 49,
+    "carbs": 72,
+    "fat": 95
+  },
+  "slug": "wholesome-filipino-yautia-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-filipino-yautia-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:46:24Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "yautia",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Yautia",
+    "descriptor": "Wholesome",
+    "dishForm": "Stew"
+  }
+}

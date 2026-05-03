@@ -214,6 +214,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-wilted-thai-chicken-larb",
+    "title": "Warm Wilted Thai Chicken Larb",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "warmly-spiced-irish-ground-pork-dumplings",
     "title": "Warmly Spiced Irish Ground Pork Dumplings",
     "tags": [
@@ -462,6 +476,20 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 80,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-filipino-yautia-stew",
+    "title": "Wholesome Filipino Yautia Stew",
+    "tags": [
+      "creamy",
+      "high-protein",
+      "one-pan",
+      "savory",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {

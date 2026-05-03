@@ -1,0 +1,121 @@
+{
+  "title": "Warm Wilted Thai Chicken Larb",
+  "description": "A flavorful, briny Thai dish made with salted butter, dehydrated lemongrass, and anti-inflammatory herbs. Perfect for a post-workout meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "salted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "dehydrated"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 piece",
+      "notes": "fresh or dehydrated"
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a pan over medium heat.",
+    "Add diced Thai chilies and cook for 1 minute.",
+    "Add dehydrated lemongrass and galangal and cook for 2 minutes.",
+    "Add chicken breast and cook until browned, about 5 minutes.",
+    "Add lemon juice, fish sauce, and soy sauce and stir to combine.",
+    "Reduce heat to low and simmer for 2-3 minutes.",
+    "Add chopped cilantro and basil and stir to combine.",
+    "Stir in salted butter and cook until melted.",
+    "Season with black pepper to taste.",
+    "Serve warm over a bed of greens or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "warm-wilted-thai-chicken-larb",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wilted-thai-chicken-larb",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:46:05Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "dehydrate",
+    "primaryIngredient": "salted butter",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "warm wilted",
+    "dishForm": "Larb"
+  }
+}
