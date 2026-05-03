@@ -25,7 +25,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "In a large bowl, mix the flour and salt. Add butter and blend until crumbly.",
     "Transfer the mixture onto a baking sheet lined with parchment paper.",
     "Bake in preheated oven for 20-25 minutes or until golden brown.",
@@ -37,9 +37,9 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "white_flour_gaeibhliod",
-    "floral_dish",
-    "crisp_one_pot"
+    "white-flour-gaeibhliod",
+    "floral-dish",
+    "crisp-one-pot"
   ],
   "nutrition": {
     "calories": 180,

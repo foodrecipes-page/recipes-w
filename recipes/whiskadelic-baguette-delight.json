@@ -29,7 +29,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C).",
+    "Preheat your oven to 350\u00b0F (175\u00b0C).",
     "Slice the baguette into thin slices and lightly toast them.",
     "In a bowl, whisk together the eggs until frothy.",
     "Add chopped peppers and cilantro to the egg mixture and gently fold in.",
@@ -45,8 +45,8 @@
   "difficulty": "easy",
   "tags": [
     "whiskadelic",
-    "baguette_delight",
-    "peppery_fluffy"
+    "baguette-delight",
+    "peppery-fluffy"
   ],
   "nutrition": {
     "calories": 369,
