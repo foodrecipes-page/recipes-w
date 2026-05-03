@@ -1,0 +1,119 @@
+{
+  "title": "Warm Wholesome Syrian Fish Bake",
+  "description": "A comforting and nutritious Syrian-inspired fish bake, perfect for post-workout recovery.",
+  "cuisine": "Syrian",
+  "diet": [
+    "Whole30",
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh cod fillets",
+      "amount": "4",
+      "notes": "sustainably sourced"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "white and green parts separated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "cold-pressed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "full-fat, unflavored"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "curly-leaf"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "unrefined"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "Ceylon"
+    },
+    {
+      "name": "ground allspice",
+      "amount": "1/4 tsp",
+      "notes": "whole spices, freshly grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a 9x13-inch baking dish with parchment paper.",
+    "In a large bowl, whisk together fish stock, olive oil, garlic, lemon juice, salt, black pepper, cinnamon, and allspice.",
+    "Add the cauliflower to the bowl and toss to coat with the fish stock mixture.",
+    "Arrange the cod fillets in a single layer on the prepared baking dish.",
+    "Top each cod fillet with a spoonful of the cauliflower mixture and a dollop of Greek yogurt.",
+    "Cover the dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-12 minutes, or until the fish is cooked through and the cauliflower is tender.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "post-workout",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 42,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "warm-wholesome-syrian-fish-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wholesome-syrian-fish-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:17:29Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "bake",
+    "primaryIngredient": "fish stock",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Fish",
+    "descriptor": "Warm Wholesome",
+    "dishForm": "Bake"
+  }
+}

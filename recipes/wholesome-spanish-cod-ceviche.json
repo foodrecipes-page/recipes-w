@@ -1,0 +1,100 @@
+{
+  "title": "Wholesome Spanish Cod Ceviche",
+  "description": "A briny, silky ceviche that marries fresh cod with a subtle rum glaze, cured in salt and lemon, for a low-fat indulgence. The dish is served chilled and pairs wonderfully with whole-grain bread or fresh corn tortillas.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh cod fillet",
+      "amount": "200g",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "15ml"
+    },
+    {
+      "name": "White rum",
+      "amount": "15ml"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Red onion",
+      "amount": "50g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "15g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Dice cod into 1 cm cubes and place in a non-metal bowl.",
+    "Whisk lime juice, lemon juice, white wine vinegar, rum, and sea salt until salt dissolves.",
+    "Pour the citrus mixture over the cod and stir gently to coat all pieces.",
+    "Add black pepper, red onion, cilantro, and olive oil, mixing to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for 30 minutes to cure the fish.",
+    "After 30 minutes, check that the cod has a firm texture and a slightly opaque surface, indicating proper curing.",
+    "Transfer the ceviche to a chilled serving dish and garnish with a few extra cilantro leaves.",
+    "Serve immediately with thin corn tortillas or crusty whole-grain bread."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 30,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "healthy",
+    "low-fat",
+    "quick",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 312,
+    "protein": 31,
+    "carbs": 8,
+    "fat": 5
+  },
+  "slug": "wholesome-spanish-cod-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-spanish-cod-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:18:18Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "cure",
+    "primaryIngredient": "rum",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Cod",
+    "descriptor": "Wholesome",
+    "dishForm": "Ceviche"
+  }
+}

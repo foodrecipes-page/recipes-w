@@ -1,0 +1,107 @@
+{
+  "title": "Warm Charred Egyptian Oats Pilaf",
+  "description": "A comforting, charred oat pilaf inspired by Egyptian flavors, enriched with chickpeas and tahini for a creamy finish.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "200 g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "carrot, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "chickpeas, cooked",
+      "amount": "150 g"
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium‑high heat with 1 tablespoon olive oil until shimmering.",
+    "Add the diced onion and minced garlic, sauté until fragrant and lightly charred, about 3‑4 minutes.",
+    "Stir in the diced carrot and continue to cook until slightly softened, about 2 minutes.",
+    "Add the rolled oats, chickpeas, and sauté for another 2 minutes, allowing the oats to toast and develop a subtle char.",
+    "Pour in the vegetable broth and bring the mixture to a gentle simmer.",
+    "Reduce heat to low, cover, and simmer until the oats are tender and the liquid is absorbed, about 15 minutes.",
+    "Stir in the tahini, lemon juice, salt, and pepper, mixing until creamy and well combined.",
+    "Remove from heat, garnish with chopped parsley, and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "charred",
+    "comfort-food",
+    "one-pot",
+    "vegetarian",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 9,
+    "carbs": 55,
+    "fat": 7
+  },
+  "slug": "warm-charred-egyptian-oats-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-charred-egyptian-oats-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:17:53Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "bonito-shave",
+    "primaryIngredient": "oats",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "oats",
+    "descriptor": "Warm Charred",
+    "dishForm": "Pilaf"
+  }
+}
