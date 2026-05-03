@@ -78,6 +78,21 @@
     "shard": "w"
   },
   {
+    "slug": "warmly-spiced-moroccan-dates-tagine",
+    "title": "Warmly Spiced Moroccan Dates Tagine",
+    "tags": [
+      "couscous",
+      "dates",
+      "moroccan",
+      "one-pan",
+      "tagine",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "whisk-udon-bliss",
     "title": "Whisk Udon Bliss",
     "tags": [
@@ -268,6 +283,21 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-american-apple-pie",
+    "title": "Wholesome American Apple Pie",
+    "tags": [
+      "american-pie",
+      "bake",
+      "comfort-food",
+      "flaky",
+      "holiday",
+      "vegetarian"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 80,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-mexican-corn-bowl",
     "title": "Wholesome Mexican Corn Bowl",
     "tags": [
@@ -280,6 +310,21 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-uruguayan-rice-soup",
+    "title": "Wholesome Uruguayan Rice Soup",
+    "tags": [
+      "comforting",
+      "egg-free",
+      "light-soup",
+      "one-pot",
+      "uruguayan",
+      "vegetarian"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {

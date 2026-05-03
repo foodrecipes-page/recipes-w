@@ -1,0 +1,103 @@
+{
+  "title": "Wholesome American Apple Pie",
+  "description": "A sweet, flaky pie with roasted apples, buttery crust and aromatic spices.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cold vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cold water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sliced apples",
+      "amount": "6 cups",
+      "notes": "thinly sliced granny smith"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Combine flour, salt, sugar, cinnamon, and nutmeg in a large bowl.",
+    "Add vegetable oil and cold water, stirring until dough forms.",
+    "Roll dough to fit a 9-inch pie plate and place in the oven for 5 minutes to chill.",
+    "In a skillet, heat a tablespoon of oil over medium heat and roast the apples for 5 minutes.",
+    "Add roasted apples, brown sugar, lemon juice, and cornstarch to the skillet and stir until the mixture thickens.",
+    "Fold the apple mixture into the rolled-out dough and place in the pie crust.",
+    "Cover with a second crust, seal edges, and cut slits in the top.",
+    "Bake for 50 minutes until golden and bubbling.",
+    "Cool on a rack before slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "american-pie",
+    "bake",
+    "comfort-food",
+    "flaky",
+    "holiday",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "wholesome-american-apple-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-american-apple-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:49:03Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "oil",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Apple",
+    "descriptor": "Wholesome",
+    "dishForm": "Pie"
+  }
+}
