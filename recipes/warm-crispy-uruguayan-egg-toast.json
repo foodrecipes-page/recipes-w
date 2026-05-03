@@ -1,0 +1,104 @@
+{
+  "title": "Warm Crispy Uruguayan Egg Toast",
+  "description": "Spicy, crispy toast topped with a poached egg and thyme butter, perfect for a brunch-mood start.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sourdough bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon",
+      "notes": "softened"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium heat.",
+    "In a small pan, melt butter until foamy, add garlic and thyme, and cook until fragrant, about 1 minute.",
+    "Toast the bread slices on a grill or another skillet until golden brown, then brush each slice with the garlic‑thyme butter.",
+    "Bring a saucepan of water to a gentle simmer, then reduce heat so the water stays just below boiling.",
+    "Crack each egg into a small cup and slide into the simmering water, cooking for 3 minutes for a runny yolk.",
+    "Meanwhile, heat olive oil in a separate skillet, add smoked paprika and cayenne, and sauté for 30 seconds.",
+    "Place the toasted bread in the skillet, top each slice with a poached egg, drizzle with the paprika oil, and sprinkle with parsley.",
+    "Finish with a squeeze of lemon juice, season with salt and pepper, and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "crispy",
+    "easy",
+    "egg-toast",
+    "spicy",
+    "uruguayan",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 32,
+    "carbs": 48,
+    "fat": 35
+  },
+  "slug": "warm-crispy-uruguayan-egg-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-uruguayan-egg-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:59:04Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "poach",
+    "primaryIngredient": "thyme",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Egg",
+    "descriptor": "Warm Crispy",
+    "dishForm": "Toast"
+  }
+}
