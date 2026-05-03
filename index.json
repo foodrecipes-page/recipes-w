@@ -344,6 +344,23 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-thai-butter-tofu-curry",
+    "title": "Wholesome Thai Butter Tofu Curry",
+    "tags": [
+      "butter",
+      "curry",
+      "diabetic-friendly",
+      "low-carb",
+      "one-pot",
+      "quick",
+      "thai",
+      "tofu"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-uruguayan-rice-soup",
     "title": "Wholesome Uruguayan Rice Soup",
     "tags": [

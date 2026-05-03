@@ -1,0 +1,122 @@
+{
+  "title": "Wholesome Thai Butter Tofu Curry",
+  "description": "A sweet and silky Thai curry with salted butter, braised tofu, and fresh veggies, perfect for a diabetic-friendly sick-day meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "14 oz (400 g)",
+      "notes": "drain and cube"
+    },
+    {
+      "name": "salted butter",
+      "amount": "2 tbsp (28 g)",
+      "notes": "unsalted also works"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "red Thai curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 cup (240 ml)",
+      "notes": ""
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "1 cup (240 ml)",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp (15 ml)",
+      "notes": ""
+    },
+    {
+      "name": "erythritol",
+      "amount": "1 tsp (5 g)",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp (5 ml)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and melt the salted butter until foamy.",
+    "Add diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in minced garlic and ginger, cooking until fragrant, about 30 seconds.",
+    "Mix in the Thai curry paste and cook for another minute, letting the flavors bloom.",
+    "Pour in the coconut milk and vegetable broth, stirring to combine the paste into a smooth sauce.",
+    "Add the cubed tofu and sliced bell pepper, bringing the mixture to a gentle simmer.",
+    "Stir in fish sauce and erythritol, tasting and adjusting seasoning as needed.",
+    "Simmer uncovered for 8 minutes, allowing the tofu to absorb flavors and the sauce to thicken slightly.",
+    "Finish by squeezing lime juice into the curry, stirring to meld the citrus notes.",
+    "Serve hot with steamed cauliflower rice or a side salad for a diabetic-friendly meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "butter",
+    "curry",
+    "diabetic-friendly",
+    "low-carb",
+    "one-pot",
+    "quick",
+    "thai",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 23,
+    "carbs": 34,
+    "fat": 52
+  },
+  "slug": "wholesome-thai-butter-tofu-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-thai-butter-tofu-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:07:42Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "braise",
+    "primaryIngredient": "salted butter",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tofu",
+    "descriptor": "Wholesome",
+    "dishForm": "Curry"
+  }
+}
