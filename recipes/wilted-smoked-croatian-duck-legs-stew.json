@@ -1,0 +1,114 @@
+{
+  "title": "Wilted Smoked Croatian Duck Legs Stew",
+  "description": "This is a rich and flavorful one-pot stew from Croatia that combines the earthiness of smoked duck legs with the brightness of floral notes. It's a hearty meal that pairs well with a side of crusty bread or over egg noodles.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked duck legs",
+      "amount": "2",
+      "notes": "2 whole legs, preferably smoked"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for acidity"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and sauté for another minute, until fragrant.",
+    "Add the smoked duck legs and cook for 5 minutes on each side, until browned.",
+    "Add the chopped parsley, dill, bay leaves, salt, and black pepper.",
+    "Pour in the red wine vinegar and chicken broth, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the stew simmer for 20 minutes, or until the duck is tender.",
+    "Remove the bay leaves and serve the stew hot, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "floral",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "wilted-smoked-croatian-duck-legs-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-smoked-croatian-duck-legs-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:27:25Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "ferment",
+    "primaryIngredient": "duck legs",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "duck legs",
+    "descriptor": "Wilted Smoked",
+    "dishForm": "Stew"
+  }
+}
