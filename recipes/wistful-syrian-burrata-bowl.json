@@ -1,0 +1,105 @@
+{
+  "title": "Wistful Syrian Burrata Bowl",
+  "description": "A briny, dense bowl of al‑dente quinoa and chickpeas topped with low‑fat burrata and a citrusy sumac dressing, perfect for a romantic yet low‑fat Mediterranean lunch.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "100g"
+    },
+    {
+      "name": "canned chickpeas",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "30g"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "100g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "50g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "5ml"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove minced"
+    },
+    {
+      "name": "low‑fat burrata",
+      "amount": "75g"
+    }
+  ],
+  "instructions": [
+    "Rinse the quinoa thoroughly and set aside.",
+    "Cook the quinoa with 200ml water, bring to a boil, then simmer for 12 minutes until water is absorbed and grains are al‑dente; fluff with a fork.",
+    "Meanwhile, rinse the chickpeas and warm them in a small pan with a pinch of sea salt and the sumac, heating for 3 minutes.",
+    "Dice the cherry tomatoes and cucumber into bite‑sized pieces.",
+    "Finely chop the parsley.",
+    "Combine the cooked quinoa, warm chickpeas, diced vegetables, and parsley in a large bowl.",
+    "Whisk together the lemon juice, olive oil, minced garlic, sea salt, and black pepper to create a dressing.",
+    "Drizzle the dressing over the bowl and toss gently to coat everything evenly.",
+    "Slide the low‑fat burrata in the centre of the bowl and let it sit for a minute before serving.",
+    "Garnish with a few extra parsley leaves if desired.",
+    "Serve immediately either chilled or at room temperature."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "syrian",
+    "lunch"
+  ],
+  "slug": "wistful-syrian-burrata-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wistful-syrian-burrata-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:52:44Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "burrata",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "burrata",
+    "descriptor": "Wistful",
+    "dishForm": "Bowl"
+  }
+}

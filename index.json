@@ -128,6 +128,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-flaky-moroccan-lamb-tagine",
+    "title": "Warm Flaky Moroccan Lamb Tagine",
+    "tags": [
+      "lamb",
+      "mediterranean",
+      "moroccan",
+      "one-pot",
+      "slow-cooked",
+      "tagine"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 180,
+    "shard": "w"
+  },
+  {
     "slug": "warm-herbal-dairy-free-miso-stir-fry",
     "title": "Warm Herbal Dairy-Free Miso Stir-fry",
     "tags": [
@@ -652,6 +667,17 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
+    "slug": "wistful-syrian-burrata-bowl",
+    "title": "Wistful Syrian Burrata Bowl",
+    "tags": [
+      "syrian",
+      "lunch"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
