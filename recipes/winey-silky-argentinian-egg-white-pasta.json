@@ -1,0 +1,74 @@
+{
+  "title": "Winey Silky Argentinian Egg White Pasta",
+  "description": "A light and refreshing pasta dish from Argentina featuring a wine and egg white emulsion sauce. This recipe is plant-based friendly and perfect for a weeknight dinner.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Cook the linguine in a large pot of boiling salted water until al dente.",
+    "Reserve 1 cup of the pasta water and then drain the linguine.",
+    "In a large skillet, heat the olive oil over medium heat and saut\u00034e the onion until translucent.",
+    "Add the red wine to the skillet and cook until the liquid has almost completely evaporated, stirring occasionally."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "gluten-free",
+    "pasta",
+    "vegan-friendly",
+    "wine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "winey-silky-argentinian-egg-white-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-silky-argentinian-egg-white-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:53:44Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "egg white",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "egg white",
+    "descriptor": "winey silky",
+    "dishForm": "Pasta"
+  }
+}
