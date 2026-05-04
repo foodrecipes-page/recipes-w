@@ -1,0 +1,109 @@
+{
+  "title": "Wholesome Turkish Lentil Soup",
+  "description": "A cozy, grassy lentil soup with a glassy texture, red chilli flakes, and a fragrant tadka, perfect for an ayurvedic-rajasic friendly meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "200g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp, grated"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "8 cups"
+    },
+    {
+      "name": "red chilli flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse 200g red lentils until the water runs clear, then set aside.",
+    "In a large pot, heat 1 tbsp olive oil over medium heat and sauté the finely diced onion until translucent, about 5 minutes.",
+    "Add 3 minced garlic cloves and 1 tbsp grated ginger, cooking for 1 minute while stirring.",
+    "Stir in 1 tsp ground cumin, 1 tsp ground coriander, and 1 tsp red chilli flakes, letting the spices bloom for 30 seconds.",
+    "Add 2 tbsp lemon juice, mixing well to combine.",
+    "Pour in 8 cups vegetable broth, bring the mixture to a boil.",
+    "Add the rinsed lentils, reduce heat to low, cover, and simmer for 25 minutes, until lentils are tender and the soup thickens to a glassy consistency.",
+    "Season with 1 tsp salt to taste; remove the pot from heat.",
+    "Prepare a tadka by heating 1 tsp oil in a small pan, adding 1 tsp cumin seeds, letting them sizzle for 15 seconds, then pour the hot oil over the soup to release aromatic flavor.",
+    "Garnish with fresh cilantro before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy",
+    "gluten-free",
+    "turkish",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "wholesome-turkish-lentil-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-turkish-lentil-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:18:57Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "tadka",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Lentils",
+    "descriptor": "Wholesome",
+    "dishForm": "Soup"
+  }
+}
