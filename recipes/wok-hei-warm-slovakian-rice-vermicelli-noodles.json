@@ -1,0 +1,104 @@
+{
+  "title": "Wok-Hei Warm Slovakian Rice Vermicelli Noodles",
+  "description": "A Buddhist-temple friendly, savory and crunchy Slovakian dish featuring rice vermicelli noodles, cooked to perfection with wok-hei.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice Vermicelli Noodles",
+      "amount": "250g"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "120g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large wok over medium-high heat.",
+    "Add the onion, carrots, and bell peppers to the wok and stir-fry for 3 minutes.",
+    "Add the mushrooms to the wok and stir-fry for another 2 minutes.",
+    "Add the rice vermicelli noodles to the wok and stir-fry for 2 minutes.",
+    "Pour in the soy sauce and sesame oil, and stir-fry for 1 minute.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the noodles to a serving dish and serve immediately.",
+    "Garnish with green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight",
+    "wok-hei"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "wok-hei-warm-slovakian-rice-vermicelli-noodles",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wok-hei-warm-slovakian-rice-vermicelli-noodles",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T06:38:31Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "wok-hei",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "rice vermicelli",
+    "descriptor": "wok-hei warm",
+    "dishForm": "Noodles"
+  }
+}
