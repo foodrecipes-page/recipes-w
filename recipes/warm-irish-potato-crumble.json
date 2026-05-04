@@ -1,0 +1,111 @@
+{
+  "title": "Warm Irish Potato Crumble",
+  "description": "Fresh, crumbly, indulgent Irish dish featuring coconut creme fraiche, a papillote style technique, and dairy-free-friendly ingredients.",
+  "cuisine": "Irish",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "800g",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "coconut creme fraiche",
+      "amount": "200g",
+      "notes": "alternative to traditional creme fraiche"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": "dairy-free heavy cream substitute"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "50g",
+      "notes": "for thickening"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "50g",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "50g",
+      "notes": "optional topping"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": "finely chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and line a baking dish with parchment.",
+    "In a large pot, boil the diced potatoes until tender, about 10 minutes, then drain.",
+    "While the potatoes cook, whisk together coconut creme fraiche, coconut milk, flour, brown sugar, cinnamon, nutmeg, salt, and pepper until smooth.",
+    "Gently fold the potato mash into the cream mixture, adding fresh thyme and half the walnuts.",
+    "Transfer the mixture to the prepared baking dish and sprinkle the remaining walnuts on top.",
+    "Bake on the middle rack for 20 minutes until the top is golden brown and the edges bubble.",
+    "Let the crumble rest for 5 minutes to set before serving.",
+    "Spoon onto plates and drizzle with a dollop of dairy-free creme fraiche if desired.",
+    "Garnish with extra thyme leaves for a fresh finish.",
+    "Serve warm as a comforting dessert for a cozy gathering."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "dessert",
+    "one-pot",
+    "potato",
+    "warm-crumble"
+  ],
+  "nutrition": {
+    "calories": 1400,
+    "protein": 32,
+    "carbs": 200,
+    "fat": 60
+  },
+  "slug": "warm-irish-potato-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-irish-potato-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:35:15Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "papillote",
+    "primaryIngredient": "creme fraiche",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potato",
+    "descriptor": "Warm",
+    "dishForm": "Crumble"
+  }
+}

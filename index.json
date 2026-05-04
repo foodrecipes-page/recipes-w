@@ -824,6 +824,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-irish-potato-crumble",
+    "title": "Warm Irish Potato Crumble",
+    "tags": [
+      "dairy-free",
+      "dessert",
+      "one-pot",
+      "potato",
+      "warm-crumble"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-irish-summer-savoury-crumble",
     "title": "Warm Irish Summer Savoury Crumble",
     "tags": [
