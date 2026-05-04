@@ -1,0 +1,88 @@
+{
+  "title": "Warm Nutty Dutch Peanut Pilaf",
+  "description": "A creamy and nutty post-workout dish from the Netherlands, featuring chilled butter and a pressure-cooked pilaf, low-fat-friendly and served in a bento-box.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peanut butter",
+      "amount": "2 tablespoons",
+      "notes": "creamy natural peanut butter"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chilled butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice in a fine mesh strainer until the water runs clear.",
+    "In a pressure cooker, combine the rice and water and cook on high pressure for 5 minutes.",
+    "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure.",
+    "In a small bowl, whisk together the peanut butter, chilled butter, salt, and black pepper until smooth.",
+    "Fluff the cooked rice with a fork and stir in the peanut butter mixture until well combined.",
+    "Stir in the chopped peanuts and serve the pilaf hot in a bento-box.",
+    "Garnish with additional chopped peanuts if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "healthy-snack",
+    "low-fat",
+    "one-pot",
+    "post-workout",
+    "quick-meal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-nutty-dutch-peanut-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-nutty-dutch-peanut-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:51:08Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "pressure-cook",
+    "primaryIngredient": "chilled butter",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "peanuts",
+    "descriptor": "Warm nutty",
+    "dishForm": "Pilaf"
+  }
+}
