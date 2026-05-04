@@ -1,0 +1,106 @@
+{
+  "title": "Wholesome Arabian Fernbrake Ouzi",
+  "description": "A fluffy, gentle dish that blends shredded fernbrake, lean turkey, and yuzu zest to create a soothing, hangover-cure meal with a hint of Middle Eastern spices.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fernbrake shredded",
+      "amount": "250 g"
+    },
+    {
+      "name": "lean ground turkey",
+      "amount": "200 g"
+    },
+    {
+      "name": "low-fat plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yuzu zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh herbs, chopped (mint + parsley)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a large bowl, combine shredded fernbrake, ground turkey, cumin, coriander, cinnamon, salt, and pepper.",
+    "Stir until the mixture is evenly seasoned.",
+    "Spread the mixture in a shallow baking dish and drizzle with olive oil.",
+    "Bake for 20 minutes until the turkey is cooked through and the fernbrake is tender.",
+    "Remove the dish from the oven and let it cool slightly.",
+    "Stir in low-fat yogurt, yuzu zest, and yuzu juice until the mixture is creamy and fluffy.",
+    "Fold in chopped herbs gently.",
+    "Transfer the fluffy mixture to a serving bowl, garnish with a sprinkle of fresh herbs.",
+    "Serve warm; it can be paired with a side of steamed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fluffy",
+    "hangover-cure",
+    "low-fat",
+    "middle-eastern",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "wholesome-arabian-fernbrake-ouzi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-arabian-fernbrake-ouzi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:30:34Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "fernbrake-gosari",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "Fernbrake",
+    "descriptor": "Wholesome",
+    "dishForm": "Ouzi"
+  }
+}
