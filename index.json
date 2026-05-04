@@ -2746,6 +2746,19 @@
     "shard": "w"
   },
   {
+    "slug": "weakly-brined-slovakian-asparagus-hash",
+    "title": "weakly brined slovakian asparagus hash",
+    "tags": [
+      "high-fiber",
+      "one-pan",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 23,
+    "shard": "w"
+  },
+  {
     "slug": "welcoming-smoked-portuguese-herring-gratin",
     "title": "welcoming smoked portuguese herring gratin",
     "tags": [
@@ -4591,6 +4604,20 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "wilted-silky-ukrainian-dinner-solo",
+    "title": "Wilted Silky Ukrainian Dinner Solo",
+    "tags": [
+      "low-sodium",
+      "one-pan",
+      "panang-curry",
+      "solo-dinner",
+      "veggie-forward"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {

@@ -1,0 +1,87 @@
+{
+  "title": "Wilted Silky Ukrainian Dinner Solo",
+  "description": "A savory and silky Ukrainian-inspired solo dinner made with a twist of Panang curry paste, steamed to perfection in a bamboo steamer basket.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Panang curry paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "silken tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, whisk together chicken broth and Panang curry paste over medium heat until warm.",
+    "Add silken tofu, green onions, parsley, and grated carrot to the saucepan. Whisk until tofu is well combined and silky.",
+    "Bring the mixture to a simmer and cook for 2 minutes, until the flavors are melded together.",
+    "Meanwhile, prepare the bamboo steamer basket by placing it over boiling water. Cover the basket with a lid.",
+    "Once the steamer is ready, carefully pour the Panang curry mixture into the steamer basket.",
+    "Steam for 8-10 minutes, until the tofu is tender and the flavors are well infused.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "low-sodium",
+    "one-pan",
+    "panang-curry",
+    "solo-dinner",
+    "veggie-forward"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "wilted-silky-ukrainian-dinner-solo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-silky-ukrainian-dinner-solo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:18:33Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "emulsify",
+    "primaryIngredient": "panang curry paste",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Dinner",
+    "descriptor": "Wilted Silky",
+    "dishForm": "Solo"
+  }
+}

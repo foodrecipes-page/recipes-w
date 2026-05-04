@@ -1,0 +1,105 @@
+{
+  "title": "weakly brined slovakian asparagus hash",
+  "description": "a sour, juicy, weeknight slovakian dish featuring asparagus, brine-dry, sugar-free-friendly",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh asparagus",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 1/2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "0 teaspoons",
+      "notes": "optional (omitted for sugar-free diet)"
+    },
+    {
+      "name": "granulated garlic",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "large potato",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the potato, onion, and red bell pepper into 1-inch cubes.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion and potato to the skillet and cook until the onion is translucent, about 5 minutes.",
+    "Add the asparagus and bell pepper to the skillet and cook until the asparagus is tender, about 3 minutes.",
+    "In a small bowl, mix together the kosher salt, granulated garlic, and paprika.",
+    "Add the salt mixture to the skillet and stir to combine.",
+    "Sprinkle the black pepper over the top of the mixture and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-fiber",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 7
+  },
+  "slug": "weakly-brined-slovakian-asparagus-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/weakly-brined-slovakian-asparagus-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:18:50Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "brine-dry",
+    "primaryIngredient": "asparagus",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "asparagus",
+    "descriptor": "weakly brined",
+    "dishForm": "hash"
+  }
+}
