@@ -1,0 +1,102 @@
+{
+  "title": "Warm Japanese Egg Yolks Noodles",
+  "description": "A comforting and nutritious Japanese-inspired dish featuring warm egg yolks and sauteed vegetables, perfect for a post-workout meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "4 large",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced green onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the udon noodles according to package instructions and set aside.",
+    "In a large skillet, heat the vegetable oil over medium heat.",
+    "Add the shredded carrots and cook until they start to soften, about 3 minutes.",
+    "Add the sliced green onions and grated ginger to the skillet and cook for an additional 2 minutes.",
+    "In a small bowl, whisk together the soy sauce and sesame oil.",
+    "Pour the soy sauce mixture over the vegetables in the skillet and stir to combine.",
+    "Create a well in the center of the skillet and add the egg yolks.",
+    "Use a spatula to gently scramble the egg yolks, breaking them up into small curds.",
+    "Add the cooked udon noodles to the skillet and toss everything together to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "japanese-inspired",
+    "noodle-dish",
+    "post-workout",
+    "warm-and-comforting"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "warm-japanese-egg-yolks-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-japanese-egg-yolks-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:38:46Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "saute",
+    "primaryIngredient": "egg yolks",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "egg yolks",
+    "descriptor": "Warm Grassy",
+    "dishForm": "Noodles"
+  }
+}
