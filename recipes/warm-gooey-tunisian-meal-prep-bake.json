@@ -1,0 +1,124 @@
+{
+  "title": "Warm Gooey Tunisian Meal-Prep Bake",
+  "description": "A floral, gooey, meal-prep Tunisian dish featuring glace cherry and shio-koji-cure, with a focus on satvik-friendly ingredients. Perfect for a weeknight dinner or meal prep.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "glace cherry",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "shio-koji-cured eggplant",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "prasadam ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together the almond flour, coconut sugar, salt, black pepper, and Tunisian spice blend.",
+    "Add the prasadham ghee and mix until the mixture resembles coarse crumbs.",
+    "Stir in the chopped glace cherry, sun-dried tomatoes, kalamata olives, and chopped fresh parsley.",
+    "In a separate bowl, whisk together the eggs and crumbled feta cheese.",
+    "Pour the egg mixture over the dry ingredients and stir until just combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with the shio-koji-cured eggplant.",
+    "Bake for 35 minutes or until the edges are golden brown and the center is set.",
+    "Let the bake cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "grain-free",
+    "high-protein",
+    "meal-prep",
+    "satvik",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "warm-gooey-tunisian-meal-prep-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-gooey-tunisian-meal-prep-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:21Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "glace cherry",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "meal-prep",
+    "descriptor": "warm gooey",
+    "dishForm": "bake"
+  }
+}

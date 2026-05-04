@@ -1168,6 +1168,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-gooey-tunisian-meal-prep-bake",
+    "title": "Warm Gooey Tunisian Meal-Prep Bake",
+    "tags": [
+      "grain-free",
+      "high-protein",
+      "meal-prep",
+      "satvik",
+      "tunisian",
+      "vegetarian"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
     "slug": "warm-hakka-beetroot-sweet-and-sour",
     "title": "Warm Hakka Beetroot Sweet And Sour",
     "tags": [
@@ -1494,6 +1509,21 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 23,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-moroccan-cheese-khleaa",
+    "title": "Warm Moroccan Cheese Khleaa",
+    "tags": [
+      "breakfast",
+      "cheese",
+      "easy",
+      "moroccan",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
@@ -2260,6 +2290,20 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-ukrainian-beef-roast",
+    "title": "Warm Ukrainian Beef Roast",
+    "tags": [
+      "beef",
+      "meal-prep",
+      "roast",
+      "sugar-free",
+      "ukrainian"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 150,
     "shard": "w"
   },
   {
@@ -4974,6 +5018,21 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 37,
+    "shard": "w"
+  },
+  {
+    "slug": "wood-fired-xanthous-filipino-noodles-pancit-bihon",
+    "title": "Wood-fired-xanthous Filipino Noodles Pancit Bihon",
+    "tags": [
+      "comfort-food",
+      "filipino",
+      "halal",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {

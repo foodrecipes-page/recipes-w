@@ -1,0 +1,110 @@
+{
+  "title": "Wood-fired-xanthous Filipino Noodles Pancit Bihon",
+  "description": "A comforting Filipino dish featuring sour and glassy-jelly wood-fired-baked noodles. Halal-friendly and perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pancit Bihon noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Wood-fired-baked vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pork and chicken stock",
+      "amount": "200ml"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "200g"
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2",
+      "notes": "seeds removed and sliced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of vegetable oil in a wok or large skillet over medium heat.",
+    "Add the chopped onion and minced garlic and sauté until softened.",
+    "Add the sliced chili peppers and cook for 1 minute.",
+    "Add the shrimp and cook until pink.",
+    "Add the pork and chicken stock, fish sauce, black pepper, and salt. Stir well.",
+    "Add the beaten egg and stir well.",
+    "Add the cooked Pancit Bihon noodles and vinegar. Stir-fry for 2-3 minutes until combined.",
+    "Transfer the noodles to a bento box and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "filipino",
+    "halal",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "wood-fired-xanthous-filipino-noodles-pancit-bihon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wood-fired-xanthous-filipino-noodles-pancit-bihon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:31Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "vinegar",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "noodles",
+    "descriptor": "wood-fired-xanthous",
+    "dishForm": "Pancit Bihon"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Warm Ukrainian Beef Roast",
+  "description": "A rich and juicy Ukrainian beef roast recipe featuring caramel sauce, perfect for meal prep and sugar-free diets.",
+  "cuisine": "ukrainian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "top round beef roast",
+      "amount": "1.5 kg",
+      "notes": "use a meat thermometer for optimal results"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "60 ml",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "500 ml",
+      "notes": ""
+    },
+    {
+      "name": "grated beetroot",
+      "amount": "100 g",
+      "notes": "optional"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "120 ml",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F),"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "meal-prep",
+    "roast",
+    "sugar-free",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-ukrainian-beef-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-ukrainian-beef-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:50Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "roast",
+    "primaryIngredient": "caramel sauce",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beef",
+    "descriptor": "Warm",
+    "dishForm": "Roast"
+  }
+}

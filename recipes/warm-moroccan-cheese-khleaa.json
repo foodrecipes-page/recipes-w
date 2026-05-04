@@ -1,0 +1,67 @@
+{
+  "title": "Warm Moroccan Cheese Khleaa",
+  "description": "A winey, cheese-pull, nostalgic Moroccan dish featuring garlic and a stir-fry. Traditionally served as a snack or dessert, but can be enjoyed as a light meal.",
+  "cuisine": "Moroccan",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cheese (Gouda or Aebleskiver)",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted and softened"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium heat until melted.",
+    "Add the garlic and stir-fry until fragrant, about 1-2 minutes, or until golden brown.",
+    "Add the shredded cheese and stir-fry until the cheese is melted and starts to pull away from the skillet, about 3-5 minutes.",
+    "Place the skillet under the broiler and let it warm and bubble, about 2 minutes, or until the cheese is golden brown and bubbly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "cheese",
+    "easy",
+    "moroccan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "warm-moroccan-cheese-khleaa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-moroccan-cheese-khleaa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:18Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "stir-fry",
+    "primaryIngredient": "garlic clove",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "cheese",
+    "descriptor": "Warm",
+    "dishForm": "Khleaa"
+  }
+}
