@@ -1,0 +1,114 @@
+{
+  "title": "Wholesome Venezuelan Walnuts Gratin",
+  "description": "A creamy, cheese-pull Venezuelan gratin featuring toasted walnuts, perfect for pescatarian diners.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "pescatarian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "amount": "200 g",
+      "notes": "toasted"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "150 g",
+      "notes": "queso de mano or mild cheese"
+    },
+    {
+      "name": "milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped, optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and grease a small baking dish.",
+    "In a mortar, pound toasted walnuts with a pinch of salt until coarsely crushed.",
+    "In a saucepan, heat olive oil over medium heat, sauté onion and garlic until translucent.",
+    "Stir in flour and paprika, cooking for 1 minute to make a roux.",
+    "Gradually whisk in milk, stirring until thickened, then remove from heat.",
+    "Beat the egg in a bowl, then fold into the sauce, adding grated cheese and crushed walnuts.",
+    "Season the mixture with salt, pepper, and stir until well combined.",
+    "Pour the mixture into the prepared baking dish and spread evenly.",
+    "Bake for 20 minutes until the top is golden and the cheese pulls together.",
+    "Let cool slightly, garnish with parsley, slice, and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "gratin",
+    "pescatarian-friendly",
+    "simple",
+    "vegetarian",
+    "walnut"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "wholesome-venezuelan-walnuts-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-venezuelan-walnuts-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:07:51Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "walnuts",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "walnuts",
+    "descriptor": "Wholesome",
+    "dishForm": "Gratin"
+  }
+}
