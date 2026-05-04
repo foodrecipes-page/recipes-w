@@ -1,0 +1,103 @@
+{
+  "title": "Warmly Spiced Uruguayan Pak Choi Stew",
+  "description": "A malty and chewy Uruguayan dish featuring pak choi, this stew is perfect for adventurous eaters, this slow cook recipe is egg free friendly and full of flavor.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pak choi",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "uruguayan chimichurri",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the chopped pak choi and cook until wilted, about 3 minutes.",
+    "In a small bowl, whisk together the malt syrup, uruguayan chimichurri, and vegetable broth.",
+    "Pour the mixture over the pak choi and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the dried oregano, salt, and black pepper.",
+    "Serve hot, garnished with additional chimichurri if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "slow-cooker",
+    "south-american",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "warmly-spiced-uruguayan-pak-choi-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-uruguayan-pak-choi-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:12:23Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "slow-cook",
+    "primaryIngredient": "pak choi",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "pak choi",
+    "descriptor": "Warmly spiced",
+    "dishForm": "Stew"
+  }
+}
