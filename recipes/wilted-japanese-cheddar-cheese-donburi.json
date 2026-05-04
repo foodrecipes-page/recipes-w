@@ -1,0 +1,102 @@
+{
+  "title": "Wilted Japanese Cheddar Cheese Donburi",
+  "description": "A creative vegan-friendly Japanese-inspired dish featuring cheddar cheese, wok-fried to perfection. Serve immediately over a bed of steaming hot rice.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cheddar Cheese",
+      "amount": "8 ounces",
+      "notes": "Vegan cheddar cheese alternative"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "2 tablespoons",
+      "notes": "Vegan-friendly, adds depth of flavor"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Vegan-friendly, adds umami"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Fermented Vegetables",
+      "amount": "1 cup",
+      "notes": "For added crunch and flavor"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon",
+      "notes": "For dressing"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": "For dressing"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large wok over medium-high heat.",
+    "Add miso paste and soy sauce, stir-frying until fragrant.",
+    "Add vegan cheddar cheese and stir-fry until melted and bubbly.",
+    "Add fermented vegetables and green onions, stir-frying until combined.",
+    "Season with rice vinegar and water to taste.",
+    "Transfer to a serving dish, garnishing with sesame seeds and additional green onions if desired.",
+    "Serve immediately over steaming hot rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "quick-meal",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "wilted-japanese-cheddar-cheese-donburi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-japanese-cheddar-cheese-donburi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:22Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "cheddar cheese",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "cheddar cheese",
+    "descriptor": "wilted",
+    "dishForm": "Donburi"
+  }
+}
