@@ -1,0 +1,114 @@
+{
+  "title": "Wholesome Turkish Foie Gras Omelette",
+  "description": "A light, cultured Turkish omelette with gooey foie gras, served after an ice-bath shock for a refreshing start.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "foie gras",
+      "amount": "4 oz",
+      "notes": "diced"
+    },
+    {
+      "name": "large eggs",
+      "amount": "3"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tomato",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "ice water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped, optional"
+    }
+  ],
+  "instructions": [
+    "Place the diced foie gras in a bowl of ice water and let it chill for 15 minutes.",
+    "Remove the foie gras from the ice bath and pat it dry with a paper towel.",
+    "Melt butter and olive oil in a medium skillet over medium heat.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Stir in the diced tomato and smoked paprika, and cook until the tomato softens, about 2 minutes.",
+    "Whisk the eggs in a bowl, then pour them into the skillet and gently stir to form soft curds.",
+    "Fold in the chilled foie gras, allowing it to melt into the eggs just before they set.",
+    "Season with salt, pepper, parsley, and dill, and cook until the omelette is set but still moist, about 5 minutes.",
+    "Transfer to a plate and drizzle with a little extra olive oil for shine.",
+    "Serve immediately, ideally with a fresh green salad to complete the sattvic-friendly meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "foie-gras",
+    "gluten-free",
+    "menemen",
+    "omelette",
+    "sattvic-friendly",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 470,
+    "protein": 12,
+    "carbs": 1,
+    "fat": 49
+  },
+  "slug": "wholesome-turkish-foie-gras-omelette",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-turkish-foie-gras-omelette",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:34:55Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "foie-gras",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Foie Gras",
+    "descriptor": "Wholesome",
+    "dishForm": "Omelette"
+  }
+}
