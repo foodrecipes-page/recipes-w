@@ -1,0 +1,94 @@
+{
+  "title": "Warm Nutty Croatian Pork Roast",
+  "description": "A dense and festive Croatian dish featuring panang paste and roasted to perfection in a scallop shell, this recipe is low in glycemic index and rich in nutty flavors.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork roast",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "panang paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallop shells",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the pork roast with garlic powder, salt, and black pepper.",
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Sear the pork roast until browned on all sides.",
+    "Transfer the pork roast to a baking sheet and roast in the oven for 20 minutes per pound.",
+    "While the pork is roasting, mix the panang paste with 1 tablespoon of water to thin it out.",
+    "After the pork has roasted for 30 minutes, brush the panang paste mixture all over the pork roast.",
+    "Continue roasting the pork for an additional 10 minutes.",
+    "Remove the pork from the oven and let it rest for 10 minutes.",
+    "Slice the pork roast into thick slices and serve in scallop shells topped with chopped almonds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "low-glycemic",
+    "nutty",
+    "panang-paste",
+    "roast",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "warm-nutty-croatian-pork-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-nutty-croatian-pork-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:14:33Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "roast",
+    "primaryIngredient": "panang-paste",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "Warm Nutty",
+    "dishForm": "Roast"
+  }
+}

@@ -838,6 +838,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-nutty-croatian-pork-roast",
+    "title": "Warm Nutty Croatian Pork Roast",
+    "tags": [
+      "croatian",
+      "low-glycemic",
+      "nutty",
+      "panang-paste",
+      "roast",
+      "special-occasion"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 80,
+    "shard": "w"
+  },
+  {
     "slug": "warm-peppery-korean-chicken-naengmyeon",
     "title": "Warm Peppery Korean Chicken Naengmyeon",
     "tags": [
