@@ -1,0 +1,107 @@
+{
+  "title": "Warm Canadian Sweet Potato Crumble",
+  "description": "Roasted sweet potato crumble with a crisp, buttery topping, finished with a splash of dry white wine for depth and a hint of maple sweetness; a comforting vegetarian dessert.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "3 medium, peeled and diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/4 cup",
+      "notes": "adds depth"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 F (200 C).",
+    "Toss diced sweet potatoes with olive oil, salt, pepper, maple syrup, and dry white wine; spread evenly on a baking sheet.",
+    "Roast for 25 minutes, stirring once, until tender and caramelized.",
+    "While sweet potatoes roast, whisk oats, almond flour, brown sugar, cinnamon, nutmeg, and melted butter until crumbly.",
+    "When potatoes are done, remove from oven and sprinkle crumble topping over them.",
+    "Return to oven and bake for an additional 10 minutes, until topping is golden and crisp.",
+    "Let dish rest for 5 minutes before serving.",
+    "Optionally drizzle with extra maple syrup or garnish with fresh herbs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "dessert",
+    "one-pan",
+    "quick-bake",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 7,
+    "carbs": 55,
+    "fat": 13
+  },
+  "slug": "warm-canadian-sweet-potato-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-canadian-sweet-potato-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:32:20Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "dum",
+    "primaryIngredient": "dry white wine",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Sweet Potato",
+    "descriptor": "Warm",
+    "dishForm": "Crumble"
+  }
+}
