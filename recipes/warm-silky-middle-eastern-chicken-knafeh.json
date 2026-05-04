@@ -1,0 +1,96 @@
+{
+  "title": "Warm Silky Middle Eastern Chicken Knafeh",
+  "description": "A spicy and comforting Middle Eastern dish featuring chicken stock concentrate and ssam-wrap, perfect for a cold evening, and dairy-free-friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "chicken stock concentrate",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken breast and cook until browned on all sides, about 5-7 minutes.",
+    "In a small bowl, mix the chicken stock concentrate, cumin, and paprika.",
+    "Brush the mixture onto the chicken breast.",
+    "Wrap the chicken breast with ssam-wrap sheets.",
+    "Place the wrapped chicken in a baking dish and bake for 20-25 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "middle-eastern",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-silky-middle-eastern-chicken-knafeh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-silky-middle-eastern-chicken-knafeh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:59:50Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Silky",
+    "dishForm": "Knafeh"
+  }
+}
