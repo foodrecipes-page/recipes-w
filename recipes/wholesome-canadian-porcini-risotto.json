@@ -1,0 +1,111 @@
+{
+  "title": "Wholesome Canadian Porcini Risotto",
+  "description": "A winey, chewy risotto infused with rehydrated porcini mushrooms and char-grilled vegetables, crafted for midnight cravings and anti-inflammatory comfort.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "anti-inflammatory"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried porcini mushrooms",
+      "amount": "1 oz",
+      "notes": "reconstitute in warm water for 20 min"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Rehydrate the dried porcini mushrooms in warm water for 20 minutes, then strain and reserve the liquid.",
+    "Heat the olive oil in a large skillet over medium heat and sauté the diced onion, carrot, and minced garlic until translucent and fragrant.",
+    "Add the arborio rice to the skillet, stirring until each grain is lightly toasted and coated with oil.",
+    "Pour in the dry white wine, letting it reduce while stirring constantly until the liquid is fully absorbed by the rice.",
+    "Begin adding the vegetable broth one ladle at a time, stirring frequently; when most of the liquid is absorbed, pour in a splash of the reserved porcini liquid.",
+    "Continue adding broth gradually and stirring until the rice is creamy and al dente, about 18 minutes total.",
+    "Stir in the butter, chopped parsley, salt, and pepper, adjusting seasoning to taste.",
+    "Serve the risotto hot, garnished with extra parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "wholesome-canadian-porcini-risotto",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-canadian-porcini-risotto",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:18:36Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "porcini",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Porcini",
+    "descriptor": "Wholesome",
+    "dishForm": "Risotto"
+  }
+}
