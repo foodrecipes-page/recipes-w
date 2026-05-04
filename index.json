@@ -1059,6 +1059,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-sichuan-noodles-dumplings",
+    "title": "Warm Sichuan Noodles Dumplings",
+    "tags": [
+      "crispy",
+      "dim-sum",
+      "earthy",
+      "quick-fix",
+      "sichuan",
+      "weeknight"
+    ],
+    "cuisine": "Sichuan",
+    "totalTimeMin": 20,
+    "shard": "w"
+  },
+  {
     "slug": "warm-silky-indian-lentil-dal",
     "title": "Warm Silky Indian Lentil Dal",
     "tags": [

@@ -1,0 +1,110 @@
+{
+  "title": "Warm Sichuan Noodles Dumplings",
+  "description": "Earthy, crispy, quick-fix Sichuan dim sum featuring egg noodles tossed with spicy dumplings.",
+  "cuisine": "Sichuan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Egg noodles",
+      "amount": "200g",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Ground pork",
+      "amount": "200g",
+      "notes": "lean"
+    },
+    {
+      "name": "Napa cabbage",
+      "amount": "1 cup",
+      "notes": "finely shredded"
+    },
+    {
+      "name": "Scallions",
+      "amount": "3 stalks",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ginger, minced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chili oil",
+      "amount": "1 tbsp",
+      "notes": "adjust to heat preference"
+    },
+    {
+      "name": "Sichuan peppercorn powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "20 pieces"
+    }
+  ],
+  "instructions": [
+    "Cook egg noodles in a pot of salted boiling water until al dente, about 4 minutes, then drain and set aside.",
+    "In a large bowl, combine ground pork, shredded cabbage, minced garlic, minced ginger, beaten egg, soy sauce, sesame oil, chili oil, Sichuan peppercorn powder, and chopped scallions; mix until ingredients are well incorporated.",
+    "Place a dumpling wrapper in the palm of your hand and spoon about 1 tablespoon of the pork mixture into the center.",
+    "Fold the wrapper in half and pinch the edges tightly to seal, pressing gently to create a pleated dim sum style.",
+    "Heat a nonstick skillet over medium heat; once hot, add the dumplings and sear for 1 minute until bottoms are golden brown.",
+    "Carefully pour 1 cup of hot water over the dumplings, cover the skillet, and let them steam for 5 minutes.",
+    "Remove the lid, drain any remaining water, and flip the dumplings to crisp the other side for an additional 1 minute.",
+    "Transfer the dumplings to a serving dish, toss the cooked noodles with a splash of sesame oil, chili oil, and a pinch of Sichuan peppercorn powder, then combine with the dumplings before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "dim-sum",
+    "earthy",
+    "quick-fix",
+    "sichuan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 920,
+    "protein": 38,
+    "carbs": 73,
+    "fat": 44
+  },
+  "slug": "warm-sichuan-noodles-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-sichuan-noodles-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:42:04Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "dum",
+    "primaryIngredient": "egg noodles",
+    "diet": "dash",
+    "region": "sichuan",
+    "cuisineAdjective": "Sichuan",
+    "mainIngredient": "Noodles",
+    "descriptor": "Warm",
+    "dishForm": "Dumplings"
+  }
+}
