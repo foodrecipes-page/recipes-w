@@ -1,0 +1,101 @@
+{
+  "title": "Wholesome Earthy Basque Wholemeal Flour Tarta De Santiago",
+  "description": "A rustic, low-calorie twist on the classic Spanish almond cake using hearty wholemeal flour for an earthy texture. This version maintains the traditional moist crumb while being light enough for a weeknight treat.",
+  "cuisine": "Spanish",
+  "diet": [
+    "Vegetarian",
+    "High-Fiber"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Wholemeal Flour",
+      "amount": "150g",
+      "notes": "Strong stone-ground variety preferred"
+    },
+    {
+      "name": "Ground Almonds",
+      "amount": "200g",
+      "notes": "Blanched or natural almond meal"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Honey",
+      "amount": "120ml",
+      "notes": "Lower calorie alternative to refined sugar"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tbsp",
+      "notes": "Freshly grated"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Almond Extract",
+      "amount": "0.5 tsp",
+      "notes": "Optional for depth"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 pinch",
+      "notes": "Fine sea salt"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 175 degrees Celsius and grease an 8-inch round springform pan.",
+    "Whisk the eggs and honey together in a large bowl until the mixture is pale and frothy.",
+    "Fold in the lemon zest, cinnamon, and almond extract until well combined.",
+    "Sift the wholemeal flour and ground almonds into the wet mixture slowly.",
+    "Gently fold the dry ingredients using a spatula to maintain the air in the batter.",
+    "Pour the batter into the prepared pan and smooth the top with a spoon.",
+    "Bake for 30 minutes or until a toothpick inserted in the center comes out clean.",
+    "Let the cake rest in the pan for 15 minutes to allow the wholemeal fibers to soften.",
+    "Transfer the cake to a wire rack to cool completely before slicing.",
+    "Dust with a tiny amount of powdered erythritol if desired for the traditional cross pattern."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 10,
+  "difficulty": "easy",
+  "tags": [
+    "basque-style",
+    "low-calorie",
+    "nutty",
+    "rustic-baking",
+    "weeknight-treat",
+    "wholemeal"
+  ],
+  "nutrition": {
+    "calories": 195,
+    "protein": 7,
+    "carbs": 18,
+    "fat": 11
+  },
+  "slug": "wholesome-earthy-basque-wholemeal-flour-tarta-de-santiago",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-earthy-basque-wholemeal-flour-tarta-de-santiago",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T08:10:44Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "rest",
+    "primaryIngredient": "strong wholemeal flour",
+    "diet": "low-calorie",
+    "region": "basque",
+    "cuisineAdjective": "Basque",
+    "mainIngredient": "Wholemeal Flour",
+    "descriptor": "Wholesome Earthy",
+    "dishForm": "Tarta De Santiago"
+  }
+}
