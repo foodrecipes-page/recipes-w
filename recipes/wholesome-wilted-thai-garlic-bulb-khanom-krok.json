@@ -1,0 +1,110 @@
+{
+  "title": "Wholesome Wilted Thai Garlic Bulb Khanom-Krok",
+  "description": "A tangy, molten Thai dish featuring a fermented dough, garlic bulb, and fresh herbs. This energizing plant-based recipe is perfect for a quick breakfast or snack.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "long-fermentation-dough",
+      "amount": "1 dough ball",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "garlic bulb",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional, omit for vegan version"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Add 1 tablespoon of coconut oil and swirl to coat.",
+    "Add the galangal and cook for 1 minute, until fragrant.",
+    "Add the chili flakes and cook for another minute, until fragrant.",
+    "Add the garlic bulb and cook for 2 minutes, until softened.",
+    "Add the fish sauce, lime juice, and sugar. Stir to combine.",
+    "Add the Thai basil and stir to combine.",
+    "Add the long-fermentation-dough and cook for 2-3 minutes, until the dough starts to soften.",
+    "Use a spatula to shape the dough into a flat circle.",
+    "Cook for an additional 2-3 minutes, until the bottom is crispy and the top is molten.",
+    "Flip the khanom-krok and cook for an additional 1-2 minutes, until the other side is crispy and golden.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "wholesome-wilted-thai-garlic-bulb-khanom-krok",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-wilted-thai-garlic-bulb-khanom-krok",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:39:02Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "energizing",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "garlic bulb",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "garlic bulb",
+    "descriptor": "Wholesome Wilted",
+    "dishForm": "Khanom-Krok"
+  }
+}

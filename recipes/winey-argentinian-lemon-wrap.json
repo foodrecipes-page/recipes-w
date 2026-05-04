@@ -1,0 +1,91 @@
+{
+  "title": "Argentinian Winey Lemon Wrap",
+  "description": "A snappy, festive, argentinian-inspired dish featuring unwaxed lemon, ssam-wrap, and a low-sodium twist.",
+  "cuisine": "argentinian",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ssam-wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "unwaxed lemon",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "fleur de sel",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "grilled chorizo",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    },
+    {
+      "name": "juice of 1 unwaxed orange",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Grill the ssam-wrap over medium heat for 2 minutes, flipping halfway through.",
+    "Brush the unwaxed lemon with fleur de sel and grill for 1 minute on each side.",
+    "Slice the grilled chorizo into thin strips.",
+    "Assemble the wrap by placing the chorizo on the grilled ssam-wrap, followed by a slice of grilled lemon.",
+    "Drizzle with extra virgin olive oil and garnish with chopped cilantro.",
+    "Serve immediately, and squeeze a sliver of unwaxed orange juice on top if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "gluten-free",
+    "grilled",
+    "low-sodium",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "winey-argentinian-lemon-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-argentinian-lemon-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:38:39Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "lemon",
+    "descriptor": "winey",
+    "dishForm": "Wrap"
+  }
+}

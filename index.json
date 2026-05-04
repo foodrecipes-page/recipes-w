@@ -4539,6 +4539,21 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-wilted-thai-garlic-bulb-khanom-krok",
+    "title": "Wholesome Wilted Thai Garlic Bulb Khanom-Krok",
+    "tags": [
+      "breakfast",
+      "high-protein",
+      "one-pan",
+      "vegan",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "wicked-briny-croatian-cabbage-stew",
     "title": "Wicked Briny Croatian Cabbage Stew",
     "tags": [
@@ -4922,6 +4937,20 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-argentinian-lemon-wrap",
+    "title": "Argentinian Winey Lemon Wrap",
+    "tags": [
+      "argentinian",
+      "gluten-free",
+      "grilled",
+      "low-sodium",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
