@@ -1,0 +1,109 @@
+{
+  "title": "Whipped Filipino Beef Bistek",
+  "description": "A sweet, silky, quick-fix Filipino beef dish featuring speck, mushimono-steam, no-onion, no-garlic.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "300 g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "3 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Calamansi juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tsp",
+      "notes": "for thickening"
+    },
+    {
+      "name": "Speck",
+      "amount": "50 g",
+      "notes": "diced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Whisk soy sauce, calamansi juice, brown sugar, fish sauce, sesame oil, black pepper, and water until sugar dissolves.",
+    "Toss the sliced beef into the bowl, coat evenly, cover and refrigerate for 15 minutes.",
+    "Heat a skillet over medium-high heat and add diced speck, cooking until crisp and fat renders.",
+    "Remove excess speck fat, then add the marinated beef, searing 2 minutes per side until browned.",
+    "Sprinkle cornstarch over the beef, stir to coat, and cook for an additional 30 seconds to thicken the sauce.",
+    "Transfer the beef to a heatproof dish, pour remaining sauce over it, and cover tightly with foil.",
+    "Steam the beef in a steamer or microwave for 2 minutes, until fully cooked.",
+    "Remove the foil, fluff the beef with a fork, and whisk briefly to achieve a silky texture.",
+    "Serve the whipped beef over steamed rice or noodles.",
+    "Enjoy this sweet, silky Filipino beef bistek."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "filipino",
+    "no-onion",
+    "quick-fix",
+    "silky",
+    "steak",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 1100,
+    "protein": 68,
+    "carbs": 22,
+    "fat": 68
+  },
+  "slug": "whipped-filipino-beef-bistek",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/whipped-filipino-beef-bistek",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:41:11Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "speck",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Beef",
+    "descriptor": "Whipped",
+    "dishForm": "Bistek"
+  }
+}

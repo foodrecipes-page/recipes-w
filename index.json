@@ -2526,6 +2526,22 @@
     "shard": "w"
   },
   {
+    "slug": "whipped-filipino-beef-bistek",
+    "title": "Whipped Filipino Beef Bistek",
+    "tags": [
+      "beef",
+      "filipino",
+      "no-onion",
+      "quick-fix",
+      "silky",
+      "steak",
+      "sweet"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 28,
+    "shard": "w"
+  },
+  {
     "slug": "whipped-french-chocolate-mousse",
     "title": "Whipped French Chocolate Mousse",
     "tags": [
