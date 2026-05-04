@@ -1,0 +1,98 @@
+{
+  "title": "Warm Spicy Mediterranean Lamb Kebabs",
+  "description": "A herbal and pillowy Mediterranean dish featuring lamb kebabs with cayenne pepper and ferment-kimchi, perfect for a gluten-free friendly dinner",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, black pepper, and cayenne pepper",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the lamb is cooked through",
+    "While the kebabs are cooking, heat the ferment-kimchi in a small saucepan over low heat",
+    "Serve the kebabs hot with the warm ferment-kimchi spooned over the top",
+    "Garnish with fresh parsley or oregano, if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "warm-spicy-mediterranean-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-mediterranean-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:53:03Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "cayenne pepper",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Kebabs"
+  }
+}
