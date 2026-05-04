@@ -1,0 +1,107 @@
+{
+  "title": "Warm Mexican Yam Soup",
+  "description": "A velvety, savory soup that blends the earthy sweetness of white yam with smoky poblano peppers, finished with a bright lime twist and fresh cilantro.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white yam",
+      "amount": "400 g",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "poblano pepper",
+      "amount": "2 medium",
+      "notes": "roasted, peeled and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss sliced poblano peppers with 1 tbsp olive oil, salt, and pepper, and roast on a baking sheet for 15 minutes until blistered and softened.",
+    "While peppers roast, heat the remaining 1 tbsp olive oil in a large pot over medium heat.",
+    "Add diced onion and minced garlic, sauté until fragrant and translucent, about 3 minutes.",
+    "Stir in diced white yam, roasted poblano, and vegetable broth, bring to a gentle boil.",
+    "Reduce heat and simmer for 18 minutes, or until yam is tender.",
+    "Remove from heat, and blend the soup with an immersion blender until smooth, then return to pot.",
+    "Stir in lime juice and chopped cilantro, season with salt and pepper to taste; serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy",
+    "gluten-free",
+    "mexican",
+    "souper",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "warm-mexican-yam-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-mexican-yam-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:02:18Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "boil",
+    "primaryIngredient": "white yam",
+    "diet": "mediterranean",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "yam",
+    "descriptor": "Warm",
+    "dishForm": "Soup"
+  }
+}

@@ -400,6 +400,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-mexican-yam-soup",
+    "title": "Warm Mexican Yam Soup",
+    "tags": [
+      "easy",
+      "gluten-free",
+      "mexican",
+      "souper",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-silky-indian-lentil-dal",
     "title": "Warm Silky Indian Lentil Dal",
     "tags": [
