@@ -1,0 +1,90 @@
+{
+  "title": "Warmly Spiced Egyptian Lamb Kebabs",
+  "description": "A flavorful and aromatic Egyptian dish featuring lamb kebabs with a blend of warm spices, served on a talavera plate",
+  "cuisine": "Egyptian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "praline syrup",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium high heat",
+    "In a large bowl, whisk together olive oil, cumin, smoked paprika, garlic powder, salt, and black pepper",
+    "Add the lamb cubes to the bowl and toss to coat with the spice mixture",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece",
+    "Grill the lamb kebabs for 8-10 minutes, turning occasionally, until cooked to an internal temperature of 145 degrees",
+    "Let the kebabs rest for 5 minutes before serving",
+    "Serve the lamb kebabs on a talavera plate, drizzled with praline syrup"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "grilled-meat",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "warmly-spiced-egyptian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-egyptian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:04:00Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "praline-french",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Warmly spiced",
+    "dishForm": "Kebabs"
+  }
+}
