@@ -1,0 +1,107 @@
+{
+  "title": "Wholesome Moroccan Coconut Salad",
+  "description": "A quick, winey, aerated salad combining miso-marinated greens, almonds, and Mediterranean flavors for a macrobiotic-friendly snack.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan",
+    "macrobiotic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mixed greens",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1/2 cup, halved"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup, sliced"
+    },
+    {
+      "name": "roasted almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a small bowl whisk together miso paste, coconut oil, olive oil, lemon juice, garlic, cumin, and smoked paprika until smooth.",
+    "Toss mixed greens, cucumber, tomatoes, olives, and almonds in the bowl with the miso dressing until evenly coated.",
+    "Transfer salad to a serving platter or bowl.",
+    "Drizzle a small amount of extra olive oil over the top for extra shine.",
+    "Sprinkle a pinch of sea salt and freshly ground pepper to taste.",
+    "Let the salad rest for 2 minutes to allow flavors to mingle.",
+    "Serve immediately with a splash of red wine or sparkling water.",
+    "Garnish with a few whole almonds for crunch if desired.",
+    "Enjoy a quick, winey, aerated Moroccan-inspired salad."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "macrobiotic",
+    "moroccan",
+    "quick-fix",
+    "vegan-friendly",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 538,
+    "protein": 11,
+    "carbs": 19,
+    "fat": 49
+  },
+  "slug": "wholesome-moroccan-cobnut-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-moroccan-cobnut-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:52:32Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "miso-marinate",
+    "primaryIngredient": "cobnuts",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Cobnut",
+    "descriptor": "Wholesome",
+    "dishForm": "Salad"
+  }
+}
