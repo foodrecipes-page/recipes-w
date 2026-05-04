@@ -1,0 +1,99 @@
+{
+  "title": "wholesome tunisian flour bake",
+  "description": "a light and airy yeast-based bread originating from tunisia, perfect for weeknight meals",
+  "cuisine": "tunisian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine warm water and yeast, and let it sit for 5 minutes",
+    "add flour, salt, and olive oil to the bowl, and mix until a shaggy dough forms",
+    "knead the dough for 10 minutes until smooth and elastic",
+    "place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour",
+    "preheat the oven to 375 fahrenheit (190 celsius)",
+    "punch down the dough, shape it into a round loaf, and place it on a baking sheet",
+    "brush the top with olive oil and sprinkle with sesame seeds, black pepper, and garlic powder",
+    "bake for 25 minutes, or until golden brown and cooked through",
+    "let the bread cool on a wire rack for 10 minutes before slicing"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "homemade",
+    "one-pan",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 4
+  },
+  "slug": "wholesome-tunisian-flour-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-tunisian-flour-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T11:56:06Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "all purpose flour",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "flour",
+    "descriptor": "wholesome",
+    "dishForm": "bake"
+  }
+}
