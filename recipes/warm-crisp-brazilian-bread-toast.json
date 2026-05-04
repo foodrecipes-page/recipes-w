@@ -1,0 +1,90 @@
+{
+  "title": "Warm Crisp Brazilian Bread Toast",
+  "description": "A bitter yet comforting toast featuring kombu cold extract and toasted coconut, perfect for a quick FODMAP-friendly snack.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat bread slices",
+      "amount": "4"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "15 g"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "10"
+    }
+  ],
+  "instructions": [
+    "Heat the mini cocotte over medium heat.",
+    "Spread butter on one side of each bread slice.",
+    "Coat the buttered side with a thin layer of kombu cold extract.",
+    "Add a drizzle of olive oil to the pan.",
+    "Place the bread slices in the pan, buttered side down.",
+    "Cook until the bottom is golden and crisp, about 3 minutes.",
+    "Flip each slice, sprinkle with salt, pepper, shredded coconut, and toasted sesame seeds, then cook for 1 minute.",
+    "Serve immediately while warm and crisp."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "crispy",
+    "fodmap-friendly",
+    "mini-cocotte",
+    "quick",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 6,
+    "carbs": 56,
+    "fat": 10
+  },
+  "slug": "warm-crisp-brazilian-bread-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crisp-brazilian-bread-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:13:39Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "toast",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "bread",
+    "descriptor": "Warm Crisp",
+    "dishForm": "Toast"
+  }
+}
