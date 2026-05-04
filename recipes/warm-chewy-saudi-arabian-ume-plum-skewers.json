@@ -1,0 +1,98 @@
+{
+  "title": "Warm Chewy Saudi Arabian Ume Plum Skewers",
+  "description": "A fresh and indulgent Saudi Arabian dish featuring ume plum, long fermentation dough, and a shojin friendly approach, all grilled to perfection on a binchotan grill.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ume plum",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "long fermentation dough",
+      "amount": "1 batch",
+      "notes": "made with yeast and flour"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 bag"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 375 degrees Fahrenheit.",
+    "Cut the long fermentation dough into 12 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk shape and place an ume plum in the center of each disk.",
+    "Fold the dough over the plum to form a triangle or square shape and press the edges together to seal.",
+    "Brush the tops of the dough with olive oil and sprinkle with sugar.",
+    "Place the skewers on the binchotan grill and cook for 10 minutes on each side.",
+    "Brush the tops of the skewers with lemon juice and sprinkle with salt and black pepper.",
+    "Continue to cook for an additional 5 minutes or until the dough is golden brown and the plums are tender.",
+    "Remove the skewers from the grill and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan",
+    "dessert",
+    "fruity",
+    "grilled",
+    "middle-eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "warm-chewy-saudi-arabian-ume-plum-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-chewy-saudi-arabian-ume-plum-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:15:48Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "ume-plum",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "saudi arabian",
+    "mainIngredient": "ume plum",
+    "descriptor": "warm chewy",
+    "dishForm": "Skewers"
+  }
+}
