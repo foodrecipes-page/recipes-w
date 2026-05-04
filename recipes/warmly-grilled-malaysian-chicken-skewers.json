@@ -1,0 +1,100 @@
+{
+  "title": "Warmly Grilled Malaysian Chicken Skewers",
+  "description": "A sweet and aerated Malaysian dish featuring chicken, robata-grill, and vegan-friendly options, perfect for a nostalgic meal. This recipe is a variation that can be adapted to vegan diets by substituting chicken with tofu or tempeh.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "or firm tofu for vegan option"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to medium-high heat.",
+    "In a blender, combine coconut milk, lime juice, brown sugar, soy sauce, and olive oil to make the marinade.",
+    "Add garlic and ginger to the marinade and blend until smooth.",
+    "Cut the chicken or tofu into bite-sized pieces and thread onto the bamboo skewers.",
+    "Brush the marinade onto the chicken or tofu, making sure they are fully coated.",
+    "Season with salt and place the skewers on the robata-grill.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until they are cooked through.",
+    "Serve the skewers hot, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "gluten-free",
+    "grilled",
+    "malaysian-cuisine",
+    "robata-grill",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "warmly-grilled-malaysian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-grilled-malaysian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:56:51Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "robata-grill",
+    "primaryIngredient": "chicken",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Warmly grilled",
+    "dishForm": "Skewers"
+  }
+}
