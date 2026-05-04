@@ -1227,6 +1227,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-hearty-french-corned-beef-pot-au-feu",
+    "title": "Warm Hearty French Corned Beef Pot au Feu",
+    "tags": [
+      "corned-beef",
+      "dairy-free",
+      "french",
+      "one-pan",
+      "pot-au-feu",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 190,
+    "shard": "w"
+  },
+  {
     "slug": "warm-herbal-dairy-free-miso-stir-fry",
     "title": "Warm Herbal Dairy-Free Miso Stir-fry",
     "tags": [
@@ -1281,6 +1296,19 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-irish-porridge-oats-porridge",
+    "title": "Warm Irish Porridge",
+    "tags": [
+      "comfort-food",
+      "diabetic-friendly",
+      "gluten-free",
+      "high-fiber"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 12,
     "shard": "w"
   },
   {
@@ -2553,6 +2581,21 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 27,
+    "shard": "w"
+  },
+  {
+    "slug": "warming-agemono-norwegian-tamarind-paste-makham-tagine",
+    "title": "Warming Agemono Norwegian Tamarind-Paste-Makham Tagine",
+    "tags": [
+      "deep-fried",
+      "high-protein",
+      "jain-friendly",
+      "norwegian",
+      "tagine",
+      "weeknight"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {

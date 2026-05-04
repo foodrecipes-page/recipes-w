@@ -1,0 +1,126 @@
+{
+  "title": "Warm Hearty French Corned Beef Pot au Feu",
+  "description": "A savory, cheese-pull crowd-pleaser featuring corned beef, wok-hei, and dairy-free-friendly options. This classic French dish is perfect for a special occasion or a cozy night in.",
+  "cuisine": "French",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "meat",
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corned beef brisket",
+      "amount": "1 (2 lbs) piece",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "4 slices",
+      "notes": "(dairy-free alternative: nutritional yeast)"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the sliced onions and cook until they're translucent and caramelized, about 20 minutes.",
+    "Add the sliced carrots and celery and cook for an additional 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the corned beef brisket and brown it on all sides, about 5 minutes.",
+    "Add the beef broth, red wine, tomato paste, and thyme to the pot. Bring the liquid to a boil, then cover the pot and transfer it to the oven.",
+    "Bake the pot au feu for 2 hours, or until the meat is tender and the vegetables are cooked through.",
+    "Remove the pot from the oven and carefully remove the meat from the pot. Slice it thinly against the grain.",
+    "Return the pot to the stovetop and bring the liquid to a simmer.",
+    "Reduce the heat to low and let the pot au feu simmer for 10 minutes, stirring occasionally.",
+    "Serve the sliced meat and vegetables hot, topped with grated Gruyère cheese (or nutritional yeast).",
+    "Garnish with fresh thyme and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "corned-beef",
+    "dairy-free",
+    "french",
+    "one-pan",
+    "pot-au-feu",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "warm-hearty-french-corned-beef-pot-au-feu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-hearty-french-corned-beef-pot-au-feu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:51Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "wok-hei",
+    "primaryIngredient": "corned beef",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Corned Beef",
+    "descriptor": "Warm Hearty",
+    "dishForm": "Pot au Feu"
+  }
+}

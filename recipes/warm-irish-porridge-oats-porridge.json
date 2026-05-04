@@ -1,0 +1,95 @@
+{
+  "title": "Warm Irish Porridge",
+  "description": "A comforting, diabetic-friendly breakfast featuring Irish porridge oats and double-rise bread. This pungent, aerated dish is perfect for midnight cravings.",
+  "cuisine": "Irish",
+  "diet": [
+    "diabetic",
+    "gluten-free",
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish Porridge Oats",
+      "amount": "1 cup",
+      "notes": "Rolled oats, preferably with a low glycemic index"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "Use filtered water to reduce mineral intake"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/8 tsp",
+      "notes": "Unrefined, plain salt for added flavor"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1/4 tsp",
+      "notes": "Grated, fresh ginger for aroma and taste"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "Unrefined, plain sugar for balanced sweetness"
+    },
+    {
+      "name": "Double-Rise Bread",
+      "amount": "2 slices",
+      "notes": "Day-old, gluten-free bread for added texture"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted, low-fat butter for richness"
+    }
+  ],
+  "instructions": [
+    "Bring 2 cups of water to a boil in a medium saucepan.",
+    "Add 1 cup of Irish Porridge Oats and reduce heat to medium.",
+    "Cook for 5 minutes, stirring frequently, until oats are well combined with water.",
+    "Add 1/8 tsp of salt and 1/4 tsp of grated ginger.",
+    "Continue cooking for an additional 2 minutes, stirring frequently.",
+    "Add 1 tsp of unrefined sugar and stir to combine.",
+    "Transfer cooked oats to a serving bowl.",
+    "Add 2 slices of day-old double-rise bread to the oats.",
+    "Top with 2 tbsp of unsalted, low-fat butter.",
+    "Serve warm, puffed, and creamy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 1,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "gluten-free",
+    "high-fiber"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "warm-irish-porridge-oats-porridge",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-irish-porridge-oats-porridge",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:19Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "porridge oats",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "porridge oats",
+    "descriptor": "warm",
+    "dishForm": "porridge"
+  }
+}
