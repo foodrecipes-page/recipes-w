@@ -1220,6 +1220,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-saudi-arabian-cheese-stir-fry",
+    "title": "Warm Saudi Arabian Cheese Stir Fry",
+    "tags": [
+      "cheese-pull",
+      "kid-friendly",
+      "one-pot",
+      "saudi-arabian",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-sichuan-noodles-dumplings",
     "title": "Warm Sichuan Noodles Dumplings",
     "tags": [
