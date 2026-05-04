@@ -1,0 +1,100 @@
+{
+  "title": "Warm Yeasty American Kimchi Burger",
+  "description": "A diabetic-friendly burger featuring yeast-raised buns, fermented kimchi, and a sweet and savory flavor profile, perfect for a hangover cure.",
+  "cuisine": "American",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": "for yeast-raised buns"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "fermented, store-bought or homemade"
+    },
+    {
+      "name": "ground beef",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "American cheese slices",
+      "amount": "4 slices"
+    },
+    {
+      "name": "lettuce",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 slices"
+    },
+    {
+      "name": "pickles",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine yeast, flour, sugar, and 1 cup of warm water to make the yeast-raised buns.",
+    "Knead the dough for 10 minutes until smooth and elastic, then let it rise in a warm place for 1 hour.",
+    "Preheat a grill or grill pan to medium-high heat and cook the ground beef patties for 4-5 minutes per side.",
+    "Butter the buns and toast them on the grill or in a toaster.",
+    "Assemble the burgers with a beef patty, a slice of cheese, a spoonful of kimchi, lettuce, tomato, and pickles.",
+    "Place the burgers under the broiler for 1-2 minutes to melt the cheese.",
+    "Serve immediately and enjoy.",
+    "Let the burgers rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-style",
+    "burger-lovers",
+    "diabetic-friendly",
+    "hangover-cure",
+    "weeknight-meal",
+    "yeast-raised"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "warm-yeasty-american-kimchi-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-yeasty-american-kimchi-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:48:36Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "granulated sugar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "kimchi",
+    "descriptor": "Warm Yeasty",
+    "dishForm": "Burger"
+  }
+}

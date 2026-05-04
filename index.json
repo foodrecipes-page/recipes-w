@@ -418,6 +418,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-yeasty-american-kimchi-burger",
+    "title": "Warm Yeasty American Kimchi Burger",
+    "tags": [
+      "american-style",
+      "burger-lovers",
+      "diabetic-friendly",
+      "hangover-cure",
+      "weeknight-meal",
+      "yeast-raised"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warmly-spiced-irish-ground-pork-dumplings",
     "title": "Warmly Spiced Irish Ground Pork Dumplings",
     "tags": [
