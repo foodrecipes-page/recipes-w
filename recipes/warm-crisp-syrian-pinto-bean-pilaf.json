@@ -1,0 +1,98 @@
+{
+  "title": "Warm Crisp Syrian Pinto Bean Pilaf",
+  "description": "A flavorful and healthy Syrian dish featuring pinto beans, ferment-jang, and a crisp texture, perfect for a lazy Sunday, this low-calorie-friendly pilaf is a great option for a relaxing meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pinto beans",
+      "amount": "1 cup",
+      "notes": "dried, soaked overnight and drained"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the pinto beans, ferment-jang, olive oil, onion, garlic, salt, black pepper, and sumac.",
+    "Transfer the mixture to a baking dish and bake for 30 minutes.",
+    "Stir the pilaf and continue baking for an additional 10 minutes, or until the top is crispy and golden brown.",
+    "Remove the pilaf from the oven and sprinkle with chopped fresh parsley.",
+    "Let the pilaf cool for a few minutes before serving.",
+    "Serve the pilaf warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "low-calorie",
+    "one-pan",
+    "syrian-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "warm-crisp-syrian-pinto-bean-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crisp-syrian-pinto-bean-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:06:01Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "ferment-jang",
+    "primaryIngredient": "pinto beans",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "pinto beans",
+    "descriptor": "Warm Crisp",
+    "dishForm": "Pilaf"
+  }
+}

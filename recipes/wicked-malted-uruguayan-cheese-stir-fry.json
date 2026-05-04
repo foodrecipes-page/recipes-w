@@ -1,0 +1,115 @@
+{
+  "title": "Wicked Malted Uruguayan Cheese Stir-fry",
+  "description": "A midnight-craving, malty uruguayan dish that delivers a cheese-pull experience with a hint of mirin-hon, sautéed in a kadhai for a Mediterranean-friendly delight.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Malted Uruguayan cheddar cheese",
+      "amount": "150g",
+      "notes": "shredded"
+    },
+    {
+      "name": "Mirin-hon",
+      "amount": "1 tbsp",
+      "notes": "prepared"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pine nuts",
+      "amount": "1/8 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "2 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cooked quinoa",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the kadhai over medium heat and drizzle in the olive oil, letting it shimmer.",
+    "Add the sliced onion and minced garlic, sautéing until the onion becomes translucent and fragrant.",
+    "Introduce the red bell pepper slices and broccoli florets, stirring frequently for 4 minutes until vegetables start to soften.",
+    "Sprinkle the smoked paprika over the vegetables and mix well, letting the spice bloom for 30 seconds.",
+    "Fold in the shredded Malted Uruguayan cheddar cheese, allowing it to melt and mingle with the veggies.",
+    "Pour the mirin-hon over the cheese mixture, stirring to create a glossy, slightly sweet coating.",
+    "Stir in the toasted pine nuts, grated Parmesan, and lemon zest, cooking for an additional 2 minutes to further toast the nuts.",
+    "Gently fold in the cooked quinoa, ensuring the grains are heated through and coated with sauce.",
+    "Remove the kadhai from heat and let the dish sit for 1 minute to meld the flavors.",
+    "Serve hot, garnishing with optional fresh parsley, and enjoy the midnight-craving cheese-pull experience."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "easy-to-make",
+    "mediterranean-friendly",
+    "midnight-craving",
+    "one-pan",
+    "uruguay-heritage"
+  ],
+  "nutrition": {
+    "calories": 505,
+    "protein": 42,
+    "carbs": 78,
+    "fat": 48
+  },
+  "slug": "wicked-malted-uruguayan-cheese-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wicked-malted-uruguayan-cheese-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:06:05Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "saute",
+    "primaryIngredient": "mirin-hon",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Cheese",
+    "descriptor": "Wicked Malted",
+    "dishForm": "Stir-fry"
+  }
+}

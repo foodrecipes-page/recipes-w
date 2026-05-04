@@ -315,6 +315,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-crisp-syrian-pinto-bean-pilaf",
+    "title": "Warm Crisp Syrian Pinto Bean Pilaf",
+    "tags": [
+      "lazy-sunday",
+      "low-calorie",
+      "one-pan",
+      "syrian-cuisine",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crispy-algerian-ice-cream-fritters",
     "title": "Algerian Ice Cream Fritters",
     "tags": [
@@ -3489,6 +3504,21 @@
       "show-off"
     ],
     "cuisine": "Irish",
+    "totalTimeMin": 20,
+    "shard": "w"
+  },
+  {
+    "slug": "wicked-malted-uruguayan-cheese-stir-fry",
+    "title": "Wicked Malted Uruguayan Cheese Stir-fry",
+    "tags": [
+      "cheese-pull",
+      "easy-to-make",
+      "mediterranean-friendly",
+      "midnight-craving",
+      "one-pan",
+      "uruguay-heritage"
+    ],
+    "cuisine": "Uruguayan",
     "totalTimeMin": 20,
     "shard": "w"
   },
