@@ -1,0 +1,120 @@
+{
+  "title": "Wholesome Jamaican Bread Bake",
+  "description": "A rich, gooey post‑workout Jamaican snack made with bread flour, spices, and a flambé rum glaze.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bread flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "warm milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "rum",
+      "amount": "2 tbsp",
+      "notes": "for flambé"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine warm milk, sugar, yeast and let sit 10 minutes until frothy.",
+    "Whisk bread flour, brown sugar, salt, smoked paprika, dried thyme and cinnamon into a dry bowl.",
+    "Add the frothy mixture, melted butter, and egg to the dry mixture and stir until dough forms.",
+    "Knead the dough on a floured surface for 8 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover, and let rise in a warm place 30 minutes until doubled.",
+    "Punch the dough, divide into 6 equal portions, shape into small rounds and place on a parchment‑lined baking sheet.",
+    "Preheat the oven to 375°F and bake the rounds for 20 minutes until golden.",
+    "While the doughs bake heat rum in a small saucepan over medium, ignite with a long match to flambé and swirl.",
+    "Brush the flambéed rum over the warm bread and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "flambe",
+    "flexitarian",
+    "high-protein",
+    "jamaican",
+    "low-sugar",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "wholesome-jamaican-bread-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-jamaican-bread-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:42:44Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "flambe",
+    "primaryIngredient": "bread flour",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Bread",
+    "descriptor": "Wholesome",
+    "dishForm": "Bake"
+  }
+}
