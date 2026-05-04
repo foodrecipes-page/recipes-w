@@ -1,0 +1,103 @@
+{
+  "title": "Wholesome Smoky Canadian Tofu Bowl",
+  "description": "A tangy, shaggy bowl featuring smoky barbecue tofu over quinoa, roasted squash, and steamed broccoli, perfect for a date-night Canadian vibe.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan",
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "14 oz",
+      "notes": "pressed and diced"
+    },
+    {
+      "name": "cooked quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "roasted butternut squash cubes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "steamed broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low sodium barbecue sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F and line a baking sheet with parchment paper.",
+    "Toss the butternut squash cubes in a tablespoon of sesame oil and roast for 20 minutes until tender and slightly caramelized.",
+    "Heat a non‑stick skillet over medium heat and add the tofu cubes, cooking until golden brown on all sides.",
+    "In a small bowl, whisk together the barbecue sauce, maple syrup, grated ginger, soy sauce, and remaining tablespoon of sesame oil.",
+    "Pour the sauce over the browned tofu and stir to coat, cooking for an additional 2 minutes until the sauce thickens.",
+    "Meanwhile, steam the broccoli florets until bright green and just tender, about 5 minutes.",
+    "Arrange the cooked quinoa at the bottom of a bowl, then top with roasted squash, steamed broccoli, and saucy tofu.",
+    "Sprinkle toasted sesame seeds over the entire bowl for an extra smoky crunch.",
+    "Serve the bowl warm and enjoy the smoky, tangy flavors that hint at a Canadian winter night.",
+    "Optional: garnish with chopped scallions for a fresh finish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "macrobiotic",
+    "one-pan",
+    "quick",
+    "smoked",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 417,
+    "protein": 42,
+    "carbs": 98,
+    "fat": 35
+  },
+  "slug": "wholesome-smoky-canadian-tofu-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-smoky-canadian-tofu-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:24:37Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "smoke-cold",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "tofu",
+    "descriptor": "Wholesome Smoky",
+    "dishForm": "Bowl"
+  }
+}
