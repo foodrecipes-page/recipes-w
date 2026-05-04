@@ -1,0 +1,100 @@
+{
+  "title": "Whipped Malaysian Fish Soup",
+  "description": "A citrusy, light, energizing fish soup with tomato juice, kombu extract, and fresh cucumber, perfect for a quick pescatarian lunch.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm white fish fillets",
+      "amount": "200g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomato juice",
+      "amount": "4 cups"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Bring the tomato juice to a gentle boil in a medium pot.",
+    "Add the kombu extract and stir until dissolved.",
+    "Add the sliced fish and simmer for 4 minutes until the fish flakes easily.",
+    "Add the mushrooms, cucumber, ginger, chili flakes, and salt and cook for an additional 2 minutes.",
+    "Pour in the coconut milk and stir until combined.",
+    "Remove the pot from heat and pour the soup into a blender to create a smooth texture.",
+    "Add the lime juice and adjust seasoning if needed.",
+    "Serve the soup warm, topped with a drizzle of sesame oil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "energizing",
+    "light",
+    "no-heat",
+    "pescatarian-friendly",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 18,
+    "fat": 12
+  },
+  "slug": "whipped-malaysian-fish-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/whipped-malaysian-fish-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:08:11Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "tomato juice",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Fish",
+    "descriptor": "Whipped",
+    "dishForm": "Soup"
+  }
+}
