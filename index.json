@@ -255,6 +255,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-crunchy-german-minari-fritters",
+    "title": "Warm Crunchy German Minari Fritters",
+    "tags": [
+      "crunchy-snacks",
+      "double-fry",
+      "german-cuisine",
+      "kfc-style",
+      "shojin-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crunchy-irish-seafood-stew",
     "title": "Warm Crunchy Irish Seafood Stew",
     "tags": [

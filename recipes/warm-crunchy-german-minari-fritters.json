@@ -1,0 +1,99 @@
+{
+  "title": "Warm Crunchy German Minari Fritters",
+  "description": "A funky, crumbly, indulgent German dish featuring minari, double-fry KFC style, shojin-friendly, perfect for a snack or dinner.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "minari",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chopped minari, all purpose flour, cornstarch, salt, and black pepper.",
+    "In a separate bowl, mix together vegetable oil, chopped onion, and minced garlic.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Using a cookie scoop or spoon, drop small balls of the mixture into hot oil at 350 degrees Fahrenheit.",
+    "Fry the fritters for 2-3 minutes on each side, until golden brown and crispy.",
+    "Remove the fritters from the oil and place them on a paper towel lined plate to drain excess oil.",
+    "Increase the oil temperature to 375 degrees Fahrenheit and fry the fritters again for an additional 1-2 minutes, until extra crispy.",
+    "Remove the fritters from the oil and sprinkle with lemon juice.",
+    "Serve the Warm Crunchy German Minari Fritters hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-snacks",
+    "double-fry",
+    "german-cuisine",
+    "kfc-style",
+    "shojin-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "warm-crunchy-german-minari-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crunchy-german-minari-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:45:31Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "minari",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "minari",
+    "descriptor": "Warm Crunchy",
+    "dishForm": "Fritters"
+  }
+}
