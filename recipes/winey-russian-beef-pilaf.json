@@ -1,0 +1,111 @@
+{
+  "title": "Winey Russian Beef Pilaf",
+  "description": "A comforting, wine-infused beef pilaf with crunchy toasted almonds and a nostalgic Russian flair, dairy free and quick to prepare.",
+  "cuisine": "Russian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "300 g",
+      "notes": "diced"
+    },
+    {
+      "name": "sevaiiya",
+      "amount": "1 cup",
+      "notes": "dry grain"
+    },
+    {
+      "name": "dry red wine",
+      "amount": "200 ml"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "50 g"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp oil in a large skillet over medium heat until shimmering.",
+    "Add diced beef and sear until browned on all sides, about 5 minutes, then remove and set aside.",
+    "In the same skillet, sauté onion and carrot until softened, about 4 minutes.",
+    "Stir in minced garlic, thyme, and bay leaf, cooking for 1 minute until fragrant.",
+    "Pour in 200 ml red wine, deglaze the pan, and simmer until reduced by half, about 5 minutes.",
+    "Add the sevaiiya grain and stir to coat with the wine mixture, then return the beef to the pan.",
+    "Cover, reduce heat to low, and simmer until the grain is tender and liquid absorbed, about 20 minutes.",
+    "Sprinkle toasted almonds over the pilaf, season with salt and pepper, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "crunchy",
+    "dairy-free",
+    "nostalgic",
+    "rustic",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "winey-russian-beef-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-russian-beef-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:58:36Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "rest-meat",
+    "primaryIngredient": "sevaiiya",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Winey",
+    "dishForm": "Pilaf"
+  }
+}

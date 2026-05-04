@@ -1,0 +1,105 @@
+{
+  "title": "Warm Indian Peanuts Rasam",
+  "description": "A grassy, velvety brunch‑mood rasam packed with roasted peanuts and smoky heat, dairy‑free and served warm from a wok.",
+  "cuisine": "Indian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "roasted peanuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tamarind pulp",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried red chili",
+      "amount": "2, broken"
+    },
+    {
+      "name": "asafoetida",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Place peanuts, tamarind pulp, tomatoes, coriander, mustard seeds, cumin seeds, dried red chili, asafoetida, black pepper, salt, lemon juice, and water in a wok and bring to a gentle boil over medium heat.",
+    "Once boiling, reduce heat to low and simmer for 15 minutes to allow flavors to meld.",
+    "Stir occasionally to prevent sticking and ensure even cooking.",
+    "After simmering, mash the tomatoes and peanuts slightly with a spoon for a smoother texture.",
+    "Increase heat to high and bring the rasam to a rapid boil, letting the tempering release aromas.",
+    "Reduce heat to medium and let the rasam bubble for an additional 5 minutes, adjusting salt if needed.",
+    "Stir in a splash of lemon juice for brightness and remove from heat.",
+    "Ladle the warm rasam into bowls, garnish with fresh coriander, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "dairy-free",
+    "indian",
+    "one-pot",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 75
+  },
+  "slug": "warm-indian-peanuts-rasam",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-indian-peanuts-rasam",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:58:47Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "smoke-hot",
+    "primaryIngredient": "peanuts",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "peanuts",
+    "descriptor": "Warm",
+    "dishForm": "Rasam"
+  }
+}
