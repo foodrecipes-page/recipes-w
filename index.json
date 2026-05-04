@@ -958,6 +958,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-irish-cheese-wrap",
+    "title": "Warm Irish Cheese Wrap",
+    "tags": [
+      "cheesy",
+      "easy-meal",
+      "gluten-free",
+      "irish-food",
+      "snack",
+      "whole30"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "warm-irish-potato-crumble",
     "title": "Warm Irish Potato Crumble",
     "tags": [
