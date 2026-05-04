@@ -1304,6 +1304,20 @@
     "shard": "w"
   },
   {
+    "slug": "wild-crispy-thai-egg-khanom-thai",
+    "title": "Wild Crispy Thai Egg Khanom Thai",
+    "tags": [
+      "crispy",
+      "one-pan",
+      "ovo-vegetarian",
+      "quick",
+      "thai"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "wild-norwegian-macaroni-pasta",
     "title": "Wild Norwegian Macaroni Pasta",
     "tags": [

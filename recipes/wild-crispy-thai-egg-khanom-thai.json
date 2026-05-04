@@ -1,0 +1,104 @@
+{
+  "title": "Wild Crispy Thai Egg Khanom Thai",
+  "description": "A pungent, crispy one-pot Thai dish with brown sugar and en-croute that delivers a satisfying crunch in every bite.",
+  "cuisine": "thai",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "potatoes",
+      "amount": "200g",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 tbsp",
+      "notes": "light"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok over medium-high heat.",
+    "Add the diced potatoes and stir-fry until they start to brown.",
+    "Sprinkle the brown sugar over the potatoes and continue to cook until the sugar caramelizes.",
+    "Add the ginger, garlic, and soy sauce, stirring to combine and coat the potatoes evenly.",
+    "Push the mixture to the side of the wok and crack the eggs into the space, allowing them to scramble lightly.",
+    "Once the eggs are set, mix everything together and pour in the coconut milk.",
+    "Add the scallions and lime juice, stirring until the curry is fragrant and the liquid reduces slightly.",
+    "Serve immediately while the dish remains hot and crispy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "one-pan",
+    "ovo-vegetarian",
+    "quick",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 30,
+    "carbs": 65,
+    "fat": 40
+  },
+  "slug": "wild-crispy-thai-egg-khanom-thai",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wild-crispy-thai-egg-khanom-thai",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:09:04Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "en-croute",
+    "primaryIngredient": "brown sugar",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Egg",
+    "descriptor": "Wild Crispy",
+    "dishForm": "Khanom Thai"
+  }
+}
