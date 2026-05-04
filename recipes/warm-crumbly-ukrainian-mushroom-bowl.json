@@ -1,0 +1,104 @@
+{
+  "title": "Warm Crumbly Ukrainian Mushroom Bowl",
+  "description": "A hearty and flavorful Ukrainian dish featuring a variety of mushrooms in a rich dashi broth, served with a side of crumbly beurre-monte topping, perfect for a solo dinner",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "ayurvedic-sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mixed mushrooms",
+      "amount": "1 cup",
+      "notes": "such as cremini, shiitake, and oyster mushrooms"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "buckwheat groats",
+      "amount": "1/2 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, saute the sliced onion and minced garlic over medium heat until softened.",
+    "Add the mixed mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "In a small saucepan, warm the dashi broth over low heat.",
+    "In a separate bowl, mix the toasted buckwheat groats with the softened beurre-monte until crumbly.",
+    "To assemble the dish, place a portion of the cooked mushroom mixture into a heated dolsot stone bowl.",
+    "Ladle the warm dashi broth over the mushrooms, then top with the crumbly beurre-monte mixture.",
+    "Garnish with chopped fresh parsley and season with salt and black pepper to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "mushroom-lovers",
+    "one-bowl",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-crumbly-ukrainian-mushroom-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crumbly-ukrainian-mushroom-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:51:53Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "beurre-monte",
+    "primaryIngredient": "dashi",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Warm Crumbly",
+    "dishForm": "Bowl"
+  }
+}
