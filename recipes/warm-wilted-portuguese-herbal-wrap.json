@@ -1,0 +1,102 @@
+{
+  "title": "Warm Wilted Portuguese Herbal Wrap",
+  "description": "A soothing, sick-day wrap filled with Asian-chive-buchu herbal goodness, wrapped in a corn husk. Serve warm and enjoy the ayurvedic benefits.",
+  "cuisine": "portuguese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Asian-chive-buchu",
+      "amount": "2 cups",
+      "notes": "fresh or dried, chopped"
+    },
+    {
+      "name": "Corn husk",
+      "amount": "4 wraps",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium heat.",
+    "Add garlic and ginger, sauté for 1 minute.",
+    "Add onion, sauté until softened, about 3 minutes.",
+    "Add Asian-chive-buchu, wilt into the onion mixture.",
+    "Add spinach, cook until wilted.",
+    "Season with salt and black pepper to taste.",
+    "Warm the corn husk wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spooning the herbal mixture into the center of each wrap.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "gluten-free",
+    "herbal",
+    "portuguese",
+    "sick-day",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "warm-wilted-portuguese-herbal-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wilted-portuguese-herbal-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:52Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "asian-chive-buchu",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "herbal",
+    "descriptor": "Warm Wilted",
+    "dishForm": "Wrap"
+  }
+}

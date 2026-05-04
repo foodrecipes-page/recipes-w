@@ -1,0 +1,108 @@
+{
+  "title": "Winey Creamy Venezuelan Radish Bake",
+  "description": "A comforting, creamy Venezuelan dish featuring radish and tempering chocolate, perfect for a midnight craving. This recipe can be made in a single pan, making it ideal for weeknights.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red radish",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tempering chocolate",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, melt butter over medium heat. Add sliced radish and sauté for 5 minutes, or until slightly tender.",
+    "Add grated ginger, salt, and black pepper. Cook for an additional minute, stirring constantly.",
+    "Add chopped chocolate and heavy cream. Stir until chocolate is melted and sauce is smooth.",
+    "Add flour and stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes, or until radish is tender and sauce is bubbly.",
+    "Remove from the oven and stir in wine vinegar and chopped cilantro.",
+    "Serve warm, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "carb-free",
+    "comfort-food",
+    "latin-influence",
+    "midnight-crust",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "winey-creamy-venezuelan-radish-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-creamy-venezuelan-radish-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:44:09Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "radish",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "radish",
+    "descriptor": "winey creamy",
+    "dishForm": "bake"
+  }
+}

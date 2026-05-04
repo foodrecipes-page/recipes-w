@@ -1,0 +1,117 @@
+{
+  "title": "warm earthy thai pumpkin bake",
+  "description": "a dense, festive thai dish from issan featuring sherry vinegar and dehydrated vegetables",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "1 large, peeled and cubed",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches, grated",
+      "notes": ""
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "dehydrated mushrooms",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375°f.",
+    "in a large bowl, combine the pumpkin, onion, garlic, ginger, sherry vinegar, fish sauce, sugar, salt, and black pepper.",
+    "mix well to combine.",
+    "transfer the mixture to a 9x13 inch baking dish.",
+    "drizzle the coconut oil over the top and toss to coat.",
+    "sprinkle the kaffir lime leaves and dehydrated mushrooms over the top.",
+    "cover the dish with aluminum foil and bake for 30 minutes.",
+    "remove the foil and continue baking for an additional 20-25 minutes, or until the top is lightly browned and the pumpkin is tender.",
+    "remove from the oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "isaan",
+    "one-pan",
+    "sugar-free",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "warm-earthy-thai-pumpkin-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-earthy-thai-pumpkin-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:44:19Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "dehydrate",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "sugar-free",
+    "region": "isaan",
+    "cuisineAdjective": "thai",
+    "mainIngredient": "pumpkin",
+    "descriptor": "warm earthy",
+    "dishForm": "Bake"
+  }
+}
