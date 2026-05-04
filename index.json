@@ -332,6 +332,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-comforting-german-semolina-pudding",
+    "title": "Warm Comforting German Semolina Pudding",
+    "tags": [
+      "comfort-food",
+      "easy-dessert",
+      "german-dessert",
+      "warm-dessert",
+      "weeknight-dessert"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-creamy-american-chicken-casserole",
     "title": "Warm Creamy American Chicken Casserole",
     "tags": [
@@ -1265,6 +1279,20 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-japanese-vanilla-custard-hot-pot",
+    "title": "warm japanese vanilla custard hot pot",
+    "tags": [
+      "comfort-food",
+      "custard",
+      "dessert",
+      "hot-pot",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {

@@ -1,0 +1,63 @@
+{
+  "title": "warm japanese vanilla custard hot pot",
+  "description": "winey, crisp, comforting japanese dish featuring vanilla custard, caramelized goodness in a warm hot pot vessel. a must-try for lacto-vegetarians",
+  "cuisine": "japanese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "vanilla beans",
+      "amount": "2",
+      "notes": "fresh or high-quality dried beans work best"
+    }
+  ],
+  "instructions": [
+    "in a small bowl, whisk together eggs, granulated sugar, and cornstarch until light and fluffy",
+    "heat milk in a saucepan over medium heat until hot but not boiling",
+    "temper the egg mixture by slowly pouring the hot milk into the eggs, whisking constantly",
+    "return the saucepan to medium heat and cook the custard, stirring constantly, until it thickens and coats the back of a spoon",
+    "remove the custard from heat and stir in vanilla extract",
+    "in a separate pan, caramelize the sugar over medium heat until it forms a deep amber color",
+    "remove the sugar from heat and carefully pour it into the hot pot vessel",
+    "pour the vanilla custard into the sugar-lined hot pot vessel and smooth the top",
+    "cover the hot pot vessel with a lid and cook over low heat until the custard is set and the flavors have melded together"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "custard",
+    "dessert",
+    "hot-pot",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-japanese-vanilla-custard-hot-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-japanese-vanilla-custard-hot-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:35Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "caramelize",
+    "primaryIngredient": "vanilla custard",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "vanilla custard",
+    "descriptor": "warm",
+    "dishForm": "hot-pot"
+  }
+}

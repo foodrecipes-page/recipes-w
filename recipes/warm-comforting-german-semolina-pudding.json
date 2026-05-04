@@ -1,0 +1,104 @@
+{
+  "title": "Warm Comforting German Semolina Pudding",
+  "description": "A comforting, diabetic-friendly German dessert featuring semolina, often served warm and topped with a sweet syrup. This classic recipe is easy to make and perfect for a chilly evening.",
+  "cuisine": "German",
+  "diet": [
+    "diabetic",
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "180g",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "450ml",
+      "notes": "whole milk or a non-dairy milk alternative"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "brine water (from 250g pickles)",
+      "amount": "120ml",
+      "notes": "see instructions"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "20g",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine semolina flour, sugar, and salt in a medium saucepan.",
+    "Gradually add milk, whisking constantly to avoid lumps.",
+    "Cook over medium heat, stirring constantly, until the mixture thickens and comes to a boil.",
+    "Remove from heat and stir in butter, eggs, and vanilla extract.",
+    "Stir in brine water and let cool slightly.",
+    "Pour into individual serving cups and refrigerate for at least 2 hours or until chilled.",
+    "If desired, dust with confectioners' sugar before serving.",
+    "Heat pudding in the microwave or in a saucepan over low heat until warm.",
+    "Serve immediately, garnished with sugar or fresh fruit if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-dessert",
+    "german-dessert",
+    "warm-dessert",
+    "weeknight-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "warm-comforting-german-semolina-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-comforting-german-semolina-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:54Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "brine-wet",
+    "primaryIngredient": "semolina",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "semolina",
+    "descriptor": "warm comforting",
+    "dishForm": "Pudding"
+  }
+}
