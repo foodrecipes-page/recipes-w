@@ -1,0 +1,95 @@
+{
+  "title": "Wildly Yeasty Vietnamese Fish Fillet Double Fry",
+  "description": "A yeasty and molten Vietnamese dish featuring fish fillet with a double fry method, similar to KFC, and is egg-free friendly.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "egg-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillet",
+      "amount": "4 pieces",
+      "notes": "any white fish"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine yeast, flour, cornstarch, salt, sugar, and garlic.",
+    "Add the fish fillet pieces to the bowl and coat evenly with the yeast mixture.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Double fry the fish fillet pieces by frying them for 3 minutes, then letting them rest for 2 minutes, and finally frying them again for an additional 2 minutes.",
+    "Remove the fried fish fillet from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the wildly yeasty Vietnamese fish fillet double fry hot and enjoy.",
+    "To make the dish more adventurous, serve with a side of spicy Vietnamese chili sauce.",
+    "Garnish with chopped scallions and a sprinkle of toasted sesame seeds for added flavor and texture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "double-fry",
+    "fish-fillet",
+    "spicy",
+    "vietnamese-cuisine",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "wildly-yeasty-vietnamese-fish-fillet-double-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-yeasty-vietnamese-fish-fillet-double-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:02:27Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "fish fillet",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "fish fillet",
+    "descriptor": "Wildly Yeasty",
+    "dishForm": "Double Fry"
+  }
+}
