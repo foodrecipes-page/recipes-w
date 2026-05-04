@@ -907,6 +907,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-fluffy-polish-chicken-fried-rice",
+    "title": "Warm Fluffy Polish Chicken Fried Rice",
+    "tags": [
+      "cauliflower-rice",
+      "chicken-dish",
+      "low-glycemic",
+      "one-pan",
+      "polish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-french-sausage-gratin",
     "title": "Warm French Sausage Gratin",
     "tags": [

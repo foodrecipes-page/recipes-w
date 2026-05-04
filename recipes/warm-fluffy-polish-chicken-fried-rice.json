@@ -1,0 +1,101 @@
+{
+  "title": "Warm Fluffy Polish Chicken Fried Rice",
+  "description": "A solo dinner dish featuring ancho chillies and low glycemic ingredients, this polish chicken fried rice is a must try for a warm and fluffy meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "ancho chillies",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Grind the ancho chillies into a fine powder using a spice grinder.",
+    "Heat the coconut oil in a large skillet over medium high heat.",
+    "Add the chicken breast to the skillet and cook until browned and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the mustard, salt, and pepper to the skillet and stir to combine.",
+    "Add the cauliflower rice to the skillet and stir to combine with the mustard mixture.",
+    "Push the rice mixture to one side of the skillet.",
+    "Add a little more coconut oil to the other side of the skillet and pour in the beaten eggs.",
+    "Scramble the eggs until cooked through and then mix with the rice mixture.",
+    "Add the chopped scallions and cooked chicken to the skillet and stir to combine.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "cauliflower-rice",
+    "chicken-dish",
+    "low-glycemic",
+    "one-pan",
+    "polish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "warm-fluffy-polish-chicken-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-fluffy-polish-chicken-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:44:52Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "ancho chillies",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm fluffy",
+    "dishForm": "Fried-Rice"
+  }
+}
