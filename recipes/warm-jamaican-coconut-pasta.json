@@ -1,0 +1,102 @@
+{
+  "title": "Warm Jamaican Coconut Pasta",
+  "description": "An earthy, fluffy, nostalgic Jamaican dish featuring jam n ib rico, a pasta-water emulsion, and an egg‑free-friendly sauce.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg‑free pasta, dried",
+      "amount": "200g"
+    },
+    {
+      "name": "jam n ib rico sauce",
+      "amount": "240ml"
+    },
+    {
+      "name": "coconut milk, canned",
+      "amount": "240ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "allspice, ground",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "2 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Boil a large pot of salted water and cook the pasta until al dente, about 8 to 10 minutes.",
+    "While the pasta cooks, heat the olive oil in a skillet over medium heat and sauté the diced onion until translucent.",
+    "Add the minced garlic to the skillet and cook for 30 seconds until fragrant.",
+    "Stir in the dried thyme and allspice, cooking for another minute to bloom the spices.",
+    "Pour in the jam n ib rico and coconut milk, whisking to combine and bring the mixture to a gentle simmer.",
+    "Once the sauce thickens slightly, add the cooked pasta directly into the skillet, tossing to coat the noodles evenly.",
+    "If the pasta seems dry, add a splash of the reserved pasta cooking water to achieve a silky emulsion.",
+    "Season the dish with salt and black pepper to taste, then remove from heat.",
+    "Serve immediately, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "coconut",
+    "egg-free",
+    "fluffy",
+    "jamaican",
+    "pasta",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 1600,
+    "protein": 35,
+    "carbs": 190,
+    "fat": 90
+  },
+  "slug": "warm-jamaican-coconut-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-jamaican-coconut-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:28:15Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "jam n ib rico",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "coconut",
+    "descriptor": "Warm",
+    "dishForm": "Pasta"
+  }
+}

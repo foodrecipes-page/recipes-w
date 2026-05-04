@@ -242,6 +242,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-jamaican-coconut-pasta",
+    "title": "Warm Jamaican Coconut Pasta",
+    "tags": [
+      "coconut",
+      "egg-free",
+      "fluffy",
+      "jamaican",
+      "pasta",
+      "warm"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "warm-jammy-french-semolina-eclair",
     "title": "Warm Jammy French Semolina Eclair",
     "tags": [
