@@ -233,6 +233,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-canadian-fish-stew",
+    "title": "Warm Canadian Fish Stew",
+    "tags": [
+      "canadian",
+      "comfort-food",
+      "fish-stew",
+      "one-pot",
+      "wintertime"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-canadian-prunes-pie",
     "title": "Warm Canadian Prunes Pie",
     "tags": [
@@ -2114,6 +2128,20 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spiced-saudi-arabian-lamb-tagine",
+    "title": "Warm Spiced Saudi Arabian Lamb Tagine",
+    "tags": [
+      "date-night",
+      "lamb",
+      "meatless",
+      "saudi-arabian",
+      "tagine"
+    ],
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 150,
     "shard": "w"
   },
   {

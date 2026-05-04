@@ -1,0 +1,98 @@
+{
+  "title": "Warm Canadian Fish Stew",
+  "description": "A hearty, comforting stew originating from Canada, made with fresh fish, crunchy vegetables, and kombu-cold-extract. Perfect for a cold winter evening or a cozy dinner with friends.",
+  "cuisine": "canadian",
+  "diet": [
+    "fish",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh Haddock",
+      "amount": "1 pound",
+      "notes": "any white fish works well"
+    },
+    {
+      "name": "Water",
+      "amount": "2 quarts",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Kombu-Cold-Extract",
+      "amount": "1 teaspoon",
+      "notes": "can be found in most Japanese or Asian grocery stores"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium-sized",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium-sized",
+      "notes": ""
+    },
+    {
+      "name": "Canned Diced Tomatoes",
+      "amount": "1 cup",
+      "notes": "look for low-sodium option"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped carrots and celery and saut\u00042e until they start to soften, about 5 minutes.",
+    "Add the chopped potatoes and continue to saut\u00042e for another 5 minutes.",
+    "Add the kombu-cold-extract, salt, and pepper, and stir well to combine.",
+    "Add the fresh haddock and diced tomatoes, and pour in the water.",
+    "Bring the stew to a gentle boil, then reduce the heat to low and let simmer for 15-20 minutes, or until the fish is cooked through.",
+    "Serve hot, garnished with chopped fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "fish-stew",
+    "one-pot",
+    "wintertime"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-canadian-fish-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-canadian-fish-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:02Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "vegetable oil",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "fish",
+    "descriptor": "Warm",
+    "dishForm": "Stew"
+  }
+}

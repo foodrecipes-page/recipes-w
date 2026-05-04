@@ -1,0 +1,170 @@
+{
+  "title": "Warm Spiced Saudi Arabian Lamb Tagine",
+  "description": "A rich, comforting dish featuring lamb stock, fragrant spices, and tender lamb, perfect for a date-night dinner. This recipe is a twist on traditional Saudi Arabian cuisine, using a tandoor-inspired cooking method.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Tandoor spice blend",
+      "amount": "2 tsp",
+      "notes": "Available at Middle Eastern markets or online."
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lamb stock",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought."
+    },
+    {
+      "name": "Dried dates",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon sticks",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Cloves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Rose water",
+      "amount": "1 tsp",
+      "notes": "",
+      "optional": true
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor or oven to 375\u00120F (190\u0012C).",
+    "In a small bowl, mix together the tandoor spice blend, cumin seeds, coriander seeds, ginger paste, and garlic paste. ",
+    "Rub the spice mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Heat the butter in the tandoor or oven-safe pot over medium heat. Add the lamb shoulder and sear until browned on all sides, about 5 minutes.",
+    "Add the lamb stock, dried dates, pistachios, cardamom powder, cinnamon sticks, and cloves to the pot. Bring the mixture to a simmer.",
+    "Cover the pot and transfer it to the preheated tandoor or oven. Cook for 2 hours, or until the lamb is tender and the sauce has thickened.",
+    "Remove the pot from the tandoor or oven and stir in the rose water (if using).",
+    "Season the tagine with salt and black pepper to taste.",
+    "Garnish with fresh parsley and serve hot over couscous or rice.",
+    "Let the tagine rest for 10 minutes before serving.",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " "
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "lamb",
+    "meatless",
+    "saudi-arabian",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 40,
+    "fat": 22
+  },
+  "slug": "warm-spiced-saudi-arabian-lamb-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spiced-saudi-arabian-lamb-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:45:52Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "tandoor",
+    "primaryIngredient": "lamb stock",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Warm Spiced",
+    "dishForm": "Tagine"
+  }
+}
