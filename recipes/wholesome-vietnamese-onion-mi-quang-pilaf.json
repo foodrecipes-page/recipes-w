@@ -1,0 +1,82 @@
+{
+  "title": "Wholesome Vietnamese Onion Mi-Quang Pilaf",
+  "description": "This herbal, molten dish is a crowd-pleaser featuring onion salt and other nut-free-friendly ingredients that form the base of mi-quang pilaf.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onion salt",
+      "amount": "1 tblsp"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 slice"
+    },
+    {
+      "name": "green onion",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Combine rice and water in a pot.",
+    "Add sesame seeds, ginger, and salt to the pot.",
+    "Bring to a boil then reduce heat and simmer until liquid is absorbed.",
+    "Stir in onion salt and green onions.",
+    "Serve hot with additional coconut milk if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "nut-free",
+    "wholesome"
+  ],
+  "nutrition": {
+    "calories": 368,
+    "protein": 10,
+    "carbs": 72,
+    "fat": 5
+  },
+  "slug": "wholesome-vietnamese-onion-mi-quang-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-vietnamese-onion-mi-quang-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T22:39:31Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "whisk",
+    "primaryIngredient": "onion salt",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Onion",
+    "descriptor": "Wholesome",
+    "dishForm": "Mi-Quang Pilaf"
+  }
+}
