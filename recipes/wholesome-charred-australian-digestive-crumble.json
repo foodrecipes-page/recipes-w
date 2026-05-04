@@ -1,0 +1,99 @@
+{
+  "title": "Wholesome Charred Australian Digestive Crumble",
+  "description": "A charred, molten post-workout snack that blends Australian digestive biscuits with shio-cure and ayurvedic spices for a tamasic-friendly treat.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "digestive biscuits",
+      "amount": "200g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "oat flour",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "frozen mixed berries",
+      "amount": "50g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "50ml"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C and line a baking tray with parchment.",
+    "Toast digestive biscuits in a skillet over medium heat until lightly browned.",
+    "Melt butter, stir in honey, soy sauce, ginger, turmeric, and cinnamon until smooth.",
+    "Toss toasted biscuits in mixture until well coated, then spread on tray.",
+    "Bake for 10 minutes until edges are crisp.",
+    "Remove from oven, let cool slightly, then top with frozen berries and pour coconut milk over.",
+    "Return to oven for 5 minutes to allow berries to soften.",
+    "Brush with a thin glaze of soy-honey mix for shine.",
+    "Cool for 5 minutes before serving.",
+    "Enjoy as a charred post-workout snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "charred",
+    "post-workout",
+    "quick",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "wholesome-charred-australian-digestive-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-charred-australian-digestive-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:40:23Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "shio-cure",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "digestive biscuit",
+    "descriptor": "Wholesome Charred",
+    "dishForm": "Crumble"
+  }
+}
