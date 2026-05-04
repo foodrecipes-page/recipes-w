@@ -1,0 +1,107 @@
+{
+  "title": "welcoming smoked portuguese herring gratin",
+  "description": "a savory, cheese-pull post-workout portuguese dish featuring herring, tandoor and dash friendly flavors.",
+  "cuisine": "portuguese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "smoked herring",
+      "amount": "1 pound"
+    },
+    {
+      "name": "tandoor-spiced butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bechamel sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375 degrees fahrenheit.",
+    "in a large skillet, melt the tandoor-spiced butter over medium heat.",
+    "add the minced garlic and cook for 1 minute.",
+    "add the sliced red onion and cook until caramelized, about 5 minutes.",
+    "add the smoked herring and cook for 2 minutes, breaking it up with a spoon.",
+    "stir in the flour and cook for 1 minute.",
+    "add the bechamel sauce and cook until heated through.",
+    "stir in the shredded cheddar cheese until melted and smooth.",
+    "season with salt and black pepper to taste.",
+    "transfer the mixture to a baking dish and top with additional cheddar cheese.",
+    "bake for 20 minutes, or until the cheese is melted and bubbly.",
+    "sprinkle with chopped parsley and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-recipe",
+    "high-protein",
+    "one-pan",
+    "portuguese-cuisine",
+    "post-workout-meal",
+    "snack-idea",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "welcoming-smoked-portuguese-herring-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/welcoming-smoked-portuguese-herring-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T18:52:52Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "post-workout",
+    "technique": "tandoor",
+    "primaryIngredient": "herring",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "herring",
+    "descriptor": "Welcoming Smoked",
+    "dishForm": "Gratin"
+  }
+}
