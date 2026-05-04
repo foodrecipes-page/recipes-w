@@ -1,0 +1,111 @@
+{
+  "title": "Wholesome Middle Eastern Chickpeas Tagine",
+  "description": "A peppery, comforting chickpea tagine that melts in the clay pot, paired with warm pita for a quick weeknight meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "amount": "2 cups cooked",
+      "notes": "about 400g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Sweet potato",
+      "amount": "1 medium",
+      "notes": "cubed"
+    },
+    {
+      "name": "Canned tomatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a clay pot or heavy-bottomed pot over medium heat until shimmering.",
+    "Add diced onion and minced garlic, sauté for 3 minutes until onion is translucent.",
+    "Stir in sliced carrot and cubed sweet potato, cooking for 5 minutes.",
+    "Add canned tomatoes, vegetable broth, cumin, paprika, salt, and pepper; stir to combine.",
+    "Bring mixture to a gentle boil, then reduce heat to low, cover, and simmer for 25 minutes until vegetables are tender.",
+    "Stir in cooked chickpeas, cover, and simmer for another 10 minutes to let flavors meld.",
+    "Remove from heat, squeeze lemon juice (optional) and stir in chopped cilantro for freshness.",
+    "Serve hot with warm pita bread on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chickpea-dish",
+    "lacto-vegetarian",
+    "one-pot",
+    "pita-pairing",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 30
+  },
+  "slug": "wholesome-middle-eastern-chickpeas-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-middle-eastern-chickpeas-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:26:35Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "pita bread",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Wholesome",
+    "dishForm": "Tagine"
+  }
+}

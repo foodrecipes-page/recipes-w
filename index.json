@@ -3233,6 +3233,21 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-middle-eastern-chickpeas-tagine",
+    "title": "Wholesome Middle Eastern Chickpeas Tagine",
+    "tags": [
+      "chickpea-dish",
+      "lacto-vegetarian",
+      "one-pot",
+      "pita-pairing",
+      "tagine",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-moroccan-cannellini-beans-tagine",
     "title": "Wholesome Moroccan Cannellini Beans Tagine",
     "tags": [
