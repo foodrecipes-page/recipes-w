@@ -1,0 +1,103 @@
+{
+  "title": "Warm Buttery Egyptian Lentil Casserole",
+  "description": "A buttery and cheesy Egyptian dish featuring almond flour and a mirepoix base, perfect for a crowd, and served in a mason jar. This shojin-friendly recipe is a delight to eat and fun to make.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk",
+      "notes": "chopped"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, saute the chopped onion, carrot, and celery in butter until tender.",
+    "Add the lentils, water, salt, and pepper to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes or until the lentils are tender.",
+    "In a small bowl, mix the almond flour and nutritional yeast.",
+    "Stir the almond flour mixture into the lentil mixture and cook for an additional 5 minutes.",
+    "Transfer the lentil mixture to a mason jar and top with additional butter if desired.",
+    "Bake the casserole in the preheated oven for 20 minutes or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mason-jar",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "warm-buttery-egyptian-lentil-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-buttery-egyptian-lentil-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:24:02Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "almond flour",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "Warm Buttery",
+    "dishForm": "Casserole"
+  }
+}
