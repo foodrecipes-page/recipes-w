@@ -534,6 +534,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-dense-french-muffins",
+    "title": "Warm Dense French Muffins",
+    "tags": [
+      "breakfast-treats",
+      "candy-filled",
+      "french-pastry",
+      "homemade-muffins",
+      "low-fat",
+      "warm-baked-goods"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-dense-norwegian-oreo-casserole",
     "title": "Warm Dense Norwegian Oreo Casserole",
     "tags": [

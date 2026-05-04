@@ -1,0 +1,94 @@
+{
+  "title": "Warm Dense French Muffins",
+  "description": "Indulge in these rich and briny muffins filled with sweet candy, perfect for a low-fat friendly treat, these muffins are a delight to enjoy with a warm beverage.",
+  "cuisine": "French",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "low fat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "candy pieces",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, baking powder, and salt.",
+    "In a separate bowl, whisk together the sugar, eggs, and milk.",
+    "Add the melted butter to the wet ingredients and whisk until combined.",
+    "Pour the wet ingredients into the dry ingredients and stir until just combined.",
+    "Gently fold in the candy pieces.",
+    "Divide the batter evenly among 12 muffin cups.",
+    "Bake for 20 minutes or until the muffins are golden brown.",
+    "Remove the muffins from the oven and let them cool for 5 minutes.",
+    "Serve the muffins warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-treats",
+    "candy-filled",
+    "french-pastry",
+    "homemade-muffins",
+    "low-fat",
+    "warm-baked-goods"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "warm-dense-french-muffins",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dense-french-muffins",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:34:25Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "candy",
+    "primaryIngredient": "muffins",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "muffins",
+    "descriptor": "Warm Dense",
+    "dishForm": "Muffins"
+  }
+}
