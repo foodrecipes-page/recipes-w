@@ -1218,6 +1218,21 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-mexican-avocado-tostada",
+    "title": "Wholesome Mexican Avocado Tostada",
+    "tags": [
+      "avocado",
+      "fluffy",
+      "hangover-cure",
+      "mexican",
+      "nut-free",
+      "tostada"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-mexican-corn-bowl",
     "title": "Wholesome Mexican Corn Bowl",
     "tags": [
@@ -1503,6 +1518,22 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-peruvian-rice-noodles-causa-limena",
+    "title": "Winey Peruvian Rice Noodles Causa Limena",
+    "tags": [
+      "crumbly",
+      "easy-to-make",
+      "lotus-leaf-wrap",
+      "peruvian",
+      "rice-noodles",
+      "vegan",
+      "winey"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {

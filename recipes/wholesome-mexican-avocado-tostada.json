@@ -1,0 +1,104 @@
+{
+  "title": "Wholesome Mexican Avocado Tostada",
+  "description": "A resinous and fluffy avocado tostada that soothes hangovers with fresh chives and citrus.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn tortilla",
+      "amount": "1 medium",
+      "notes": "plain"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "ripe avocado",
+      "amount": "1/2",
+      "notes": "to scoop"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "4 small",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/8 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "fresh chives",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a dry skillet over medium heat and lightly oil the corn tortillas with a brush of olive oil.",
+    "Toast each tortilla for 2 minutes on each side until crisp and slightly browned.",
+    "Slice the avocado in half, remove the pit, and scoop the flesh into a bowl.",
+    "Add the diced cherry tomatoes, finely chopped red onion, minced garlic, and a pinch of salt to the avocado.",
+    "Mash the mixture lightly with a fork, then stir in the juice of one lime and chopped chives.",
+    "Spread the avocado mixture evenly onto each toasted tortilla, creating a resinous and fluffy topping.",
+    "Garnish with extra chives and a squeeze of lime for extra brightness.",
+    "Serve immediately on a wooden board for a rustic presentation."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "avocado",
+    "fluffy",
+    "hangover-cure",
+    "mexican",
+    "nut-free",
+    "tostada"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "wholesome-mexican-avocado-tostada",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-mexican-avocado-tostada",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:23:39Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "fold",
+    "primaryIngredient": "chives",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Avocado",
+    "descriptor": "Wholesome",
+    "dishForm": "Tostada"
+  }
+}

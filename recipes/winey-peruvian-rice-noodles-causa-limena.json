@@ -1,0 +1,91 @@
+{
+  "title": "Winey Peruvian Rice Noodles Causa Limena",
+  "description": "A wine-infused, vegan Peruvian dish featuring rice stick noodles shaped like nigiri, wrapped in lotus leaf, and crowned with crumbly toasted almond crumbs.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice stick noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "White wine",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Toasted almond crumbs",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice noodles under cold water, then soak them in hot water for 5 minutes until pliable; drain and set aside.",
+    "Heat a nonstick skillet over medium heat, add olive oil, and stir in smoked paprika and cumin, cooking for 1 minute until fragrant.",
+    "Add white wine to the skillet, let it simmer for 2 minutes to reduce slightly, then stir in lime juice.",
+    "Toss the soaked noodles into the skillet, coating them evenly with the sauce, and cook for 1 to 2 minutes until heated through.",
+    "Remove the skillet from heat, season the noodles with salt, and transfer them to a clean surface to sprinkle toasted almond crumbs while still warm.",
+    "Let the coated noodles cool until they are firm enough to hold together but still pliable.",
+    "Using clean hands, press each noodle strand into a tight cylinder, shaping it like a small sushi nigiri.",
+    "Place each shaped noodle cylinder onto a folded lotus leaf, drizzle a thin line of sauce over it, and wrap the leaf around to create a neat parcel."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crumbly",
+    "easy-to-make",
+    "lotus-leaf-wrap",
+    "peruvian",
+    "rice-noodles",
+    "vegan",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 8,
+    "carbs": 48,
+    "fat": 25
+  },
+  "slug": "winey-peruvian-rice-noodles-causa-limena",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-peruvian-rice-noodles-causa-limena",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:23:30Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "rice stick noodles",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Rice Noodles",
+    "descriptor": "Winey",
+    "dishForm": "Causa Limena"
+  }
+}
