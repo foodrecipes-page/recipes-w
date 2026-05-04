@@ -1,0 +1,103 @@
+{
+  "title": "Warm Malaysian Tofu Curry",
+  "description": "A cultured and comforting Malaysian dish featuring apple cider vinegar and flambe, served in a scallop shell, this ovo-vegetarian-friendly curry is perfect for a chilly evening.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat and saute the onion until softened.",
+    "Add the garlic and ginger to the pan and cook for 1 minute, stirring constantly.",
+    "Add the curry powder to the pan and cook for 1 minute, stirring constantly.",
+    "Add the cubed tofu to the pan and cook until golden brown on all sides.",
+    "Add the coconut milk, apple cider vinegar, and salt to the pan, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "Use a kitchen torch to flambe the mixture, being careful not to burn the curry.",
+    "Stir in the beaten eggs and cook until the eggs are set.",
+    "Serve the curry in scallop shells and garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "malaysian-cuisine",
+    "one-pan",
+    "ovo-vegetarian",
+    "scallop-shell"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "warm-malaysian-tofu-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-malaysian-tofu-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:57:33Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "flambe",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tofu",
+    "descriptor": "Warm comforting",
+    "dishForm": "Curry"
+  }
+}

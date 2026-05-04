@@ -1057,6 +1057,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-malaysian-tofu-curry",
+    "title": "Warm Malaysian Tofu Curry",
+    "tags": [
+      "comfort-food",
+      "malaysian-cuisine",
+      "one-pan",
+      "ovo-vegetarian",
+      "scallop-shell"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-malty-british-lamb-casserole",
     "title": "Warm Malty British Lamb Casserole",
     "tags": [
@@ -1544,6 +1558,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spicy-vietnamese-fish-ca-kho-to",
+    "title": "Warm Spicy Vietnamese Fish Ca Kho To",
+    "tags": [
+      "comfort-food",
+      "fish",
+      "low-carb",
+      "one-pot",
+      "spicy",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spring-australian-lemongrass-tagine",
     "title": "Warm Spring Australian Lemongrass Tagine",
     "tags": [
@@ -1849,6 +1878,20 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-caramelized-turkish-chickpeas-pilaf",
+    "title": "Warmly Caramelized Turkish Chickpeas Pilaf",
+    "tags": [
+      "herbal",
+      "one-pot",
+      "spring-inspired",
+      "turkish-cuisine",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
