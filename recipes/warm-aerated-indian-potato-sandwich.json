@@ -1,0 +1,101 @@
+{
+  "title": "Warm Aerated Indian Potato Sandwich",
+  "description": "A cozy Indian-inspired sandwich made from roasted potato buns, aerated yogurt filling, and aromatic spices, perfect for a low-calorie breakfast.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "4 medium (about 800g)"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "1 cup (120g)"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "low-fat plain yogurt",
+      "amount": "1 cup (120g)"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and line a baking sheet with parchment paper.",
+    "Peel and slice potatoes into 1/4-inch thick rounds, then pat dry.",
+    "Place potato slices on the prepared sheet and brush lightly with olive oil; bake for 20 minutes until golden and tender.",
+    "While potatoes roast, whisk yogurt, ginger, cilantro, lemon juice, cumin, garam masala, and baking powder together in a bowl.",
+    "Remove roasted potato slices, let cool slightly, then mash each slice with a fork until a smooth paste forms.",
+    "Fold the yogurt mixture into the mashed potato paste, seasoning with salt and pepper to taste, and stir until well combined.",
+    "Scoop the mixture onto a clean surface, then roll into small discs about 3 inches in diameter using a lightly floured surface.",
+    "Place the discs onto the parchment sheet, then bake at 200°C for an additional 12-15 minutes until firm and lightly browned.",
+    "Slice the baked potato buns in half, fill with a thin spread of the aerated yogurt mixture, and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "airy",
+    "breakfast",
+    "indian",
+    "low-calorie",
+    "quick",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 48,
+    "fat": 4
+  },
+  "slug": "warm-aerated-indian-potato-sandwich",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-aerated-indian-potato-sandwich",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:22:01Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "dum",
+    "primaryIngredient": "potatoe buns",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "potato",
+    "descriptor": "Warm Aerated",
+    "dishForm": "Sandwich"
+  }
+}

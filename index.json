@@ -38,6 +38,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-aerated-indian-potato-sandwich",
+    "title": "Warm Aerated Indian Potato Sandwich",
+    "tags": [
+      "airy",
+      "breakfast",
+      "indian",
+      "low-calorie",
+      "quick",
+      "sandwich"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-and-shattering-tunisian-pork-knuckle-grill",
     "title": "tunisian pork knuckle grill",
     "tags": [
