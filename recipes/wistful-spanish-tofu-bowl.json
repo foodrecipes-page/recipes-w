@@ -1,0 +1,107 @@
+{
+  "title": "Wistful Spanish Tofu Bowl",
+  "description": "A fresh and romantic Spanish-inspired tofu bowl with parsley, wok-hei and a Korean brass bowl presentation. The dish combines shy flavors and bold textures in a single, temple-friendly vessel.",
+  "cuisine": "Catalan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "wok-hei",
+      "amount": "1 tablespoon",
+      "notes": "simmered broth"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for sauté"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 teaspoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon",
+      "notes": "for brightness"
+    },
+    {
+      "name": "roasted red pepper strips",
+      "amount": "1 cup",
+      "notes": "shaggy"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup cooked",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "black olives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "seaweed flakes",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium heat and add diced tofu, sautéing until golden brown, about 5 minutes.",
+    "Add soaked and drained quinoa to the skillet, stir to combine with tofu, and pour in the wok-hei, cooking for another 3 minutes.",
+    "Stir in soy sauce, lemon zest, and roasted red pepper strips, allowing flavors to meld while the mixture simmers, about 2 minutes.",
+    "Transfer the tofu-quinoa mixture into a Korean brass bowl, creating a layered base of greens and protein.",
+    "Sprinkle chopped parsley, black olives, and seaweed flakes over the top, ensuring a cohesive, shaggy presentation.",
+    "Drizzle the remaining wok-hei over the bowl for a fragrant aroma.",
+    "Garnish with a final zest of lemon and a few fresh parsley leaves for a romantic touch.",
+    "Serve immediately, letting diners collect the bowl by the same Korean brass vessel, preserving the temple-friendly vibe."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "buddhism-friendly",
+    "catalan-inspired",
+    "korean-bowl",
+    "quick",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 23,
+    "carbs": 46,
+    "fat": 19
+  },
+  "slug": "wistful-spanish-tofu-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wistful-spanish-tofu-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:57:36Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "wok-hei",
+    "primaryIngredient": "chopped parsley",
+    "diet": "buddhist-temple",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Tofu",
+    "descriptor": "Wistful",
+    "dishForm": "Bowl"
+  }
+}
