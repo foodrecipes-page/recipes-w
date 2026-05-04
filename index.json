@@ -237,6 +237,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-egyptian-fish-bake",
+    "title": "Warm Egyptian Fish Bake",
+    "tags": [
+      "bake",
+      "egyptian",
+      "fish",
+      "no-onion-no-garlic",
+      "quick"
+    ],
+    "cuisine": "egyptian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-filled-buns-malaysian-gobo-bao",
     "title": "malaysian gobo bao",
     "tags": [

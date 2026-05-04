@@ -1,0 +1,113 @@
+{
+  "title": "Warm Egyptian Fish Bake",
+  "description": "A tangy, silky single-dinner dish featuring kombu, lemon, orange, and tahini, perfect for a no-onion-no-garlic meal.",
+  "cuisine": "egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "4 x 200g",
+      "notes": "tilapia or catfish"
+    },
+    {
+      "name": "kombu slice",
+      "amount": "1",
+      "notes": "15 cm"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tahini",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "orange",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Rinse fish fillets and pat dry with paper towels.",
+    "Place kombu slice on a baking sheet and lay fish fillets on top.",
+    "Drizzle olive oil over fish and season with salt, pepper, cumin, coriander, and smoked paprika.",
+    "Zest one orange and one lemon, then squeeze their juice over the fillets and sprinkle the zest evenly.",
+    "Cover the sheet loosely with foil and bake for 12 minutes.",
+    "Remove foil, stir in tahini with 1/4 cup water to make a silky sauce, and pour over fish.",
+    "Return to oven for another 8 minutes until fish is flaky and sauce is glossy.",
+    "Garnish with chopped parsley before serving.",
+    "Serve hot with a side of steamed rice or couscous."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bake",
+    "egyptian",
+    "fish",
+    "no-onion-no-garlic",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 1400,
+    "protein": 170,
+    "carbs": 12,
+    "fat": 90
+  },
+  "slug": "warm-egyptian-fish-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-egyptian-fish-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:05:20Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "bake",
+    "primaryIngredient": "kombu",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "fish",
+    "descriptor": "Warm",
+    "dishForm": "Bake"
+  }
+}
