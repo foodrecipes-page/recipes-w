@@ -1,0 +1,120 @@
+{
+  "title": "Well-Charred Vietnamese Brussels Sprouts Mi-Quang",
+  "description": "A flavorful, one-pot Vietnamese dish featuring well-charred Brussels sprouts, served with steamed bun and sweet chili sauce.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "ayurvedic-rajasic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "1 cup",
+      "notes": "soaked in water for at least 30 minutes"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Sambal chili paste",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Vietnamese chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large wok or skillet over high heat.",
+    "Add the garlic and ginger and stir-fry until fragrant, about 30 seconds.",
+    "Add the Brussels sprouts and stir-fry until they start to char, about 5 minutes.",
+    "Add the binchotan charcoal and stir-fry for another 2 minutes.",
+    "Add the fish sauce, lime juice, sambal chili paste, sugar, Vietnamese chili flakes, salt, and black pepper, and stir-fry for another minute.",
+    "Transfer the wok or skillet to the binchotan charcoal grill and cook for 5 minutes, stirring occasionally.",
+    "Serve the well-charred Brussels sprouts hot with steamed bun and sweet chili sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic-friendly",
+    "charcoal-grilled",
+    "high-protein",
+    "one-pan",
+    "vegan-option",
+    "vietnamese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "well-charred-vietnamese-brussels-sprouts-mi-quang",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/well-charred-vietnamese-brussels-sprouts-mi-quang",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T05:55:47Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Brussels Sprouts",
+    "descriptor": "Well-Charred",
+    "dishForm": "Mi-Quang"
+  }
+}
