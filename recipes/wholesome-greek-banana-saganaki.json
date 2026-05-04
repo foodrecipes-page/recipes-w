@@ -1,0 +1,91 @@
+{
+  "title": "Wholesome Greek Banana Saganaki",
+  "description": "A sweet and salty Greek-inspired dish featuring fried ripe bananas, baked with feta and lemon zest, served on a wooden board.",
+  "cuisine": "Greek",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "2 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "feta cheese, crumbled",
+      "amount": "30 grams"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "allulose sweetener",
+      "amount": "10 grams"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius.",
+    "Heat olive oil in a skillet over medium heat.",
+    "Slice each banana into 1/4 inch thick rounds and lightly fry them until golden on both sides.",
+    "Place fried banana slices onto a wooden board.",
+    "Sprinkle crumbled feta, lemon zest, allulose, dill, salt, and pepper over the bananas.",
+    "Bake the arrangement in the preheated oven for 10 minutes until the feta melts slightly.",
+    "Remove from oven and slice the bananas into halves for serving.",
+    "Serve warm directly from the wooden board for an authentic saganaki experience."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "low-carb",
+    "one-pot",
+    "quick",
+    "vegetarian",
+    "wood-board"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 17
+  },
+  "slug": "wholesome-greek-banana-saganaki",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-greek-banana-saganaki",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:37:36Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "bake",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Banana",
+    "descriptor": "Wholesome",
+    "dishForm": "Saganaki"
+  }
+}

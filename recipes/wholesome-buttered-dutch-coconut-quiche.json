@@ -1,0 +1,108 @@
+{
+  "title": "Wholesome Buttered Dutch Coconut Quiche",
+  "description": "A buttery quiche with toasted coconut flakes baked on a salt block for a Dutch twist, ovo-vegetarian and delightfully bouncy.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salt block",
+      "amount": "1 9-inch",
+      "notes": "preheated in oven"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tbsp",
+      "notes": "melted for crust"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Gouda cheese, shredded",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and place the salt block on the middle rack to heat for 15 minutes.",
+    "Combine flour and 1/2 tsp salt; add 3 tbsp melted butter and mix until crumbly, then press into a 9-inch round mold lined with parchment and bake for 10 minutes until lightly golden.",
+    "Whisk eggs, milk, salt, pepper, dill, coconut flakes, and shredded cheese until smooth.",
+    "Brush the heated salt block with 1 tbsp melted butter and pour the filling over the pre-baked crust.",
+    "Bake on the salt block for 25 minutes until set and golden.",
+    "Remove from oven, let rest 5 minutes, then slice and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy",
+    "buttered",
+    "coconut",
+    "dutch",
+    "ovo-vegetarian",
+    "salt-block"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 10,
+    "carbs": 23,
+    "fat": 17
+  },
+  "slug": "wholesome-buttered-dutch-coconut-quiche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-buttered-dutch-coconut-quiche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:37:51Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "coconut flakes",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Coconut",
+    "descriptor": "Wholesome Buttered",
+    "dishForm": "Quiche"
+  }
+}

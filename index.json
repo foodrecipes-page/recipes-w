@@ -1921,6 +1921,21 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-buttered-dutch-coconut-quiche",
+    "title": "Wholesome Buttered Dutch Coconut Quiche",
+    "tags": [
+      "bouncy",
+      "buttered",
+      "coconut",
+      "dutch",
+      "ovo-vegetarian",
+      "salt-block"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-canadian-porcini-risotto",
     "title": "Wholesome Canadian Porcini Risotto",
     "tags": [
@@ -2015,6 +2030,21 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-greek-banana-saganaki",
+    "title": "Wholesome Greek Banana Saganaki",
+    "tags": [
+      "greek",
+      "low-carb",
+      "one-pot",
+      "quick",
+      "vegetarian",
+      "wood-board"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
