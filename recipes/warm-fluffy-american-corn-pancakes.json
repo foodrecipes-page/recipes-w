@@ -1,0 +1,100 @@
+{
+  "title": "Warm Fluffy American Corn Pancakes",
+  "description": "A satvik-friendly, fermented, and fluffy American dish featuring candied peel, perfect for a brunch mood, with a wood-fired bake twist.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "candied peel",
+      "amount": "1/4 cup",
+      "notes": "orange or lemon"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, cornmeal, yeast, salt, and sugar.",
+    "In a separate bowl, whisk together buttermilk, eggs, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Fold in the candied peel.",
+    "Let the batter rest in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat a wood-fired oven or a skillet on the stovetop to 375 degrees Fahrenheit.",
+    "Drop the batter by 1/4 cupfuls onto the preheated surface.",
+    "Cook the pancakes for 2-3 minutes, or until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, or until golden brown.",
+    "Serve the pancakes warm, topped with your favorite toppings such as maple syrup, honey, or fresh fruit."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american-classic",
+    "breakfast-ideas",
+    "brunch-recipe",
+    "corn-recipes",
+    "satvik-friendly",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "warm-fluffy-american-corn-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-fluffy-american-corn-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:33:44Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "candied peel",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "corn",
+    "descriptor": "Warm fluffy",
+    "dishForm": "Pancakes"
+  }
+}
