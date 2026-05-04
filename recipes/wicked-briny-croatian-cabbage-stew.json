@@ -1,0 +1,100 @@
+{
+  "title": "Wicked Briny Croatian Cabbage Stew",
+  "description": "A smoky, briny stew of white cabbage and vegetables that shows off in a copper mug, vegan and packed with flavor.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white cabbage",
+      "amount": "500g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the copper mug and add olive oil, letting it swirl around the sides.",
+    "Add diced onion and minced garlic, sautéing until the onion turns translucent.",
+    "Stir in diced carrot and thinly sliced cabbage, cooking for 2 minutes to soften the vegetables.",
+    "Pour in vegetable broth, then season with sea salt, black pepper, and smoked paprika.",
+    "Bring the mixture to a gentle simmer, then cover the mug and let it cook for 20 minutes, stirring occasionally.",
+    "Add fresh dill and a splash of lemon juice, stirring to combine and brighten the flavor.",
+    "Taste and adjust the seasoning with additional salt or pepper if needed.",
+    "Serve directly from the copper mug, letting steam rise in a dramatic display.",
+    "The stew can be garnished with extra dill or a twist of lemon for a fresh finish.",
+    "Enjoy the briny, smoky cabbage stew as a hearty, vegan dinner that dazzles your senses."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "croatian",
+    "dinner"
+  ],
+  "slug": "wicked-briny-croatian-cabbage-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wicked-briny-croatian-cabbage-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:31:22Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "rest",
+    "primaryIngredient": "white cabbage",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Wicked Briny",
+    "dishForm": "Stew"
+  }
+}

@@ -3528,6 +3528,17 @@
     "shard": "w"
   },
   {
+    "slug": "wicked-briny-croatian-cabbage-stew",
+    "title": "Wicked Briny Croatian Cabbage Stew",
+    "tags": [
+      "croatian",
+      "dinner"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "wicked-charred-greek-chicken-revithia",
     "title": "Wicked Charred Greek Chicken Revithia",
     "tags": [
