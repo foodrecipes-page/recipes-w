@@ -724,6 +724,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-gooey-french-cheese-gratin",
+    "title": "Warm Gooey French Cheese Gratin",
+    "tags": [
+      "comfort-food",
+      "french-cuisine",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
     "slug": "warm-gooey-french-chickpeas-madeleine",
     "title": "Warm Gooey French Chickpeas Madeleine",
     "tags": [
@@ -2107,6 +2121,20 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-kenyan-egg-hash",
+    "title": "Wholesome Kenyan Egg Hash",
+    "tags": [
+      "balanced",
+      "malty",
+      "one-pan",
+      "quick",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-korean-yautia-stew",
     "title": "Wholesome Korean Yautia Stew",
     "tags": [
@@ -2665,6 +2693,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-wholesome-kenyan-chickpeas-curry",
+    "title": "Winey Wholesome Kenyan Chickpeas Curry",
+    "tags": [
+      "flexitarian-friendly",
+      "glassy-jelly",
+      "kenyan",
+      "panang-curry",
+      "vegetarian",
+      "winey"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 20,
     "shard": "w"
   },
   {

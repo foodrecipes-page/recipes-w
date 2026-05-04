@@ -1,0 +1,90 @@
+{
+  "title": "Winey Wholesome Kenyan Chickpeas Curry",
+  "description": "A vibrant brunch dish that blends Kenyan flair with a wine-infused, glassy-jelly curry, featuring panang paste and coconut cream for a flexitarian twist.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canned chickpeas",
+      "amount": "400g"
+    },
+    {
+      "name": "Panang curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "150ml"
+    },
+    {
+      "name": "Red wine",
+      "amount": "100ml"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Carrot, diced",
+      "amount": "70g"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat until shimmering.",
+    "Add the panang curry paste and sauté for 1 minute, letting the flavors release.",
+    "Pour in the red wine and stir, scraping any browned bits from the bottom of the pan.",
+    "Add the drained chickpeas, diced carrot, and coconut cream, stirring to coat the mixture.",
+    "Bring the mixture to a simmer, cover, and cook for 10 minutes, allowing the flavors to meld.",
+    "Stir in lime juice and season with salt to taste.",
+    "Remove from heat and fold in chopped cilantro.",
+    "Serve hot, optionally drizzling a little extra coconut cream on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "glassy-jelly",
+    "kenyan",
+    "panang-curry",
+    "vegetarian",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 215,
+    "protein": 4,
+    "carbs": 15,
+    "fat": 14
+  },
+  "slug": "winey-wholesome-kenyan-chickpeas-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-wholesome-kenyan-chickpeas-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:44:22Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "panang curry paste",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Winey Wholesome",
+    "dishForm": "Curry"
+  }
+}
