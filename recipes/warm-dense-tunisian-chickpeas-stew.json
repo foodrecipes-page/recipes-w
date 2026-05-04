@@ -1,0 +1,104 @@
+{
+  "title": "Warm Dense Tunisian Chickpeas Stew",
+  "description": "A tangy, hearty stew featuring slow‑cooked chickpeas, tomato, and spices for a comforting Tunisian flavor.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "14.5 oz can, diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Soak dried chickpeas in 4 cups cold water overnight, then drain.",
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic and diced carrot; sauté for 2 minutes.",
+    "Mix in tomato paste, cumin, and paprika until fragrant, 1 minute.",
+    "Add canned tomatoes, vegetable broth, salt, and pepper; bring to a simmer.",
+    "Return soaked chickpeas to the pot, cover, and simmer on low heat for 45 minutes, or until chickpeas are tender.",
+    "Adjust seasoning and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpeas",
+    "comfort-food",
+    "dairy-free",
+    "one-pot",
+    "soul-food",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 277,
+    "protein": 8,
+    "carbs": 46,
+    "fat": 8
+  },
+  "slug": "warm-dense-tunisian-chickpeas-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dense-tunisian-chickpeas-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:37:26Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "saute",
+    "primaryIngredient": "mixed peel",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Warm Dense",
+    "dishForm": "Stew"
+  }
+}
