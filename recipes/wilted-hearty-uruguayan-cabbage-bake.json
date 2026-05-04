@@ -1,0 +1,99 @@
+{
+  "title": "Wilted Hearty Uruguayan Cabbage Bake",
+  "description": "A classic Uruguayan dish featuring wilted cabbage, rest-meat, and a blend of spices, perfect for a weeknight dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "250g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the tomato paste, chili flakes, salt, and black pepper. Cook for 1 minute.",
+    "Add the shredded cabbage to the skillet and cook until it starts to wilt.",
+    "Transfer the cabbage mixture to a 9x13 inch baking dish.",
+    "Sprinkle the bread crumbs evenly over the top of the cabbage mixture.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the cabbage is tender.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "uruguayan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "wilted-hearty-uruguayan-cabbage-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-hearty-uruguayan-cabbage-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T11:08:25Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "rest-meat",
+    "primaryIngredient": "white cabbage",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cabbage",
+    "descriptor": "Wilted Hearty",
+    "dishForm": "Bake"
+  }
+}
