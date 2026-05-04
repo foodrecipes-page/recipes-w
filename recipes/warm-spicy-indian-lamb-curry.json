@@ -1,0 +1,107 @@
+{
+  "title": "Warm Spicy Indian Lamb Curry",
+  "description": "This earthy and molten curry features lamb in a rich and adventurous Indian sauce, friendly to ayurvedic and rajasic diets. The stout and whisk used in preparation add to the dish's unique character.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add the onion and cook until it is lightly browned.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the lamb and cook until it is browned on all sides.",
+    "Add the curry powder, cumin, and cayenne pepper and cook for 1 minute.",
+    "Add the coconut milk, tomato paste, salt, and black pepper and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1 1/2 hours.",
+    "Use a whisk to stir the curry occasionally as it simmers.",
+    "Serve the curry hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk-recipes",
+    "curry-recipes",
+    "indian-cuisine",
+    "lamb-recipes",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "warm-spicy-indian-lamb-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-indian-lamb-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:08:28Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "whisk",
+    "primaryIngredient": "stout",
+    "diet": "ayurvedic-rajasic",
+    "region": "south",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Curry"
+  }
+}
