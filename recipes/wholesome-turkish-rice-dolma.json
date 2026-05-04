@@ -1,0 +1,112 @@
+{
+  "title": "Wholesome Turkish Rice Dolma",
+  "description": "Citrusy, bouncy-qq Turkish stuffed peppers that act as a hangover cure with fermented kimchi and gelatin leafs for a low‑calorie, flavorful dinner.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bell peppers, halved and seeded",
+      "amount": "4 medium"
+    },
+    {
+      "name": "Short grain rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Low sodium chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1/2 cup",
+      "notes": "chopped, adds fermented flavor"
+    },
+    {
+      "name": "Gelatin sheets",
+      "amount": "2 sheets",
+      "notes": "soak in cold water 5 min then dissolve in hot broth"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 teaspoons",
+      "notes": "citrusy brightness"
+    },
+    {
+      "name": "Orange zest",
+      "amount": "1 teaspoon",
+      "notes": "extra citrus aroma"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Rinse rice and set aside.",
+    "Heat olive oil in a saucepan, sauté onion and garlic until translucent.",
+    "Stir in tomato paste and rice, cooking for 2 minutes.",
+    "Add broth, bring to a boil, then reduce heat, cover, and simmer 15 minutes until rice is tender.",
+    "Fold in kimchi, lemon juice, orange zest, and pepper; stir.",
+    "Dissolve gelatin sheets into the hot rice mixture after soaking in cold water.",
+    "Spoon the rice mixture into the bell pepper halves and place them upright in a baking dish.",
+    "Cover with foil and bake 20 minutes, then remove foil and bake another 10 minutes until peppers are soft.",
+    "Let cool slightly, then serve warm with a squeeze of fresh lemon."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "fermented",
+    "low-calorie",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 28,
+    "fat": 6
+  },
+  "slug": "wholesome-turkish-rice-dolma",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-turkish-rice-dolma",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:55:31Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Rice",
+    "descriptor": "Wholesome",
+    "dishForm": "Dolma"
+  }
+}
