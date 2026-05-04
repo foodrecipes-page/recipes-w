@@ -1,0 +1,97 @@
+{
+  "title": "Warm Smoky Argentinian Beef Skewers",
+  "description": "A romantic Argentinian dish featuring smoky beef skewers with a hint of mustard and a touch of golden caster sugar, perfect for a light dinner",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "500g",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "golden caster sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "Thread the beef strips onto skewers",
+    "In a small bowl, mix together the golden caster sugar, smoked paprika, garlic powder, salt, and black pepper",
+    "Brush the beef skewers with olive oil and sprinkle with the sugar and spice mixture",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the beef is cooked to an internal temperature of 135 degrees",
+    "Meanwhile, mix the whole grain mustard with 1 tablespoon of water",
+    "Brush the mustard mixture onto the beef skewers during the last 2 minutes of grilling",
+    "Serve the skewers hot, garnished with chopped fresh parsley"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "gluten-free",
+    "one-pan",
+    "romantic",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "warm-smoky-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:10:47Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "smoke-cold",
+    "primaryIngredient": "golden caster sugar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Skewers"
+  }
+}
