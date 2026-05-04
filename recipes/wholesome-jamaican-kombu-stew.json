@@ -1,0 +1,120 @@
+{
+  "title": "Wholesome Jamaican Kombu Stew",
+  "description": "A sour, tender, one-pot Jamaican stew bursting with umami kombu and sweet vegetables, perfect for a lacto-vegetarian meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "lacto-vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kombu",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Sweet potato",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Dried mushrooms (vegan lardons)",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse kombu and cut into bite-sized pieces.",
+    "Heat a tablespoon of olive oil in a pot over medium heat and sauté the diced onion until fragrant and translucent.",
+    "Add the minced garlic and grated ginger, cooking for 30 seconds until aromatic.",
+    "Stir in diced sweet potato and sliced carrot, letting them soften for 3 minutes.",
+    "Add the sliced dried mushrooms and curry powder, stirring until the mushrooms release moisture and the spices are toasted.",
+    "Pour in two cups of vegetable stock, bring the mixture to a gentle simmer, and let it cook for 10 minutes, stirring occasionally.",
+    "Add the kombu pieces and coconut milk, allowing the stew to simmer for another 15 minutes until the sweet potatoes are tender.",
+    "Season with salt, stirring to combine the flavors evenly.",
+    "Reduce heat to low and let the stew thicken for an additional 5 minutes, stirring gently.",
+    "Serve hot in a talavera plate, garnishing with a sprinkle of fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "kombu",
+    "one-pan",
+    "stew",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "wholesome-jamaican-kombu-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-jamaican-kombu-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:39:48Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "lardons-render",
+    "primaryIngredient": "kombu",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Kombu",
+    "descriptor": "Wholesome",
+    "dishForm": "Stew"
+  }
+}
