@@ -68,6 +68,17 @@
     "shard": "w"
   },
   {
+    "slug": "warm-canadian-prunes-pie",
+    "title": "Warm Canadian Prunes Pie",
+    "tags": [
+      "canadian",
+      "dessert"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 70,
+    "shard": "w"
+  },
+  {
     "slug": "warm-charred-egyptian-oats-pilaf",
     "title": "Warm Charred Egyptian Oats Pilaf",
     "tags": [

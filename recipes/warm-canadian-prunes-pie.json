@@ -1,0 +1,93 @@
+{
+  "title": "Warm Canadian Prunes Pie",
+  "description": "A traditional Canadian dessert, featuring pillowy pastry filled with fermented prunes and topped with a sprinkle of bonito shavings.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Prune paste",
+      "amount": "1 cup",
+      "notes": "Make sure to use fermented prunes"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ice-cold water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, cold butter, and salt until mixture resembles coarse crumbs.",
+    "Gradually add ice-cold water, stirring with a fork until dough comes together.",
+    "Turn dough onto a lightly floured surface and knead until smooth and elastic, about 5 minutes.",
+    "Wrap dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "Preheat oven to 375° F (190° C).",
+    "On a lightly floured surface, roll out dough to a thickness of about 1/8 inch.",
+    "Transfer dough to a 9-inch pie dish and trim edges to fit.",
+    "In a separate bowl, mix prune paste and granulated sugar until well combined.",
+    "Fill pie crust with prune mixture and dot with beaten egg.",
+    "Bake pie for 40-45 minutes, or until crust is golden brown and filling is heated through.",
+    "Remove pie from oven and sprinkle with bonito shavings."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 45,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "canadian",
+    "dessert"
+  ],
+  "slug": "warm-canadian-prunes-pie",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-canadian-prunes-pie",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:31:19Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "bonito-shave",
+    "primaryIngredient": "prunes",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "prunes",
+    "descriptor": "warm",
+    "dishForm": "pie"
+  }
+}
