@@ -1,0 +1,103 @@
+{
+  "title": "Wholesome Jammy Irish Buckwheat Casserole",
+  "description": "A sweet and crisp Irish casserole with buckwheat flour, applesauce, and anti-inflammatory spices, baked in a tandoor clay pot for a kid-friendly bite.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "anti-inflammatory"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened applesauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for coating pot"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup",
+      "notes": "optional for crunch"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees F and lightly oil a tandoor clay pot with olive oil.",
+    "In a bowl, whisk together buckwheat flour, rolled oats, ground cinnamon, ground ginger, and salt until evenly distributed.",
+    "Add the applesauce, honey, and vanilla extract to the dry mixture and stir until a cohesive batter forms.",
+    "Pour the batter into the prepared clay pot, smoothing the surface with a spatula.",
+    "Cover the pot tightly with foil and bake for 35 minutes until the top is set and golden brown.",
+    "Remove the foil, sprinkle chopped walnuts over the surface, and bake uncovered for an additional 10 minutes to develop a crisp topping.",
+    "Allow the casserole to cool in the pot for five minutes before transferring it to a cutting board.",
+    "Cut the cooled casserole into squares and serve warm or at room temperature.",
+    "Store any leftovers in an airtight container in the refrigerator for up to three days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "buckwheat",
+    "gluten-free",
+    "irish",
+    "jammy",
+    "kid-friendly",
+    "tandoor-pot"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "wholesome-jammy-irish-buckwheat-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-jammy-irish-buckwheat-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:04:21Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Buckwheat",
+    "descriptor": "Wholesome Jammy",
+    "dishForm": "Casserole"
+  }
+}
