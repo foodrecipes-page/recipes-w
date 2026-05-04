@@ -1,0 +1,100 @@
+{
+  "title": "Winey Crispy Canadian Beef Dumplings",
+  "description": "A light, low‑carb Canadian dish featuring wine-infused beef filling and crispy, golden dumplings.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced beef",
+      "amount": "200g",
+      "notes": "lean 90%"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "1 cup (100g)",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 tablespoon (15g)",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove (3g)",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon (1g)",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons (30ml)",
+      "notes": "reduced-sodium"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon (5ml)",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "white wine",
+      "amount": "50 milliliters (50ml)",
+      "notes": "dry"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat and add 1 teaspoon of sesame oil, letting it shimmer for 30 seconds.",
+    "Add minced garlic and grated ginger, sautéing until fragrant, about 30 seconds.",
+    "Stir in the minced beef and cook until browned and crumbled, about 4 minutes.",
+    "Mix in the cauliflower rice and diced onion, cooking until the vegetables soften, about 3 minutes.",
+    "Pour in the soy sauce and white wine, seasoning with salt and pepper, and cook until the liquid has mostly evaporated, about 4 minutes.",
+    "Transfer the filling to a bowl and let it cool slightly before shaping the dumplings.",
+    "Place a spoonful of filling onto each low-carb wonton wrapper and fold over, sealing the edges with a touch of water.",
+    "Heat a small amount of oil in the same skillet over medium heat and arrange the dumplings in a single layer, skin side down.",
+    "Cook the dumplings until the bottom is golden-brown and crispy, about 3 minutes, then flip and cook the other side for 2 minutes.",
+    "Serve hot, optionally garnished with chopped green onions, and enjoy the wine-infused crispiness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "dumplings",
+    "easy",
+    "low-carb",
+    "quick",
+    "wine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 11,
+    "fat": 15
+  },
+  "slug": "winey-crispy-canadian-beef-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-crispy-canadian-beef-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:27:27Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "dum",
+    "primaryIngredient": "minced beef",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Beef",
+    "descriptor": "Winey Crispy",
+    "dishForm": "Dumplings"
+  }
+}
