@@ -1,0 +1,94 @@
+{
+  "title": "Whipped Citrus American Soya Bean Toast",
+  "description": "A fluffy, citrusy toast topped with whipped soya bean puree, perfect for a bright, egg-free breakfast.",
+  "cuisine": "American",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "soya bean puree",
+      "amount": "200 g"
+    },
+    {
+      "name": "lemon",
+      "amount": "1 medium",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "orange",
+      "amount": "1 medium",
+      "notes": "juice"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for toasting"
+    },
+    {
+      "name": "sourdough bread",
+      "amount": "2 slices"
+    }
+  ],
+  "instructions": [
+    "Squeeze the juice from the lemon and orange into a bowl and set aside.",
+    "Whisk the soya bean puree with the citrus juices until smooth and creamy.",
+    "Add maple syrup, vanilla extract, and sea salt to the mixture and beat until fluffy.",
+    "Heat a non-stick skillet over medium heat and drizzle olive oil.",
+    "Place the sourdough slices in the skillet and toast each side until golden brown.",
+    "Spread the whipped soya bean topping generously over the warm toast.",
+    "Sprinkle extra lemon zest on top for added brightness.",
+    "Serve immediately, optionally garnishing with microgreens."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "breakfast",
+    "citrus",
+    "egg-free",
+    "fluffy",
+    "soya-bean",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 470,
+    "protein": 22,
+    "carbs": 119,
+    "fat": 15
+  },
+  "slug": "whipped-citrus-american-soya-bean-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/whipped-citrus-american-soya-bean-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:42:03Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "toast",
+    "primaryIngredient": "soya bean",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "soya bean",
+    "descriptor": "Whipped Citrus",
+    "dishForm": "Toast"
+  }
+}
