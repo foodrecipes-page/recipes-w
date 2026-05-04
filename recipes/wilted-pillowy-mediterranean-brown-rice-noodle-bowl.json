@@ -1,0 +1,101 @@
+{
+  "title": "Wilted Pillowy Mediterranean Brown Rice Noodle Bowl",
+  "description": "A pungent, pillowy, sick-day Mediterranean dish featuring brown rice noodles, fermented jang, and a raw-friendly twist. Serve in a scallop shell vessel for a touch of whimsy.",
+  "cuisine": "Mediterranean",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably day-old noodles"
+    },
+    {
+      "name": "Fermented jang",
+      "amount": "2 tbsp",
+      "notes": "use Korean chili paste or substitute with gochujang"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for saut\u00067ing"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves",
+      "notes": "about 1 tablespoon"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp",
+      "notes": "can be substituted with thyme or rosemary"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add fermented jang and cook for 2 minutes, until slightly caramelized.",
+    "Add brown rice noodles and cook for 3-4 minutes, until wilted and coated in the sauce.",
+    "Season with salt, black pepper, and dried oregano.",
+    "Garnish with parsley and mint, if desired.",
+    "Serve immediately in scallop shells or bowls."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lunch",
+    "mediterranean",
+    "one-pan",
+    "raw-friendly",
+    "snack",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "wilted-pillowy-mediterranean-brown-rice-noodle-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-pillowy-mediterranean-brown-rice-noodle-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:00Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "ferment-jang",
+    "primaryIngredient": "brown rice noodle",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Brown rice noodle",
+    "descriptor": "Wilted pillowy",
+    "dishForm": "Bowl"
+  }
+}

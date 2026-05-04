@@ -3935,6 +3935,21 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-savory-croatian-chicken-pasta",
+    "title": "wholesome savory croatian chicken pasta",
+    "tags": [
+      "croatian",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight",
+      "whole30"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-smoky-canadian-tofu-bowl",
     "title": "Wholesome Smoky Canadian Tofu Bowl",
     "tags": [
@@ -4632,6 +4647,22 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "wilted-pillowy-mediterranean-brown-rice-noodle-bowl",
+    "title": "Wilted Pillowy Mediterranean Brown Rice Noodle Bowl",
+    "tags": [
+      "lunch",
+      "mediterranean",
+      "one-pan",
+      "raw-friendly",
+      "snack",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 18,
     "shard": "w"
   },
   {

@@ -1,0 +1,111 @@
+{
+  "title": "wholesome savory croatian chicken pasta",
+  "description": "a kid-friendly, whole30-friendly croatian dish featuring chicken stock and pasta-water-emulsion",
+  "cuisine": "croatian",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "iron teppan",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "600g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pasta",
+      "amount": "250g",
+      "notes": "preferably penne or rigatoni"
+    },
+    {
+      "name": "chicken stock",
+      "amount": "1L",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "50g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the iron teppan over medium-high heat.",
+    "add the chicken breast and cook until browned on both sides, about 6 minutes.",
+    "set the chicken aside and reduce heat to medium.",
+    "saute the onion and garlic until softened, about 3 minutes.",
+    "add the caraway seeds, salt, and pepper and cook for 1 minute.",
+    "add the pasta and cook until al dente, stirring frequently.",
+    "add the chicken stock and bring to a simmer.",
+    "return the chicken to the pan and reduce heat to low.",
+    "let it simmer for 10 minutes, stirring occasionally.",
+    "serve the pasta and chicken hot, topped with grated parmesan."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 54,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "wholesome-savory-croatian-chicken-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-savory-croatian-chicken-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:37Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "chicken stock",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "chicken",
+    "descriptor": "wholesome savory",
+    "dishForm": "Pasta"
+  }
+}
