@@ -1,0 +1,83 @@
+{
+  "title": "Wholesome Wilted Greek Bramley apples Hot-Pot-Vessel Stew",
+  "description": "This satvik-friendly monsoon dish features bitter but flavorful bramley apples cooked in a hot-pot-vessel to perfection.",
+  "cuisine": "greek",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 pounds Bramley apples",
+      "amount": "2"
+    },
+    {
+      "name": "1 onion, diced",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "1"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "2 sprigs fresh thyme",
+      "notes": "fresh, optional"
+    },
+    {
+      "name": "2 bay leaves",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a hot-pot-vessel over medium heat.",
+    "Add diced onions and minced garlic to sauté for about 5 minutes.",
+    "Gently add Bramley apples, cover with thyme and bay leaves, and cook for another 10-12 minutes or until the apples are soft but not mushy.",
+    "Stir in lemon juice and season with salt and pepper. Continue cooking for an additional 2-3 minutes to allow flavors to meld together.",
+    "Serve hot as a comforting dish over steamed rice or on its own."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek-bitter",
+    "hot-pot-vessel",
+    "satvik-friendly",
+    "wholesome"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 6,
+    "carbs": 47,
+    "fat": 13
+  },
+  "slug": "wholesome-wilted-greek-bramley-apples-hot-pot-vessel-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-wilted-greek-bramley-apples-hot-pot-vessel-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T21:03:21Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "caramelize",
+    "primaryIngredient": "bramley apples",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Bramley apples",
+    "descriptor": "Wholesome Wilted",
+    "dishForm": "Hot-Pot-Vessel Stew"
+  }
+}
