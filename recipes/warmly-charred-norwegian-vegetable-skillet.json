@@ -1,0 +1,106 @@
+{
+  "title": "Warmly Charred Norwegian Vegetable Skillet",
+  "description": "A light and flavorful Norwegian dish featuring garlic sauce and a variety of charred vegetables, perfect for a weeknight dinner. This plant-based friendly recipe is made with pressure-cooked vegetables and a molten garlic sauce.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped red onion and cook for 5 minutes, or until it starts to caramelize.",
+    "Add the minced garlic and cook for an additional 1 minute, stirring constantly to prevent burning.",
+    "Add the chopped carrots and Brussels sprouts to the skillet, stirring to combine with the onion and garlic mixture.",
+    "Cook the vegetables for 5 minutes, stirring occasionally, until they start to char and soften.",
+    "Add the vegetable broth to the skillet and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the vegetables for 10 minutes, or until they are tender and the liquid has reduced slightly.",
+    "Stir in the nutritional yeast, if using, and season the vegetables with salt and black pepper to taste.",
+    "Serve the vegetables hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian-cuisine",
+    "one-pan",
+    "plant-based",
+    "vegan-friendly",
+    "vegetarian-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "warmly-charred-norwegian-vegetable-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-charred-norwegian-vegetable-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:00:12Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "pressure-cook",
+    "primaryIngredient": "garlic sauce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Warmly charred",
+    "dishForm": "Skillet"
+  }
+}
