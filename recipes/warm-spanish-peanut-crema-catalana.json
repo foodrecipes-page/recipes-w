@@ -1,0 +1,98 @@
+{
+  "title": "Warm Spanish Peanut Crema Catalana",
+  "description": "A tangy and crumbly Spanish dessert featuring peanut oil, perfect for a post-workout treat",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1/2 cup",
+      "notes": "creamy"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "brine-dried peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 375 degrees Fahrenheit",
+    "In a medium bowl, whisk together the eggs, sugar, peanut butter, and sea salt until smooth",
+    "Add the vanilla extract and whisk until combined",
+    "Brush the peanut oil onto the grill and pour in the egg mixture",
+    "Cook for 10 minutes or until the edges are set",
+    "Remove from the grill and let cool for 5 minutes",
+    "In a small bowl, whip the heavy cream until stiff peaks form",
+    "Fold the whipped cream into the cooled egg mixture until well combined",
+    "Stir in the chopped brine-dried peanuts",
+    "Serve warm and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crema-catalana",
+    "grilled",
+    "low-fat",
+    "peanut-butter",
+    "post-workout",
+    "spanish-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "warm-spanish-peanut-crema-catalana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spanish-peanut-crema-catalana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:09:51Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "brine-dry",
+    "primaryIngredient": "peanut oil",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "peanuts",
+    "descriptor": "Warm Crumbly",
+    "dishForm": "Crema Catalana"
+  }
+}
