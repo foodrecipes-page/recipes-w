@@ -1,0 +1,99 @@
+{
+  "title": "Warm Velvety Mediterranean Eggplant Wrap",
+  "description": "A malty and velvety Mediterranean dish featuring chives and wrapped in a ssam-wrap, perfect for ovo-vegetarian diets. This show-off dish is sure to impress with its rich flavors and textures.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4 large",
+      "notes": "or large flour tortillas"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Brush the eggplant slices with olive oil and season with salt and pepper.",
+    "Roast the eggplant in the oven for 20 minutes, or until tender and lightly browned.",
+    "In a small bowl, whisk together the malt syrup and garlic.",
+    "Brush the malt syrup mixture onto the roasted eggplant slices.",
+    "In a large skillet, warm the ssam-wraps over medium heat for 1-2 minutes on each side.",
+    "Assemble the wraps by spreading a quarter of the feta cheese onto each wrap, followed by a few slices of the roasted eggplant and a sprinkle of chopped chives.",
+    "Serve the wraps warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meals",
+    "healthy-eating",
+    "lunch-ideas",
+    "mediterranean-diet",
+    "ovo-vegetarian",
+    "wrap-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 22
+  },
+  "slug": "warm-velvety-mediterranean-eggplant-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-velvety-mediterranean-eggplant-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:52:55Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "chives",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "eggplant",
+    "descriptor": "Warm Velvety",
+    "dishForm": "Wrap"
+  }
+}
