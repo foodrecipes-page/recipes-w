@@ -1,0 +1,96 @@
+{
+  "title": "Wet Italian Anchovy Stracciatella",
+  "description": "This sour, shaggy soup is a high-protein anti-flu dish that blends brine-wet anchovy fillets with creamy stracciatella pasta in a tangy broth.",
+  "cuisine": "Italian",
+  "diet": [
+    "high-protein",
+    "anti-flu"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "anchovy fillets",
+      "amount": "6 fillets"
+    },
+    {
+      "name": "anchovy brine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dry spaghetti",
+      "amount": "200 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "0.25 teaspoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "50 grams"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat until shimmering.",
+    "Add the minced garlic and red pepper flakes, sautéing for 30 seconds until fragrant.",
+    "Pour in the anchovy brine and bring to a gentle simmer, stirring to help the fillets dissolve.",
+    "Slice the anchovy fillets into thin ribbons and fold them into the simmering broth, cooking for 2 minutes.",
+    "While the anchovy mixture simmers, boil the spaghetti in salted water until al dente, then drain and reserve 1 cup of pasta water.",
+    "Add the cooked spaghetti to the anchovy broth, tossing to coat, and pour in a splash of pasta water to create a silky consistency.",
+    "Stir in the lemon zest and chopped parsley, adjusting seasoning with additional salt if needed.",
+    "Sprinkle the grated parmesan cheese over the top, letting it melt into the broth.",
+    "Serve immediately, optionally garnishing with extra parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anchovy",
+    "high-protein",
+    "italian",
+    "pasta",
+    "quick",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 55,
+    "carbs": 140,
+    "fat": 38
+  },
+  "slug": "wet-italian-anchovy-stracciatella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wet-italian-anchovy-stracciatella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:56:14Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "brine-wet",
+    "primaryIngredient": "anchovy fillet",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "anchovy",
+    "descriptor": "Wet",
+    "dishForm": "Stracciatella"
+  }
+}
