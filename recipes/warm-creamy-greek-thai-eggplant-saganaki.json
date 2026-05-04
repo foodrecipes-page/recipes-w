@@ -1,0 +1,109 @@
+{
+  "title": "Warm Creamy Greek Thai Eggplant Saganaki",
+  "description": "A salty, creamy, and light Greek dish featuring Thai eggplant, score fat, and satvik friendly ingredients, served in a saganaki form.",
+  "cuisine": "Greek-Thai",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai eggplant",
+      "amount": "2 medium",
+      "notes": "also known as makhua"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "score fat",
+      "amount": "1/4 cup",
+      "notes": "or substitute with olive oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the Thai eggplant into 1/2 inch thick rounds and place on a baking sheet lined with parchment paper.",
+    "Drizzle the score fat over the eggplant and sprinkle with salt, black pepper, and chili flakes if using.",
+    "Roast the eggplant in the oven for 20 minutes, or until tender and lightly browned.",
+    "While the eggplant is roasting, mix the feta cheese, garlic, and lemon juice in a bowl.",
+    "After the eggplant has roasted, remove it from the oven and top each round with a spoonful of the feta mixture.",
+    "Return the eggplant to the oven and bake for an additional 5 minutes, or until the cheese is melted and bubbly.",
+    "Remove the eggplant from the oven and sprinkle with chopped parsley.",
+    "Serve the Warm Creamy Greek Thai Eggplant Saganaki hot, with a side of Greek yogurt for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-entertaining",
+    "greek-thai-fusion",
+    "one-pan-wonder",
+    "vegetarian-delight",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "warm-creamy-greek-thai-eggplant-saganaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-creamy-greek-thai-eggplant-saganaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:14:18Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "score-fat",
+    "primaryIngredient": "thai-eggplant-makhua",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "thai eggplant",
+    "descriptor": "Warm Creamy",
+    "dishForm": "Saganaki"
+  }
+}
