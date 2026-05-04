@@ -1,0 +1,98 @@
+{
+  "title": "whipping-creamy slovakian cream bake",
+  "description": "A pungent, bouncy-qq Slovakian dish featuring whipping cream, rest, and ayurvedic-rajasic-friendly ingredients. Pairs well with bread or as a side dish.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "heavy whipping cream",
+      "amount": "1 1/2 cups",
+      "notes": "chilled in refrigerator overnight"
+    },
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "graham cracker crumbs",
+      "amount": "6 ounces",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C)."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic-rajasic-friendly",
+    "creamy",
+    "dairy-rich",
+    "dessert",
+    "holiday",
+    "slovakian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 12,
+    "carbs": 64,
+    "fat": 30
+  },
+  "slug": "whipping-creamy-slovakian-cream-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/whipping-creamy-slovakian-cream-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:21Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "rest",
+    "primaryIngredient": "whipping cream",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cream",
+    "descriptor": "whipping-creamy",
+    "dishForm": "Bake"
+  }
+}
