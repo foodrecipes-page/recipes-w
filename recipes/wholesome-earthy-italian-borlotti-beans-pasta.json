@@ -1,0 +1,87 @@
+{
+  "title": "wholesome earthy Italian borlotti beans pasta",
+  "description": "a delicious and light italian dish featuring borlotti beans, perfect for a weeknight dinner. borlotti beans are cooked with garlic, onions, and herbs to create a flavorful and comforting dish.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "low-fat",
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "borlotti beans",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "50g",
+      "notes": "pitted"
+    },
+    {
+      "name": "italian flat-leaf parsley",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large saucepan over medium heat. add the chopped onion and cook for 3 minutes, until softened."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "wholesome-earthy-italian-borlotti-beans-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-earthy-italian-borlotti-beans-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:14Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "borlotti beans",
+    "diet": "ayurvedic-tamasic",
+    "region": "puglian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "borlotti beans",
+    "descriptor": "wholesome earthy",
+    "dishForm": "Pasta"
+  }
+}
