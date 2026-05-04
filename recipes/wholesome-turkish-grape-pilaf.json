@@ -1,0 +1,103 @@
+{
+  "title": "Wholesome Turkish Grape Pilaf",
+  "description": "A peppery, silky pilaf made with grape nut cereal, fresh grapes, and nuka-pickle, perfect for a solo dinner.",
+  "cuisine": "turkish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grape nut cereal",
+      "amount": "1 cup",
+      "notes": "buckwheat and millet blend"
+    },
+    {
+      "name": "fresh grapes",
+      "amount": "1 cup",
+      "notes": "seedless, sliced"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried pomegranate seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the grape nut cereal under cold water and set aside.",
+    "Heat the olive oil in a medium saucepan over medium heat.",
+    "Add the cereal and toast until lightly golden, about 3 minutes.",
+    "Stir in the toasted almonds, sesame seeds, and pomegranate seeds.",
+    "Pour in the vegetable broth and bring to a gentle boil.",
+    "Add the sliced grapes, salt, and pepper, then reduce heat to low.",
+    "Cover and simmer until the liquid is absorbed and the grains are tender, about 15 minutes.",
+    "Stir in the nuka-pickle and remove from heat.",
+    "Let the pilaf rest for 5 minutes before serving.",
+    "Fluff with a fork and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "buddhist-temple-friendly",
+    "grape",
+    "one-pot",
+    "pilaf",
+    "solo-dinner",
+    "turkish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 13,
+    "carbs": 66,
+    "fat": 32
+  },
+  "slug": "wholesome-turkish-grape-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-turkish-grape-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:37:41Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "grape nut cereal",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "grape",
+    "descriptor": "Wholesome",
+    "dishForm": "Pilaf"
+  }
+}

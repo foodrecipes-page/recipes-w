@@ -1119,6 +1119,22 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-turkish-grape-pilaf",
+    "title": "Wholesome Turkish Grape Pilaf",
+    "tags": [
+      "buddhist-temple-friendly",
+      "grape",
+      "one-pot",
+      "pilaf",
+      "solo-dinner",
+      "turkish",
+      "vegan"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-uruguayan-rice-soup",
     "title": "Wholesome Uruguayan Rice Soup",
     "tags": [
