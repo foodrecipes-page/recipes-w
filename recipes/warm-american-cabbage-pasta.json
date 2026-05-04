@@ -1,0 +1,95 @@
+{
+  "title": "Warm American Cabbage Pasta",
+  "description": "A charred, gooey solo dinner of savoy cabbage and pasta, finished with a creamy cheese emulsion for a comforting American twist.",
+  "cuisine": "american",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz spaghetti"
+    },
+    {
+      "name": "savoy cabbage",
+      "amount": "1 medium head, sliced thin"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup grated",
+      "notes": "use kosher cheese"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp dried"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat until shimmering.",
+    "Add the sliced cabbage and sauté until the edges begin to brown, about 5 minutes.",
+    "Stir in the minced garlic and cook until fragrant, about 30 seconds.",
+    "Pour in the vegetable broth, cover, and simmer until the cabbage is tender, about 8 minutes.",
+    "While the cabbage cooks, boil the pasta in salted water until al dente, about 10 minutes, then drain.",
+    "Add the cooked pasta to the skillet with cabbage, tossing to combine and develop a slight char on the pasta.",
+    "Stir in the grated parmesan, salt, pepper, and oregano, letting the cheese melt into a creamy emulsion.",
+    "Serve immediately, garnished with lemon zest if desired, for a warm, gooey solo dinner."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "charred",
+    "kosher-friendly",
+    "one-pan",
+    "pasta",
+    "savoy-cabbage",
+    "warm-dinner"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 25,
+    "carbs": 80,
+    "fat": 18
+  },
+  "slug": "warm-american-cabbage-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-american-cabbage-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:54:41Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "cabbage",
+    "descriptor": "Warm",
+    "dishForm": "Pasta"
+  }
+}
