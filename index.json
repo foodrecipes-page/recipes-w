@@ -227,6 +227,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-citrusy-moroccan-natto-seffa",
+    "title": "Warm Citrusy Moroccan Natto Seffa",
+    "tags": [
+      "fermented-food",
+      "gluten-free",
+      "healthy-dinner",
+      "moroccan-food",
+      "one-pot",
+      "vegetarian-recipes"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-creamy-american-chicken-casserole",
     "title": "Warm Creamy American Chicken Casserole",
     "tags": [
@@ -471,6 +486,22 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-earthy-greek-lamb-flatbread",
+    "title": "Warm Earthy Greek Lamb Flatbread",
+    "tags": [
+      "dinner-party",
+      "flatbread",
+      "fodmap-friendly",
+      "greek-cuisine",
+      "lamb-based",
+      "mediterranean",
+      "special-occasion"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {

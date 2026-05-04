@@ -1,0 +1,101 @@
+{
+  "title": "Warm Citrusy Moroccan Natto Seffa",
+  "description": "A fluffy and crowd-pleasing Moroccan dish featuring natto, miso-marinate, and ayurvedic-tamasic-friendly ingredients, formed into a Seffa.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "natto",
+      "amount": "1 cup",
+      "notes": "Japanese fermented soybeans"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "couscous",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste, orange juice, and olive oil.",
+    "Add the natto to the bowl and stir until well combined.",
+    "Stir in chopped parsley, cilantro, salt, and black pepper.",
+    "In a separate large bowl, prepare the couscous according to package instructions.",
+    "Fluff the cooked couscous with a fork and stir in lemon zest.",
+    "Add the natto mixture to the couscous and stir until well combined.",
+    "Transfer the mixture to a baking dish and bake for 20 minutes.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-food",
+    "gluten-free",
+    "healthy-dinner",
+    "moroccan-food",
+    "one-pot",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "warm-citrusy-moroccan-natto-seffa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-citrusy-moroccan-natto-seffa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:39:46Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "miso-marinate",
+    "primaryIngredient": "natto",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "natto",
+    "descriptor": "Warm citrusy",
+    "dishForm": "Seffa"
+  }
+}

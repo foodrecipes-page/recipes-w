@@ -1,0 +1,105 @@
+{
+  "title": "Warm Earthy Greek Lamb Flatbread",
+  "description": "A show-off Mediterranean dish featuring earthy flavors and velvety texture, made with strong white bread flour and FODMAP-friendly ingredients. This dish is perfect for a special occasion or dinner party.",
+  "cuisine": "Greek",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "strong white bread flour",
+      "amount": "2 cups",
+      "notes": "high protein content"
+    },
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and diced"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tablespoons",
+      "notes": "FODMAP-friendly"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the strong white bread flour, salt, and black pepper.",
+    "Gradually add in the garlic-infused oil and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rest for 1 hour in a warm place.",
+    "Roll out the dough into a large rectangle, about 1/4 inch thick.",
+    "Top the dough with the diced lamb, kalamata olives, artichoke hearts, and crumbly feta cheese.",
+    "Sprinkle the chopped fresh oregano over the top of the flatbread.",
+    "Bake the flatbread in the preheated oven for 25 minutes, or until the crust is golden brown.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-party",
+    "flatbread",
+    "fodmap-friendly",
+    "greek-cuisine",
+    "lamb-based",
+    "mediterranean",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "warm-earthy-greek-lamb-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-earthy-greek-lamb-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:39:23Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "rest",
+    "primaryIngredient": "strong white bread flour",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Earthy",
+    "dishForm": "Flatbread"
+  }
+}
