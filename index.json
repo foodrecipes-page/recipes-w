@@ -925,6 +925,19 @@
     "shard": "w"
   },
   {
+    "slug": "warm-japanese-zucchini-miso-ramen",
+    "title": "Warm Japanese Zucchini Miso Ramen",
+    "tags": [
+      "comfort-food",
+      "quick",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "warm-juicy-mediterranean-lamb-tagine",
     "title": "Warm Juicy Mediterranean Lamb Tagine",
     "tags": [
@@ -1143,6 +1156,20 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-silky-peruvian-chicken-bake",
+    "title": "Warm Silky Peruvian Chicken Bake",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "peruvian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {

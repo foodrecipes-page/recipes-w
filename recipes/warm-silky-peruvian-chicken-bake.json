@@ -1,0 +1,105 @@
+{
+  "title": "Warm Silky Peruvian Chicken Bake",
+  "description": "A rich and savory Peruvian dish featuring chicken baked in a silky beurre noisette sauce, perfect for a solo dinner",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2 peppers",
+      "notes": "diced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a small saucepan, melt the butter over medium heat and cook until it turns golden brown and smells nutty",
+    "Add the minced garlic and diced aji amarillo peppers to the saucepan and cook for 1 minute",
+    "Stir in the heavy cream and bring the mixture to a simmer",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes",
+    "Season the chicken breast with salt and black pepper",
+    "Place the chicken breast in a terracotta dish and pour the beurre noisette sauce over the top",
+    "Sprinkle the grated parmesan cheese over the chicken",
+    "Bake the chicken in the preheated oven for 35 minutes",
+    "Remove the chicken from the oven and sprinkle with chopped parsley"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "peruvian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 53,
+    "carbs": 12,
+    "fat": 64
+  },
+  "slug": "warm-silky-peruvian-chicken-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-silky-peruvian-chicken-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:30:29Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "bake",
+    "primaryIngredient": "beurre-noisette",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Silky",
+    "dishForm": "Bake"
+  }
+}

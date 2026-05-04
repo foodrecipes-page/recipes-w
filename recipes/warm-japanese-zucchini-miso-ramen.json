@@ -1,0 +1,113 @@
+{
+  "title": "Warm Japanese Zucchini Miso Ramen",
+  "description": "A garlicky, silky ramen that warms the soul with fresh zucchini and rich miso, finished with a touch of sesame and chili.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ramen noodles",
+      "amount": "200g",
+      "notes": "strawberry or rice based for gluten free option"
+    },
+    {
+      "name": "dashi stock",
+      "amount": "500ml",
+      "notes": "use kombu dashi or instant dashi powder dissolved in water"
+    },
+    {
+      "name": "miso paste",
+      "amount": "30g",
+      "notes": "prefer white or yellow miso for milder flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced into half moons"
+    },
+    {
+      "name": "scallion",
+      "amount": "2 stalks",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "low sodium preferred"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "for aroma"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "½ tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "to garnish"
+    }
+  ],
+  "instructions": [
+    "Bring the dashi stock to a gentle simmer in a medium pot.",
+    "Add minced garlic, ginger, and chili flakes to the stock and let infuse for 2 minutes.",
+    "Stir in miso paste and soy sauce until the miso is fully dissolved and the broth is smooth.",
+    "Add the sliced zucchini and simmer for 3 minutes, just until the zucchini is tender but still firm.",
+    "Add ramen noodles and cook according to package instructions, about 4 minutes, until al dente.",
+    "Drain the noodles and divide them between two bowls, then pour the hot miso broth over the noodles and zucchini.",
+    "Drizzle sesame oil over the bowl and sprinkle the sliced scallion and sesame seeds on top.",
+    "Serve immediately while the broth is steaming and the flavors meld.",
+    "Optional: add a soft boiled egg for extra protein and richness.",
+    "Enjoy the comforting garlicky and silky warmth of this quick ramen."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "quick",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1800,
+    "protein": 60,
+    "carbs": 250,
+    "fat": 60
+  },
+  "slug": "warm-japanese-zucchini-miso-ramen",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-japanese-zucchini-miso-ramen",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:30:44Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "dashi-extract",
+    "primaryIngredient": "zucchini",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Zucchini",
+    "descriptor": "Warm",
+    "dishForm": "Miso Ramen"
+  }
+}
