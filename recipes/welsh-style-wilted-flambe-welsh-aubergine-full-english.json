@@ -1,0 +1,161 @@
+{
+  "title": "Welsh-Style Wilted Flambe Welsh Aubergine Full English",
+  "description": "Funky, shattering Welsh dish featuring baby aubergine, flambe, in a banana leaf vessel. Perfect for a Jain-friendly full English breakfast meal.",
+  "cuisine": "Welsh",
+  "diet": [
+    "vegetarian",
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Baby aubergine",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Baby tomatoes",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1/2 teaspoon",
+      "notes": "",
+      "},{": ".$a = array( "
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "",
+      "},{": "},{"
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "",
+      "},{": "},{"
+    },
+    {
+      "   ": "},{",
+      "name": "Banana leaf",
+      "amount": "2",
+      "notes": "For steaming. Can use aluminum foil or parchment paper if banana leaves are not available.",
+      "}": "difficulty",
+      "medium": "tags",
+      "high-protein": "weeknight",
+      "one-pan": "breakfast",
+      "nutrition": {
+        "calories": 556,
+        "protein": 56,
+        "carbs": 14,
+        "fat": 22
+      },
+      "protein": 56,
+      "carbs": 14,
+      "fat": 22,
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "totalTimeMin": 40,
+      "servings": 4,
+      "instructions": [
+        "Clean up the mess, if any."
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "high-protein",
+        "weeknight",
+        "one-pan",
+        "breakfast",
+        "welsh",
+        "jain-friendly",
+        "full-english",
+        "flambe",
+        "baby-aubergine"
+      ]
+    }
+  ],
+  "difficulty": "medium",
+  "tags": [
+    "baby-aubergine",
+    "breakfast",
+    "flambe",
+    "full-english",
+    "high-protein",
+    "jain-friendly",
+    "one-pan",
+    "weeknight",
+    "welsh"
+  ],
+  "nutrition": {
+    "calories": 556,
+    "protein": 56,
+    "carbs": 14,
+    "fat": 22
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "instructions": [
+    "Clean up the mess, if any."
+  ],
+  "slug": "welsh-style-wilted-flambe-welsh-aubergine-full-english",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/welsh-style-wilted-flambe-welsh-aubergine-full-english",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:25Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "flambe",
+    "primaryIngredient": "baby aubergine",
+    "diet": "jain",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "Aubergine",
+    "descriptor": "Welsh-Style Wilted Flambe",
+    "dishForm": "Full English"
+  }
+}

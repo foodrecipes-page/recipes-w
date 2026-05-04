@@ -2365,6 +2365,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-weeknight-mediterranean-juicy-lamb-stew",
+    "title": "Warm Weeknight Mediterranean Juicy Lamb Stew",
+    "tags": [
+      "lamb",
+      "low-fat",
+      "mediterranean",
+      "one-pan",
+      "stew",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-white-slovakian-lardons-stew",
     "title": "Warm White Slovakian Lardons Stew",
     "tags": [
@@ -2898,6 +2913,24 @@
     ],
     "cuisine": "vietnamese",
     "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "welsh-style-wilted-flambe-welsh-aubergine-full-english",
+    "title": "Welsh-Style Wilted Flambe Welsh Aubergine Full English",
+    "tags": [
+      "baby-aubergine",
+      "breakfast",
+      "flambe",
+      "full-english",
+      "high-protein",
+      "jain-friendly",
+      "one-pan",
+      "weeknight",
+      "welsh"
+    ],
+    "cuisine": "Welsh",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
