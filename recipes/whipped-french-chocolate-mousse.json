@@ -1,0 +1,92 @@
+{
+  "title": "Whipped French Chocolate Mousse",
+  "description": "A silky, airy mousse made with rich dark chocolate and frothy coconut cream, finished with a subtle hint of vanilla for a truly indulgent treat.",
+  "cuisine": "French",
+  "diet": [
+    "vegan",
+    "sattvic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate",
+      "amount": "200g",
+      "notes": "70% cacao, chopped"
+    },
+    {
+      "name": "full fat coconut milk",
+      "amount": "200ml",
+      "notes": "from a can, keep chilled"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "30g",
+      "notes": "or maple syrup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "2 tbsp",
+      "notes": "chilled, for whipping"
+    },
+    {
+      "name": "agar agar powder",
+      "amount": "1 tsp",
+      "notes": "optional, for stability"
+    }
+  ],
+  "instructions": [
+    "Place the chopped chocolate in a heatproof bowl over a pot of simmering water, stirring until completely melted.",
+    "Remove bowl from heat and stir in the coconut sugar, vanilla extract, and a pinch of sea salt until smooth.",
+    "Let the chocolate mixture cool to room temperature, then fold in the chilled coconut milk until well combined.",
+    "Transfer the mixture to a jar and refrigerate for at least 30 minutes to thicken.",
+    "Whip the chilled coconut cream with a hand mixer until soft peaks form.",
+    "Gently fold the whipped coconut cream into the chilled chocolate mixture until light and airy.",
+    "Spoon the mousse into serving glasses and chill for another 15 minutes.",
+    "Garnish with a sprinkle of cocoa powder or chopped nuts before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "fluffy",
+    "indulgent",
+    "quick",
+    "sattvic",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 14
+  },
+  "slug": "whipped-french-chocolate-mousse",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/whipped-french-chocolate-mousse",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:12:34Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "poach",
+    "primaryIngredient": "plain chocolate",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chocolate",
+    "descriptor": "Whipped",
+    "dishForm": "Mousse"
+  }
+}
