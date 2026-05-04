@@ -1,0 +1,99 @@
+{
+  "title": "Warm Springy Northern Irish Jumbo Shrimp Yorkshire Pudding",
+  "description": "A traditional Northern Irish dish featuring jumbo shrimp in a light and airy Yorkshire pudding, infused with herbal flavors, perfect for a spring evening. This recipe is ayurvedic-sattvic-friendly and made in one pot.",
+  "cuisine": "Northern Irish",
+  "diet": [
+    "sattvic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jumbo shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, eggs, milk, and a pinch of salt until smooth.",
+    "Add the chopped parsley and dill to the bowl and stir to combine.",
+    "Melt the butter in a large skillet over medium heat and add the jumbo shrimp, cooking until pink and fully cooked.",
+    "Remove the shrimp from the skillet and set aside, leaving the butter in the skillet.",
+    "Pour the Yorkshire pudding batter into the skillet and cook for 2 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes, or until the pudding is puffed and golden brown.",
+    "Remove the skillet from the oven and top the Yorkshire pudding with the cooked jumbo shrimp.",
+    "Season with salt and black pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "herbal",
+    "one-pan",
+    "sattvic-friendly",
+    "seafood",
+    "spring-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "warm-springy-northern-irish-jumbo-shrimp-yorkshire-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-springy-northern-irish-jumbo-shrimp-yorkshire-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:53:10Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "rest",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "ayurvedic-sattvic",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern Irish",
+    "mainIngredient": "jumbo shrimp",
+    "descriptor": "Warm Springy",
+    "dishForm": "Yorkshire Pudding"
+  }
+}
