@@ -1,0 +1,99 @@
+{
+  "title": "Warm Kenyan Olive Flatbread",
+  "description": "Enjoy a savory, flaky Kenyan flatbread that blends Castelvetrano olives with mild spices, served warm from the skillet.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "120ml"
+    },
+    {
+      "name": "Castelvetrano olives",
+      "amount": "50g",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl combine flour, salt, yeast, cumin, paprika and coriander.",
+    "Add warm water and olive oil, stir until a shaggy dough forms.",
+    "Turn dough onto a floured surface and knead for 6 minutes until smooth.",
+    "Place dough in a lightly oiled bowl, cover, and let rise for 1 hour until doubled.",
+    "Punch down dough, divide into 4 equal portions and roll each into a 12‑inch circle.",
+    "Heat a cast‑iron skillet over medium‑high heat, drizzle a little oil, and cook each flatbread for 2‑3 minutes per side until golden and blistered.",
+    "During the last minute of cooking scatter sliced olives on one side, close the lid, and let the olives soften in the heat.",
+    "Serve warm with a sprinkle of fresh coriander."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky",
+    "kenyan",
+    "lunch-idea",
+    "savory",
+    "vegetarian-friendly",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 235,
+    "protein": 6,
+    "carbs": 19,
+    "fat": 6
+  },
+  "slug": "warm-kenyan-olive-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-kenyan-olive-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:15:51Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "castelvetrano-olives",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "olives",
+    "descriptor": "Warm",
+    "dishForm": "Flatbread"
+  }
+}
