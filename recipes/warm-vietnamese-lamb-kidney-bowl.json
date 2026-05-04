@@ -1,0 +1,116 @@
+{
+  "title": "Warm Vietnamese Lamb Kidney Bowl",
+  "description": "A comforting and umami-rich dish featuring lamb kidney, perfect for a lazy Sunday meal. Broil to perfection and enjoy the combination of crunchy textures and savory flavors.",
+  "cuisine": "vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb kidney",
+      "amount": "2",
+      "notes": "Rinse and pat dry before using."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grate before using."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "Chopped, for garnish."
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish."
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "8 ounces",
+      "notes": "Cooked according to package directions."
+    },
+    {
+      "name": "Crushed peanuts",
+      "amount": "1/4 cup",
+      "notes": "For garnish."
+    }
+  ],
+  "instructions": [
+    "Preheat broiler to 400°F (200°C).",
+    "Rinse the lamb kidney under cold water, then pat dry with paper towels.",
+    "In a small bowl, mix together coconut oil, grated ginger, minced garlic, fish sauce, soy sauce, and honey.",
+    "Place the lamb kidney on a broiler pan and brush the ginger-garlic mixture on both sides of the kidney.",
+    "Season with black pepper to taste.",
+    "Broil the lamb kidney for 12-15 minutes per side, or until cooked to your desired level of doneness.",
+    "While the lamb kidney is cooking, cook the rice noodles according to package directions.",
+    "Once the lamb kidney is cooked, let it rest for 5 minutes before slicing it thinly.",
+    "To serve, place the sliced lamb kidney on top of the cooked rice noodles, garnish with chopped scallions, cilantro, and crushed peanuts.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lazy-sunday",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "warm-vietnamese-lamb-kidney-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-vietnamese-lamb-kidney-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:38Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "broil",
+    "primaryIngredient": "lamb kidney",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Lamb kidney",
+    "descriptor": "Warm",
+    "dishForm": "Bowl"
+  }
+}
