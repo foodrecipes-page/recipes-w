@@ -1,0 +1,97 @@
+{
+  "title": "Warm Crunchy Japanese Kabanos Shio Ramen",
+  "description": "A pescatarian-friendly Japanese dish featuring Polish kabanos, served in a warm and crunchy ramen-shio form, perfect for a brunch mood with earthy flavors.",
+  "cuisine": "Japanese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kabanos sausage",
+      "amount": "4 slices",
+      "notes": "Polish sausage"
+    },
+    {
+      "name": "shio ramen noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "dried seaweed",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated daikon",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Cook the shio ramen noodles according to package instructions and set aside.",
+    "Slice the kabanos sausage into thin rounds and pan-fry until crispy.",
+    "In a large pot, combine the sesame oil, soy sauce, and salt, and bring to a simmer.",
+    "Add the sliced kabanos sausage to the pot and cook for 2 minutes.",
+    "Add the cooked noodles to the pot and stir to combine.",
+    "Top the noodles with grated daikon, chopped green onions, and sesame seeds.",
+    "Serve the ramen hot, garnished with dried seaweed.",
+    "Drizzle with additional soy sauce if desired.",
+    "Garnish with additional sesame seeds and green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "crunchy-texture",
+    "japanese-cuisine",
+    "pescatarian-friendly",
+    "ramen-recipes",
+    "seafood-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "warm-crunchy-japanese-kabanos-shio-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crunchy-japanese-kabanos-shio-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:04:37Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "cure",
+    "primaryIngredient": "polish kabanos",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "kabanos",
+    "descriptor": "Warm Crunchy",
+    "dishForm": "Shio Ramen"
+  }
+}
