@@ -1,0 +1,106 @@
+{
+  "title": "Warm Molten Brazilian White Fish Skillet",
+  "description": "A savory and romantic Brazilian dish featuring white fish in a molten skillet, perfect for a special occasion, this lacto-vegetarian friendly recipe is sure to impress.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "4 fillets",
+      "notes": "such as cod or tilapia"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "such as mozzarella or parmesan"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the white fish fillets and cook for 3-4 minutes per side, until cooked through.",
+    "Remove the fish from the skillet and set aside.",
+    "Add the coconut milk to the skillet and stir to deglaze, scraping up any browned bits from the bottom.",
+    "Bring the coconut milk to a simmer and cook until slightly reduced, about 2 minutes.",
+    "Stir in the dried thyme, salt, and pepper.",
+    "Return the fish to the skillet and spoon some of the coconut milk sauce over the top of each fillet.",
+    "Sprinkle the shredded cheese over the top of the fish and cook until melted and bubbly.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "lacto-vegetarian",
+    "one-pan",
+    "romantic-dinner",
+    "seafood",
+    "skillet-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 12,
+    "fat": 26
+  },
+  "slug": "warm-molten-brazilian-white-fish-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-molten-brazilian-white-fish-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:00:19Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "deglaze",
+    "primaryIngredient": "white fish",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "white fish",
+    "descriptor": "Warm Molten",
+    "dishForm": "Skillet"
+  }
+}
