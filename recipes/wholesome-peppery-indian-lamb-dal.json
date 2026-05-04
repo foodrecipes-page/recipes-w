@@ -1,0 +1,118 @@
+{
+  "title": "Wholesome Peppery Indian Lamb Dal",
+  "description": "A heart-warming and nourishing Peppery Indian Lamb Dal that's perfect for a weeknight dinner. It's made with tender lamb, a rich and creamy dal, and a blend of warming spices.",
+  "cuisine": "Indian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Boneless Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until it's translucent.",
+    "Add the grated ginger and minced garlic and cook for 1 minute.",
+    "Add the cumin, coriander, turmeric, cinnamon, and black pepper powders and cook for 1 minute.",
+    "Add the lamb pieces and cook until they're browned.",
+    "Add the red lentils and water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer for 30 minutes.",
+    "Stir in some salt to taste.",
+    "Serve hot garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cinnamon",
+    "dal",
+    "indian",
+    "lamb",
+    "one-pan",
+    "pepper",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "wholesome-peppery-indian-lamb-dal",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-peppery-indian-lamb-dal",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T04:34:42Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "reduce",
+    "primaryIngredient": "cinnamon",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lamb",
+    "descriptor": "Wholesome Peppery",
+    "dishForm": "Dal"
+  }
+}
