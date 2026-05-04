@@ -1,0 +1,108 @@
+{
+  "title": "Warm French Mushroom Fold",
+  "description": "A garlicky, shaggy brunch-mood French dish featuring mushrooms and a fold, low-carb-friendly. Perfect for a weekend morning.",
+  "cuisine": "French",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Button or cremini mushrooms work well."
+    },
+    {
+      "name": "Garlic",
+      "amount": " 2 tablespoons",
+      "notes": " ",
+      "},{": "name"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Salted or unsalted, whichever you prefer."
+    },
+    {
+      "name": "Cream",
+      "amount": "1/4 cup",
+      "notes": "Half-and-half or heavy cream work well too."
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 tablespoon",
+      "notes": "Fresh or dried thyme, whichever you have on hand."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan",
+      "amount": "1/4 cup",
+      "notes": "Freshly grated, please."
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": "For the fold."
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of butter in a small skillet over medium heat.",
+    "Add the sliced garlic and cook until fragrant, about 1-2 minutes.",
+    "Add the mushrooms to the skillet and cook until they release their moisture and start to brown, about 5 minutes.",
+    "Add the thyme, salt, and pepper to the skillet and stir to combine.",
+    "In a separate bowl, whisk together the eggs and a pinch of salt until well combined.",
+    "In a greased 9-inch skillet or sauté pan, melt the remaining 1 tablespoon of butter over medium heat.",
+    "Pour half of the egg mixture into the skillet and cook until the edges start to set, about 1-2 minutes.",
+    " Sprinkle half of the cooked mushrooms over the eggs, followed by half of the Parmesan cheese.",
+    "Use a spatula to gently fold the other half of the eggs over the filling.",
+    "Cook for an additional 2-3 minutes, until the eggs are almost set and the cheese is melted.",
+    "Use a spatula to carefully slide the warm French mushroom fold onto a plate and serve immediately.",
+    "Reheat the remaining mushroom mixture in the skillet and serve on the side, if desired.",
+    " ",
+    "Serve warm, garnished with additional thyme and Parmesan cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weekend",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 8,
+    "fat": 24
+  },
+  "slug": "warm-french-mushrooms-fold",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-french-mushrooms-fold",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shaggy",
+    "mood": "brunch-mood",
+    "technique": "fold",
+    "primaryIngredient": "mushrooms",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Warm",
+    "dishForm": "Fold"
+  }
+}

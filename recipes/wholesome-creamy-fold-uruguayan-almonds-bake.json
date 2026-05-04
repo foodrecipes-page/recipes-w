@@ -1,0 +1,123 @@
+{
+  "title": "wholesome creamy fold uruguayan almonds bake",
+  "description": "fresh, creamy, cozy uruguayan dish featuring almond essence, fold, lacto-vegetarian-friendly, vessel=agave-leaf",
+  "cuisine": "uruguayan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "almond essence",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "agave syrup",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "125g",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "50g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180\u0019",
+    "Whisk eggs and sugar in a bowl",
+    "Add almond essence, vanilla extract, and whisk well",
+    "In another bowl, mix flour, baking powder, and salt",
+    "Add coconut cream, water, and whisk well",
+    "Fold in whisked eggs mixture into the dry ingredients",
+    "Add almonds and mix well",
+    "Pour into agave leaf vessel and bake for 30 minutes",
+    "Let it cool and serve",
+    "Serve warm or at room temperature",
+    "Refrigerate leftovers for up to 3 days",
+    "Freeze for up to 2 months"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "dairy-free",
+    "dessert",
+    "easy",
+    "sweet",
+    "uruguayan",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 32,
+    "fat": 20
+  },
+  "slug": "wholesome-creamy-fold-uruguayan-almonds-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-creamy-fold-uruguayan-almonds-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:17:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "fold",
+    "primaryIngredient": "almond essence",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "almonds",
+    "descriptor": "wholesome creamy fold",
+    "dishForm": "Bake"
+  }
+}

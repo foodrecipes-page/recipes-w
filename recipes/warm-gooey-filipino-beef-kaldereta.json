@@ -1,0 +1,117 @@
+{
+  "title": "Warm Gooey Filipino Beef Kaldereta",
+  "description": "A classic Filipino dish made with tender beef in a creamy tomato sauce, perfect for a special occasion.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add beef and cook until browned on all sides, about 5 minutes.",
+    "Add tomato paste and cook for 1 minute, stirring constantly.",
+    "Add flour and cook for 1 minute, stirring constantly.",
+    "Gradually add chicken broth, whisking continuously, and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 hours.",
+    "Stir in cream cheese until melted and smooth.",
+    "Season with salt and black pepper to taste.",
+    "If using bay leaves, remove and discard before serving.",
+    "Serve warm, garnished with chopped fresh herbs, if desired.",
+    "Baste the top with a little oil to get a golden brown crust before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "caldereta",
+    "comfort-food",
+    "filipino",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "warm-gooey-filipino-beef-kaldereta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-gooey-filipino-beef-kaldereta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:17Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "brine-dry",
+    "primaryIngredient": "cream cheese",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "beef",
+    "descriptor": "warm gooey",
+    "dishForm": "Kaldereta"
+  }
+}

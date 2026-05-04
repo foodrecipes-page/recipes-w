@@ -950,6 +950,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-french-mushrooms-fold",
+    "title": "Warm French Mushroom Fold",
+    "tags": [
+      "brunch",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "weekend",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-french-sausage-gratin",
     "title": "Warm French Sausage Gratin",
     "tags": [
@@ -1078,6 +1093,21 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-gooey-filipino-beef-kaldereta",
+    "title": "Warm Gooey Filipino Beef Kaldereta",
+    "tags": [
+      "beef",
+      "caldereta",
+      "comfort-food",
+      "filipino",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 150,
     "shard": "w"
   },
   {
@@ -3221,6 +3251,22 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-creamy-fold-uruguayan-almonds-bake",
+    "title": "wholesome creamy fold uruguayan almonds bake",
+    "tags": [
+      "creamy",
+      "dairy-free",
+      "dessert",
+      "easy",
+      "sweet",
+      "uruguayan",
+      "vegan-friendly"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
