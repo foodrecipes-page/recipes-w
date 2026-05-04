@@ -1,0 +1,104 @@
+{
+  "title": "Warmly Sauteed Canadian Oyster Mushrooms Skillet",
+  "description": "A light Canadian dish featuring oyster mushrooms, this recipe is a perfect combination of flavors and textures, with a jammy and bouncy qq finish.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oyster mushrooms",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the oyster mushrooms and submerge them in an ice bath to shock them and help retain their texture.",
+    "In a large skillet, melt the butter over medium heat and add the olive oil.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the chopped onion and cook for 3 minutes until translucent.",
+    "Remove the mushrooms from the ice bath and add them to the skillet, cooking for 5 minutes until they release their moisture and start to brown.",
+    "Add the white wine and chicken broth to the skillet and stir to deglaze the bottom.",
+    "Reduce the heat to low and simmer the mixture for 10 minutes until the liquid has reduced and the mushrooms are tender.",
+    "Stir in the dried thyme, salt, and pepper, and cook for an additional 2 minutes.",
+    "Serve the mushroom mixture hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "easy-dinner",
+    "gluten-free",
+    "mushroom-recipes",
+    "one-pan",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "warmly-sauteed-canadian-oyster-mushrooms-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-sauteed-canadian-oyster-mushrooms-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:10:47Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "oyster mushrooms",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "oyster mushrooms",
+    "descriptor": "Warmly sauteed",
+    "dishForm": "Skillet"
+  }
+}
