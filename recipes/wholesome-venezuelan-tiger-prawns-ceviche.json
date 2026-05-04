@@ -1,0 +1,107 @@
+{
+  "title": "Wholesome Venezuelan Tiger Prawns Ceviche",
+  "description": "A cold, low-sodium ceviche that celebrates Venezuelan flavors with fresh tiger prawns, citrus, and a hint of smoky spice.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "raw tiger prawns",
+      "amount": "200 g",
+      "notes": "deveined and peeled"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "60 ml",
+      "notes": "about 4 limes"
+    },
+    {
+      "name": "fresh orange juice",
+      "amount": "30 ml",
+      "notes": "about 1/2 orange"
+    },
+    {
+      "name": "red onion",
+      "amount": "30 g",
+      "notes": "finely diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "50 g",
+      "notes": "julienned"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "10 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "avocado",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "sea salt",
+      "amount": "2 g",
+      "notes": "lightly sprinkle"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 g",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 g",
+      "notes": "for a subtle smoke flavor"
+    }
+  ],
+  "instructions": [
+    "Clean the prawns, removing shells and veins, then cut them into bite‑sized pieces.",
+    "Place the prawns in a glass bowl and pour the lime and orange juices over them, ensuring they are fully covered.",
+    "Add the diced onion, cucumber, chopped coriander, and sliced avocado to the bowl.",
+    "Season lightly with sea salt, black pepper, and a pinch of smoked paprika, then stir gently.",
+    "Cover the bowl with plastic wrap and refrigerate for 10 minutes to allow the flavors to meld.",
+    "Serve chilled alongside a small side of whole grain crackers for a balanced meal.",
+    "If desired, garnish with extra fresh coriander and a squeeze of lime before serving.",
+    "Enjoy the refreshing, low‑salt Venezuelan ceviche as a light lunch or snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cold-dish",
+    "healthy",
+    "low-salt",
+    "quick-meal",
+    "tropical"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 42,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "wholesome-venezuelan-tiger-prawns-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-venezuelan-tiger-prawns-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:51:25Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "smoke-cold",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Tiger Prawns",
+    "descriptor": "Wholesome",
+    "dishForm": "Ceviche"
+  }
+}
