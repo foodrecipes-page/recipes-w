@@ -748,6 +748,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spicy-middle-eastern-lamb-kebabs",
+    "title": "Warm Spicy Middle Eastern Lamb Kebabs",
+    "tags": [
+      "crowd-pleaser",
+      "grilled",
+      "lamb-kebabs",
+      "middle-eastern",
+      "spicy",
+      "warm"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spicy-saudi-arabian-chicken-tagine",
     "title": "Warm Spicy Saudi Arabian Chicken Tagine",
     "tags": [

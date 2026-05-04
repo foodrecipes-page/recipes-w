@@ -1,0 +1,107 @@
+{
+  "title": "Warm Spicy Middle Eastern Lamb Kebabs",
+  "description": "A crowd-pleasing Middle Eastern dish featuring lamb kebabs marinated in a mixture of spices and kombu, served warm and spicy, this recipe is a must try for any lamb lover, with a unique blend of flavors that will leave you wanting more.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "dried and crushed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper to make the marinade.",
+    "Add the crushed kombu to the marinade and stir to combine.",
+    "Add the lamb cubes to the marinade and toss to coat, then cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each cube.",
+    "Grill the kebabs for 8-10 minutes per side, or until they are cooked to your desired level of doneness.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs warm, garnished with chopped fresh parsley and a side of tzatziki sauce if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "grilled",
+    "lamb-kebabs",
+    "middle-eastern",
+    "spicy",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "warm-spicy-middle-eastern-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-middle-eastern-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:53:18Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "crowd-pleaser",
+    "technique": "marinate",
+    "primaryIngredient": "kombu",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Kebabs"
+  }
+}
