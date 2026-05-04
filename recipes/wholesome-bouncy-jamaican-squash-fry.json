@@ -1,0 +1,116 @@
+{
+  "title": "wholesome bouncy jamaican squash fry",
+  "description": "a resinous, bouncy and romantic jamaican dish featuring a combination of squash and a crispy fry in a dolsot stone bowl",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow squash",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the coconut oil in a large skillet over medium-high heat.",
+    "add the chopped onion and cook until translucent, about 5 minutes.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the chopped squash and cook for 5 minutes, until tender.",
+    "in a separate bowl, mix together the flour, cornmeal, allspice, thyme, salt, and black pepper.",
+    "add the breadcrumbs to the bowl and mix until just combined.",
+    "shape the squash mixture into small patties and coat with the breadcrumb mixture.",
+    "add the patties to the skillet and cook for 3-4 minutes on each side, until golden brown and crispy.",
+    "transfer the patties to a dolsot stone bowl and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner",
+    "jamaican",
+    "lunch",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "wholesome-bouncy-jamaican-squash-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-bouncy-jamaican-squash-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:53:11Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "fry",
+    "primaryIngredient": "squash",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "jamaican",
+    "mainIngredient": "squash",
+    "descriptor": "wholesome bouncy",
+    "dishForm": "fry"
+  }
+}

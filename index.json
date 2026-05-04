@@ -3542,6 +3542,22 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-bouncy-jamaican-squash-fry",
+    "title": "wholesome bouncy jamaican squash fry",
+    "tags": [
+      "comfort-food",
+      "dinner",
+      "jamaican",
+      "lunch",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-buttered-dutch-coconut-quiche",
     "title": "Wholesome Buttered Dutch Coconut Quiche",
     "tags": [
@@ -3626,6 +3642,22 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-charred-moroccan-chicken-tagine",
+    "title": "Wholesome Charred Moroccan Chicken Tagine",
+    "tags": [
+      "easy-to-make",
+      "flavorful",
+      "high-protein",
+      "moroccan",
+      "one-pan",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
