@@ -1,0 +1,101 @@
+{
+  "title": "Wholesome Turkish Yogurt Flatbread",
+  "description": "A tangy, fluffy flatbread baked in a wood-fired oven, topped with fresh gem lettuce and a drizzle of yogurt sauce, perfect for a post-workout boost.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250 g"
+    },
+    {
+      "name": "warm water",
+      "amount": "180 ml"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "plain low fat yogurt",
+      "amount": "200 g"
+    },
+    {
+      "name": "fresh gem lettuce",
+      "amount": "50 g"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Mix all-purpose flour, active dry yeast, and salt in a bowl.",
+    "Add warm water and olive oil to the dry mix and stir until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 6 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover, and let rise for 1 hour until doubled.",
+    "Punch down the dough, divide it into 4 equal portions, and roll each into a thin flat circle.",
+    "Heat a wood-fired pizza stone or cast-iron skillet to high temperature.",
+    "Place each flatbread on the hot surface and bake for 3-4 minutes per side until lightly golden.",
+    "Mix plain low fat yogurt, minced garlic, and lemon juice to create a creamy sauce.",
+    "Slide each flatbread onto a plate, top with fresh lettuce, drizzle yogurt sauce, and sprinkle sumac.",
+    "Serve immediately hot for a post-workout meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 8,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "high-protein",
+    "post-workout",
+    "turkish",
+    "vegetarian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 9,
+    "carbs": 54,
+    "fat": 8
+  },
+  "slug": "wholesome-turkish-yogurt-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-turkish-yogurt-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:38:37Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Wholesome",
+    "dishForm": "Flatbread"
+  }
+}
