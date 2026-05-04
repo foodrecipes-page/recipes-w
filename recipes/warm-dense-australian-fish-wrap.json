@@ -1,0 +1,100 @@
+{
+  "title": "Warm Dense Australian Fish Wrap",
+  "description": "A briny and dense Australian dish featuring chervil, perfect for post-workout meals, wrapped in a corn husk wrap, with anti-inflammatory friendly ingredients.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "4 fillets",
+      "notes": "fresh"
+    },
+    {
+      "name": "chervil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "corn husk wraps",
+      "amount": "4 wraps"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "anti-inflammatory properties"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the barramundi fillets with salt, black pepper, and turmeric.",
+    "Heat the olive oil in a pan over medium heat and sear the barramundi fillets for 2 minutes on each side.",
+    "Transfer the fillets to a baking sheet and bake for 8 minutes.",
+    "Meanwhile, mix the chopped chervil, lemon juice, and minced garlic in a bowl.",
+    " Warm the corn husk wraps by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assembly the wraps by placing a cooked barramundi fillet on each wrap, topping with the chervil mixture, and serving immediately.",
+    "Let the wraps rest for 2 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "warm-dense-australian-fish-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dense-australian-fish-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:03:23Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "rest",
+    "primaryIngredient": "chervil",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "fish",
+    "descriptor": "Warm Dense",
+    "dishForm": "Wrap"
+  }
+}
