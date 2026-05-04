@@ -1,0 +1,115 @@
+{
+  "title": "Wild Norwegian Macaroni Pasta",
+  "description": "A citrusy, shaggy midnight-craving dish that blends bright lemon with aromatic herbs, cooked in a fondue pot for a cozy, whole30-friendly experience.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried macaroni",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "3 liters"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": "for brine"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "diced tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a fondue pot to 100°C.",
+    "Fill the pot with 3 liters of water and add 1 tsp of sea salt, bringing it to a gentle boil.",
+    "Add the dried macaroni and cook until al dente, about 8 minutes.",
+    "In a bowl whisk together lemon zest, lemon juice, 1 tbsp olive oil, 1 tsp smoked paprika, 1/2 tsp cayenne pepper, and a pinch of sea salt.",
+    "Drain the pasta, reserving 1/2 cup of the cooking water.",
+    "Return the pasta to the pot and stir in the lemon vinaigrette, diced tomato, finely diced red onion, minced garlic, 1 tbsp capers, chopped dill, and chopped parsley.",
+    "Simmer the mixture for 2 minutes to meld flavors, adding reserved pasta water if the sauce is too thick.",
+    "Taste and adjust seasoning with extra salt or lemon juice if needed.",
+    "Transfer the pasta to serving dishes and sprinkle additional dill on top.",
+    "Serve immediately while hot."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "norwegian",
+    "dinner"
+  ],
+  "slug": "wild-norwegian-macaroni-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wild-norwegian-macaroni-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:58:21Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "brine-dry",
+    "primaryIngredient": "macaroni",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Macaroni",
+    "descriptor": "Wild",
+    "dishForm": "Pasta"
+  }
+}
