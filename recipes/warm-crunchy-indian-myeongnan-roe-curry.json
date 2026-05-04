@@ -1,0 +1,117 @@
+{
+  "title": "Warm Crunchy Indian Myeongnan Roe Curry",
+  "description": "A warm, crunchy, midnight-craving Indian dish featuring myeongnan-roe, lamination puff, and a whole30-friendly twist. Perfect for a cozy evening.",
+  "cuisine": "Indian",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "milk myeongnan-roe",
+      "amount": "1/2 cup",
+      "notes": "fermented and cured"
+    },
+    {
+      "name": "lardons",
+      "amount": "1/4 cup",
+      "notes": "thick-cut lardons for texture"
+    },
+    {
+      "name": "puff pastry (laminated)",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp",
+      "notes": "for color and warmth"
+    },
+    {
+      "name": "garam masala powder",
+      "amount": "1/2 tsp",
+      "notes": "for depth and aroma"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/4 tsp",
+      "notes": "for earthy flavor"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/4 tsp",
+      "notes": "for citrusy flavor"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/4 tsp",
+      "notes": "for heat"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "for balance"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for frying and moisture"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your cataplana to 375°F (190°C).",
+    "Roll out the puff pastry and cut into diamond shapes.",
+    "In a pan, heat 1 tbsp of coconut oil over medium heat.",
+    "Add the lardons and cook until crispy, about 2-3 minutes.",
+    "Add the turmeric, garam masala, cumin, coriander, and red chili powder. Cook for 1 minute.",
+    "Add the myeongnan-roe and cook until warmed through, about 2 minutes.",
+    "Place a diamond-shaped puff pastry piece in the cataplana, then spoon the myeongnan-roe mixture on top.",
+    "Fold the puff pastry over the filling, pressing gently to seal.",
+    "Brush the tops with coconut oil and bake for 12-15 minutes, or until golden brown.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "cozy-night",
+    "easy-recipe",
+    "gluten-free",
+    "indian-curry",
+    "midnight-snack",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "warm-crunchy-indian-myeongnan-roe-curry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crunchy-indian-myeongnan-roe-curry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T16:56:18Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "lamination-puff",
+    "primaryIngredient": "myeongnan-roe",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "myeongnan-roe",
+    "descriptor": "Warm, Crunchy",
+    "dishForm": "Curry"
+  }
+}
