@@ -1,0 +1,91 @@
+{
+  "title": "Wholesome Algerian Lentil Pudding",
+  "description": "A sweet, malty lentil pudding with a glassy, jelly-like texture, made with ground clove and maple syrup, perfect for kids and Jain diners.",
+  "cuisine": "Algerian",
+  "diet": [
+    "jain-friendly",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "400ml"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "ground clove",
+      "amount": "1g"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "20g"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse 200g red lentils under cold water until the water runs clear.",
+    "In a medium saucepan combine the rinsed lentils and 400ml water, then bring to a gentle boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes until the lentils are tender but not mushy.",
+    "Drain any excess liquid, then return the lentils to the saucepan and add 50g sugar, 1g ground clove, 1 tsp orange zest, and 1 tsp vanilla.",
+    "Stir the mixture until the sugar dissolves and the flavor is aromatic.",
+    "Pour in 20g maple syrup and 1 tsp sea salt, then cook over low heat for another 15 minutes, stirring occasionally.",
+    "Remove from heat and allow the pudding to cool to room temperature, letting it thicken into a glassy consistency.",
+    "Spoon the pudding into serving glasses, chill for at least 2 hours, and serve with a sprinkle of ground clove."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "easy",
+    "glassy-jelly",
+    "jain-friendly",
+    "kid-friendly",
+    "malty"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 14,
+    "carbs": 48,
+    "fat": 3
+  },
+  "slug": "wholesome-algerian-lentil-pudding",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-algerian-lentil-pudding",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:59:02Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "shio-cure",
+    "primaryIngredient": "ground clove",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lentils",
+    "descriptor": "Wholesome",
+    "dishForm": "Pudding"
+  }
+}
