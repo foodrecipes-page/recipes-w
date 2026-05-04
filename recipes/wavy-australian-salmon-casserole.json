@@ -1,0 +1,112 @@
+{
+  "title": "Wavy Australian Salmon Casserole",
+  "description": "Briny, flaky, energizing Australian dish featuring sashimi-cut salmon and a creamy dill topping.",
+  "cuisine": "Australian",
+  "diet": [
+    "halal-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets (sashimi cut)",
+      "amount": "400g",
+      "notes": "halal-friendly"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "100g"
+    },
+    {
+      "name": "Capers",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Shallot",
+      "amount": "1 small",
+      "notes": "finely diced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "150g",
+      "notes": "halved"
+    },
+    {
+      "name": "Fresh spinach",
+      "amount": "150g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C.",
+    "Lightly oil a 2 liter dutch oven with a tablespoon of olive oil.",
+    "Season the sashimi cut salmon fillets with 1 tsp salt and 0.5 tsp black pepper.",
+    "Place the salmon in the oven and bake for 12 minutes until the edges are opaque.",
+    "While salmon cooks, melt 200g cream cheese with 100g Greek yogurt in a small saucepan over low heat.",
+    "Stir in 2 tbsp chopped dill, 1 tsp lemon zest, 1 tbsp capers, and 1 small diced shallot into the cheese mixture.",
+    "When the salmon is nearly done, stir in 150g fresh spinach until wilted, then mix in 150g cherry tomatoes.",
+    "Remove the salmon from the oven and spread the cheese mixture evenly over the fillets.",
+    "Return the casserole to the oven and bake for an additional 8 minutes until the top turns golden.",
+    "Let rest 5 minutes, then garnish with extra dill before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-oven",
+    "gluten-free",
+    "halal-friendly",
+    "one-pan",
+    "quick",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 12,
+    "fat": 30
+  },
+  "slug": "wavy-australian-salmon-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wavy-australian-salmon-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:04:43Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "salmon",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "salmon",
+    "descriptor": "Wavy",
+    "dishForm": "Casserole"
+  }
+}
