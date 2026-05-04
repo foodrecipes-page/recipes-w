@@ -1,0 +1,93 @@
+{
+  "title": "Wildly Tangy Brazilian Chicken Skewers",
+  "description": "A tangy and indulgent Brazilian dish featuring ketchup and grilled to perfection on a binchotan grill, this recipe is low in carbs and big on flavor. It's perfect for a summer dinner or snack.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "ketchup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium high heat.",
+    "In a large bowl, whisk together ketchup, lime juice, olive oil, garlic, salt, black pepper, and paprika.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10 minutes, turning occasionally, or until the chicken is cooked through.",
+    "Simmer the remaining marinade in a saucepan over low heat for 5 minutes, or until slightly thickened.",
+    "Serve the grilled chicken skewers with the simmered marinade spooned over the top.",
+    "Garnish with fresh cilantro or scallions, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "grilled-chicken",
+    "low-carb",
+    "quick-dinner",
+    "summer-recipes",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 18
+  },
+  "slug": "wildly-tangy-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-tangy-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:08:10Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "simmer",
+    "primaryIngredient": "ketchup",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Wildly tangy",
+    "dishForm": "Skewers"
+  }
+}
