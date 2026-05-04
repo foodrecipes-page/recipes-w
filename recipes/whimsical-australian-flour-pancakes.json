@@ -1,0 +1,116 @@
+{
+  "title": "Whimsical Australian Flour Pancakes",
+  "description": "Citrusy, fluffy pancakes that showcase the vibrant flavors of Australia with a touch of dashi for depth.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "plain white flour",
+      "amount": "200 g",
+      "notes": null
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "egg (pasteurized)",
+      "amount": "1 large",
+      "notes": "use pasteurized to ensure safety"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 tbsp",
+      "notes": "soy‑based for a subtle umami"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "melted butter",
+      "amount": "1 tbsp",
+      "notes": "for richness"
+    }
+  ],
+  "instructions": [
+    "In a large bowl whisk together flour, baking powder, salt, and sugar.",
+    "Add milk, pasteurized egg, dashi extract, orange zest, lemon zest, and vanilla extract, whisking until just combined.",
+    "Stir in freshly squeezed orange juice and melted butter until the batter is smooth.",
+    "Heat a non‑stick skillet over medium heat and lightly oil the surface.",
+    "Pour a 1/4 cup ladle of batter onto the skillet, cooking until bubbles form on the surface.",
+    "Flip the pancake and cook until the underside is golden brown.",
+    "Repeat with the remaining batter, adjusting heat as needed to prevent burning.",
+    "Serve the pancakes hot, optionally topping with additional citrus zest or a splash of orange juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "citrus",
+    "dashi",
+    "fluffy-pancakes",
+    "raw-friendly",
+    "showoff"
+  ],
+  "nutrition": {
+    "calories": 1236,
+    "protein": 25,
+    "carbs": 192,
+    "fat": 23
+  },
+  "slug": "whimsical-australian-flour-pancakes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/whimsical-australian-flour-pancakes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:40:52Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "dashi-extract",
+    "primaryIngredient": "white flour",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Flour",
+    "descriptor": "Whimsical",
+    "dishForm": "Pancakes"
+  }
+}
