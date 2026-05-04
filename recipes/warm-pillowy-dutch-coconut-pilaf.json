@@ -1,0 +1,102 @@
+{
+  "title": "Warm Pillowy Dutch Coconut Pilaf",
+  "description": "A funky and pillowy Dutch dish featuring coconut flakes, perfect for a date night, and is plant-based friendly. This dish is made with a mortar-pestle-pound method for a unique texture.",
+  "cuisine": "Dutch",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut flakes",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Add the basmati rice and stir to coat the rice with the oil and mix with the onion and garlic.",
+    "Add the water, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "While the rice is cooking, use a mortar and pestle to pound the dates into a smooth paste.",
+    "Fluff the cooked rice with a fork and stir in the date paste and coconut flakes.",
+    "Serve the pilaf warm, garnished with additional coconut flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-flakes",
+    "date-night",
+    "dutch-cuisine",
+    "one-pot",
+    "plant-based",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-pillowy-dutch-coconut-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-pillowy-dutch-coconut-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T13:39:13Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "coconut flakes",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "coconut",
+    "descriptor": "Warm pillowy",
+    "dishForm": "Pilaf"
+  }
+}
