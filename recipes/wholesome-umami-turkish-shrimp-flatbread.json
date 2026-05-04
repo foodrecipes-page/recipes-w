@@ -1,0 +1,112 @@
+{
+  "title": "Wholesome Umami Turkish Shrimp Flatbread",
+  "description": "A crunchy, long-fermented sourdough flatbread topped with umami-rich shrimp and sumac-spiced aromatics, traditionally served in a Korean brass bowl during the monsoon season.",
+  "cuisine": "Turkish-Fusion",
+  "diet": [
+    "low-glycemic",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sourdough Starter",
+      "amount": "100g",
+      "notes": "Active and bubbly"
+    },
+    {
+      "name": "Whole Rye Flour",
+      "amount": "250g",
+      "notes": "Low-glycemic alternative to white flour"
+    },
+    {
+      "name": "Large Shrimp",
+      "amount": "300g",
+      "notes": "Peeled, deveined, and chopped"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": "Concentrated for umami depth"
+    },
+    {
+      "name": "Aleppo Pepper",
+      "amount": "1 tsp",
+      "notes": "Authentic Turkish heat"
+    },
+    {
+      "name": "Kalamata Olives",
+      "amount": "50g",
+      "notes": "Pitted and minced"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "3 tbsp",
+      "notes": "Cold pressed"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 small",
+      "notes": "Finely diced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1 tsp",
+      "notes": "Fine grain"
+    }
+  ],
+  "instructions": [
+    "Mix the rye flour, sourdough starter, salt, and water into a shaggy dough.",
+    "Ferment the dough at room temperature for twelve hours to ensure a low-glycemic profile and deep flavor.",
+    "Preheat your oven to 450 degrees Fahrenheit with a baking stone inside.",
+    "Sauté the shrimp, tomato paste, and Aleppo pepper in one tablespoon of olive oil until just pink.",
+    "Stretch the fermented dough into a thin circle on a piece of parchment paper.",
+    "Spread the shrimp mixture and minced olives evenly over the surface of the dough.",
+    "Slide the flatbread onto the hot stone and bake for twelve minutes until the edges are crunchy.",
+    "Remove from the oven and drizzle with the remaining olive oil and fresh parsley.",
+    "Slice the flatbread into wedges and place them into a chilled Korean brass bowl for serving.",
+    "Serve immediately while the crust is crisp to contrast the humid monsoon air."
+  ],
+  "prepTimeMin": 720,
+  "cookTimeMin": 15,
+  "totalTimeMin": 735,
+  "servings": 2,
+  "difficulty": "hard",
+  "tags": [
+    "crunchy",
+    "fermented",
+    "monsoon-special",
+    "seafood",
+    "sourdough",
+    "turkish-flavor",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 32,
+    "carbs": 55,
+    "fat": 16
+  },
+  "slug": "wholesome-umami-turkish-shrimp-flatbread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-umami-turkish-shrimp-flatbread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T07:10:16Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "shrimp",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Wholesome Umami",
+    "dishForm": "Flatbread"
+  }
+}
