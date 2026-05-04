@@ -1,0 +1,125 @@
+{
+  "title": "Wicked Wholesome Ethiopian Wheat Brownies",
+  "description": "A spicy Ethiopian-inspired brownie that balances heat from berbere with the richness of dark chocolate and dashi, all in a low-calorie, crumbly form perfect for a lazy Sunday.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "1 cup (120g)",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1/2 cup (40g)",
+      "notes": ""
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/2 cup (85g)",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup (60ml)",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil, melted",
+      "amount": "1/4 cup (60ml)",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large (100g)",
+      "notes": ""
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 tbsp (15ml)",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C) and line a 9x9 inch pan with parchment paper.",
+    "In a medium bowl, whisk together whole wheat flour, unsweetened cocoa powder, baking soda, baking powder, berbere, cinnamon, and salt until well combined.",
+    "In a separate bowl, beat eggs, honey, melted coconut oil, vanilla extract, and dashi extract until smooth.",
+    "Pour the wet mixture into the dry ingredients and stir until just combined, being careful not to overmix.",
+    "Fold in dark chocolate chips and a pinch of extra berbere for extra heat if desired.",
+    "Pour the batter into the prepared pan, smoothing the top with a spatula.",
+    "Bake for 18-20 minutes, or until a toothpick inserted near the center comes out with a few moist crumbs.",
+    "Remove the brownies from the oven and let them cool in the pan for 10 minutes.",
+    "Transfer the brownies onto a wire rack and cut into 12 squares.",
+    "Serve warm or at room temperature, optionally dusting with powdered sugar for a subtle finish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "dessert",
+    "lazy-sunday",
+    "low-calorie",
+    "one-pan",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 158,
+    "protein": 3,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "wicked-wholesome-ethiopian-wheat-brownies",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wicked-wholesome-ethiopian-wheat-brownies",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:56:48Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "dashi-extract",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "wheat",
+    "descriptor": "Wicked Wholesome",
+    "dishForm": "Brownies"
+  }
+}

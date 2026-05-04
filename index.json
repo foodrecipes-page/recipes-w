@@ -83,6 +83,23 @@
     "shard": "w"
   },
   {
+    "slug": "warm-argentinian-chicken-stew",
+    "title": "Warm Argentinian Chicken Stew",
+    "tags": [
+      "argentinian",
+      "creamy",
+      "easy",
+      "kid-friendly",
+      "low-carb",
+      "one-pot",
+      "paleo-friendly",
+      "spicy"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-buttery-croatian-chicken-pilaf",
     "title": "Warm Buttery Croatian Chicken Pilaf",
     "tags": [
@@ -1837,6 +1854,21 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 20,
+    "shard": "w"
+  },
+  {
+    "slug": "wicked-wholesome-ethiopian-wheat-brownies",
+    "title": "Wicked Wholesome Ethiopian Wheat Brownies",
+    "tags": [
+      "crunchy",
+      "dessert",
+      "lazy-sunday",
+      "low-calorie",
+      "one-pan",
+      "spicy"
+    ],
+    "cuisine": "ethiopian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {

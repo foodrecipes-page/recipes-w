@@ -1,0 +1,126 @@
+{
+  "title": "Warm Argentinian Chicken Stew",
+  "description": "A kid-friendly, creamy stew that blends spicy yellow curry paste with tempered chocolate for depth, topped with fresh cilantro and baby spinach. This paleo-friendly dish can be served as a comforting lunch or dinner.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "diced"
+    },
+    {
+      "name": "avocado oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "yellow curry paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "100ml",
+      "notes": "low sodium"
+    },
+    {
+      "name": "raw cacao nibs",
+      "amount": "30g",
+      "notes": "tempered"
+    },
+    {
+      "name": "baby spinach",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat the avocado oil in a large pot over medium heat.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Stir in the minced garlic and yellow curry paste, cooking for 1 minute until fragrant.",
+    "Add the diced chicken breast and cook until lightly browned on all sides, about 5 minutes.",
+    "Pour in the coconut milk and chicken broth, then add the sweet potato cubes and sliced carrot.",
+    "Bring the mixture to a gentle simmer, reduce heat to low, and cook for 20 minutes until the vegetables soften.",
+    "Tempered cacao nibs can be added by stirring them into the stew; they melt and give a subtle chocolate depth.",
+    "Fold in the baby spinach and simmer until wilted, about 2 minutes.",
+    "Season with salt, pepper, and chopped cilantro, stirring gently.",
+    "Serve hot in bowls, spooning the creamy sauce over the chicken and veggies."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "creamy",
+    "easy",
+    "kid-friendly",
+    "low-carb",
+    "one-pot",
+    "paleo-friendly",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "warm-argentinian-chicken-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-argentinian-chicken-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:56:59Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "yellow-curry-paste",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm",
+    "dishForm": "Stew"
+  }
+}
