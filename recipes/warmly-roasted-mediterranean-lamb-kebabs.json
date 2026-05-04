@@ -1,0 +1,106 @@
+{
+  "title": "Warmly Roasted Mediterranean Lamb Kebabs",
+  "description": "A light and flavorful Mediterranean dish featuring roasted lamb, perfect for a warm meal, this recipe is also friendly to raw food preparation and can be sauteed for added flavor",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1/2 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color, cut into 1 inch pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "cut into 1 inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, oregano, thyme, salt, and pepper",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade",
+    "Thread the lamb cubes, bell peppers, and onions onto skewers",
+    "Place the skewers on a baking sheet lined with parchment paper",
+    "Roast the kebabs in the preheated oven for 20 minutes",
+    "After 20 minutes, shake the skewers to redistribute the ingredients",
+    "Continue roasting for an additional 10-15 minutes, or until the lamb is cooked to an internal temperature of 145 degrees Fahrenheit",
+    "Remove the kebabs from the oven and let rest for 5 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kebabs",
+    "lamb",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "warmly-roasted-mediterranean-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-roasted-mediterranean-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:37:34Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "saute",
+    "primaryIngredient": "lamb",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Warmly roasted",
+    "dishForm": "Kebabs"
+  }
+}
