@@ -1,0 +1,106 @@
+{
+  "title": "Warm Spiced American Duck Confit",
+  "description": "Rich, aerated, and cozy American dish featuring wholegrain mustard and shio-cure.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "4",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "Wholegrain mustard",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Shio-cure",
+      "amount": "1 tsp",
+      "notes": "Japanese salt cure"
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the molcajete over medium-low heat.",
+    "Season the duck legs with salt and black pepper.",
+    "Add the wholegrain mustard to the molcajete and cook for 1 minute.",
+    "Add the shio-cure, thyme, rosemary, and garlic to the molcajete and cook for 1 minute.",
+    "Add the duck legs to the molcajete and cook for 5 minutes on each side.",
+    "Remove the duck legs from the molcajete and set aside.",
+    "Add the lemon juice and olive oil to the molcajete and cook for 2 minutes.",
+    "Return the duck legs to the molcajete and cook for an additional 2 minutes.",
+    "Serve the duck legs warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "confit",
+    "duck",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 4,
+    "fat": 55
+  },
+  "slug": "warm-spiced-american-duck-confit",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spiced-american-duck-confit",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T05:45:32Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "shio-cure",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Duck",
+    "descriptor": "Warm Spiced",
+    "dishForm": "Confit"
+  }
+}

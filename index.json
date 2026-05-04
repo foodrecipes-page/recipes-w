@@ -928,6 +928,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spiced-american-duck-confit",
+    "title": "Warm Spiced American Duck Confit",
+    "tags": [
+      "comfort-food",
+      "confit",
+      "duck",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 65,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spicy-australian-chicken-skewers",
     "title": "Warm Spicy Australian Chicken Skewers",
     "tags": [
