@@ -2326,6 +2326,21 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-irish-walnut-salad",
+    "title": "Wholesome Irish Walnut Salad",
+    "tags": [
+      "crunchy",
+      "irish",
+      "nutritious",
+      "quick",
+      "salad",
+      "sattvic-friendly"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-italian-cassava-pesto",
     "title": "Wholesome Italian Cassava Pesto",
     "tags": [

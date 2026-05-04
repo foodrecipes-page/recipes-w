@@ -1,0 +1,114 @@
+{
+  "title": "Wholesome Irish Walnut Salad",
+  "description": "A winey, crunchy Irish salad featuring caramelized onions, fresh birds-eye chillies, and toasted walnuts, crafted to be sattvic-friendly and delightfully light.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan",
+    "sattvic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed leafy greens",
+      "amount": "200g",
+      "notes": "spinach, arugula, romaine"
+    },
+    {
+      "name": "Fresh birds-eye chillies",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "50g",
+      "notes": "toasted"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Apple",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "White wine",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Dried mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Place the mixed leafy greens in a large bowl and set aside.",
+    "Thinly slice the birds-eye chillies, removing seeds if desired, and add them to the greens.",
+    "Slice the red onion thinly and place in a small pan with 1 tbsp olive oil over medium heat.",
+    "Cook the onion until softened and lightly caramelized, about 5 minutes, stirring occasionally.",
+    "While the onion cooks, toast the walnuts in a dry skillet until fragrant, about 2 minutes, stirring frequently.",
+    "In a small bowl, whisk together the white wine, apple cider vinegar, dried mustard, maple syrup, remaining olive oil, sea salt, and pepper to make the dressing.",
+    "Once the onion is caramelized, remove the pan from heat and let it cool slightly before adding to the bowl with greens and chillies.",
+    "Add the toasted walnuts, caramelized onion, and apple slices to the greens, then pour the dressing over the salad.",
+    "Toss gently until everything is evenly coated with dressing.",
+    "Divide the salad into two portions and serve immediately for a light, winey crunch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "irish",
+    "nutritious",
+    "quick",
+    "salad",
+    "sattvic-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "wholesome-irish-walnut-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-irish-walnut-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:36:31Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "caramelize",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Walnut",
+    "descriptor": "Wholesome",
+    "dishForm": "Salad"
+  }
+}
