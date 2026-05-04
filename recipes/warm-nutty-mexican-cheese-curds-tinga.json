@@ -1,0 +1,99 @@
+{
+  "title": "Warm Nutty Mexican Cheese Curds Tinga",
+  "description": "A nutty and tender lacto-vegetarian dish featuring cheese curds in a Yucatecan style tinga, wrapped in a ti leaf.",
+  "cuisine": "Mexican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cheese curds",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2 peppers",
+      "notes": "in adobo sauce"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium heat.",
+    "In a blender or food processor, blend the pumpkin seeds into a fine crumb.",
+    "In a large bowl, combine the cheese curds, toasted pumpkin seed crumb, diced onion, and minced garlic.",
+    "Add the chipotle peppers and their adobo sauce to the bowl and stir until well combined.",
+    "Brush the ti leaves with vegetable oil on both sides.",
+    "Place a quarter of the cheese curd mixture onto the center of each ti leaf.",
+    "Fold the ti leaves over the filling to form a tight packet.",
+    "Grill the packets for 2-3 minutes on each side, until the cheese is melted and the ti leaves are slightly charred.",
+    "Serve the warm nutty Mexican cheese curds tinga immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "grilled",
+    "lacto-vegetarian",
+    "mexican-inspired",
+    "snack",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "warm-nutty-mexican-cheese-curds-tinga",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-nutty-mexican-cheese-curds-tinga",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:08:10Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "emulsify",
+    "primaryIngredient": "cheese curds",
+    "diet": "lacto-vegetarian",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "cheese curds",
+    "descriptor": "warm nutty",
+    "dishForm": "Tinga"
+  }
+}
