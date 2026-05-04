@@ -1606,6 +1606,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-smoky-italian-pork-risotto",
+    "title": "Warm Smoky Italian Pork Risotto",
+    "tags": [
+      "comfort-food",
+      "creamy",
+      "italian-food",
+      "one-pot",
+      "sick-day",
+      "smoky"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-smoky-norwegian-beet-stew",
     "title": "Warm Smoky Norwegian Beet Stew",
     "tags": [
