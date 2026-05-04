@@ -645,6 +645,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-peppery-korean-chicken-naengmyeon",
+    "title": "Warm Peppery Korean Chicken Naengmyeon",
+    "tags": [
+      "korean-cuisine",
+      "noodle-dish",
+      "one-pot",
+      "ovo-vegetarian",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-silky-indian-lentil-dal",
     "title": "Warm Silky Indian Lentil Dal",
     "tags": [

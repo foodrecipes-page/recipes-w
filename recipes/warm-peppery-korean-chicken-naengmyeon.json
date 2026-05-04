@@ -1,0 +1,98 @@
+{
+  "title": "Warm Peppery Korean Chicken Naengmyeon",
+  "description": "A peppery and springy Korean dish featuring chicken breasts, served with a cold noodle dish called naengmyeon, cooked in a ttukbaegi earthenware pot, this recipe is ovo-vegetarian friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "naengmyeon noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the naengmyeon noodles according to the package instructions.",
+    "In a large bowl, whisk together the gochugaru, soy sauce, sesame oil, and minced garlic to make the sauce.",
+    "Slice the cooked chicken breast into thin strips and add to the bowl with the sauce, tossing to coat.",
+    "In a ttukbaegi earthenware pot, combine the cooked noodles, chicken, and sauce, and stir to combine.",
+    "Top with chopped green onions and a fried egg.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional green onions and gochugaru if desired.",
+    "Cook the chicken breast in the oven at 400 degrees Fahrenheit for 20 minutes, or until it reaches an internal temperature of 165 degrees Fahrenheit."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "korean-cuisine",
+    "noodle-dish",
+    "one-pot",
+    "ovo-vegetarian",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-peppery-korean-chicken-naengmyeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-peppery-korean-chicken-naengmyeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:52:04Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "chicken breasts",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken breasts",
+    "descriptor": "Warm Peppery",
+    "dishForm": "Naengmyeon"
+  }
+}
