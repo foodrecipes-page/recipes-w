@@ -1,0 +1,104 @@
+{
+  "title": "Warm Crispy Saudi Arabian Linguine Pasta",
+  "description": "A peppery and crispy weeknight Saudi-Arabian dish featuring linguine pasta, this vegan-friendly recipe is perfect for a quick dinner, with a blend of sautéed vegetables and spices that give it a distinct flavor.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the linguine pasta according to the package instructions until it is al dente.",
+    "In a large skillet, heat the olive oil over medium-high heat and add the chopped onion, cooking until it is translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the chopped red bell pepper to the skillet and cook until it is tender.",
+    "Stir in the tomato paste, smoked paprika, black pepper, and salt, and cook for 1 minute.",
+    "Drain the cooked linguine pasta and add it to the skillet, tossing to combine with the vegetable mixture.",
+    "Cook for an additional 2-3 minutes, until the pasta is well coated and slightly crispy.",
+    "Remove the skillet from the heat and garnish with chopped fresh parsley.",
+    "Serve the warm crispy Saudi Arabian linguine pasta immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "one-pan",
+    "pasta-dish",
+    "quick-dinner",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "warm-crispy-saudi-arabian-linguine-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-saudi-arabian-linguine-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T13:50:11Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "fry",
+    "primaryIngredient": "linguine pasta",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "linguine pasta",
+    "descriptor": "Warm Crispy",
+    "dishForm": "Pasta"
+  }
+}

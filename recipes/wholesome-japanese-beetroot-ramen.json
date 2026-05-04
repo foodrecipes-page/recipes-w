@@ -1,0 +1,105 @@
+{
+  "title": "Wholesome Japanese Beetroot Ramen",
+  "description": "A cultured, creamy midnight-craving ramen featuring roasted beetroot, bhuna spice, and coconut milk, nut-free and perfect for Shikoku-inspired comfort.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "beetroot",
+      "amount": "2 medium, roasted, sliced",
+      "notes": "roast at 200C for 25 minutes"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "bhuna spice paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 tbsp, sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp, grated"
+    },
+    {
+      "name": "boiled egg",
+      "amount": "1, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and roast beetroot for 25 minutes until tender, then slice.",
+    "In a saucepan, heat coconut oil over medium heat, add bhuna spice paste and minced ginger, sauté for 1 minute until fragrant.",
+    "Add vegetable broth and miso paste to the saucepan and stir until miso dissolves.",
+    "Reduce heat, pour in coconut milk and bring to a gentle simmer.",
+    "Stir in the roasted beetroot slices and season with sea salt, letting the soup simmer for 5 minutes.",
+    "Meanwhile, cook ramen noodles in a separate pot according to package instructions, drain and set aside.",
+    "Divide the noodles into bowls, ladle the hot beetroot broth over them, and garnish with sliced scallions.",
+    "Serve immediately, optionally topping with a boiled egg half or a sprinkle of fresh cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beetroot",
+    "creamy",
+    "midnight-craving",
+    "nut-free",
+    "shikoku",
+    "vegan",
+    "wholesome"
+  ],
+  "nutrition": {
+    "calories": 1100,
+    "protein": 28,
+    "carbs": 72,
+    "fat": 66
+  },
+  "slug": "wholesome-japanese-beetroot-ramen",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-japanese-beetroot-ramen",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:50:27Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "bhuna",
+    "primaryIngredient": "beetroot",
+    "diet": "nut-free",
+    "region": "shikoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Beetroot",
+    "descriptor": "Wholesome",
+    "dishForm": "Ramen"
+  }
+}

@@ -450,6 +450,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-crispy-saudi-arabian-linguine-pasta",
+    "title": "Warm Crispy Saudi Arabian Linguine Pasta",
+    "tags": [
+      "middle-eastern",
+      "one-pan",
+      "pasta-dish",
+      "quick-dinner",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crispy-uruguayan-egg-toast",
     "title": "Warm Crispy Uruguayan Egg Toast",
     "tags": [
@@ -3201,6 +3216,22 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-japanese-beetroot-ramen",
+    "title": "Wholesome Japanese Beetroot Ramen",
+    "tags": [
+      "beetroot",
+      "creamy",
+      "midnight-craving",
+      "nut-free",
+      "shikoku",
+      "vegan",
+      "wholesome"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 65,
     "shard": "w"
   },
   {
