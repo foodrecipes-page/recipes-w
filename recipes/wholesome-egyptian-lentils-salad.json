@@ -1,0 +1,109 @@
+{
+  "title": "Wholesome Egyptian Lentils Salad",
+  "description": "A fresh, herb‑rich lentil salad that balances savory and bright citrus notes, perfect for a romantic date night.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried red lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "garlic granules",
+      "amount": "1 tsp",
+      "notes": "for quick flavor"
+    },
+    {
+      "name": "minced ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/3 cup"
+    },
+    {
+      "name": "diced cucumber",
+      "amount": "1 cup",
+      "notes": "crisp for texture"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "light soy sauce (Wok‑hei)",
+      "amount": "1 tbsp",
+      "notes": "use Wok‑hei brand for authentic taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils under cold water until clear.",
+    "Heat the wok over medium heat and add olive oil.",
+    "Add garlic granules, ginger, and sauté until fragrant, about 30 seconds.",
+    "Stir in the lentils and toast them lightly for 1 minute.",
+    "Pour in the water and bring to a boil, then reduce to low and simmer for 15 minutes or until lentils are tender.",
+    "Remove from heat and let the lentils sit covered for 5 minutes.",
+    "Fluff the lentils with a fork, then stir in soy sauce, lemon juice, salt, and pepper until well combined.",
+    "Fold in the chopped parsley, cilantro, and cucumber, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "egyptian",
+    "lentils",
+    "one-pan",
+    "raw-friendly",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "wholesome-egyptian-lentils-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-egyptian-lentils-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:12:11Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "wok-hei",
+    "primaryIngredient": "garlic granules",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "Wholesome",
+    "dishForm": "Salad"
+  }
+}
