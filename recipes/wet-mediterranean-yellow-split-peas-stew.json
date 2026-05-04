@@ -1,0 +1,113 @@
+{
+  "title": "Wet Mediterranean Yellow Split Peas Stew",
+  "description": "A bitter, gooey stewed dish of yellow split peas and lardons, simmered in a bamboo steamer for a monsoon‑inspired Mediterranean flavor.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow split peas",
+      "amount": "200g",
+      "notes": "rinsed"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "lardons",
+      "amount": "100g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "kale",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the yellow split peas under cold water until clear.",
+    "In a large saucepan, bring the 4 cups of water to a boil, then add the peas and reduce to a simmer for 15 minutes.",
+    "While the peas cook, heat a skillet over medium heat and render the lardons until crispy, then set aside.",
+    "In the same skillet, add a tablespoon of olive oil and sauté the diced onion and minced garlic until translucent.",
+    "Add the diced tomatoes to the skillet and cook for 5 minutes until they soften.",
+    "Stir in the cumin and coriander powders, cooking for 1 minute to release their aromas.",
+    "Pour the tomato mixture into the saucepan with the peas, and add the chopped kale.",
+    "Season the stew with salt and pepper, then cover and steam in a bamboo steamer for 20 minutes.",
+    "After steaming, stir in the rendered lardons and adjust seasoning if needed.",
+    "Transfer the stew to serving bowls, letting the residual heat make it gooey and silky.",
+    "Optional: squeeze a splash of lemon juice for brightness before serving.",
+    "Serve hot as a nourishing Mediterranean lunch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo",
+    "bitter",
+    "gooey",
+    "mediterranean",
+    "steamer",
+    "tamasic"
+  ],
+  "nutrition": {
+    "calories": 1500,
+    "protein": 60,
+    "carbs": 140,
+    "fat": 55
+  },
+  "slug": "wet-mediterranean-yellow-split-peas-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wet-mediterranean-yellow-split-peas-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:12:19Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "lardons-render",
+    "primaryIngredient": "yellow split peas",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Yellow Split Peas",
+    "descriptor": "Wet",
+    "dishForm": "Stew"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Warm Wholesome Greek Chicken Tagine",
+  "description": "A peppery, juicy, romantic Greek dish featuring sesame butter and cooked in a ti-leaf wrap, paleo-friendly and comforting.",
+  "cuisine": "Greek",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "500g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "5g"
+    },
+    {
+      "name": "dried mint",
+      "amount": "5g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "3g"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2g"
+    },
+    {
+      "name": "whole sesame butter",
+      "amount": "30g"
+    },
+    {
+      "name": "onion",
+      "amount": "150g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a heavy bottomed pot over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic and cook for 1 minute until fragrant.",
+    "Sprinkle in oregano, mint, smoked paprika, and cumin, and sauté for 30 seconds.",
+    "Add the chicken thighs, brown each side until golden, about 8 minutes total.",
+    "Pour in lemon juice and tomato puree, stir to coat the chicken and vegetables.",
+    "Reduce heat to low, cover with a ti-leaf wrap, and simmer for 30 minutes, turning occasionally.",
+    "After simmering, remove the ti-leaf, stir in the sesame butter until melted and glossy.",
+    "Season with salt and pepper to taste, then garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "mediterranean-dish",
+    "one-pot",
+    "paleo-friendly",
+    "quick-meal",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 422,
+    "protein": 32,
+    "carbs": 11,
+    "fat": 22
+  },
+  "slug": "warm-wholesome-greek-chicken-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wholesome-greek-chicken-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:11:49Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "tagine-cook",
+    "primaryIngredient": "sesame butter",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Chicken",
+    "descriptor": "Warm Wholesome",
+    "dishForm": "Tagine"
+  }
+}

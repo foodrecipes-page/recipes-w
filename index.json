@@ -1447,6 +1447,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-wholesome-greek-chicken-tagine",
+    "title": "Warm Wholesome Greek Chicken Tagine",
+    "tags": [
+      "low-carb",
+      "mediterranean-dish",
+      "one-pot",
+      "paleo-friendly",
+      "quick-meal",
+      "romantic"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-wholesome-malaysian-chicken-bowl",
     "title": "Warm Wholesome Malaysian Chicken Bowl",
     "tags": [
@@ -1785,6 +1800,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "wet-mediterranean-yellow-split-peas-stew",
+    "title": "Wet Mediterranean Yellow Split Peas Stew",
+    "tags": [
+      "bamboo",
+      "bitter",
+      "gooey",
+      "mediterranean",
+      "steamer",
+      "tamasic"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 60,
     "shard": "w"
   },
   {
