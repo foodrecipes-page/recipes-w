@@ -1,0 +1,98 @@
+{
+  "title": "Warming Saudi Egg Flatbread",
+  "description": "A fluffy, wine-infused flatbread kissed with sweet smoked paprika, perfect for a romantic breakfast or brunch.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "smoked paprika, sweet",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "3 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine the flour, smoked paprika, salt, and pepper in a large bowl.",
+    "Whisk together the eggs, milk, wine, and olive oil in a separate bowl.",
+    "Pour the wet mixture into the dry ingredients and stir until a smooth dough forms.",
+    "Let the dough rest for 10 minutes to relax the gluten.",
+    "Divide the dough into four equal portions and roll each into a thin circle about 6 inches in diameter.",
+    "Heat a non‑stick skillet over medium heat and brush lightly with olive oil.",
+    "Place one flatbread in the skillet and cook until bubbles form on the surface, about 2 minutes.",
+    "Flip the flatbread and cook the other side until golden, about 1 minute.",
+    "Fold the cooked flatbread in half, press down lightly, and transfer to a warm plate.",
+    "Repeat with remaining dough portions.",
+    "Serve warm, garnished with chopped parsley and a drizzle of honey if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky",
+    "one-pan",
+    "ovo-vegetarian",
+    "quick",
+    "saudi",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 16,
+    "carbs": 42,
+    "fat": 10
+  },
+  "slug": "warming-saudi-egg-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warming-saudi-egg-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:28:49Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "marinate",
+    "primaryIngredient": "sweet smoked paprika",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "Egg",
+    "descriptor": "Warming",
+    "dishForm": "Flatbread"
+  }
+}

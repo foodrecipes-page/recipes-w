@@ -1,0 +1,88 @@
+{
+  "title": "Wholesome Smoky Russian Cabbage Salad",
+  "description": "A refreshing, low-calorie Russian cabbage salad with a smoky kick, perfect for meal prep.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-calorie",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dill, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Shred the cabbage into fine strands and place in a large bowl.",
+    "Drizzle sunflower oil over the cabbage and toss to coat evenly.",
+    "Add lemon juice, apple cider vinegar, smoked paprika, salt, and pepper and mix thoroughly.",
+    "Stir in chopped dill until well distributed.",
+    "Cover the bowl and refrigerate for 20 minutes to let flavors meld.",
+    "Serve chilled as a crisp, smoky salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-fiber",
+    "low-calorie",
+    "meal-prep",
+    "smoked",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 14
+  },
+  "slug": "wholesome-smoky-russian-cabbage-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-smoky-russian-cabbage-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:28:40Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "smoke-cold",
+    "primaryIngredient": "sunflower oil",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Wholesome Smoky",
+    "dishForm": "Salad"
+  }
+}

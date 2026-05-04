@@ -1,0 +1,95 @@
+{
+  "title": "Warm Crumbly Irish Sausage Hash",
+  "description": "A hearty and savory Irish dish featuring brown rice, air-fried sausage, and a crumbly texture, perfect for a hangover cure or a high-protein breakfast option.",
+  "cuisine": "Irish",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish sausage",
+      "amount": "1 pound",
+      "notes": "casings removed"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375 degrees Fahrenheit.",
+    "Cook the Irish sausage in the air fryer for 10 minutes, breaking it up into small pieces as it cooks.",
+    "Add the diced onion and bell pepper to the air fryer and cook for an additional 5 minutes.",
+    "In a large bowl, combine the cooked brown rice, diced potato, and cooked sausage mixture.",
+    "In a small bowl, whisk together the egg, salt, and black pepper.",
+    "Add the egg mixture to the bowl with the rice mixture and stir until everything is well combined.",
+    "Using your hands, shape the mixture into a large hash shape.",
+    "Place the hash in the air fryer and cook for 10 minutes, or until the outside is crispy and golden brown.",
+    "Serve the hash hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer-recipes",
+    "breakfast-ideas",
+    "hangover-cure",
+    "high-protein",
+    "irish-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "warm-crumbly-irish-sausage-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crumbly-irish-sausage-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:29:01Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "air-fry",
+    "primaryIngredient": "brown rice",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "sausages",
+    "descriptor": "Warm Crumbly",
+    "dishForm": "Hash"
+  }
+}

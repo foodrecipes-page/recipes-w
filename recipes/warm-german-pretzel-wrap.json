@@ -1,0 +1,88 @@
+{
+  "title": "Warm German Pretzel Wrap",
+  "description": "Buttery, cheese‑pull German wrap made with low‑carb pretzel dough and sugar‑free chocolate for a cozy, diabetic‑friendly treat.",
+  "cuisine": "German",
+  "diet": [
+    "low-carb",
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "low-carb pretzel dough",
+      "amount": "150 g"
+    },
+    {
+      "name": "cheddar cheese, shredded",
+      "amount": "100 g"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar‑free chocolate chips",
+      "amount": "20 g"
+    },
+    {
+      "name": "fresh chives, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "10 ml"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Spread the melted butter evenly over the pretzel dough sheet.",
+    "Sprinkle the shredded cheddar cheese over the buttered dough.",
+    "Add a layer of sugar‑free chocolate chips across the dough.",
+    "Season with sea salt and chopped chives.",
+    "Fold the dough into a rectangular wrap and seal the edges by pressing them together.",
+    "Place the wrap seam‑side down on a parchment‑lined baking sheet.",
+    "Bake for 12 minutes until the cheese melts and the edges are golden.",
+    "Remove from the oven and let the wrap cool for 2 minutes.",
+    "Slice the warm wrap into bite‑size pieces and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "easy",
+    "german",
+    "low-carb",
+    "warm-pretzel"
+  ],
+  "nutrition": {
+    "calories": 880,
+    "protein": 36,
+    "carbs": 35,
+    "fat": 60
+  },
+  "slug": "warm-german-pretzel-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-german-pretzel-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:28:04Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "candy",
+    "primaryIngredient": "pretzels",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Pretzel",
+    "descriptor": "Warm",
+    "dishForm": "Wrap"
+  }
+}

@@ -227,6 +227,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-crumbly-irish-sausage-hash",
+    "title": "Warm Crumbly Irish Sausage Hash",
+    "tags": [
+      "air-fryer-recipes",
+      "breakfast-ideas",
+      "hangover-cure",
+      "high-protein",
+      "irish-food"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crunchy-irish-seafood-stew",
     "title": "Warm Crunchy Irish Seafood Stew",
     "tags": [
@@ -364,6 +378,20 @@
       "post-workout",
       "quick-meal",
       "snappy-dish"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-german-pretzel-wrap",
+    "title": "Warm German Pretzel Wrap",
+    "tags": [
+      "cozy",
+      "easy",
+      "german",
+      "low-carb",
+      "warm-pretzel"
     ],
     "cuisine": "German",
     "totalTimeMin": 25,
@@ -805,6 +833,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 32,
+    "shard": "w"
+  },
+  {
+    "slug": "warming-saudi-egg-flatbread",
+    "title": "Warming Saudi Egg Flatbread",
+    "tags": [
+      "flaky",
+      "one-pan",
+      "ovo-vegetarian",
+      "quick",
+      "saudi",
+      "winey"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -1317,6 +1360,20 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-smoky-russian-cabbage-salad",
+    "title": "Wholesome Smoky Russian Cabbage Salad",
+    "tags": [
+      "high-fiber",
+      "low-calorie",
+      "meal-prep",
+      "smoked",
+      "vegan"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 10,
     "shard": "w"
   },
   {
