@@ -1,0 +1,101 @@
+{
+  "title": "Wholesome Egyptian Potatoes Casserole",
+  "description": "A comforting, grassy casserole featuring jersey royal potatoes, dairy free cheese pull, and a slow cooked clay pot finish.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jersey royal potatoes",
+      "amount": "4 medium"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 medium (120g)"
+    },
+    {
+      "name": "Diced carrot",
+      "amount": "1 medium (120g)"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "1 cup (30g) chopped"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "2 cups (480ml)"
+    },
+    {
+      "name": "Dairy free cheese",
+      "amount": "100g grated"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons (30ml)"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon (1g)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (356°F).",
+    "Peel and thinly slice the jersey royal potatoes into ¼-inch rounds.",
+    "In a skillet, heat the olive oil over medium heat and sauté the diced onions and carrots until softened, about 5 minutes.",
+    "Stir in the fresh basil, oregano, salt, and pepper, cooking for another minute.",
+    "Transfer the sautéed mixture to the clay pot and spread evenly.",
+    "Arrange the sliced potatoes on top in a single layer, overlapping slightly.",
+    "Pour the vegetable stock over the potatoes, ensuring it reaches halfway up the sides of the pot.",
+    "Sprinkle the grated dairy free cheese evenly over the potatoes.",
+    "Cover the pot with its lid and bake in the preheated oven for 60 minutes, then remove the lid and bake for an additional 30 minutes until the potatoes are tender and the cheese has melted.",
+    "Let the casserole rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "comfort-food",
+    "dairy-free",
+    "jersey-royal-pot",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 590,
+    "protein": 27,
+    "carbs": 53,
+    "fat": 24
+  },
+  "slug": "wholesome-egyptian-potatoes-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-egyptian-potatoes-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:01:18Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "jersey royal potatoes",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Wholesome",
+    "dishForm": "Casserole"
+  }
+}
