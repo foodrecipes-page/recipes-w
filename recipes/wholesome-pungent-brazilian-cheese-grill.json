@@ -1,0 +1,106 @@
+{
+  "title": "Wholesome Pungent Brazilian Cheese Grill",
+  "description": "A solo‑dinner Brazilian dish that pairs crumbly cheese and fiery tomato confit on a binchotan grill, finished with a sweet amazake glaze for balanced flavor and anti‑inflammatory benefits.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "anti-inflammatory"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Queijo Minas",
+      "amount": "200 g",
+      "notes": "crumbly cheese"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "200 g",
+      "notes": "fresh"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Amazake",
+      "amount": "50 ml"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to high heat (around 200°C) before use.",
+    "Cut the cheese into thick slices, about 1.5 cm, and season both sides with salt, black pepper, turmeric, and minced garlic.",
+    "In a small bowl, mix olive oil, butter, grated ginger, fresh thyme, and a dash of fresh parsley into a glaze.",
+    "Place the cheese slices on the grill and cook until the edges brown and the cheese starts to melt, about 3 minutes per side.",
+    "While the cheese is grilling, sear the cherry tomatoes on the hot grill for 1 to 2 minutes until they blister and develop a slight char.",
+    "Once the cheese is grilled, brush each slice with the amazake glaze, then sprinkle the confit tomatoes on top.",
+    "Transfer the plated cheese and tomato mixture back to the grill for an additional 1 to 2 minutes to meld flavors and melt the glaze.",
+    "Remove from grill, garnish with chopped parsley, and serve immediately as a single‑serving dinner."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "binchotan-grill",
+    "cheese-lovers",
+    "gluten-free",
+    "quick",
+    "single-pan"
+  ],
+  "nutrition": {
+    "calories": 794,
+    "protein": 28,
+    "carbs": 46,
+    "fat": 56
+  },
+  "slug": "wholesome-pungent-brazilian-cheese-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-pungent-brazilian-cheese-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:15:04Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "confit-tomato",
+    "primaryIngredient": "amazake",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cheese",
+    "descriptor": "Wholesome Pungent",
+    "dishForm": "Grill"
+  }
+}
