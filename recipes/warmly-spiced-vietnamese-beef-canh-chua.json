@@ -1,0 +1,101 @@
+{
+  "title": "Warmly Spiced Vietnamese Beef Canh Chua",
+  "description": "A mustardy and flaky Vietnamese dish featuring beef stock concentrate, perfect for a date night, made with rest meat and gluten free friendly ingredients. This canh chua recipe is a hearty and comforting meal.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stock concentrate",
+      "amount": "2 tablespoons",
+      "notes": "gluten free"
+    },
+    {
+      "name": "rest meat",
+      "amount": "1 pound",
+      "notes": "such as brisket or chuck"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine beef stock concentrate, fish sauce, lime juice, brown sugar, grated ginger, ground cumin, cayenne pepper, salt, and black pepper.",
+    "Bring the mixture to a boil over high heat.",
+    "Reduce the heat to medium low and simmer for 10 minutes.",
+    "Add the rest meat to the pot and cook until it is tender, about 1 1/2 hours.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Serve the canh chua hot, garnished with chopped fresh herbs such as cilantro or basil.",
+    "Offer steamed rice or noodles on the side.",
+    "Refrigerate or freeze the leftovers for later use.",
+    "Reheat the canh chua over low heat, adding more beef stock concentrate if needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 100,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "comfort-food",
+    "date-night",
+    "gluten-free",
+    "spicy-dishes",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warmly-spiced-vietnamese-beef-canh-chua",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-vietnamese-beef-canh-chua",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:16:45Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "rest-meat",
+    "primaryIngredient": "beef stock concentrate",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef",
+    "descriptor": "Warmly Spiced",
+    "dishForm": "Canh Chua"
+  }
+}

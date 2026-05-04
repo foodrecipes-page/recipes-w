@@ -808,6 +808,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-malty-british-lamb-casserole",
+    "title": "Warm Malty British Lamb Casserole",
+    "tags": [
+      "comfort-food",
+      "hearty",
+      "one-pan",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 180,
+    "shard": "w"
+  },
+  {
     "slug": "warm-mexican-yam-soup",
     "title": "Warm Mexican Yam Soup",
     "tags": [
@@ -1442,6 +1456,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-spiced-vietnamese-beef-canh-chua",
+    "title": "Warmly Spiced Vietnamese Beef Canh Chua",
+    "tags": [
+      "beef-recipes",
+      "comfort-food",
+      "date-night",
+      "gluten-free",
+      "spicy-dishes",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 120,
     "shard": "w"
   },
   {

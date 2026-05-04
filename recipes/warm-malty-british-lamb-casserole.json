@@ -1,0 +1,95 @@
+{
+  "title": "Warm Malty British Lamb Casserole",
+  "description": "A hearty and comforting lamb casserole infused with malty flavors, perfect for a romantic dinner, featuring soy sauce and infuse-oil, and free from onion and garlic, this dish is a classic representation of British cuisine, specifically from Yorkshire",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "malt extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "infuse-oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit",
+    "In a large bowl, whisk together malt extract, soy sauce, and infuse-oil",
+    "Add the lamb cubes to the bowl and toss to coat with the malt mixture",
+    "In a large Dutch oven, layer the lamb, carrots, and potatoes",
+    "In a separate bowl, whisk together tomato paste and beef broth",
+    "Pour the tomato paste mixture over the lamb and vegetables",
+    "Cover the Dutch oven with a lid and transfer to the preheated oven",
+    "Bake for 2.5 hours, or until the lamb is tender and the vegetables are cooked through",
+    "Garnish with fresh thyme and serve hot"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 29
+  },
+  "slug": "warm-malty-british-lamb-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-malty-british-lamb-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:16:04Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "infuse-oil",
+    "primaryIngredient": "soy sauce",
+    "diet": "no-onion-no-garlic",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm malty",
+    "dishForm": "Casserole"
+  }
+}
