@@ -1,0 +1,103 @@
+{
+  "title": "Wholesome Bitter Polish Tofu Bowl",
+  "description": "A crunchy, bitter tofu bowl with katsuobushi flakes, confit tomato, and buckwheat noodles that delivers an energizing, macrobiotic-friendly meal.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "200 g"
+    },
+    {
+      "name": "buckwheat soba noodles",
+      "amount": "80 g"
+    },
+    {
+      "name": "katsuobushi",
+      "amount": "10 g"
+    },
+    {
+      "name": "confit tomato (pre‑made)",
+      "amount": "50 g"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "spring onions",
+      "amount": "2 stalks, sliced"
+    }
+  ],
+  "instructions": [
+    "Press tofu for 15 minutes to remove excess moisture.",
+    "Cook buckwheat noodles according to package instructions, then drain and set aside.",
+    "Heat a non‑stick skillet over medium heat and pan‑fry tofu cubes until golden on all sides, about 4 minutes per side.",
+    "In a small bowl whisk together soy sauce, rice vinegar, chili flakes, and a splash of water to create a sauce.",
+    "Add the pre‑made confit tomato to the pan with tofu and pour in the sauce, simmering for 2 minutes.",
+    "Toss in shredded carrots and spinach, cooking until spinach wilts, about 1 minute.",
+    "Add the cooked soba noodles to the pan and stir to combine all ingredients.",
+    "Sprinkle katsuobushi flakes and sesame seeds over the bowl, then top with sliced spring onions.",
+    "Serve immediately while tofu remains crisp and noodles are al dente.",
+    "Optional: drizzle a little extra olive oil or a squeeze of lemon for brightness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "bouncy-qq",
+    "energizing",
+    "macrobiotic",
+    "no-gluten",
+    "quick",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 22,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "wholesome-bitter-polish-tofu-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-bitter-polish-tofu-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:26:34Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "confit-tomato",
+    "primaryIngredient": "katsuobushi",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "tofu",
+    "descriptor": "Wholesome Bitter",
+    "dishForm": "Bowl"
+  }
+}
