@@ -1189,6 +1189,21 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-peruvian-quinoa-salad",
+    "title": "Wholesome Peruvian Quinoa Salad",
+    "tags": [
+      "gluten-free",
+      "no-garlic",
+      "no-onion",
+      "peruvian",
+      "quinoa",
+      "vegetable-salad"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-russian-chickpeas-salad",
     "title": "Wholesome Russian Chickpeas Salad",
     "tags": [

@@ -1,0 +1,110 @@
+{
+  "title": "Wholesome Peruvian Quinoa Salad",
+  "description": "A vibrant, cultured quinoa salad with fresh vegetables, bright citrus dressing, and a subtle shio-cure seasoning. Perfect for a healthy, no-onion, no-garlic lunch.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-onion",
+    "no-garlic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup (dry)",
+      "notes": "rigorously rinsed until water runs clear"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "1 ½ cups"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup, halved"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Shio-cure salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold running water until the water runs clear.",
+    "Bring vegetable stock to a boil in a medium saucepan, add quinoa, reduce heat to low, cover, and cook for 15 minutes until quinoa is fluffy.",
+    "Remove saucepan from heat and let quinoa sit, covered, for 5 minutes, then fluff with a fork.",
+    "In a large bowl, combine cooked quinoa, diced cucumber, diced red bell pepper, diced avocado, halved cherry tomatoes, and chopped cilantro.",
+    "Whisk lemon juice, olive oil, shio-cure salt, sea salt, and black pepper in a small bowl until the dressing is emulsified.",
+    "Pour the dressing over the salad and gently toss until all ingredients are evenly coated.",
+    "Taste the salad and adjust seasoning, adding more sea salt or pepper if desired.",
+    "Refrigerate the salad for at least 15 minutes to allow flavors to meld before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "no-garlic",
+    "no-onion",
+    "peruvian",
+    "quinoa",
+    "vegetable-salad"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 42,
+    "fat": 10
+  },
+  "slug": "wholesome-peruvian-quinoa-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-peruvian-quinoa-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:16:11Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "shio-cure",
+    "primaryIngredient": "vegetable stock",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Wholesome",
+    "dishForm": "Salad"
+  }
+}
