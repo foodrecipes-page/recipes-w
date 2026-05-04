@@ -1,0 +1,109 @@
+{
+  "title": "Wholesome Peruvian Pumpkin Picarones",
+  "description": "A quick, satvik-friendly Peruvian treat that blends roasted pumpkin, tomato puree, and dashi for a unique flavor, baked into dense, golden picarones.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "roasted pumpkin puree",
+      "amount": "2 cups",
+      "notes": "roasted at 200C for 30 min"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "oat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "1 tbsp",
+      "notes": "ground flaxseed"
+    },
+    {
+      "name": "water",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dashi extract powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and line a baking sheet with parchment.",
+    "Whisk the flaxseed meal with water until thick and set aside.",
+    "Fold the roasted pumpkin puree, tomato puree, dashi powder, cumin, paprika, and salt into a large bowl.",
+    "Add the whole wheat flour, oat flour, baking powder, and salt to the wet mixture, stirring until a dough forms.",
+    "Divide the dough into ten equal portions and shape each into a small round disc.",
+    "Place the discs on the prepared baking sheet and brush the tops lightly with olive oil.",
+    "Bake for 18 minutes or until the picarones are golden brown.",
+    "Remove from the oven, cool for 5 minutes, then serve warm as a snack or dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 10,
+  "difficulty": "easy",
+  "tags": [
+    "baked",
+    "one-pan",
+    "peruvian",
+    "quick-fix",
+    "satvik",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "wholesome-peruvian-pumpkin-picarones",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-peruvian-pumpkin-picarones",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:50:08Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "dashi-extract",
+    "primaryIngredient": "tomato puree",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "pumpkin",
+    "descriptor": "Wholesome",
+    "dishForm": "Picarones"
+  }
+}
