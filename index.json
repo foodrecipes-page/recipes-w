@@ -924,6 +924,20 @@
     "shard": "w"
   },
   {
+    "slug": "warmed-moroccan-corn-tagine",
+    "title": "Warmed Moroccan Corn Tagine",
+    "tags": [
+      "brunch",
+      "moroccan",
+      "nut-free",
+      "papillote",
+      "robata-grill"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 27,
+    "shard": "w"
+  },
+  {
     "slug": "warming-saudi-egg-flatbread",
     "title": "Warming Saudi Egg Flatbread",
     "tags": [
@@ -1465,6 +1479,22 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 5,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-moroccan-tripe-tagine",
+    "title": "Wholesome Moroccan Tripe Tagine",
+    "tags": [
+      "citrusy",
+      "easy",
+      "low-carb",
+      "macrobiotic",
+      "one-pot",
+      "slow-cook",
+      "tripe"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 110,
     "shard": "w"
   },
   {

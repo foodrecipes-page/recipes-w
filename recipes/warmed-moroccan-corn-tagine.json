@@ -1,0 +1,105 @@
+{
+  "title": "Warmed Moroccan Corn Tagine",
+  "description": "A briny, shattering brunch‑mood Moroccan tagine featuring yellow masarepa, corn kernels, and a fresh papillote finish, all cooked on a robata‑grill for a nut‑free-friendly delight.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "400 g"
+    },
+    {
+      "name": "yellow masarepa",
+      "amount": "200 g"
+    },
+    {
+      "name": "diced red bell pepper",
+      "amount": "150 g"
+    },
+    {
+      "name": "finely chopped onion",
+      "amount": "80 g"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "zest of 1 lemon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "20 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "250 ml"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium‑high heat.",
+    "In a bowl whisk together yellow masarepa, vegetable broth, tomato paste, harissa paste, lemon zest, and a pinch of salt until a thick, spiced mixture forms.",
+    "Toss the corn kernels, diced bell pepper, chopped onion, and minced garlic with olive oil and a dash of pepper, then spread them evenly in a foil parchment papillote.",
+    "Place the prepared papillote on the preheated robata grill, close the grill lid, and cook for 8 minutes, shaking the grill halfway to ensure even heat.",
+    "Remove the papillote and carefully open it, letting the steam escape, then stir the contents into the masarepa mixture.",
+    "Return the mixture to the grill, cover, and cook for an additional 4 minutes until the masarepa is tender and the flavors meld.",
+    "Transfer the warm tagine onto a serving plate and sprinkle with chopped cilantro.",
+    "Garnish with a drizzle of olive oil and a squeeze of fresh lemon juice if desired.",
+    "Serve immediately as a brunch or lunch dish, pairing with crusty bread or a light salad.",
+    "Store leftovers in an airtight container in the refrigerator for up to 2 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "moroccan",
+    "nut-free",
+    "papillote",
+    "robata-grill"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 6,
+    "carbs": 52,
+    "fat": 9
+  },
+  "slug": "warmed-moroccan-corn-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warmed-moroccan-corn-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:36:56Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "papillote",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "corn",
+    "descriptor": "Warmed",
+    "dishForm": "Tagine"
+  }
+}
