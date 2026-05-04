@@ -1,0 +1,106 @@
+{
+  "title": "Wholesome Portuguese Cod Bake",
+  "description": "A jammy, bouncy-qq cod bake that doubles as a hangover cure, featuring smoky paprika and a hearty tomato sauce.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1.5 kg",
+      "notes": "skin removed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "400 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "green bell pepper",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200 degrees Celsius.",
+    "Pat the cod dry and season with sea salt, black pepper, and smoked paprika.",
+    "Heat olive oil in an oven-safe skillet over medium heat, add garlic and onion, and cook until fragrant.",
+    "Stir in tomatoes and bell pepper, simmer for 5 minutes to blend flavors.",
+    "Place the seasoned cod fillets on top of the sauce and spoon some sauce over the fish.",
+    "Bake uncovered for 15 minutes until the fish flakes easily with a fork.",
+    "Remove from oven and drizzle fresh lemon juice over the fillets.",
+    "Serve hot, spooning extra sauce onto each portion."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy-qq",
+    "dairy-free",
+    "hangover-cure",
+    "jammy",
+    "one-pan",
+    "portuguese",
+    "smoked-paprika"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "wholesome-portuguese-cod-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-portuguese-cod-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:09:59Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "salt-bake",
+    "primaryIngredient": "smoked paprika",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cod",
+    "descriptor": "Wholesome",
+    "dishForm": "Bake"
+  }
+}
