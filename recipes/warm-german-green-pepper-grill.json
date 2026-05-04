@@ -1,0 +1,96 @@
+{
+  "title": "Warm German Green Pepper Grill",
+  "description": "Garlicky, molten peppers grilled to perfection, topped with melted cheese for a comforting German dish that is gluten‑free friendly.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green bell pepper",
+      "amount": "4 medium",
+      "notes": "seeded and sliced into wedges"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "Emmental cheese",
+      "amount": "200 grams",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium‑high heat.",
+    "Slice each green pepper into wedges, removing seeds.",
+    "In a bowl, mix olive oil, minced garlic, smoked paprika, salt, and pepper.",
+    "Brush pepper wedges with the oil mixture, ensuring even coating.",
+    "Place peppers on the grill and cook until charred and tender, about 5–6 minutes per side.",
+    "While peppers grill, melt shredded cheese in a small microwave‑safe dish for 30 seconds.",
+    "Top each charred pepper wedge with melted cheese.",
+    "Grill for an additional 1–2 minutes until cheese is bubbly.",
+    "Remove from grill, sprinkle with chopped parsley, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "quick-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 332,
+    "protein": 15,
+    "carbs": 7,
+    "fat": 29
+  },
+  "slug": "warm-german-green-pepper-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-german-green-pepper-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:21:37Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "green pepper",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Green Pepper",
+    "descriptor": "Warm",
+    "dishForm": "Grill"
+  }
+}
