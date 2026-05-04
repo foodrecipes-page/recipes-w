@@ -1106,6 +1106,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-yeasty-turkish-peanuts-kisir",
+    "title": "Warm Yeasty Turkish Peanuts Kisir",
+    "tags": [
+      "comfort-food",
+      "easy-to-make",
+      "gluten-free",
+      "turkish-cuisine",
+      "vegetarian-friendly",
+      "warm-snack"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 20,
+    "shard": "w"
+  },
+  {
     "slug": "warm-yellow-turkish-chicken-kebabs",
     "title": "Warm Yellow Turkish Chicken Kebabs",
     "tags": [

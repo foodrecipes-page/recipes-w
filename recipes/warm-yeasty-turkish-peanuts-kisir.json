@@ -1,0 +1,97 @@
+{
+  "title": "Warm Yeasty Turkish Peanuts Kisir",
+  "description": "A light and cozy Turkish dish featuring peanuts, beurre-monte, and a hint of yeast, made with ayurvedic-tamasic-friendly ingredients. This kisir is perfect for a warm and comforting snack.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "raw, unsalted"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine the warm water and yeast, stirring to dissolve the yeast, and let it sit for 5 minutes.",
+    "In a large bowl, whisk together the peanuts, beurre-monte, olive oil, salt, black pepper, and paprika.",
+    "Add the yeast mixture to the peanut mixture and stir until well combined.",
+    "Cover the bowl with a cloth and let it sit in a warm place for 10 minutes, allowing the mixture to rise slightly.",
+    "Stir the mixture again and adjust the seasoning if needed.",
+    "Transfer the mixture to a serving dish and garnish with chopped fresh parsley, if desired.",
+    "Serve the kisir warm, straight from the bowl.",
+    "Let it cool to room temperature before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "gluten-free",
+    "turkish-cuisine",
+    "vegetarian-friendly",
+    "warm-snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "warm-yeasty-turkish-peanuts-kisir",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-yeasty-turkish-peanuts-kisir",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:33:06Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "beurre-monte",
+    "primaryIngredient": "peanuts",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "peanuts",
+    "descriptor": "Warm Yeasty",
+    "dishForm": "Kisir"
+  }
+}
