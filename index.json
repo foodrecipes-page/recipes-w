@@ -311,6 +311,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-french-vialone-nano-ratatouille",
+    "title": "Warm French Vialone Nano Ratatouille",
+    "tags": [
+      "french-cuisine",
+      "gluten-free",
+      "one-pot",
+      "plant-based",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
     "slug": "warm-german-banana-pilaf",
     "title": "Warm German Banana Pilaf",
     "tags": [
@@ -746,6 +760,21 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-yellow-turkish-chicken-kebabs",
+    "title": "Warm Yellow Turkish Chicken Kebabs",
+    "tags": [
+      "easy-dinner",
+      "grilled-chicken",
+      "kid-friendly",
+      "low-sodium",
+      "turkish-food",
+      "weeknight-meal"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 32,
     "shard": "w"
   },
   {

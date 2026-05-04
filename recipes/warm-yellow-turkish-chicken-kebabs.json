@@ -1,0 +1,96 @@
+{
+  "title": "Warm Yellow Turkish Chicken Kebabs",
+  "description": "A kid-friendly Turkish dish featuring chicken kebabs with a mustardy and molten glaze, made with yellow food coloring for a fun twist.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "yellow food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Thread the chicken pieces onto the wooden skewers.",
+    "In a small bowl, whisk together the olive oil, lemon juice, honey, Dijon mustard, garlic powder, and salt-free seasoning blend.",
+    "Brush the mixture onto both sides of the chicken kebabs.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until cooked through.",
+    "In a small bowl, mix together the yellow food coloring and 1 tablespoon of water.",
+    "Brush the yellow glaze onto the kebabs during the last 2 minutes of grilling.",
+    "Serve the kebabs hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "grilled-chicken",
+    "kid-friendly",
+    "low-sodium",
+    "turkish-food",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "warm-yellow-turkish-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-yellow-turkish-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:17:44Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "glaze",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Yellow",
+    "dishForm": "Kebabs"
+  }
+}

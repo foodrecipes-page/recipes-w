@@ -1,0 +1,112 @@
+{
+  "title": "Warm French Vialone Nano Ratatouille",
+  "description": "A plant-based friendly French dish featuring vialone nano rice in a ratatouille form, cooked in a donabe vessel and finished with a floral glaze.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vialone nano rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "floral glaze",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large donabe vessel, heat the olive oil over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced eggplant, zucchini, and bell pepper, and cook until the vegetables are tender, about 10 minutes.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the vialone nano rice, salt, and black pepper, and stir to combine.",
+    "Transfer the donabe vessel to the preheated oven and bake for 20 minutes.",
+    "Remove the donabe vessel from the oven and stir in the floral glaze.",
+    "Return the donabe vessel to the oven and bake for an additional 5 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "gluten-free",
+    "one-pot",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-french-vialone-nano-ratatouille",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-french-vialone-nano-ratatouille",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:18:07Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "glaze",
+    "primaryIngredient": "vialone-nano",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "vialone nano",
+    "descriptor": "Warm Energizing",
+    "dishForm": "Ratatouille"
+  }
+}
