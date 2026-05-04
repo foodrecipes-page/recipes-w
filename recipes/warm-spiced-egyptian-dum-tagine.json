@@ -1,0 +1,102 @@
+{
+  "title": "Warm Spiced Egyptian Dum Tagine",
+  "description": "A light and citrusy Egyptian dish featuring chicken stock concentrate and dum, perfect for a lazy Sunday, and easily made plant-based-friendly by substituting the chicken stock concentrate with a vegetable stock concentrate.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dum",
+      "amount": "1 cup",
+      "notes": "or substitute with similar dried fruit"
+    },
+    {
+      "name": "chicken stock concentrate",
+      "amount": "2 tablespoons",
+      "notes": "or vegetable stock concentrate for plant-based"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional 1 minute.",
+    "Add the cumin, coriander, and cinnamon and cook for 1 minute, stirring constantly.",
+    "Add the dum, chicken stock concentrate, and lemon juice, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 20 minutes, or until the dum is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "lazy-sunday",
+    "middle-eastern",
+    "one-pot",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "warm-spiced-egyptian-dum-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spiced-egyptian-dum-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:38:57Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "dum",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "dum",
+    "descriptor": "Warm Spiced",
+    "dishForm": "Tagine"
+  }
+}
