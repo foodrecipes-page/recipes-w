@@ -1,0 +1,92 @@
+{
+  "title": "Wholesome Uruguayan Pork Burger",
+  "description": "A hearty, mustardy pork burger with a crumbly texture, perfect for a comforting Uruguayan meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground pork (pork shoulder)",
+      "amount": "800g",
+      "notes": "use lean cut for lower fat"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix ground pork with salt, pepper, and garlic powder until just combined.",
+    "Stir in Dijon mustard, breadcrumbs, and egg until the mixture holds together.",
+    "Divide the mixture into four equal portions and shape each into a patty about 1 inch thick.",
+    "Preheat a yakimono grill or a direct‑heat grill to medium‑high.",
+    "Brush each patty lightly with olive oil to prevent sticking.",
+    "Place the patties on the grill and cook for 4 minutes on the first side.",
+    "Flip the patties and grill for an additional 4 minutes, or until internal temperature reaches 71°C.",
+    "While grilling, toast the burger buns on the grill for 1 minute until lightly browned.",
+    "Assemble each burger by placing a patty on a bun and topping with lettuce, tomato, and a slice of cheese if desired.",
+    "Serve hot with a side of roasted vegetables or a light salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "high-protein",
+    "pork",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "wholesome-uruguayan-pork-burger",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-uruguayan-pork-burger",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:04:53Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "ground pork",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Pork",
+    "descriptor": "Wholesome",
+    "dishForm": "Burger"
+  }
+}
