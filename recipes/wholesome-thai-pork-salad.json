@@ -1,0 +1,105 @@
+{
+  "title": "Wholesome Thai Pork Salad",
+  "description": "Floral, crisp Thai pork salad that doubles as a hangover cure, featuring garlicky lardons and bright herbs.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "200g"
+    },
+    {
+      "name": "smoked bacon",
+      "amount": "40g"
+    },
+    {
+      "name": "fresh lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "30g"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "15g"
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "100g"
+    },
+    {
+      "name": "sliced cucumber",
+      "amount": "50g"
+    },
+    {
+      "name": "crushed peanuts",
+      "amount": "30g"
+    }
+  ],
+  "instructions": [
+    "Slice the pork tenderloin into thin strips and season with salt and pepper.",
+    "Cut the smoked bacon into small lardons and render them in a skillet until crisp, then set aside.",
+    "Heat a nonstick pan to medium-high, add the pork strips and sear until cooked through to 63C internal temperature, about 3-4 minutes.",
+    "Add the rendered bacon and a splash of fish sauce to the pan, cooking for an additional 1 minute.",
+    "In a small bowl whisk together lime juice, soy sauce, palm sugar, and chili flakes until sugar dissolves.",
+    "Toss the shredded cabbage, sliced cucumber, cilantro, and mint in a large bowl, then add the pork and bacon mixture.",
+    "Pour the dressing over the salad, toss until well coated, then sprinkle crushed peanuts on top.",
+    "Serve immediately, garnished with extra mint if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "hangover-cure",
+    "low-carb",
+    "pork-salad",
+    "quick",
+    "street-food",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 60,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "wholesome-thai-pork-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-thai-pork-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:34:18Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "lardons-render",
+    "primaryIngredient": "garlic",
+    "diet": "no-onion-no-garlic",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pork",
+    "descriptor": "Wholesome",
+    "dishForm": "Salad"
+  }
+}
