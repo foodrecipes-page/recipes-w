@@ -1,0 +1,99 @@
+{
+  "title": "Warm Buttery Vietnamese Sauerkraut Banh Cuon",
+  "description": "A light and refreshing Vietnamese dish featuring white sauerkraut and double-rise bread, wrapped in a lotus leaf and served warm with a buttery sauce.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "double-rise bread",
+      "amount": "4 slices",
+      "notes": "toasted and cut into small pieces"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 leaves",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, melt the butter over low heat and stir in the fish sauce, lime juice, and grated ginger until well combined.",
+    "In a large bowl, combine the toasted bread, sauerkraut, and melted butter mixture, and toss until the bread is evenly coated.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Lay a lotus leaf flat on a work surface and place about 1/2 cup of the bread and sauerkraut mixture in the center of the leaf.",
+    "Fold the bottom half of the leaf over the filling, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Repeat with the remaining ingredients to make 3 more rolls.",
+    "Serve the banh cuon warm, with additional butter and fish sauce on the side if desired.",
+    "To cook the banh cuon, steam them over boiling water for 5 minutes, or until the leaves are tender and the filling is heated through.",
+    "To serve, slice each roll in half and garnish with additional grated ginger and lime wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery-sauces",
+    "gluten-free",
+    "lotus-leaf",
+    "vegetarian-recipes",
+    "vietnamese-cuisine",
+    "warm-dishes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "warm-buttery-vietnamese-sauerkraut-banh-cuon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-buttery-vietnamese-sauerkraut-banh-cuon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:49:41Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "white sauerkraut",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "sauerkraut",
+    "descriptor": "Warm Buttery",
+    "dishForm": "Banh Cuon"
+  }
+}
