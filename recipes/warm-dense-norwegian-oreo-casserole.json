@@ -1,0 +1,92 @@
+{
+  "title": "Warm Dense Norwegian Oreo Casserole",
+  "description": "A dense and herbal Norwegian dish featuring Oreo cream biscuits, perfect for a crowd, this low-glycemic-friendly dessert is a unique twist on traditional casseroles. It combines the richness of Oreos with the warmth of Norwegian spices.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Oreo cream biscuits",
+      "amount": "1 package",
+      "notes": "crushed"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, combine the crushed Oreo cream biscuits and almond flour.",
+    "In a separate bowl, whisk together the melted butter, eggs, heavy cream, vanilla extract, ground cinnamon, and ground nutmeg.",
+    "Add the wet ingredients to the dry ingredients and stir until well combined.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Bake for 35 minutes or until the edges are set and the center is slightly jiggly.",
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "herbal-notes",
+    "low-glycemic",
+    "norwegian-dish",
+    "oreo-based",
+    "warm-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "warm-dense-norwegian-oreo-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dense-norwegian-oreo-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:14:53Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "reduce",
+    "primaryIngredient": "oreo cream biscuits",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "oreos",
+    "descriptor": "Warm Dense",
+    "dishForm": "Casserole"
+  }
+}
