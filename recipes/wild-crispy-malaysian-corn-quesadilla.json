@@ -1,0 +1,118 @@
+{
+  "title": "Wild Crispy Malaysian Corn Quesadilla",
+  "description": "Mustardy, lacquer-glazed corn tortillas stuffed with chicken, corn, and vegetables for a Whole30-friendly flavor burst.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "3",
+      "notes": "whole30-friendly"
+    },
+    {
+      "name": "shredded cooked chicken",
+      "amount": "1 cup",
+      "notes": "grilled or leftover"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1/2 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "diced red bell pepper",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "diced green onion",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "shredded carrot",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "mustard powder",
+      "amount": "1 tsp",
+      "notes": "toasted for aroma"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp",
+      "notes": "diluted in lime"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "pinch",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a small bowl whisk together mustard powder, lime juice, fish sauce, ground ginger, and chili flakes to make a thin glaze.",
+    "Warm each tortilla over a dry skillet for 15 seconds to make it pliable.",
+    "Spread a thin layer of the glaze on one side of the tortilla.",
+    "Evenly distribute shredded chicken, corn kernels, diced bell pepper, shredded carrot, and diced green onion over the glazed side.",
+    "Fold the tortilla over to enclose the filling, forming a half-moon shape.",
+    "Heat coconut oil in a nonstick skillet over medium heat and place the quesadilla seam side down.",
+    "Cook 3-4 minutes until golden brown and crispy, flip, and cook the other side for an additional 2-3 minutes.",
+    "Remove from skillet, let rest 30 seconds, cut into wedges, and garnish with fresh cilantro before serving."
+  ],
+  "prepTimeMin": 7,
+  "cookTimeMin": 8,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "glaze",
+    "malaysian-flavor",
+    "quick",
+    "vegetable",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 705,
+    "protein": 42,
+    "carbs": 104,
+    "fat": 21
+  },
+  "slug": "wild-crispy-malaysian-corn-quesadilla",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wild-crispy-malaysian-corn-quesadilla",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:43:34Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "corn tortillas",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Corn",
+    "descriptor": "Wild Crispy",
+    "dishForm": "Quesadilla"
+  }
+}
