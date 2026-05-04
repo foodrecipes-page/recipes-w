@@ -1,0 +1,124 @@
+{
+  "title": "Wholesome Steam Tunisian Plant-Based Wrap",
+  "description": "A tangy and creamy plant-based wrap featuring herbes-de-provence and a delicious blend of spices. Perfect for a sick day or as a comforting meal.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Whole wheat tortilla",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Chickpea spread",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Roasted eggplant",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Roasted red bell pepper",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Herbes-de-provence",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Steam-tolerant greens",
+      "amount": "1 cup",
+      "notes": "such as kale or spinach"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Place the tortilla on a flat surface and spread the chickpea spread evenly over the center of the tortilla.",
+    "Add the roasted eggplant, red bell pepper, parsley, cilantro, herbes-de-provence, garlic powder, salt, and black pepper on top of the chickpea spread.",
+    "Add the steam-tolerant greens on top of the vegetables.",
+    "Add a sprinkle of chopped scallions on top of the greens.",
+    "Drizzle the fresh lemon juice over the top of the wrap.",
+    "Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Place the wrap in a steamer basket and steam for 10-12 minutes, or until the tortilla is soft and the filling is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy-cooking",
+    "gluten-free",
+    "high-fiber",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "wholesome-steam-tunisian-plant-based-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-steam-tunisian-plant-based-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:12:58Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "herbes-de-provence",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "plant-based",
+    "descriptor": "wholesome steam",
+    "dishForm": "Wrap"
+  }
+}
