@@ -1,0 +1,105 @@
+{
+  "title": "Warmly Spiced Jamaican Pistachio Sandwich",
+  "description": "A citrusy and juicy Jamaican dish featuring pistachio and double-rise-bread, perfect for an adventurous snack.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "double-rise-bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "pistachio",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "orange marmalade",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Butter one side of each slice of double-rise-bread.",
+    "Place two slices of bread, butter side down, in the pan.",
+    "Spread a layer of orange marmalade on each slice of bread in the pan.",
+    "Top each slice with a sprinkle of chopped pistachio, diced scotch bonnet pepper, grated ginger, cinnamon, nutmeg, and salt.",
+    "Place the remaining slices of bread, butter side up, on top of the filling.",
+    "Cook for 2-3 minutes or until the bread is golden brown and the filling is warm.",
+    "Flip the sandwiches over and cook for an additional 2-3 minutes or until the other side is also golden brown.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "jain-friendly",
+    "jamaican",
+    "pistachio",
+    "snack",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warmly-spiced-jamaican-pistachio-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-jamaican-pistachio-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:51:47Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "pistachio",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pistachio",
+    "descriptor": "Warmly spiced",
+    "dishForm": "Sandwich"
+  }
+}

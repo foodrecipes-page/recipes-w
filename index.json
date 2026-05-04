@@ -2116,6 +2116,22 @@
     "shard": "w"
   },
   {
+    "slug": "warmly-spiced-jamaican-pistachio-sandwich",
+    "title": "Warmly Spiced Jamaican Pistachio Sandwich",
+    "tags": [
+      "citrusy",
+      "jain-friendly",
+      "jamaican",
+      "pistachio",
+      "snack",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 16,
+    "shard": "w"
+  },
+  {
     "slug": "warmly-spiced-malaysian-chicken-curry",
     "title": "Warmly Spiced Malaysian Chicken Curry",
     "tags": [
