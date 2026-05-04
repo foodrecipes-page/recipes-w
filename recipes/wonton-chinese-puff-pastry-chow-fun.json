@@ -1,0 +1,101 @@
+{
+  "title": "wonton chinese puff pastry chow-fun",
+  "description": "a light and comforting chinese dish featuring puff pastry and a tangy yuzu-cure, served in an agave leaf",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "12-15 pieces",
+      "notes": ""
+    },
+    {
+      "name": "yuzu-cure",
+      "amount": "1/4 cup",
+      "notes": "see below for yuzu-cure recipe"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "preferably flaky sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "tofu",
+      "amount": "4 ounces",
+      "notes": "firm, drained, and crumbled"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4-6 pieces",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400°f (200°c).",
+    "roll out the puff pastry to a thickness of about 1/8 inch (3 mm).",
+    "cut out 12-15 rectangles from the puff pastry, about 3 inches (7.5 cm) wide and 4 inches (10 cm) long.",
+    "place a wonton wrapper in the center of each rectangle, leaving a 1/2 inch (1 cm) border around the wonton wrapper.",
+    "brush the edges of the puff pastry with a little water, then fold the pastry over the wonton wrapper to form a triangle or a square, and press the edges to seal.",
+    "brush the tops of the pastry with a little water, then sprinkle with salt and black pepper.",
+    "place the pastries on a baking sheet lined with parchment paper, leaving about 1 inch (2.5 cm) of space between each pastry.",
+    "bake the pastries for 15-20 minutes, or until golden brown.",
+    "meanwhile, prepare the yuzu-cure by whisking together 1/4 cup yuzu juice, 1/4 cup soy sauce, and 1 tablespoon honey in a small bowl until smooth.",
+    "add the crumbled tofu to the yuzu-cure and mix until well combined.",
+    "to assemble the dish, place a few of the pastries in the center of each agave leaf, then spoon some of the yuzu-tofu mixture over the pastries.",
+    "garnish with chopped scallions and serve immediately"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "agave-leaf",
+    "chinese",
+    "puff-pastry",
+    "vegetarian",
+    "yuzu-cure"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "wonton-chinese-puff-pastry-chow-fun",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wonton-chinese-puff-pastry-chow-fun",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:50:55Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "puff pastry",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "puff pastry",
+    "descriptor": "wonton",
+    "dishForm": "chow-fun"
+  }
+}
