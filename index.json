@@ -108,6 +108,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-creamy-american-chicken-casserole",
+    "title": "Warm Creamy American Chicken Casserole",
+    "tags": [
+      "american-classic",
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-creamy-greek-thai-eggplant-saganaki",
     "title": "Warm Creamy Greek Thai Eggplant Saganaki",
     "tags": [
