@@ -1,0 +1,108 @@
+{
+  "title": "Wholesome Spanish Rocket Soup",
+  "description": "A fermented, glassy‑jelly, kid‑friendly Spanish soup featuring rocket, carrot, cucumber, kombucha, and a hint of coconut milk.",
+  "cuisine": "spanish",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rocket leaves",
+      "amount": "200 g"
+    },
+    {
+      "name": "carrots",
+      "amount": "100 g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "100 g"
+    },
+    {
+      "name": "kombucha",
+      "amount": "240 ml"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "240 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "5 g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 g"
+    },
+    {
+      "name": "agar-agar powder",
+      "amount": "3 g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "60 ml"
+    }
+  ],
+  "instructions": [
+    "In a saucepan, heat olive oil over medium heat and sauté minced garlic until fragrant, about 1 minute.",
+    "Add diced carrots and cucumber to the saucepan and cook for 3 minutes, stirring occasionally.",
+    "Pour in vegetable stock and kombucha, and bring the mixture to a gentle boil.",
+    "Reduce heat to low and allow the broth to simmer for 10 minutes to meld flavors.",
+    "While the broth simmers, rinse rocket leaves thoroughly and set aside.",
+    "In a small bowl, dissolve agar-agar powder in 60 ml cold water, stirring until smooth.",
+    "Add the agar-agar mixture to the simmering broth, stirring constantly until it thickens slightly, about 2 minutes.",
+    "Remove the saucepan from heat and stir in lemon juice, salt, and pepper.",
+    "Pour the hot broth into a shallow mold or dish, gently fold in the rocket leaves, and allow it to cool to room temperature.",
+    "Refrigerate the mixture for at least 120 minutes until it sets into a glassy jelly‑like soup; serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-soup",
+    "flexitarian",
+    "glassy-jelly",
+    "gluten-free",
+    "kid-friendly",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 12,
+    "carbs": 34,
+    "fat": 21
+  },
+  "slug": "wholesome-spanish-rocket-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-spanish-rocket-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:25:10Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "score-fat",
+    "primaryIngredient": "rocket",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "rocket",
+    "descriptor": "Wholesome",
+    "dishForm": "Soup"
+  }
+}

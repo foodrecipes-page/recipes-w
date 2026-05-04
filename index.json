@@ -3497,6 +3497,21 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-spanish-rocket-soup",
+    "title": "Wholesome Spanish Rocket Soup",
+    "tags": [
+      "fermented-soup",
+      "flexitarian",
+      "glassy-jelly",
+      "gluten-free",
+      "kid-friendly",
+      "vegan"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 22,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-thai-butter-tofu-curry",
     "title": "Wholesome Thai Butter Tofu Curry",
     "tags": [
