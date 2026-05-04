@@ -1,0 +1,107 @@
+{
+  "title": "Warm Wholesome Malaysian Chicken Bowl",
+  "description": "A lazy-sunday Malaysian chicken bowl with creamy mayo, render‑fat and fresh veggies, packed in a bento box for a cozy meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "skinless chicken thighs",
+      "amount": "400g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "fresh ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cooked jasmine rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrot, sliced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cabbage, shredded",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rendered chicken fat",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and line a baking sheet with parchment paper.",
+    "Whisk together soy sauce, sesame oil, honey, minced garlic, grated ginger and lime juice.",
+    "Coat chicken thighs with the sauce and let marinate for 10 minutes.",
+    "Roast chicken in the preheated oven for 20 minutes, flipping halfway, until internal temperature reaches 74°C, then let rest for 5 minutes.",
+    "Render 2 tablespoons of the drained chicken fat in a skillet over medium heat until browned, then set aside for later use.",
+    "Spread a layer of cooked jasmine rice in a bowl, arrange sliced carrot and shredded cabbage on top.",
+    "Slice the rested chicken and place it over the vegetables.",
+    "In a small bowl combine mayonnaise and the rendered fat; whisk until creamy and drizzle over the chicken.",
+    "Sprinkle chopped cilantro if desired and serve warm in a bento box."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bento-box",
+    "comfort-food",
+    "fry-and-serve",
+    "kosher-friendly",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 44,
+    "carbs": 58,
+    "fat": 49
+  },
+  "slug": "warm-wholesome-malaysian-chicken-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wholesome-malaysian-chicken-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:55:22Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "render-fat",
+    "primaryIngredient": "mayonnaise",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Warm Wholesome",
+    "dishForm": "Bowl"
+  }
+}

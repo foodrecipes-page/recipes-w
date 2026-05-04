@@ -1403,6 +1403,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-wholesome-malaysian-chicken-bowl",
+    "title": "Warm Wholesome Malaysian Chicken Bowl",
+    "tags": [
+      "bento-box",
+      "comfort-food",
+      "fry-and-serve",
+      "kosher-friendly",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "warm-wholesome-syrian-fish-bake",
     "title": "Warm Wholesome Syrian Fish Bake",
     "tags": [
@@ -1995,6 +2010,21 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-american-chicken-stew",
+    "title": "Wholesome American Chicken Stew",
+    "tags": [
+      "comfort-food",
+      "no-garlic",
+      "no-onion",
+      "one-pot",
+      "sick-day",
+      "tangy"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-buttered-dutch-coconut-quiche",
     "title": "Wholesome Buttered Dutch Coconut Quiche",
     "tags": [
@@ -2177,6 +2207,22 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-korean-rice-bowl",
+    "title": "Wholesome Korean Rice Bowl",
+    "tags": [
+      "dosirak",
+      "festive",
+      "garlicky",
+      "healthy",
+      "one-pot",
+      "plant-based",
+      "robata-grill"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {

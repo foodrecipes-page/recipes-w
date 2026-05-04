@@ -1,0 +1,98 @@
+{
+  "title": "Wholesome American Chicken Stew",
+  "description": "Tangy, tender chicken stew perfect for sick days, made without onion or garlic and flavored with fermented jang and ground nut oil.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bone-in skinless chicken thighs",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "2 celery stalks"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fermented-jang",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground nut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of ground nut oil in a large pot over medium heat until shimmering.",
+    "Add the chicken pieces, browning them on all sides for about 5 minutes.",
+    "Pour in the remaining tablespoon of ground nut oil and stir to coat the chicken evenly.",
+    "Stir in the diced carrots, potatoes, celery, and cook for 2 minutes to release flavors.",
+    "Add the chicken broth, apple cider vinegar, fermented-jang, black pepper, and dried thyme, bringing the mixture to a gentle simmer.",
+    "Reduce the heat to low, cover the pot, and let the stew simmer for 30 minutes, stirring occasionally.",
+    "Check the chicken for doneness; it should reach internal temperature of 165°F and be tender.",
+    "Taste the stew and adjust seasoning with additional salt or vinegar if needed.",
+    "Remove the pot from heat, let it rest for 5 minutes before serving.",
+    "Ladle the stew into bowls, garnish with fresh parsley if desired, and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "no-garlic",
+    "no-onion",
+    "one-pot",
+    "sick-day",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 435,
+    "protein": 70,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "wholesome-american-chicken-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-american-chicken-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:55:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "ferment-jang",
+    "primaryIngredient": "ground nut oil",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Wholesome",
+    "dishForm": "Stew"
+  }
+}

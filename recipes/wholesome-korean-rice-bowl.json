@@ -1,0 +1,114 @@
+{
+  "title": "Wholesome Korean Rice Bowl",
+  "description": "A garlicky, pillowy Korean rice bowl with dried chillies and robata grilled tofu and tempeh, plant-based and festive.",
+  "cuisine": "Korean",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "short-grain rice",
+      "amount": "2 cups dry",
+      "notes": "will yield about 6 cups cooked"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "for cooking rice"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried red chillies",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium preferred"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tofu (firm)",
+      "amount": "200 g",
+      "notes": "cubed"
+    },
+    {
+      "name": "tempeh",
+      "amount": "150 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "4 cups",
+      "notes": "carrot, zucchini, mushrooms, spinach"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 tbsp",
+      "notes": "sliced for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse 2 cups of short-grain rice under cold water until runoff is clear.",
+    "In a Dutch oven combine the rinsed rice with 4 cups of water, cover, and bring to a rolling boil over high heat.",
+    "While the rice begins to boil, heat 1 tablespoon of vegetable oil in a separate pan over medium-high heat.",
+    "Add the cubed tofu and sliced tempeh to the hot oil and sear each side until golden brown and slightly charred, then set aside.",
+    "In the same pan, add the minced garlic and crushed dried chillies and sauté for 30 seconds until fragrant.",
+    "Pour in 2 tablespoons of soy sauce and 1 tablespoon of sesame oil, stirring to combine the aromatics.",
+    "Reduce the heat to low, pour the soy sauce mixture over the boiling rice, stir well, and return to a simmer.",
+    "Add the mixed vegetables to the pot, cover, and cook for 10 minutes, allowing the rice to absorb the liquid and become pillowy.",
+    "Finally, fold the seared tofu and tempeh into the rice, reheating for 2 minutes so the protein warms through.",
+    "Serve hot, garnished with sliced scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dosirak",
+    "festive",
+    "garlicky",
+    "healthy",
+    "one-pot",
+    "plant-based",
+    "robata-grill"
+  ],
+  "nutrition": {
+    "calories": 1127,
+    "protein": 50,
+    "carbs": 142,
+    "fat": 42
+  },
+  "slug": "wholesome-korean-rice-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-korean-rice-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:55:01Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "robata-grill",
+    "primaryIngredient": "dried chillies",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Rice",
+    "descriptor": "Wholesome",
+    "dishForm": "Bowl"
+  }
+}
