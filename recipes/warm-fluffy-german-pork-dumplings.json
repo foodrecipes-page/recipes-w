@@ -1,0 +1,94 @@
+{
+  "title": "Warm Fluffy German Pork Dumplings",
+  "description": "A traditional German dish featuring fluffy pork dumplings with a hint of green chilli, perfect for a comforting meal, this recipe is also sugar-free friendly.",
+  "cuisine": "German",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork mince",
+      "amount": "500g",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "green chilli",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "250ml"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the pork mince, flour, eggs, green chilli, onion, salt, and black pepper, and mix well until just combined.",
+    "Do not overmix the mixture.",
+    "Using wet hands, shape the mixture into small dumplings, about 1 inch in diameter.",
+    "Place the dumplings in a steamer basket, leaving some space between each dumpling.",
+    "Pour the chicken broth into a large pot and bring to a boil.",
+    "Place the steamer basket over the boiling broth, cover with a lid, and steam the dumplings for 10 minutes.",
+    "After 10 minutes, remove the dumplings from the steamer and serve hot.",
+    "To pressure cook, place the dumplings in a pressure cooker with the chicken broth, close the lid, and cook for 5 minutes.",
+    "Let the pressure release naturally before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "one-pot",
+    "pork-recipes",
+    "pressure-cooker",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-fluffy-german-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-fluffy-german-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:26:55Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "pressure-cook",
+    "primaryIngredient": "green chilli",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Warm fluffy",
+    "dishForm": "Dumplings"
+  }
+}
