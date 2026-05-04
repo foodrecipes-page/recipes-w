@@ -1,0 +1,102 @@
+{
+  "title": "Warm Crispy British Cream Scones Clotted Cream",
+  "description": "A traditional British dish featuring crispy scones and clotted cream, perfect for a romantic breakfast or snack, with a bitter and tamasic-friendly twist",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "fast action yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "black tea",
+      "amount": "1 teaspoon",
+      "notes": "brewed strong"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, salt, and sugar.",
+    "Add cold butter to the dry ingredients and use a pastry blender to work it into a coarse crumb.",
+    "In a separate bowl, whisk together heavy cream and beaten egg.",
+    "Add the cream mixture to the dry ingredients and stir until a shaggy dough forms.",
+    "Turn the dough out onto a floured surface and knead for 10 minutes, until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a cool place for 2 hours, or until doubled in size.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Punch down the dough and turn it out onto a floured surface, then roll it out to a thickness of 1 inch.",
+    "Use a biscuit cutter to cut out scones, gathering scraps and re-rolling the dough as needed.",
+    "Place the scones on a baking sheet lined with parchment paper, brush with a little extra cream, and bake for 15-20 minutes, or until golden brown.",
+    "While the scones are baking, brew a strong cup of black tea and let it cool.",
+    "Serve the warm scones with clotted cream and a drizzle of black tea"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "black-tea",
+    "british-classic",
+    "clotted-cream",
+    "crispy-scones",
+    "romantic-breakfast",
+    "tamasic-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "warm-crispy-british-cream-scones-clotted-cream",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-british-cream-scones-clotted-cream",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:49:21Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "fast action yeast",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "cream",
+    "descriptor": "Warm Crispy",
+    "dishForm": "Scones Clotted Cream"
+  }
+}
