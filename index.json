@@ -1567,6 +1567,21 @@
     "shard": "w"
   },
   {
+    "slug": "wild-charred-italian-carrot-pasta",
+    "title": "Wild Charred Italian Carrot Pasta",
+    "tags": [
+      "one-pot",
+      "quick",
+      "snappy",
+      "sugar-free",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "wild-crispy-thai-egg-khanom-thai",
     "title": "Wild Crispy Thai Egg Khanom Thai",
     "tags": [
@@ -1589,6 +1604,21 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "wildly-smoked-polish-pork-dumplings",
+    "title": "Wildly Smoked Polish Pork Dumplings",
+    "tags": [
+      "comfort-food",
+      "individual-servings",
+      "polish-cuisine",
+      "rice-paper-dumplings",
+      "smoked-pork",
+      "special-occasion"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 65,
     "shard": "w"
   },
   {

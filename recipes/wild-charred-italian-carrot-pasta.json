@@ -1,0 +1,98 @@
+{
+  "title": "Wild Charred Italian Carrot Pasta",
+  "description": "A bright, charred pasta dish featuring sweet carrots, a fragrant tadka, and a lemony finish, perfect for a sugar‑free crowd‑pleaser.",
+  "cuisine": "Italian",
+  "diet": [
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dry spaghetti",
+      "amount": "200g"
+    },
+    {
+      "name": "carrots, peeled and sliced",
+      "amount": "400g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried red chili flakes",
+      "amount": "2"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions until al dente.",
+    "While the pasta cooks, heat the olive oil in a large skillet over medium-high heat until shimmering.",
+    "Add the cumin and mustard seeds to the skillet and let them sizzle until fragrant, about 30 seconds.",
+    "Add the sliced carrots and red chili flakes to the skillet, cooking until the carrots begin to char on the edges, about 5 minutes.",
+    "Season the carrot mixture with salt and pepper, then stir in the lemon juice and chopped parsley.",
+    "Drain the cooked pasta and add it directly to the skillet with the carrots, tossing to combine and coat the pasta in the charred oil.",
+    "Serve immediately, garnishing with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "one-pot",
+    "quick",
+    "snappy",
+    "sugar-free",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 17,
+    "carbs": 175,
+    "fat": 27
+  },
+  "slug": "wild-charred-italian-carrot-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wild-charred-italian-carrot-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:44:08Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "tadka",
+    "primaryIngredient": "carrots",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "carrot",
+    "descriptor": "Wild Charred",
+    "dishForm": "Pasta"
+  }
+}

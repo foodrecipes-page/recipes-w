@@ -1,0 +1,93 @@
+{
+  "title": "Wildly Smoked Polish Pork Dumplings",
+  "description": "A traditional Polish dish featuring smoked pork and rice paper sheets, served in individual mini cocottes. This recipe is onion and garlic free, making it suitable for those with dietary restrictions.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "smoked"
+    },
+    {
+      "name": "rice paper sheets",
+      "amount": "20 sheets"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried marjoram",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground pork, sliced mushrooms, sour cream, dried marjoram, salt, and black pepper, and mix well.",
+    "Lay a rice paper sheet on a flat surface and place a tablespoon of the pork mixture in the center of the sheet.",
+    "Fold the bottom half of the rice paper sheet over the filling, then fold in the sides and roll up the sheet to form a tight cylinder.",
+    "Repeat the process with the remaining rice paper sheets and pork mixture.",
+    "Place the dumplings in individual mini cocottes and add a tablespoon of red wine to each cocotte.",
+    "Cover the cocottes with lids and bake for 25 minutes.",
+    "Remove the lids and bake for an additional 10 minutes, or until the dumplings are cooked through and the rice paper is crispy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "individual-servings",
+    "polish-cuisine",
+    "rice-paper-dumplings",
+    "smoked-pork",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "wildly-smoked-polish-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-smoked-polish-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:43:55Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "smoke-cold",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Wildly smoked",
+    "dishForm": "Dumplings"
+  }
+}
