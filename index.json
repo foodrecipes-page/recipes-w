@@ -1073,6 +1073,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-resinous-algerian-fruit-tagine",
+    "title": "Warm Resinous Algerian Fruit Tagine",
+    "tags": [
+      "fruit-based",
+      "north-african",
+      "stone-bowl",
+      "vegetarian",
+      "warm-dessert"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-roasted-algerian-butternut-squash-tagine",
     "title": "Warm Roasted Algerian Butternut Squash Tagine",
     "tags": [
@@ -1851,6 +1865,21 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-spiced-moroccan-tequeos-tangia",
+    "title": "Warmly Spiced Moroccan Tequeos Tangia",
+    "tags": [
+      "comfort-food",
+      "kid-friendly",
+      "low-fat",
+      "moroccan",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {

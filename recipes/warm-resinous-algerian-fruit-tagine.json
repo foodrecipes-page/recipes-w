@@ -1,0 +1,90 @@
+{
+  "title": "Warm Resinous Algerian Fruit Tagine",
+  "description": "A sweet and savory Algerian dish featuring powdered sugar and a variety of fruits, served in a stone bowl, perfect for a crowd, this vegetarian friendly recipe is a real crowd pleaser",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "prunes",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the honey in a saucepan over low heat until it is warm and runny.",
+    "Add the chopped dried apricots, prunes, lemon juice, and orange blossom water to the saucepan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, or until the fruit is tender.",
+    "Stir in the powdered sugar until it is dissolved.",
+    "Transfer the mixture to a stone bowl and top with sliced almonds and raisins.",
+    "Serve the tagine warm, garnished with additional powdered sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "fruit-based",
+    "north-african",
+    "stone-bowl",
+    "vegetarian",
+    "warm-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "warm-resinous-algerian-fruit-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-resinous-algerian-fruit-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:19:55Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "powdered sugar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "fruits",
+    "descriptor": "Warm resinous",
+    "dishForm": "Tagine"
+  }
+}
