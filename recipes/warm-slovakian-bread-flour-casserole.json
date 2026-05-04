@@ -1,0 +1,98 @@
+{
+  "title": "Warm Slovakian Bread Flour Casserole",
+  "description": "A fluffy, one-pot Slovakian casserole made with bread flour, vegetables, and a touch of wok-hei for a satvik-friendly twist.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "satvik-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bread flour",
+      "amount": "250g"
+    },
+    {
+      "name": "warm water",
+      "amount": "200ml"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "sugar",
+      "amount": "5g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "carrots, diced",
+      "amount": "100g"
+    },
+    {
+      "name": "sweet potato, diced",
+      "amount": "150g"
+    },
+    {
+      "name": "wok-hei",
+      "amount": "30g"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine bread flour, salt, sugar, and active dry yeast; mix until evenly distributed.",
+    "Add warm water and olive oil to the dry mixture; stir until a shaggy dough forms.",
+    "Knead the dough on a lightly floured surface for 5 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover with a damp cloth, and let it rise for 30 minutes until doubled in size.",
+    "While dough rises, preheat oven to 180°C.",
+    "After dough has risen, punch it down, roll it out into a rectangular shape, and transfer it to a greased casserole dish.",
+    "Arrange diced carrots, sweet potato, and sprinkle wok-hei evenly over the dough; drizzle with a little olive oil and season with salt.",
+    "Bake uncovered for 45 minutes until the top is golden brown and a toothpick inserted near the center comes out clean; let it cool for 5 minutes before serving warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-bake",
+    "one-pot",
+    "savory",
+    "slovakian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 335,
+    "protein": 4,
+    "carbs": 62,
+    "fat": 6
+  },
+  "slug": "warm-slovakian-bread-flour-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-slovakian-bread-flour-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:58:51Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "wok-hei",
+    "primaryIngredient": "bread flour",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "bread flour",
+    "descriptor": "Warm",
+    "dishForm": "Casserole"
+  }
+}

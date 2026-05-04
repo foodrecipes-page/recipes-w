@@ -1,0 +1,100 @@
+{
+  "title": "Wholesome Dutch Flour Pancakes",
+  "description": "Yeasty, light Dutch pancakes infused with cardamom and a deglazing fond, cooked in a copper pot for a Mediterranean touch.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "3g"
+    },
+    {
+      "name": "warm water",
+      "amount": "120ml"
+    },
+    {
+      "name": "milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "eggs, large",
+      "amount": "2"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "20g"
+    },
+    {
+      "name": "melted butter",
+      "amount": "30g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl whisk together flour, yeast, salt and sugar until combined.",
+    "Add warm water and milk, stir until a loose batter forms.",
+    "Whisk in eggs one at a time, then fold in ground cardamom and lemon zest.",
+    "Cover the bowl with plastic wrap and let the batter rise at room temperature for 60 minutes.",
+    "Heat a copper pot over medium heat and brush it with melted butter.",
+    "Pour a small ladleful of batter into the pot to form a thin pancake, rotating to coat the bottom.",
+    "Cook until bubbles form on the surface, then flip and cook the other side until golden.",
+    "When a pancake is finished, deglaze the pot with a splash of olive oil, scraping up any browned bits to flavor the next batch.",
+    "Repeat steps 6-8 until all batter is used, spooning pancakes onto a plate.",
+    "Serve warm with a drizzle of honey or fresh fruit."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "dutch",
+    "breakfast"
+  ],
+  "slug": "wholesome-dutch-flour-pancakes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-dutch-flour-pancakes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:59:17Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "cardamom",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "flour",
+    "descriptor": "Wholesome",
+    "dishForm": "Pancakes"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Warm Flaky Spanish Ovoli Mushroom Cocido Madrileno",
+  "description": "A hearty and cozy Spanish dish featuring ovoli mushrooms and nuka pickle, perfect for a cold winter evening. This Whole30 friendly recipe is a twist on the traditional Cocido Madrileno.",
+  "cuisine": "Spanish",
+  "diet": [
+    "Whole30",
+    "Gluten Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ovoli Mushrooms",
+      "amount": "1 cup",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Nuka Pickle",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ovoli mushrooms and cook until they release their moisture and start to brown.",
+    "Add the chicken broth, paprika, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Add the sliced nuka pickle and cook for an additional 5 minutes.",
+    "Stir in the chopped fresh parsley and serve hot.",
+    "Serve the cocido in bowls and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "mushroom-based",
+    "one-pot",
+    "spanish-cuisine",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-flaky-spanish-ovoli-mushroom-cocido-madrileno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-flaky-spanish-ovoli-mushroom-cocido-madrileno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:59:23Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "ovoli-mushroom",
+    "diet": "whole30",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "ovoli mushroom",
+    "descriptor": "warm flaky",
+    "dishForm": "Cocido Madrileno"
+  }
+}

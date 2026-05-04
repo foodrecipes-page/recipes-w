@@ -267,6 +267,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-flaky-spanish-ovoli-mushroom-cocido-madrileno",
+    "title": "Warm Flaky Spanish Ovoli Mushroom Cocido Madrileno",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "mushroom-based",
+      "one-pot",
+      "spanish-cuisine",
+      "whole30-friendly"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-fluffy-german-pork-dumplings",
     "title": "Warm Fluffy German Pork Dumplings",
     "tags": [
@@ -482,6 +497,20 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-slovakian-bread-flour-casserole",
+    "title": "Warm Slovakian Bread Flour Casserole",
+    "tags": [
+      "easy-bake",
+      "one-pot",
+      "savory",
+      "slovakian",
+      "vegetarian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 60,
     "shard": "w"
   },
   {
@@ -984,6 +1013,17 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 80,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-dutch-flour-pancakes",
+    "title": "Wholesome Dutch Flour Pancakes",
+    "tags": [
+      "dutch",
+      "breakfast"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
