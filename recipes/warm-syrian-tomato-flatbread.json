@@ -1,0 +1,87 @@
+{
+  "title": "Warm Syrian Tomato Flatbread",
+  "description": "A comforting Syrian flatbread infused with ripe confit tomatoes and fresh basil, served warm for a satisfying lunch or dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan",
+    "ayurvedic-sattvic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white bread flour",
+      "amount": "250 g"
+    },
+    {
+      "name": "warm water",
+      "amount": "150 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "5 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "confited tomatoes",
+      "amount": "100 g"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "10 g"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl combine the flour, salt, sumac, and black pepper.",
+    "Add warm water and olive oil gradually, mixing until a sticky dough forms.",
+    "Turn the dough onto a floured surface and knead for about 5 minutes until smooth.",
+    "Divide the dough into four equal portions and roll each into a thin oval.",
+    "Heat a nonstick skillet over medium heat and cook each flatbread for 2 minutes on each side until golden brown.",
+    "Spread a thin layer of confited tomatoes on each flatbread, then scatter basil leaves on top.",
+    "Serve the flatbreads warm, optionally drizzling a little extra olive oil.",
+    "Enjoy the aromatic, umami-packed dish as a hearty dinner."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "syrian",
+    "dinner"
+  ],
+  "slug": "warm-syrian-tomato-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-syrian-tomato-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:20:07Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "confit-tomato",
+    "primaryIngredient": "strong white bread flour",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "tomato",
+    "descriptor": "Warm",
+    "dishForm": "Flatbread"
+  }
+}

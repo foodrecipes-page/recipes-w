@@ -1401,6 +1401,17 @@
     "shard": "w"
   },
   {
+    "slug": "warm-syrian-tomato-flatbread",
+    "title": "Warm Syrian Tomato Flatbread",
+    "tags": [
+      "syrian",
+      "dinner"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-terracotta-malaysian-rice-bake",
     "title": "Warm Terracotta Malaysian Rice Bake",
     "tags": [
