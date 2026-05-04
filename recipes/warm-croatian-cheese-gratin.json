@@ -1,0 +1,102 @@
+{
+  "title": "Warm Croatian Cheese Gratin",
+  "description": "A mustardy, cheese-pull indulgence featuring elderflower glaze, baked in a tandoor clay pot.",
+  "cuisine": "Croatian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "aged cheddar cheese",
+      "amount": "250g",
+      "notes": "kosher aged cheddar"
+    },
+    {
+      "name": "Gruyere cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "elderflower syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "150ml"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "egg yolk",
+      "amount": "1"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and place a tandoor clay pot inside to heat.",
+    "While the pot warms, grate the aged cheddar and Gruyere into a bowl.",
+    "In a saucepan over medium heat, combine heavy cream, mustard, elderflower syrup, butter, oil, salt, and pepper; stir until butter melts and mixture is smooth.",
+    "Remove the pot from the oven, pour the creamy mixture over the cheeses, and stir gently until the cheeses begin to melt.",
+    "Sprinkle the flour and egg yolk over the mixture, stirring until evenly incorporated.",
+    "Place the pot back in the oven and bake for 20 minutes, or until the top is golden and the cheese is bubbling.",
+    "Remove the pot carefully, brush the top with a thin layer of elderflower-mustard glaze, and return to the oven for 5 minutes to develop a lacquered finish.",
+    "Serve immediately, garnishing with a sprinkle of fresh black pepper if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "indulgent",
+    "kosher-friendly",
+    "mustard-flavor",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 467,
+    "protein": 21,
+    "carbs": 6,
+    "fat": 37
+  },
+  "slug": "warm-croatian-cheese-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-croatian-cheese-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:48:04Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "elderflower",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Warm",
+    "dishForm": "Gratin"
+  }
+}

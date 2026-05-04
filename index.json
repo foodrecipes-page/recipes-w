@@ -421,6 +421,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-croatian-cheese-gratin",
+    "title": "Warm Croatian Cheese Gratin",
+    "tags": [
+      "cheese-pull",
+      "indulgent",
+      "kosher-friendly",
+      "mustard-flavor",
+      "tandoor-cooking"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crumbly-irish-sausage-hash",
     "title": "Warm Crumbly Irish Sausage Hash",
     "tags": [
