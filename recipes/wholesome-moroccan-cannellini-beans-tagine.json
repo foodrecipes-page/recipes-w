@@ -1,0 +1,105 @@
+{
+  "title": "Wholesome Moroccan Cannellini Beans Tagine",
+  "description": "A grassy, pillowy Moroccan tagine featuring creamy cannellini beans, aromatic spices, and bright lemon, served in a clay tajine.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned cannellini beans",
+      "amount": "400g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley, cilantro, and mint mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tajine over medium heat until shimmering.",
+    "Add the diced onion and sauté until translucent, about 3-4 minutes.",
+    "Stir in the minced garlic and cook for 30 seconds until fragrant.",
+    "Mix in the diced carrot and tomato paste, cooking for another 2 minutes.",
+    "Sprinkle the cumin, coriander, and smoked paprika, and stir for 1 minute to toast the spices.",
+    "Pour in the lemon juice and add the drained cannellini beans, stirring to coat the beans evenly.",
+    "Reduce the heat to low, cover the tajine, and simmer gently for 25 minutes, stirring occasionally.",
+    "Season with salt and pepper to taste.",
+    "Just before serving, stir in the chopped herb mix for freshness.",
+    "Transfer the tagine to a serving dish and garnish with additional herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bean-dish",
+    "keto-friendly",
+    "moroccan",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 24,
+    "carbs": 72,
+    "fat": 28
+  },
+  "slug": "wholesome-moroccan-cannellini-beans-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-moroccan-cannellini-beans-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:21:39Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "en-croute",
+    "primaryIngredient": "cannellini beans",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Cannellini beans",
+    "descriptor": "Wholesome",
+    "dishForm": "Tagine"
+  }
+}
