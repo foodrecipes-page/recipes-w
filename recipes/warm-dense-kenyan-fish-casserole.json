@@ -1,0 +1,104 @@
+{
+  "title": "Warm Dense Kenyan Fish Casserole",
+  "description": "A sweet and dense Kenyan dish featuring gruyere and yuzu-cure, perfect for pescatarians, this casserole is a delicious meal prep option.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat 2 tablespoons of oil over medium heat and saute the onion and garlic until softened.",
+    "Add the cod fillets to the skillet and cook until browned on all sides.",
+    "In a large bowl, combine the cooked cod, gruyere cheese, yuzu juice, sweet potato, coconut milk, salt, and black pepper, and mix well.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with additional gruyere cheese.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and sprinkle with chopped parsley.",
+    "Let the casserole cool for a few minutes before serving.",
+    "Serve the casserole warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fish-based",
+    "kenyan-cuisine",
+    "meal-prep",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-dense-kenyan-fish-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dense-kenyan-fish-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:37:40Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "gruy re",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "fish",
+    "descriptor": "Warm Dense",
+    "dishForm": "Casserole"
+  }
+}
