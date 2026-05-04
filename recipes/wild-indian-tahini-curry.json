@@ -1,0 +1,114 @@
+{
+  "title": "Wild Indian Tahini Curry",
+  "description": "A fiery Andhra-inspired curry that blends creamy tahini, rich chocolate, and fresh spices for a soothing yet spicy dish perfect for sick days.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "200 g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tahini paste",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1 tbsp",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "250 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium heat and add a tablespoon of oil.",
+    "Sauté the diced onion until translucent, about three minutes.",
+    "Add minced garlic, grated ginger, and cook for one minute.",
+    "Stir in chopped tomatoes, cumin, coriander, chili powder, and salt; cook until tomatoes soften.",
+    "Pour in coconut milk, bring the mixture to a gentle simmer.",
+    "Add drained chickpeas and simmer for ten minutes to allow flavors to meld.",
+    "In a small bowl mix tahini paste with a few tablespoons of hot curry liquid to thin it.",
+    "Stir the tahini mixture back into the curry, adding cocoa powder and garam masala.",
+    "Continue simmering, stirring occasionally, until the curry thickens to a sauce consistency, about five minutes.",
+    "Serve hot over steamed rice or with warm naan, garnished with fresh curry leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "gluten-free",
+    "quick",
+    "spicy",
+    "tahini",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1045,
+    "protein": 20,
+    "carbs": 75,
+    "fat": 69
+  },
+  "slug": "wild-indian-tahini-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wild-indian-tahini-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:21:58Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "tahini paste",
+    "diet": "ayurvedic-tamasic",
+    "region": "andhra",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "tahini",
+    "descriptor": "Wild",
+    "dishForm": "Curry"
+  }
+}
