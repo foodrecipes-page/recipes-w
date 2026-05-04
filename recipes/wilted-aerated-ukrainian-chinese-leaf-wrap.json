@@ -1,0 +1,101 @@
+{
+  "title": "Wilted, Aerated Ukrainian Chinese Leaf Wrap",
+  "description": "A pescatarian-friendly Ukrainian dish featuring bitter flavors, aerated texture and Chinese leaf wrapped in pandan leaf",
+  "cuisine": "ukrainian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chinese Leaf",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "namul-blanch-season (1/2 tsp)",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Smoked Cod Fillet",
+      "amount": "200g"
+    },
+    {
+      "name": "butter (50g)",
+      "amount": "50g"
+    },
+    {
+      "name": "white wine vinegar (2 tbsp)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey (2 tsp)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt (pinch)",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper (coarse grinds)",
+      "amount": "coarse grinds"
+    },
+    {
+      "name": "pandan leaf",
+      "amount": "large leaf"
+    },
+    {
+      "name": "water (50ml)",
+      "amount": "50ml"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pan over medium heat.",
+    "Add namul-blanch-season and stir for 1 minute.",
+    "Add smoked cod fillet and cook for 3-4 minutes or until flaked.",
+    "Add white wine vinegar, honey, salt and black pepper, stir for 1 minute.",
+    "Add Chinese leaves to the pan and wilt for 2-3 minutes.",
+    "Transfer the mixture to a bowl and let it cool.",
+    "Wet the surface of a large pandan leaf with water.",
+    "Place a portion of the mixture onto the center of the pandan leaf and fold the leaf into a neat wrap.",
+    "Repeat the process with the remaining ingredients.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "aerated",
+    "bitter",
+    "indulgent",
+    "one-pan",
+    "pescatarian",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "wilted-aerated-ukrainian-chinese-leaf-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-aerated-ukrainian-chinese-leaf-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T01:07:13Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "chinese leaf",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "ukrainian",
+    "mainIngredient": "chinese leaf",
+    "descriptor": "wilted, aerated",
+    "dishForm": "wrap"
+  }
+}
