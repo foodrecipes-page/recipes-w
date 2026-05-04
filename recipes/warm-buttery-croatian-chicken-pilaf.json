@@ -1,0 +1,96 @@
+{
+  "title": "Warm Buttery Croatian Chicken Pilaf",
+  "description": "A rich and creamy Croatian dish featuring chicken, creme fraiche, and a hint of spice, perfect for a date night. This recipe uses a pressure cooker to achieve a tender and flavorful pilaf.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in the pressure cooker over medium heat until melted.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the chicken breast pieces and cook until browned on all sides, about 5-7 minutes.",
+    "Add the creme fraiche, chicken broth, uncooked white rice, smoked paprika, and remaining 2 tablespoons of butter to the pressure cooker.",
+    "Close the lid and set the valve to sealing, then cook on high pressure for 10 minutes.",
+    "Let the pressure release naturally for 10 minutes, then quick release any remaining pressure.",
+    "Fluff the pilaf with a fork and season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "date-night",
+    "one-pot",
+    "pressure-cooker"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 24
+  },
+  "slug": "warm-buttery-croatian-chicken-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-buttery-croatian-chicken-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:05:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "pressure-cook",
+    "primaryIngredient": "creme fraiche",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Buttery",
+    "dishForm": "Pilaf"
+  }
+}
