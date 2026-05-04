@@ -130,6 +130,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-brazilian-shaggy-broth",
+    "title": "Warm Brazilian Shaggy Broth",
+    "tags": [
+      "brazilian",
+      "comfort-food",
+      "low-calorie",
+      "one-pot",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-briny-northern-thai-persian-cucumber-tom-yum",
     "title": "Warm Briny Northern Thai Persian Cucumber Tom Yum",
     "tags": [
@@ -2871,6 +2886,21 @@
     "shard": "w"
   },
   {
+    "slug": "waxy-sour-gooey-german-shortening-stew",
+    "title": "Waxy Sour Gooey German Shortening Stew",
+    "tags": [
+      "german",
+      "gooey",
+      "one-pan",
+      "slow-cooker",
+      "sour",
+      "winter"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 70,
+    "shard": "w"
+  },
+  {
     "slug": "weakly-brined-slovakian-asparagus-hash",
     "title": "weakly brined slovakian asparagus hash",
     "tags": [
@@ -3624,6 +3654,21 @@
       "wood-board"
     ],
     "cuisine": "Greek",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-hangover-uruguayan-yoghurt-bowl",
+    "title": "wholesome hangover Uruguayan yoghurt bowl",
+    "tags": [
+      "breakfast",
+      "easy",
+      "healthy",
+      "one-pan",
+      "weeknight",
+      "whole30"
+    ],
+    "cuisine": "Uruguayan",
     "totalTimeMin": 25,
     "shard": "w"
   },

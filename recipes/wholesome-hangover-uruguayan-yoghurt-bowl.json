@@ -1,0 +1,174 @@
+{
+  "title": "wholesome hangover Uruguayan yoghurt bowl",
+  "description": "fresh, crunchy, hangover-cure uruguayan dish featuring natural yoghurt, deglaze, whole30-friendly, vessel=cazuela. Perfect for a morning pick-me-up after a long night out.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Greek yoghurt",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Cazuela",
+      "amount": null,
+      "notes": "large ceramic bowl"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Apple",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Ancho chilies",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Diced mango",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Crushed pecans",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Diced fresh pineapple",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Diced red bell pepper",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Grated carrot",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Shredded coconut",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Diced avocado",
+      "amount": "1/2",
+      "notes": null
+    },
+    {
+      "name": "Sour cream",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, heat the coconut oil over low heat.",
+    "Add the chopped scallions and cook for 2 minutes, or until softened.",
+    "Add the diced mango, pineapple, red bell pepper, and grated carrot. Cook for 3 minutes, or until the vegetables have softened slightly.",
+    "Add the diced apple and cook for an additional 2 minutes, or until tender.",
+    "Stir in the honey, cinnamon, and a pinch of salt and pepper. Cook for 1 minute, or until the honey has dissolved.",
+    "Stir in the chopped pecans and shredded coconut. Cook for an additional 1 minute, or until the pecans are toasted and fragrant.",
+    "In a large bowl, combine the Greek yoghurt, sour cream, diced avocado, and chopped fresh mint. Stir until well combined.",
+    "Add the cooked mango mixture to the yoghurt mixture and stir until well combined.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the Uruguayan yoghurt bowl in a large ceramic bowl, garnished with additional fresh mint if desired.",
+    "Top with diced walnuts and a sprinkle of sesame seeds, if desired.",
+    "Enjoy your delicious and refreshing Uruguayan yoghurt bowl!",
+    "Be sure to top with your choice of toppings, such as diced mango, pineapple, red bell pepper, or grated carrot.",
+    "Garnish with fresh mint leaves and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy",
+    "healthy",
+    "one-pan",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "wholesome-hangover-uruguayan-yoghurt-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-hangover-uruguayan-yoghurt-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:37Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "deglaze",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "yoghurt",
+    "descriptor": "wholesome hangover",
+    "dishForm": "bowl"
+  }
+}
