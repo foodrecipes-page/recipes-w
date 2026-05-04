@@ -1,0 +1,96 @@
+{
+  "title": "Warm German Banana Pilaf",
+  "description": "A peppery and snappy post-workout dish featuring banana, perfect for a quick and satisfying meal. This halal-friendly recipe is made with a deglaze-fond and served in a lazy-susan-spinner vessel.",
+  "cuisine": "German",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": "4",
+      "notes": "ripe"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced bananas and cook for 2 minutes.",
+    "Add the black pepper and salt, and stir to combine.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Scrape up the deglaze-fond from the bottom of the skillet.",
+    "Add the cooked basmati rice to the skillet and stir to combine.",
+    "Reduce the heat to low and simmer for 5 minutes.",
+    "Serve the pilaf hot in a lazy-susan-spinner vessel."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german-cuisine",
+    "halal-friendly",
+    "one-pan",
+    "post-workout",
+    "quick-meal",
+    "snappy-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "warm-german-banana-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-german-banana-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:21:54Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "banana",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "banana",
+    "descriptor": "Warm peppery",
+    "dishForm": "Pilaf"
+  }
+}

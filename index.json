@@ -158,6 +158,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-german-banana-pilaf",
+    "title": "Warm German Banana Pilaf",
+    "tags": [
+      "german-cuisine",
+      "halal-friendly",
+      "one-pan",
+      "post-workout",
+      "quick-meal",
+      "snappy-dish"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "warm-golden-irish-sultanas-casserole",
     "title": "Warm Golden Irish Sultanas Casserole",
     "tags": [
