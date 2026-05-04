@@ -896,6 +896,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-mexican-corn-tlayuda",
+    "title": "Warm Mexican Corn Tlayuda",
+    "tags": [
+      "butter-crisp",
+      "coconut",
+      "mexican",
+      "no-garlic",
+      "no-onion",
+      "yucatecan"
+    ],
+    "cuisine": "Yucatecan",
+    "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
     "slug": "warm-mexican-yam-soup",
     "title": "Warm Mexican Yam Soup",
     "tags": [

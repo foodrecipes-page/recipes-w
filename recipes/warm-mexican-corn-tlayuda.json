@@ -1,0 +1,106 @@
+{
+  "title": "Warm Mexican Corn Tlayuda",
+  "description": "A buttery, crispy tlayuda inspired by Yucatecan flavors, topped with coconut cream, lemongrass, avocado, and fresh herbs, perfect for a no-onion, no-garlic-friendly meal.",
+  "cuisine": "Yucatecan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "4 large",
+      "notes": "approx 300 g total"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup",
+      "notes": "240 ml"
+    },
+    {
+      "name": "lemongrass stems",
+      "amount": "2 stalks",
+      "notes": "bruised, juice squeezed"
+    },
+    {
+      "name": "queso fresco",
+      "amount": "200 g",
+      "notes": "shredded"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 ripe",
+      "notes": "sliced"
+    },
+    {
+      "name": "romaine lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a dry skillet over medium heat and toast the corn tortillas until golden and crisp, about 1 minute per side.",
+    "While the tortillas toast, melt the butter in a small saucepan and whisk in the coconut cream, lemongrass juice, lime zest, and a pinch of salt until the mixture is smooth.",
+    "Spread a thin layer of the coconut-cream mixture over each toasted tortilla, leaving a small border around the edges.",
+    "Sprinkle shredded queso fresco evenly across the tortillas.",
+    "Layer avocado slices, shredded lettuce, and chopped cilantro on top of the cheese.",
+    "Drizzle the remaining coconut-cream mixture over the toppings and sprinkle toasted coconut flakes for added crunch.",
+    "Gently press the tortillas with a spatula to help the toppings adhere as the cheese melts slightly.",
+    "Serve warm, optionally with a wedge of lime for squeezing."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "butter-crisp",
+    "coconut",
+    "mexican",
+    "no-garlic",
+    "no-onion",
+    "yucatecan"
+  ],
+  "nutrition": {
+    "calories": 2030,
+    "protein": 33,
+    "carbs": 91,
+    "fat": 125
+  },
+  "slug": "warm-mexican-corn-tlayuda",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-mexican-corn-tlayuda",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:51:34Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "lemongrass",
+    "diet": "no-onion-no-garlic",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "corn",
+    "descriptor": "Warm",
+    "dishForm": "Tlayuda"
+  }
+}
