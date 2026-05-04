@@ -2917,6 +2917,21 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-indian-andouille-tagine",
+    "title": "Wholesome Indian Andouille Tagine",
+    "tags": [
+      "creamy",
+      "high-protein",
+      "kid-friendly",
+      "one-pot",
+      "quick",
+      "weeknight"
+    ],
+    "cuisine": "Indian French",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-irish-potato-dumplings",
     "title": "Wholesome Irish Potato Dumplings",
     "tags": [
@@ -3376,6 +3391,21 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-tunisian-chicken-tagine",
+    "title": "Wholesome Tunisian Chicken Tagine",
+    "tags": [
+      "chicken-tagine",
+      "gluten-free",
+      "healthy",
+      "low-tamasic",
+      "one-pot",
+      "tunisian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 60,
     "shard": "w"
   },
   {

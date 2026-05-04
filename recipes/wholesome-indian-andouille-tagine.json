@@ -1,0 +1,112 @@
+{
+  "title": "Wholesome Indian Andouille Tagine",
+  "description": "A creamy herb laden tagine that blends Punjabi spices with smoky andouille sausage for a kid friendly feast.",
+  "cuisine": "Indian French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "andouille sausage",
+      "amount": "400g",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "50g",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a clay pot over medium heat and add a splash of oil.",
+    "Add the diced onion and sauté until translucent.",
+    "Stir in the minced garlic and grated ginger, cooking for one minute.",
+    "Add the tomato paste, cumin and smoked paprika, stirring until fragrant.",
+    "Place the sliced andouille sausage into the pot and brown on all sides.",
+    "Pour in the coconut milk and add the halved apricots, stirring to combine.",
+    "Reduce heat to low, cover the pot, and simmer for 20 minutes, allowing flavors to meld.",
+    "Remove the lid, taste, and season with salt and black pepper to preference.",
+    "Stir in the chopped cilantro just before serving for freshness.",
+    "Serve hot directly from the clay pot with a side of basmati rice or naan."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "high-protein",
+    "kid-friendly",
+    "one-pot",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 28,
+    "carbs": 48,
+    "fat": 30
+  },
+  "slug": "wholesome-indian-andouille-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-indian-andouille-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:43:06Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "tagine-cook",
+    "primaryIngredient": "andouille-french",
+    "diet": "raw",
+    "region": "punjabi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "andouille",
+    "descriptor": "Wholesome",
+    "dishForm": "Tagine"
+  }
+}
