@@ -1155,6 +1155,19 @@
     "shard": "w"
   },
   {
+    "slug": "warm-gooey-slovakian-sherry-pudding",
+    "title": "Warm Gooey Slovakian Sherry Pudding",
+    "tags": [
+      "comfort-food",
+      "dessert",
+      "shojin",
+      "veganish"
+    ],
+    "cuisine": "European",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
     "slug": "warm-hakka-beetroot-sweet-and-sour",
     "title": "Warm Hakka Beetroot Sweet And Sour",
     "tags": [
@@ -3636,6 +3649,21 @@
     ],
     "cuisine": "Korean-American",
     "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-light-argentinian-parsley-salad",
+    "title": "wholesome light argentinian parsley salad",
+    "tags": [
+      "argentinian",
+      "lacto-vegetarian",
+      "quick",
+      "refreshing",
+      "salad",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 10,
     "shard": "w"
   },
   {

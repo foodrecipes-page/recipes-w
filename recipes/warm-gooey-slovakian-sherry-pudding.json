@@ -1,0 +1,104 @@
+{
+  "title": "Warm Gooey Slovakian Sherry Pudding",
+  "description": "A rich, comforting dessert featuring sweet sherry, savory mustard, and a hint of umami from shio-koji cure, served warm in individual mason jars. This Slovakian-inspired dessert is perfect for a cozy night in or a special occasion.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sherry",
+      "amount": "1 cup (250 ml)",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup (200 g)",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons (55 g)",
+      "notes": ""
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1/2 cup (60 g)",
+      "notes": "sifted"
+    },
+    {
+      "name": "Shio-Koji Cure",
+      "amount": "2 tablespoons (30 g)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Mustard Seeds",
+      "amount": "1 teaspoon",
+      "notes": "ground, such as brown or Dijon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup (60 ml)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, whisk together sherry, sugar, and 1/4 cup (60 ml) water until the sugar dissolves.",
+    "Bring the mixture to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "In a separate bowl, whisk together flour, shio-koji cure, and ground mustard seeds.",
+    "In a separate bowl, whisk together eggs, butter, and a pinch of salt (if using).",
+    "Temper the egg mixture by slowly pouring the warm sherry mixture into the eggs, whisking continuously.",
+    "Add the flour mixture to the egg mixture and whisk until smooth.",
+    "Pour the mixture into 4-6 mason jars, leaving about 1 inch (2.5 cm) of space at the top.",
+    "Place the mason jars in a large baking dish and add hot water to come halfway up the sides of the jars.",
+    "Bake at 375°F (190°C) for 25-30 minutes, or until the pudding is set and the edges are golden brown.",
+    "Remove from the oven and let cool for 5 minutes before serving warm, garnished with a sprinkle of ground mustard seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dessert",
+    "shojin",
+    "veganish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "warm-gooey-slovakian-sherry-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-gooey-slovakian-sherry-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:55Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "sweet sherry",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "sherry",
+    "descriptor": "warm gooey",
+    "dishForm": "pudding"
+  }
+}

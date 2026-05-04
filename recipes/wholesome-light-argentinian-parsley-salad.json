@@ -1,0 +1,96 @@
+{
+  "title": "wholesome light argentinian parsley salad",
+  "description": "A simple and refreshing salad featuring chopped parsley,whisk and citrusy dressing,perfect for a quick weeknight dinner",
+  "cuisine": "argentinian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "whisk",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "optional",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chopped fresh parsley and thinly sliced red onion"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "lacto-vegetarian",
+    "quick",
+    "refreshing",
+    "salad",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 2
+  },
+  "slug": "wholesome-light-argentinian-parsley-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-light-argentinian-parsley-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:34Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "whisk",
+    "primaryIngredient": "chopped parsley",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "parsley",
+    "descriptor": "wholesome light",
+    "dishForm": "salad"
+  }
+}
