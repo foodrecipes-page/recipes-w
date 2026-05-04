@@ -1,0 +1,111 @@
+{
+  "title": "Warm Spring Australian Lemongrass Tagine",
+  "description": "A vibrant and citrusy Australian dish featuring black cardamom pods and a hint of lemongrass, perfect for a warm spring evening.",
+  "cuisine": "australian",
+  "diet": [
+    "macrobiotic-friendly",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black cardamom pods",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass stalks",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "chicken thighs",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass paste",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large tagine pot over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the black cardamom pods and lemongrass stalks to the pot and cook for 1 minute.",
+    "Add the chicken thighs to the pot and cook until browned on all sides, about 5-6 minutes.",
+    "Add the lemongrass paste, lemongrass honey, and white wine vinegar to the pot and stir to combine.",
+    "Reduce heat to low and simmer the tagine for 20-25 minutes, or until the chicken is cooked through.",
+    "Stir in chopped parsley and serve the tagine hot over couscous or rice.",
+    "Garnish with additional lemongrass stalks and parsley, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "citrusy",
+    "one-pan",
+    "spring",
+    "warm",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 12
+  },
+  "slug": "warm-spring-australian-lemongrass-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spring-australian-lemongrass-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:12:58Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "black cardamom pods",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Lemongrass",
+    "descriptor": "Warm Spring",
+    "dishForm": "Tagine"
+  }
+}
