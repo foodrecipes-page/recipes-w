@@ -1,0 +1,96 @@
+{
+  "title": "Wholesome Uruguayan Tomatoes Stew",
+  "description": "A fresh, dense, one-pot stew featuring beef tomatoes, simmered on a comal with aromatic herbs.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef tomatoes",
+      "amount": "1.5 kg",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 bunch",
+      "notes": "torn"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the comal over medium heat and drizzle olive oil.",
+    "Add chopped onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic and cook for 1 minute until fragrant.",
+    "Add beef tomatoes, bay leaf, salt, and pepper; bring to a gentle boil.",
+    "Reduce heat to low, cover, and simmer the stew for 20 minutes, stirring occasionally.",
+    "Remove the bay leaf, stir in torn basil leaves, and cook for an additional 5 minutes.",
+    "Taste and adjust seasoning if needed.",
+    "Serve hot, optionally with a slice of crusty bread or a side of rice.",
+    "Let the stew rest for 5 minutes before serving to allow flavors to meld.",
+    "Enjoy the comforting, Ayurvedic-rajasic-friendly stew."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "family-friendly",
+    "gluten-free",
+    "one-pot",
+    "uruguayan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "wholesome-uruguayan-tomatoes-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-uruguayan-tomatoes-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:45:55Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "boil",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Wholesome",
+    "dishForm": "Stew"
+  }
+}
