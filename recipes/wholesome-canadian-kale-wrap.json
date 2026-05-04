@@ -1,0 +1,92 @@
+{
+  "title": "Wholesome Canadian Kale Wrap",
+  "description": "A fluffy, brine-wet wrap packed with anti-inflammatory kale, roasted sweet potatoes, and creamy avocado, perfect for a lazy Sunday lunch.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan",
+    "anti-inflammatory"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Whole wheat tortillas",
+      "amount": "4 8\" tortillas"
+    },
+    {
+      "name": "Fresh kale",
+      "amount": "200g"
+    },
+    {
+      "name": "Sweet potato",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 ripe"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup, halved"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and spread diced sweet potatoes on a baking sheet, drizzle with 1 tablespoon olive oil, salt, pepper, then roast for 20 minutes until tender.",
+    "While the sweet potatoes roast, rinse the kale, remove stems, and chop into bite-sized pieces.",
+    "Sauté the kale quickly with a splash of water for 2 minutes, then season with a pinch of salt and a squeeze of lemon juice.",
+    "Warm the tortillas in a dry skillet for 30 seconds on each side or microwave for 20 seconds to make them pliable.",
+    "Spread mashed avocado onto each tortilla, add a layer of roasted sweet potatoes, sautéed kale, and cherry tomato halves.",
+    "Fold the sides over and roll tightly, then cut in half and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "lazy-sunday",
+    "quick",
+    "vegan-friendly",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 330,
+    "protein": 7,
+    "carbs": 36,
+    "fat": 18
+  },
+  "slug": "wholesome-canadian-kale-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-canadian-kale-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:54:51Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "brine-wet",
+    "primaryIngredient": "tortillas",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "kale",
+    "descriptor": "Wholesome",
+    "dishForm": "Wrap"
+  }
+}
