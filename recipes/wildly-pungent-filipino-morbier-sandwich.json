@@ -1,0 +1,110 @@
+{
+  "title": "Wildly Pungent Filipino Morbier Sandwich",
+  "description": "A pungent and juicy Filipino dish featuring morbier cheese, double-rise bread, and anti-inflammatory friendly ingredients, perfect for a monsoon day",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "double-rise bread",
+      "amount": "4 slices",
+      "notes": "preferably a day old"
+    },
+    {
+      "name": "morbier cheese",
+      "amount": "8 ounces",
+      "notes": "sliced"
+    },
+    {
+      "name": "grilled chicken breast",
+      "amount": "1 pound",
+      "notes": "shredded"
+    },
+    {
+      "name": "pickled jalapeno",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press to 375 degrees Fahrenheit",
+    "Spread mayonnaise on each slice of double-rise bread",
+    "Layer shredded chicken breast, sliced morbier cheese, pickled jalapeno, and caramelized onions on two slices of bread",
+    "Sprinkle turmeric, ginger, salt, and black pepper on top of the filling",
+    "Place the other two slices of bread on top of the filling to create a sandwich",
+    "Place the sandwiches in the panini press and cook for 5 minutes",
+    "Remove the sandwiches from the press and sprinkle chopped cilantro on top",
+    "Cut the sandwiches in half and serve immediately",
+    "Serve with a side of tomato soup to help cool down the palate"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "filipino-food",
+    "lunch-ideas",
+    "sandwiches",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "wildly-pungent-filipino-morbier-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-pungent-filipino-morbier-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:25:57Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "morbier",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "morbier",
+    "descriptor": "Wildly pungent",
+    "dishForm": "Sandwich"
+  }
+}
