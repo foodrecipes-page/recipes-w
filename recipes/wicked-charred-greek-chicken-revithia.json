@@ -1,0 +1,113 @@
+{
+  "title": "Wicked Charred Greek Chicken Revithia",
+  "description": "A smoky, one-pot Greek chicken dish that balances charred flavor with the subtle sweetness of rice syrup, served over a bed of tender mirepoix. Perfect for a keto-friendly dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "keto-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "4",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "divided"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "medium carrot",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "rice syrup (jocheong)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a large skillet over medium-high heat until shimmering.",
+    "Add chicken pieces, season with salt and pepper, and brown on all sides, then transfer to plate.",
+    "In the same skillet, add remaining oil, onion, carrot, celery; cook until softened and lightly charred, about 5 minutes.",
+    "Stir in mushrooms and cook another 2 minutes.",
+    "Return chicken to skillet; pour in rice syrup, red wine vinegar, oregano, thyme; stir to coat.",
+    "Reduce heat to low, cover, and simmer for 20 minutes until chicken is cooked through and flavors meld.",
+    "Uncover, increase heat to medium, and let the liquid reduce until thick and glossy, about 5 minutes, stirring occasionally.",
+    "Taste and adjust seasoning with salt and pepper if needed.",
+    "Serve hot, optionally garnished with fresh oregano or parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charred",
+    "greek",
+    "keto-friendly",
+    "low-carb",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 45
+  },
+  "slug": "wicked-charred-greek-chicken-revithia",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wicked-charred-greek-chicken-revithia",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:32:48Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "rice-syrup-jocheong",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Chicken",
+    "descriptor": "Wicked Charred",
+    "dishForm": "Revithia"
+  }
+}
