@@ -1,0 +1,89 @@
+{
+  "title": "Warmly Glazed German Pork Skewers",
+  "description": "Savory and juicy pork skewers glazed with a sweet and sticky sauce, perfect for a date-night dinner",
+  "cuisine": "German",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "Thread the pork pieces onto skewers",
+    "In a small bowl, whisk together the olive oil, honey, apple cider vinegar, dijon mustard, salt, black pepper, and garlic powder",
+    "Brush the glaze onto the pork skewers",
+    "Grill the skewers for 10-12 minutes, turning occasionally",
+    "Let the skewers rest for 5 minutes before serving",
+    "Serve the skewers hot, garnished with fresh parsley"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "german-cuisine",
+    "glazed-meats",
+    "grilled-food",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "warmly-glazed-german-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-glazed-german-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:02:48Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "glaze",
+    "primaryIngredient": "extra virgin olive oil",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Warmly Glazed",
+    "dishForm": "Skewers"
+  }
+}
