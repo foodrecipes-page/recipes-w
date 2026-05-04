@@ -1,0 +1,108 @@
+{
+  "title": "Warmly Spiced Egyptian Lamb Tagine",
+  "description": "A savory and indulgent Egyptian dish featuring pomegranate molasses, this warmly spiced lamb tagine is cooked to perfection in a tandoor clay pot, resulting in a rich and glassy jelly-like sauce. It is an ayurvedic-tamasic-friendly recipe that blends traditional Egyptian flavors with a unique cooking method.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot by placing it in a cold oven and setting the temperature to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together the pomegranate molasses, olive oil, garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat evenly with the marinade.",
+    "Remove the tandoor clay pot from the oven and carefully add the lamb and marinade to the pot.",
+    "Cover the pot with a lid and return it to the oven, baking for 2 1/2 hours.",
+    "After 2 hours, remove the lid and continue baking for an additional 30 minutes, or until the lamb is tender and the sauce has thickened into a glassy jelly-like consistency.",
+    "Remove the pot from the oven and let it cool for 10 minutes before serving.",
+    "Serve the warmly spiced Egyptian lamb tagine hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "clay-pot-cooking",
+    "dairy-free",
+    "gluten-free",
+    "lamb-recipes",
+    "middle-eastern",
+    "pomegranate-molasses"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 37
+  },
+  "slug": "warmly-spiced-egyptian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-egyptian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T13:15:51Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Warmly spiced",
+    "dishForm": "Tagine"
+  }
+}
