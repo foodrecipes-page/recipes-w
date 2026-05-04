@@ -1,0 +1,105 @@
+{
+  "title": "Warm Earthy Spanish Leek Paella Valenciana",
+  "description": "A traditional Spanish dish featuring leeks and other earthy ingredients, this paella is dense and comforting, perfect for a cold evening, and is also anti-inflammatory friendly due to its ingredients.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "leeks",
+      "amount": "2 large",
+      "notes": "white and light green parts only"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "uncooked Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium heat.",
+    "Add the sliced leeks and cook until they are softened and lightly browned.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the smoked paprika and saffron threads and cook for 1 minute.",
+    "Add the Arborio rice and cook for 1-2 minutes, until the rice is coated in the oil and spices.",
+    "Add the vegetable broth, artichoke hearts, cherry tomatoes, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes, until the rice is cooked and the liquid is absorbed.",
+    "Remove the pan from the heat and let it rest, covered, for 5 minutes.",
+    "Serve the paella hot, garnished with chopped fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "healthy",
+    "one-pan",
+    "spanish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "warm-earthy-spanish-leek-paella-valenciana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-earthy-spanish-leek-paella-valenciana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:02:39Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "blanch",
+    "primaryIngredient": "leek",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "leek",
+    "descriptor": "Warm earthy",
+    "dishForm": "Paella Valenciana"
+  }
+}
