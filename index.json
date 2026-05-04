@@ -971,6 +971,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-polish-rye-crumble",
+    "title": "Warm Polish Rye Crumble",
+    "tags": [
+      "comfort-food",
+      "dessert",
+      "rye",
+      "sugar-free-friendly",
+      "warm",
+      "yeasty"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
     "slug": "warm-roasted-algerian-butternut-squash-tagine",
     "title": "Warm Roasted Algerian Butternut Squash Tagine",
     "tags": [

@@ -1,0 +1,94 @@
+{
+  "title": "Warm Polish Rye Crumble",
+  "description": "A yeasty, crunchy comfort dish with dark brown soft sugar and a sugar‑free twist, served warm for a sweet finish.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rye flour",
+      "amount": "250g"
+    },
+    {
+      "name": "Dark brown soft sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "Instant dry yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "Warm milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "50g, melted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1g"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "2g"
+    },
+    {
+      "name": "Stevia",
+      "amount": "1g"
+    },
+    {
+      "name": "Erythritol crystals",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "In a bowl whisk rye flour, baking powder, and salt together.",
+    "In a separate bowl, dissolve yeast in warm milk and let sit 5 minutes until foamy.",
+    "Combine wet and dry mixtures, add melted butter, dark brown soft sugar, stevia, and erythritol crystals, and mix until dough forms.",
+    "Knead the dough on a lightly floured surface for 5 minutes until smooth.",
+    "Place dough in a greased bowl, cover with a damp cloth, and let rise in a warm place for 1 hour.",
+    "Preheat oven to 200°C and line a baking sheet with parchment.",
+    "Punch down the dough, roll into a log, cut into 1 cm thick slices, and arrange on the sheet.",
+    "Bake for 20 minutes until golden and crisp; let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dessert",
+    "rye",
+    "sugar-free-friendly",
+    "warm",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 1530,
+    "protein": 17,
+    "carbs": 220,
+    "fat": 51
+  },
+  "slug": "warm-polish-rye-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-polish-rye-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:51:04Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "spherify",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "rye",
+    "descriptor": "Warm",
+    "dishForm": "Crumble"
+  }
+}
