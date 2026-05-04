@@ -2842,6 +2842,21 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-greek-almond-pasta",
+    "title": "Wholesome Greek Almond Pasta",
+    "tags": [
+      "almond",
+      "lazy-sunday",
+      "mediterranean",
+      "one-pot",
+      "paleo-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 20,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-greek-banana-saganaki",
     "title": "Wholesome Greek Banana Saganaki",
     "tags": [

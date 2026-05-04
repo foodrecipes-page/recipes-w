@@ -1,0 +1,103 @@
+{
+  "title": "Wholesome Greek Almond Pasta",
+  "description": "Fresh, pillowy pasta tossed with almond butter sauce, feta, olives, and herbs for a lazy Sunday Mediterranean feast.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dry pasta",
+      "amount": "340 g"
+    },
+    {
+      "name": "almond butter",
+      "amount": "3 tbsp",
+      "notes": "paleo-friendly"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Kalamata olives, sliced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "feta cheese, crumbled",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring salted water to a boil in a large pot; cook pasta until al dente, about 8-10 minutes.",
+    "While pasta cooks, whisk almond butter, almond milk, lemon juice, olive oil, and 1 tsp salt in a bowl until smooth.",
+    "Reserve 1 cup pasta water; drain pasta and return to pot.",
+    "Pour almond sauce over pasta; toss, adding reserved pasta water a tablespoon at a time until sauce coats noodles.",
+    "Stir in chopped dill, sliced olives, crumbled feta, and spinach; cook for 2 minutes until spinach wilts.",
+    "Season with pepper; adjust salt as needed.",
+    "Plate and drizzle extra olive oil; serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "almond",
+    "lazy-sunday",
+    "mediterranean",
+    "one-pot",
+    "paleo-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "wholesome-greek-almond-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-greek-almond-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:15:24Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "almond essence",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "almonds",
+    "descriptor": "Wholesome",
+    "dishForm": "Pasta"
+  }
+}
