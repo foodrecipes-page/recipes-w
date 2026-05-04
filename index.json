@@ -2872,6 +2872,22 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-german-cheese-salad",
+    "title": "Wholesome German Cheese Salad",
+    "tags": [
+      "cheese-salad",
+      "comfort-food",
+      "dairy",
+      "pickle",
+      "quick",
+      "raw",
+      "vegetarian"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-greek-almond-pasta",
     "title": "Wholesome Greek Almond Pasta",
     "tags": [
@@ -3571,6 +3587,20 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-vietnamese-rice-bake",
+    "title": "Wholesome Vietnamese Rice Bake",
+    "tags": [
+      "comfort-food",
+      "date-night",
+      "low-sodium",
+      "rice-dish",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {

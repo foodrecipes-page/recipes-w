@@ -1,0 +1,109 @@
+{
+  "title": "Wholesome Vietnamese Rice Bake",
+  "description": "A comforting rice bake that blends jasmine rice, low-sodium fish sauce, brown rice syrup, and tender shredded chicken into a sweet and savory dish perfect for a date night.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups cooked",
+      "notes": "cook according to package and fluff with fork"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown rice syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "low-sodium fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shredded cooked chicken",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced carrots",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sliced green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional, use sparingly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "In a large bowl, combine the cooked rice, shredded chicken, diced carrots, sliced green onions, minced garlic, and grated ginger.",
+    "Pour the low-sodium chicken broth into the mixture and stir until the rice is evenly moistened.",
+    "Add the brown rice syrup, low-sodium fish sauce, and lime juice, mixing thoroughly to distribute the flavors.",
+    "Taste and season with a pinch of salt if needed, then transfer the mixture to a greased baking dish.",
+    "Cover the dish with foil and bake for 20 minutes to allow the flavors to meld.",
+    "Remove the foil, sprinkle toasted sesame seeds over the top, and bake uncovered for an additional 10 minutes until the top is lightly browned.",
+    "Let the bake rest for 5 minutes before serving.",
+    "Garnish with extra green onions or lime wedges if desired.",
+    "Serve warm as a satisfying dinner for two or a small family."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "low-sodium",
+    "rice-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 7,
+    "carbs": 70,
+    "fat": 5
+  },
+  "slug": "wholesome-vietnamese-rice-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-vietnamese-rice-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:47:34Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "salt-bake",
+    "primaryIngredient": "rice-syrup-jocheong",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "rice",
+    "descriptor": "Wholesome",
+    "dishForm": "Bake"
+  }
+}

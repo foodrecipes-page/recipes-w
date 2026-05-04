@@ -1,0 +1,97 @@
+{
+  "title": "Wholesome German Cheese Salad",
+  "description": "A resinous, creamy, comforting German dish featuring shredded Mexican cheese, pickles, and fresh veggies, perfect for a quick lunch.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shredded mexican cheese (cheddar)",
+      "amount": "200 g"
+    },
+    {
+      "name": "dill pickles",
+      "amount": "100 g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Dice cucumber and red onion into bite‑size cubes.",
+    "Roughly cut pickles into small pieces and set aside.",
+    "In a bowl, combine shredded cheese, diced cucumber, onion, and pickles.",
+    "Add fresh dill, lemon juice, and olive oil, and gently toss everything together.",
+    "Season with salt and pepper to taste.",
+    "Let the salad rest at room temperature for 10 minutes so flavors mingle.",
+    "Give the salad one final gentle stir before serving.",
+    "Arrange the salad on a platter in a shallow layer for a pleasing presentation.",
+    "Drizzle a little extra olive oil over the top for shine.",
+    "Serve immediately with crusty rye bread on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-salad",
+    "comfort-food",
+    "dairy",
+    "pickle",
+    "quick",
+    "raw",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 4,
+    "fat": 23
+  },
+  "slug": "wholesome-german-cheese-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-german-cheese-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:46:49Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "pickle",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Cheese",
+    "descriptor": "Wholesome",
+    "dishForm": "Salad"
+  }
+}
