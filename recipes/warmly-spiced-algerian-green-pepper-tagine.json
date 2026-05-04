@@ -1,0 +1,106 @@
+{
+  "title": "Warmly Spiced Algerian Green Pepper Tagine",
+  "description": "A briny and cheesy Algerian dish featuring green peppers, perfect for a low glycemic meal, with a rich and spicy flavor profile reminiscent of a monsoon season dish.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic tagine or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is softened and translucent.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the green peppers and cook until they start to soften.",
+    "Add the ground cumin, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Pour in the chicken broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20 minutes, or until the peppers are tender.",
+    "Stir in the crumbled feta cheese and cook until it is melted and the sauce is creamy.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro.",
+    "Traditionally, the tagine is cooked over a low heat for a long period of time, which allows the flavors to meld together and the meat to become tender.",
+    "If using a clay tagine, make sure to soak it in water for 30 minutes before cooking to prevent cracking."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "gluten-free",
+    "low-glycemic",
+    "north-african",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "warmly-spiced-algerian-green-pepper-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-algerian-green-pepper-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:09:03Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "braise",
+    "primaryIngredient": "green pepper",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "green pepper",
+    "descriptor": "Warmly spiced",
+    "dishForm": "Tagine"
+  }
+}
