@@ -1,0 +1,96 @@
+{
+  "title": "Warm Spicy Jamaican Tiger Prawns Gratin",
+  "description": "A spicy and flavorful Jamaican dish featuring tiger prawns, this gratin is a crowd-pleaser that is high in protein and can be served in individual mini cocottes. It is a great option for a weeknight dinner or special occasion.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tiger prawns",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat and saute the garlic and scotch bonnet peppers until fragrant.",
+    "Add the tiger prawns to the skillet and cook until they are pink and just cooked through.",
+    "In a separate saucepan, combine the heavy cream and jamaican jerk seasoning and bring to a simmer over medium heat.",
+    "Reduce the cream sauce by half and stir in the grated cheddar cheese until melted and smooth.",
+    "Butter four individual mini cocottes and divide the cooked prawns among them.",
+    "Pour the cream sauce over the prawns in each cocotte and top with additional grated cheese.",
+    "Bake the gratins in the preheated oven for 10 minutes, or until the cheese is golden and bubbly.",
+    "Garnish with chopped fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gratin",
+    "high-protein",
+    "jamaican",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "warm-spicy-jamaican-tiger-prawns-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-jamaican-tiger-prawns-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:58:57Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "crowd-pleaser",
+    "technique": "score-fat",
+    "primaryIngredient": "tiger prawns",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "tiger prawns",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Gratin"
+  }
+}

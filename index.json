@@ -345,6 +345,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spicy-jamaican-tiger-prawns-gratin",
+    "title": "Warm Spicy Jamaican Tiger Prawns Gratin",
+    "tags": [
+      "gratin",
+      "high-protein",
+      "jamaican",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spicy-saudi-arabian-chicken-tagine",
     "title": "Warm Spicy Saudi Arabian Chicken Tagine",
     "tags": [
@@ -445,6 +460,21 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-shattering-japanese-arabic-rice-japanese-onigiri",
+    "title": "Warmly Shattering Japanese Arabic Rice Onigiri",
+    "tags": [
+      "easy-to-make",
+      "gluten-free",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {

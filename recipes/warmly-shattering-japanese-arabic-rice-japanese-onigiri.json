@@ -1,0 +1,116 @@
+{
+  "title": "Warmly Shattering Japanese Arabic Rice Onigiri",
+  "description": "A low-glycemic-friendly Japanese dish featuring Arabic rice, roasted to perfection and pounded into triangular onigiri shapes.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Arabic rice",
+      "amount": "1 cup",
+      "notes": "preferably short-grain"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "preferably kosher"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Japanese chili flakes",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Roasted sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Mortar and pestle",
+      "amount": null,
+      "notes": "for pounding rice"
+    },
+    {
+      "name": "Triangular onigiri molds",
+      "amount": null,
+      "notes": "for shaping rice"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine Arabic rice, chicken breast, coconut oil, salt, black pepper, and Japanese chili flakes.",
+    "Mix well until the chicken is evenly coated with the spice blend.",
+    "Transfer the mixture to a baking sheet and roast in the preheated oven for 20 minutes.",
+    "Remove the baking sheet from the oven and let it cool slightly.",
+    "Using a mortar and pestle, pound the roasted rice mixture into a fine crumb.",
+    "Add the roasted sesame seeds and chopped scallions to the pounded rice mixture and mix well.",
+    "Divide the rice mixture into 6 equal portions and shape each portion into a triangular onigiri shape using the molds.",
+    "Brush the tops of the onigiri with sesame oil and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "warmly-shattering-japanese-arabic-rice-japanese-onigiri",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-shattering-japanese-arabic-rice-japanese-onigiri",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:59:11Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "arabic rice",
+    "diet": "low-glycemic",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Arabic rice",
+    "descriptor": "Warmly Shattering",
+    "dishForm": "Japanese Onigiri"
+  }
+}
