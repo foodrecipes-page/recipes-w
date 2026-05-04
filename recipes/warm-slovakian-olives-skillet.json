@@ -1,0 +1,114 @@
+{
+  "title": "Warm Slovakian Olives Skillet",
+  "description": "Pungent, springy, romantic dish featuring green olives and fresh vegetables for a comforting skillet meal.",
+  "cuisine": "Slovak",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green olives",
+      "amount": "200g",
+      "notes": "pitted, sliced into halves"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "3",
+      "notes": "medium, diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tbsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat until shimmering.",
+    "Add sliced onion and sauté until translucent, about 3 minutes.",
+    "Stir in minced garlic, red bell pepper, and cook for another 2 minutes until slightly softened.",
+    "Add sliced olives and diced tomatoes, and cook until tomatoes start to break down, about 5 minutes.",
+    "Sprinkle oregano, paprika, salt, and pepper; stir to combine.",
+    "Pour in lemon juice and cook for 2 minutes, allowing the flavors to meld.",
+    "Reduce heat to low, cover, and let the mixture simmer for 8 minutes to develop a rich, fragrant sauce.",
+    "Remove from heat, stir in fresh parsley if using, and serve warm straight from the skillet."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "olive-dish",
+    "one-pan",
+    "quick-skillet",
+    "slovak-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 11,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "warm-slovakian-olives-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-slovakian-olives-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:04:07Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "fry",
+    "primaryIngredient": "green olives",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Olives",
+    "descriptor": "Warm",
+    "dishForm": "Skillet"
+  }
+}
