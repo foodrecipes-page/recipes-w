@@ -1,0 +1,122 @@
+{
+  "title": "Warm Algerian Pistachio Tagine",
+  "description": "A cozy, low‑glycemic tagine packed with tender chicken, chickpeas, and crunchy pistachios, finished in a fragrant banana leaf wrap.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "500g",
+      "notes": "skin removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "200g",
+      "notes": "cooked"
+    },
+    {
+      "name": "pistachios",
+      "amount": "50g",
+      "notes": "shelled"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Prepare a clean banana leaf and cut it into a square large enough to hold the tagine.",
+    "Heat the olive oil in a heavy‑bottom pot over medium heat and sear the chicken thighs until golden brown on all sides.",
+    "Add the diced onion and minced garlic to the pot and cook until the onion softens.",
+    "Stir in cumin, coriander, and cinnamon, sautéing for one minute to release their aromas.",
+    "Mix in the tomato paste and preserved lemon, cooking for another two minutes.",
+    "Pour in the water, add the cooked chickpeas, salt, and pepper, then bring the mixture to a gentle simmer.",
+    "Reduce the heat, cover, and let the tagine cook for 20 minutes to meld the flavors.",
+    "Fold in the shelled pistachios, stirring gently to distribute them evenly.",
+    "Transfer the hot tagine onto the banana leaf, cover the leaf with a lid or another leaf, and steam the dish for 15 minutes to finish cooking.",
+    "Uncover, fluff the mixture with a fork, and serve immediately with a side of whole‑grain bread or quinoa."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "easy-stove",
+    "low-glycemic",
+    "one-pot",
+    "slow-cook",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 405,
+    "protein": 34,
+    "carbs": 13,
+    "fat": 27
+  },
+  "slug": "warm-algerian-pistachio-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-algerian-pistachio-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:59:39Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "rest",
+    "primaryIngredient": "pistachio",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "pistachio",
+    "descriptor": "Warm",
+    "dishForm": "Tagine"
+  }
+}

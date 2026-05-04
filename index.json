@@ -53,6 +53,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-algerian-pistachio-tagine",
+    "title": "Warm Algerian Pistachio Tagine",
+    "tags": [
+      "banana-leaf",
+      "easy-stove",
+      "low-glycemic",
+      "one-pot",
+      "slow-cook",
+      "traditional"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
     "slug": "warm-american-cabbage-pasta",
     "title": "Warm American Cabbage Pasta",
     "tags": [
