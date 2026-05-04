@@ -1,0 +1,96 @@
+{
+  "title": "Wholesome Irish Potato Dumplings",
+  "description": "A peppery, dense, energizing Irish dish that packs starch power into fluffy dumplings, perfect for a fondue pot lunch.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "1 kg",
+      "notes": "peeled and boiled"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Milk",
+      "amount": "120 ml"
+    },
+    {
+      "name": "Frozen peas",
+      "amount": "150 g"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes until tender and mash them until smooth.",
+    "Add flour, baking powder, salt, pepper, and smoked paprika to the mash and mix until a dough forms.",
+    "Fold in butter, milk, peas, and parsley until the dough is cohesive and slightly sticky.",
+    "Shape the dough into small dumplings about the size of a walnut.",
+    "Place the dumplings into a preheated fondue pot and cook for about 20 minutes, turning occasionally until golden brown."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dense",
+    "energizing",
+    "fondue-pot",
+    "irish",
+    "peppery",
+    "potato-dumplings",
+    "starch-rich"
+  ],
+  "nutrition": {
+    "calories": 525,
+    "protein": 12,
+    "carbs": 66,
+    "fat": 7
+  },
+  "slug": "wholesome-irish-potato-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-irish-potato-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:15:58Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "dum",
+    "primaryIngredient": "starch",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potato",
+    "descriptor": "Wholesome",
+    "dishForm": "Dumplings"
+  }
+}

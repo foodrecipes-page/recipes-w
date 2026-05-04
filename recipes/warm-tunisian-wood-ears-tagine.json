@@ -1,0 +1,108 @@
+{
+  "title": "Warm Tunisian Wood Ears Tagine",
+  "description": "A buttery, molten Tunisian tagine featuring wood ear mushrooms in a fragrant, sugar-free sauce, perfect for a show‑off dinner.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wood ear mushrooms",
+      "amount": "200g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "30g",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Soak wood ear mushrooms in warm water for 20 minutes, then drain and slice into bite‑size pieces.",
+    "Heat olive oil in a tagine over medium heat and add butter, letting it melt.",
+    "Stir in tomato paste, cumin, coriander, and smoked paprika until the mixture becomes fragrant.",
+    "Pour in vegetable broth and bring to a gentle simmer, then add the sliced wood ears.",
+    "Cook the mixture for 20 minutes, allowing the mushrooms to soften and absorb the spices.",
+    "Add lemon juice, chopped parsley, salt, and pepper, and simmer for an additional 5 minutes.",
+    "Taste and adjust seasoning if needed, then remove from heat.",
+    "Serve the tagine hot, spooning the molten sauce over couscous or crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "no-sugar",
+    "stew",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "warm-tunisian-wood-ears-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-tunisian-wood-ears-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:15:12Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "salt-bake",
+    "primaryIngredient": "wood ear mushrooms",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "wood ears",
+    "descriptor": "Warm",
+    "dishForm": "Tagine"
+  }
+}

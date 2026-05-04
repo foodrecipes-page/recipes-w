@@ -1417,6 +1417,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-tunisian-wood-ears-tagine",
+    "title": "Warm Tunisian Wood Ears Tagine",
+    "tags": [
+      "gluten-free",
+      "low-carb",
+      "no-sugar",
+      "stew",
+      "tunisian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-velvety-mediterranean-eggplant-wrap",
     "title": "Warm Velvety Mediterranean Eggplant Wrap",
     "tags": [
@@ -1591,6 +1605,21 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-charred-portuguese-fish-bowl",
+    "title": "Warmly Charred Portuguese Fish Bowl",
+    "tags": [
+      "keto-friendly",
+      "low-carb",
+      "portuguese-cuisine",
+      "seafood",
+      "single-serving",
+      "stone-bowl"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -2253,6 +2282,22 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-irish-potato-dumplings",
+    "title": "Wholesome Irish Potato Dumplings",
+    "tags": [
+      "dense",
+      "energizing",
+      "fondue-pot",
+      "irish",
+      "peppery",
+      "potato-dumplings",
+      "starch-rich"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {

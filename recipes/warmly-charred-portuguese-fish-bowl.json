@@ -1,0 +1,100 @@
+{
+  "title": "Warmly Charred Portuguese Fish Bowl",
+  "description": "A charred and silky Portuguese dish featuring allspice, served in a dolsot stone bowl, perfect for a solo dinner",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillet",
+      "amount": "6 oz",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "dum",
+      "amount": "2 tbsp",
+      "notes": "or other low-carb sweetener"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the dolsot stone bowl in the oven at 400 degrees Fahrenheit for 10 minutes",
+    "Season the cod fillet with salt, black pepper, and allspice",
+    "Heat the olive oil in a skillet over medium-high heat and sear the cod fillet for 2-3 minutes on each side",
+    "Transfer the cod fillet to the preheated dolsot stone bowl",
+    "Drizzle the lemon juice and dum over the cod fillet",
+    "Sprinkle the minced garlic and chopped parsley over the top",
+    "Return the dolsot stone bowl to the oven and cook for an additional 5 minutes",
+    "Remove the dolsot stone bowl from the oven and let it cool for a minute or two",
+    "Serve the warmly charred Portuguese fish bowl immediately"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "portuguese-cuisine",
+    "seafood",
+    "single-serving",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "warmly-charred-portuguese-fish-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-charred-portuguese-fish-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:15:39Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "dum",
+    "primaryIngredient": "allspice",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "fish",
+    "descriptor": "Warmly charred",
+    "dishForm": "Bowl"
+  }
+}
