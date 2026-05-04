@@ -1,0 +1,113 @@
+{
+  "title": "Wholesome Korean Yautia Stew",
+  "description": "A cultured, silky stew that blends yautia, fermented soybean paste, and fresh vegetables for a lazy Sunday comfort dish.",
+  "cuisine": "Korean-American",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yautia",
+      "amount": "300g"
+    },
+    {
+      "name": "Firm tofu",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "White button mushrooms",
+      "amount": "100g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Spinach",
+      "amount": "100g"
+    },
+    {
+      "name": "Green onion",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Fermented soybean paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Low-sodium vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pot over medium heat.",
+    "Add minced garlic and ginger, sauté until fragrant.",
+    "Stir in fermented soybean paste and cook for one minute.",
+    "Pour in the vegetable broth and bring to a gentle simmer.",
+    "Add diced yautia and sliced mushrooms, simmer for 10 minutes.",
+    "Add the cubed tofu, spinach, and green onion, cover and simmer for another 5 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Let the stew rest for 3 minutes before serving.",
+    "Serve hot, garnished with a sprinkle of sesame seeds if desired.",
+    "Enjoy your wholesome, low-carb Korean yautia stew."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "fermented",
+    "korean",
+    "lazy-sunday",
+    "low-carb",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 705,
+    "protein": 35,
+    "carbs": 88,
+    "fat": 28
+  },
+  "slug": "wholesome-korean-yautia-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-korean-yautia-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:10:11Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "ferment-jang",
+    "primaryIngredient": "yautia",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Yautia",
+    "descriptor": "Wholesome",
+    "dishForm": "Stew"
+  }
+}
