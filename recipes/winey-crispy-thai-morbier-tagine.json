@@ -1,0 +1,105 @@
+{
+  "title": "Winey Crispy Thai Morbier Tagine",
+  "description": "A quick and aromatic weeknight dish that marries the sharpness of Morbier cheese with the bright flavors of Thai cuisine, finished in a winey, crispy tagine.",
+  "cuisine": "Thai",
+  "diet": [
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Morbier cheese",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "50ml"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "240ml",
+      "notes": "canned"
+    },
+    {
+      "name": "Coconut aminos",
+      "amount": "15ml"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "10g",
+      "notes": "grated"
+    },
+    {
+      "name": "Fresh lemongrass",
+      "amount": "1 stalk",
+      "notes": "minced"
+    },
+    {
+      "name": "Kaffir lime leaves",
+      "amount": "2",
+      "notes": "torn"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "Fresh coriander leaves",
+      "amount": "15g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Marinate the cheese slices in white wine for 15 minutes.",
+    "Heat olive oil in a tagine or heavy skillet over medium-high until shimmering.",
+    "Place the cheese slices in the hot oil and sear until golden and crispy on both sides, then remove and set aside.",
+    "Add ginger, lemongrass, and kaffir lime leaves to the same pan and sauté for 1 minute.",
+    "Pour in coconut milk, coconut aminos, and lime juice, and bring to a gentle simmer.",
+    "Return the cheese slices to the pan and simmer for 3 minutes, allowing the flavors to meld.",
+    "Stir in fresh coriander leaves and remove the pan from heat.",
+    "Serve the dish hot, garnished with extra coriander and a wedge of lime if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "crispy",
+    "one-pan",
+    "sattvic",
+    "thai",
+    "weeknight",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 22,
+    "carbs": 9,
+    "fat": 50
+  },
+  "slug": "winey-crispy-thai-morbier-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-crispy-thai-morbier-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:01:23Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "tagine-cook",
+    "primaryIngredient": "morbier",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Morbier",
+    "descriptor": "Winey Crispy",
+    "dishForm": "Tagine"
+  }
+}
