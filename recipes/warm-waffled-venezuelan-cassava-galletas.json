@@ -1,0 +1,91 @@
+{
+  "title": "Warm Waffled Venezuelan Cassava Galletas",
+  "description": "Fatty, pillowy Venezuelan cassava cookies steamed in banana leaves, then topped with caramel. Raw-friendly version without steaming.",
+  "cuisine": "venezuelan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cassava flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "graham cracker crumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "milk",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a waffle iron to medium heat.",
+    "In a large bowl, whisk together cassava flour and graham cracker crumbs.",
+    "Add softened butter to the dry ingredients, then use a pastry blender or your fingers to work it into a crumbly mixture.",
+    "In a separate bowl, whisk together sugar, egg, vanilla extract, and milk.",
+    "Pour the wet ingredients into the crumbly mixture and stir until combined.",
+    "Divide the dough into 4 portions and shape each portion into a ball.",
+    "Place each ball of dough onto the waffle iron and cook for 2 minutes.",
+    "Once cooked, carefully transfer the waffles to a wire rack to cool slightly.",
+    "Drizzle a small amount of caramel sauce onto each waffle, allowing it to set for a few seconds.",
+    "Fold the waffles in half and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cassava",
+    "comfort-food",
+    "latin-american",
+    "raw-friendly",
+    "waffles",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "warm-waffled-venezuelan-cassava-galletas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-waffled-venezuelan-cassava-galletas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:37:21Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "caramel",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Cassava",
+    "descriptor": "Warm Waffled",
+    "dishForm": "Galletas"
+  }
+}
