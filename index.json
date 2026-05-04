@@ -870,6 +870,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spicy-malaysian-chicken-satay",
+    "title": "Warm Spicy Malaysian Chicken Satay",
+    "tags": [
+      "grilled-chicken",
+      "halal-friendly",
+      "malaysian-cuisine",
+      "romantic-dinner",
+      "spicy-food"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spicy-middle-eastern-lamb-kebabs",
     "title": "Warm Spicy Middle Eastern Lamb Kebabs",
     "tags": [
