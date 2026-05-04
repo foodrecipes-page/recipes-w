@@ -1,0 +1,103 @@
+{
+  "title": "Warm Spiced Croatian Lamb Tagine",
+  "description": "A hearty and aromatic Croatian dish featuring lamb, citrus, and dark rum, cooked to perfection in an earthenware bowl, FODMAP friendly.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "low-lactose"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "dark rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic-free spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat the olive oil in the earthenware bowl over medium heat.",
+    "Add the lamb pieces and cook until browned on all sides.",
+    "Add the onion and cook until softened.",
+    "Add the garlic-free spice blend, thyme, salt, and pepper, and cook for 1 minute.",
+    "Add the dark rum, lemon juice, and chicken broth, and stir to combine.",
+    "Cover the bowl with a lid and transfer to the preheated oven.",
+    "Cook for 2.5 hours, or until the lamb is tender.",
+    "Remove the bowl from the oven and let cool for 10 minutes.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crock-pot",
+    "lamb-recipes",
+    "mediterranean",
+    "one-pot",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 34
+  },
+  "slug": "warm-spiced-croatian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spiced-croatian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:22:23Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "tagine-cook",
+    "primaryIngredient": "dark rum",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Spiced",
+    "dishForm": "Tagine"
+  }
+}
