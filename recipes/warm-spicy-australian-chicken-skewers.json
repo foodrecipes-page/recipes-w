@@ -1,0 +1,102 @@
+{
+  "title": "Warm Spicy Australian Chicken Skewers",
+  "description": "A weeknight Australian dish featuring gochujang and tempering chocolate, this recipe is low-carb-friendly and perfect for a quick dinner. The combination of floral and gooey flavors will leave you wanting more.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 ounce"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together gochujang, tempering chocolate, coconut milk, lemon juice, garlic, ginger, salt, and pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the chicken onto the bamboo skewers.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Let the skewers rest for 2 minutes before serving.",
+    "Serve the skewers warm, garnished with fresh cilantro if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "grilled-chicken",
+    "low-carb",
+    "quick-dinner",
+    "spicy-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "warm-spicy-australian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-australian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:31:10Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "gochujang",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Skewers"
+  }
+}

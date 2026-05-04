@@ -430,6 +430,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spicy-australian-chicken-skewers",
+    "title": "Warm Spicy Australian Chicken Skewers",
+    "tags": [
+      "australian-cuisine",
+      "grilled-chicken",
+      "low-carb",
+      "quick-dinner",
+      "spicy-food",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 32,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spicy-indian-lamb-curry",
     "title": "Warm Spicy Indian Lamb Curry",
     "tags": [
