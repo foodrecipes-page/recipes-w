@@ -1,0 +1,101 @@
+{
+  "title": "tunisian pork knuckle grill",
+  "description": "shattering pork knuckle grilled with tunisian spices, served with a side of roasted vegetables. a kid-friendly dish perfect for a quick dinner.",
+  "cuisine": "tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork knuckle",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "preheat the grill to medium-high heat.",
+    "season the pork knuckle with salt, black pepper, paprika, cumin, coriander, and minced garlic.",
+    "in a small bowl, whisk together olive oil, lemon juice, and sliced ginger.",
+    "brush the mixture evenly over the pork knuckle, making sure to coat all surfaces.",
+    "place the pork knuckle on the grill and cook for 5 minutes per side, or until it reaches an internal temperature of 160f.",
+    "let the pork knuckle rest for 5 minutes before slicing it into thin pieces, or 'sashimi-cut'.",
+    "serve with a side of roasted vegetables, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "grilled-meat",
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 4,
+    "fat": 38
+  },
+  "slug": "warm-and-shattering-tunisian-pork-knuckle-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-and-shattering-tunisian-pork-knuckle-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:16:53Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "pork knuckle",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Pork knuckle",
+    "descriptor": "Warm and shattering",
+    "dishForm": "Grill"
+  }
+}

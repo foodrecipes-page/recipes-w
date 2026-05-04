@@ -38,6 +38,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-and-shattering-tunisian-pork-knuckle-grill",
+    "title": "tunisian pork knuckle grill",
+    "tags": [
+      "easy-to-make",
+      "grilled-meat",
+      "high-protein",
+      "kid-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-buttery-moroccan-chicken-tagine",
     "title": "Warm Buttery Moroccan Chicken Tagine",
     "tags": [
@@ -593,6 +608,20 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-italian-cassava-pesto",
+    "title": "Wholesome Italian Cassava Pesto",
+    "tags": [
+      "low-carb",
+      "pesto",
+      "scallop-shell",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {

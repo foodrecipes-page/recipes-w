@@ -1,0 +1,103 @@
+{
+  "title": "Wholesome Italian Cassava Pesto",
+  "description": "A jammy, dense pesto built around mashed cassava, basil, pine nuts, and parmesan, served in scallop shells for a stylish, low-carb Italian twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-carb",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cassava",
+      "amount": "1 cup cooked",
+      "notes": "mashed"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup grated",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Boil the cassava peeled and quartered in salted water until tender, about 20 minutes.",
+    "Drain the cassava and mash it with a fork until smooth.",
+    "In a food processor, combine the mashed cassava, basil, pine nuts, parmesan, and garlic.",
+    "Pulse until a coarse paste forms, then add the olive oil and lemon juice in a steady stream.",
+    "Season with salt and pepper to taste.",
+    "Transfer the pesto to a shallow scallop shell for serving.",
+    "Serve immediately, or refrigerate for up to 48 hours.",
+    "Enjoy as a punchy lunch dish or side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "pesto",
+    "scallop-shell",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 951,
+    "protein": 18,
+    "carbs": 47,
+    "fat": 81
+  },
+  "slug": "wholesome-italian-cassava-pesto",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-italian-cassava-pesto",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:17:34Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "cassaba",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "cassava",
+    "descriptor": "Wholesome",
+    "dishForm": "Pesto"
+  }
+}
