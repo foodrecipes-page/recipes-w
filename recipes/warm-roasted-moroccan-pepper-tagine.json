@@ -1,0 +1,121 @@
+{
+  "title": "Warm Roasted Moroccan Pepper Tagine",
+  "description": "A sweet and crispy Moroccan dish featuring roasted peppers, perfect for a low-sodium friendly meal on a rainy day.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red bell peppers",
+      "amount": "4",
+      "notes": "any color bell peppers will work"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "unsalted, low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a neutral-tasting oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "use a low-sodium salt or omit for a salt-free option"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Cut the bell peppers in half and remove the seeds and membranes.",
+    "Place the peppers on a baking sheet lined with parchment paper and drizzle with 1 tablespoon of olive oil.",
+    "Roast the peppers in the oven for 30 minutes, or until the skin is blistered and charred.",
+    "Remove the peppers from the oven and let them cool down.",
+    "Peel the peppers and chop them into large pieces.",
+    "In a large saucepan, heat the remaining 1 tablespoon of olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional 1 minute.",
+    "Stir in the cumin, coriander, and cayenne pepper (if using).",
+    "Add the crushed tomatoes and salt (if using).",
+    "Bring the mixture to a simmer and let it cook for 10-15 minutes, stirring occasionally.",
+    "Add the roasted peppers to the saucepan and stir to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the tagine hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "low-sodium",
+    "moroccan",
+    "one-pan",
+    "rainy-day",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "warm-roasted-moroccan-pepper-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-roasted-moroccan-pepper-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T16:17:07Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "reduce",
+    "primaryIngredient": "roasted pepper",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "pepper",
+    "descriptor": "Warm Roasted",
+    "dishForm": "Tagine"
+  }
+}
