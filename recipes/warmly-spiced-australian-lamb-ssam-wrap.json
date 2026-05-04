@@ -1,0 +1,93 @@
+{
+  "title": "Warmly Spiced Australian Lamb Ssam Wrap",
+  "description": "A floral and snappy Australian dish featuring lamb, malt vinegar, and a low-carb friendly ssam wrap, served on a bamboo tray.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ssam wraps",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb shoulder with cumin, paprika, salt, and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, then transfer to the oven.",
+    "Roast the lamb shoulder in the oven for 2 hours, or until tender.",
+    "Let the lamb rest for 10 minutes before slicing into thin strips.",
+    "In a small bowl, whisk together the malt vinegar, garlic, and ginger.",
+    "Brush the ssam wraps with the malt vinegar mixture.",
+    "Assemble the ssam wraps by placing a few slices of the lamb onto each wrap."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "comfort-food",
+    "lamb-recipes",
+    "low-carb",
+    "ssam-wraps"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "warmly-spiced-australian-lamb-ssam-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-australian-lamb-ssam-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:13:30Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "malt vinegar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "Warmly spiced",
+    "dishForm": "Wrap"
+  }
+}
