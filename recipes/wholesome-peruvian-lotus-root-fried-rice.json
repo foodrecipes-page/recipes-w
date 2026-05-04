@@ -1,0 +1,111 @@
+{
+  "title": "Wholesome Peruvian Lotus Root Fried Rice",
+  "description": "A quick, resinous fried rice that blends crunchy lotus root with savory chicken and Peruvian spices, finished on a robata grill for a smoky finish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "paleo",
+    "rajasic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lotus root",
+      "amount": "1 cup, diced",
+      "notes": "fresh, cut into 1/4-inch cubes"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups, cooled",
+      "notes": "use day-old rice for best texture"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "200g, diced",
+      "notes": "skinless, cut into bite size"
+    },
+    {
+      "name": "scallion",
+      "amount": "2 stalks, sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp, grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime",
+      "amount": "1, juiced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok over medium-high heat until shimmering.",
+    "Add diced lotus root and stir-fry for 4-5 minutes until lightly browned and tender.",
+    "Push lotus root to side, add diced chicken, and cook until pink inside, about 3-4 minutes.",
+    "Add minced garlic, grated ginger, and sliced scallions, stir for 30 seconds until fragrant.",
+    "Add cooled jasmine rice, breaking clumps with a spatula, and stir for 2 minutes.",
+    "Drizzle soy sauce, sesame oil, and lime juice, then toss to coat evenly.",
+    "Sprinkle pepper, stir, and cook for an additional 2 minutes until everything is heated through.",
+    "Transfer the mixture onto a preheated robata grill and sear each side for 30 seconds to impart a smoky char.",
+    "Remove from grill, fold in chopped cilantro, and adjust seasoning if needed.",
+    "Serve hot, optionally accompanied by a side of lime wedges."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 13,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "one-pan",
+    "paleo-friendly",
+    "quick-fix",
+    "robata-grill"
+  ],
+  "nutrition": {
+    "calories": 293,
+    "protein": 10,
+    "carbs": 32,
+    "fat": 9
+  },
+  "slug": "wholesome-peruvian-lotus-root-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-peruvian-lotus-root-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:32:24Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "robata-grill",
+    "primaryIngredient": "renkon-lotus-root",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Lotus Root",
+    "descriptor": "Wholesome",
+    "dishForm": "Fried Rice"
+  }
+}
