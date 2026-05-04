@@ -1,0 +1,118 @@
+{
+  "title": "warm flaky brunch portuguese tomato bake",
+  "description": "A resinous, flaky brunch-mood portuguese dish featuring tomato ketchup. Perfect for a hot stone plate.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "chilled and cut into small pieces"
+    },
+    {
+      "name": "milk",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "minced onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tomato ketchup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large mixing bowl, combine the flour, salt, and black pepper.",
+    "Add the chilled butter to the dry ingredients and use a pastry blender or your fingers to work it into the flour until the mixture resembles coarse crumbs.",
+    "Add the milk and eggs to the bowl and stir the mixture until it forms a shaggy dough.",
+    "Turn the dough out onto a lightly floured surface and knead it a few times until it becomes smooth and pliable.",
+    "Roll the dough out to a thickness of about 1/8 inch.",
+    "Transfer the dough to a hot stone plate or baking sheet.",
+    "Spread the crushed tomatoes over the center of the dough, leaving a 1-inch border around the edges.",
+    "Drizzle the tomato ketchup over the tomatoes and sprinkle with minced onion and minced garlic.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Bake the tart in the preheated oven for 25-30 minutes, or until the crust is golden brown and the filling is hot and bubbly.",
+    "Remove the tart from the oven and sprinkle with chopped parsley.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "high-fiber",
+    "jain",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "warm-flaky-brunch-portuguese-tomato-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-flaky-brunch-portuguese-tomato-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:56Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "dehydrate",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "tomato",
+    "descriptor": "warm flaky brunch",
+    "dishForm": "bake"
+  }
+}
