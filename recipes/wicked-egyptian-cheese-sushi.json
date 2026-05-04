@@ -1,0 +1,92 @@
+{
+  "title": "Wicked Egyptian Cheese Sushi",
+  "description": "A pungent, light brunch indulgence combining sweet gorgonzola with crisp cucumber and fragrant herbs, formed into sushi‑style nigiri for a raw‑friendly delight.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "gorgonzola-dolce",
+      "amount": "100g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and sliced into thin rounds"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Scoop 150g of gorgonzola-dolce into a shallow dish and let it soften at room temperature for 10 minutes.",
+    "Thinly slice the cucumber into 1‑mm thick rounds using a mandoline or sharp knife.",
+    "In a small bowl whisk together parsley, mint, lemon zest, olive oil, salt, pepper and rice vinegar to make a quick herb dressing.",
+    "Place a cucumber slice on a flat plate and spread a thin layer of the herb dressing over it.",
+    "Drop 30g of softened gorgonzola onto the cucumber and press lightly with a spoon to form a small mound.",
+    "Repeat the cucumber and cheese layering until you have used all the cheese and cucumber, creating about 8 sushi pieces.",
+    "Serve immediately, optionally garnishing with extra herbs or a drizzle of olive oil.",
+    "Enjoy the raw, creamy flavor that combines Egyptian herbs with French cheese for a quirky brunch treat."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "egyptian",
+    "breakfast"
+  ],
+  "slug": "wicked-egyptian-cheese-sushi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wicked-egyptian-cheese-sushi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:46:42Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "gorgonzola-dolce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Wicked",
+    "dishForm": "Sushi"
+  }
+}

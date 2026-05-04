@@ -1150,6 +1150,17 @@
     "shard": "w"
   },
   {
+    "slug": "wicked-egyptian-cheese-sushi",
+    "title": "Wicked Egyptian Cheese Sushi",
+    "tags": [
+      "egyptian",
+      "breakfast"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "wicked-irish-cod-skillet",
     "title": "Wicked Irish Cod Skillet",
     "tags": [
