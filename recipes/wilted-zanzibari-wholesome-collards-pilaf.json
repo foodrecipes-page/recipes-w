@@ -1,0 +1,87 @@
+{
+  "title": "Wilted Zanzibari Wholesome Collards Pilaf",
+  "description": "A light and romantic Malayan dish featuring collards with a tangy sauce, served as an aromatic side or light meal.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup fresh collard greens",
+      "amount": ""
+    },
+    {
+      "name": "2 garlic cloves",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "3 tablespoons fish sauce (or soy sauce for lacto-vegetarian option)",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "2 cups jasmine rice",
+      "amount": ""
+    },
+    {
+      "name": "3 tablespoons butter or coconut oil",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of red chili flakes (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Wash and chop collard greens into bite-sized pieces.",
+    "In a small mixing bowl, combine minced garlic, fish sauce, lime juice, salt, and optional red chili flakes. Mix well.",
+    "Add chopped collards to the garlic mixture and toss gently to coat.",
+    "Rinse rice thoroughly under cold water and drain completely.",
+    "Heat butter or coconut oil in a pot over medium heat. Add rinsed rice and stir for about 2 minutes until translucent.",
+    "Pour the lime green mixture over the hot rice, mixing well to evenly distribute ingredients.",
+    "Cover with a lid and let cook on low-medium heat for 15-20 minutes, or until water is absorbed and rice is fluffy.",
+    "Serve hot as a side dish or lightly dressed with a little bit of fresh cilantro leaves."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "light",
+    "malaysian",
+    "romantic",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 269,
+    "protein": 8,
+    "carbs": 33,
+    "fat": 10
+  },
+  "slug": "wilted-zanzibari-wholesome-collards-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-zanzibari-wholesome-collards-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T22:41:44Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "lamination-puff",
+    "primaryIngredient": "collards",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "collards",
+    "descriptor": "Wholesome",
+    "dishForm": "Pilaf"
+  }
+}
