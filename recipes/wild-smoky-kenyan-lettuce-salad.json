@@ -1,0 +1,119 @@
+{
+  "title": "Wild Smoky Kenyan Lettuce Salad",
+  "description": "A smoky, light Kenyan-inspired salad featuring crisp iceberg lettuce and a lacquer glaze. Perfect for a solo dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Iceberg lettuce",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Roasted chickpeas",
+      "amount": "1 cup",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/2 tsp",
+      "notes": "fine"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lacquer glaze",
+      "amount": "1 tbsp",
+      "notes": "syrupy"
+    }
+  ],
+  "instructions": [
+    "Rinse the iceberg lettuce under cold water, pat dry, and chop into bite-size pieces.",
+    "In a mixing bowl, combine the diced avocado, halved cherry tomatoes, and sliced red onion, then toss gently.",
+    "Spread the chopped lettuce into a large bowl and fold in the avocado mixture.",
+    "Add the roasted chickpeas, sprinkle the smoked paprika, sea salt, and black pepper, then toss to coat evenly.",
+    "Drizzle the olive oil and fresh lime juice over the salad, stirring until the greens are lightly coated.",
+    "Sprinkle chopped cilantro over the top for a fresh herbal note.",
+    "Drizzle the lacquer glaze over the salad, letting it pool slightly on the surface.",
+    "Serve immediately, allowing the glaze to give a subtle glossy finish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "low-carb",
+    "quick",
+    "smoky",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 495,
+    "protein": 10,
+    "carbs": 43,
+    "fat": 27
+  },
+  "slug": "wild-smoky-kenyan-lettuce-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wild-smoky-kenyan-lettuce-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:59:07Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Lettuce",
+    "descriptor": "Wild Smoky",
+    "dishForm": "Salad"
+  }
+}
