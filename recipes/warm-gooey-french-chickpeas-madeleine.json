@@ -1,0 +1,95 @@
+{
+  "title": "Warm Gooey French Chickpeas Madeleine",
+  "description": "A cultured, gooey, show-off French dish featuring chickpeas, tandoor, and dairy-free-friendly ingredients in a madeleine form, perfect for a unique snack or dessert.",
+  "cuisine": "French",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned, drained, and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "aquafaba",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "madeleine molds",
+      "amount": "12",
+      "notes": "non-stick"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender or food processor, combine chickpeas, olive oil, tandoor spice mix, lemon juice, and maple syrup, and blend until smooth.",
+    "In a separate bowl, whip the aquafaba until stiff peaks form.",
+    "Gently fold the aquafaba into the chickpea mixture until well combined.",
+    "Pour the mixture into the madeleine molds, filling them about 3/4 of the way full.",
+    "Bake for 20 minutes, or until the edges are lightly golden brown.",
+    "Remove from the oven and let cool in the molds for 5 minutes.",
+    "Transfer the madeleines to a wire rack to cool completely.",
+    "Serve warm, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "chickpea-recipes",
+    "dairy-free",
+    "french-inspiration",
+    "madeleine",
+    "snack-time",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "warm-gooey-french-chickpeas-madeleine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-gooey-french-chickpeas-madeleine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:02:24Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "tandoor",
+    "primaryIngredient": "chickpeas",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Warm Gooey",
+    "dishForm": "Madeleine"
+  }
+}
