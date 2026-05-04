@@ -1,0 +1,107 @@
+{
+  "title": "Warm Spicy Chinese Chicken Noodles",
+  "description": "A jammy, springy, lazy-sunday Chinese dish featuring dried chillies and a deglaze-fond, suitable for diabetics. This dish is best served on a lazy-susan-spinner for a fun and interactive meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "dried chillies",
+      "amount": "4-6",
+      "notes": "crushed or 1 teaspoon chilli flakes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "rice noodles or low-carb alternative"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the crushed dried chillies to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the soy sauce to the skillet and stir to combine, scraping up any browned bits from the bottom of the pan.",
+    "Add the cooked noodles to the skillet and stir to combine with the sauce.",
+    "Return the chicken to the skillet and stir to combine with the noodles and sauce.",
+    "Season with salt to taste.",
+    "Drizzle with sesame oil and sprinkle with chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "diabetic-friendly",
+    "lazy-sunday",
+    "noodle-dish",
+    "one-pan",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "warm-spicy-chinese-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-chinese-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:42:10Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "dried chillies",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chicken",
+    "descriptor": "warm spicy",
+    "dishForm": "Noodles"
+  }
+}

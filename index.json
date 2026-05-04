@@ -1136,6 +1136,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spicy-chinese-chicken-noodles",
+    "title": "Warm Spicy Chinese Chicken Noodles",
+    "tags": [
+      "chinese-food",
+      "diabetic-friendly",
+      "lazy-sunday",
+      "noodle-dish",
+      "one-pan",
+      "spicy"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spicy-indian-lamb-curry",
     "title": "Warm Spicy Indian Lamb Curry",
     "tags": [
