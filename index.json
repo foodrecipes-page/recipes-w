@@ -2743,6 +2743,20 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-saudi-lettuce-salad",
+    "title": "Wholesome Saudi Lettuce Salad",
+    "tags": [
+      "healthy",
+      "low-calorie",
+      "quick",
+      "saudi-arabian",
+      "vegan"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-smoky-canadian-tofu-bowl",
     "title": "Wholesome Smoky Canadian Tofu Bowl",
     "tags": [
@@ -3101,6 +3115,21 @@
     ],
     "cuisine": "ukrainian",
     "totalTimeMin": 18,
+    "shard": "w"
+  },
+  {
+    "slug": "wilted-crumbly-portuguese-strawberries-tart",
+    "title": "wilted crumbly portuguese strawberries tart",
+    "tags": [
+      "desserts",
+      "gluten-free",
+      "one-pan",
+      "portuguese-cuisine",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 73,
     "shard": "w"
   },
   {

@@ -1,0 +1,98 @@
+{
+  "title": "Wholesome Saudi Lettuce Salad",
+  "description": "A winey, aerated lentil salad bursting with little gem lettuce, a fragrant bhuna spice rub, and a light citrus dressing perfect for a sick‑day boost.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-calorie",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "little gem lettuce",
+      "amount": "200g"
+    },
+    {
+      "name": "green lentils",
+      "amount": "100g"
+    },
+    {
+      "name": "red onion",
+      "amount": "50g"
+    },
+    {
+      "name": "roasted chickpeas",
+      "amount": "50g"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and cook them in salted water until tender, about 15 minutes, then drain and cool.",
+    "Toast the chickpeas in a dry pan until golden and sprinkle with a pinch of sea salt.",
+    "In a small bowl whisk the lemon juice, olive oil, cumin, coriander, smoked paprika, and a splash of white wine vinegar.",
+    "Toss the cooled lentils, chickpeas, and diced red onion in the dressing until evenly coated.",
+    "Sprinkle the bhuna spice blend over the mixture and gently stir to distribute the aroma.",
+    "Arrange the little gem lettuce on a platter and spoon the lentil mixture over the greens.",
+    "Drizzle a thin stream of dressing over the top and lightly pat the lettuce.",
+    "Serve chilled or at room temperature, garnished with a dusting of sea salt."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "low-calorie",
+    "quick",
+    "saudi-arabian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 11,
+    "carbs": 36,
+    "fat": 6
+  },
+  "slug": "wholesome-saudi-lettuce-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-saudi-lettuce-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:11:56Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "aerated",
+    "mood": "sick-day",
+    "technique": "bhuna",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "lettuce",
+    "descriptor": "Wholesome",
+    "dishForm": "Salad"
+  }
+}

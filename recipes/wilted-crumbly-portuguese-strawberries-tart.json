@@ -1,0 +1,104 @@
+{
+  "title": "wilted crumbly portuguese strawberries tart",
+  "description": "nutty, crumbly, adventurous portuguese dish featuring strawberries, deglaze-fond, jain-friendly",
+  "cuisine": "portuguese",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "100g",
+      "notes": "softened"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "25g",
+      "notes": ""
+    },
+    {
+      "name": "fresh strawberries",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "port wine",
+      "amount": "60ml",
+      "notes": "degazed"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "5g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, combine almond flour, caster sugar, and dried thyme; stir well.",
+    "Add softened butter to the bowl and mix until the mixture resembles coarse crumbs.",
+    "In a separate bowl, whisk together egg and honey.",
+    "Pour the egg mixture over the almond flour mixture and stir until a dough is formed.",
+    "Wrap the dough in plastic wrap and refrigerate for 30 minutes.",
+    "Preheat the oven to 180°C and roll out the dough to a thickness of 0.5 cm.",
+    "Transfer the dough to a 20cm tart pan with a removable bottom.",
+    "Bake for 18 minutes or until golden brown.",
+    "Remove from the oven and allow to cool for 5 minutes.",
+    "Slice the strawberries and arrange them over the cooled tart base.",
+    "Return to the oven and bake for a further 10 minutes or until strawberries are tender.",
+    "Deglaze the pan with port wine and brush over the strawberries."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 28,
+  "totalTimeMin": 73,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "desserts",
+    "gluten-free",
+    "one-pan",
+    "portuguese-cuisine",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "wilted-crumbly-portuguese-strawberries-tart",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-crumbly-portuguese-strawberries-tart",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T09:11:08Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "strawberries",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "strawberries",
+    "descriptor": "wilted crumbly",
+    "dishForm": "tart"
+  }
+}
