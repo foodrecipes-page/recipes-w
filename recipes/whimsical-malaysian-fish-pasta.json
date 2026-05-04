@@ -1,0 +1,106 @@
+{
+  "title": "Whimsical Malaysian Fish Pasta",
+  "description": "Tangy, dense Malaysian pasta with creamy coconut sauce, fresh fish fillet and herbs, egg‑free and adventurous.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillet (cod or tilapia)",
+      "amount": "400g"
+    },
+    {
+      "name": "Spaghetti (dry)",
+      "amount": "200g"
+    },
+    {
+      "name": "Coconut milk (full fat)",
+      "amount": "200ml"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "Shallot, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "10g"
+    },
+    {
+      "name": "Red chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water for pasta",
+      "amount": "1500ml"
+    }
+  ],
+  "instructions": [
+    "Heat a pot of salted water and cook the spaghetti according to package directions until al dente; reserve 1 cup of pasta water before draining.",
+    "In a small bowl, mix tamarind paste, lime juice, fish sauce, palm sugar and a pinch of salt until the sugar dissolves.",
+    "While the pasta cooks, heat a non‑stick skillet over medium heat and sauté minced garlic and sliced shallot until fragrant, about 2 minutes.",
+    "Add the prepared tangy sauce mixture to the skillet and stir to combine, letting it simmer for 3 minutes to develop flavor.",
+    "Add the coconut milk, red chili flakes, and Thai basil, and heat the sauce until it starts to thicken slightly, about 2 minutes.",
+    "Add the fish fillet pieces to the sauce, cover, and simmer for 4–5 minutes until the fish is opaque and flakes easily with a fork.",
+    "Toss in the cooked spaghetti and a splash of reserved pasta water to create a smooth, creamy emulsion, stirring until the pasta is fully coated.",
+    "Adjust seasoning with additional fish sauce or lime juice if desired, then remove from heat.",
+    "Serve the pasta hot, garnished with extra basil leaves or a drizzle of coconut milk if preferred."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "high-protein",
+    "malaysian",
+    "one-pan",
+    "pasta",
+    "tangy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 16,
+    "carbs": 38,
+    "fat": 6
+  },
+  "slug": "whimsical-malaysian-fish-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/whimsical-malaysian-fish-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:03:24Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "fish fillet",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Fish",
+    "descriptor": "Whimsical",
+    "dishForm": "Pasta"
+  }
+}
