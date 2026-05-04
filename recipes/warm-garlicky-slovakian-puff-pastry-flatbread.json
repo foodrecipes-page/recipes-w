@@ -1,0 +1,90 @@
+{
+  "title": "Warm Garlicky Slovakian Puff Pastry Flatbread",
+  "description": "A garlicky, springy, adventurous Slovakian dish featuring plain chocolate and lamination-puff pastry, cooked on a comal to ayurvedic-rajasic-friendly perfection",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "plain chocolate",
+      "amount": "1 bar",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal over medium heat",
+    "Roll out the puff pastry to a thickness of about 1/4 inch",
+    "Spread the minced garlic evenly over the pastry, leaving a 1 inch border around the edges",
+    "Sprinkle the broken chocolate pieces over the garlic",
+    "Fold the edges of the pastry up over the filling to form a crust",
+    "Brush the crust with olive oil and season with salt and black pepper",
+    "Place the pastry on the preheated comal and cook for 5 minutes on each side",
+    "Remove the pastry from the comal and let it cool for a few minutes",
+    "Serve the flatbread warm, garnished with a sprinkle of salt and a drizzle of olive oil"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comal-cooked",
+    "garlicky",
+    "puff-pastry",
+    "slovakian",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "warm-garlicky-slovakian-puff-pastry-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-garlicky-slovakian-puff-pastry-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:37:27Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "lamination-puff",
+    "primaryIngredient": "plain chocolate",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "puff pastry",
+    "descriptor": "Warm Garlicky",
+    "dishForm": "Flatbread"
+  }
+}

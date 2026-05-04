@@ -371,6 +371,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-crunchy-polish-mushroom-wrap",
+    "title": "Warm Crunchy Polish Mushroom Wrap",
+    "tags": [
+      "easy-snacks",
+      "midnight-cravings",
+      "mushroom-recipes",
+      "polish-cuisine",
+      "vegan-friendly"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crunchy-syrian-goat-cheese-bowl",
     "title": "Warm Crunchy Syrian Goat Cheese Bowl",
     "tags": [
@@ -531,6 +545,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-garlicky-slovakian-puff-pastry-flatbread",
+    "title": "Warm Garlicky Slovakian Puff Pastry Flatbread",
+    "tags": [
+      "comal-cooked",
+      "garlicky",
+      "puff-pastry",
+      "slovakian",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
