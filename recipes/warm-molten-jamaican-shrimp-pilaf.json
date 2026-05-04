@@ -1,0 +1,105 @@
+{
+  "title": "Warm Molten Jamaican Shrimp Pilaf",
+  "description": "A spicy and flavorful Jamaican-inspired pilaf dish featuring succulent shrimp and aromatic spices, perfect for a post-workout meal. This dish is made with vialone nano rice and sashimi-cut shrimp for a unique texture and flavor combination.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vialone nano rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "sashimi-cut shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large saucepan over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the sashimi-cut shrimp and cook until pink and just cooked through, about 2-3 minutes per side.",
+    "Add the jamaican jerk seasoning, scotch bonnet peppers, and chicken broth to the saucepan, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-12 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Stir in the chopped cilantro and lime juice.",
+    "Serve the pilaf hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "jamaican-cuisine",
+    "one-pan",
+    "post-workout",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "warm-molten-jamaican-shrimp-pilaf",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-molten-jamaican-shrimp-pilaf",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-04T21:11:14Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "vialone-nano",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "shrimp",
+    "descriptor": "warm molten",
+    "dishForm": "Pilaf"
+  }
+}
