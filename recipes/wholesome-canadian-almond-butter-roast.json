@@ -1,0 +1,113 @@
+{
+  "title": "wholesome canadian almond butter roast",
+  "description": "A light, warm, and comforting post-workout dish featuring almond butter, simmered with Canadian flavors.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sweet potato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Almond butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "handful",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "handful",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and chop the sweet potatoes into 1-inch cubes.",
+    "In a large bowl, whisk together the almond butter, maple syrup, coconut oil, cinnamon, nutmeg, and salt until smooth.",
+    "Add the chopped sweet potatoes to the bowl and toss until they're evenly coated with the almond butter mixture.",
+    "Transfer the sweet potatoes to a baking sheet lined with parchment paper and roast for 20 minutes.",
+    "Remove the sweet potatoes from the oven and sprinkle with fresh parsley and thyme.",
+    "Serve warm and enjoy!",
+    "Simmer for 5 minutes before serving, if desired for an extra boost of flavor.",
+    "Garnish with additional parsley and thyme, if desired.",
+    "Store leftovers in the fridge for up to 3 days.",
+    "Reheat in the oven or microwave before serving.",
+    "Be gentle when reheating, as the almond butter can separate and become grainy.",
+    "If you don't have sweet potatoes, you can substitute with other root vegetables like carrots or parsnips.",
+    "You can also add other spices or herbs to the almond butter mixture to suit your taste.",
+    "This dish is vegan, vegetarian, and gluten-free, making it a great option for those with dietary restrictions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "comforting",
+    "easy",
+    "light",
+    "oven-roasted",
+    "post-workout",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 36,
+    "fat": 10
+  },
+  "slug": "wholesome-canadian-almond-butter-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-canadian-almond-butter-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:08:50Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "simmer",
+    "primaryIngredient": "almond butter",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "almond butter",
+    "descriptor": "wholesome",
+    "dishForm": "roast"
+  }
+}
