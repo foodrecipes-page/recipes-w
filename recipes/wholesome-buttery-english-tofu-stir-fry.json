@@ -1,0 +1,114 @@
+{
+  "title": "Wholesome buttery English Tofu Stir-fry",
+  "description": "A nostalgic British twist on a curry stir‑fry, buttery and flaky with massaman paste, gentle on the palate and jain‑friendly.",
+  "cuisine": "British",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g"
+    },
+    {
+      "name": "bamboo-tray",
+      "amount": "1",
+      "notes": "used as vessel"
+    },
+    {
+      "name": "massaman curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "soy sauce (low sodium)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "mixed bell peppers",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "100g"
+    },
+    {
+      "name": "scallions",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Line a bamboo-tray with parchment paper.",
+    "Press tofu for 15 minutes to remove excess moisture, then cut into cubes.",
+    "Heat a wok over medium heat and add a splash of oil, then sauté garlic and ginger until fragrant.",
+    "Stir in massaman curry paste and cook for 1 minute, letting the aromas bloom.",
+    "Pour in coconut milk and soy sauce, bringing the mixture to a gentle simmer.",
+    "Add tofu cubes and stir gently to coat them with the curry sauce.",
+    "Toss in bell peppers and broccoli, cooking until vegetables are tender-crisp, about 5 minutes.",
+    "Stir in maple syrup and adjust seasoning with extra soy sauce if needed.",
+    "Transfer the stir-fry onto the lined bamboo-tray and sprinkle with scallions and sesame seeds.",
+    "Serve hot over rice or enjoy as a standalone dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bamboo-tray",
+    "jain-friendly",
+    "massaman-curry",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "wholesome-buttery-english-tofu-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-buttery-english-tofu-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:50:17Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "stir-fry",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "jain",
+    "region": "english",
+    "cuisineAdjective": "English",
+    "mainIngredient": "tofu",
+    "descriptor": "Wholesome buttery",
+    "dishForm": "Stir-fry"
+  }
+}
