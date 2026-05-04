@@ -1,0 +1,107 @@
+{
+  "title": "Wok-Seared Spring Korean Rice Gimbap",
+  "description": "A one-pot Korean dish featuring buns, yuzu-cure, and a springy twist.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "short-grain rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "small carrots",
+      "amount": "4"
+    },
+    {
+      "name": "spring onions",
+      "amount": "4"
+    },
+    {
+      "name": "gluten-free soy sauce buns",
+      "amount": "8 pieces"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or iron teppan over medium-high heat.",
+    "Combine rice and water in the wok and bring to a boil.",
+    "Reduce heat to low and cover the wok, simmer for 5 minutes.",
+    "Stir in Gochujang, soy sauce, yuzu juice, toasted sesame oil, and korean chili flakes.",
+    "Add zucchini, bell pepper, and small carrots to the wok and stir-fry for 3 minutes.",
+    "Add spring onions to the wok and stir-fry for another minute.",
+    "Cook the gluten-free soy sauce buns according to the package instructions.",
+    "To assemble the gimbap, spread a tablespoon of rice mixture onto each bun, then add a slice of zucchini, bell pepper, and small carrots.",
+    "Roll up each bun tightly and serve immediately.",
+    "Serve the gimbap hot, garnished with additional spring onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "korean-cuisine",
+    "one-pan",
+    "spring-vegetables",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "wok-seared-spring-korean-rice-gimbap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wok-seared-spring-korean-rice-gimbap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:35:00Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "buns",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice",
+    "descriptor": "Wok-Seared Spring",
+    "dishForm": "Gimbap"
+  }
+}
