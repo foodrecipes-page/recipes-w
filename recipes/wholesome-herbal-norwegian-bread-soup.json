@@ -1,0 +1,112 @@
+{
+  "title": "Wholesome Herbal Norwegian Bread Soup",
+  "description": "A light, herb-infused soup featuring airy bread puffs and fresh dill, served in a rustic earthenware bowl.",
+  "cuisine": "norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "stale rye bread cubes",
+      "amount": "4 slices (cubed)"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 liter"
+    },
+    {
+      "name": "water",
+      "amount": "200 milliliters"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon, crushed"
+    },
+    {
+      "name": "dill",
+      "amount": "1 teaspoon, chopped"
+    },
+    {
+      "name": "fresh dill sprigs",
+      "amount": "5 sprigs, for garnish"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat until shimmering.",
+    "Add the diced onion and carrot to the pot, sautéing until the vegetables soften and the onion turns translucent.",
+    "Stir in the minced garlic and cook for about thirty seconds until fragrant, being careful not to burn it.",
+    "Sprinkle the crushed caraway seeds into the pot, stirring to coat the vegetables evenly.",
+    "Pour in the vegetable broth and water, then bring the mixture to a gentle simmer.",
+    "Add the cubed stale rye bread to the simmering broth, stirring gently so the bread soaks without disintegrating.",
+    "Season with mustard, sea salt, black pepper, and the chopped dill, stirring to combine all flavors.",
+    "Reduce the heat slightly and allow the soup to simmer for an additional five minutes, letting the herbs infuse the liquid.",
+    "While the soup rests, toast the remaining bread cubes in a dry skillet over medium heat until they puff up and turn golden brown.",
+    "Ladle the hot soup into an earthenware bowl, top with the freshly toasted bread puffs and a few sprigs of fresh dill, then serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "airborne",
+    "bread-soup",
+    "easy",
+    "herbal",
+    "norwegian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "wholesome-herbal-norwegian-bread-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-herbal-norwegian-bread-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:45:23Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "lamination-puff",
+    "primaryIngredient": "stale bread",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "bread",
+    "descriptor": "Wholesome Herbal",
+    "dishForm": "Soup"
+  }
+}
