@@ -1,0 +1,115 @@
+{
+  "title": "Wholesome Saudi Rice Flour Stew",
+  "description": "A comforting citrusy stew featuring pillowy rice flour pancakes, slow-cooked with fresh vegetables and fragrant herbs for a nostalgic Saudi-American flavor.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "fodmap-friendly",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "200 g",
+      "notes": "for pancakes"
+    },
+    {
+      "name": "water",
+      "amount": "200 ml"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "1 litre"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk rice flour with water until smooth and set aside.",
+    "Heat olive oil in a large pot over medium heat; add chopped onion and minced garlic, sauté until translucent.",
+    "Add sliced carrot and zucchini to the pot and stir for 3 minutes.",
+    "Pour in vegetable stock and add the cinnamon stick, bringing the mixture to a gentle boil.",
+    "Reduce heat to low and simmer for 20 minutes until vegetables are tender.",
+    "Stir in the rice flour mixture in one steady pour, whisking continuously to prevent lumps.",
+    "Allow the stew to simmer for another 15 minutes, until the mixture thickens into a doughy consistency.",
+    "Remove the cinnamon stick and season with salt, pepper, lemon zest, and lemon juice.",
+    "Gently fold in chopped fresh coriander and adjust seasoning if needed.",
+    "Ladle the stew into individual bowls, drizzle a small amount of olive oil on top, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "low-fat",
+    "nut-free",
+    "slow-cook",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 5
+  },
+  "slug": "wholesome-saudi-rice-flour-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-saudi-rice-flour-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:37:01Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "slow-cook",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "Rice Flour",
+    "descriptor": "Wholesome",
+    "dishForm": "Stew"
+  }
+}
