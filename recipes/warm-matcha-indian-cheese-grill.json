@@ -1,0 +1,97 @@
+{
+  "title": "Warm Matcha Indian Cheese Grill",
+  "description": "A resinous, cheese-pull, monsoon polish dish featuring matcha, deep-fry-tod, and ayurvedic-rajasic-friendly ingredients, served on a cedar plank.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "matcha powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paneer cheese",
+      "amount": "250g",
+      "notes": "ayurvedic rajasic-friendly cheese option"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan to a medium-high temperature (190°C).",
+    "Mix matcha powder and ghee in a bowl to form a uniform paste.",
+    "Add paneer cheese to the matcha-ghee paste and mix until fully coated.",
+    "Coat the paneer mixture in a mixture of all-purpose flour, garam masala, cumin powder, salt, and black pepper.",
+    "Heat a non-stick skillet to a medium-high temperature (190°C) and deep-fry the paneer mixture in batches until golden brown.",
+    "Place the fried paneer mixture on a cedar plank, garnish with chopped cilantro, and serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic-rajasic",
+    "grilled-cheese",
+    "high-protein",
+    "indian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "warm-matcha-indian-cheese-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-matcha-indian-cheese-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:31Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "matcha",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "cheese",
+    "descriptor": "Warm Matcha",
+    "dishForm": "Grill"
+  }
+}

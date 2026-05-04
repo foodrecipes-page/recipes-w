@@ -1,0 +1,101 @@
+{
+  "title": "Warm Smoky Greek Tomato Avgolemono",
+  "description": "Buttery, flaky, festive Greek dish featuring San Marzano tomatoes and a smoky flavor, all in a dairy-free friendly avgolemono form.",
+  "cuisine": "Greek",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "San Marzano Tomatoes",
+      "amount": "12 oz",
+      "notes": "Fire-roasted for added smokiness"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dairy-free Veggie Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dairy-free Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and saut\u00065 for 5 minutes, until softened.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the fire-roasted San Marzano tomatoes, smoked paprika, and dairy-free veggie broth to the skillet.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "In a separate bowl, whisk together the lemon juice and 1/4 cup of warm water.",
+    "Temper the lemon mixture by slowly pouring it into the warm broth, whisking constantly.",
+    "Stir in the cooked rice and cook for 2-3 minutes, until heated through.",
+    "Serve the avgolemono hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "avgolemono",
+    "dairy-free",
+    "greek",
+    "smoky",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "warm-smoky-greek-tomato-avgolemono",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-greek-tomato-avgolemono",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:01Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "smoke",
+    "primaryIngredient": "san-marzano-tomato",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "tomato",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Avgolemono"
+  }
+}

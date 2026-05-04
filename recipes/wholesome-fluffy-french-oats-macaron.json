@@ -1,0 +1,99 @@
+{
+  "title": "Wholesome Fluffy French Oats Macaron",
+  "description": "This comforting French dish from Provence combines oats with a touch of brininess for a delicious and low-fat-friendly breakfast or snack.",
+  "cuisine": "French",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "250g",
+      "notes": "use old-fashioned rolled oats for best texture"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "use a mild, smooth olive oil"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": "use fresh thyme for best flavor if available"
+    },
+    {
+      "name": "wood-fired baked cheese crumbles",
+      "amount": "50g",
+      "notes": "use a mild cheese like Comté or Gruyère"
+    },
+    {
+      "name": "water",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "use large eggs for best texture"
+    },
+    {
+      "name": "flour",
+      "amount": "25g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the oats, sea salt, and dried thyme.",
+    "In a separate bowl, whisk together the olive oil, water, and eggs.",
+    "Add the flour to the wet ingredients and whisk until smooth.",
+    "Pour the wet ingredients into the dry ingredients and mix until a thick batter forms.",
+    "Transfer the batter to a piping bag and pipe onto a parchment-lined baking sheet.",
+    "Bake in the wood-fired oven for 20 minutes, or until the macarons are puffed and lightly golden.",
+    "Remove from the oven and top each macaron with a sprinkle of wood-fired baked cheese crumbles.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "french",
+    "macaron",
+    "oats",
+    "snack",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "wholesome-fluffy-french-oats-macaron",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-fluffy-french-oats-macaron",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:33Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "oats",
+    "diet": "low-fat",
+    "region": "provence",
+    "cuisineAdjective": "French",
+    "mainIngredient": "oats",
+    "descriptor": "wholesome fluffy",
+    "dishForm": "Macaron"
+  }
+}

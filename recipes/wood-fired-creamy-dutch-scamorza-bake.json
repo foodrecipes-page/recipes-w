@@ -1,0 +1,81 @@
+{
+  "title": "Wood-fired, Creamy Dutch Scamorza Bake",
+  "description": "A rich, creamy Dutch one-pot dish featuring scamorza cheese, perfect for a cold winter evening. The wood-fired flavor adds a unique twist to this comforting meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large scamorza cheese, sliced",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup Dutch white wine",
+      "amount": "1",
+      "notes": "dry red wine can be substituted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C) and the wood-fired grill to medium-high heat.",
+    "In a large Dutch oven or oven-safe pot, heat the olive oil over medium heat. Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the sliced scamorza cheese and cook, stirring occasionally, until the cheese starts to melt and bubble.",
+    "Add the Dutch white wine, scraping the bottom of the pot to release any browned bits. Bring the wine to a simmer and cook until reduced by half, about 5 minutes.",
+    "Transfer the pot to the preheated wood-fired grill and cook, covered, for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Transfer the pot to the preheated oven and bake for an additional 5-7 minutes, or until the cheese is golden brown and the flavors have melded together.",
+    "Remove the pot from the oven and let cool for a few minutes before serving hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 17,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "wood-fired-creamy-dutch-scamorza-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wood-fired-creamy-dutch-scamorza-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:49Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "scamorza",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "scamorza",
+    "descriptor": "Wood-fired, creamy",
+    "dishForm": "Bake"
+  }
+}

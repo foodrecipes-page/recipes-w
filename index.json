@@ -1409,6 +1409,19 @@
     "shard": "w"
   },
   {
+    "slug": "warm-matcha-indian-cheese-grill",
+    "title": "Warm Matcha Indian Cheese Grill",
+    "tags": [
+      "ayurvedic-rajasic",
+      "grilled-cheese",
+      "high-protein",
+      "indian-cuisine"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-mexican-corn-tlayuda",
     "title": "Warm Mexican Corn Tlayuda",
     "tags": [
@@ -1805,6 +1818,20 @@
       "herbs",
       "olive-oil",
       "summer-dinner"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-smoky-greek-tomato-avgolemono",
+    "title": "Warm Smoky Greek Tomato Avgolemono",
+    "tags": [
+      "avgolemono",
+      "dairy-free",
+      "greek",
+      "smoky",
+      "tomato"
     ],
     "cuisine": "Greek",
     "totalTimeMin": 35,
@@ -3424,6 +3451,21 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-fluffy-french-oats-macaron",
+    "title": "Wholesome Fluffy French Oats Macaron",
+    "tags": [
+      "breakfast",
+      "french",
+      "macaron",
+      "oats",
+      "snack",
+      "wood-fired"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-german-cheese-salad",
     "title": "Wholesome German Cheese Salad",
     "tags": [
@@ -4770,6 +4812,23 @@
     "shard": "w"
   },
   {
+    "slug": "winey-snappy-venezuelan-salmon-empanadas",
+    "title": "Winey Snappy Venezuelan Salmon Empanadas",
+    "tags": [
+      "empanadas",
+      "high-protein",
+      "kid-friendly",
+      "salmon",
+      "snappy",
+      "venezuelan",
+      "weeknight",
+      "wine-sauce"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
     "slug": "winey-wholesome-kenyan-chickpeas-curry",
     "title": "Winey Wholesome Kenyan Chickpeas Curry",
     "tags": [
@@ -4864,6 +4923,18 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 90,
+    "shard": "w"
+  },
+  {
+    "slug": "wood-fired-creamy-dutch-scamorza-bake",
+    "title": "Wood-fired, Creamy Dutch Scamorza Bake",
+    "tags": [
+      "comfort-food",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 37,
     "shard": "w"
   },
   {

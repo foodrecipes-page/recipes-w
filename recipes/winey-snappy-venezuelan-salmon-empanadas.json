@@ -1,0 +1,128 @@
+{
+  "title": "Winey Snappy Venezuelan Salmon Empanadas",
+  "description": "Crispy empanadas filled with a flavorful salmon and onion mixture, served with a side of tangy wine sauce. A high-protein, kid-friendly recipe perfect for a weeknight dinner.",
+  "cuisine": "venezuelan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "1",
+      "notes": "Fresh and skinless for best results"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Corn oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Wine",
+      "amount": "1/2 cup",
+      "notes": "Dry white wine, such as Chardonnay or Sauvignon Blanc"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the salmon fillet into small pieces and set aside.",
+    "Heat the corn oil in a large skillet over medium-high heat.",
+    "Add the onion to the skillet and cook until caramelized, about 5 minutes.",
+    "Add the cumin, paprika, salt, and black pepper to the skillet and cook for 1 minute.",
+    "Add the salmon to the skillet and cook until cooked through, about 3-4 minutes.",
+    "In a separate bowl, whisk together the egg and water.",
+    "Place the dough on a floured surface and roll out to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the salmon mixture in the center of each dough circle.",
+    "Brush the edges of the dough with the egg wash and fold the dough over the filling to form a triangle.",
+    "Press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with the melted butter.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "While the empanadas are baking, prepare the wine sauce by reducing the wine over low heat until almost syrupy.",
+    "Remove the empanadas from the oven and let cool for a few minutes.",
+    "Serve the empanadas with the wine sauce and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "high-protein",
+    "kid-friendly",
+    "salmon",
+    "snappy",
+    "venezuelan",
+    "weeknight",
+    "wine-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "winey-snappy-venezuelan-salmon-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-snappy-venezuelan-salmon-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:59Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "caramelize",
+    "primaryIngredient": "salmon",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "salmon",
+    "descriptor": "winey snappy",
+    "dishForm": "Empanadas"
+  }
+}
