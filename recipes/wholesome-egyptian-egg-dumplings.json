@@ -1,0 +1,112 @@
+{
+  "title": "Wholesome Egyptian Egg Dumplings",
+  "description": "A fresh, crumbly, low-fat Egyptian dish featuring golden egg rolls with herbs and vegetables, perfect for a cozy lunch.",
+  "cuisine": "egyptian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped tomato",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped cucumber",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Beat the eggs in a large bowl until fully blended.",
+    "Whisk together the flour, baking powder, salt, and ground cumin until well combined.",
+    "Add the dry mixture to the eggs and stir until a smooth batter forms.",
+    "Stir in the milk, parsley, tomato, cucumber, and lemon juice until evenly distributed.",
+    "Heat the olive oil in a non‑stick skillet over medium heat.",
+    "Drop spoonfuls of the batter into the skillet, forming small rounds about 1/2 inch thick.",
+    "Cook until bubbles form on the surface and the edges turn golden brown, about 3 minutes.",
+    "Flip each dumpling and cook the other side until golden and cooked through, about 2 minutes.",
+    "Serve hot with a squeeze of fresh lemon if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eggs",
+    "low-fat",
+    "quick",
+    "vegetable"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 4
+  },
+  "slug": "wholesome-egyptian-egg-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-egyptian-egg-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:03:35Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "salt-bake",
+    "primaryIngredient": "egg rolls",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Egg",
+    "descriptor": "Wholesome",
+    "dishForm": "Dumplings"
+  }
+}

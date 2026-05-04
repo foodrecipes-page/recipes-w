@@ -1961,6 +1961,19 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-egyptian-egg-dumplings",
+    "title": "Wholesome Egyptian Egg Dumplings",
+    "tags": [
+      "eggs",
+      "low-fat",
+      "quick",
+      "vegetable"
+    ],
+    "cuisine": "egyptian",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-filipino-yautia-stew",
     "title": "Wholesome Filipino Yautia Stew",
     "tags": [
