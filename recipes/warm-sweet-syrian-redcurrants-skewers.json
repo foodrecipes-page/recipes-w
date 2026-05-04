@@ -1,0 +1,93 @@
+{
+  "title": "Warm Sweet Syrian Redcurrants Skewers",
+  "description": "A sweet and energizing Syrian dish featuring redcurrants, perfect for a low-carb friendly snack or dessert",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "redcurrants",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "skewers",
+      "amount": "10",
+      "notes": "wooden or metal"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a bowl, mix together the almond flour, honey, lemon juice, and water to make a batter.",
+    "Add the cinnamon to the batter and stir well.",
+    "Thread 2-3 redcurrants onto each skewer, leaving a small space between each redcurrant.",
+    "Dip each skewer into the batter, coating the redcurrants evenly.",
+    "Fry the skewers in the hot oil for 2-3 minutes on each side, or until golden brown.",
+    "Remove the skewers from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the warm sweet Syrian redcurrants skewers immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 10,
+  "difficulty": "easy",
+  "tags": [
+    "easy-snacks",
+    "low-carb",
+    "quick-desserts",
+    "redcurrant-recipes",
+    "syrian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "warm-sweet-syrian-redcurrants-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-sweet-syrian-redcurrants-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:09:28Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "fry",
+    "primaryIngredient": "redcurrants",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "redcurrants",
+    "descriptor": "Warm Sweet",
+    "dishForm": "Skewers"
+  }
+}
