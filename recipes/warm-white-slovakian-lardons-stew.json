@@ -1,0 +1,97 @@
+{
+  "title": "Warm White Slovakian Lardons Stew",
+  "description": "A hearty, mustardy stew featuring white chocolate chips and lardons-render, perfect for a hangover cure, this Slovakian dish is plant-based friendly and served in a hot pot vessel.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white chocolate chips",
+      "amount": "1 cup",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "lardons",
+      "amount": "1/2 cup",
+      "notes": "rendered, plant-based"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "In a large hot pot vessel, heat the lardons over medium heat until crispy.",
+    "Remove the crispy lardons from the vessel and set aside.",
+    "Add the chopped onion to the vessel and cook until translucent.",
+    "Add the minced garlic to the vessel and cook for 1 minute.",
+    "Add the chopped carrots and potatoes to the vessel and cook for 5 minutes.",
+    "Add the vegetable broth, mustard, and white chocolate chips to the vessel and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the crispy lardons back to the vessel and stir to combine.",
+    "Serve the stew hot, garnished with additional white chocolate chips if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "plant-based",
+    "slovakian",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-white-slovakian-lardons-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-white-slovakian-lardons-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:53:34Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "hangover-cure",
+    "technique": "lardons-render",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "lardons",
+    "descriptor": "Warm White",
+    "dishForm": "Stew"
+  }
+}
