@@ -1,0 +1,109 @@
+{
+  "title": "Wholesome Smoky Yucatecan Fish Enchiladas",
+  "description": "A smoky, flaky fish enchilada that blends Yucatecan flavors with a diabetic-friendly twist, served from a clay pot for a rustic touch.",
+  "cuisine": "Mexican",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "1 lb",
+      "notes": "cod or halibut"
+    },
+    {
+      "name": "dry sherry",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "lightly toasted"
+    },
+    {
+      "name": "low-fat cheddar",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a saucepan over medium heat and sauté the garlic powder, cumin, and smoked paprika until fragrant.",
+    "Pour in the dry sherry and lime juice, bringing the mixture to a gentle simmer for 3 minutes to reduce slightly.",
+    "Stir in the shredded low-fat cheddar until melted and smooth, then remove from heat.",
+    "Lay the toasted corn tortillas in a single layer at the bottom of a clay pot.",
+    "Arrange the flaky fish fillets over the tortillas, seasoning each piece lightly with salt and pepper.",
+    "Spoon the cheesy sauce evenly over the fish, covering all fillets completely.",
+    "Place the clay pot over a bain-marie, letting the double boiler gently heat the enchiladas for 15 minutes.",
+    "After 10 minutes, carefully remove the pot from the water bath and place it directly on a preheated oven set to 350°F to finish baking for an additional 5 minutes.",
+    "Garnish the finished enchiladas with chopped cilantro and diced red onion before serving.",
+    "Serve immediately with a side of fresh lime wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "diabetic-friendly",
+    "enchiladas",
+    "smoky",
+    "yucatecan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "wholesome-smoky-yucatecan-fish-enchiladas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-smoky-yucatecan-fish-enchiladas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:07:17Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "bain-marie",
+    "primaryIngredient": "dry sherry",
+    "diet": "diabetic-friendly",
+    "region": "yucatecan",
+    "cuisineAdjective": "Yucatecan",
+    "mainIngredient": "Fish",
+    "descriptor": "Wholesome Smoky",
+    "dishForm": "Enchiladas"
+  }
+}
