@@ -876,6 +876,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-flaky-jamaican-feta-cheese-bake",
+    "title": "Warm Flaky Jamaican Feta Cheese Bake",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "easy-to-make",
+      "homemade",
+      "jamaican",
+      "one-pan"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
     "slug": "warm-flaky-moroccan-lamb-tagine",
     "title": "Warm Flaky Moroccan Lamb Tagine",
     "tags": [
@@ -1673,6 +1688,20 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 70,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-roasted-filipino-vegetables-pinakbet",
+    "title": "Warm Roasted Filipino Vegetables Pinakbet",
+    "tags": [
+      "comfort-food",
+      "filipino",
+      "lacto-vegetarian",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 60,
     "shard": "w"
   },
   {

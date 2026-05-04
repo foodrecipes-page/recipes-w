@@ -1,0 +1,106 @@
+{
+  "title": "Warm Flaky Jamaican Feta Cheese Bake",
+  "description": "A comforting Jamaican dish featuring cubed feta cheese, perfect for a satisfying meal.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "vegan (modified)"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 block, crumbled",
+      "notes": "use a block of feta cheese with a high concentration of brine"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "use an unbleached, all-purpose flour"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "keep the butter cold to achieve flaky layers"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon",
+      "notes": "use a flaky, kosher salt for best flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "use freshly ground black pepper for best flavor"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/4 teaspoon",
+      "notes": "use a high-quality, dried thyme"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/4 teaspoon",
+      "notes": "use a high-quality, dried oregano"
+    },
+    {
+      "name": "ayurvedic herbs",
+      "amount": "1 tablespoon",
+      "notes": "optional, use a blend of ayurvedic herbs for added depth"
+    },
+    {
+      "name": "rajasic herbs",
+      "amount": "",
+      "notes": "omit, for a more sattvic dish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\u000040F (190\u000049C).",
+    "In a large mixing bowl, combine the flour, cold butter, and a pinch of salt, using a pastry blender or your fingers to work the butter into the flour until it resembles coarse crumbs.",
+    "Add the crumbled feta cheese, thyme, oregano, and ayurvedic herbs (if using) to the bowl, stirring until the cheese is evenly distributed.",
+    "Turn the dough out onto a lightly floured surface and gently knead a few times until it comes together in a cohesive mass.",
+    "Form the dough into a rectangle, about 1/2-inch thick.",
+    "Roll the rectangle into a tight cylinder, then cut it into 4-6 equal pieces, depending on the desired size of your buns.",
+    "Place the buns on a baking sheet lined with parchment paper, leaving about 1 inch of space between each bun.",
+    "Brush the tops of the buns with a little bit of cold water, then sprinkle with a pinch of salt.",
+    "Bake the buns in the preheated oven for 20-25 minutes, or until they are golden brown and flaky.",
+    "Remove the buns from the oven and let them cool on a wire rack for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "easy-to-make",
+    "homemade",
+    "jamaican",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "warm-flaky-jamaican-feta-cheese-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-flaky-jamaican-feta-cheese-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:59Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "brine-dry",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Feta cheese",
+    "descriptor": "Warm flaky",
+    "dishForm": "Bake"
+  }
+}
