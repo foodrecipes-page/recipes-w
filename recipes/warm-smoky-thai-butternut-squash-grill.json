@@ -1,0 +1,98 @@
+{
+  "title": "Warm Smoky Thai Butternut Squash Grill",
+  "description": "A salty and flaky Thai dish featuring butternut squash, perfect for a midnight craving, grilled to perfection on a cedar plank.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "1 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "2",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together fish sauce, lime juice, brown sugar, smoked paprika, salt, and black pepper.",
+    "Add the cubed butternut squash to the bowl and toss to coat with the sauce.",
+    "Remove the cedar planks from the water and place them on the grill.",
+    "Arrange the squash cubes on the cedar planks in a single layer.",
+    "Close the grill lid and cook for 10 minutes or until the squash is tender and lightly charred.",
+    "Flip the squash cubes and cook for an additional 5 minutes.",
+    "Remove the squash from the grill and garnish with chopped cilantro.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "autumn-recipes",
+    "grilled-vegetables",
+    "low-fat",
+    "midnight-cravings",
+    "smoky-flavors",
+    "thai-inspired"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "warm-smoky-thai-butternut-squash-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-thai-butternut-squash-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:27:37Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "grill",
+    "primaryIngredient": "butternut squash",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "butternut squash",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Grill"
+  }
+}
