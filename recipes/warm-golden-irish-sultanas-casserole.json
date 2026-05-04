@@ -1,0 +1,89 @@
+{
+  "title": "Warm Golden Irish Sultanas Casserole",
+  "description": "A comforting Irish dish featuring gooey sultanas pasta and a halal-friendly sauce. Serve warm in a terracotta dish.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sultanas",
+      "amount": "250g",
+      "notes": "halal-friendly"
+    },
+    {
+      "name": "Penne pasta",
+      "amount": "175g"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "20g"
+    },
+    {
+      "name": "Milk",
+      "amount": "120ml",
+      "notes": "whole milk or low-fat"
+    },
+    {
+      "name": "Salt",
+      "amount": "3g"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Cook the penne pasta in boiling water until al dente, reserve 250ml of pasta water.",
+    "In a saucepan melt the butter over medium heat, add the all-purpose flour and mix until it forms a paste.",
+    "Gradually add the reserved pasta water to the saucepan, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook for 2 minutes, until it thickens.",
+    "Remove the saucepan from the heat and stir in the milk, salt, and ground black pepper.",
+    "Add the cooked penne pasta to the saucepan and mix well to combine.",
+    "Transfer the pasta mixture to a terracotta dish.",
+    "Top the pasta mixture with sultanas and sprinkle with salt.",
+    "Cover the terracotta dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and bake for an additional 5 minutes, or until the top is golden brown.",
+    "Serve the Warm Golden Irish Sultanas Casserole warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "halal-friendly",
+    "high-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 14,
+    "carbs": 76,
+    "fat": 20
+  },
+  "slug": "warm-golden-irish-sultanas-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-golden-irish-sultanas-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:03:01Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "sultanas",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "sultanas",
+    "descriptor": "Warm Golden",
+    "dishForm": "Casserole"
+  }
+}
