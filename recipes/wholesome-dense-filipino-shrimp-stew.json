@@ -1,0 +1,98 @@
+{
+  "title": "Wholesome Dense Filipino Shrimp Stew",
+  "description": "A hearty shrimp stew bursting with citrusy brightness and savory depth, seasoned with shallots and garlic, and simmered until thick and comforting.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp, peeled and deveined",
+      "amount": "500g",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "shrimp stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "shallots, finely sliced",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon zest and juice from 1 lemon",
+      "amount": "1 lemon"
+    },
+    {
+      "name": "cilantro leaves, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the sliced shallots and minced garlic, sautéing until fragrant and translucent.",
+    "Pour in the water and shrimp stock, then stir in the fish sauce.",
+    "Bring the mixture to a simmer, then add the shrimp and lemon zest.",
+    "Cook the shrimp for 3 to 4 minutes until they turn pink and opaque.",
+    "Squeeze in the lemon juice, season with salt and black pepper to taste.",
+    "Let the stew simmer for an additional 5 minutes to meld the flavors.",
+    "Remove the pot from heat, stir in the chopped cilantro, and let it rest for 2 minutes.",
+    "Serve hot, spooning the dense broth and shrimp into bowls."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-dish",
+    "gluten-free",
+    "low-glycemic",
+    "one-pot",
+    "quick",
+    "seafood",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 96,
+    "carbs": 4,
+    "fat": 4
+  },
+  "slug": "wholesome-dense-filipino-shrimp-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-dense-filipino-shrimp-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:09:43Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "steam",
+    "primaryIngredient": "shallots",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "shrimp",
+    "descriptor": "Wholesome Dense",
+    "dishForm": "Stew"
+  }
+}
