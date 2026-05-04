@@ -1,0 +1,114 @@
+{
+  "title": "Wholesome Polish Rice Stir-fry",
+  "description": "A vibrant low-carb stir-fry featuring spring onions and Polish flavors, cooked quickly on a griddle.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "spring onions",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "fry-grind rice",
+      "amount": "200 g"
+    },
+    {
+      "name": "cabbage",
+      "amount": "150 g",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "lean pork sausage",
+      "amount": "100 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the tava griddle over medium heat and drizzle sesame oil.",
+    "Add the sliced sausage and cook until lightly browned.",
+    "Stir in minced garlic and grated ginger, cooking for 30 seconds until fragrant.",
+    "Add shredded cabbage and julienned carrot, sautéing until the vegetables are crisp-tender.",
+    "Pour in the fry-grind rice and stir-fry for 3 minutes to heat through.",
+    "Splash in low-sodium soy sauce and season with salt and pepper.",
+    "Fold in sliced spring onions and chopped dill, cooking for an additional minute.",
+    "Remove from heat and serve hot straight from the griddle."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "low-carb",
+    "one-pan",
+    "polish",
+    "quick",
+    "stir-fry",
+    "tava"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "wholesome-polish-rice-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-polish-rice-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:21:29Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "spring onions",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Rice",
+    "descriptor": "Wholesome",
+    "dishForm": "Stir-fry"
+  }
+}
