@@ -1,0 +1,106 @@
+{
+  "title": "Warm Flaky Turkish Pickle Borek",
+  "description": "A lacto-vegetarian Turkish dish featuring pickles and marinate, perfect for a sick day, this warm flaky borek is a comforting treat.",
+  "cuisine": "Turkish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Pickles",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the chopped pickles, crumbly feta cheese, chopped onion, and chopped parsley.",
+    "In a separate bowl, mix the melted butter, beaten egg, salt, and black pepper.",
+    "Add the wet ingredients to the dry ingredients and mix well.",
+    "Unroll the phyllo dough and cut it into 4 equal pieces.",
+    "Place a quarter of the pickle mixture onto the center of each phyllo piece.",
+    "Brush the edges of the phyllo with the remaining melted butter.",
+    "Fold the phyllo into a triangle and press the edges to seal.",
+    "Brush the tops of the borek with the remaining egg mixture.",
+    "Place the borek on a baking sheet and bake for 25 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flaky-pastry",
+    "lacto-vegetarian",
+    "snack-ideas",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "warm-flaky-turkish-pickle-borek",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-flaky-turkish-pickle-borek",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:48:47Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "marinate",
+    "primaryIngredient": "pickles",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "pickles",
+    "descriptor": "Warm flaky",
+    "dishForm": "Borek"
+  }
+}
