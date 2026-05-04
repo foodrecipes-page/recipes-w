@@ -1,0 +1,103 @@
+{
+  "title": "Wholesome Crunchy Argentinian Chorizo Salad",
+  "description": "A mustardy, crunchy salad featuring Argentine chorizo, Pecorino Romano, and toasted almonds for a high-protein meal-prep dish.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork chorizo sausage",
+      "amount": "200g",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "mixed salad greens",
+      "amount": "200g"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "150g",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "50g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pecorino romano cheese",
+      "amount": "50g",
+      "notes": "grated"
+    },
+    {
+      "name": "almonds",
+      "amount": "30g",
+      "notes": "toasted"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a skillet over medium heat, brown 200g of sliced chorizo until crisp, about 8 minutes.",
+    "While chorizo cooks, toast 30g of almonds in a dry pan until fragrant, 3-4 minutes.",
+    "In a large bowl, combine 200g mixed salad greens, 150g halved cherry tomatoes, and 50g thinly sliced red onion.",
+    "Add the cooked chorizo and toasted almonds to the bowl, then sprinkle 50g grated pecorino romano.",
+    "Whisk 2 tbsp dijon mustard, 2 tbsp olive oil, and 1 tbsp balsamic vinegar until emulsified.",
+    "Pour the dressing over the salad and toss until all ingredients are evenly coated.",
+    "Season with salt and pepper to taste.",
+    "Chill in the refrigerator for 10 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "crunchy",
+    "high-protein",
+    "meal-prep",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 1050,
+    "protein": 49,
+    "carbs": 15,
+    "fat": 71
+  },
+  "slug": "wholesome-crunchy-argentinian-chorizo-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-crunchy-argentinian-chorizo-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:37:06Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "reduce",
+    "primaryIngredient": "pecorino-romano",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chorizo",
+    "descriptor": "Wholesome Crunchy",
+    "dishForm": "Salad"
+  }
+}
