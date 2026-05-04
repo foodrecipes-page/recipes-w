@@ -1,0 +1,118 @@
+{
+  "title": "Wild Molten Ethiopian Chicken Fir Fir",
+  "description": "A fiery Ethiopian-inspired fir fir that combines double-fried chicken with a peppery dark chocolate sauce, served molten in an earthenware bowl.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "500g"
+    },
+    {
+      "name": "plant-based oil",
+      "amount": "2 tbsp",
+      "notes": "for double-frying"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dark chocolate (70% cacao)",
+      "amount": "200g",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "Ethiopian berbere spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "green chili",
+      "amount": "1",
+      "notes": "finely sliced"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "50g",
+      "notes": "crushed, for garnish"
+    }
+  ],
+  "instructions": [
+    "Pat the chicken pieces dry and season with salt and smoked paprika.",
+    "Lightly coat each piece with chickpea flour, shaking off excess.",
+    "Heat oil in a shallow pan to 165°C and fry the chicken until golden, about 4 minutes.",
+    "Remove the chicken, drain on paper towels, then increase heat to 190°C and re-fry for another 2 minutes until extra crisp.",
+    "In a small saucepan, melt the dark chocolate over low heat with coconut milk, stirring until smooth.",
+    "Add berbere spice, lime juice, ginger, garlic powder, and sliced chili to the chocolate mixture and stir until blended.",
+    "Return the double-fried chicken to the pan, tossing to coat evenly in the molten sauce.",
+    "Transfer the chicken and sauce into an earthenware bowl, pouring any excess sauce over the top.",
+    "Sprinkle crushed roasted peanuts on the surface for crunch and extra flavor.",
+    "Serve immediately while the sauce remains molten and the chicken stays crispy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "double-fry",
+    "ethiopian",
+    "gluten-free",
+    "molten",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 806,
+    "protein": 36,
+    "carbs": 36,
+    "fat": 54
+  },
+  "slug": "wild-molten-ethiopian-chicken-fir-fir",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wild-molten-ethiopian-chicken-fir-fir",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:13:42Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "dark chocolate",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chicken",
+    "descriptor": "Wild Molten",
+    "dishForm": "Fir Fir"
+  }
+}

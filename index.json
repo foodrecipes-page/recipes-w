@@ -2208,6 +2208,21 @@
     "shard": "w"
   },
   {
+    "slug": "warmly-spiced-mediterranean-lamb-tagine",
+    "title": "Warmly Spiced Mediterranean Lamb Tagine",
+    "tags": [
+      "bananas-leaf",
+      "kosher-friendly",
+      "lamb",
+      "mediterranean",
+      "one-pot",
+      "warm-spices"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 150,
+    "shard": "w"
+  },
+  {
     "slug": "warmly-spiced-moroccan-dates-tagine",
     "title": "Warmly Spiced Moroccan Dates Tagine",
     "tags": [
@@ -3593,6 +3608,22 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "wild-molten-ethiopian-chicken-fir-fir",
+    "title": "Wild Molten Ethiopian Chicken Fir Fir",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "double-fry",
+      "ethiopian",
+      "gluten-free",
+      "molten",
+      "spicy"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
