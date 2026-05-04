@@ -1,0 +1,114 @@
+{
+  "title": "Wild Spicy Chinese Daikon Spring Rolls",
+  "description": "A fiery dim‑sum style spring roll that pairs crisp daikon with deep‑fried agemono and a bold chili glaze, perfect for a quick, egg‑free snack.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "daikon radish",
+      "amount": "200g",
+      "notes": "julienned"
+    },
+    {
+      "name": "napa cabbage",
+      "amount": "100g",
+      "notes": "shredded"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "30g",
+      "notes": "sliced"
+    },
+    {
+      "name": "bamboo shoots",
+      "amount": "20g",
+      "notes": "sliced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "5g",
+      "notes": "fresh"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "30ml"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "15ml"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "5ml"
+    },
+    {
+      "name": "all‑purpose flour",
+      "amount": "120g"
+    },
+    {
+      "name": "water",
+      "amount": "240ml"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "30ml",
+      "notes": "for deep frying"
+    }
+  ],
+  "instructions": [
+    "Boil 1 cup of water in a pot until rolling, then add daikon, cabbage, mushrooms, bamboo shoots, and chili flakes, and simmer for 5 minutes to soften the vegetables.",
+    "Drain the vegetables and stir in soy sauce, rice vinegar, sesame oil, and maple syrup, then let the mixture cool to room temperature.",
+    "In a small bowl whisk together flour and water to make a smooth, slightly thick batter.",
+    "Heat a deep‑fryer or large pot of oil on a binchotan grill to 180°C (350°F).",
+    "Spoon about a tablespoon of the batter into a heat‑proof silicone cup and place it in the hot oil; fry until the batter is golden and crisp, about 1–2 minutes.",
+    "Remove the fried batter from the oil, drain on paper towels, and let it cool slightly while you prepare the filling.",
+    "Spread a thin layer of the cooled vegetable mixture onto each fried batter piece, leaving a small border around the edges.",
+    "Fold the batter in half over the filling, then fold the ends in to form a rectangular spring roll shape.",
+    "Brush each roll lightly with sesame oil and place them on a preheated binchotan grill, cooking for 2–3 minutes per side until the exterior is crisp and slightly charred.",
+    "Serve the rolls hot with a side of lime wedges for squeezing and a drizzle of extra soy sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan",
+    "dim-sum",
+    "egg-free",
+    "quick",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 7,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "wild-spicy-chinese-daikon-spring-rolls",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wild-spicy-chinese-daikon-spring-rolls",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:28:27Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "daikon",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Daikon",
+    "descriptor": "Wild Spicy",
+    "dishForm": "Spring Rolls"
+  }
+}
