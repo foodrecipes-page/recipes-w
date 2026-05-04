@@ -1,0 +1,97 @@
+{
+  "title": "Warm Crispy Uruguayan Spring Onions Skewers",
+  "description": "A herbal and crispy Uruguayan dish featuring spring onions, perfect for a comforting snack, this recipe is egg-free friendly and easy to make.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "spring onions",
+      "amount": "12",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Thread the spring onions onto skewers.",
+    "In a bowl, mix together olive oil, garlic powder, paprika, salt, and black pepper.",
+    "Brush the mixture onto the spring onions.",
+    "Grill the skewers for 5 minutes per side.",
+    "Meanwhile, mix together parsley, lemon juice, and water in a bowl.",
+    "Once the skewers are done, brush them with the parsley mixture.",
+    "Serve the skewers warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comforting",
+    "crispy",
+    "gluten-free",
+    "grilled",
+    "herbal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "warm-crispy-uruguayan-spring-onions-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-uruguayan-spring-onions-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:27:27Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "grill",
+    "primaryIngredient": "spring onions",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "spring onions",
+    "descriptor": "Warm Crispy",
+    "dishForm": "Skewers"
+  }
+}
