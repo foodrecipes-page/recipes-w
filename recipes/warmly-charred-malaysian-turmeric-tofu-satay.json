@@ -1,0 +1,94 @@
+{
+  "title": "Warmly Charred Malaysian Turmeric Tofu Satay",
+  "description": "A plant-based version of the traditional Malaysian dish, featuring charred and flaky tofu infused with turmeric and other spices, served with a side of peanut sauce for a nostalgic and savory experience.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into skewers"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together turmeric powder, coconut milk, peanut oil, peanut butter, lime juice, galangal, and salt to make the marinade.",
+    "Add the tofu skewers to the marinade and refrigerate for at least 30 minutes.",
+    "Remove the tofu from the marinade and cook on the grill for 3-4 minutes per side, or until charred and flaky.",
+    "Serve the satay hot with a side of peanut sauce for dipping.",
+    "To make the peanut sauce, combine peanut butter, coconut milk, and lime juice in a blender and blend until smooth.",
+    "Adjust the seasoning of the peanut sauce as needed.",
+    "Garnish the satay with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "malaysian-inspired",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "warmly-charred-malaysian-turmeric-tofu-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-charred-malaysian-turmeric-tofu-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:55:13Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "blanch",
+    "primaryIngredient": "turmeric",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "turmeric tofu",
+    "descriptor": "Warmly charred",
+    "dishForm": "Satay"
+  }
+}
