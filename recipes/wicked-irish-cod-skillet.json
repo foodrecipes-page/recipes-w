@@ -1,0 +1,107 @@
+{
+  "title": "Wicked Irish Cod Skillet",
+  "description": "Charred, silky cod served in a quick one-pan Irish skillet, dairy‑free and bursting with bright lemon and capers.",
+  "cuisine": "Irish",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "8 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juice only"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium‑high and add 2 tablespoons of olive oil.",
+    "Season both sides of the cod with smoked paprika, sea salt, and black pepper.",
+    "Sear the fillets for 3 minutes until a dark crust forms on the bottom side.",
+    "Flip the fillets, cook another 2 minutes, then add minced garlic, capers, and a splash of vegetable stock.",
+    "Reduce heat to medium, cover, and simmer 3 minutes until the cod reaches 145°F and flakes easily.",
+    "Remove the cod, squeeze lemon juice over it, and drizzle maple syrup for a glossy finish.",
+    "Return the skillet to the stove, reduce the liquid into a silky sauce for 2 minutes.",
+    "Sprinkle chopped parsley, stir briefly, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "irish",
+    "one-pan",
+    "quick",
+    "seafood",
+    "show-off"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 4,
+    "fat": 27
+  },
+  "slug": "wicked-irish-cod-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wicked-irish-cod-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:19:20Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "saute",
+    "primaryIngredient": "cod",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Cod",
+    "descriptor": "Wicked",
+    "dishForm": "Skillet"
+  }
+}

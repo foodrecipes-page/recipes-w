@@ -1,0 +1,95 @@
+{
+  "title": "Warm Gooey Croatian Mars Bar Bake",
+  "description": "A kid-friendly Croatian dessert featuring Mars bars, nuts, and a sweet gooey sauce, cooked to perfection in a fondue pot. This Jain-friendly treat is perfect for a sweet tooth.",
+  "cuisine": "Croatian",
+  "diet": [
+    "Jain",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars bars",
+      "amount": "12",
+      "notes": "chopped"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, brown sugar, and sea salt.",
+    "Add the melted butter, heavy cream, and vanilla extract to the bowl and stir until combined.",
+    "Add the chopped hazelnuts and Mars bars to the bowl and stir until they are evenly coated with the sugar mixture.",
+    "Pour the mixture into the preheated fondue pot and cook for 10 minutes, stirring occasionally.",
+    "Reduce the heat to 250 degrees Fahrenheit and cook for an additional 5 minutes, stirring frequently.",
+    "Remove the fondue pot from the heat and let it cool for 2 minutes.",
+    "Serve the warm gooey Croatian Mars bar bake in small cups or bowls and enjoy.",
+    "Garnish with additional chopped hazelnuts and Mars bars, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "dessert",
+    "fondue",
+    "jain-friendly",
+    "kid-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-gooey-croatian-mars-bar-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-gooey-croatian-mars-bar-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:18:40Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "braise",
+    "primaryIngredient": "mars bar",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Mars Bar",
+    "descriptor": "Warm Gooey",
+    "dishForm": "Bake"
+  }
+}
