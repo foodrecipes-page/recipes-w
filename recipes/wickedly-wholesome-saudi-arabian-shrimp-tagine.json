@@ -1,0 +1,111 @@
+{
+  "title": "Wickedly Wholesome Saudi-Arabian Shrimp Tagine",
+  "description": "A flavorful, tangy, and aromatic Saudi-Arabian dish featuring ginger garlic paste, marinate, and kosher-friendly ingredients.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "kosher",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "ginger garlic paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and sauté until softened, about 3-4 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the ginger garlic paste and stir for 1-2 minutes.",
+    "Add the cumin powder, coriander powder, cayenne pepper, salt, and black pepper. Stir for 1 minute.",
+    "Add the lemon juice and stir for 1-2 minutes, until the mixture thickens slightly.",
+    "Add the shrimp and stir to coat with the spice mixture.",
+    "Reduce heat to low and simmer for 5-7 minutes, or until the shrimp are pink and cooked through.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "saudi-arabian",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "wickedly-wholesome-saudi-arabian-shrimp-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wickedly-wholesome-saudi-arabian-shrimp-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T01:22:09Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "marinate",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Wickedly Wholesome",
+    "dishForm": "Tagine"
+  }
+}
