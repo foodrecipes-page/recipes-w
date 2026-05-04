@@ -1,0 +1,106 @@
+{
+  "title": "Warmly Spiced Peruvian Chicken Aji De Gallina",
+  "description": "A malty, aerated, one-pot Peruvian dish featuring treacle and double-rise-bread, ovo-vegetarian-friendly, in the form of aji-de-gallina.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "2 cups",
+      "notes": "torn into small pieces"
+    },
+    {
+      "name": "treacle",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "2",
+      "notes": "seeded, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egg",
+      "amount": "2",
+      "notes": "hard-boiled, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the treacle in a large pot over medium heat until it starts to bubble.",
+    "Add the chopped aji amarillo pepper and cook for 1 minute, stirring constantly.",
+    "Add the garlic and cook for another minute, stirring constantly.",
+    "Add the chicken breast and cook until browned on all sides, about 5 minutes.",
+    "Add the heavy cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and let it cook for 10 minutes, stirring occasionally.",
+    "Stir in the chopped walnuts and cook for 1 minute.",
+    "Add the torn double-rise-bread and cook until the bread is toasted and the mixture is heated through.",
+    "Stir in the chopped hard-boiled egg and season with salt and black pepper to taste.",
+    "Serve the aji de gallina hot, garnished with additional chopped walnuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipe",
+    "comfort-food",
+    "one-pot-meal",
+    "ovo-vegetarian",
+    "peruvian-cuisine",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "warmly-spiced-peruvian-chicken-aji-de-gallina",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-peruvian-chicken-aji-de-gallina",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:22:34Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "treacle",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Warmly Spiced",
+    "dishForm": "Aji De Gallina"
+  }
+}

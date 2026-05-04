@@ -1883,6 +1883,21 @@
     "shard": "w"
   },
   {
+    "slug": "warmly-spiced-peruvian-chicken-aji-de-gallina",
+    "title": "Warmly Spiced Peruvian Chicken Aji De Gallina",
+    "tags": [
+      "chicken-recipe",
+      "comfort-food",
+      "one-pot-meal",
+      "ovo-vegetarian",
+      "peruvian-cuisine",
+      "spicy-food"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warmly-spiced-uruguayan-pak-choi-stew",
     "title": "Warmly Spiced Uruguayan Pak Choi Stew",
     "tags": [
