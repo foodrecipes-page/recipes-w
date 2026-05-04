@@ -1,0 +1,106 @@
+{
+  "title": "Warm Briny Northern Thai Persian Cucumber Tom Yum",
+  "description": "A low-calorie, briny, and bouncy Northern Thai-inspired Tom Yum dish featuring char-grilled Persian cucumber, perfect for a sick day pick-me-up.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Persian cucumber",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Grilled chili peppers",
+      "amount": "2 peppers",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "Galangal",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Char-grill the Persian cucumber slices until slightly blackened and tender.",
+    "In a large pot, combine the chicken broth, fish sauce, lime juice, grilled chili peppers, lemongrass, and galangal.",
+    "Bring the mixture to a boil, then reduce the heat to a simmer.",
+    "Add the sliced mushrooms to the pot and cook until they are tender.",
+    "Add the char-grilled cucumber slices to the pot and cook for an additional 2 minutes.",
+    "Stir in the chopped cilantro and Thai basil.",
+    "Season the Tom Yum with salt and pepper to taste.",
+    "Serve the Tom Yum hot, garnished with additional cilantro and Thai basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-calorie",
+    "one-pot",
+    "soups",
+    "spicy",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "warm-briny-northern-thai-persian-cucumber-tom-yum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-briny-northern-thai-persian-cucumber-tom-yum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:50:18Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "persian cucumber",
+    "diet": "low-calorie",
+    "region": "northern-thai",
+    "cuisineAdjective": "Northern Thai",
+    "mainIngredient": "Persian Cucumber",
+    "descriptor": "Warm Briny",
+    "dishForm": "Tom Yum"
+  }
+}
