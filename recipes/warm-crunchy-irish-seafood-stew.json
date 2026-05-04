@@ -1,0 +1,103 @@
+{
+  "title": "Warm Crunchy Irish Seafood Stew",
+  "description": "A resinous, nut-free, terracotta-baked Irish seafood stew with a crispy breadcrumb topping that showcases bold maritime flavors.",
+  "cuisine": "Irish",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mixed seafood (shrimp, scallops, mussels)",
+      "amount": "1.5 lbs"
+    },
+    {
+      "name": "Seafood stock",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Mirepoix (onion, carrot, celery), diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cognac",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the terracotta pot over medium heat and add the olive oil, then sauté the mirepoix until softened, about 5 minutes.",
+    "Stir in the minced garlic and cook for 30 seconds until fragrant.",
+    "Sprinkle the flour and smoked paprika over the vegetables, stirring constantly for 1 minute to eliminate raw flour taste.",
+    "Pour in the cognac, swirling to deglaze the pot; let the alcohol evaporate for 1 minute.",
+    "Add the seafood stock and dried thyme, then bring the mixture to a gentle simmer.",
+    "Gently fold in the mixed seafood, cover, and simmer for 5 minutes until the mussels have opened.",
+    "Remove the pot from heat, then stir in the lemon juice and chopped parsley.",
+    "Place the pot in a preheated oven at 350°F, baking for 5 minutes to crisp the panko breadcrumbs on top.",
+    "Let the stew rest for 2 minutes before serving, allowing the flavors to meld."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "irish",
+    "dinner"
+  ],
+  "slug": "warm-crunchy-irish-seafood-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crunchy-irish-seafood-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:13:14Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "braise",
+    "primaryIngredient": "seafood stock",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Seafood",
+    "descriptor": "Warm Crunchy",
+    "dishForm": "Stew"
+  }
+}

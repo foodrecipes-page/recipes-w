@@ -197,6 +197,17 @@
     "shard": "w"
   },
   {
+    "slug": "warm-crunchy-irish-seafood-stew",
+    "title": "Warm Crunchy Irish Seafood Stew",
+    "tags": [
+      "irish",
+      "dinner"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crunchy-syrian-goat-cheese-bowl",
     "title": "Warm Crunchy Syrian Goat Cheese Bowl",
     "tags": [
