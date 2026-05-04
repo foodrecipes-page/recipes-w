@@ -652,6 +652,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-french-sausage-gratin",
+    "title": "Warm French Sausage Gratin",
+    "tags": [
+      "comfort-food",
+      "french-cuisine",
+      "lacto-vegetarian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-french-vialone-nano-ratatouille",
     "title": "Warm French Vialone Nano Ratatouille",
     "tags": [

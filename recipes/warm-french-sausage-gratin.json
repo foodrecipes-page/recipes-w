@@ -1,0 +1,104 @@
+{
+  "title": "Warm French Sausage Gratin",
+  "description": "A lacto-vegetarian-friendly dish from Brittany featuring Italian fennel sausages in a rich beurre-monte sauce, served in individual mini cocottes.",
+  "cuisine": "French",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian fennel sausages",
+      "amount": "4",
+      "notes": "sweet Italian sausage with fennel seeds"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/2 cup",
+      "notes": "mountain butter with garlic and parsley"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "whipping cream"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the Italian fennel sausages in a skillet over medium heat until browned on all sides.",
+    "Slice the cooked sausages into 1/2 inch thick rounds.",
+    "In a separate saucepan, combine the beurre-monte, heavy cream, and shredded gruyere cheese, and stir over low heat until the cheese is melted and the sauce is smooth.",
+    "Add the sliced onion and minced garlic to the saucepan and cook until the onion is translucent.",
+    "Stir in the dried thyme, salt, and black pepper.",
+    "Butter the inside of four individual mini cocottes.",
+    "Add a few slices of sausage to each cocotte, then spoon some of the beurre-monte sauce over the sausage.",
+    "Top each cocotte with additional shredded gruyere cheese.",
+    "Bake the gratins in the preheated oven for 15 minutes, or until the cheese is golden brown and the sauce is bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "warm-french-sausage-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-french-sausage-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:58:47Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "beurre-monte",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "lacto-vegetarian",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "sausages",
+    "descriptor": "Warm pillowy",
+    "dishForm": "Gratin"
+  }
+}
