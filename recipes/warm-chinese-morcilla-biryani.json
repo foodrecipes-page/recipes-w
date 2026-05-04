@@ -1,0 +1,106 @@
+{
+  "title": "Warm Chinese Morcilla Biryani",
+  "description": "A savory and umami one-pot Chinese dish featuring morcilla, this Warm Chinese Morcilla Biryani is a perfect meal for any time of day, with its chewy texture and anti-inflammatory friendly ingredients. It is cooked in a ramekin for a unique presentation.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "morcilla",
+      "amount": "1 cup",
+      "notes": "Spanish blood sausage"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the diced onion to the skillet and cook until it is translucent.",
+    "Add the grated ginger and minced garlic to the skillet and cook for 1 minute.",
+    "Add the morcilla to the skillet, breaking it up with a spoon as it cooks.",
+    "Add the turmeric, cumin, salt, and black pepper to the skillet and stir to combine.",
+    "Add the jasmine rice to the skillet, stirring to combine with the morcilla mixture.",
+    "Transfer the mixture to a ramekin and cover it with aluminum foil.",
+    "Bake the biryani in the preheated oven for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "chinese-inspired",
+    "dairy-free",
+    "gluten-free",
+    "one-pot",
+    "ramekin-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "warm-chinese-morcilla-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-chinese-morcilla-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:29:04Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "fry",
+    "primaryIngredient": "morcilla",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "morcilla",
+    "descriptor": "Warm Umami",
+    "dishForm": "Biryani"
+  }
+}
