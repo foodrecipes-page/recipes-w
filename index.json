@@ -1045,6 +1045,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-smoky-vietnamese-beef-pho-bo",
+    "title": "Warm Smoky Vietnamese Beef Pho Bo",
+    "tags": [
+      "beef",
+      "gluten-free",
+      "low-calorie",
+      "noodle-soup",
+      "one-pot",
+      "smoky",
+      "vietnamese"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 90,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spanish-peanut-crema-catalana",
     "title": "Warm Spanish Peanut Crema Catalana",
     "tags": [

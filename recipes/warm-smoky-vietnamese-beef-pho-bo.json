@@ -1,0 +1,109 @@
+{
+  "title": "Warm Smoky Vietnamese Beef Pho Bo",
+  "description": "A pungent and crowd-pleasing Vietnamese dish featuring coriander and smoke, this low-calorie-friendly pho bo is a cheese-pull delight",
+  "cuisine": "vietnamese",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef bones",
+      "amount": "2 pounds",
+      "notes": "preferably oxtail or beef neck bones"
+    },
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole",
+      "notes": "toasted"
+    },
+    {
+      "name": "cinnamon sticks",
+      "amount": "2",
+      "notes": "toasted"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tablespoon",
+      "notes": "toasted"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 pound"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Roast the beef bones in the oven for 30 minutes",
+    "In a large pot, char the onion and ginger over high heat",
+    "Add the star anise, cinnamon sticks, and coriander seeds to the pot and toast for 1 minute",
+    "Add the beef brisket to the pot and cook until browned",
+    "Add the fish sauce and soy sauce to the pot and stir to combine",
+    "Add 4 quarts of water to the pot and bring to a boil",
+    "Reduce the heat to low and simmer for 1 hour",
+    "Cook the rice noodles according to package instructions",
+    "Assemble the pho bo by placing noodles in a bowl, adding sliced beef, and ladling the hot broth over the top"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 70,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "gluten-free",
+    "low-calorie",
+    "noodle-soup",
+    "one-pot",
+    "smoky",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "warm-smoky-vietnamese-beef-pho-bo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-vietnamese-beef-pho-bo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:59:45Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "smoke",
+    "primaryIngredient": "coriander",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Pho Bo"
+  }
+}
