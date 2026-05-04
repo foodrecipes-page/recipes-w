@@ -83,6 +83,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-arabian-lentil-pilaf",
+    "title": "Warm Arabian Lentil Pilaf",
+    "tags": [
+      "halal",
+      "high-protein",
+      "low-fat",
+      "meal-prep",
+      "one-pot",
+      "quick-cooking"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-argentinian-chicken-stew",
     "title": "Warm Argentinian Chicken Stew",
     "tags": [

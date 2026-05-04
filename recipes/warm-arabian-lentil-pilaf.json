@@ -1,0 +1,108 @@
+{
+  "title": "Warm Arabian Lentil Pilaf",
+  "description": "Pungently spiced lentil pilaf with toasted sesame seeds and aromatic bay leaf, perfect for meal prep.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red lentils",
+      "amount": "250 g"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "500 ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tbsp toasted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium chopped"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Rinse lentils under cold water until clear.",
+    "In a pot, heat olive oil over medium heat until shimmering.",
+    "Add diced onion and cook until translucent, about 3 minutes.",
+    "Stir in minced garlic, chopped carrot, cumin, coriander, cardamom, and salt, and cook for 2 minutes until fragrant.",
+    "Add rinsed lentils and vegetable stock, bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes until lentils are tender.",
+    "Stir in toasted sesame seeds and the bay leaf.",
+    "Cook uncovered for an additional 5 minutes to thicken the pilaf.",
+    "Remove from heat, fluff the mixture with a fork, and let it rest for 5 minutes.",
+    "Divide into meal prep containers, cool, and refrigerate or reheat before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "halal",
+    "high-protein",
+    "low-fat",
+    "meal-prep",
+    "one-pot",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 11,
+    "carbs": 35,
+    "fat": 6
+  },
+  "slug": "warm-arabian-lentil-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-arabian-lentil-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:56:43Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "rest",
+    "primaryIngredient": "sesame seed",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "lentil",
+    "descriptor": "Warm",
+    "dishForm": "Pilaf"
+  }
+}
