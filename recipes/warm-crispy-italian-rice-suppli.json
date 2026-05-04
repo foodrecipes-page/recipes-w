@@ -1,0 +1,97 @@
+{
+  "title": "Warm Crispy Italian Rice Suppli",
+  "description": "A fermented, fluffy Italian dish from Emilia-Romagna, featuring chervil and lardons, served in a talavera plate, perfect for a date night.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arborio rice",
+      "amount": "1 1/2 cups",
+      "notes": "preferably fermented for 24 hours"
+    },
+    {
+      "name": "Lardons",
+      "amount": "6 slices",
+      "notes": "rendered and crumbled"
+    },
+    {
+      "name": "Chervil",
+      "amount": "1/4 cup",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "Grana Padano cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the fermented Arborio rice, crumbled lardons, chopped chervil, and grated Grana Padano cheese.",
+    "In a separate bowl, beat the egg and mix it with the rice mixture until well combined.",
+    "Using your hands, shape the mixture into small suppli forms.",
+    "Dip each suppli into the beaten egg and then roll it in the breadcrumbs to coat.",
+    "Place the coated suppli on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the suppli and sprinkle with salt to taste.",
+    "Bake the suppli in the preheated oven for 15 minutes or until crispy and golden brown.",
+    "Serve the warm crispy Italian rice suppli in a talavera plate and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "emilia-romagna",
+    "italian-cuisine",
+    "low-calorie",
+    "suppli",
+    "talavera-plate"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "warm-crispy-italian-rice-suppli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-italian-rice-suppli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:03:23Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "lardons-render",
+    "primaryIngredient": "chervil",
+    "diet": "low-calorie",
+    "region": "emilia-romagna",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "rice",
+    "descriptor": "Warm Crispy",
+    "dishForm": "Suppli"
+  }
+}
