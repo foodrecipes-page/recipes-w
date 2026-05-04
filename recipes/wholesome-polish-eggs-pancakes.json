@@ -1,0 +1,104 @@
+{
+  "title": "Wholesome Polish Eggs Pancakes",
+  "description": "Fluffy, crowd-pleasing Polish pancakes made with eggs, flour, and a touch of cream of tartar, baked to perfection for a wholesome breakfast.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "large eggs",
+      "amount": "3"
+    },
+    {
+      "name": "milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "water",
+      "amount": "100ml"
+    },
+    {
+      "name": "cream of tartar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "30g"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tbsp",
+      "notes": "for greasing pan"
+    },
+    {
+      "name": "sour cream",
+      "amount": "4 tbsp",
+      "notes": "optional topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and grease a 20cm baking pan with melted butter.",
+    "In a bowl, whisk the eggs, milk, water, and sugar until well combined.",
+    "Sift flour, baking powder, and cream of tartar into a separate bowl and add a pinch of salt.",
+    "Gradually stir the dry ingredients into the wet mixture until a smooth batter forms.",
+    "Pour the batter evenly into the prepared pan, spreading it out with a spatula.",
+    "Bake the batter for 15 minutes until the top is lightly golden and a toothpick comes out clean.",
+    "Remove the pan from the oven and let the pancakes cool for 5 minutes before slicing.",
+    "Serve slices warm topped with a dollop of sour cream and a drizzle of melted butter.",
+    "Enjoy the fluffy, crowd-pleasing Polish egg pancakes for a wholesome breakfast."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bake",
+    "breakfast",
+    "crowd-pleaser",
+    "easy",
+    "fluffy",
+    "high-protein",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 120,
+    "fat": 40
+  },
+  "slug": "wholesome-polish-eggs-pancakes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-polish-eggs-pancakes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:32:50Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "bake",
+    "primaryIngredient": "cream of tartar",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Eggs",
+    "descriptor": "Wholesome",
+    "dishForm": "Pancakes"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "title": "Wholesome Turkish Almonds Kunefe",
+  "description": "A resinous, aerated hangover cure Turkish dessert featuring almond extract, bhuna roasted almonds, and a lotus leaf wrap.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fine semolina",
+      "amount": "200g"
+    },
+    {
+      "name": "Water",
+      "amount": "200ml"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "50g"
+    },
+    {
+      "name": "Ghee",
+      "amount": "20g"
+    },
+    {
+      "name": "Sugar",
+      "amount": "80g"
+    },
+    {
+      "name": "Honey",
+      "amount": "30g"
+    },
+    {
+      "name": "Almond extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground almonds",
+      "amount": "100g"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Pinch salt",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Bring 200ml water to a boil in a saucepan, then add 200g fine semolina, reduce heat, and cook for 8 minutes, stirring frequently until thickened, then set aside to cool.",
+    "Melt 50g unsalted butter and 20g ghee in a skillet over medium heat, stir in 80g sugar and 30g honey until dissolved, and remove from heat.",
+    "Combine the butter-ghee syrup with the warm semolina, fold in 1 tsp almond extract and a pinch of salt, and let the mixture cool to room temperature.",
+    "In a dry pan, bhuna 100g ground almonds over low heat until fragrant and lightly toasted, about 5 minutes, stirring constantly.",
+    "Fold the toasted almonds into the semolina mixture, ensuring even distribution.",
+    "Line a lotus leaf wrap with parchment paper, pour a layer of the semolina–almond mixture onto the center, and press gently to form a 5cm square.",
+    "Drizzle 1 tbsp fresh lemon juice over the top, and sprinkle a light dusting of powdered sugar for garnish.",
+    "Fold the lotus leaf sides over the filling, sealing them with a small stick of butter, making a compact roll.",
+    "Place the wrapped roll in a preheated oven at 180°C for 20 minutes until the exterior is slightly golden.",
+    "Remove from oven, let cool 5 minutes, then cut into bite-sized pieces and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "almond-focused",
+    "hangover-cure",
+    "mediterranean-friendly",
+    "quick-dessert",
+    "resinous",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 7,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "wholesome-turkish-almonds-kunefe",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-turkish-almonds-kunefe",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:32:19Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "bhuna",
+    "primaryIngredient": "almond extract",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "almonds",
+    "descriptor": "Wholesome",
+    "dishForm": "Kunefe"
+  }
+}

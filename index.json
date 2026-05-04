@@ -3366,6 +3366,22 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-polish-eggs-pancakes",
+    "title": "Wholesome Polish Eggs Pancakes",
+    "tags": [
+      "bake",
+      "breakfast",
+      "crowd-pleaser",
+      "easy",
+      "fluffy",
+      "high-protein",
+      "polish"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-polish-rice-stir-fry",
     "title": "Wholesome Polish Rice Stir-fry",
     "tags": [
@@ -3600,6 +3616,22 @@
       "weeknight"
     ],
     "cuisine": "tunisian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-turkish-almonds-kunefe",
+    "title": "Wholesome Turkish Almonds Kunefe",
+    "tags": [
+      "aerated",
+      "almond-focused",
+      "hangover-cure",
+      "mediterranean-friendly",
+      "quick-dessert",
+      "resinous",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
     "totalTimeMin": 45,
     "shard": "w"
   },
