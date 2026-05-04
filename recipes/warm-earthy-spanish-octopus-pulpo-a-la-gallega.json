@@ -1,0 +1,105 @@
+{
+  "title": "Warm Earthy Spanish Octopus Pulpo A La Gallega",
+  "description": "A traditional Spanish dish featuring tender octopus in a rich and creamy sauce, perfect for a romantic dinner",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-fodmap",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "octopus",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "golden caster sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "candy cap mushrooms",
+      "amount": "1/2 cup",
+      "notes": "dried, rehydrated"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the octopus under cold water, then cut it into small pieces and set aside",
+    "Heat the olive oil in a large saucepan over medium heat",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize",
+    "Add the minced garlic and cook for an additional minute, stirring constantly",
+    "Stir in the paprika and cook for 1 minute",
+    "Add the golden caster sugar, candy cap mushrooms, and cooked octopus to the saucepan",
+    "Pour in the heavy cream and bring the mixture to a simmer",
+    "Reduce the heat to low and let the sauce simmer for 10 minutes, stirring occasionally",
+    "Season the sauce with salt and black pepper to taste",
+    "Serve the pulpo a la gallega hot, garnished with chopped fresh parsley if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-fodmap",
+    "one-pan",
+    "romantic-dinner",
+    "seafood",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "warm-earthy-spanish-octopus-pulpo-a-la-gallega",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-earthy-spanish-octopus-pulpo-a-la-gallega",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:54:53Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "candy",
+    "primaryIngredient": "golden caster sugar",
+    "diet": "fodmap",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "octopus",
+    "descriptor": "Warm Earthy",
+    "dishForm": "Pulpo A La Gallega"
+  }
+}
