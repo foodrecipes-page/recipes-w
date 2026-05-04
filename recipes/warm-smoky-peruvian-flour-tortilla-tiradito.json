@@ -1,0 +1,101 @@
+{
+  "title": "Warm Smoky Peruvian Flour Tortilla Tiradito",
+  "description": "A smoky and tender Peruvian dish featuring flour tortilla, perfect for a brunch mood, with a low sodium content, served in a tiradito form",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flour tortilla",
+      "amount": "4 large",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a non stick skillet over medium heat",
+    "In a small bowl mix together smoked paprika, garlic, coriander, salt, and black pepper",
+    "Brush the flour tortillas with olive oil and sprinkle the smoked paprika mixture evenly over the tortillas",
+    "Place the tortillas in the skillet and cook for 2 minutes on each side, until they are warm and slightly charred",
+    "In a separate bowl mix together lime juice, chopped red onion, and chopped aji amarillo pepper",
+    "To assemble the tiradito place a cooked tortilla on a plate and spoon the lime juice mixture over the top",
+    "Repeat the layers one more time and garnish with additional chopped red onion and aji amarillo pepper if desired",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "flour-tortilla-recipes",
+    "low-sodium-recipes",
+    "peruvian-cuisine",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "warm-smoky-peruvian-flour-tortilla-tiradito",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-peruvian-flour-tortilla-tiradito",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:39:34Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "caramelize",
+    "primaryIngredient": "flour tortilla",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "flour tortilla",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Tiradito"
+  }
+}
