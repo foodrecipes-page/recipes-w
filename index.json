@@ -1893,6 +1893,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-smoked-argentinian-lamb-grill",
+    "title": "Warm Smoked Argentinian Lamb Grill",
+    "tags": [
+      "argentinian",
+      "grilled",
+      "lamb",
+      "one-pan",
+      "satvik-friendly",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 65,
+    "shard": "w"
+  },
+  {
     "slug": "warm-smoked-slovakian-pork-tagine",
     "title": "Warm Smoked Slovakian Pork Tagine",
     "tags": [

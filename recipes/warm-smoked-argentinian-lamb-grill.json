@@ -1,0 +1,97 @@
+{
+  "title": "Warm Smoked Argentinian Lamb Grill",
+  "description": "A sweet and savory dish featuring the rich flavors of smoked paprika, perfect for a solo dinner.",
+  "cuisine": "argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons",
+      "notes": "sweet, not hot"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing lamb"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "preferably kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 sprig",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400°F (200°C).",
+    "Season the lamb shoulder with salt, pepper, and smoked paprika, making sure to coat it evenly.",
+    "Brush the grill grates with olive oil to prevent sticking.",
+    "Sear the lamb shoulder for 2-3 minutes per side, or until it develops a nice crust.",
+    "Transfer the lamb to a cooler part of the grill, such as the edges or a warming rack.",
+    "Continue cooking the lamb for another 30-40 minutes, or until it reaches an internal temperature of 145°F (63°C).",
+    "Remove the lamb from the grill and let it rest for 10-15 minutes before slicing.",
+    "Carve the lamb into thick slices and serve immediately, garnished with a sprig of rosemary and a drizzle of lemon juice.",
+    "Serve on a lazy Susan spinner for a fun and interactive dining experience."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "grilled",
+    "lamb",
+    "one-pan",
+    "satvik-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "warm-smoked-argentinian-lamb-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoked-argentinian-lamb-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:45:42Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "sweet smoked paprika",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Smoked",
+    "dishForm": "Grill"
+  }
+}
