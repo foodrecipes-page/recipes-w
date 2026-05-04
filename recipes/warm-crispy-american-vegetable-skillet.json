@@ -1,0 +1,109 @@
+{
+  "title": "Warm Crispy American Vegetable Skillet",
+  "description": "A hearty, earthy, one-pot dish featuring crispy vegetables and Parmigiano-Reggiano cheese, perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Parmigiano-Reggiano cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until it starts to brown, about 5 minutes.",
+    "Add the chopped bell pepper and cook for an additional 3 minutes.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown, about 5 minutes.",
+    "Add the chopped zucchini and cook until it starts to soften, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Push the vegetables to one side of the skillet, then add the beaten eggs to the other side and scramble them until cooked through.",
+    "Mix the eggs with the vegetables, then stir in the grated Parmigiano-Reggiano cheese.",
+    "Season with salt and black pepper to taste.",
+    "Serve the skillet hot, garnished with additional cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "crispy-vegetables",
+    "one-pan",
+    "ovo-vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 28
+  },
+  "slug": "warm-crispy-american-vegetable-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-american-vegetable-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:44:19Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "steam",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "vegetables",
+    "descriptor": "Warm Crispy",
+    "dishForm": "Skillet"
+  }
+}
