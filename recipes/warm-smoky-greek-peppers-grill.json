@@ -1,0 +1,107 @@
+{
+  "title": "Warm Smoky Greek Peppers Grill",
+  "description": "Pungent, date-night Greek dish featuring smoky peppers, perfect for a romantic evening.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bell Peppers",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Kalamata Olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut the tops off the bell peppers and remove seeds.",
+    "In a small bowl, mix together feta cheese, kalamata olives, fresh oregano, and garlic.",
+    "Stuff each bell pepper with the cheese mixture.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Place the bell peppers on the grill and cook for 5 minutes per side.",
+    "Transfer the peppers to a baking dish and brush with lemon juice.",
+    "Season with salt and black pepper to taste.",
+    "Bake in a preheated oven at 375°F for 10 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "feta-cheese",
+    "greek",
+    "grilled-peppers",
+    "herbs",
+    "olive-oil",
+    "summer-dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "warm-smoky-greek-peppers-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-greek-peppers-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T15:06:58Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "peppers",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "peppers",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Grill"
+  }
+}

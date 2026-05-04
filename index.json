@@ -1559,6 +1559,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-smoky-greek-peppers-grill",
+    "title": "Warm Smoky Greek Peppers Grill",
+    "tags": [
+      "date-night",
+      "feta-cheese",
+      "greek",
+      "grilled-peppers",
+      "herbs",
+      "olive-oil",
+      "summer-dinner"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-smoky-norwegian-beet-stew",
     "title": "Warm Smoky Norwegian Beet Stew",
     "tags": [
