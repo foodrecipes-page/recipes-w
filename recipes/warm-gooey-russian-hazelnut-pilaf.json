@@ -1,0 +1,93 @@
+{
+  "title": "Warm Gooey Russian Hazelnut Pilaf",
+  "description": "A hearty, cultured post-workout dish featuring shelled hazelnuts, this pilaf is a satisfying Russian-inspired meal, kosher-friendly and made with sous-vide precision.",
+  "cuisine": "Russian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shelled hazelnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "long grain rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 180 degrees Fahrenheit.",
+    "In a large bowl, combine the chopped hazelnuts, rice, water, olive oil, diced onion, minced garlic, dried thyme, and salt.",
+    "Stir the mixture well to combine.",
+    "Transfer the mixture to a sous-vide safe bag and seal.",
+    "Place the bag in the sous-vide machine and cook for 45 minutes.",
+    "Remove the bag from the machine and carefully cut it open.",
+    "Fluff the pilaf with a fork to separate the grains.",
+    "Serve the pilaf warm, garnished with additional chopped hazelnuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hazelnut-recipes",
+    "kosher-friendly",
+    "post-workout",
+    "russian-cuisine",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "warm-gooey-russian-hazelnut-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-gooey-russian-hazelnut-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:40:58Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "Warm gooey",
+    "dishForm": "Pilaf"
+  }
+}
