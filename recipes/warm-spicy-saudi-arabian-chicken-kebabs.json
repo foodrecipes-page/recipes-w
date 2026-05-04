@@ -1,0 +1,105 @@
+{
+  "title": "Warm Spicy Saudi Arabian Chicken Kebabs",
+  "description": "A fatty and snappy weeknight Saudi Arabian dish featuring chicken, spices, and a sweet surprise, this recipe is nut-free friendly and perfect for a quick dinner, it does not actually include mars bar or beurre-monte as those ingredients are not typically used in traditional Saudi Arabian cuisine",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "Whisk together olive oil, lemon juice, garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper in a large bowl.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the chicken onto skewers, leaving a little space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the chicken for 10-12 minutes, turning occasionally, until cooked through.",
+    "Brush the chicken with honey during the last minute of cooking.",
+    "Serve the chicken hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "grilled",
+    "middle-eastern",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 12,
+    "fat": 14
+  },
+  "slug": "warm-spicy-saudi-arabian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-saudi-arabian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:21:53Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "beurre-monte",
+    "primaryIngredient": "mars bar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "chicken",
+    "descriptor": "warm spicy",
+    "dishForm": "Kebabs"
+  }
+}

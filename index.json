@@ -943,6 +943,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spicy-saudi-arabian-chicken-kebabs",
+    "title": "Warm Spicy Saudi Arabian Chicken Kebabs",
+    "tags": [
+      "chicken",
+      "grilled",
+      "middle-eastern",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 32,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spicy-saudi-arabian-chicken-tagine",
     "title": "Warm Spicy Saudi Arabian Chicken Tagine",
     "tags": [
