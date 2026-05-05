@@ -1,0 +1,125 @@
+{
+  "title": "Winey Irish Lamb Braise",
+  "description": "A hearty and flavorful Irish dish featuring lamb, dried mint, and a rich wine sauce. Perfect for a lazy Sunday afternoon.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2-inch pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dredging lamb"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 medium",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "carrots, peeled and chopped",
+      "amount": "2 medium",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "celery, chopped",
+      "amount": "2 stalks",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "4 cloves",
+      "notes": "about 2 tablespoons"
+    },
+    {
+      "name": "dried mint",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "such as Cabernet Sauvignon or Merlot"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "such as kosher or sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven or heavy pot, heat 1 tablespoon of butter over medium-high heat. Add the lamb pieces and cook until browned on all sides, about 5 minutes. Remove the lamb from the pot and set aside.",
+    "Add the remaining 1 tablespoon of butter to the pot and cook until melted. Add the onion, carrots, and celery and cook until the vegetables are tender, about 10 minutes.",
+    "Add the garlic, dried mint, salt, and pepper to the pot and cook for 1 minute, stirring constantly.",
+    "Add the red wine to the pot and cook until reduced by half, about 5 minutes, scraping up any browned bits from the bottom of the pot.",
+    "Add the beef broth, brown sugar (if using), and browned lamb to the pot. Bring the mixture to a simmer.",
+    "Cover the pot and transfer it to the oven. Braise the lamb for 2 1/2 to 3 hours, or until tender and falling apart.",
+    "Remove the pot from the oven and let it cool slightly. Serve the lamb and sauce hot, garnished with fresh mint leaves if desired.",
+    "Make sure to skim off any excess fat from the sauce before serving.",
+    "Serve the Winey Irish Lamb Braise with mashed potatoes, crusty bread, or over egg noodles.",
+    "Note: If you prefer a thicker sauce, you can reduce the amount of beef broth or add a little cornstarch or flour to thicken.",
+    "To make the dish ahead of time, cook the lamb and sauce as directed, then refrigerate or freeze until ready to serve.",
+    "To reheat, simmer the lamb and sauce over low heat until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braise",
+    "comfort-food",
+    "irish",
+    "lamb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 38,
+    "carbs": 22,
+    "fat": 43
+  },
+  "slug": "winey-irish-lamb-braise",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-irish-lamb-braise",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:14Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "deglaze",
+    "primaryIngredient": "dried mint",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Winey",
+    "dishForm": "Braise"
+  }
+}
