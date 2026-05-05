@@ -1,0 +1,97 @@
+{
+  "title": "Warm Peruvian Beef Grilled Skewers",
+  "description": "A traditional Peruvian dish, rich in flavor and easy to make, featuring grilled beef on skewers served with a side of toasted bread and a squeeze of lime juice. This recipe is egg-free-friendly and can be prepared in just 30 minutes.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "you can adjust to taste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "jalape\u00073o pepper",
+      "amount": "1 pepper",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Thread beef strips onto skewers. In a large bowl whisk together soy sauce, lime juice, garlic, cumin, coriander, and olive oil. Add the beef to the marinade and refrigerate for at least 15 minutes. Preheat grill to medium-high heat. Remove the beef from the marinade and cook for 8-10 minutes per side, or until cooked to desired doneness. Meanwhile, toast bread until lightly browned. Serve the beef hot with the toasted bread and a sprinkle of cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "grilled-beef",
+    "peruvian-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 50,
+    "carbs": 5,
+    "fat": 25
+  },
+  "slug": "warm-peruvian-beef-grilled-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-peruvian-beef-grilled-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:09:44Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "toast",
+    "primaryIngredient": "jalapeno",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Warm",
+    "dishForm": "Grilled Skewers"
+  }
+}

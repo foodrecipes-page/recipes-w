@@ -1,0 +1,123 @@
+{
+  "title": "Wonderfully Buttery and Snappy Australian Beef Tagliere",
+  "description": "Indulge in the rich flavors and tender textures of this Australian-inspired beef Tagliere, featuring sour cream and fermented elements, all carefully prepared in a Buddhist-temple-friendly environment.",
+  "cuisine": "Australian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Picanha beef",
+      "amount": "1.2 kg",
+      "notes": "Choose grass-fed beef for optimal flavor and texture."
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "250g",
+      "notes": "Use full-fat sour cream for maximum richness."
+    },
+    {
+      "name": "Fermented chili sauce",
+      "amount": "60g",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "20g",
+      "notes": "Chopped fresh thyme adds a bright, herbaceous note."
+    },
+    {
+      "name": "Coarse sea salt",
+      "amount": "10g",
+      "notes": "Use a flaky sea salt for added texture."
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "5g",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Australian bush tomatoes",
+      "amount": "200g",
+      "notes": "Chopped tomatoes add a sweet, tangy element."
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "20g",
+      "notes": "Garnish with chopped parsley for added color."
+    },
+    {
+      "name": "Truffle oil",
+      "amount": "10g",
+      "notes": "Optional, for added luxury."
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "50g",
+      "notes": "Use a high-quality Parmesan for maximum flavor."
+    },
+    {
+      "name": "Freshly squeezed lemon juice",
+      "amount": "20g",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "10g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Season the picanha beef with coarse sea salt and freshly ground black pepper.",
+    "In a large skillet, heat the unsalted butter over medium-high heat until melted and slightly browned.",
+    "Sear the picanha beef for 2-3 minutes per side, or until browned and cooked to your desired level of doneness.",
+    "Transfer the beef to a baking sheet and roast in the preheated oven for 10-12 minutes, or until cooked to your desired level of doneness.",
+    "While the beef is cooking, whisk together the sour cream, fermented chili sauce, and chopped fresh thyme in a small bowl.",
+    "Once the beef is cooked, remove it from the oven and let it rest for 5 minutes before slicing it thinly against the grain.",
+    "To assemble the Tagliere, arrange the sliced beef on a large platter or individual plates, spooning the sour cream mixture over the top.",
+    "Garnish with chopped fresh parsley, Australian bush tomatoes, and grated Parmesan cheese.",
+    "Drizzle with truffle oil, if using."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "beef",
+    "breakfast-ish",
+    "easy-to-make",
+    "healthy-fat",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "wonderfully-buttery-and-snappy-australian-beef-tagliere",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wonderfully-buttery-and-snappy-australian-beef-tagliere",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:09:54Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "ferment",
+    "primaryIngredient": "sour cream",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "beef",
+    "descriptor": "wonderfully buttery and snappy",
+    "dishForm": "Tagliere"
+  }
+}

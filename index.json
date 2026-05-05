@@ -1747,6 +1747,19 @@
     "shard": "w"
   },
   {
+    "slug": "warm-peruvian-beef-grilled-skewers",
+    "title": "Warm Peruvian Beef Grilled Skewers",
+    "tags": [
+      "easy-dinner",
+      "grilled-beef",
+      "peruvian-food",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "warm-pillowy-dutch-coconut-pilaf",
     "title": "Warm Pillowy Dutch Coconut Pilaf",
     "tags": [
@@ -4638,6 +4651,22 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-silky-energizing-malaysian-dish-risotto",
+    "title": "malaysian risotto",
+    "tags": [
+      "comforting",
+      "energizing",
+      "lunch",
+      "malaysian",
+      "silky",
+      "umami",
+      "whole30"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 65,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-smoky-canadian-tofu-bowl",
     "title": "Wholesome Smoky Canadian Tofu Bowl",
     "tags": [
@@ -5711,6 +5740,20 @@
     "shard": "w"
   },
   {
+    "slug": "winey-silky-kid-friendly-peruvian-flour-rocoto-relleno",
+    "title": "Winey, Silky, Kid-friendly Peruvian flour Rocoto Relleno",
+    "tags": [
+      "gluten-free",
+      "kid-friendly",
+      "peruvian",
+      "vegetarian",
+      "wine-infused"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "winey-snappy-venezuelan-salmon-empanadas",
     "title": "Winey Snappy Venezuelan Salmon Empanadas",
     "tags": [
@@ -5825,6 +5868,21 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "wonderfully-buttery-and-snappy-australian-beef-tagliere",
+    "title": "Wonderfully Buttery and Snappy Australian Beef Tagliere",
+    "tags": [
+      "australian",
+      "beef",
+      "breakfast-ish",
+      "easy-to-make",
+      "healthy-fat",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {

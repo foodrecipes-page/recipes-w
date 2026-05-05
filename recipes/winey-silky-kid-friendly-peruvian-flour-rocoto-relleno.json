@@ -1,0 +1,146 @@
+{
+  "title": "Winey, Silky, Kid-friendly Peruvian flour Rocoto Relleno",
+  "description": "A Peruvian dish featuring a wine-infused, silky filling inside a hollowed-out flour tortilla. Kids and adults alike will enjoy this unique twist on a classic recipe.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flour tortilla",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "2% or low-fat milk is recommended for a kid-friendly option."
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": "low-sodium cheddar cheese is recommended for kids."
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1/4 cup",
+      "notes": "shredded carrots add a sweet and crunchy texture."
+    },
+    {
+      "name": "black beans",
+      "amount": "1/2 cup",
+      "notes": "canned black beans are a convenient option."
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1/4 cup",
+      "notes": "look for low-sodium canned tomatoes."
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp",
+      "notes": "use a kid-friendly seasoning like onion powder."
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": "a small amount of wine adds a unique flavor."
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "peruvian aji amarillo pepper",
+      "amount": "1 tsp ground",
+      "notes": "use a kid-friendly hot sauce like sriracha for an alternative."
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "a pinch of cinnamon balances the flavors."
+    },
+    {
+      "name": "ginger",
+      "amount": "1/4 tsp",
+      "notes": "a pinch of fresh ginger adds a unique flavor."
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten eggs help bind the filling."
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1/2 cup",
+      "notes": "low-fat ricotta cheese is a kid-friendly option."
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the flour tortillas in half lengthwise and hollow out the centers, leaving 1/4 inch of the tortilla intact.",
+    "In a large bowl, mix together the grated carrot, ground beef, canned diced tomatoes, onion powder, salt, red wine vinegar, olive oil, peruvian aji amarillo pepper, cinnamon, ginger, eggs, ricotta cheese, paprika, and dried oregano.",
+    "Stuff each tortilla shell with the filling, dividing it evenly among the tortillas.",
+    "Place the stuffed tortillas on a baking sheet lined with parchment paper and bake for 15 minutes or until the cheese is melted and the filling is heated through.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "kid-friendly",
+    "peruvian",
+    "vegetarian",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 36,
+    "fat": 14
+  },
+  "slug": "winey-silky-kid-friendly-peruvian-flour-rocoto-relleno",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-silky-kid-friendly-peruvian-flour-rocoto-relleno",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:10:10Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "fry",
+    "primaryIngredient": "plain flour",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "flour",
+    "descriptor": "Winey, Silky, Kid-friendly",
+    "dishForm": "Rocoto Relleno"
+  }
+}

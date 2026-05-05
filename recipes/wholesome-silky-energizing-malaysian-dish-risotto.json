@@ -1,0 +1,120 @@
+{
+  "title": "malaysian risotto",
+  "description": "a hearty, silky, and energizing malaysian-inspired risotto featuring a blend of umami flavors, made with wholesome ingredients and perfectly cooked in a bain-marie. this recipe is whole30-friendly and perfect for a comforting dinner or lunch.",
+  "cuisine": "malaysian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "arborio rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 fl oz)",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "make sure it's whole30-friendly"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the coconut oil in a bain-marie over low heat.",
+    "add the onion and cook until translucent, about 5 minutes.",
+    "add the garlic and ginger and cook for another minute.",
+    "add the arborio rice and cook for 1-2 minutes, stirring constantly.",
+    "add the vegetable broth, 1/2 cup at a time, stirring constantly and allowing each portion to absorb before adding the next.",
+    "after 20 minutes, stir in the coconut milk and cook for an additional 2-3 minutes.",
+    "add the chicken breast and cook until heated through.",
+    "season with fish sauce, salt, and pepper to taste.",
+    "garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "energizing",
+    "lunch",
+    "malaysian",
+    "silky",
+    "umami",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "wholesome-silky-energizing-malaysian-dish-risotto",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-silky-energizing-malaysian-dish-risotto",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:10:20Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "bain-marie",
+    "primaryIngredient": "chopped parsley",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "dish",
+    "descriptor": "wholesome silky energizing",
+    "dishForm": "Risotto"
+  }
+}
