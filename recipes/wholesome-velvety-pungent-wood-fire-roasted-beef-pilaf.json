@@ -1,0 +1,93 @@
+{
+  "title": "Wholesome Velvety-Pungent Wood-Fire-Roasted-Beef Pilaf",
+  "description": "This one-pot Portuguese dish features a blend of pungent and velvety flavors, incorporating wood-fired roasted beef with aromatic rice wine into a wholesome rice pilaf.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "short grain white rice",
+      "amount": 200
+    },
+    {
+      "name": "ground pork",
+      "amount": "150g"
+    },
+    {
+      "name": "beef tenderloin",
+      "amount": "250g"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 4,
+      "notes": "minced"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1/2 stick"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice wine (shaoxing wine)",
+      "amount": "50ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "30ml"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Season beef with salt and pepper, then brush lightly with vegetable oil. Roast in preheated oven for 35 minutes.",
+    "Heat a wok or large pan over medium-high heat, add oil. Stir-fry onion until translucent. Add garlic and ginger; sauté for about 1 minute.",
+    "Stir in ground pork and cook until no longer pink. Remove from heat.",
+    "Add roasted beef to the wok with its juices, rice wine, brown sugar, soy sauce, and remaining salt. Stir-fry briefly then add rice, cover, and simmer over low heat for 20 minutes.",
+    "Remove lid, stir occasionally for another 5-7 minutes until liquid is absorbed. Serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pot-cooking",
+    "pork-and-beef",
+    "portuguese-dish",
+    "rice-based-dessert-like"
+  ],
+  "nutrition": {
+    "calories": 805,
+    "protein": 46,
+    "carbs": 120,
+    "fat": 31
+  },
+  "slug": "wholesome-velvety-pungent-wood-fire-roasted-beef-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-velvety-pungent-wood-fire-roasted-beef-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T13:36:39Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "rice wine",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Wholesome",
+    "mainIngredient": "Wood-Fire-Roasted-Beef",
+    "descriptor": "Velvety-Pungent",
+    "dishForm": "Pilaf"
+  }
+}
