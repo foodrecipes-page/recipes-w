@@ -1,0 +1,89 @@
+{
+  "title": "Wilted Briny Olives Mediterranean Pilaf",
+  "description": "A paleo-friendly monsoon mediterranean dish featuring wilted briny olives with a peppery kick and crunchy texture.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Olives",
+      "amount": "1 cup",
+      "notes": "Wilted"
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "5-6",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": ""
+    },
+    {
+      "name": "Capers",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Almonds, finely chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sun-dried tomatoes",
+      "amount": "3-4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a skillet, add olive oil and heat until hot.",
+    "Add olives, peppercorns, and garlic cloves. Sauté for about 3 minutes until fragrant.",
+    "Stir in capers, paprika, almonds, and sun-dried tomatoes.",
+    "Fold the mixture into a shallow serving dish or ramekin.",
+    "Let sit at room temperature for about 10-20 minutes to wilt slightly.",
+    "Serve chilled as an appetizer."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 33,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "paleo-friendly",
+    "peppery",
+    "wilted-olives"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 14,
+    "carbs": 6,
+    "fat": 13
+  },
+  "slug": "wilted-briny-olives-mediterranean-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-briny-olives-mediterranean-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T19:10:55Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "fold",
+    "primaryIngredient": "peppercorns",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Olives",
+    "descriptor": "Wilted",
+    "dishForm": "Pilaf"
+  }
+}
