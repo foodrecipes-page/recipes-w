@@ -1,0 +1,102 @@
+{
+  "title": "Warm Roasted Festive Saudi-Arabian Speck Bowl",
+  "description": "A warm and inviting Saudi-Arabian dish featuring roasted speck, papillote, and aromatic spices served in a Korean brass bowl.",
+  "cuisine": "saudi-arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "speck",
+      "amount": "8 slices"
+    },
+    {
+      "name": "mixed bell peppers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the speck with salt, black pepper, cumin, coriander, and paprika.",
+    "Heat 1 tablespoon of olive oil in a large pan over medium heat. Brown the speck on both sides. Remove from heat and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the pan. Add the sliced onion and cook until caramelized.",
+    "Add the mixed bell peppers and cook until tender.",
+    "Add the garlic, cumin, coriander, and paprika. Cook for 1 minute.",
+    "Add the browned speck back into the pan and stir to combine with the vegetables.",
+    "Transfer the speck mixture to a Korean brass bowl or individual papillotes.",
+    "Drizzle with lemon juice and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "high-protein",
+    "one-pan",
+    "saudi-arabian",
+    "weeknight",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 38
+  },
+  "slug": "warm-roasted-festive-saudi-arabian-speck-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-roasted-festive-saudi-arabian-speck-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:53:38Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "papillote",
+    "primaryIngredient": "speck",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Festive Saudi-Arabian",
+    "mainIngredient": "Speck",
+    "descriptor": "Warm Roasted",
+    "dishForm": "Bowl"
+  }
+}

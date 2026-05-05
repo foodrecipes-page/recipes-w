@@ -1,0 +1,121 @@
+{
+  "title": "Wok-Fried Wholesome Tunisian Mung Bean Sprouts Hash",
+  "description": "A buttery, juicy, and energizing Tunisian dish featuring mung bean sprouts, perfect for a quick breakfast or snack.",
+  "cuisine": "Tunisian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Mung bean sprouts",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Crispy chopped almonds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet or wok over medium-high heat.",
+    "Add the mung bean sprouts and cook for 2-3 minutes, stirring frequently.",
+    "Add the chicken broth and cook for another minute, stirring constantly.",
+    "Add 1 tablespoon of butter, and stir until it has melted.",
+    "Add the cumin, coriander, salt, and pepper, and stir for 30 seconds.",
+    "Add the chopped parsley and stir for 30 seconds.",
+    "Transfer the mung bean sprouts mixture to a plate and set aside.",
+    "In the same wok, melt the remaining 1 tablespoon of butter over low heat.",
+    "Add the crispy chopped almonds and cook for 1-2 minutes, stirring constantly.",
+    "Add the lemon juice and stir for 30 seconds.",
+    "Return the mung bean sprouts mixture to the wok and stir to combine.",
+    "Cook for an additional 30 seconds, then serve immediately.",
+    "If the mixture seems dry, add a little water and stir to combine."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "one-pan",
+    "snack",
+    "tunisian",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "wok-fried-wholesome-tunisian-mung-bean-sprouts-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wok-fried-wholesome-tunisian-mung-bean-sprouts-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:54:32Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "saute",
+    "primaryIngredient": "mung bean sprouts",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "wok-fried, Wholesome",
+    "dishForm": "hash"
+  }
+}

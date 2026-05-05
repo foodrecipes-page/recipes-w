@@ -1789,6 +1789,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-roasted-festive-saudi-arabian-speck-bowl",
+    "title": "Warm Roasted Festive Saudi-Arabian Speck Bowl",
+    "tags": [
+      "festive",
+      "high-protein",
+      "one-pan",
+      "saudi-arabian",
+      "weeknight",
+      "winter"
+    ],
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-roasted-filipino-vegetables-pinakbet",
     "title": "Warm Roasted Filipino Vegetables Pinakbet",
     "tags": [
@@ -4144,6 +4159,24 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-kenyan-beer-dumplings",
+    "title": "Wholesome Kenyan Beer Dumplings",
+    "tags": [
+      "alcohol-friendly",
+      "beer-braised",
+      "comfort-food",
+      "crisp",
+      "gluten-free",
+      "kenyan",
+      "keto",
+      "pungent",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-kenyan-egg-hash",
     "title": "Wholesome Kenyan Egg Hash",
     "tags": [
@@ -5608,6 +5641,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "wok-fried-wholesome-tunisian-mung-bean-sprouts-hash",
+    "title": "Wok-Fried Wholesome Tunisian Mung Bean Sprouts Hash",
+    "tags": [
+      "breakfast",
+      "lunch",
+      "one-pan",
+      "snack",
+      "tunisian",
+      "vegan-option"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {

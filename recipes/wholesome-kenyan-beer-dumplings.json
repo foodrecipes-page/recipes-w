@@ -1,0 +1,134 @@
+{
+  "title": "Wholesome Kenyan Beer Dumplings",
+  "description": "Pungent, crisp, and nostalgic Kenyan dish featuring beer, dum, and a keto-friendly twist. This recipe serves 4-6 people, perfect for a weeknight dinner or a weekend treat.",
+  "cuisine": "kenyan",
+  "diet": [
+    "keto",
+    "gluten-free",
+    "alcohol-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups all-purpose flour",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "2 teaspoons sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup beer",
+      "amount": "150",
+      "notes": "Use a strong, dark beer for best flavor."
+    },
+    {
+      "name": "1/2 cup warm water",
+      "amount": "",
+      "notes": "Adjust water as needed for dough consistency."
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 egg",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup grated cheddar cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped scallions",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix flour, sugar, and salt in a large bowl.",
+    "Make a well in the center and add beer, water, and egg.",
+    "Mix until dough forms, then knead for 5-7 minutes.",
+    "Divide dough into 8 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk, then place in a greased ramekin.",
+    "Dot top of each dumpling with butter and sprinkle with cheese, scallions, and cilantro.",
+    "Brush tops with oil and sprinkle with cumin, cayenne pepper, and black pepper.",
+    "Bake at 375°F (190°C) for 20-25 minutes, or until golden brown.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "alcohol-friendly",
+    "beer-braised",
+    "comfort-food",
+    "crisp",
+    "gluten-free",
+    "kenyan",
+    "keto",
+    "pungent",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "wholesome-kenyan-beer-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-kenyan-beer-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:53:30Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "dum",
+    "primaryIngredient": "beer",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "beer",
+    "descriptor": "wholesome",
+    "dishForm": "Dumplings"
+  }
+}
