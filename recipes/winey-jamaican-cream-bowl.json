@@ -1,0 +1,111 @@
+{
+  "title": "Winey Jamaican Cream Bowl",
+  "description": "A winey, creamy Jamaican dish featuring szechuan peppercorns and banana leaf, served as a meal-prep breakfast option. This recipe combines the flavors of Jamaica with the convenience of a prepped meal.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat, 14 ounces"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4",
+      "notes": "fresh, for serving"
+    },
+    {
+      "name": "szechuan peppercorns",
+      "amount": "2 teaspoons",
+      "notes": "whole, toasted"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "namul blanch seasoning",
+      "amount": "1 teaspoon",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons",
+      "notes": "grade b"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat the melted coconut oil over medium heat.",
+    "Add the grated ginger and cook for 1 minute, until fragrant.",
+    "Add the szechuan peppercorns and cook for another minute, until toasted.",
+    "Add the chopped scallions and cook for 2 minutes, until softened.",
+    "In a large bowl, whisk together the coconut milk, allspice, and namul blanch seasoning until well combined.",
+    "Add the cooked scallion mixture to the coconut milk mixture and stir until combined.",
+    "Season with freshly ground black pepper to taste.",
+    "Transfer the mixture to a blender or food processor and blend until smooth.",
+    "Pour the mixture into a bowl or individual serving cups.",
+    "Cover with banana leaves and refrigerate for at least 2 hours, or overnight.",
+    "Serve chilled, garnished with chopped scallions and a drizzle of maple syrup.",
+    "Refrigerate leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 28
+  },
+  "slug": "winey-jamaican-cream-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-jamaican-cream-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:30Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "szechuan peppercorns",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cream",
+    "descriptor": "Winey, Creamy",
+    "dishForm": "Bowl"
+  }
+}

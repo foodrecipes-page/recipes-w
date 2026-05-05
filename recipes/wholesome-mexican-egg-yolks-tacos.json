@@ -1,0 +1,82 @@
+{
+  "title": "Wholesome Mexican Egg Yolks Tacos",
+  "description": "Floral, shaggy, hangover-cure Mexican dish featuring egg yolks and render-fat, whole30-friendly.",
+  "cuisine": "Mexican",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lard or beef tallow",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cactus pads",
+      "amount": "1 cup",
+      "notes": "prickly pear cactus or nopal"
+    }
+  ],
+  "instructions": [
+    "Heat the lard in a large skillet over medium heat.",
+    "Chop the onion and add to the skillet. Cook until translucent.",
+    "Mince the garlic and add to the skillet. Cook for 1 minute.",
+    "Chop the cactus pads into small pieces and add to the skillet. Cook for 2 minutes.",
+    "Push the mixture to one side of the skillet.",
+    "Crack the egg yolks into the other side of the skillet.",
+    "Scramble the egg yolks until cooked through.",
+    "Mix the egg yolks with the other ingredients.",
+    "Season with salt and pepper to taste.",
+    "Warm the tacos with a squeeze of lime juice.",
+    "Assemble the tacos with the egg mixture and any desired toppings.",
+    "Serve immediately.",
+    "Tacos are best served fresh, but can be refrigerated for up to 24 hours and reheated in the skillet."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "hangover-cure",
+    "mexican",
+    "one-pan",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "wholesome-mexican-egg-yolks-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-mexican-egg-yolks-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:32Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "render-fat",
+    "primaryIngredient": "egg yolks",
+    "diet": "whole30",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "egg yolks",
+    "descriptor": "wholesome",
+    "dishForm": "Tacos"
+  }
+}

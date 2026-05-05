@@ -1,0 +1,118 @@
+{
+  "title": "Warmly-Glazed Oats Kuru Fasulye Wrap",
+  "description": "A charred, glassy-jelly Turkish-inspired dish wrapped in a ti-leaf wrap. Perfect for midnight cravings.",
+  "cuisine": "Turkish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Steel Cut Oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Canned Kidney Beans",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Add the onion and cook until charred, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the canned kidney beans, tomato paste, apple cider vinegar, honey, dried oregano, salt, and black pepper to the skillet. Stir to combine.",
+    "Add the steel cut oats to the skillet and stir to combine with the other ingredients.",
+    "Cook for 2-3 minutes, until the oats are lightly toasted.",
+    "Warm the ti-leaf wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spooning the oat mixture onto the center of each wrap.",
+    "Drizzle the Turbinado sugar glaze over the top of each wrap.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "glaze",
+    "high-protein",
+    "midnight-craving",
+    "oats",
+    "snack",
+    "turkish",
+    "vegetarian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "warmly-glazed-oats-kuru-fasulye-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-glazed-oats-kuru-fasulye-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:48Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "glaze",
+    "primaryIngredient": "oats",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "oats",
+    "descriptor": "warmly-glazed",
+    "dishForm": "Kuru Fasulye"
+  }
+}

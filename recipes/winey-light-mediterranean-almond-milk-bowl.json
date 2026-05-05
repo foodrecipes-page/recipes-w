@@ -1,0 +1,114 @@
+{
+  "title": "Winey Light Mediterranean Almond Milk Bowl",
+  "description": "A refreshing and healthy dish for any time of day, featuring the creamy texture of almond milk and the nutty flavor of toasted almonds.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "halal",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "sumac",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "handful",
+      "notes": ""
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "handful",
+      "notes": ""
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "pinch",
+      "notes": "optional"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, toast the almonds over low heat for 5 minutes, stirring frequently.",
+    "In a separate saucepan, warm the almond milk over low heat.",
+    "In a bowl, mix together the oats, honey, lemon juice, salt, and sumac.",
+    "Add the toasted almonds and warm almond milk to the bowl and stir to combine."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "winey-light-mediterranean-almond-milk-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-light-mediterranean-almond-milk-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:58Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "almond milk",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "almond milk",
+    "descriptor": "Winey Light",
+    "dishForm": "Bowl"
+  }
+}

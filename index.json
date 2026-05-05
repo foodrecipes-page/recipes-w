@@ -2987,6 +2987,24 @@
     "shard": "w"
   },
   {
+    "slug": "warmly-glazed-oats-kuru-fasulye-wrap",
+    "title": "Warmly-Glazed Oats Kuru Fasulye Wrap",
+    "tags": [
+      "dinner",
+      "glaze",
+      "high-protein",
+      "midnight-craving",
+      "oats",
+      "snack",
+      "turkish",
+      "vegetarian",
+      "wrap"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "warmly-grilled-malaysian-chicken-skewers",
     "title": "Warmly Grilled Malaysian Chicken Skewers",
     "tags": [
@@ -4498,6 +4516,20 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-mexican-egg-yolks-tacos",
+    "title": "Wholesome Mexican Egg Yolks Tacos",
+    "tags": [
+      "breakfast",
+      "hangover-cure",
+      "mexican",
+      "one-pan",
+      "whole30"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-middle-eastern-chickpeas-tagine",
     "title": "Wholesome Middle Eastern Chickpeas Tagine",
     "tags": [
@@ -5247,6 +5279,22 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-weeknight-indian-peanut-cookies-curry",
+    "title": "Wholesome Weeknight Indian Peanut Cookies Curry",
+    "tags": [
+      "curry",
+      "high-protein",
+      "indian",
+      "jain-friendly",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-wilted-greek-bramley-apples-hot-pot-vessel-stew",
     "title": "Wholesome Wilted Greek Bramley apples Hot-Pot-Vessel Stew",
     "tags": [
@@ -5848,6 +5896,32 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 170,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-jamaican-cream-bowl",
+    "title": "Winey Jamaican Cream Bowl",
+    "tags": [
+      "breakfast",
+      "gluten-free",
+      "one-pan",
+      "vegan"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-light-mediterranean-almond-milk-bowl",
+    "title": "Winey Light Mediterranean Almond Milk Bowl",
+    "tags": [
+      "high-fiber",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
