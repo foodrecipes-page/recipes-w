@@ -1,0 +1,121 @@
+{
+  "title": "wholesome citrusy portuguese brussels sprouts stir-fry",
+  "description": "a diabetic-friendly, aerated, and nostalgic portuguese dish featuring brussels sprouts and citrus flavors, perfect for a weeknight dinner.",
+  "cuisine": "portuguese",
+  "diet": [
+    "diabetic",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brussels sprouts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium-high heat.",
+    "add the chopped onion and cook until translucent, about 3 minutes.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the brussels sprouts and cook until browned, about 5 minutes.",
+    "add the lemon juice, orange juice, salt, black pepper, and red pepper flakes, and stir to combine.",
+    "add the chicken broth and cook until the liquid has almost completely evaporated, about 2 minutes.",
+    "stir in the chopped fresh parsley and mint.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "easy-to-make",
+    "gluten-free",
+    "healthy",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 7
+  },
+  "slug": "wholesome-citrusy-portuguese-brussels-sprouts-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-citrusy-portuguese-brussels-sprouts-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:34Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "stir-fry",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "brussels sprouts",
+    "descriptor": "wholesome citrusy",
+    "dishForm": "stir-fry"
+  }
+}

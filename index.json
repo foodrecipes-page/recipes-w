@@ -3949,6 +3949,22 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-citrusy-portuguese-brussels-sprouts-stir-fry",
+    "title": "wholesome citrusy portuguese brussels sprouts stir-fry",
+    "tags": [
+      "diabetic-friendly",
+      "easy-to-make",
+      "gluten-free",
+      "healthy",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-creamy-fold-uruguayan-almonds-bake",
     "title": "wholesome creamy fold uruguayan almonds bake",
     "tags": [
@@ -4134,6 +4150,21 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-flaky-egyptian-sesame-flatbread",
+    "title": "Wholesome Egyptian Sesame Flatbread",
+    "tags": [
+      "egyptian",
+      "flatbread",
+      "gluten-free",
+      "sesame",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -5646,6 +5677,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 33,
+    "shard": "w"
+  },
+  {
+    "slug": "wilted-chive-infused-brazilian-post-workout-dish-bowl",
+    "title": "Wilted, Chive-Infused Brazilian Post-workout Dish Bowl",
+    "tags": [
+      "brazilian",
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "snack",
+      "summer"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 20,
     "shard": "w"
   },
   {

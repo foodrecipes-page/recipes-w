@@ -1,0 +1,87 @@
+{
+  "title": "Wholesome Egyptian Sesame Flatbread",
+  "description": "A traditional Egyptian flatbread with a deliciously nutty flavor from sesame seeds, perfect for snacking or as a side dish.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "3 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bake for 15-20 minutes until golden brown and crispy"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "flatbread",
+    "gluten-free",
+    "sesame",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 64,
+    "fat": 6
+  },
+  "slug": "wholesome-flaky-egyptian-sesame-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-flaky-egyptian-sesame-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:22Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "sesame seed",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "sesame",
+    "descriptor": "wholesome, flaky",
+    "dishForm": "flatbread"
+  }
+}

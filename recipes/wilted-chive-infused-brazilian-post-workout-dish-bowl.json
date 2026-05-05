@@ -1,0 +1,99 @@
+{
+  "title": "Wilted, Chive-Infused Brazilian Post-workout Dish Bowl",
+  "description": "A post-workout dish inspired by Brazilian cuisine, featuring wilted chives and a fermented sauce, served in a scallop shell.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Scallop Shells",
+      "amount": "4",
+      "notes": "large, clean, dried"
+    },
+    {
+      "name": "Brazilian Chimichurri Mix (fermented)",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade, no onion or garlic"
+    },
+    {
+      "name": "Chopped Chives",
+      "amount": "1/4 cup",
+      "notes": "fresh, finely chopped"
+    },
+    {
+      "name": "Sliced Prosciutto",
+      "amount": "2 oz",
+      "notes": "thick-cut, nitrate-free"
+    },
+    {
+      "name": "Sliced Cucumber",
+      "amount": "1 medium",
+      "notes": "thinly sliced, peeled"
+    },
+    {
+      "name": "Sliced Cherry Tomatoes",
+      "amount": "1 cup",
+      "notes": "halved, seedless"
+    },
+    {
+      "name": "Brazilian Cheese (Minas)",
+      "amount": "1/4 cup",
+      "notes": "shredded, pasteurized"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "2 tbsp",
+      "notes": "full-fat, plain"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse and dry the scallop shells.",
+    "In a small saucepan, combine Brazilian Chimichurri Mix and 1 tbsp of water. Heat over low heat, stirring occasionally, until the sauce is warm and slightly thickened.",
+    "Arrange a layer of sliced prosciutto at the bottom of each shell.",
+    "Top with a layer of sliced cucumber, followed by a layer of cherry tomatoes.",
+    "Sprinkle shredded Minas cheese over the vegetables.",
+    "Dollop a spoonful of warm chimichurri sauce over the cheese.",
+    "Garnish with chopped chives and a dollop of sour cream.",
+    "Bake in the preheated oven for 5 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for 2 minutes.",
+    "Serve immediately, in the scallop shells."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "snack",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "wilted-chive-infused-brazilian-post-workout-dish-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-chive-infused-brazilian-post-workout-dish-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:52Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "ferment",
+    "primaryIngredient": "chopped chive",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Post-workout dish",
+    "descriptor": "Wilted, Chive-Infused",
+    "dishForm": "Bowl"
+  }
+}
