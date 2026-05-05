@@ -1,0 +1,131 @@
+{
+  "title": "Winey Creamy Peruvian Palm Sugar Nam Tan Pip Alao Brasil Form (Pollo a la Brasa)",
+  "description": "A whole30-friendly, winey, creamy, cozy Peruvian dish featuring palm sugar nam tan pip, wrapped in leaves and steamed to perfection. This dish is inspired by the traditional Peruvian Pollo a la Brasa.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Palm sugar nam tan pip",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "4 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Basil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Large leaves (such as banana leaves)",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a blender, combine the palm sugar nam tan pip, chicken broth, red wine, garlic, basil, oregano, kosher salt, and black pepper. Blend until smooth.",
+    "In a large bowl, whisk together the ghee and coconut oil. Add the blended mixture and whisk until smooth.",
+    "Add the chicken breast to the bowl and coat with the marinade, making sure that each piece is coated evenly.",
+    "Wrap each chicken breast in 2 large leaves and tie with kitchen twine. Place the leaves and chicken in a steamer basket over boiling water.",
+    "Steam the chicken for 30 minutes, or until it is cooked through.",
+    "Remove the chicken from the steamer and let it rest for 5 minutes before slicing.",
+    "Warm the lime juice in a small saucepan over low heat.",
+    "Slice the chicken and serve with the warm lime juice, garnished with fresh cilantro.",
+    "Serve the chicken with additional marinade spooned over the top, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "easy-to-make",
+    "latin-american",
+    "lunch",
+    "one-pan",
+    "peruvian",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "winey-creamy-peruvian-palm-sugar-nam-tan-pip-alao-brasil-form",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-creamy-peruvian-palm-sugar-nam-tan-pip-alao-brasil-form",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:48:26Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "palm-sugar-nam-tan-pip",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "palm sugar nam tan pip",
+    "descriptor": "winey creamy",
+    "dishForm": "Alao Brasil Form"
+  }
+}
