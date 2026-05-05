@@ -1,0 +1,96 @@
+{
+  "title": "Warm Light Asian Gouda Qwen Hot-Pot",
+  "description": "A light and flavorful hot pot dish featuring warm spices, a touch of mustard, and creamy gouda cheese.",
+  "cuisine": "Asian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "200g Asian Gouda",
+      "amount": "g"
+    },
+    {
+      "name": "1 tbsp Sichuan peppercorns",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp dried shiitake mushrooms",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/2 tsp mustard seeds",
+      "amount": ""
+    },
+    {
+      "name": "1 red bell pepper, sliced",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 yellow onion, quartered",
+      "amount": ""
+    },
+    {
+      "name": "4 cups chicken broth",
+      "amount": "cups"
+    },
+    {
+      "name": "2 tbsp soy sauce",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Toast the Sichuan peppercorns until fragrant.",
+    "Add all spices, minced garlic, and onion slices into a pot with chicken broth.",
+    "Simmer for about 15 minutes while the peppers cook in another pan without oil.",
+    "Toss in the sliced peppers and simmer for an additional 10 minutes.",
+    "Fold in the gouda until melted and smooth.",
+    "Serve hot over steamed rice or noodles, seasoned with salt and pepper as desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "gouda-cheese",
+    "light-asian-dish",
+    "warm-spice"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "warm-light-asian-gouda-qwen-hot-pot",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-light-asian-gouda-qwen-hot-pot",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T02:33:53Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "light",
+    "mood": "light",
+    "technique": "simmer",
+    "primaryIngredient": "gouda cheese",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Asian",
+    "mainIngredient": "Gouda Cheese",
+    "descriptor": "Warm Light",
+    "dishForm": "Qwen Hot-Pot"
+  }
+}
