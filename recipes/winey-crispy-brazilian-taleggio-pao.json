@@ -1,0 +1,127 @@
+{
+  "title": "winey crispy brazilian taleggio pao",
+  "description": "A keto-friendly festive Brazilian dish featuring taleggio cheese, crispy on the outside and steamed on the inside, perfect for wine and cheese pairings.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "keto",
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "taleggio cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "freshly ground nutmeg",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "sugar-free sweetener",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\b9F (190\nC).",
+    "In a large bowl, mix together the taleggio cheese, chopped parsley, chopped cilantro, coconut flour, eggs, Parmesan cheese, and sugar-free sweetener until well combined.",
+    "Add the melted butter, coconut oil, red wine vinegar, kosher salt, black pepper, and nutmeg to the bowl and mix until a smooth dough forms.",
+    "Knead the dough on a floured surface for 5-7 minutes until it becomes elastic and smooth.",
+    "Shape the dough into a round or oblong shape and place it on a baking sheet lined with parchment paper.",
+    "Brush the top of the dough with the remaining melted butter and sprinkle with grated Parmesan cheese.",
+    "Bake the pao in the preheated oven for 12-15 minutes, or until it is golden brown and crispy on the outside and steamed on the inside.",
+    "Remove the pao from the oven and let it cool on a wire rack for 5-10 minutes before slicing and serving.",
+    "To serve, slice the pao in half and serve with your favorite wine and cheese pairings.",
+    "Garnish with additional chopped parsley and cilantro, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "cheese-lover",
+    "festive",
+    "keto",
+    "snack",
+    "wine-pairing"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 32
+  },
+  "slug": "winey-crispy-brazilian-taleggio-pao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-crispy-brazilian-taleggio-pao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:04Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "taleggio",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "taleggio",
+    "descriptor": "winey crispy",
+    "dishForm": "Pao"
+  }
+}
