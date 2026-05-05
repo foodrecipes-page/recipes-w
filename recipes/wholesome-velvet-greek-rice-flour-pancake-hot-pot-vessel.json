@@ -1,0 +1,93 @@
+{
+  "title": "Wholesome Velvet Greek Rice Flour Pancake Hot-Pot-Vessel",
+  "description": "A floral, velvety greek dish featuring rice flour pancakes tempered with dark chocolate, perfect for a midnight craving. Whole30 friendly.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups",
+      "amount": "cup",
+      "notes": "rice flour"
+    },
+    {
+      "name": "1/2 cup",
+      "amount": "tablespoon",
+      "notes": "flaxseed meal for gluten-free binding"
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "teaspoon",
+      "notes": "kosher salt, to taste"
+    },
+    {
+      "name": "1/2 teaspoon",
+      "amount": "teaspoon",
+      "notes": "vanilla extract, optional"
+    },
+    {
+      "name": "1/3 cup",
+      "amount": "tablespoon",
+      "notes": "dark chocolate (cooking or unsweetened), finely chopped, 70% cacao"
+    },
+    {
+      "name": "6 large eggs",
+      "amount": ""
+    },
+    {
+      "name": "2 cups",
+      "amount": "cup",
+      "notes": "milk of choice, almond or soy milk"
+    },
+    {
+      "name": "pinch",
+      "amount": "",
+      "notes": "black pepper, to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix rice flour and flaxseed meal.",
+    "Add salt, vanilla extract (if using), and dark chocolate. Stir well.",
+    "Beat eggs in a separate medium-sized bowl.",
+    "Gradually pour milk into the egg mixture while continuously whisking to prevent lumps.",
+    "Stir wet and dry ingredients together until smooth.",
+    "Pour batter into prepared hot-pot-vessel, filling it about 2/3 full.",
+    "Bake at 170°C (340°F) for 60 minutes or until golden brown on top and set inside.",
+    "Serve hot with a drizzle of dark chocolate ganache."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-sugar",
+    "vegan",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 16,
+    "carbs": 40,
+    "fat": 7
+  },
+  "slug": "wholesome-velvet-greek-rice-flour-pancake-hot-pot-vessel",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-velvet-greek-rice-flour-pancake-hot-pot-vessel",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T01:46:17Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Rice Flour Pancakes",
+    "descriptor": "Wholesome Velvet",
+    "dishForm": "Hot-Pot-Vessel Gigantes Plaki"
+  }
+}
