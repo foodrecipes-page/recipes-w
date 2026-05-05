@@ -1,0 +1,80 @@
+{
+  "title": "Wholesome Canadian Whiptop Petit Pois Bake",
+  "description": "A cozy sour and pillowy dish featuring petit pois baked wood-fired-style with a dash-friendly twist.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup",
+      "amount": "cup"
+    },
+    {
+      "name": "1 can (400g)",
+      "amount": "can"
+    },
+    {
+      "name": "1 medium",
+      "amount": null
+    },
+    {
+      "name": "1 small",
+      "amount": null
+    },
+    {
+      "name": "2 tbsp",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "notes": "Seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat your wood-fired oven or grill at high heat.",
+    "Wash and peel the sweet potato and carrot. Dice them into small pieces.",
+    "In a large bowl, mix diced potatoes and carrots with olive oil, lemon zest, salt, and pepper.",
+    "Gently fold in the crushed petit pois until evenly coated.",
+    "Transfer the mixture to your preheated oven or grill. Bake for 12 minutes or until golden brown.",
+    "Squeeze fresh lemon juice over top for a burst of freshness.",
+    "Serve hot as a side dish with crusty bread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-dish",
+    "squeeze-lemon",
+    "wood-fired-bake"
+  ],
+  "nutrition": {
+    "calories": 278,
+    "protein": 3,
+    "carbs": 51,
+    "fat": 6
+  },
+  "slug": "wholesome-canadian-whiptop-petit-pois-bake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-canadian-whiptop-petit-pois-bake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T06:40:57Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "petit pois",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "petit pois",
+    "descriptor": "Wholesome",
+    "dishForm": "Bake"
+  }
+}
