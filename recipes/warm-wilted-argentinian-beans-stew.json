@@ -1,0 +1,87 @@
+{
+  "title": "Warm-Wilted Argentinian Beans Stew",
+  "description": "A savory and romantic Argentinean dish featuring English mustard and wilty beans that are light in texture and flavor profile. Perfect for a romantic dinner or evening snack.",
+  "cuisine": "Argentinean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "1"
+    },
+    {
+      "name": "300g green beans, trimmed and halved",
+      "amount": "300g",
+      "notes": "Wilted for a rich flavor profile"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2"
+    },
+    {
+      "name": "1 medium onion, diced",
+      "amount": "1"
+    },
+    {
+      "name": "1 tsp English mustard powder",
+      "amount": "1",
+      "notes": "Adds depth and tang to the dish"
+    },
+    {
+      "name": "Water or vegetable broth as needed",
+      "amount": null
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    },
+    {
+      "name": "Chopped parsley for garnish (optional)",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a medium saucepan over medium heat.",
+    "Add onions and garlic, cooking until translucent, about 5 minutes.",
+    "Toss in halved green beans with water or vegetable broth to cover them. Bring to a boil then reduce heat and let simmer for 20-25 minutes or until the beans are wilted but still tender.",
+    "Stir in English mustard powder and season with salt and pepper to taste.",
+    "Serve warm, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinean",
+    "light",
+    "romantic",
+    "savory",
+    "vegetarian",
+    "wilty"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "warm-wilted-argentinian-beans-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wilted-argentinian-beans-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T08:56:42Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "steam",
+    "primaryIngredient": "english mustard",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beans",
+    "descriptor": "Warm-Wilted",
+    "dishForm": "Stew"
+  }
+}
