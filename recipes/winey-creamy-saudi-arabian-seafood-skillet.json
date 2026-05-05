@@ -1,0 +1,60 @@
+{
+  "title": "Winey Creamy Saudi-Arabian Seafood Skillet",
+  "description": "A flavorful and quick one-pot dish featuring a mix of frozen seafood, served with a side of toast and a drizzle of wine sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 package of frozen seafood mix (shrimp, scallops, mussels)",
+      "amount": "12 oz",
+      "notes": "Thawed and drained"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add 1 onion, chopped and cook until translucent.",
+    "Add 2 cloves of garlic, minced and cook for 1 minute.",
+    "Add 1 cup of white wine and cook until reduced by half.",
+    "Add 1 cup of heavy cream and stir to combine.",
+    "Add the seafood mix and cook until pink and cooked through.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "one-pot",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "winey-creamy-saudi-arabian-seafood-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-creamy-saudi-arabian-seafood-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:51:47Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "seafood",
+    "descriptor": "winey creamy",
+    "dishForm": "Skillet"
+  }
+}

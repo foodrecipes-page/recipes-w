@@ -1,0 +1,123 @@
+{
+  "title": "wholesome creamy mediterranean onion bowl",
+  "description": "a sweet and creamy mediterranean dish featuring caramelized onions, tangy ferment, and warm spices, perfect for a keto-friendly meal ",
+  "cuisine": "mediterranean",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "onions ",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "fermented red cabbage ",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "olive oil ",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic ",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice ",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey ",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt ",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper ",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin ",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander ",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crushed red pepper ",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "grated parmesan cheese ",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "heat 1 tbsp of olive oil in a large saucepan over medium heat.",
+    "add the chopped onions and cook, stirring occasionally, until caramelized and golden brown, about 20 minutes.",
+    "add the minced garlic and cook for 1 minute, stirring constantly.",
+    "add the chopped fermented red cabbage, lemon juice, honey, salt, black pepper, cumin, coriander, and crushed red pepper. stir to combine.",
+    "reduce heat to low and simmer, uncovered, for 5 minutes, stirring occasionally.",
+    "stir in the grated parmesan cheese, if using.",
+    "taste and adjust the seasoning as needed.",
+    "serve immediately, garnished with additional grated parmesan cheese, if desired.",
+    "reheat the onion mixture in the saucepan over low heat, if needed, to keep warm while serving.",
+    "serve the onion mixture over a bed of greens, if desired.",
+    "top with additional chopped fermented red cabbage, if desired.",
+    "serve with a side of warm pita bread or crusty bread, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "keto",
+    "low-carb",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 46
+  },
+  "slug": "wholesome-creamy-mediterranean-onion-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-creamy-mediterranean-onion-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:51:38Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "ferment",
+    "primaryIngredient": "onion",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "mediterranean",
+    "mainIngredient": "onion",
+    "descriptor": "wholesome creamy",
+    "dishForm": "bowl"
+  }
+}

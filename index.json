@@ -3775,6 +3775,21 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-creamy-mediterranean-onion-bowl",
+    "title": "wholesome creamy mediterranean onion bowl",
+    "tags": [
+      "easy-dinner",
+      "keto",
+      "low-carb",
+      "mediterranean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-crunchy-argentinian-chorizo-salad",
     "title": "Wholesome Crunchy Argentinian Chorizo Salad",
     "tags": [
@@ -5430,6 +5445,19 @@
       "weeknight"
     ],
     "cuisine": "argentinian",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-creamy-saudi-arabian-seafood-skillet",
+    "title": "Winey Creamy Saudi-Arabian Seafood Skillet",
+    "tags": [
+      "easy-dinner",
+      "one-pot",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 25,
     "shard": "w"
   },
