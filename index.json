@@ -3333,6 +3333,21 @@
     "shard": "w"
   },
   {
+    "slug": "weeknight-tender-german-pork-bake",
+    "title": "weeknight tender german pork bake",
+    "tags": [
+      "german",
+      "high-protein",
+      "one-pan",
+      "sweet",
+      "tender",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 180,
+    "shard": "w"
+  },
+  {
     "slug": "welcoming-smoked-portuguese-herring-gratin",
     "title": "welcoming smoked portuguese herring gratin",
     "tags": [
@@ -5707,6 +5722,18 @@
     ],
     "cuisine": "portuguese",
     "totalTimeMin": 73,
+    "shard": "w"
+  },
+  {
+    "slug": "wilted-dutch-callaloo-braised",
+    "title": "Wilted Dutch Callaloo Braised",
+    "tags": [
+      "high-protein",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "dutch",
+    "totalTimeMin": 65,
     "shard": "w"
   },
   {

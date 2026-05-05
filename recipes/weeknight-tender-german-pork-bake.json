@@ -1,0 +1,122 @@
+{
+  "title": "weeknight tender german pork bake",
+  "description": "a sweet and tender german dish featuring dried mint, perfect for a weeknight dinner.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried mint",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "apple cider vinegar"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "honey"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "brown sugar"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground black pepper"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "all-purpose flour"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 300 degrees fahrenheit. season the pork shoulder with salt and black pepper.",
+    "heat the olive oil in a large oven-safe pan over medium heat. add the chopped onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "add the chopped dried mint, apple cider vinegar, honey, and brown sugar to the pan. stir to combine.",
+    "add the pork shoulder to the pan and coat with the mint glaze.",
+    "transfer the pan to the preheated oven and bake for 2 1/2 hours, or until the pork is tender and easily shredded with a fork.",
+    "remove the pan from the oven and stir in the heavy cream and flour.",
+    "return the pan to the oven and bake for an additional 10-15 minutes, or until the sauce has thickened.",
+    "remove the pan from the oven and let cool slightly before serving.",
+    "serve the pork with the creamy mint sauce spooned over the top.",
+    "garnish with additional chopped dried mint, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 165,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "high-protein",
+    "one-pan",
+    "sweet",
+    "tender",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "weeknight-tender-german-pork-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/weeknight-tender-german-pork-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:06Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "emulsify",
+    "primaryIngredient": "dried mint",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "pork",
+    "descriptor": "weeknight tender",
+    "dishForm": "bake"
+  }
+}

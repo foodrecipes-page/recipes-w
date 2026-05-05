@@ -1,0 +1,73 @@
+{
+  "title": "Wilted Dutch Callaloo Braised",
+  "description": "A hearty, sugar-free twist on traditional Dutch cuisine featuring tender callaloo and a rich, tangy sauce.",
+  "cuisine": "dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "callaloo",
+      "amount": "2 bunches",
+      "notes": ""
+    },
+    {
+      "name": "bacon",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a Dutch oven over medium heat. ",
+    "Add the bacon and cook until crispy, about 10 minutes. ",
+    "Remove the bacon from the pot, leaving the grease behind. ",
+    "Add the chopped onion to the pot and cook until translucent, about 5 minutes. ",
+    "Add the callaloo to the pot and cook until wilted, about 10 minutes. ",
+    "Add the reserved bacon to the pot and stir to combine. ",
+    "Season with salt and pepper to taste. ",
+    "Serve hot, garnished with chopped fresh herbs if desired. ",
+    "Let the dish rest for at least 30 minutes to allow the flavors to meld together. ",
+    "Reheat the dish before serving, if desired. ",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "wilted-dutch-callaloo-braised",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-dutch-callaloo-braised",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:42Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "rest",
+    "primaryIngredient": "callaloo",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Callaloo",
+    "descriptor": "Wilted",
+    "dishForm": "Braised"
+  }
+}
