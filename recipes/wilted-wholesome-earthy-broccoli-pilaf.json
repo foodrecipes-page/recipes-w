@@ -1,0 +1,80 @@
+{
+  "title": "Wilted Wholesome Earthy Broccoli Pilaf",
+  "description": "An earthy, silky, nostalgic croatian dish featuring broccoli in a paleo-friendly en-croute style.",
+  "cuisine": "Croatian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "amount": 200
+    },
+    {
+      "name": "En-Croute Crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Paleo-friendly Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Herbs (parsley, dill)",
+      "amount": "pinch"
+    },
+    {
+      "name": "Almond Milk or Coconut Milk",
+      "amount": "8 oz can"
+    },
+    {
+      "name": "Salt and Pepper",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 160°C (325°F).",
+    "Chop broccoli into small pieces, lightly steam until wilted.",
+    "Mix en-croute crumbs with paleo-friendly oil, herbs, and a little salt and pepper. Spread evenly on a baking sheet.",
+    "Pour milk over the wilted broccoli and mix well to combine.",
+    "Place the mixture in the oven for 20 minutes or until the top is golden brown.",
+    "Serve hot as a side dish or as a main course with paleo-friendly protein."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croation",
+    "earthly",
+    "en-croute",
+    "paleo",
+    "silky",
+    "wholesome"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 15,
+    "carbs": 23,
+    "fat": 9
+  },
+  "slug": "wilted-wholesome-earthy-broccoli-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-wholesome-earthy-broccoli-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T20:21:49Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "en-croute",
+    "primaryIngredient": "broccoli",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Wholesome",
+    "mainIngredient": "Broccoli",
+    "descriptor": "Wilted",
+    "dishForm": "Pilaf"
+  }
+}
