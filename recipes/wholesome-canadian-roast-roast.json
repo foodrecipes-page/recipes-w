@@ -1,0 +1,108 @@
+{
+  "title": "wholesome canadian roast roast",
+  "description": "quick-fix, crispy, citrusy roast featuring caramel sauce and a raw-friendly twist",
+  "cuisine": "canadian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "top round roast",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "freshly squeezed orange juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "freshly squeezed lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "raw almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the roast with garlic powder, salt, and pepper.",
+    "Heat olive oil in a large skillet over medium-high heat. Sear the roast on all sides until browned, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast for 20-25 minutes, or until the roast reaches your desired level of doneness.",
+    "Whisk together caramel sauce, orange juice, and lemon juice in a small bowl.",
+    "Remove the roast from the oven and brush the caramel sauce mixture evenly over the top.",
+    "Sprinkle chopped raw almonds over the top of the roast for garnish.",
+    "Let the roast rest for 5 minutes before slicing and serving.",
+    "Serve warm, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "easy-breakfast",
+    "high-protein",
+    "one-pan",
+    "quick-fix",
+    "raw-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "wholesome-canadian-roast-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-canadian-roast-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:13:03Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "roast",
+    "primaryIngredient": "caramel sauce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "roast",
+    "descriptor": "wholesome",
+    "dishForm": "roast"
+  }
+}

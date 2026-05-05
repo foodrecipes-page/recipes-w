@@ -3763,6 +3763,22 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-canadian-roast-roast",
+    "title": "wholesome canadian roast roast",
+    "tags": [
+      "canadian",
+      "easy-breakfast",
+      "high-protein",
+      "one-pan",
+      "quick-fix",
+      "raw-friendly",
+      "weeknight"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-canadian-whiptop-petit-pois-bake",
     "title": "Wholesome Canadian Whiptop Petit Pois Bake",
     "tags": [
@@ -5750,6 +5766,22 @@
       "wine-infused"
     ],
     "cuisine": "Peruvian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-silky-ukrainian-sultanas-pastry",
+    "title": "Ukrainian Sultanas Pastry",
+    "tags": [
+      "dessert",
+      "flexitarian",
+      "pastry",
+      "robata-grill",
+      "sultanas",
+      "sweet",
+      "ukrainian"
+    ],
+    "cuisine": "Ukrainian",
     "totalTimeMin": 35,
     "shard": "w"
   },

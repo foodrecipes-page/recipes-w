@@ -1,0 +1,115 @@
+{
+  "title": "Ukrainian Sultanas Pastry",
+  "description": "A light, silky dessert featuring sultanas, perfect for robata-grill nights. Inspired by the Ukrainian love for sweet pastries.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "confectioner's sugar",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "sultanas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "semolina flour",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400\u00024\u00047\u0007\u0007\u0004C. ",
+    "Mix the all-purpose flour, confectioner's sugar, sultanas, unsalted butter, large eggs, semolina flour, baking powder, milk, salt, cinnamon, and orange zest in a large bowl until well combined. ",
+    "Turn the dough out onto a floured surface and knead for 5-7 minutes, until smooth and elastic. ",
+    "Roll the dough out to a thickness of 1/4 inch and use a pastry cutter or the rim of a glass to create circles of dough. ",
+    "Place the dough circles on a baking sheet lined with parchment paper, leaving about 1 inch of space between each pastry. ",
+    "Bake the pastries in the preheated robata grill for 15-20 minutes, or until golden brown. ",
+    "Dust the pastries with confectioner's sugar and serve warm. ",
+    "Allow the pastries to cool for a few minutes before serving. ",
+    "Serve warm with a dollop of whipped cream or a sprinkle of powdered sugar, if desired. "
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "flexitarian",
+    "pastry",
+    "robata-grill",
+    "sultanas",
+    "sweet",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "winey-silky-ukrainian-sultanas-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-silky-ukrainian-sultanas-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:12:55Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "robata-grill",
+    "primaryIngredient": "sultanas",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "ukrainian",
+    "mainIngredient": "sultanas",
+    "descriptor": "winey silky",
+    "dishForm": "pastry"
+  }
+}
