@@ -1,0 +1,103 @@
+{
+  "title": "Warmly Toasted American Almond Casserole",
+  "description": "A crispy, slow-cooked, plant-based American dish featuring almonds, perfect for midnight cravings. This fermented casserole is a unique twist on traditional desserts.",
+  "cuisine": "American",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 1/2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "oat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "2 cups",
+      "notes": "cubed"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together oat milk, maple syrup, coconut oil, vanilla extract, cinnamon, nutmeg, and salt.",
+    "Add the sliced almonds to the bowl and stir until they are evenly coated with the wet ingredients.",
+    "In a separate bowl, mix together the cubed whole wheat bread and apple cider vinegar.",
+    "Grease a 9x13 inch baking dish with coconut oil and add the bread mixture to the bottom of the dish.",
+    "Add the almond mixture on top of the bread mixture and spread it out evenly.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is crispy and golden brown.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "american-dish",
+    "crispy-dessert",
+    "midnight-craving",
+    "plant-based",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "warmly-toasted-american-almond-casserole",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-toasted-american-almond-casserole",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-05T21:07:39Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "slow-cook",
+    "primaryIngredient": "almonds",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "almonds",
+    "descriptor": "Warmly toasted",
+    "dishForm": "Casserole"
+  }
+}
