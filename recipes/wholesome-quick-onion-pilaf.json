@@ -1,0 +1,87 @@
+{
+  "title": "Wholesome Quick Onion Pilaf",
+  "description": "A quick and savory Portuguese dish featuring fluffy onions cooked with a touch of saltiness for a delightful side or light meal.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup",
+      "amount": "cup",
+      "notes": "chopped fresh onions"
+    },
+    {
+      "name": "1/2 tsp",
+      "amount": "tsp",
+      "notes": "kosher salt, to taste"
+    },
+    {
+      "name": "1/4 tsp",
+      "amount": "tsp",
+      "notes": "white pepper, to taste"
+    },
+    {
+      "name": "pinch",
+      "amount": null,
+      "notes": "black pepper, to taste"
+    },
+    {
+      "name": "1 tbsp",
+      "amount": "tbsp",
+      "notes": "unsalted butter, for cooking"
+    },
+    {
+      "name": "1/4 tsp",
+      "amount": "tsp",
+      "notes": "olive oil, for sautéing onions"
+    },
+    {
+      "name": "1/8 tsp",
+      "amount": "tsp",
+      "notes": "red pepper flakes, to taste"
+    }
+  ],
+  "instructions": [
+    "Heat butter and olive oil in a non-stick skillet over medium heat.",
+    "Add chopped onions and sauté until soft and translucent, about 5 minutes.",
+    "Season with salt, white pepper, black pepper, and red pepper flakes if using.",
+    "Reduce heat to low and cook for an additional 2-3 minutes without stirring.",
+    "Serve warm as a side dish or use as a base for other dishes.",
+    "prepTimeMin"
+  ],
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy",
+    "onion-pilaf",
+    "portuguese",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 5
+  },
+  "prepTimeMin": 15,
+  "slug": "wholesome-quick-onion-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-quick-onion-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T11:49:34Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "dum",
+    "primaryIngredient": "chopped onion",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Quick",
+    "mainIngredient": "Onion",
+    "descriptor": "Wholesome",
+    "dishForm": "Pilaf"
+  }
+}
