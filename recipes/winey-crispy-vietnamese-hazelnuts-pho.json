@@ -1,0 +1,110 @@
+{
+  "title": "winey, crispy Vietnamese hazelnuts PHO",
+  "description": "A date-night Vietnamese dish featuring shelled hazelnuts and double-rise bread. This recipe makes a winey, crispy, and indulgent PHO.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "double-rise bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": "shelled and toasted"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "pho broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "preferably low-sodium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "preferably low-sodium"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "to balance flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large stockpot over medium-high heat.",
+    "Add the sliced onion and cook until caramelized, about 8 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the pho broth, fish sauce, soy sauce, and sugar to the stockpot and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes, skimming any impurities from the surface.",
+    "While the broth is simmering, toast the hazelnuts in a separate pan over medium heat, stirring frequently, until crispy and fragrant.",
+    "Cut the double-rise bread into 1-inch slices and toast until lightly browned.",
+    "To assemble the PHO, place a few slices of toasted bread into a bowl, then add slices of toasted hazelnuts, and finally ladle the hot pho broth over the top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "crispy",
+    "date-night",
+    "high-protein",
+    "kosher",
+    "one-pan",
+    "vietnamese",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 26,
+    "carbs": 64,
+    "fat": 24
+  },
+  "slug": "winey-crispy-vietnamese-hazelnuts-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-crispy-vietnamese-hazelnuts-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:53Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "winey, crispy",
+    "dishForm": "Pho"
+  }
+}

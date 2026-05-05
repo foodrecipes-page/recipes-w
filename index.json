@@ -1302,6 +1302,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-greek-feta-tiropita",
+    "title": "Warm Greek Feta Tiropita",
+    "tags": [
+      "easy-dinner",
+      "greek-cuisine",
+      "meal-prep",
+      "one-pan",
+      "vegetarian-main-course"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-hakka-beetroot-sweet-and-sour",
     "title": "Warm Hakka Beetroot Sweet And Sour",
     "tags": [
@@ -2825,6 +2839,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-wilted-argentinian-vegetables-tagine",
+    "title": "Warm Wilted Argentinian Vegetables Tagine",
+    "tags": [
+      "comfort-food",
+      "lazy-sunday",
+      "one-pan",
+      "vegan",
+      "wilted-vegetables"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 70,
+    "shard": "w"
+  },
+  {
     "slug": "warm-wilted-portuguese-herbal-wrap",
     "title": "Warm Wilted Portuguese Herbal Wrap",
     "tags": [
@@ -2939,6 +2967,21 @@
       "winey"
     ],
     "cuisine": "Saudi Arabian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warming-smoky-croatian-cheese-grill",
+    "title": "Warming, Smoky Croatian Cheese Grill",
+    "tags": [
+      "ayurvedic",
+      "comfort-food",
+      "croatian",
+      "grilled-cheese",
+      "rajasic",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
     "totalTimeMin": 35,
     "shard": "w"
   },
@@ -6027,6 +6070,22 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-crispy-vietnamese-hazelnuts-pho",
+    "title": "winey, crispy Vietnamese hazelnuts PHO",
+    "tags": [
+      "crispy",
+      "date-night",
+      "high-protein",
+      "kosher",
+      "one-pan",
+      "vietnamese",
+      "winey"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {

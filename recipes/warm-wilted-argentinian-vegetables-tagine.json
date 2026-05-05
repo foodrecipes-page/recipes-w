@@ -1,0 +1,118 @@
+{
+  "title": "Warm Wilted Argentinian Vegetables Tagine",
+  "description": "A hearty and comforting vegan-friendly dish featuring roasted vegetables, slow-cooked in a clay pot, perfect for a lazy Sunday afternoon.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red bell pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Red potatoes",
+      "amount": "3-4 small",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegan broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and chop the onion, and place it in the bottom of a ceramic tagine or clay pot, followed by the chopped red bell pepper.",
+    "Add the sliced tomatoes and small red potatoes to the pot, topping with the fresh parsley.",
+    "Drizzle the olive oil over the vegetables and sprinkle with salt, black pepper, paprika, and chili flakes.",
+    "Cover the pot and transfer it to the preheated oven for 30 minutes.",
+    "After 30 minutes, carefully remove the pot from the oven and pour in the vegan broth.",
+    "Return the pot to the oven and continue cooking for another 20 minutes, or until the potatoes are tender and the liquid has reduced slightly.",
+    "Remove the pot from the oven and stir in the balsamic vinegar.",
+    "Let the dish rest for 10 minutes before serving hot, garnished with additional fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lazy-sunday",
+    "one-pan",
+    "vegan",
+    "wilted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "warm-wilted-argentinian-vegetables-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wilted-argentinian-vegetables-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:03Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "lazy-sunday",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Warm Wilted",
+    "dishForm": "Tagine"
+  }
+}

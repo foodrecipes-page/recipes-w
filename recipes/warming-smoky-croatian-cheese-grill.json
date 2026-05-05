@@ -1,0 +1,101 @@
+{
+  "title": "Warming, Smoky Croatian Cheese Grill",
+  "description": "A cultured, gooey, cozy dish featuring a smoky cheese filling seasoned with herbs and spices, served on a salt block.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pa\u00074\u00057\u00043\u00020e\u00046\u00055\u00043\u00047",
+      "amount": "1 piece (approx. 250g)",
+      "notes": "A type of semi-hard cheese with a mild, nutty flavor and a smooth texture."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1 sprig",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat (approx. 375\u00127F).",
+    "Season the pa\u00074\u00057\u00043\u00020e\u00046\u00055\u00043\u00047 cheese with salt, black pepper, thyme, garlic powder, and smoked paprika.",
+    "Using a salt block or a heat-resistant plate, create a grill mark pattern with a small amount of extra virgin olive oil.",
+    "Sear the pa\u00074\u00057\u00043\u00020e\u00046\u00055\u00043\u00047 cheese on the preheated grill for 2-3 minutes per side, or until it develops a golden-brown crust.",
+    "Transfer the cheese to the salt block or heat-resistant plate and top with a sprig of fresh rosemary.",
+    "Reduce the grill temperature to medium-low (approx. 275\u00127F) and continue cooking the cheese for an additional 5-7 minutes, or until it reaches an internal temperature of 160\u00127F and has a creamy, gooey center.",
+    "Remove the cheese from the grill and let it cool for a few minutes before serving.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "comfort-food",
+    "croatian",
+    "grilled-cheese",
+    "rajasic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 26,
+    "carbs": 4,
+    "fat": 34
+  },
+  "slug": "warming-smoky-croatian-cheese-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warming-smoky-croatian-cheese-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:31:07Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "grill",
+    "primaryIngredient": "seasoning",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Warming, Smoky",
+    "dishForm": "Grill"
+  }
+}

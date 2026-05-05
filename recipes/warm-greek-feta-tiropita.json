@@ -1,0 +1,107 @@
+{
+  "title": "Warm Greek Feta Tiropita",
+  "description": "A satvik-friendly, herbal, and pillowy Greek dish made with speck and wood-fired baked. Perfect for meal prep and an easy weeknight dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package",
+      "notes": "Thawed, approximately 20 sheets"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "300g",
+      "notes": "Crumbly Greek feta"
+    },
+    {
+      "name": "Speck",
+      "amount": "120g",
+      "notes": "Thinly sliced, prosciutto-style ham"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "10g",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "30ml",
+      "notes": "For brushing phyllo sheets"
+    },
+    {
+      "name": "Salt",
+      "amount": "1g",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1g",
+      "notes": "To taste"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "5g",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "10g",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C) with a wood-fired baking stone inside, if available.",
+    "Thaw the phyllo dough according to package instructions.",
+    "In a large mixing bowl, crumble the feta cheese and add chopped speck, salt, and black pepper. Mix well.",
+    "Brush the bottom phyllo sheet with olive oil and place it on a flat surface.",
+    "Place one-sixth of the feta-speck mixture onto the center of the phyllo sheet, leaving a 2-inch border around it.",
+    "Fold the 2-inch border over the filling, then roll the phyllo into a tight log. Place seam-side down on a baking sheet.",
+    "Repeat with the remaining phyllo sheets and filling mixture.",
+    "Place the tiropita logs on the preheated baking stone and bake for 15-20 minutes, or until golden brown.",
+    "Remove from the oven and let cool for 5 minutes before slicing.",
+    "Garnish with chopped fresh dill, lemon zest, and parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "greek-cuisine",
+    "meal-prep",
+    "one-pan",
+    "vegetarian-main-course"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "warm-greek-feta-tiropita",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-greek-feta-tiropita",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:49Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "speck",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "feta",
+    "descriptor": "warm",
+    "dishForm": "Tiropita"
+  }
+}
