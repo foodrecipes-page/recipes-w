@@ -1,0 +1,82 @@
+{
+  "title": "Wholesome Korean Pear Pilaf",
+  "description": "A comforting Dutch dish featuring sweet and snappy Korean pear mixed with a low-glycemic-friendly pilaf base.",
+  "cuisine": "Korean-Dutch Fusion",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 medium-sized Korean pears",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 cup basmati rice",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup unsalted butter",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1/2 teaspoon ground cinnamon",
+      "amount": "tsp"
+    },
+    {
+      "name": "Pinch salt and pepper",
+      "amount": "pinch each"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice pears into thin rounds.",
+    "Combine rice, butter, onion, garlic in a large bowl.",
+    "Add sliced pears and spices; mix evenly.",
+    "Transfer mixture to a baking dish.",
+    "Bake for 25 minutes or until golden brown on top.",
+    "Serve hot as a side dish or over quinoa."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "korean-pear",
+    "low-glycemic",
+    "one-pan-dinner",
+    "sweet-pilaf"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "wholesome-korean-pear-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-korean-pear-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T02:29:19Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "temper",
+    "primaryIngredient": "korean-pear",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Pear",
+    "descriptor": "Wholesome",
+    "dishForm": "Pilaf"
+  }
+}
