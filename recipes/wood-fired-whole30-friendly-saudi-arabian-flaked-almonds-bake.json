@@ -1,0 +1,63 @@
+{
+  "title": "wood-fired whole30-friendly saudi-arabian flaked almonds bake",
+  "description": "a crisp, savory, crowd-pleaser saudi-arabian dish featuring flaked almonds, wood-fired-bake, and whole30-friendly ingredients baked in scallop-shells.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flaked almonds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "preheat the wood-fired oven to 375°f (190°c).",
+    "in a bowl, mix melted coconut oil and flaked almonds until well combined.",
+    "place a small amount of the almond mixture into each scallop shell, about 1/4 cup per shell.",
+    "bake the scallop shells in the wood-fired oven for 5-7 minutes, or until the almonds are lightly browned."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "whole30",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "wood-fired-whole30-friendly-saudi-arabian-flaked-almonds-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wood-fired-whole30-friendly-saudi-arabian-flaked-almonds-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:39:45Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "flaked almonds",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "flaked almonds",
+    "descriptor": "wood-fired whole30-friendly",
+    "dishForm": "Bake"
+  }
+}
