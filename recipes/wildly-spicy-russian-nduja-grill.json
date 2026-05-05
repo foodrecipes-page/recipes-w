@@ -1,0 +1,134 @@
+{
+  "title": "Wildly Spicy Russian Nduja Grill",
+  "description": "A funkily spicy, crispy Russian dish featuring nduja, made with a pasta-water emulsion, perfect for low-fat diets and prepared on a robata grill.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nduja",
+      "amount": "300g",
+      "notes": ""
+    },
+    {
+      "name": "pasta water",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "capers",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "15g",
+      "notes": ""
+    },
+    {
+      "name": "toasted breadcrumbs",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "chopped prosciutto",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "wagyu beef 1-inch cubes",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "30g",
+      "notes": "about 1-inch piece",
+      "},{": ""
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "30ml",
+      "notes": ""
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "15g",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "15g",
+      "notes": ""
+    },
+    {
+      "name": "black truffle oil",
+      "amount": "15ml",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine nduja, pasta water, capers, chopped dill, toasted breadcrumbs, chopped prosciutto, grated ginger, low-sodium soy sauce, apple cider vinegar, crushed red pepper flakes, black pepper, and garlic powder in a bowl to make the nduja mixture. ",
+    "Heat a robata grill to 450F. ",
+    "Grill 10 minutes per side or to your desired level of doneness for the wagyu beef cubes. ",
+    "Transfer grilled wagyu beef cubes to the robata grill and brush with black truffle oil. ",
+    "Serve with the nduja mixture and topped with crumbled feta cheese and chopped fresh parsley. ",
+    " ",
+    " "
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "grill",
+    "low-fat",
+    "nduja",
+    "robata-grill",
+    "russian",
+    "wildly-spicy"
+  ],
+  "nutrition": {
+    "": 420,
+    "calories": 420,
+    "protein": 64,
+    "carbs": 20,
+    "fat": 27,
+    "fiber": 5
+  },
+  "slug": "wildly-spicy-russian-nduja-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-spicy-russian-nduja-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:26Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "nduja",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "nduja",
+    "descriptor": "Wildly Spicy",
+    "dishForm": "Grill"
+  }
+}
