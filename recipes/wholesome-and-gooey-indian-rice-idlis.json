@@ -1,0 +1,91 @@
+{
+  "title": "Indian Rice Idlis",
+  "description": "Steamed, fluffy Idlis made with 00-flour and beurre monte for a wholesome and gooey breakfast treat. Serve with coconut chutney for an added layer of flavor.",
+  "cuisine": "Indian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "00-flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "1 cup",
+      "notes": "Beurre monte optional"
+    },
+    {
+      "name": "Beurre monte",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix the yeast and sugar with the warm water, and let it ferment for 30 minutes."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 40,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "egg-free",
+    "high-protein",
+    "idiyappam",
+    "indian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "wholesome-and-gooey-indian-rice-idlis",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-and-gooey-indian-rice-idlis",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:08Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "beurre-monte",
+    "primaryIngredient": "00-flour",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "rice",
+    "descriptor": "wholesome and gooey",
+    "dishForm": "Idlis"
+  }
+}
