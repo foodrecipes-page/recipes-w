@@ -4115,6 +4115,20 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-croatian-peanut-paella",
+    "title": "wholesome croatian peanut paella",
+    "tags": [
+      "croatian",
+      "gluten-free",
+      "high-protein",
+      "low-carb",
+      "one-pan"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-crunchy-argentinian-chorizo-salad",
     "title": "Wholesome Crunchy Argentinian Chorizo Salad",
     "tags": [
@@ -6239,6 +6253,19 @@
     "shard": "w"
   },
   {
+    "slug": "winey-ukrainian-butter-toast",
+    "title": "Winey Ukrainian Butter Toast",
+    "tags": [
+      "brunch",
+      "easy",
+      "ukrainian",
+      "wine"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
     "slug": "winey-wholesome-kenyan-chickpeas-curry",
     "title": "Winey Wholesome Kenyan Chickpeas Curry",
     "tags": [
@@ -6251,6 +6278,21 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 20,
+    "shard": "w"
+  },
+  {
+    "slug": "winy-crunchy-peruvian-turnips-seco-de-cordero",
+    "title": "Winy Crunchy Peruvian Turnips Seco de Cordero",
+    "tags": [
+      "gluten-free",
+      "halal",
+      "high-fiber",
+      "one-pan",
+      "peruvian",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 90,
     "shard": "w"
   },
   {

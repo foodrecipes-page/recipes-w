@@ -1,0 +1,114 @@
+{
+  "title": "wholesome croatian peanut paella",
+  "description": "this traditional croatian dish features fermented pecan nuts and a rich peanut marinate, making it a low-carb-friendly option. it's a hearty and satisfying meal perfect for a cold winter evening.",
+  "cuisine": "croatian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pecan nuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "crumbled feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium heat.",
+    "add the garlic and onion and cook until softened, about 3 minutes.",
+    "add the pecan nuts and cook for an additional 2 minutes.",
+    "stir in the peanut butter, lemon juice, salt, and black pepper.",
+    "add the chicken broth and bring to a boil.",
+    "reduce heat to low and simmer, uncovered, for 15 minutes.",
+    "stir in the feta cheese and cook for an additional 2 minutes.",
+    "serve hot, garnished with fresh thyme if desired.",
+    "this dish is best served immediately, as the fermented pecan nuts will lose their flavor if refrigerated or frozen."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "wholesome-croatian-peanut-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-croatian-peanut-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:32:48Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "marinate",
+    "primaryIngredient": "pecan nuts",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "peanut",
+    "descriptor": "wholesome",
+    "dishForm": "paella"
+  }
+}

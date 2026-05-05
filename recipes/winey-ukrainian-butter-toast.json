@@ -1,0 +1,67 @@
+{
+  "title": "Winey Ukrainian Butter Toast",
+  "description": "A crispy, winey twist on traditional Ukrainian butter toasts, perfect for brunch.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "White bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400\\u00b0F (200\\u00b0C).",
+    "Spread 1 tablespoon of softened butter on each slice of bread.",
+    "Place bread slices on a baking sheet and bake for 8-10 minutes, or until crispy and golden brown.",
+    "While the bread is baking, melt the remaining 1 tablespoon of butter in a small saucepan over low heat.",
+    "Add 1 tablespoon of red wine reduction to the melted butter and stir to combine.",
+    "Once the bread is done, remove it from the oven and let it cool for a minute or two.",
+    "Brush the wine-infused butter on top of each piece of bread.",
+    "Top each piece of toast with a sprinkle of sugar and a few pieces of crushed candy.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "easy",
+    "ukrainian",
+    "wine"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 14
+  },
+  "slug": "winey-ukrainian-butter-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-ukrainian-butter-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:01Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "candy",
+    "primaryIngredient": "butter",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "ukrainian",
+    "mainIngredient": "butter",
+    "descriptor": "winey",
+    "dishForm": "toast"
+  }
+}
