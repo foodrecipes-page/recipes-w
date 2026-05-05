@@ -1,0 +1,99 @@
+{
+  "title": "Wholesome Zesty Herbs Pilaf",
+  "description": "A kid-friendly herbal and flaky Norwegian dish featuring creamed corn, suitable for nut-free diets.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "10"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "3"
+    },
+    {
+      "name": "uncooked rice vermicelli",
+      "amount": "50 grams"
+    },
+    {
+      "name": "creamed corn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "parsley, chopped",
+      "amount": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pot over medium heat.",
+    "Add onion, carrots, and celery; sauté until vegetables are soft.",
+    "Stir in rice vermicelli, creamed corn, lemon juice, parsley, garlic powder, turmeric, salt, and pepper.",
+    "Simmer for 10 minutes or until liquid is absorbed.",
+    "Serve hot as a side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "kid-friendly",
+    "nut-free",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 4
+  },
+  "slug": "wholesome-zesty-herbs-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-zesty-herbs-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T20:02:07Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "whisk",
+    "primaryIngredient": "creamed corn",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Zesty",
+    "mainIngredient": "Herbs",
+    "descriptor": "Wholesome",
+    "dishForm": "Pilaf"
+  }
+}
