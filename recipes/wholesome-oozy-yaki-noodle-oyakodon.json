@@ -1,0 +1,85 @@
+{
+  "title": "Wholesome Oozy Yaki-Noodle Oyakodon",
+  "description": "This kosher-friendly resinous and chewy Japanese dish features rice stick noodles in a mirepoix-base sauce.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice sticks",
+      "amount": 150
+    },
+    {
+      "name": "ground beef",
+      "amount": 100
+    },
+    {
+      "name": "shredded chicken breast",
+      "amount": 100
+    },
+    {
+      "name": "soy sauce",
+      "amount": 30
+    },
+    {
+      "name": "sake or mirin",
+      "amount": 30
+    },
+    {
+      "name": "sesame oil",
+      "amount": 15
+    },
+    {
+      "name": "ginger paste",
+      "amount": 20
+    },
+    {
+      "name": "green onions",
+      "amount": 20
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium heat.",
+    "Add ground beef and chicken breast, cooking until browned.",
+    "Stir in soy sauce and sake or mirin to create the sauce.",
+    "Cook rice sticks according to package instructions. Drain and add to sauce.",
+    "Mix all ingredients well until rice sticks are fully coated with sauce.",
+    "Serve hot garnished with sliced green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-dish",
+    "kosher-friendly",
+    "mirepoix-base",
+    "oyakodon",
+    "resinous-yokodyum"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 21,
+    "carbs": 48,
+    "fat": 13
+  },
+  "slug": "wholesome-oozy-yaki-noodle-oyakodon",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-oozy-yaki-noodle-oyakodon",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T08:31:54Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "rice stick noodles",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Rice Stick Noodles",
+    "descriptor": "Wholesome Oozy",
+    "dishForm": "Oyakodon"
+  }
+}
