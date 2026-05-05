@@ -2191,6 +2191,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-smoked-german-sauerbraten-casserole",
+    "title": "Warm Smoked German Sauerbraten Casserole",
+    "tags": [
+      "cheese-pull",
+      "comfort-food",
+      "german",
+      "high-protein",
+      "one-pan",
+      "warm-smoked"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 180,
+    "shard": "w"
+  },
+  {
     "slug": "warm-smoked-peruvian-chicken-pollo-a-la-brasa",
     "title": "Warm, Smoked Peruvian Chicken Pollo a la Brasa",
     "tags": [
@@ -2355,6 +2370,22 @@
     ],
     "cuisine": "vietnamese",
     "totalTimeMin": 90,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spanish-oysters-paella",
+    "title": "Warm Spanish Oysters Paella",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "paella",
+      "seafood",
+      "spanish",
+      "valencian",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -4069,6 +4100,21 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-canadian-rhubarb-bowl",
+    "title": "wholesome canadian rhubarb bowl",
+    "tags": [
+      "breakfast",
+      "canadian",
+      "gluten-free",
+      "high-fiber",
+      "spring",
+      "vegan"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 14,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-canadian-roast-roast",
     "title": "wholesome canadian roast roast",
     "tags": [
@@ -4601,6 +4647,21 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-jammy-norwegian-grain-pilaf",
+    "title": "wholesome jammy norwegian grain pilaf",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "paleo",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 22,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-japanese-beetroot-ramen",
     "title": "Wholesome Japanese Beetroot Ramen",
     "tags": [
@@ -5090,6 +5151,22 @@
     ],
     "cuisine": "malaysian",
     "totalTimeMin": 65,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-slovakian-rye-pancakes",
+    "title": "Wholesome Slovakian Rye Pancakes",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "gluten",
+      "macrobiotic",
+      "rye",
+      "slovakian",
+      "weekend"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -6149,6 +6226,20 @@
     "shard": "w"
   },
   {
+    "slug": "winey-crisp-middle-eastern-lemongrass-takrai-salad",
+    "title": "winey crisp Middle-eastern lemongrass-takrai Salad",
+    "tags": [
+      "easy",
+      "gluten-free",
+      "keto",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Middle-eastern",
+    "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
     "slug": "winey-crisp-tunisian-bread-bread",
     "title": "winey crisp tunisian bread",
     "tags": [
@@ -6556,6 +6647,20 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 90,
+    "shard": "w"
+  },
+  {
+    "slug": "wood-fired-argentinian-galangal-kha-bake",
+    "title": "Wood-Fired Argentinian Galangal-Kha Bake",
+    "tags": [
+      "argentinian",
+      "beef",
+      "galangal-kha",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {

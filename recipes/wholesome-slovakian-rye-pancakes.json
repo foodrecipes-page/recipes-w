@@ -1,0 +1,90 @@
+{
+  "title": "Wholesome Slovakian Rye Pancakes",
+  "description": "Pungent, snappy brunch-mood Slovakian dish featuring rye, with a tangy, earthy flavor and a crunchy texture from caraway seeds. Macrobiotic-friendly, perfect for a cozy weekend morning.",
+  "cuisine": "Slovakian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rye flour",
+      "amount": "2 cups",
+      "notes": "Use a high-quality, dark rye flour for the best flavor."
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tablespoon",
+      "notes": "These tiny seeds add a lovely, bittersweet flavor and crunchy texture."
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon",
+      "notes": "Light and fluffy, just like grandma used to make."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To bring out the flavors and textures of the grains."
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "Macrobiotic-friendly and adds a tangy, creamy element to the pancakes."
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "For moisture, richness, and a tender crumb."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "To create a smooth, pourable batter."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "For greasing the pan and adding a hint of savory flavor."
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the rye flour, caraway seeds, baking powder, and salt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "gluten",
+    "macrobiotic",
+    "rye",
+    "slovakian",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "wholesome-slovakian-rye-pancakes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-slovakian-rye-pancakes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:50Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "spherify",
+    "primaryIngredient": "rye",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Rye",
+    "descriptor": "Wholesome",
+    "dishForm": "Pancakes"
+  }
+}

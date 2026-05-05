@@ -1,0 +1,93 @@
+{
+  "title": "wholesome jammy norwegian grain pilaf",
+  "description": "quick and easy whole grain pilaf with a rich, jammy texture and paleo-friendly ingredients",
+  "cuisine": "norwegian",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "250g"
+    },
+    {
+      "name": "water",
+      "amount": "250ml"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "2tsp"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "vegan yogurt",
+      "amount": "50ml"
+    }
+  ],
+  "instructions": [
+    "Combine rice and water in a medium saucepan",
+    "Bring to a boil and reduce heat to a simmer",
+    "Cover and cook for 15 minutes or until liquid is absorbed",
+    "In a small bowl, whisk together mustard and vegan yogurt",
+    "Add thyme, salt, and pepper to the bowl and whisk until smooth",
+    "Add sunflower oil to the bowl and whisk until emulsified",
+    "Stir the emulsified mixture into the cooked rice",
+    "Cook for an additional 2 minutes",
+    "Serve hot"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 17,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "wholesome-jammy-norwegian-grain-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-jammy-norwegian-grain-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:36Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "norwegian",
+    "mainIngredient": "grain",
+    "descriptor": "wholesome jammy",
+    "dishForm": "pilaf"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "title": "wholesome canadian rhubarb bowl",
+  "description": "mustardy, crispy, energizing canadain dish featuring rhubarb, ferment-kimchi. pairs well with a warm, crispy bagel on a chilly morning.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rhubarb stalks",
+      "amount": "2 cups",
+      "notes": "fresh, cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Add 1 tablespoon of mustard to a large skillet over medium-high heat, stirring occasionally.",
+    "Add 1/4 cup of ferment-kimchi in 1/2-inch pieces and cook for 2 minutes, stirring occasionally."
+  ],
+  "prepTimeMin": 8,
+  "cookTimeMin": 6,
+  "totalTimeMin": 14,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "canadian",
+    "gluten-free",
+    "high-fiber",
+    "spring",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 4
+  },
+  "slug": "wholesome-canadian-rhubarb-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-canadian-rhubarb-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:15Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "rhubarb",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "rhubarb",
+    "descriptor": "wholesome",
+    "dishForm": "bowl"
+  }
+}

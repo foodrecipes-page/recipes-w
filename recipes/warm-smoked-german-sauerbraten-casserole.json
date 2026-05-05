@@ -1,0 +1,135 @@
+{
+  "title": "Warm Smoked German Sauerbraten Casserole",
+  "description": "A hearty, comforting German dish with a winey flavor profile and gooey cheese pulling from the crispy top, inspired by the classic Sauerbraten recipe.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck roast",
+      "amount": "2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 tablespoon",
+      "notes": "to thicken the sauce"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pul biber",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "crushed rye bread",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large Dutch oven, brown the beef cubes in butter until browned on all sides, about 5 minutes, then set aside.",
+    "Add the onion to the pot and cook until softened, about 3-4 minutes, then add the caraway seeds and cook for another minute.",
+    "Add the wine, broth, bay leaves, and browned beef back into the pot, cover, and bring to a simmer.",
+    "Transfer the pot to the preheated oven and braise the beef for about 2-1/2 hours, or until tender, then strain the sauce and set aside.",
+    "Shred the beef with two forks and mix with the sauce, then stir in the pul biber and smoked paprika.",
+    "In a separate bowl, mix the shredded cheddar cheese with the crushed rye bread and a pinch of salt and pepper.",
+    "In a greased 9x13 inch baking dish, arrange the beef mixture in an even layer, then sprinkle the cheese mixture on top, finishing with a layer of remaining beef sauce.",
+    "Drizzle the top with the beaten eggs for a golden-brown crust and dot with butter.",
+    "Bake in the preheated oven until the top is golden brown and the cheese is melted and bubbly, about 25-30 minutes.",
+    "Let it rest for 10 minutes before serving.",
+    "Slice and serve hot, garnished with additional caraway seeds and chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "cheese-pull",
+    "comfort-food",
+    "german",
+    "high-protein",
+    "one-pan",
+    "warm-smoked"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 64,
+    "carbs": 30,
+    "fat": 44
+  },
+  "slug": "warm-smoked-german-sauerbraten-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoked-german-sauerbraten-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:42Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "smoke",
+    "primaryIngredient": "pul biber",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Sauerbraten",
+    "descriptor": "Warm Smoked",
+    "dishForm": "Casserole"
+  }
+}

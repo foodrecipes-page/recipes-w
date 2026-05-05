@@ -1,0 +1,121 @@
+{
+  "title": "winey crisp Middle-eastern lemongrass-takrai Salad",
+  "description": "A refreshing and crispy Middle-eastern salad featuring lemongrass, kelp, and citrus, perfect for kids and keto dieters.",
+  "cuisine": "Middle-eastern",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": "Includes lettuce, arugula, and spinach."
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": "Thinly sliced."
+    },
+    {
+      "name": "Takrai",
+      "amount": "1 cup",
+      "notes": "Diced."
+    },
+    {
+      "name": "Kombu",
+      "amount": "2 sheets",
+      "notes": "Dried kelp, soaked in water."
+    },
+    {
+      "name": "Cold-extract",
+      "amount": "1 cup",
+      "notes": "Kombu cold-extract."
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "Crumbly."
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced."
+    },
+    {
+      "name": "Pomegranate seeds",
+      "amount": "1/4 cup",
+      "notes": "Fresh."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin."
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Citrus zest",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mixed greens, lemongrass, takrai, and red onion."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "gluten-free",
+    "keto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "winey-crisp-middle-eastern-lemongrass-takrai-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-crisp-middle-eastern-lemongrass-takrai-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:44Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "lemongrass-takrai",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Middle-eastern",
+    "mainIngredient": "lemongrass-takrai",
+    "descriptor": "winey crisp",
+    "dishForm": "Salad"
+  }
+}

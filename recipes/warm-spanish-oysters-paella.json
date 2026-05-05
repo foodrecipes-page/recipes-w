@@ -1,0 +1,123 @@
+{
+  "title": "Warm Spanish Oysters Paella",
+  "description": "A warm and savory Spanish paella dish featuring fresh oysters, perfect for a hearty dinner. The crispy crust and flavorful broth are sure to delight your taste buds.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Oysters",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Saffron rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the diced tomato and cook for 2-3 minutes, stirring occasionally.",
+    "Add the chicken broth, salt, and black pepper. Bring to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the saffron rice to the pan and cook for 2-3 minutes, stirring constantly.",
+    "Add the oysters to the pan and cook for 2-3 minutes, until they start to open.",
+    "Cover the pan with a lid and cook for an additional 5-7 minutes, until the rice is cooked and the oysters are fully opened.",
+    "Remove the pan from the heat and stir in the lemon juice. ",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "paella",
+    "seafood",
+    "spanish",
+    "valencian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 60,
+    "fat": 28
+  },
+  "slug": "warm-spanish-oysters-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spanish-oysters-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:00Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "tagine-cook",
+    "primaryIngredient": "oysters",
+    "diet": "high-protein",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "oysters",
+    "descriptor": "Warm",
+    "dishForm": "Paella"
+  }
+}

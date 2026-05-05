@@ -1,0 +1,100 @@
+{
+  "title": "Wood-Fired Argentinian Galangal-Kha Bake",
+  "description": "A flavorful, crumbly Argentinian-inspired dish featuring galangal-kha, baked to perfection in a wood-fired oven. Perfect for a weeknight dinner.",
+  "cuisine": "argentinian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Galangal-Kha",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chimichurri Sauce",
+      "amount": "120ml",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 220°C (425°F).",
+    "In a large bowl, mix together the galangal-kha, ground beef, onion, garlic, salt, and black pepper until just combined.",
+    "Transfer the mixture to a baking dish and drizzle with olive oil.",
+    "Spread the chimichurri sauce evenly over the top of the mixture.",
+    "Bake for 25 minutes, or until the top is golden brown and the internal temperature reaches 71°C (160°F).",
+    "Sprinkle with fresh parsley and serve hot.",
+    "Let the dish rest for 5 minutes before serving.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "galangal-kha",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "wood-fired-argentinian-galangal-kha-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wood-fired-argentinian-galangal-kha-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:01Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "galangal-kha",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "galangal-kha",
+    "descriptor": "wood-fired",
+    "dishForm": "Bake"
+  }
+}
