@@ -1745,6 +1745,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-middle-eastern-spinach-tagine",
+    "title": "Warm Middle-Eastern Spinach Tagine",
+    "tags": [
+      "dinner",
+      "middle-eastern",
+      "one-pan",
+      "oven",
+      "spinach",
+      "tagine"
+    ],
+    "cuisine": "Middle-Eastern",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-molten-brazilian-white-fish-skillet",
     "title": "Warm Molten Brazilian White Fish Skillet",
     "tags": [
@@ -6120,6 +6135,20 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "wilted-indulgent-polish-garlicky-meat-paella",
+    "title": "wilted indulgent polish garlicky meat paella",
+    "tags": [
+      "garlicky",
+      "high-protein",
+      "meat-lovers",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "polish",
+    "totalTimeMin": 70,
     "shard": "w"
   },
   {

@@ -1,0 +1,95 @@
+{
+  "title": "Warm Middle-Eastern Spinach Tagine",
+  "description": "A spicy, tender, and comforting ovo-vegetarian-friendly dinner dish featuring spinach, traditionally cooked in a clay pot. Serve over couscous or with warm pita bread.",
+  "cuisine": "Middle-Eastern",
+  "diet": [
+    "ovo-vegetarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 package (10 oz) fresh",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 oz) drained and rinsed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay pot or Dutch oven over medium heat."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "middle-eastern",
+    "one-pan",
+    "oven",
+    "spinach",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "warm-middle-eastern-spinach-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-middle-eastern-spinach-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:49:12Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "spinach",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "spinach",
+    "descriptor": "Warm",
+    "dishForm": "Tagine"
+  }
+}
