@@ -1,0 +1,104 @@
+{
+  "title": "Warm, Smoked Peruvian Chicken Pollo a la Brasa",
+  "description": "A garlicky, shattering, light Peruvian dish featuring casabe and papillote.",
+  "cuisine": "peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 1/2 pounds",
+      "notes": "whole chicken, bone-in, skin-on"
+    },
+    {
+      "name": "casabe",
+      "amount": "1 1/2 pounds",
+      "notes": "crushed casabe bread"
+    },
+    {
+      "name": "garlic",
+      "amount": "8 cloves",
+      "notes": "peeled, minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 teaspoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "papillote",
+      "amount": "4 pieces",
+      "notes": "parchment paper squares"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400°F (200°C).",
+    "In a small bowl, mix together garlic, black pepper, chili flakes, and salt.",
+    "Rub the garlic mixture all over the chicken, making sure to get some under the skin as well.",
+    "Place the chicken in the center of a piece of papillote, and add a few pieces of crushed casabe around it.",
+    "Brush the edges of the papillote with olive oil, then fold the paper over the chicken to create a tight packet.",
+    "Place the packets on the grill, and smoke for 45 minutes, or until the chicken is cooked through.",
+    "Remove the chicken from the heat, and let it rest for 10 minutes before serving.",
+    "Serve the chicken with a squeeze of lemon juice and a sprinkle of crushed casabe.",
+    "For an authentic touch, serve the chicken on a wooden skewer, garnished with a sprig of cilantro or a slice of lime."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casabe",
+    "chicken",
+    "grill",
+    "high-protein",
+    "latin-american",
+    "one-pan",
+    "smoked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 38,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "warm-smoked-peruvian-chicken-pollo-a-la-brasa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoked-peruvian-chicken-pollo-a-la-brasa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:27Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "papillote",
+    "primaryIngredient": "casabe",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Warm, Smoked",
+    "dishForm": "Pollo a la Brasa"
+  }
+}

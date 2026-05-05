@@ -2055,6 +2055,23 @@
     "shard": "w"
   },
   {
+    "slug": "warm-smoked-peruvian-chicken-pollo-a-la-brasa",
+    "title": "Warm, Smoked Peruvian Chicken Pollo a la Brasa",
+    "tags": [
+      "casabe",
+      "chicken",
+      "grill",
+      "high-protein",
+      "latin-american",
+      "one-pan",
+      "smoked",
+      "weeknight"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 65,
+    "shard": "w"
+  },
+  {
     "slug": "warm-smoked-slovakian-pork-tagine",
     "title": "Warm Smoked Slovakian Pork Tagine",
     "tags": [
@@ -5694,6 +5711,21 @@
     ],
     "cuisine": "argentinian",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-creamy-midnight-craving-argentinian-dinner-casserole",
+    "title": "Argentinian Winey Creamy Midnight Craving Casserole",
+    "tags": [
+      "argentinian",
+      "comfort-food",
+      "creamy",
+      "one-pan",
+      "weeknight",
+      "winey"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {

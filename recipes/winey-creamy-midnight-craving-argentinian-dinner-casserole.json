@@ -1,0 +1,104 @@
+{
+  "title": "Argentinian Winey Creamy Midnight Craving Casserole",
+  "description": "A hearty, comforting casserole featuring the flavors of Argentina. Perfect for a late-night craving.",
+  "cuisine": "argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "prosciutto",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "braeburn apples",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for greasing the baking dish"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for thickening the sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Grease a 9x13 inch baking dish with olive oil.",
+    "In a large skillet, cook the prosciutto over medium heat until crispy, then set aside.",
+    "In the same skillet, sauté the minced garlic until fragrant, then add the red wine and cook until the liquid has reduced by half.",
+    "In a separate bowl, mix together the grated Gruyère cheese, chopped parsley, and cooked prosciutto.",
+    "In a large mixing bowl, whisk together the eggs and a pinch of salt.",
+    "Add the cooked garlic and wine mixture to the egg mixture, then stir in the flour to thicken the sauce.",
+    "Arrange the sliced Braeburn apples in the bottom of the prepared baking dish.",
+    "Pour the egg and cheese mixture over the apples, then dot the top with additional Gruyère cheese.",
+    "Transfer the baking dish to the preheated oven and bake for 35 minutes, or until the casserole is golden brown and set.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "comfort-food",
+    "creamy",
+    "one-pan",
+    "weeknight",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 37
+  },
+  "slug": "winey-creamy-midnight-craving-argentinian-dinner-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-creamy-midnight-craving-argentinian-dinner-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:06Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "marinate",
+    "primaryIngredient": "braeburn apples",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "dinner",
+    "descriptor": "winey creamy midnight-craving",
+    "dishForm": "Casserole"
+  }
+}
