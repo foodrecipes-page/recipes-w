@@ -1,0 +1,73 @@
+{
+  "title": "winy shaggy middle-eastern seafood en-croute",
+  "description": "a hearty, comforting dish that showcases the flavors of the middle east. this winey, shaggy seafood en-croute is a nostalgic treat that's perfect for a cozy night in.",
+  "cuisine": "middle eastern",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "seafood stock",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375f (190c).",
+    "in a large skillet, heat the olive oil over medium heat and sauté the chopped onion until softened, about 5 minutes.",
+    "add the seafood stock to the skillet and bring to a boil.",
+    "reduce heat to low and simmer for 10 minutes, stirring occasionally.",
+    "in a separate bowl, mix together the sautéed onion and seafood stock mixture.",
+    "roll out 1 package of puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "spread the onion and seafood stock mixture evenly over the center of the pastry, leaving a 1-inch border around the edges.",
+    "brush the edges of the pastry with a little water, then fold the pastry over the filling, pressing gently to seal. ",
+    "cut a few slits in the top of the pastry to allow steam to escape.",
+    "place the en-croute on a baking sheet lined with parchment paper and bake for 25-30 minutes, or until golden brown.",
+    "serve hot and enjoy!."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "middle-eastern",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "winy-shaggy-middle-eastern-seafood-en-croute",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winy-shaggy-middle-eastern-seafood-en-croute",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:56:25Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shaggy",
+    "mood": "nostalgic",
+    "technique": "en-croute",
+    "primaryIngredient": "seafood stock",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "middle-eastern",
+    "mainIngredient": "seafood",
+    "descriptor": "winy shaggy",
+    "dishForm": "en-croute"
+  }
+}

@@ -1745,6 +1745,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-pillowy-tunisian-fregola-tagine",
+    "title": "Warm Pillowy Tunisian Fregola Tagine",
+    "tags": [
+      "comfort-food",
+      "diabetic-friendly",
+      "herbal",
+      "one-pan",
+      "romantic",
+      "tunisian"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-polish-rye-crumble",
     "title": "Warm Polish Rye Crumble",
     "tags": [
@@ -5326,6 +5341,21 @@
     "shard": "w"
   },
   {
+    "slug": "wilted-baby-portuguese-lettuce-salad",
+    "title": "Wilted Baby Portuguese Lettuce Salad",
+    "tags": [
+      "easy-dinner",
+      "halal-cuisine",
+      "high-protein",
+      "one-pan",
+      "portuguese-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
     "slug": "wilted-briny-olives-mediterranean-pilaf",
     "title": "Wilted Briny Olives Mediterranean Pilaf",
     "tags": [
@@ -5395,6 +5425,24 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 18,
+    "shard": "w"
+  },
+  {
+    "slug": "wilted-russian-cabbage-borscht",
+    "title": "Wilted Russian Cabbage Borscht",
+    "tags": [
+      "beet-based",
+      "comfort-food",
+      "easy-to-make",
+      "kid-friendly",
+      "russian-dish",
+      "sattvic-friendly",
+      "soul-food",
+      "vegetarian",
+      "veggie-curry"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -5630,6 +5678,20 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 20,
+    "shard": "w"
+  },
+  {
+    "slug": "winy-shaggy-middle-eastern-seafood-en-croute",
+    "title": "winy shaggy middle-eastern seafood en-croute",
+    "tags": [
+      "comfort-food",
+      "middle-eastern",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "middle eastern",
+    "totalTimeMin": 65,
     "shard": "w"
   },
   {

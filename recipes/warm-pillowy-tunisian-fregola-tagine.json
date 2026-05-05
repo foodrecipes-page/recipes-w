@@ -1,0 +1,139 @@
+{
+  "title": "Warm Pillowy Tunisian Fregola Tagine",
+  "description": "A romantic and aromatic dish featuring pillowy fregola, slow-cooked rest-meat, and fragrant herbs, suitable for diabetics. Try serving in a molcajete for an authentic experience.",
+  "cuisine": "tunisian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fregola",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "rest-meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a molcajete over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic, ginger, cumin, coriander, paprika, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add the rest-meat and cook until browned, about 5 minutes.",
+    "Add the fregola, water, lemon juice, and honey. Bring to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the parsley, cilantro, and cook for an additional 2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve warm and enjoy!",
+    "Garnish with additional parsley and cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "herbal",
+    "one-pan",
+    "romantic",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "warm-pillowy-tunisian-fregola-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-pillowy-tunisian-fregola-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:56:39Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "rest-meat",
+    "primaryIngredient": "fregola",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "fregola",
+    "descriptor": "warm pillowy",
+    "dishForm": "Tagine"
+  }
+}

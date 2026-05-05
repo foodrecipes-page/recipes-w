@@ -1,0 +1,103 @@
+{
+  "title": "Wilted Baby Portuguese Lettuce Salad",
+  "description": "A briny and pillowy Portuguese-inspired dish featuring blanched baby lettuces, perfect for meal prep. This halal-friendly recipe is quick and easy to make, and can be served as a side or main course.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "halal",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Baby Portuguese lettuce leaves",
+      "amount": "2 cups",
+      "notes": "Fresh and crisp."
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced."
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a comal over medium heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the smoked paprika, salt, black pepper, and red pepper flakes, and cook for 30 seconds.",
+    "Add the blanched baby lettuce leaves and cook for 1-2 minutes, until wilted.",
+    "Transfer the lettuce to a plate and drizzle with red wine vinegar.",
+    "Garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "halal-cuisine",
+    "high-protein",
+    "one-pan",
+    "portuguese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "wilted-baby-portuguese-lettuce-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-baby-portuguese-lettuce-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:57:03Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "blanch",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "lettuce",
+    "descriptor": "wilted baby",
+    "dishForm": "salad"
+  }
+}
