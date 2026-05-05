@@ -1,0 +1,63 @@
+{
+  "title": "warm char-grill-yang Canadian pillowy solo-dinner Bowl",
+  "description": "A flavorful and comforting bowl dish featuring char-grilled chicken, toasted black pepper and a hint of Korean chili flakes, all wrapped up in a soft, pillowy Canadian dinner. This recipe is perfect for a quick and easy single-serving meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1",
+      "notes": "cut into thin strips"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a skillet over medium heat.",
+    "Add the chopped sweet potato and cook for 3-4 minutes, or until tender and lightly browned.",
+    "Add the chicken strips and cook for 5-6 minutes, or until cooked through.",
+    "Sprinkle with toasted black pepper, Korean chili flakes, garlic powder, onion powder and salt to taste.",
+    "Split the pillowy dinner bun in half and toast until lightly browned.",
+    "Assemble the bowl by placing the cooked chicken and sweet potato mixture on top of the bun, garnished with green onions and toasted sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "char-grill-yang",
+    "diabetic-friendly",
+    "korean-brass-bowl",
+    "low-carb",
+    "one-pan",
+    "quick-and-easy",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "warm-char-grill-yang-canadian-pillowy-solo-dinner-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-char-grill-yang-canadian-pillowy-solo-dinner-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:57Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "black pepper",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "pillowy solo-dinner",
+    "descriptor": "warm char-grill-yang",
+    "dishForm": "Bowl"
+  }
+}

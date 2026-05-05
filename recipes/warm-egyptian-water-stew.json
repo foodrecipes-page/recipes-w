@@ -1,0 +1,126 @@
+{
+  "title": "Warm Egyptian Water Stew",
+  "description": "A comforting, umami-rich stew featuring a mother-sauce-base and warm water. This Egyptian dish is perfect for meal prep and is suitable for Buddhist temple-friendly diets.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "water",
+      "amount": "1 liter",
+      "notes": ""
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms",
+      "amount": "250 grams",
+      "notes": ""
+    },
+    {
+      "name": "spinach",
+      "amount": "200 grams",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "250 milliliters",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the water in a large pot over medium heat until warm.",
+    "Add the tahini, lemon juice, garlic, and ginger to the pot and whisk until smooth.",
+    "Add the vegetable oil, onion, and mushrooms to the pot and cook until the onion is translucent.",
+    "Add the spinach and coconut milk to the pot and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Season the stew with salt, black pepper, and paprika to taste.",
+    "Serve the warm Egyptian water stew hot over rice or with some crusty bread.",
+    "Store leftovers in the refrigerator for up to 3 days or freeze for up to 2 months.",
+    "When reheating, add more water if the stew has thickened too much.",
+    "Adjust the seasoning as needed before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal-prep",
+    "gluten-free",
+    "low-calorie",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "warm-egyptian-water-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-egyptian-water-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:39Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "warm water",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "egyptian",
+    "mainIngredient": "water",
+    "descriptor": "warm",
+    "dishForm": "stew"
+  }
+}

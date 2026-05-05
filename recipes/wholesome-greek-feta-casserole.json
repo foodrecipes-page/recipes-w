@@ -1,0 +1,109 @@
+{
+  "title": "Wholesome Greek Feta Casserole",
+  "description": "A traditional Greek casserole featuring feta cheese, tabasco sauce, and a crispy crust. Serve warm, garnished with fresh herbs.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole or low-fat"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "tabasco sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Spread a layer of olive oil on the bottom of a 9x13-inch cazuela.",
+    "Mix crumbled feta cheese with chopped onion and garlic. ",
+    "Layer phyllo dough on top of the feta mixture, brushing with olive oil between each layer. ",
+    "In a separate bowl, whisk together milk and tabasco sauce. ",
+    "Pour the milk mixture over the phyllo dough. ",
+    "Season with salt and black pepper. ",
+    "Bake for 30 minutes, or until the phyllo crust is golden brown. ",
+    "Garnish with chopped parsley and serve warm.",
+    "Let the casserole rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "feta",
+    "greek",
+    "shojin",
+    "tabasco",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "wholesome-greek-feta-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-greek-feta-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:37Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "tabasco sauce",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "feta",
+    "descriptor": "wholesome",
+    "dishForm": "casserole"
+  }
+}

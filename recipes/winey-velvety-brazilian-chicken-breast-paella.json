@@ -1,0 +1,129 @@
+{
+  "title": "Winey Velvety Brazilian Chicken Breast Paella",
+  "description": "A romantic and flavorful Brazilian dish featuring chicken breast, ferment-jang, and a wine-infused velvety sauce, all in one pan. Serve with a side of steaming hot rice for a truly unforgettable meal.",
+  "cuisine": "Brazilian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "yellow corn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "saffron",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "for the velvety sauce"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium heat.",
+    "Add the chicken breast and cook until browned on all sides, about 5 minutes.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the white wine and bring to a simmer, scraping up any browned bits from the bottom of the pan.",
+    "Add the chicken broth, ferment-jang, red bell pepper, yellow corn, saffron, smoked paprika, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 15 minutes.",
+    "While the paella is cooking, make the velvety sauce by heating the heavy cream in a small saucepan over medium heat until it starts to simmer.",
+    "Reduce the heat to low and simmer the cream for 5 minutes, stirring occasionally.",
+    "To serve, place the paella on a large platter and spoon the velvety sauce over the top.",
+    "Garnish with fresh parsley or cilantro, if desired.",
+    "Serve hot, with a side of steaming hot rice.",
+    "Let the paella rest for 5 minutes before serving to allow the flavors to meld together.",
+    "Serve immediately, and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "brazilian",
+    "chicken",
+    "dinner",
+    "entree",
+    "one-pan",
+    "paella",
+    "romantic",
+    "velvety",
+    "wine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "winey-velvety-brazilian-chicken-breast-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-velvety-brazilian-chicken-breast-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:12Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "ferment-jang",
+    "primaryIngredient": "chicken breast",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken breast",
+    "descriptor": "winey velvety",
+    "dishForm": "Paella"
+  }
+}

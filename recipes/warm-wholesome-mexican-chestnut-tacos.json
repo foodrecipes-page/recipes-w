@@ -1,0 +1,98 @@
+{
+  "title": "Warm Wholesome Mexican Chestnut Tacos",
+  "description": "A grassy, shattering, monsoon Mexican dish from Jalisco, featuring cooked chestnuts, infuse-oil, and sugar-free friendly flavors, served in salt-block vessels.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chestnuts",
+      "amount": "16 oz",
+      "notes": ""
+    },
+    {
+      "name": "Infuse Oil",
+      "amount": "1/4 cup",
+      "notes": "Grape seed oil infused with jalapeño and cilantro."
+    },
+    {
+      "name": "Salt",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Monterey Jack Cheese (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pan, toast the cumin, paprika, and salt over medium heat for 1 minute.",
+    "Add the minced garlic and cook for an additional 30 seconds.",
+    "Add the infuse oil and cook for 1-2 minutes, until fragrant.",
+    "Add the cooked chestnuts and stir to combine with the spices and oil.",
+    "Season with lime juice and stir to combine.",
+    "Spoon the mixture onto salt-block vessels and top with chopped cilantro and Monterey Jack cheese (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jalisco",
+    "mexican",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-wholesome-mexican-chestnut-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wholesome-mexican-chestnut-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:49Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "infuse-oil",
+    "primaryIngredient": "cooked chestnut",
+    "diet": "sugar-free",
+    "region": "jalisco-style",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chestnut",
+    "descriptor": "Warm Wholesome",
+    "dishForm": "Tacos"
+  }
+}

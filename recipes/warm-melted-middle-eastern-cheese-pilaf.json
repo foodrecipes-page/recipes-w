@@ -1,0 +1,111 @@
+{
+  "title": "Warm Melted Middle Eastern Cheese Pilaf",
+  "description": "A warm, cheesy, and comforting pilaf that is perfect for a midnight craving. This dish is easy to make and features a delicious combination of Middle Eastern flavors.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saffron-infused basmati rice",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tandoori cheese",
+      "amount": "8 oz",
+      "notes": "such as paneer or halloumi"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Orange zest",
+      "amount": "1 tsp",
+      "notes": "from 1 orange"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the saffron-infused basmati rice and cook for 2-3 minutes, stirring constantly.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes or until the rice is cooked.",
+    "While the rice is cooking, preheat the oven to 400°F (200°C).",
+    "Place the tandoori cheese on a baking sheet and bake for 5-7 minutes or until melted and golden brown.",
+    "Remove the cheese from the oven and let it cool for a few minutes.",
+    "Fluff the cooked rice with a fork and stir in the melted cheese, orange zest, and orange juice.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "comfort-food",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "warm-melted-middle-eastern-cheese-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-melted-middle-eastern-cheese-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:35:01Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "tandoor",
+    "primaryIngredient": "orange",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "middle-eastern",
+    "mainIngredient": "cheese",
+    "descriptor": "warm melted",
+    "dishForm": "pilaf"
+  }
+}

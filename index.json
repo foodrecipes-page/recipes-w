@@ -272,6 +272,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-char-grill-yang-canadian-pillowy-solo-dinner-bowl",
+    "title": "warm char-grill-yang Canadian pillowy solo-dinner Bowl",
+    "tags": [
+      "char-grill-yang",
+      "diabetic-friendly",
+      "korean-brass-bowl",
+      "low-carb",
+      "one-pan",
+      "quick-and-easy",
+      "solo-dinner"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "warm-charred-egyptian-oats-pilaf",
     "title": "Warm Charred Egyptian Oats Pilaf",
     "tags": [
@@ -915,6 +931,20 @@
       "quick"
     ],
     "cuisine": "egyptian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-egyptian-water-stew",
+    "title": "Warm Egyptian Water Stew",
+    "tags": [
+      "easy-meal-prep",
+      "gluten-free",
+      "low-calorie",
+      "one-pan",
+      "vegan"
+    ],
+    "cuisine": "Egyptian",
     "totalTimeMin": 40,
     "shard": "w"
   },
@@ -1666,6 +1696,20 @@
       "indian-cuisine"
     ],
     "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-melted-middle-eastern-cheese-pilaf",
+    "title": "Warm Melted Middle Eastern Cheese Pilaf",
+    "tags": [
+      "cheese-pull",
+      "comfort-food",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
     "shard": "w"
   },
@@ -2824,6 +2868,20 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wholesome-mexican-chestnut-tacos",
+    "title": "Warm Wholesome Mexican Chestnut Tacos",
+    "tags": [
+      "jalisco",
+      "mexican",
+      "one-pan",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -4359,6 +4417,22 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-greek-feta-casserole",
+    "title": "Wholesome Greek Feta Casserole",
+    "tags": [
+      "casserole",
+      "feta",
+      "greek",
+      "shojin",
+      "tabasco",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -6263,6 +6337,24 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-velvety-brazilian-chicken-breast-paella",
+    "title": "Winey Velvety Brazilian Chicken Breast Paella",
+    "tags": [
+      "brazilian",
+      "chicken",
+      "dinner",
+      "entree",
+      "one-pan",
+      "paella",
+      "romantic",
+      "velvety",
+      "wine"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {
