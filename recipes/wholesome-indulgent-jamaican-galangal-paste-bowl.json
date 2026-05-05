@@ -1,0 +1,114 @@
+{
+  "title": "wholesome indulgent Jamaican galangal paste bowl",
+  "description": "a tangy shaggy and indulgent Jamaican dish featuring galangal paste served in a Korean brass bowl. note: the coconut cream topping should be made in advance to allow it to set and crisp up. ",
+  "cuisine": "jamaican",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "make in advance to allow to set and crisp up"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "use gloves when handling"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "heat ghee in a large skillet over medium heat.",
+    "add galangal and saut\u00175 till fragrant, about 2 minutes.",
+    "add allspice, curry powder, brown sugar, salt, and pepper, and stir to combine.",
+    "reduce heat to low and simmer for 5 minutes.",
+    "stir in coconut milk, scotch bonnet peppers, and lime juice.",
+    "serve in a Korean brass bowl topped with coconut cream and garnished with green onions.",
+    "allow coconut cream to set and crisp up in refrigerator for at least 30 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "coconut",
+    "galangal",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 48
+  },
+  "slug": "wholesome-indulgent-jamaican-galangal-paste-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-indulgent-jamaican-galangal-paste-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:06:25Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "galangal paste",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "galangal paste",
+    "descriptor": "wholesome indulgent",
+    "dishForm": "Bowl"
+  }
+}

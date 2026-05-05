@@ -1,0 +1,81 @@
+{
+  "title": "wholesome light canadian granulated sugar pudding",
+  "description": "a simple and comforting dessert featuring granulated sugar and tempering chocolate.",
+  "cuisine": "canadian",
+  "meal": "dessert",
+  "diet": [
+    "vegetarian"
+  ],
+  "ingredients": [
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "3"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "6 ounces"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "in a medium saucepan, whisk together the sugar, milk, egg yolks, and salt.",
+    "cook over medium heat, stirring constantly, until the mixture reaches 160°F.",
+    "remove from heat and stir in the tempering chocolate until melted and smooth.",
+    "return the saucepan to low heat and cook, stirring constantly, for an additional 5 minutes.",
+    "remove from heat and stir in the vanilla extract.",
+    "let cool to room temperature, then cover and refrigerate until chilled.",
+    "serve cold, garnished with a sprinkle of salt if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-desserts",
+    "chocolate",
+    "comfort-food",
+    "easy-desserts",
+    "pudding",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "wholesome-light-canadian-granulated-sugar-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-light-canadian-granulated-sugar-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:06:04Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "granulated sugar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "granulated sugar",
+    "descriptor": "wholesome light",
+    "dishForm": "pudding"
+  }
+}

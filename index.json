@@ -4083,6 +4083,20 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-indulgent-jamaican-galangal-paste-bowl",
+    "title": "wholesome indulgent Jamaican galangal paste bowl",
+    "tags": [
+      "coconut",
+      "galangal",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-irish-potato-dumplings",
     "title": "Wholesome Irish Potato Dumplings",
     "tags": [
@@ -4279,6 +4293,21 @@
     ],
     "cuisine": "argentinian",
     "totalTimeMin": 10,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-light-canadian-granulated-sugar-pudding",
+    "title": "wholesome light canadian granulated sugar pudding",
+    "tags": [
+      "canadian-desserts",
+      "chocolate",
+      "comfort-food",
+      "easy-desserts",
+      "pudding",
+      "sick-day"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
