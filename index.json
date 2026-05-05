@@ -1359,6 +1359,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-indulgent-jamaican-tamarind-tagine",
+    "title": "Warm Indulgent Jamaican Tamarind Tagine",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "vegetarian-friendly",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-indulgent-middle-eastern-mixed-grain-umm-ali-baked-meal",
     "title": "Warm Indulgent Middle-Eastern Mixed Grain Umm-ali Baked Meal",
     "tags": [
@@ -1907,6 +1921,25 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-roasted-syrian-yogurt-bake",
+    "title": "Warm Roasted Syrian Yogurt Bake",
+    "tags": [
+      "breakfast",
+      "dairy-free",
+      "dinner",
+      "easy",
+      "healthy",
+      "lunch",
+      "one-pan",
+      "snack",
+      "syrian",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -4417,6 +4450,21 @@
     ],
     "cuisine": "canadian",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-malaysian-one-pot-dish-curry",
+    "title": "wholesome malaysian one-pot curry",
+    "tags": [
+      "comforting",
+      "high-protein",
+      "malaysian",
+      "one-pot",
+      "paleo",
+      "weeknight"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {

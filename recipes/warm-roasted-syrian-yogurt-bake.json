@@ -1,0 +1,120 @@
+{
+  "title": "Warm Roasted Syrian Yogurt Bake",
+  "description": "Funky, shaggy, solo-dinner Syrian dish featuring natural yogurt, wok-hei, dairy-free-friendly. Perfect for a cozy evening meal.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Natural Yogurt",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse the cauliflower and remove leaves and stem.",
+    "Cut the cauliflower into 1-inch florets.",
+    "Toss the cauliflower with olive oil, salt, black pepper, and paprika in a large bowl until the florets are evenly coated.",
+    "Transfer the cauliflower mixture to a baking dish and roast in the preheated oven for 25 minutes.",
+    "Remove the cauliflower from the oven and stir in the chopped fresh parsley and fresh mint.",
+    "In a separate bowl, mix together the natural yogurt and lemon juice.",
+    "Pour the yogurt mixture over the roasted cauliflower and stir to combine.",
+    "Sprinkle the chopped almonds over the top of the yogurt and cauliflower mixture.",
+    "Transfer the dish to the oven and bake for an additional 10 minutes, or until the top is lightly golden brown.",
+    "Remove the dish from the oven and let it cool for 5 minutes before serving.",
+    "Garnish with additional chopped parsley and mint if desired.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dairy-free",
+    "dinner",
+    "easy",
+    "healthy",
+    "lunch",
+    "one-pan",
+    "snack",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "warm-roasted-syrian-yogurt-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-roasted-syrian-yogurt-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:27Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shaggy",
+    "mood": "solo-dinner",
+    "technique": "wok-hei",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "yogurt",
+    "descriptor": "Warm Roasted",
+    "dishForm": "Bake"
+  }
+}

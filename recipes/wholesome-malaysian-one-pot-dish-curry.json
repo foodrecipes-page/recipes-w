@@ -1,0 +1,123 @@
+{
+  "title": "wholesome malaysian one-pot curry",
+  "description": "wholesome malaysian one-pot curry dish featuring strawberries, infuse-oil, and paleo-friendly ingredients. Best served as a comforting dinner",
+  "cuisine": "malaysian",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "infuse oil with lemongrass and galangal",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "strawberries",
+      "amount": "1 cup",
+      "notes": "hull and slice"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat, unsweetened"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat coconut oil in a large skillet over medium-high heat.",
+    "add lemongrass and galangal from infuse oil and cook for 1 minute.",
+    "add onion and cook until translucent, about 5 minutes.",
+    "add garlic and ginger and cook for another 2 minutes.",
+    "add chicken breast and cook until browned, about 5 minutes.",
+    "add strawberries and cook for 2 minutes.",
+    "pour in coconut milk and stir to combine.",
+    "add fish sauce, palm sugar, turmeric, and cumin. Stir well.",
+    "bring curry to a simmer and cook for 10 minutes, or until chicken is cooked through.",
+    "season with salt to taste.",
+    "serve hot, garnished with fresh herbs, if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "high-protein",
+    "malaysian",
+    "one-pot",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 26,
+    "fat": 34
+  },
+  "slug": "wholesome-malaysian-one-pot-dish-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-malaysian-one-pot-dish-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:47Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "infuse-oil",
+    "primaryIngredient": "strawberries",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "one-pot dish",
+    "descriptor": "wholesome",
+    "dishForm": "curry"
+  }
+}

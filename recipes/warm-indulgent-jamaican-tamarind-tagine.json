@@ -1,0 +1,114 @@
+{
+  "title": "Warm Indulgent Jamaican Tamarind Tagine",
+  "description": "This rich and sour Jamaican stew is perfect for a cold night in. Featuring the deep flavor of tamarind, the tang of shio-cure, and the richness of protein-friendly ingredients.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tamarind pulp",
+      "amount": "2 cups",
+      "notes": "pulp and seeds from 4-6 tamarind fruits"
+    },
+    {
+      "name": "shio-cure chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large clay or ceramic tagine over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the sliced red bell pepper and cook for another 2 minutes.",
+    "Add the minced garlic and sliced ginger and cook for 1 minute.",
+    "Add the tamarind pulp, shio-cure chicken breast, ground allspice, ground cinnamon, salt, and black pepper. ",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 20 minutes or until the chicken is cooked through and the flavors have melded together.",
+    "Serve hot, garnished with fresh cilantro if desired.",
+    "Adjust seasoning with salt and black pepper as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "warm-indulgent-jamaican-tamarind-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-indulgent-jamaican-tamarind-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:26Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "shio-cure",
+    "primaryIngredient": "tamarind pulp",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "tamarind",
+    "descriptor": "warm indulgent",
+    "dishForm": "Tagine"
+  }
+}
