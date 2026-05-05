@@ -1,0 +1,117 @@
+{
+  "title": "Warm Crunchy Turkish Meal Bowl",
+  "description": "A delicious, comforting Turkish-inspired meal bowl featuring crunchy chickpeas and a sweet glaze made with apple juice.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "jain",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "apple juice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "crispy chopped almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together the apple juice, granulated sugar, lemon juice, ground cumin, smoked paprika, salt, and black pepper.",
+    "Add the chickpeas to the bowl and toss to coat with the glaze.",
+    "Spread the chickpeas out in a single layer on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the chickpeas and toss to coat.",
+    "Bake for 25-30 minutes, or until the chickpeas are crispy and caramelized.",
+    "While the chickpeas are baking, chop the fresh parsley and crispy chopped almonds.",
+    "When the chickpeas are done, remove them from the oven and let them cool slightly.",
+    "Serve the chickpeas in a bowl topped with chopped parsley and crispy almonds, and a squeeze of lemon juice.",
+    "Garnish with additional chopped parsley and crispy almonds, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "jain",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "warm-crunchy-turkish-crunchy-meal-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crunchy-turkish-crunchy-meal-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:47Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "whisk",
+    "primaryIngredient": "apple juice",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "crunchy meal",
+    "descriptor": "warm crunchy",
+    "dishForm": "Bowl"
+  }
+}

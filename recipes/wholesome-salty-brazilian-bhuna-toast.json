@@ -1,0 +1,110 @@
+{
+  "title": "wholesome salty Brazilian bhuna Toast",
+  "description": "A low-fodmap, creamy, and savory Brazilian-inspired dish perfect for a solo dinner. This recipe uses stale bread for added texture.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-fodmap",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "stale bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "bhuna",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "cooked chorizo",
+      "amount": "1/2 cup",
+      "notes": "diced, low-sodium"
+    },
+    {
+      "name": "crushed garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (180°C).",
+    "Slice the bread into 1-inch cubes and place on a baking sheet.",
+    "Drizzle the melted butter over the bread and toss to coat.",
+    "Bake the bread in the preheated oven for 10 minutes or until lightly toasted.",
+    "While the bread is baking, cook the chorizo in a skillet over medium heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the minced garlic to the skillet and cook for an additional minute, until fragrant.",
+    "In a large bowl, combine the toasted bread, cooked chorizo mixture, and shredded cheddar cheese.",
+    "Stir in the chopped parsley and season with salt and black pepper to taste.",
+    "Drizzle the lemon juice over the top and toss to combine.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "gluten-free",
+    "low-fodmap",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "wholesome-salty-brazilian-bhuna-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-salty-brazilian-bhuna-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:43Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "bhuna",
+    "primaryIngredient": "stale bread",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "bhuna",
+    "descriptor": "wholesome salty",
+    "dishForm": "Toast"
+  }
+}

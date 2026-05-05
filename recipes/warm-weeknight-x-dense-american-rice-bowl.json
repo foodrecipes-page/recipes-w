@@ -1,0 +1,89 @@
+{
+  "title": "warm weeknight x-dense american rice bowl",
+  "description": "a dense, comforting, and convenient weeknight dish made with a grassy rice blend and a hint of tempering chocolate, served in a beautiful Korean brass bowl.",
+  "cuisine": "american",
+  "diet": [
+    "omnivore",
+    "gluten-free",
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grass rice blend",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat the coconut oil in a large saucepan over medium heat.",
+    "add the grass rice blend and stir for 2 minutes.",
+    "add the vegetable broth and stir to combine.",
+    "bring to a boil, then reduce the heat to low and cover with a tight-fitting lid.",
+    "simmer for 20 minutes or until the liquid has been absorbed and the rice is tender.",
+    "stir in the tempering chocolate and salt.",
+    "transfer the rice mixture to a Korean brass bowl.",
+    "top with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "warm-weeknight-x-dense-american-rice-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-weeknight-x-dense-american-rice-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:00Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "warm water",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "rice",
+    "descriptor": "warm weeknight x-dense",
+    "dishForm": "Bowl"
+  }
+}

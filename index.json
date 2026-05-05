@@ -711,6 +711,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-crunchy-turkish-crunchy-meal-bowl",
+    "title": "Warm Crunchy Turkish Meal Bowl",
+    "tags": [
+      "comfort-food",
+      "healthy",
+      "jain",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-dense-australian-fish-wrap",
     "title": "Warm Dense Australian Fish Wrap",
     "tags": [
@@ -2625,6 +2640,20 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-weeknight-x-dense-american-rice-bowl",
+    "title": "warm weeknight x-dense american rice bowl",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -4637,6 +4666,20 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-salty-brazilian-bhuna-toast",
+    "title": "wholesome salty Brazilian bhuna Toast",
+    "tags": [
+      "brunch",
+      "gluten-free",
+      "low-fodmap",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
