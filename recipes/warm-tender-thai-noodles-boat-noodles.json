@@ -1,0 +1,117 @@
+{
+  "title": "Warm Tender Thai Noodles Boat Noodles",
+  "description": "Sweet, tender, and cozy Thai dish featuring baking powder, nuka-pickle, and macrobiotic-friendly ingredients.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "macrobiotic-friendly"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can",
+      "notes": "full-fat, dairy-free"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Nuka-Pickle",
+      "amount": "1/4 cup",
+      "notes": "cucumbers, carrots, ginger, daikon, rice vinegar, salt, sugar"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "firm, drained, cubed"
+    },
+    {
+      "name": "Shiitake Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bok Choy",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "macrobiotic-friendly, gluten-free"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Add the coconut milk, baking powder, and nuka-pickle to the pot.",
+    "Stir to combine and cook for an additional 5 minutes.",
+    "Add the tofu, shiitake mushrooms, and bok choy to the pot.",
+    "Cook for 3-4 minutes or until the vegetables are tender.",
+    "Taste and adjust the seasoning with fish sauce and soy sauce if desired.",
+    "Divide the cooked noodles among four bowls.",
+    "Ladle the warm noodle broth over the noodles and garnish with fresh basil.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "boat-noodles",
+    "comfort-food",
+    "macrobiotic",
+    "one-pot",
+    "thai-cuisine",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "warm-tender-thai-noodles-boat-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-tender-thai-noodles-boat-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:46:59Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "baking powder",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "noodles",
+    "descriptor": "warm tender",
+    "dishForm": "boat noodles"
+  }
+}
