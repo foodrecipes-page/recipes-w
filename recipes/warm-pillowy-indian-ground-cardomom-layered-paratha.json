@@ -1,0 +1,117 @@
+{
+  "title": "Warm pillowy Indian ground cardomom Layered Paratha",
+  "description": "A kid-friendly, plant-based, and flavorful Indian dish featuring ground cardomom and a hint of mustard. Perfect for a quick breakfast or snack.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "plant-based"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "can use plant-based yogurt alternative"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cardomom",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine 1 cup of warm water and yeast in a large bowl. Let it sit for 5 minutes until frothy.",
+    "Add sugar, salt, and yeast mixture to the flour mixture. Mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Cover the dough with a damp cloth and let it rest for 1 hour in a warm place.",
+    "Divide the dough into 4 equal parts. Roll out each part into a thin circle.",
+    "Heat a non-stick skillet or griddle over medium heat. Cook each paratha for 1-2 minutes on each side until golden brown.",
+    "Brush the paratha with ghee or oil and sprinkle with ground cardomom, mustard seeds, and ferment-jang.",
+    "Repeat with the remaining dough portions.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy",
+    "indian",
+    "lunch",
+    "one-pan",
+    "plant-based",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "warm-pillowy-indian-ground-cardomom-layered-paratha",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-pillowy-indian-ground-cardomom-layered-paratha",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:31:20Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "ferment-jang",
+    "primaryIngredient": "ground cardomom",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "ground cardomom",
+    "descriptor": "Warm pillowy",
+    "dishForm": "Layered Paratha"
+  }
+}
