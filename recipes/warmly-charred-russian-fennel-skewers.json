@@ -1,0 +1,92 @@
+{
+  "title": "Warmly Charred Russian Fennel Skewers",
+  "description": "Indulgent Russian dish featuring charred fennel bulb, perfect for a Mediterranean-inspired snack, this recipe combines the crunch of snappy fennel with the indulgence of a warmly charred treat.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fennel bulbs",
+      "amount": "4 large",
+      "notes": "trimmed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Cut the fennel bulbs into 1-inch wedges.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic powder, salt, and black pepper.",
+    "Add the fennel wedges to the bowl and toss to coat with the marinade.",
+    "Thread the marinated fennel onto skewers, leaving a small space between each piece.",
+    "Grill the fennel skewers for 10-12 minutes, turning occasionally, until charred and tender.",
+    "Meanwhile, mix the sour cream and chopped fresh dill in a small bowl.",
+    "Serve the charred fennel skewers with a dollop of the sour cream mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "grilled-vegetables",
+    "mediterranean-inspired",
+    "russian-cuisine",
+    "snack-ideas",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "warmly-charred-russian-fennel-skewers",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-charred-russian-fennel-skewers",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-05T21:07:04Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "spherify",
+    "primaryIngredient": "fennel bulb",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "fennel",
+    "descriptor": "Warmly charred",
+    "dishForm": "Skewers"
+  }
+}
