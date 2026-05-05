@@ -1,0 +1,71 @@
+{
+  "title": "Wholesome Ukrainian Raspberries in Tava-Griddle",
+  "description": "A buttery, juicy, indulgent Ukrainian dish featuring raspberries, braise in a tava-griddle. Perfect for dessert.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Raspberries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Mix raspberries with sugar and flour in a bowl.",
+    "Stir in vanilla extract.",
+    "Heat tava-griddle to medium-high.",
+    "Pour mixture onto hot tava-griddle.",
+    "Cook for 5-7 minutes on each side or until bubbly and golden brown."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "indulgent",
+    "juicy",
+    "uhrish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "wholesome-ukrainian-raspberries-in-tava-griddle",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-ukrainian-raspberries-in-tava-griddle",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T07:34:23Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "braise",
+    "primaryIngredient": "raspberries",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Raspberries",
+    "descriptor": "Wholesome",
+    "dishForm": "Skillet"
+  }
+}
