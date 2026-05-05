@@ -1,0 +1,89 @@
+{
+  "title": "Wholesome Chinese Pine Nut Dan-Dan Mian",
+  "description": "A grassy, fluffy, indulgent Chinese dish featuring pine nuts, wok-hei, and suitable for flexitarian-friendly diets.",
+  "cuisine": "Chinese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": 200
+    },
+    {
+      "name": "Pine nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pickled vegetables (daikon, cucumber)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Stir-fried garlic sesame oil (optional)",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Rinse and soak rice noodles as needed.",
+    "Heat a wok or large frying pan over medium-high heat. Add desired amount of oil if using.",
+    "Add pine nuts, stir-fried until golden brown and aromatic.",
+    "Shred garlic cloves finely; add to the hot pan with pickled vegetables.",
+    "Combine soy sauce and oyster sauce in a small bowl. Drizzle this mixture over the ingredients.",
+    "Fold rice noodles into the mix gradually while tossing frequently to coat evenly.",
+    "Stir in optional stir-fried garlic sesame oil if desired.",
+    "Serve hot as a side dish or main meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dan-dan-mian",
+    "flexitarian-friendly",
+    "fluffyness",
+    "grassiness",
+    "wok-hei"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 12,
+    "carbs": 36,
+    "fat": 9
+  },
+  "slug": "wholesome-chinese-pine-nut-dan-dan-mian",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-chinese-pine-nut-dan-dan-mian",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T02:37:12Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "wok-hei",
+    "primaryIngredient": "pine nuts",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Pine Nuts",
+    "descriptor": "Wholesome",
+    "dishForm": "Dan-Dan-Mian"
+  }
+}
