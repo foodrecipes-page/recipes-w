@@ -1,0 +1,115 @@
+{
+  "title": "Warm Indulgent Middle-Eastern Mixed Grain Umm-ali Baked Meal",
+  "description": "Rich, snappy, and indulgent, this umm-ali is perfect for a cold morning with a warm and comforting atmosphere.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kamut wheat berries",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Bulgur wheat",
+      "amount": "1 cup",
+      "notes": "fine texture, do not use coarse bulgur for this recipe"
+    },
+    {
+      "name": "Barley",
+      "amount": "1 cup",
+      "notes": "pearl barley, not hulled barley"
+    },
+    {
+      "name": "Green lentils",
+      "amount": "1 cup",
+      "notes": "any type of green lentil"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "any type of olive oil"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "any type of onion, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "mild paprika"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "plain salt, without added iodine"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "any type of black pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the wheat berries, bulgur, barley, lentils, and salt. Mix well to combine.",
+    "In a large skillet, heat the olive oil over medium heat. Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the cumin and paprika to the skillet and cook for 1 minute, until fragrant.",
+    "Transfer the skillet mixture to the bowl with the grains and mix well to combine.",
+    "Transfer the grain mixture to a 9x13 inch baking dish and top with the pepper.",
+    "Drizzle the top with the remaining 1 tablespoon of olive oil.",
+    "Bake the umm-ali for 45 minutes, or until the top is golden brown and the grains are tender.",
+    "Remove the umm-ali from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "comforting",
+    "cumin",
+    "grains",
+    "lentils",
+    "middle-eastern",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "warm-indulgent-middle-eastern-mixed-grain-umm-ali-baked-meal",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-indulgent-middle-eastern-mixed-grain-umm-ali-baked-meal",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:08:37Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "salt-bake",
+    "primaryIngredient": "mixed grain",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Mixed Grain",
+    "descriptor": "Warm Indulgent",
+    "dishForm": "Umm-ali Baked Meal"
+  }
+}
