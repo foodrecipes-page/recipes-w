@@ -2988,6 +2988,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-wonton-style-ukrainian-egg-tagine",
+    "title": "Warm Wonton-Style Ukrainian Egg Tagine",
+    "tags": [
+      "brunch",
+      "high-protein",
+      "keto",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-yeasty-american-kimchi-burger",
     "title": "Warm Yeasty American Kimchi Burger",
     "tags": [
@@ -5541,6 +5555,19 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-velvety-hangover-cure-tunisian-dish-bake",
+    "title": "wholesome velvety hangover-cure tunisian dish bake",
+    "tags": [
+      "gluten-free",
+      "hangover-cure",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-velvety-pungent-wood-fire-roasted-beef-pilaf",
     "title": "Wholesome Velvety-Pungent Wood-Fire-Roasted-Beef Pilaf",
     "tags": [
@@ -5805,6 +5832,22 @@
     "shard": "w"
   },
   {
+    "slug": "wild-fermented-indian-mushrooms-dum",
+    "title": "Wild Fermented Indian Mushrooms Dum",
+    "tags": [
+      "adventurous-eating",
+      "fermented-foods",
+      "indian-cuisine",
+      "keto-friendly",
+      "one-pan-wonder",
+      "weeknight-dinner",
+      "wild-mushrooms"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "wild-indian-tahini-curry",
     "title": "Wild Indian Tahini Curry",
     "tags": [
@@ -5979,6 +6022,20 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
+    "slug": "wilted-bitter-german-cheese-bake",
+    "title": "Wilted Bitter German Cheese Bake",
+    "tags": [
+      "cheese",
+      "german",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {

@@ -1,0 +1,114 @@
+{
+  "title": "wholesome velvety hangover-cure tunisian dish bake",
+  "description": "healing mixture of eggplant, preserved lemon, and spices to cure the morning after. may require multiple servings for ultimate recovery.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large, katsuramuki-cut",
+      "notes": ""
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "8-10 whole",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese (optional)",
+      "amount": "1/4 cup, crumbled",
+      "notes": "omitted for vegetarian diet"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375f (190c).",
+    "in a large mixing bowl, combine eggplant, preserved lemon, olive oil, black peppercorns, salt, paprika, cumin, and cayenne pepper.",
+    "mix well until eggplant is evenly coated.",
+    "spread the mixture in a 9x13 inch baking dish.",
+    "bake for 30 minutes.",
+    "remove from the oven and mix in tomato paste and water.",
+    "return to the oven and bake for an additional 15 minutes.",
+    "remove from the oven and let cool for a few minutes.",
+    "serve warm, topped with feta cheese if desired.",
+    "repeat as necessary to accelerate recovery."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hangover-cure",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "wholesome-velvety-hangover-cure-tunisian-dish-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-velvety-hangover-cure-tunisian-dish-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:45:15Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "whole black peppercorns",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "dish",
+    "descriptor": "wholesome velvety hangover-cure",
+    "dishForm": "bake"
+  }
+}

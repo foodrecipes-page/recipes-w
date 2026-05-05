@@ -1,0 +1,129 @@
+{
+  "title": "Wild Fermented Indian Mushrooms Dum",
+  "description": "A fermented and crisp take on traditional Indian dum, featuring wild mushrooms and a keto-friendly twist. This dish is perfect for adventurous eaters who want to try something new and exciting.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Oyster mushrooms",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Morel mushrooms",
+      "amount": "4 oz",
+      "notes": "Wild and foraged"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Indian fermented greens",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Start by heating 2 tbsp of ghee in a pan over medium heat.",
+    "Add the cumin seeds and mustard seeds and let them sizzle for 1 minute.",
+    "Add the onion, garlic, and ginger and sauté until the onion is lightly browned.",
+    "Add the cumin, mustard, chili powder, and garam masala and stir for 1 minute.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the fermented greens and salt and stir to combine.",
+    "Transfer the mixture to a bowl and set aside to cool.",
+    "Add the fresh cilantro to the bowl and mix to combine.",
+    "To assemble the dum, place a spoonful of the mushroom mixture onto a small piece of dough and fold the dough to form a half-moon shape.",
+    "Place the dum onto a steamer basket and steam for 10 minutes.",
+    "Serve the dum hot with a dollop of raita or a side of cucumber salad."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous-eating",
+    "fermented-foods",
+    "indian-cuisine",
+    "keto-friendly",
+    "one-pan-wonder",
+    "weeknight-dinner",
+    "wild-mushrooms"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "wild-fermented-indian-mushrooms-dum",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wild-fermented-indian-mushrooms-dum",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:41Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "dum",
+    "primaryIngredient": "wild mushrooms",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "wild fermented",
+    "dishForm": "Dum"
+  }
+}
