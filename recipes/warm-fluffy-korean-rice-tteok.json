@@ -1,0 +1,99 @@
+{
+  "title": "Warm Fluffy Korean Rice Tteok",
+  "description": "Cultured, tender, and festive Korean dish featuring yeast, sauté, and shojin-friendly ingredients. Perfect for a cozy evening or a special occasion.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean rice flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Green onion",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine Korean rice flour and salt."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comforting",
+    "fluffy",
+    "korean",
+    "rice",
+    "traditional",
+    "tteok",
+    "warm",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "warm-fluffy-korean-rice-tteok",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-fluffy-korean-rice-tteok",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:13:11Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "saute",
+    "primaryIngredient": "yeast",
+    "diet": "shojin",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice",
+    "descriptor": "warm fluffy",
+    "dishForm": "Tteok"
+  }
+}
