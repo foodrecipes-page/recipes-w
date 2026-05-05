@@ -1,0 +1,77 @@
+{
+  "title": "Wholesome Smoky Pillowy Coconut Pancake",
+  "description": "This dehydrated macrobiotic-friendly recipe combines coconut milk with smoky flavors to create a fluffy and crowd-pleasing pancake dish.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup desiccated coconut",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons coconut oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tablespoon ground chile flakes",
+      "amount": "tsp"
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": null
+    },
+    {
+      "name": "3/4 cup warm water",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons agave nectar or honey",
+      "amount": "tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 150°C (300°F). Grease a baking dish with coconut oil.",
+    "Mix together desiccated coconut, ground chile flakes, and sea salt in a small bowl. Add warm water and agave nectar/honey, stirring until well combined.",
+    "Pour the mixture into the greased baking dish. Bake for 1 hour or until set and slightly puffy.",
+    "Allow to cool before dehydrating at 45°C (113°F) for up to 20 hours or until dry. Store in an airtight container.",
+    "Serve as a macrobiotic dessert, spread with vegan butter or coconut cream if desired."
+  ],
+  "prepTimeMin": 1,
+  "cookTimeMin": 60,
+  "totalTimeMin": 61,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "coconut-based",
+    "desiccated-coconut",
+    "dessert",
+    "macrobiotic",
+    "smoky",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "wholesome-smoky-pillowy-coconut-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-smoky-pillowy-coconut-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T20:39:18Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "dehydrate",
+    "primaryIngredient": "coconut milk",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Smoky",
+    "mainIngredient": "Coconut",
+    "descriptor": "Pillowy",
+    "dishForm": "Pancake"
+  }
+}
