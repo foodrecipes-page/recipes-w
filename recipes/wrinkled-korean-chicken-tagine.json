@@ -1,0 +1,71 @@
+{
+  "title": "Wrinkled Korean Chicken Tagine",
+  "description": "A jammy, glassy-jelly chicken tagine featuring hoisin sauce and sugar-free-friendly. This dish is a crowd-pleaser and suitable for dinner.",
+  "cuisine": "korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": 4
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "red pepper flakes (optional)",
+      "notes": "for heat"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees F.",
+    "Season chicken with salt and red pepper flakes if using.",
+    "Place chicken in a tagine pot and pour soy sauce over it. Cover the pot with a lid.",
+    "Bake for 25 minutes or until the chicken is cooked through and has a glassy, wrinkle-like texture.",
+    "Stir together cornstarch and hoisin sauce in a small bowl to form a slurry.",
+    "Pour the mixture into the pot, stirring quickly to coat the chicken evenly. Reduce heat to low and simmer for 5 minutes.",
+    "Serve hot with steamed vegetables or jasmine rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kimchi-ingredient",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 32,
+    "carbs": 18,
+    "fat": 17
+  },
+  "slug": "wrinkled-korean-chicken-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wrinkled-korean-chicken-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T12:06:33Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "reduce",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Chicken",
+    "descriptor": "Wrinkled",
+    "dishForm": "Tagine"
+  }
+}

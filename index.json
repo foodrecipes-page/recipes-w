@@ -5578,5 +5578,16 @@
     "cuisine": "Ethiopian",
     "totalTimeMin": 25,
     "shard": "w"
+  },
+  {
+    "slug": "wrinkled-korean-chicken-tagine",
+    "title": "Wrinkled Korean Chicken Tagine",
+    "tags": [
+      "kimchi-ingredient",
+      "sugar-free"
+    ],
+    "cuisine": "korean",
+    "totalTimeMin": 50,
+    "shard": "w"
   }
 ]
