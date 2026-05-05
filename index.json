@@ -375,6 +375,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-comforting-peruvian-pea-eggplant-chupe",
+    "title": "Warm, Comforting Peruvian Pea-Eggplant Chupe",
+    "tags": [
+      "comfort-food",
+      "lacto-vegetarian",
+      "one-pan",
+      "peruvian",
+      "weeknight"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-creamy-american-chicken-casserole",
     "title": "Warm Creamy American Chicken Casserole",
     "tags": [
@@ -1545,6 +1559,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-kenyan-dum-dumplings",
+    "title": "Warm Kenyan Dum Dumplings",
+    "tags": [
+      "comfort-food",
+      "kenyan-cuisine",
+      "midnight-snack",
+      "no-onion-no-garlic",
+      "savory"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 42,
+    "shard": "w"
+  },
+  {
     "slug": "warm-kenyan-olive-flatbread",
     "title": "Warm Kenyan Olive Flatbread",
     "tags": [
@@ -2267,6 +2295,22 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spanish-porcini-cocido-madrileno",
+    "title": "Warm Spanish Porcini Cocido-Madrileno",
+    "tags": [
+      "basque",
+      "easy-to-make",
+      "one-pot",
+      "soup",
+      "spanish",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 76,
     "shard": "w"
   },
   {
@@ -5923,6 +5967,20 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-crisp-tunisian-bread-bread",
+    "title": "winey crisp tunisian bread",
+    "tags": [
+      "easy-side-dish",
+      "gluten-free",
+      "tunisian",
+      "vegan",
+      "wholegrain"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {

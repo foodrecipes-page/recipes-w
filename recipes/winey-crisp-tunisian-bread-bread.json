@@ -1,0 +1,95 @@
+{
+  "title": "winey crisp tunisian bread",
+  "description": "indulgent wholegrain bread served in a bain-marie, perfect as a side dish or light meal. This recipe is shojin-friendly, making it suitable for vegans and those following a plant-based diet.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F.",
+    "Cut the whole wheat bread into 1-inch cubes and place in a baking dish.",
+    "In a small bowl, mix together olive oil, minced rosemary, garlic, lemon juice, and salt.",
+    "Pour the mixture over the bread and toss to coat.",
+    "Add water to the bread mixture and stir well.",
+    "Cover the dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the bread is crispy.",
+    "Serve the bread warm, straight from the oven.",
+    "Bain-marie: place the bread in a heat-proof bowl and set it over a pot of simmering water, allowing the bread to warm without cooking further.",
+    "Serve the warm bread in a bain-marie, garnished with fresh rosemary if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-side-dish",
+    "gluten-free",
+    "tunisian",
+    "vegan",
+    "wholegrain"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "winey-crisp-tunisian-bread-bread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-crisp-tunisian-bread-bread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:25Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "bain-marie",
+    "primaryIngredient": "wholegrain bread",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "bread",
+    "descriptor": "winey crisp",
+    "dishForm": "Bread"
+  }
+}

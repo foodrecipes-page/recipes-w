@@ -1,0 +1,66 @@
+{
+  "title": "Warm, Comforting Peruvian Pea-Eggplant Chupe",
+  "description": "A hearty, comforting Peruvian dish featuring tender pea-eggplant in a velvety, winey sauce, perfect for a chilly evening. This lacto-vegetarian-friendly recipe is easy to make and serves 4-6 people.",
+  "cuisine": "peruvian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peas and eggplant",
+      "amount": "1 1/2 pounds",
+      "notes": "fresh or frozen, thawed"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large saucepan over medium heat.",
+    "Add 1 diced onion and cook until softened, about 5 minutes.",
+    "Add 3 minced garlic cloves and cook for 1 minute, until fragrant.",
+    "Add 1 1/2 pounds peas and eggplant, diced, and cook until the vegetables start to soften, about 5 minutes.",
+    "Add 1 cup red wine and 1 cup chicken broth, and bring to a boil.",
+    "Reduce heat to low, cover the saucepan, and simmer for 15 minutes, stirring occasionally.",
+    "Stir in 1 teaspoon ground cumin, 1 teaspoon paprika, 1 teaspoon salt, and 1/2 teaspoon black pepper.",
+    "If using heavy cream, stir it in at this point.",
+    "Add 1-2 teaspoons cayenne pepper, depending on your desired level of heat.",
+    "Taste and adjust seasonings as needed.",
+    "If desired, stir in 1/4 cup chopped fresh cilantro and 1-2 tablespoons crushed candy.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-comforting-peruvian-pea-eggplant-chupe",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-comforting-peruvian-pea-eggplant-chupe",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:37Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "candy",
+    "primaryIngredient": "pea-eggplant",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "pea-eggplant",
+    "descriptor": "Warm, comforting",
+    "dishForm": "Chupe"
+  }
+}
