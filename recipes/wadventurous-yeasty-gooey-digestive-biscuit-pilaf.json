@@ -1,0 +1,68 @@
+{
+  "title": "WAdventurous Yeasty Gooey Digestive Biscuit Pilaf",
+  "description": "A satvik-friendly Tunisian dish featuring a unique blend of digestive biscuits, cooked in a nimono-simmer to achieve a gooey texture and rich flavor profile. This adventurous twist on traditional biscuits serves as the perfect accompaniment to any meal.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Digestive biscuits",
+      "amount": 1
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": 20
+    },
+    {
+      "name": "Water",
+      "amount": 50
+    },
+    {
+      "name": "Salt",
+      "amount": 4
+    }
+  ],
+  "instructions": [
+    "Preheat a wooden board to medium heat.",
+    "Place the digestive biscuits on the heated wooden board, ensuring they are evenly distributed.",
+    "Drizzle with vegetable oil and sprinkle salt over them, gently pressing each biscuit to coat properly.",
+    "Simmer in a nimono-simmering (low simmer) for about 20 minutes until thoroughly cooked.",
+    "Serve warm as a snack or accompaniment to your meals."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "digestive-biscuit-pilaf",
+    "nimono-simmer",
+    "satvik-friendly",
+    "wadventurous",
+    "wooden-board"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "wadventurous-yeasty-gooey-digestive-biscuit-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wadventurous-yeasty-gooey-digestive-biscuit-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T08:45:39Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Digestive biscuits",
+    "descriptor": "Gooey Adventurous",
+    "dishForm": "Pilaf"
+  }
+}
