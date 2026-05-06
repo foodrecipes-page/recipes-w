@@ -1,0 +1,128 @@
+{
+  "title": "Weeknight Malaysian Malai Grill",
+  "description": "A jammy, springy, weeknight malaysian dish featuring malai and grilling, lacto-vegetarian-friendly",
+  "cuisine": "malaysian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "Malai sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red chili",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the grill to 400\u001859F (200\u001859C).",
+    "Prepare the tofu by cutting it into bite-sized pieces and set aside.",
+    "In a shallow dish, mix together the malai sauce, sesame oil, garlic, ginger, and red chili for the marinade.",
+    "Add the tofu to the marinade and toss to coat. Let it sit for 15 minutes.",
+    "Thread the bamboo shoots and bean sprouts onto skewers, leaving a small space between each piece.",
+    "Brush the grill with a little bit of sesame oil to prevent sticking.",
+    "Grill the tofu for 3-4 minutes per side, or until it's golden brown and slightly charred.",
+    "Grill the bamboo shoots and bean sprouts for 2-3 minutes per side, or until they're slightly charred.",
+    "Remove the tofu and vegetables from the grill and place them on a serving platter.",
+    "Sprinkle the chopped cilantro on top of the dish and serve immediately.",
+    "Season with salt, black pepper, and a squeeze of lime juice.",
+    "Spoon the malai sauce over the top of the dish and sprinkle with a little bit of sugar.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "grilled",
+    "lacto-vegetarian",
+    "malaysian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "weeknight-malaysian-malai-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/weeknight-malaysian-malai-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:55:13Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "grill",
+    "primaryIngredient": "malai",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Malai",
+    "descriptor": "Weeknight",
+    "dishForm": "Grill"
+  }
+}

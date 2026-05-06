@@ -3707,6 +3707,21 @@
     "shard": "w"
   },
   {
+    "slug": "weeknight-malaysian-malai-grill",
+    "title": "Weeknight Malaysian Malai Grill",
+    "tags": [
+      "easy-to-make",
+      "grilled",
+      "lacto-vegetarian",
+      "malaysian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "weeknight-tender-german-pork-bake",
     "title": "weeknight tender german pork bake",
     "tags": [
