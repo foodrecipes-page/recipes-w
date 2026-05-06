@@ -1,0 +1,97 @@
+{
+  "title": "Wilted Middle Eastern Falafel Noodles",
+  "description": "A grassy, fluffy solo-dinner dish featuring flat rice noodles and whole30-friendly falafels.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup short grain rice",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp cumin powder",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp coriander powder",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp ground black pepper",
+      "amount": ""
+    },
+    {
+      "name": "2 large eggs, beaten",
+      "amount": "egg"
+    },
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "cup"
+    },
+    {
+      "name": "3 cups water",
+      "amount": "cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add garlic and sauté until fragrant, about 2 minutes.",
+    "Stir in spices and cook for an additional minute.",
+    "Pour beaten eggs into the pan and stir quickly to create scrambled egg texture.",
+    "Gradually add water while continuing to stir until mixture thickens and forms a dough.",
+    "Transfer dough to a bowl and let rest at room temperature for 1 hour.",
+    "Divide dough into 8 equal pieces, roll each piece between hands into a ball shape, then flatten with the palm of your hand.",
+    "Heat oil in a frying pan over medium-high heat.",
+    "Fry falafels until golden brown on both sides, about 2-3 minutes per side.",
+    "Cook noodles according to package instructions.",
+    "Serve falafel and noodles together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fluffy",
+    "grassy",
+    "middle-eastern",
+    "one-pan",
+    "solo-dinner",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 524,
+    "protein": 19,
+    "carbs": 86,
+    "fat": 20
+  },
+  "slug": "wilted-middle-eastern-falafel-noodles",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-middle-eastern-falafel-noodles",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T19:07:24Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "falafel",
+    "descriptor": "Wilted",
+    "dishForm": "Noodles"
+  }
+}
