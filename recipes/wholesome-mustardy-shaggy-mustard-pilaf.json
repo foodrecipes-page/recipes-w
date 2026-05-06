@@ -1,0 +1,85 @@
+{
+  "title": "Wholesome Mustardy Shaggy Mustard Pilaf",
+  "description": "This light German dish features a blend of mustard, fennel seeds and cured meats for a flavorful yet low glycemic-friendly meal.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mustard Seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fennel Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cured Ham",
+      "amount": "100g"
+    },
+    {
+      "name": "White Rice",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "White Pepper",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Heat a large saucepan over medium heat.",
+    "Add mustard seeds and fennel seeds to the pan. Stir for 2 minutes or until aromatic.",
+    "Chop onion and garlic finely, add them to the pan with sliced ham. Sauté until soft, about 5 minutes.",
+    "Pour in broth, bring to a simmer. Add rice and stir well to coat with the mixture.",
+    "Reduce heat to low, cover and cook for 18 minutes or until liquid is absorbed.",
+    "Stir in white pepper before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "fennel-seeds",
+    "low-glycemic",
+    "mustard-dish",
+    "mustardy-german",
+    "shaggy-pilaf"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 41,
+    "fat": 7
+  },
+  "slug": "wholesome-mustardy-shaggy-mustard-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-mustardy-shaggy-mustard-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T10:29:03Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "cure",
+    "primaryIngredient": "fennel seeds",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Wholesome",
+    "mainIngredient": "Mustard Seeds",
+    "descriptor": "Shaggy",
+    "dishForm": "Pilaf"
+  }
+}
