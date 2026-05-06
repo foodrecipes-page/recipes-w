@@ -1,0 +1,107 @@
+{
+  "title": "Warm Dense Indian Lentil Curry",
+  "description": "A rich and flavorful low-fat Indian curry featuring lentils, tomato juice, and a blend of warming spices, perfect for a solo dinner",
+  "cuisine": "Indian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "tomato juice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat",
+    "Add the chopped onion and cook until softened, about 5 minutes",
+    "Add the grated ginger and minced garlic and cook for an additional 1 minute",
+    "Stir in the curry powder, turmeric, cumin, salt, and black pepper and cook for 1 minute",
+    "Add the red lentils, tomato juice, and 1 cup of water to the saucepan",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes",
+    "Use an immersion blender to puree the curry to the desired consistency",
+    "Taste and adjust the seasoning as needed",
+    "Serve the curry hot, garnished with chopped fresh cilantro if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "lentil-recipes",
+    "low-fat-dinners",
+    "one-pot-meals",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "warm-dense-indian-lentil-curry",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dense-indian-lentil-curry",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-06T21:08:42Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "tomato juice",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "Warm dense",
+    "dishForm": "Curry"
+  }
+}
