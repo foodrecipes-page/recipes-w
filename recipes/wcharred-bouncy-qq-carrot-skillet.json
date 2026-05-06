@@ -1,0 +1,63 @@
+{
+  "title": "Wcharred Bouncy-Qq Carrot Skillet",
+  "description": "A vibrant and crowd-pleasing norwegian dish featuring charred bouncy-qq carrots cooked in a paleo-friendly tava-griddle with render-fat for a unique flavor experience.",
+  "cuisine": "norwegian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": 4
+    },
+    {
+      "name": "rendered fat",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your tava-griddle to medium-high heat.",
+    "Slice the carrots into thin rounds and season with salt.",
+    "Drizzle the rendered fat over the carrot slices and toss gently until coated evenly.",
+    "Place the carrot slices on the heated tava-griddle in a single layer.",
+    "Cook for 3-4 minutes per side or until charred and tender but not mushy.",
+    "Squeeze some fresh lime juice over the cooked carrots to enhance their flavor.",
+    "Serve hot as an accompaniment to grilled meats, fish, or simply as a standalone dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy-qq",
+    "charred-carrots",
+    "norwegian-dish",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "wcharred-bouncy-qq-carrot-skillet",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wcharred-bouncy-qq-carrot-skillet",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T10:03:18Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "render-fat",
+    "primaryIngredient": "carrots",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Wholesome",
+    "mainIngredient": "Carrots",
+    "descriptor": "Charred Bouncy-Qq",
+    "dishForm": "Skillet"
+  }
+}
