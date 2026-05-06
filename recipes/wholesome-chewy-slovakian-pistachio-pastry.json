@@ -1,0 +1,72 @@
+{
+  "title": "wholesome chewy Slovakian pistachio pastry",
+  "description": "Indulge in the rich flavors of Slovakia with this briny, chewy, ovo-vegetarian-friendly pastry featuring unsalted pistachios and a fermented twist.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsalted pistachio paste",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "traditional Slovakian yeast"
+    }
+  ],
+  "instructions": [
+    "Combine unsalted pistachio paste, granulated sugar, and active dry yeast in a mixing bowl. ",
+    "Add large eggs, unsalted butter, and a pinch of flaky sea salt to the bowl and mix until a sticky dough forms. ",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic. ",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment in a warm place for 2 hours. ",
+    "Preheat the oven to 375 degrees Fahrenheit. ",
+    "Punch down the dough and roll it out into a rectangle. ",
+    "Cut the rectangle into 12 equal pieces and place them on a baking sheet lined with parchment paper. ",
+    "Bake the pastry for 20 minutes or until golden brown. ",
+    "Allow the pastry to cool completely before serving. ",
+    "Serve warm with a dollop of plain yogurt and a sprinkle of fresh parsley and dill."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 20,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-option",
+    "dairy-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "pastries",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "wholesome-chewy-slovakian-pistachio-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-chewy-slovakian-pistachio-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:56:17Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "ferment",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pistachio",
+    "descriptor": "wholesome chewy",
+    "dishForm": "pastry"
+  }
+}
