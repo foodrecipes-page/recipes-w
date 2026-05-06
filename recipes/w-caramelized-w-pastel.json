@@ -1,0 +1,74 @@
+{
+  "title": "W-Caramelized W-Pastel",
+  "description": "A quick-fix Portuguese dish featuring wonton skin, spices, and a dairy-free caramel sauce.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wonton Skin",
+      "amount": 20
+    },
+    {
+      "name": "Spices (Paprika, Smoked Paprika)",
+      "amount": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Caramel Sauce Base (Dairy-Free)",
+      "amount": 1
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "Mix wonton skin with spices and salt. Divide into two portions.",
+    "Fold each portion of wonton skin into thirds, creating triangles.",
+    "Place wonton triangles on a lined baking sheet.",
+    "Bake for 12 minutes or until golden brown.",
+    "Drizzle caramel sauce evenly over baked wontons.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "dairy-free-friendly",
+    "portuguese",
+    "quick-fix",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "w-caramelized-w-pastel",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/w-caramelized-w-pastel",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T00:15:55Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "caramelize",
+    "primaryIngredient": "wonton skin",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Wonton Skin",
+    "descriptor": "Caramelized",
+    "dishForm": "Quiche"
+  }
+}
