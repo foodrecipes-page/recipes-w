@@ -1,0 +1,86 @@
+{
+  "title": "Warm Spiced Kebab Turmeric Gratin",
+  "description": "A salty glassy-jelly light Chinese dish featuring ground clove, toast and halal-friendly.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ground cloves",
+      "amount": "1"
+    },
+    {
+      "name": "halal-friendly breadcrumbs",
+      "amount": "200g"
+    },
+    {
+      "name": "toasted bread crumbs",
+      "amount": "150g"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "2tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "150ml"
+    },
+    {
+      "name": "sugar",
+      "amount": "2tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C.",
+    "Mix ground cloves, turmeric powder, chili flakes, and salt in a bowl.",
+    "Add olive oil and sugar. Stir well until a thick paste is formed.",
+    "Combine halal-friendly breadcrumbs and toasted bread crumbs into the paste mixture.",
+    "Press mixture firmly onto the bottom of a glass dish.",
+    "Bake for 25 minutes or until golden brown on top.",
+    "Serve warm as a dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "glassy-jelly",
+    "halal-friendly",
+    "light",
+    "spiced",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "warm-spiced-kebab-turmeric-gratin",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spiced-kebab-turmeric-gratin",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T09:12:54Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "toast",
+    "primaryIngredient": "ground clove",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Kebab",
+    "mainIngredient": "Turmeric",
+    "descriptor": "Warm Spiced",
+    "dishForm": "Gratin"
+  }
+}
