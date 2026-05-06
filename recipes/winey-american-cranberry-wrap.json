@@ -1,0 +1,120 @@
+{
+  "title": "Winey American Cranberry Wrap",
+  "description": "A wine-glazed, pillowy, adventurous American dish featuring fresh cranberries and wrapped in a leaf for steaming, all while being Whole30 friendly.",
+  "cuisine": "American",
+  "diet": [
+    "Whole30",
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cranberry sauce",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought, low sugar content."
+    },
+    {
+      "name": "Turkey breast",
+      "amount": "4 oz",
+      "notes": "Cooked, diced."
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "2 cups",
+      "notes": "Fresh, any variety."
+    },
+    {
+      "name": "Bibb lettuce leaves",
+      "amount": "4-6 leaves",
+      "notes": "For wrapping."
+    },
+    {
+      "name": "Feta cheese crumbles",
+      "amount": "2 tbsp",
+      "notes": "Optional, Whole30 compliant alternative: cashew cheese."
+    },
+    {
+      "name": "Chopped pecans",
+      "amount": "2 tbsp",
+      "notes": "Optional."
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tsp",
+      "notes": "For wine glaze, adjust to taste."
+    },
+    {
+      "name": "White wine",
+      "amount": "2 tbsp",
+      "notes": "For wine glaze, adjust to taste."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": "For cooking and finishing."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "To taste."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "To taste."
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp",
+      "notes": "Optional, for garnish."
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine honey and white wine. Bring to a boil over medium heat, then reduce to a simmer and cook for 2 minutes, stirring occasionally.",
+    "Add cranberry sauce to the pan and stir to combine. Continue to cook for an additional 2-3 minutes, or until the glaze has thickened slightly and reduced by half.",
+    "In a large skillet, heat olive oil over medium heat. Add diced turkey breast and cook until heated through, breaking up with a spoon as needed.",
+    "Add chopped pecans (if using) to the skillet and cook for an additional 1-2 minutes, until fragrant.",
+    "To assemble the wraps, lay a Bibb lettuce leaf flat and spoon a portion of the turkey and pecan mixture onto the center of the leaf.",
+    "Drizzle with the wine glaze and top with mixed greens, feta cheese crumbles (if using), and a sprinkle of fresh thyme (if using).",
+    "Fold the leaf in half over the filling to enclose and serve immediately.",
+    "To steam the wraps, place a steamer basket over a pot of boiling water and add the wraps, seam-side down. Cover the pot with a lid and steam for 2-3 minutes, or until the leaves are slightly wilted and the filling is heated through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "paleo",
+    "quick-and-easy",
+    "snack",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "winey-american-cranberry-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-american-cranberry-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:59:49Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "cranberry",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Cranberry",
+    "descriptor": "Winey",
+    "dishForm": "Wrap"
+  }
+}
