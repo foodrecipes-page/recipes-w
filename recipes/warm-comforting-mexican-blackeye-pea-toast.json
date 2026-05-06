@@ -1,0 +1,59 @@
+{
+  "title": "Warm Comforting Mexican Blackeye Pea Toast",
+  "description": "A rich, comforting Mexican-inspired dish featuring roasted blackeye peas, warm bread, and a tangy slaw made with red cabbage and crema.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "blackeye peas",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roast the blackeye peas in the oven with cumin, paprika, and coriander for 20 minutes.",
+    "Meanwhile, toast the bread and spread with vegan butter.",
+    "Make a slaw with red cabbage, lime juice, and diced onion."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "mexican",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "warm-comforting-mexican-blackeye-pea-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-comforting-mexican-blackeye-pea-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:04:40Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "toast",
+    "primaryIngredient": "blackeye pea",
+    "diet": "vegan",
+    "region": "chiapan",
+    "cuisineAdjective": "mexican",
+    "mainIngredient": "blackeye pea",
+    "descriptor": "warm comforting",
+    "dishForm": "toast"
+  }
+}
