@@ -1,0 +1,84 @@
+{
+  "title": "Wholesome Chewy Mexican Chocolate Quesadilla",
+  "description": "A kid-friendly mexican dish featuring marinated milk chocolate, chewy texture and umami flavor. Suitable for kosher families.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Marinaded Milk Chocolate",
+      "amount": "2 ounces"
+    },
+    {
+      "name": "Canned Corn Salsa",
+      "amount": "1 can (6 oz)"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Shredded Cheese (Vegan)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped Fresh Chives (Optional)",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Place marinaded milk chocolate in a bowl and let it sit for at least 10 minutes to soften.",
+    "Combine corn salsa, sour cream, shredded cheese, salt, pepper, and softened milk chocolate in a mixing bowl.",
+    "Heat oil in a non-stick skillet over medium heat. Wet the surface of the quesadilla with a little bit of the chocolate mixture before adding tortillas.",
+    "Place 2-3 tablespoons of the chocolate mixture onto one side of each tortilla, fold and cook until golden brown on both sides (about 1 minute per side).",
+    "Serve hot with fresh chopped chives if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kashrut-friendly",
+    "kid-friendly",
+    "marinated-chocolate",
+    "mexican-dish",
+    "umami-packed"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 27,
+    "fat": 18
+  },
+  "slug": "wholesome-chewy-mexican-chocolate-quesadilla",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-chewy-mexican-chocolate-quesadilla",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T08:15:37Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "marinate",
+    "primaryIngredient": "milk chocolate",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Chocolate",
+    "descriptor": "Wholesome Chewy",
+    "dishForm": "Quesadilla"
+  }
+}
