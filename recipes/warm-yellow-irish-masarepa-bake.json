@@ -1,0 +1,100 @@
+{
+  "title": "Warm Yellow Irish Masarepa Bake",
+  "description": "A kid-friendly Irish dish featuring yellow masarepa, infused with herbal flavors and perfect for a spring morning. This keto-friendly recipe is a twist on traditional Irish recipes.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Yellow masarepa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Crushed bacon",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 180°F (82°C).",
+    "Place 1 cup of yellow masarepa in a large bowl.",
+    "Gradually add 1 cup of boiling water to the bowl, stirring until the masarepa is well combined.",
+    "Cover the bowl with a cloth and let it rest for 5 minutes.",
+    "Add 4 tablespoons of melted butter, 1/4 cup of fresh parsley, 1 teaspoon of dried thyme, 1/2 teaspoon of salt, and 1/4 teaspoon of pepper to the bowl.",
+    "Stir well to combine.",
+    "Transfer the mixture to a cazuela or a 6-inch ramekin.",
+    "Place the dish in the preheated sous-vide machine and cook for 1 hour.",
+    "Remove the dish from the machine and top with 1/2 cup of Greek yogurt and 2 tablespoons of crushed bacon (if using).",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "keto-friendly",
+    "kid-friendly",
+    "one-pan",
+    "spring"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "warm-yellow-irish-masarepa-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-yellow-irish-masarepa-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:49:28Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "masarepa",
+    "descriptor": "Warm Yellow",
+    "dishForm": "Bake"
+  }
+}
