@@ -1,0 +1,82 @@
+{
+  "title": "Wholesome Wholesome Thai Butternut Squash Ji Jeen",
+  "description": "A buttery, silky, midnight-craving thai dish featuring sherry vinegar. Air-fried for an anti-inflammatory-friendly option.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butternut Squash",
+      "amount": 1,
+      "notes": "Approximately 500g"
+    },
+    {
+      "name": "Sherry Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "50ml"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fish Sauce (optional)",
+      "amount": "1/2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat air fryer to 375°F (190°C).",
+    "Cut butternut squash into small cubes and blanch in salted water until tender.",
+    "Drain and allow to cool. Sauté garlic with sesame oil for a few minutes.",
+    "Add cooled butternut squash, sherry vinegar, and coconut milk to the pan. Stir well.",
+    "If using fish sauce, add now and stir again.",
+    "Bring mixture to a simmer over low heat and cook until thickened, about 10-15 mins.",
+    "Serve hot as a jiam jeen (stir-fried rice noodle dish)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "buttery",
+    "silky",
+    "thai-dish"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 9,
+    "carbs": 34,
+    "fat": 7
+  },
+  "slug": "wholesome-wholesome-thai-butternut-squash-ji-jeen",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-wholesome-thai-butternut-squash-ji-jeen",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T14:54:28Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "air-fry",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Butternut Squash",
+    "descriptor": "Wholesome",
+    "dishForm": "Ji Jeen Kui Woon"
+  }
+}
