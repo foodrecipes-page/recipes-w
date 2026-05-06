@@ -1,0 +1,70 @@
+{
+  "title": "Wilted Mexican Date Wrap",
+  "description": "A mediterranean-friendly, pressure-cooked dish featuring fermented date night flavors with makrut lime leaves.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup fermented dates",
+      "amount": "cup"
+    },
+    {
+      "name": "2 poblano peppers",
+      "amount": "pieces"
+    },
+    {
+      "name": "4 makrut lime leaves",
+      "amount": "leaves"
+    },
+    {
+      "name": "1/2 lemon juice",
+      "amount": ""
+    },
+    {
+      "name": "Salt",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat a donabe under medium heat.",
+    "Add fermented dates and poblano peppers. Cook until soft, about 5 minutes per piece.",
+    "Remove peppers from heat and finely chop them into the date mixture.",
+    "Stir in lemon juice and salt to taste.",
+    "Transfer mixture to serving dish and garnish with makrut lime leaves."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean-friendly",
+    "mexican-dish",
+    "pressure-cooked"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 4
+  },
+  "slug": "wilted-mexican-date-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-mexican-date-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T11:59:20Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "pressure-cook",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "mediterranean",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Dates",
+    "descriptor": "Wilted",
+    "dishForm": "Wrap"
+  }
+}
