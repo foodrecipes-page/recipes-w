@@ -1,0 +1,115 @@
+{
+  "title": "Warm Wholesome Japanese Pork Hot Pot",
+  "description": "A cozy Japanese dish featuring a peppery broth, crunchy vegetables, and tender pork. Perfect for a cold evening, dairy-free friendly and great for a hot pot party.",
+  "cuisine": "Japanese",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 pieces",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "broth",
+      "amount": "4 cups",
+      "notes": "chicken or beef broth"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large hot pot vessel over medium heat.",
+    "Add sliced ginger and cook for 2 minutes, stirring occasionally.",
+    "Add minced garlic and cook for 1 minute, stirring occasionally.",
+    "Add pork belly and cook until browned, about 5 minutes.",
+    "Add pineapple chunks, scallions, and sesame seeds. Cook for 2 minutes.",
+    "Pour in broth and bring to a simmer.",
+    "Reduce heat to low and cook for 10 minutes.",
+    "Serve hot, garnished with chopped green onions and a side of steamed rice or noodles.",
+    "Remove pork from the pot and slice into thin strips."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "hot-pot",
+    "japanese",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 55
+  },
+  "slug": "warm-wholesome-japanese-pork-hot-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wholesome-japanese-pork-hot-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:53:33Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "score-fat",
+    "primaryIngredient": "pineapple chunks",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Warm Wholesome",
+    "dishForm": "Hot Pot"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Wholesome French Rice Pilaf",
+  "description": "A yeasty, glassy-jelly French dish featuring seasoned rice vinegar and caramelized onions, perfect for a relaxing brunch. This dish is ovo-vegetarian-friendly and can be easily customized to suit your taste preferences.",
+  "cuisine": "French",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "White Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vermicelli Pasta",
+      "amount": "1/2 cup",
+      "notes": "Broken into smaller pieces for a crispy texture."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For saut\u00120ng the onions."
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Thinly sliced for caramelization."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced for added depth of flavor."
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Seasoned with salt and sugar for a balanced flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To bring out the flavors of the dish."
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": "To balance the acidity of the rice vinegar."
+    },
+    {
+      "name": "Grated Gruy\b0re",
+      "amount": "1/4 cup",
+      "notes": "Optional, for added richness."
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Beaten for a creamy texture."
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish."
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1 tablespoon",
+      "notes": "For added richness and flavor."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat. ",
+    "Add the sliced onions and cook, stirring occasionally, until they are caramelized and golden brown, about 20-25 minutes. ",
+    "Add the minced garlic and cook for an additional 1-2 minutes, stirring constantly. ",
+    "Add the broken vermicelli pasta and cook for 2 minutes, stirring frequently. ",
+    "Add the seasoned rice vinegar, salt, and sugar, and stir to combine. ",
+    "Bring the mixture to a simmer and cook, stirring frequently, until the liquid has been absorbed and the rice is tender, about 15-20 minutes. ",
+    "Stir in the grated Gruy\b0re, if using. ",
+    "Beat in the eggs and cook, stirring constantly, until the mixture is creamy and set. ",
+    "Stir in the chopped parsley. ",
+    "Serve the pilaf hot, topped with a pat of unsalted butter. ",
+    "Garnish with additional parsley, if desired. ",
+    "Serve immediately and enjoy! "
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "caramelized-onions",
+    "french",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "wholesome-french-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-french-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:53:42Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "caramelize",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Rice",
+    "descriptor": "wholesome",
+    "dishForm": "Pilaf"
+  }
+}
