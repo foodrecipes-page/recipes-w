@@ -1,0 +1,97 @@
+{
+  "title": "Wholesome Sweet Saffron Mechoui Bento Box",
+  "description": "A sweet and aerated Moroccan dish featuring russet potato and a soffritto base in an egg-free-friendly bento box format.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Russet Potatoes",
+      "amount": 2
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Cumin Seed",
+      "amount": 10
+    },
+    {
+      "name": "Coriander Seed",
+      "amount": 10
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "1/2 small pack"
+    },
+    {
+      "name": "Kalamata Olives",
+      "amount": "6-8 pieces"
+    },
+    {
+      "name": "Diced Pineapple",
+      "amount": "2 oz"
+    },
+    {
+      "name": "Hummus",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Rice Krispies Treats",
+      "amount": "10 - 12 pieces"
+    }
+  ],
+  "instructions": [
+    "Peel and dice the russet potatoes into bite-sized chunks.",
+    "Mince the onion finely, then lightly sauté with the garlic clove until translucent.",
+    "Toast cumin seeds in a dry pan for about 30 seconds, stirring frequently.",
+    "Add coriander seeds to the pan and toast until fragrant. Remove from heat and set aside.",
+    "Mix together the saffron threads, 1 tablespoon of water, and the minced onion mixture. Let steep for at least 15 minutes.",
+    "Stir in the toasted cumin seeds and coriander into the saffron mix.",
+    "Blend in the diced pineapple until smooth.",
+    "Fold in the hummus and kalamata olives. Adjust seasoning with salt and pepper to taste.",
+    "Portion the mixture evenly among rice Krispies Treats for a bento box presentation.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egg-free-friendly",
+    "mechoui-style",
+    "moroccan-recipe",
+    "sweet-dish",
+    "vegetarian-variant"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 12,
+    "carbs": 54,
+    "fat": 9
+  },
+  "slug": "wholesome-sweet-saffron-mechoui-bento-box",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-sweet-saffron-mechoui-bento-box",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T21:14:37Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "crowd-pleaser",
+    "technique": "soffritto-base",
+    "primaryIngredient": "russet potato",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Russet Potato",
+    "descriptor": "Sweet and Crispy",
+    "dishForm": "Wholesome Mechoui Bento Box"
+  }
+}
