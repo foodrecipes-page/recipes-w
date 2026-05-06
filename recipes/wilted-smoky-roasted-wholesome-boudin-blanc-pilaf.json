@@ -1,0 +1,89 @@
+{
+  "title": "Wilted Smoky Roasted Wholesome Boudin Blanc Pilaf",
+  "description": "A flavorful and nutritious one-pot meal that combines wholesome boudin blanc with fermented jang for a smoky flavor, served as a pilaf.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 oz (113g) boudin blanc",
+      "amount": "oz"
+    },
+    {
+      "name": "2 tbsp fermented jang",
+      "amount": "tbsp"
+    },
+    {
+      "name": "8 oz (226g) quinoa",
+      "amount": "oz"
+    },
+    {
+      "name": "1/4 cup (60ml) water",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 tsp salt",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": "tsp"
+    },
+    {
+      "name": "1 tbsp finely chopped fresh parsley",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp finely chopped fresh mint",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine boudin, jang, quinoa, water in a baking dish.",
+    "Mix in olive oil, salt, and pepper. Stir well.",
+    "Cover with foil and bake for 25 minutes.",
+    "Uncover and stir the mixture again, then continue to cook until liquid is absorbed (about 10-15 more minutes).",
+    "Stir in parsley and mint before serving hot.",
+    "Serve immediately or let sit for a few minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian-dish",
+    "one-pot",
+    "plant-based-friendly",
+    "smoky-flavor"
+  ],
+  "nutrition": {
+    "calories": 351,
+    "protein": 28,
+    "carbs": 26,
+    "fat": 7
+  },
+  "slug": "wilted-smoky-roasted-wholesome-boudin-blanc-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-smoky-roasted-wholesome-boudin-blanc-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T08:36:03Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "ferment-jang",
+    "primaryIngredient": "boudin-blanc",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Wholesome",
+    "mainIngredient": "Boudin Blanc",
+    "descriptor": "Wilted Smoky Roasted",
+    "dishForm": "Pilaf"
+  }
+}
