@@ -1,0 +1,90 @@
+{
+  "title": "Wholesome Crispy British Onion Cottage Pie",
+  "description": "A monsoon-friendly version of a classic British cottage pie featuring crispy onion toppings and halal-friendly ingredients.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": 500
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": 100
+    },
+    {
+      "name": "onions, finely chopped",
+      "amount": 8
+    },
+    {
+      "name": "salt and pepper",
+      "notes": "to taste"
+    },
+    {
+      "name": "ground turkey or lamb (for meat filling)",
+      "amount": 250
+    },
+    {
+      "name": "potatoes, diced",
+      "amount": 600
+    },
+    {
+      "name": "shio-koji-cure for onions",
+      "amount": 1
+    },
+    {
+      "name": "water",
+      "amount": 300
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200.",
+    "Heat shortening in a large pan, add onions and cook until translucent.",
+    "Season with salt and pepper, adding shio-koji-cure for desired depth of flavor.",
+    "Mix ground meat into onion mixture.",
+    "Meanwhile, heat potatoes in water, drain and mash.",
+    "Combine mashed potatoes with meat and add shortening.",
+    "Pour mixture into a baking dish.",
+    "Top with chopped onions from the previous step.",
+    "Bake at 200 for 45 minutes or until golden brown on top.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 120,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british-onion-cottage-pie",
+    "cottage-pie",
+    "crispy-topper",
+    "halal-friendly",
+    "monsoon-seasoning",
+    "one-pan-dish"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 45,
+    "carbs": 75,
+    "fat": 30
+  },
+  "slug": "wholesome-crispy-british-onion-cottage-pie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-crispy-british-onion-cottage-pie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T16:23:53Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Onion",
+    "descriptor": "Wholesome Crispy",
+    "dishForm": "Cottage Pie"
+  }
+}
