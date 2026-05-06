@@ -1,0 +1,89 @@
+{
+  "title": "Wholesome Light Italian Tangy Tripe Lazy-Susan-TripeLasagna",
+  "description": "A light and tangy Italian dish featuring tripe, made in a lazy-susan-style lasagna form, suitable for low-fat diets.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": 2
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": 1
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": 400
+    },
+    {
+      "name": "Spinach",
+      "amount": 300
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": 2
+    },
+    {
+      "name": "Olive Oil",
+      "amount": 100
+    },
+    {
+      "name": "Salt",
+      "amount": 5
+    },
+    {
+      "name": "Black Pepper",
+      "amount": 5
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Cut the tripe into small pieces and sauté in olive oil until browned.",
+    "Mix together tomato sauce, garlic powder, salt, and black pepper. Add to the sautéed tripe and simmer for 15 minutes.",
+    "Arrange a layer of spinach on the bottom of your lazy-susan spinner.",
+    "Spread half of the tripe mixture over the spinach layer.",
+    "Add another spinach layer, then top with an even layer of mozzarella cheese.",
+    "Place the remaining tripe mixture over the top layer of cheese.",
+    "Cover and bake for 30 minutes. Serve hot."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "light-italian",
+    "low-fat-friendly",
+    "tangy",
+    "wholesome"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "wholesome-light-italian-tangy-tripe-lazy-susan-tripe-lasagna",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-light-italian-tangy-tripe-lazy-susan-tripe-lasagna",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T02:17:09Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "temper",
+    "primaryIngredient": "tripe",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Tangy Tripe",
+    "descriptor": "Wholesome Light",
+    "dishForm": "Lazy-Susan-TripeLasagna"
+  }
+}
