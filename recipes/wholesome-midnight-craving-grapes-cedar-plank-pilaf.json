@@ -1,0 +1,85 @@
+{
+  "title": "Wholesome Midnight Craving Grapes Cedar-Plank Pilaf",
+  "description": "A winey, bouncy-qq midnight-craving Norwegian dish featuring grapes, blanched and seasoned with aromatic herbs for a delightful vegetarian-friendly snack.",
+  "cuisine": "norwegian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "grapes",
+      "amount": 10
+    },
+    {
+      "name": "cedar plank",
+      "amount": "as needed"
+    },
+    {
+      "name": "olive oil",
+      "amount": 2
+    },
+    {
+      "name": "basil leaves",
+      "amount": 3
+    },
+    {
+      "name": "thyme sprigs",
+      "amount": 10
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": 1
+    },
+    {
+      "name": "salt",
+      "amount": 1
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 2
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200C (400F).",
+    "Wash and dry the grapes.",
+    "Spread a thin layer of olive oil on one side of the cedar plank. Season with red pepper flakes, basil leaves, thyme sprigs, salt, and minced garlic cloves evenly over both sides.",
+    "Place the planks in the oven for 10 minutes, then remove and add more olive oil as needed to prevent sticking.",
+    "Transfer the grapes onto the prepared side of the cedar plank. Cook for an additional 5-7 minutes or until heated through and bouncy-qq.",
+    "Remove from oven and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cedar-plank",
+    "grape",
+    "midnight-craving",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 3
+  },
+  "slug": "wholesome-midnight-craving-grapes-cedar-plank-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-midnight-craving-grapes-cedar-plank-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T00:13:57Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "blanch",
+    "primaryIngredient": "grapes",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Winey",
+    "mainIngredient": "Grapes",
+    "descriptor": "Midnight Craving",
+    "dishForm": "Bread Pilaf"
+  }
+}
