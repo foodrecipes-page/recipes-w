@@ -1,0 +1,95 @@
+{
+  "title": "Winey French Potatoes Hash",
+  "description": "A crispy, flavorful French dish featuring chives and katsuramuki-cut potatoes, perfect for breakfast or dinner. Serve hot and enjoy!",
+  "cuisine": "French",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "3 large",
+      "notes": "peeled and cut into katsuramuki (thin wedges)"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted, softened"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chives",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/2 cup",
+      "notes": "dry, such as Sauvignon Blanc"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the butter and olive oil in a large skillet over medium-high heat. Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the potatoes to the skillet and cook for 5 minutes, until they begin to brown.",
+    "Add the white wine to the skillet and cook for 2 minutes, until the liquid is almost completely evaporated.",
+    "Stir in the chopped chives and season with salt and black pepper to taste.",
+    "Continue cooking for an additional 2-3 minutes, until the potatoes are crispy and golden brown.",
+    "Serve hot, garnished with additional chives if desired.",
+    "Adjust seasoning as needed before serving.",
+    "Be careful not to overcrowd the skillet, cook in batches if necessary.",
+    "Don't skip the wine, it adds a lot of flavor to the dish!",
+    "Chives are a must, they add a bright and oniony flavor to the dish.",
+    "If using leftover potatoes, reheat them before cooking, they might be a bit dry."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "low-carb-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "winey-french-potatoes-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-french-potatoes-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:51:22Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "chives",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "potatoes",
+    "descriptor": "winey",
+    "dishForm": "Hash"
+  }
+}
