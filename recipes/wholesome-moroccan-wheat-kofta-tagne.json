@@ -1,0 +1,102 @@
+{
+  "title": "Wholesome Moroccan Wheat Kofta-Tagne",
+  "description": "A fresh and light post-workout dish featuring black pudding in a wholesome wheat kofta-styled preparation with tandoor-inspired flavors.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 cups whole wheat flour",
+      "amount": "",
+      "notes": "cooled from previous batch if using"
+    },
+    {
+      "name": "1/4 cup cornstarch",
+      "amount": "",
+      "notes": "mixed with the flour to bind and texture"
+    },
+    {
+      "name": "1 large egg white",
+      "amount": "",
+      "notes": "for binding and volume retention"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "notes": "to fry keftas in a pan"
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 cup canned black olives, pitted and halved",
+      "amount": ""
+    },
+    {
+      "name": "300g lamb mince (or 400g textured vegetable protein for vegetarian option)",
+      "amount": "",
+      "notes": "ensure it's fresh or at least refrigerated"
+    },
+    {
+      "name": "1/2 teaspoon cumin",
+      "amount": "",
+      "notes": "for flavoring keftas"
+    },
+    {
+      "name": "1/4 teaspoon ground cinnamon",
+      "amount": "",
+      "notes": "optional, for additional depth of flavor"
+    },
+    {
+      "name": "pinch salt and black pepper",
+      "amount": "",
+      "notes": "to taste, for seasoning"
+    }
+  ],
+  "instructions": [
+    "Combine flour and cornstarch in a large bowl, then add the egg white, olive oil, onion, garlic, olives, lamb mince (or textured vegetable protein), cumin, cinnamon if using, salt, and pepper. Mix thoroughly until the dough comes together.",
+    "Divide the dough into 12-16 equal portions. Shape each portion into keftas (balls).",
+    "Heat a non-stick skillet over medium-high heat. Once hot, add enough oil to coat the bottom of the pan. Place keftas in the pan and fry until golden brown on all sides.",
+    "Preheat your tandoor or oven at 250°C. Wrap fried keftas in aluminum foil and place them directly inside the tandoor or into the preheated oven to finish cooking for about 15 minutes, checking occasionally.",
+    "Serve hot with a side of fresh mint chutney for added freshness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "post-workout",
+    "vegetarian-friendly",
+    "wholesome"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "wholesome-moroccan-wheat-kofta-tagne",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-moroccan-wheat-kofta-tagne",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T08:08:05Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "tandoor",
+    "primaryIngredient": "black pudding",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Black Pudding",
+    "descriptor": "Wholesome",
+    "dishForm": "Wheat Kofta-Tagine"
+  }
+}
