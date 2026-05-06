@@ -1,0 +1,121 @@
+{
+  "title": "Warming Malt\u00050y Croatian Praline-French Tagine",
+  "description": "Indulge in this unique praline-french twist on a traditional Croatian dish, featuring a soffritto base and crispy, malty flavors, served in a clay tajine vessel.",
+  "cuisine": "croatian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almond praline",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "beet juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "pitted dates",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a clay tajine over medium heat.",
+    "Add chopped onion and saut\u00013e until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional 2 minutes.",
+    "Add caraway seeds, all-purpose flour, and beet juice, stirring constantly to avoid lumps.",
+    "Add pitted dates, maple syrup, cocoa powder, and salt, stirring to combine.",
+    "Add 1 cup of water and bring to a simmer.",
+    "Reduce heat to low and cook for 10 minutes, or until the mixture has thickened slightly.",
+    "Stir in vegan butter until melted and smooth.",
+    "Serve warm, garnished with additional almond praline if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croation",
+    "one-pan",
+    "praline-french",
+    "tagine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 6,
+    "carbs": 64,
+    "fat": 26
+  },
+  "slug": "warming-malty-croatian-praline-french-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warming-malty-croatian-praline-french-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:46:03Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "soffritto-base",
+    "primaryIngredient": "praline-french",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "praline-french",
+    "descriptor": "warming malty",
+    "dishForm": "Tagine"
+  }
+}
