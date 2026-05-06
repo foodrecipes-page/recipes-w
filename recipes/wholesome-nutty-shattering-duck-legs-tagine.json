@@ -1,0 +1,90 @@
+{
+  "title": "Wholesome Nutty Shattering Duck Legs Tagine",
+  "description": "A hearty and aromatic Ukrainian dish featuring duck legs cooked in a clay tajine with wholesome nuttiness and vibrant flavors.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "2"
+    },
+    {
+      "name": "olive oil",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "aubergine (eggplant)",
+      "amount": "1 large"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "pistachios",
+      "amount": "2 tablespoons, chopped finely"
+    },
+    {
+      "name": "walnuts",
+      "amount": "2 tablespoons, chopped finely"
+    },
+    {
+      "name": "thyme sprigs",
+      "amount": "10"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200 degrees C (390 F).",
+    "Drizzle duck legs with olive oil and season lightly.",
+    "Sauté onions, garlic, and diced aubergine in the remaining olive oil until soft, about 15 minutes.",
+    "Add thyme sprigs, bay leaves, chopped nuts, and sliced pistachios to the pan. Cook for an additional minute.",
+    "Place duck legs on top of the vegetables. Pour water into the tajine to cover the duck legs completely.",
+    "Bring the liquid to a simmer. Cover tightly with a lid or aluminum foil.",
+    "Bake in preheated oven for 1 hour and 20 minutes, flipping the legs halfway through cooking time.",
+    "Serve hot garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 90,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "nutty",
+    "one-pot",
+    "shattering",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 875,
+    "protein": 40,
+    "carbs": 120,
+    "fat": 39
+  },
+  "slug": "wholesome-nutty-shattering-duck-legs-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-nutty-shattering-duck-legs-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T12:24:58Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "infuse-oil",
+    "primaryIngredient": "duck legs",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "duck legs",
+    "descriptor": "Nutty Shattering",
+    "dishForm": "Tagine"
+  }
+}
