@@ -1,0 +1,68 @@
+{
+  "title": "wholesome russian bananas hash",
+  "description": "a silky, lazy-sunday russian dish featuring bananas, a diabetic-friendly twist. perfect for a weekend brunch.",
+  "cuisine": "russian",
+  "diet": [
+    "diabetic",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "2-3",
+      "notes": null
+    },
+    {
+      "name": "infuse oil",
+      "amount": "2 tablespoons",
+      "notes": "infused with dill and garlic"
+    }
+  ],
+  "instructions": [
+    "mash the bananas in a molcajete with a fork until smooth.",
+    "heat the infused oil in the molcajete over low heat.",
+    "add 1/2 teaspoon of ground black pepper and stir to combine.",
+    "add 1/4 teaspoon of salt and stir to combine.",
+    "add 1 tablespoon of chopped fresh dill and stir to combine.",
+    "cook until the bananas are warm and fragrant, about 5 minutes.",
+    "scoop the bananas into a serving dish and garnish with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "diabetic-friendly",
+    "easy-to-make",
+    "lazy-sunday",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "wholesome-russian-bananas-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-russian-bananas-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:09:02Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "infuse-oil",
+    "primaryIngredient": "bananas",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "bananas",
+    "descriptor": "wholesome",
+    "dishForm": "hash"
+  }
+}
