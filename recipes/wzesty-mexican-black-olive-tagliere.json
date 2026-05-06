@@ -1,0 +1,83 @@
+{
+  "title": "Wzesty Mexican Black Olive Tagliere",
+  "description": "A tangy and juicy Mexican dish featuring pitted black olives, coconut-cream-crack, designed for a dash-friendly vessel.",
+  "cuisine": "Mexican (Yucatecan)",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Black Olives",
+      "amount": "200g"
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "150ml"
+    },
+    {
+      "name": "Jalapeno Peppers, diced",
+      "amount": ""
+    },
+    {
+      "name": "Red Onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Oregano Leaves",
+      "amount": "3-4 leaves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C (392F).",
+    "Pit the black olives and place them in a mixing bowl.",
+    "Add diced jalapeno peppers, finely chopped red onions, lime juice, saffron threads, oregano leaves, and salt to the olives.",
+    "Mix well until the olives are evenly coated with the marinade. Refrigerate for at least 30 minutes before serving.",
+    "Garnish with more fresh oregano leaves just before serving.",
+    "Serve as a tagliere (cubed or sliced) snack on its own or with a side of tortilla chips."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dash-friendly",
+    "juicy-yucatecan",
+    "tangy-mexican"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 8
+  },
+  "slug": "wzesty-mexican-black-olive-tagliere",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wzesty-mexican-black-olive-tagliere",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T12:17:43Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "pitted black olives",
+    "diet": "dash",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Black Olives",
+    "descriptor": "Tangy Juicy Cozy",
+    "dishForm": "Tagliere"
+  }
+}

@@ -7059,5 +7059,17 @@
     "cuisine": "korean",
     "totalTimeMin": 50,
     "shard": "w"
+  },
+  {
+    "slug": "wzesty-mexican-black-olive-tagliere",
+    "title": "Wzesty Mexican Black Olive Tagliere",
+    "tags": [
+      "dash-friendly",
+      "juicy-yucatecan",
+      "tangy-mexican"
+    ],
+    "cuisine": "Mexican (Yucatecan)",
+    "totalTimeMin": 30,
+    "shard": "w"
   }
 ]
