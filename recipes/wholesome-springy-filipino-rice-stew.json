@@ -1,0 +1,117 @@
+{
+  "title": "wholesome springy filipino rice stew",
+  "description": "briny, springy, show-off filipino dish featuring sake-cooking, double-rise-bread, low-sodium-friendly, vessel=cazuela. This hearty stew is a perfect representation of Filipino cuisine, blending various flavors and textures.",
+  "cuisine": "filipino",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "long grain rice",
+      "amount": "2 cups",
+      "notes": "use jasmine rice for aroma"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "sake",
+      "amount": "1/2 cup",
+      "notes": "use mirin for sweetness"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "use low-sodium fish sauce"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "4 slices",
+      "notes": "use crusty bread for texture"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "use sweet onion for flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "anchovy",
+      "amount": "2",
+      "notes": "use low-sodium anchovy for umami"
+    },
+    {
+      "name": "green chili pepper",
+      "amount": "1",
+      "notes": "use fresh green chili for heat"
+    },
+    {
+      "name": "sliced scallions",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat vegetable oil in a cazuela over medium heat.",
+    "saute onion and garlic until fragrant.",
+    "add chicken breast and cook until browned.",
+    "add sake, fish sauce, and black pepper. Bring to a boil.",
+    "add rice, anchovy, and green chili pepper. Stir to combine.",
+    "cover and simmer for 20 minutes.",
+    "add double-rise-bread and stir to combine.",
+    "cook for an additional 5 minutes.",
+    "season with salt to taste.",
+    "serve hot garnished with sliced scallions."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "low-sodium",
+    "one-pan",
+    "sake-cooking",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "wholesome-springy-filipino-rice-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-springy-filipino-rice-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:03:30Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "sake-cooking",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "filipino",
+    "mainIngredient": "rice",
+    "descriptor": "wholesome springy",
+    "dishForm": "stew"
+  }
+}
