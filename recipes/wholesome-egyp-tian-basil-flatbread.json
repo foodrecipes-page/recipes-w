@@ -1,0 +1,83 @@
+{
+  "title": "Wholesome Egyp-tian Basil Flatbread",
+  "description": "A sweet, fluffy Egyptian flatbread with a basil twist that's perfect for kids and the whole family.",
+  "cuisine": "egyptian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": 500
+    },
+    {
+      "name": "warm water",
+      "amount": "280"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "4"
+    },
+    {
+      "name": "sugar",
+      "amount": 10
+    },
+    {
+      "name": "salt",
+      "amount": 10
+    },
+    {
+      "name": "baking powder",
+      "amount": 5
+    },
+    {
+      "name": "olive oil",
+      "amount": "20"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine warm water, sugar, and yeast. Let sit for about 10 minutes.",
+    "Stir in all-purpose flour, salt, baking powder, olive oil, and basil leaves. Mix until dough forms.",
+    "Let dough rise in a warm place for the first time, then punch it down, let rest for another hour before kneading again.",
+    "Roll out dough into thin flatbreads and bake at 200 degrees Celsius until golden brown."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian-dish",
+    "fluffy",
+    "halal-friendly",
+    "kid-friendly",
+    "sweet-bread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "wholesome-egyp-tian-basil-flatbread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-egyp-tian-basil-flatbread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T01:46:19Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "basil",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Egyp-tian",
+    "mainIngredient": "basil",
+    "descriptor": "Wholesome",
+    "dishForm": "Flatbread"
+  }
+}
