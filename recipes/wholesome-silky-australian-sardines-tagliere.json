@@ -1,0 +1,78 @@
+{
+  "title": "Wholesome Silky Australian Sardines Tagliere",
+  "description": "A whole30-friendly grassy and silky dish featuring air-fried sardines for a date-night treat.",
+  "cuisine": "Australian",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup cooked quinoa",
+      "amount": "1"
+    },
+    {
+      "name": "2 ripe avocados",
+      "amount": "2"
+    },
+    {
+      "name": "1 can of drained and rinsed black beans",
+      "amount": "1"
+    },
+    {
+      "name": "4 whole Australian sardines",
+      "amount": "4"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": null
+    },
+    {
+      "name": "Juice of 2 limes",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "Coarsely chop the cooked quinoa and mix it with half a can of drained and rinsed black beans.",
+    "Core the avocados, remove the pit, and cut them into small cubes. Mix these with the quinoa-black bean mixture.",
+    "Place whole sardines on a baking sheet lined with parchment paper. Brush the lemon juice over them to help crisp them up slightly.",
+    "Drizzle both lime juices over the mixture of avocado and quinoa. Add salt to taste.",
+    "Sprinkle the remaining black beans evenly across the top of the fish, followed by the chopped cilantro for a touch of freshness.",
+    "Air fry the sardines for 20 minutes or until golden brown on all sides, shaking the pan halfway through cooking."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fried",
+    "date-night",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 289,
+    "protein": 16,
+    "carbs": 24,
+    "fat": 7
+  },
+  "slug": "wholesome-silky-australian-sardines-tagliere",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-silky-australian-sardines-tagliere",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T06:50:35Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "air-fry",
+    "primaryIngredient": "sardines",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Sardines",
+    "descriptor": "Wholesome Silky",
+    "dishForm": "Tagliere"
+  }
+}
