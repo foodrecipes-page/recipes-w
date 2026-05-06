@@ -1,0 +1,89 @@
+{
+  "title": "Wholesome Italian Orecchiette Oreo Torte",
+  "description": "A crowd-pleasing, high-protein-friendly, fatty, and shaggy Italian dish featuring oreo cream biscuits, deglazed, in the form of orecchiettes.",
+  "cuisine": "Italian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "250g whole wheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "150g high-protein chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "150ml almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "6 high-protein eggs",
+      "amount": "6"
+    },
+    {
+      "name": "300g ricotta cheese",
+      "amount": "4 cups"
+    },
+    {
+      "name": "120g unsalted butter",
+      "amount": "1 stick"
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1"
+    },
+    {
+      "name": "2 packages oreo biscuits",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Grease a baking sheet.",
+    "Mix flour and chocolate chips in a bowl. Add almond milk, stir until smooth.",
+    "Beat eggs slightly with salt. Gradually add to flour mixture, mixing well.",
+    "Fold in ricotta cheese. Melt butter, mix evenly into dough.",
+    "Press 12 oreo biscuits into each orecchiette mold. Spoon dough over biscuits.",
+    "Bake for 30 minutes until golden brown. Let cool on rack.",
+    "Serve with fresh berries and a dollop of whipped cream if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 100,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "high-protein",
+    "no-cooking-skills",
+    "orecchiettes",
+    "oreo-biscuits",
+    "simple-dessert"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 32,
+    "fat": 19
+  },
+  "slug": "wholesome-italian-orecchiette-oreo-torte",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-italian-orecchiette-oreo-torte",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T04:57:39Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze",
+    "primaryIngredient": "oreo cream biscuits",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "oreo cream biscuits",
+    "descriptor": "Wholesome",
+    "dishForm": "Orecchiette Oreo Torte"
+  }
+}
