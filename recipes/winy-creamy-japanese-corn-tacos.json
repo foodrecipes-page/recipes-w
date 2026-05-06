@@ -1,0 +1,115 @@
+{
+  "title": "winy creamy japanese corn tacos",
+  "description": "a refreshing and creamy post-workout dish inspired by kansai cuisine, featuring brine-dried vegetables and corn tortillas.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "brine-dried corn",
+      "amount": "1 cup",
+      "notes": "brine the corn for 30 minutes, then dry it in the oven at 150 degrees for 2 hours."
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted."
+    },
+    {
+      "name": "grated yamaimo",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dashi broth",
+      "amount": "1 cup",
+      "notes": "vegetarian-friendly dashi mix."
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "chilled."
+    },
+    {
+      "name": "white wine",
+      "amount": "2 tablespoons",
+      "notes": "dry."
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "for garnish",
+      "notes": ""
+    },
+    {
+      "name": "shichimi togarashi",
+      "amount": "for garnish",
+      "notes": "optional."
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon of unsalted butter in a pan over medium heat.",
+    "add the brine-dried corn and cook for 2 minutes, stirring occasionally.",
+    "add the grated yamaimo and cook for another 2 minutes, stirring constantly to prevent burning.",
+    "add the dashi broth and bring to a simmer.",
+    "reduce the heat to low and cook for 5 minutes, or until the broth has slightly thickened.",
+    "stir in the heavy cream and cook for another minute, or until heated through.",
+    "add the white wine and cook for 30 seconds, stirring constantly.",
+    "season with salt and black pepper to taste.",
+    "warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "assemble the tacos by spooning the corn mixture onto a warmed tortilla and garnishing with chopped green onions and shichimi togarashi, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 17,
+  "totalTimeMin": 47,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn-tortillas",
+    "japanese-cuisine",
+    "one-pan",
+    "post-workout",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "winy-creamy-japanese-corn-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winy-creamy-japanese-corn-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:58:01Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "brine-dry",
+    "primaryIngredient": "corn tortillas",
+    "diet": "vegetarian",
+    "region": "kansai",
+    "cuisineAdjective": "japanese",
+    "mainIngredient": "corn",
+    "descriptor": "winy creamy",
+    "dishForm": "tacos"
+  }
+}
