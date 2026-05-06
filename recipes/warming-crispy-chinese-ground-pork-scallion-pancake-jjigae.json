@@ -1,0 +1,88 @@
+{
+  "title": "Warming Crispy Chinese Ground Pork Scallion-Pancake Jjigae",
+  "description": "This comforting Sichuan dish features ground pork mixed with crispy scallions and a Buddhist-temple-friendly tadka.",
+  "cuisine": "Sichuan (Chinese)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": 200,
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "12-15",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": null
+    },
+    {
+      "name": "sesame oil",
+      "amount": null
+    },
+    {
+      "name": "peanuts",
+      "amount": 30,
+      "notes": "crushed"
+    },
+    {
+      "name": "ginger",
+      "amount": 1,
+      "notes": "julienned"
+    },
+    {
+      "name": "garlic",
+      "amount": 2,
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Heat peanut oil in a wok over high heat.",
+    "Add minced ginger and garlic; sauté until fragrant.",
+    "Fold in ground pork, soy sauce, sesame oil, salt, and crushed peanuts. Stir-fry for about 5 minutes.",
+    "Stir in sliced scallions, ensuring they remain crispy but slightly softened.",
+    "Serve immediately while the mixture is still hot and crunchy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "ground-pork",
+    "scallion-pancake",
+    "sichuan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 18,
+    "fat": 16
+  },
+  "slug": "warming-crispy-chinese-ground-pork-scallion-pancake-jjigae",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/warming-crispy-chinese-ground-pork-scallion-pancake-jjigae",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T00:48:31Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "tadka",
+    "primaryIngredient": "ground pork",
+    "diet": "buddhist-temple",
+    "region": "sichuan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Ground Pork",
+    "descriptor": "Warming Crispy",
+    "dishForm": "Scallion-Pancake Jjigae"
+  }
+}
