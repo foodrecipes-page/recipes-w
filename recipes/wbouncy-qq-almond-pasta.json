@@ -1,0 +1,83 @@
+{
+  "title": "Wbouncy-qq Almond Pasta",
+  "description": "A rich and bouncy almond pasta dish for a brunch mood, perfect for those looking for a healthy yet indulgent meal. This egg-free-friendly recipe features delicious almonds in a light pasta-water-emulsion.",
+  "cuisine": "jamaican",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almond paste",
+      "amount": 200
+    },
+    {
+      "name": "pasta water emulsion",
+      "amount": 150,
+      "notes": "ensure it's heated to a rolling boil"
+    },
+    {
+      "name": "almonds",
+      "amount": 100,
+      "notes": "crushed finely for better texture"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": 20
+    },
+    {
+      "name": "salt",
+      "amount": 5
+    },
+    {
+      "name": "pepper",
+      "amount": 3
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 4,
+      "notes": "minced finely"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine pasta water emulsion and salt. Bring to a rolling boil.",
+    "Add almond paste to the boiling mixture and stir until dissolved.",
+    "Gradually fold in crushed almonds and minced garlic into the sauce.",
+    "Taste for seasoning and adjust with salt and pepper if necessary.",
+    "Drizzle in vegetable oil just before serving to create a glossy finish.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almond-rich",
+    "egg-free",
+    "high-protein",
+    "light-and-healthy"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "wbouncy-qq-almond-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wbouncy-qq-almond-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T16:51:06Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "almonds",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Wholesome",
+    "mainIngredient": "Almonds",
+    "descriptor": "Bouncy-qq",
+    "dishForm": "Pasta"
+  }
+}
