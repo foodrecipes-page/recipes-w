@@ -1,0 +1,99 @@
+{
+  "title": "Warm Velvety Japanese Blanched Noodles Ramen",
+  "description": "Spicy, velvety Japanese dish from Hokkaido featuring plum jam, blanch, and low-fat ingredients, perfect for post-workout meals",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Soba noodles",
+      "amount": "1 cup",
+      "notes": "Japanese thin buckwheat noodles"
+    },
+    {
+      "name": "Low-fat pork broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Plum jam",
+      "amount": "2 tbsp",
+      "notes": "Sweet and savory jam made from Japanese plums"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "Low-sodium soy sauce for added flavor"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": " Toasted sesame oil for added aroma"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Fresh ginger for added spice"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "1 tbsp",
+      "notes": "Japanese miso paste for added depth"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 cup",
+      "notes": "Chopped green onions for garnish"
+    }
+  ],
+  "instructions": [
+    "Combine low-fat pork broth, soy sauce, and sesame oil in a large saucepan.",
+    "Bring the mixture to a boil over high heat.",
+    "Reduce the heat to low and simmer for 5 minutes.",
+    "Blanch the soba noodles in boiling water for 2 minutes, then drain and set aside.",
+    "In a separate saucepan, heat the plum jam over low heat until warm and fragrant.",
+    "Add the miso paste to the plum jam and whisk until smooth.",
+    "Add the blanched soba noodles to the saucepan with the miso-plum mixture and toss until coated.",
+    "Return the pork broth mixture to the saucepan and stir until combined.",
+    "Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "japanese-cuisine",
+    "low-fat",
+    "one-pan",
+    "post-workout",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "slug": "warm-velvety-japanese-blanched-noodles-ramen",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-velvety-japanese-blanched-noodles-ramen",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:09:47Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "blanch",
+    "primaryIngredient": "plum jam",
+    "diet": "low-fat",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "blanched noodles",
+    "descriptor": "warm velvety",
+    "dishForm": "Ramen"
+  }
+}
