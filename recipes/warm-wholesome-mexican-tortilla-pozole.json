@@ -1,0 +1,111 @@
+{
+  "title": "Warm Wholesome Mexican Tortilla Pozole",
+  "description": "A hearty, comforting Mexican dish featuring soft, herb-infused tortillas, slow-cooked in a flavorful broth with a hint of smokiness.",
+  "cuisine": "Mexican",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Corn tortillas",
+      "amount": "8-10",
+      "notes": "preferably day-old tortillas"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for saut\u00143ing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ancho chili peppers",
+      "amount": "2",
+      "notes": "dried, stemmed, and seeded"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for thinning broth"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400\u0006F (200\u0006C).",
+    "Wrap the tortillas in foil and bake for 10-12 minutes, or until soft and pliable.",
+    "In a large pot, heat the olive oil over medium heat. Add the diced onion and cook, stirring occasionally, until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the ancho chili peppers and cook, stirring occasionally, for 2-3 minutes, or until fragrant.",
+    "Add the chicken broth and water, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let simmer, covered, for 20-25 minutes, or until the flavors have melded together and the tortillas are cooked through.",
+    "Season the broth with salt to taste.",
+    "To serve, place a few tortillas in a bowl, ladle the hot broth over them, and garnish with chopped cilantro.",
+    "Serve with pita bread on the side, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-fiber",
+    "low-sodium",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "warm-wholesome-mexican-tortilla-pozole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wholesome-mexican-tortilla-pozole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:15:15Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "salt-bake",
+    "primaryIngredient": "pita bread",
+    "diet": "diabetic-friendly",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "tortilla",
+    "descriptor": "warm wholesome",
+    "dishForm": "Pozole"
+  }
+}

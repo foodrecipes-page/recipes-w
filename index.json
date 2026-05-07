@@ -1892,6 +1892,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-midnight-craving-middle-eastern-cheese-pilaf",
+    "title": "Warm Midnight Craving Middle-Eastern Cheese Pilaf",
+    "tags": [
+      "cheese-pull",
+      "jammy",
+      "low-calorie-friendly",
+      "middle-eastern",
+      "midnight-craving",
+      "one-pan"
+    ],
+    "cuisine": "Middle-Eastern",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-molten-brazilian-white-fish-skillet",
     "title": "Warm Molten Brazilian White Fish Skillet",
     "tags": [
@@ -3162,6 +3177,20 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wholesome-mexican-tortilla-pozole",
+    "title": "Warm Wholesome Mexican Tortilla Pozole",
+    "tags": [
+      "comfort-food",
+      "high-fiber",
+      "low-sodium",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -7507,6 +7536,21 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 37,
+    "shard": "w"
+  },
+  {
+    "slug": "wood-fired-irish-beef-tomatoes-bake",
+    "title": "Wood-Fired Irish Beef Tomatoes Bake",
+    "tags": [
+      "comfort-food",
+      "easy-weeknight",
+      "high-protein",
+      "irish",
+      "one-pan",
+      "wood-fired"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {

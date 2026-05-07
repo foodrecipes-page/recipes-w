@@ -1,0 +1,87 @@
+{
+  "title": "Wood-Fired Irish Beef Tomatoes Bake",
+  "description": "A winey, gooey, lazy Sunday Irish dish featuring beef tomatoes, wood-fired bake, and Buddhist temple friendly.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Tomatoes",
+      "amount": "1 kg",
+      "notes": ""
+    },
+    {
+      "name": "Wood-Fired Bread Crumbs",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Grass-Fed Beef Mince",
+      "amount": "250g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Irish Cheddar Cheese",
+      "amount": "250g",
+      "notes": "shredded, good melting quality"
+    },
+    {
+      "name": "Fresh Thyme Leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped, fresh from garden"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3",
+      "notes": "minced, 3-4 cloves per head"
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat wood-fired oven to 400°C (750°F) for at least 30 minutes before cooking.",
+    "Chop beef tomatoes into 2.5cm cubes and set aside.",
+    "In a pan over medium heat, cook grass-fed beef mince until browned, breaking it up into small pieces as it cooks.",
+    "In a separate pan, melt 2 tablespoons of beef fat over low heat and mix in Worcestershire sauce, garlic, and thyme leaves, cooking for 5 minutes until fragrant."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-weeknight",
+    "high-protein",
+    "irish",
+    "one-pan",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 50,
+    "carbs": 100,
+    "fat": 70
+  },
+  "slug": "wood-fired-irish-beef-tomatoes-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wood-fired-irish-beef-tomatoes-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:14:43Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef tomatoes",
+    "descriptor": "wood-fired",
+    "dishForm": "Bake"
+  }
+}

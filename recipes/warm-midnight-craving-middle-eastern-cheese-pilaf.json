@@ -1,0 +1,108 @@
+{
+  "title": "Warm Midnight Craving Middle-Eastern Cheese Pilaf",
+  "description": "A delicious, cheesy, and savory Middle-Eastern dish that's perfect for late-night cravings. The long-fermentation dough adds a unique flavor and texture.",
+  "cuisine": "Middle-Eastern",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Middle-Eastern Long-Fermentation Dough",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Ricotta Cheese",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Celery Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the Middle-Eastern Long-Fermentation Dough to a thickness of 1/4 inch (6 mm).",
+    "Cut the dough into 1-inch (2.5 cm) squares.",
+    "Fry the dough squares in olive oil until golden brown, about 2-3 minutes per side.",
+    "Transfer the fried dough to a baking sheet lined with parchment paper.",
+    "Sprinkle the Ricotta Cheese and Feta Cheese over the fried dough.",
+    "Mix the chopped Cilantro, Celery Salt, Garlic, Lemon Juice, Salt, and Black Pepper in a small bowl.",
+    "Sprinkle the cilantro mixture over the cheese.",
+    "Bake the pilaf in the preheated oven for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "jammy",
+    "low-calorie-friendly",
+    "middle-eastern",
+    "midnight-craving",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "warm-midnight-craving-middle-eastern-cheese-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-midnight-craving-middle-eastern-cheese-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:14:39Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "celery salt",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Cheese",
+    "descriptor": "Warm Midnight Craving",
+    "dishForm": "Pilaf"
+  }
+}
