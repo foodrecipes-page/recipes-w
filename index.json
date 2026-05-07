@@ -1603,6 +1603,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-italian-cheddar-cheese-panettone",
+    "title": "Warm Italian Cheddar Cheese Panettone",
+    "tags": [
+      "bread",
+      "breakfast",
+      "brunch",
+      "cheese",
+      "italian",
+      "italian-desserts"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
     "slug": "warm-jamaican-coconut-pasta",
     "title": "Warm Jamaican Coconut Pasta",
     "tags": [
