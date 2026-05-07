@@ -1,0 +1,91 @@
+{
+  "title": "Warm Roasted Wholesome Carrot Wrap",
+  "description": "This quick-fix Japanese dish features earthy roasted carrots with a creamy dressing and a touch of rosemary. It's perfect for a diabetic-friendly breakfast or snack.",
+  "cuisine": "Japanese",
+  "diet": [
+    null,
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": 4
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Tamari sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh rosemary sprigs",
+      "amount": "6-8"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice carrots into rounds, about 1/4 inch thick.",
+    "In a bowl, mix flour and water to form a dough. Knead briefly until smooth.",
+    "Roll out dough on a floured surface. Cut into strips for wraps.",
+    "Fry carrot slices in coconut oil until golden brown, about 3-5 minutes per side.",
+    "Mix tamari, dijon mustard, and apple cider vinegar to make the dressing.",
+    "Toss fried carrots with dressing. Top each wrap with a few rosemary sprigs before serving warm.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "diabetic-friendly",
+    "double-fried",
+    "earthly",
+    "japanese",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 24,
+    "fat": 7
+  },
+  "slug": "warm-roasted-wholesome-carrot-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-roasted-wholesome-carrot-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T01:26:59Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "rosemary",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Wholesome",
+    "mainIngredient": "Carrot",
+    "descriptor": "Warm Roasted",
+    "dishForm": "Wrap"
+  }
+}
