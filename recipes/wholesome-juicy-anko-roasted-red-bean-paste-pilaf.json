@@ -1,0 +1,80 @@
+{
+  "title": "Wholesome Juicy Anko-Roasted Red Bean Paste Pilaf",
+  "description": "A savory and juicy Ukrainian dish with anko-red-bean-paste for a mediterranean-friendly brunch mood. Emulsify ingredients in a comal for a hearty, filling meal.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Anko-red-bean-paste",
+      "amount": 100
+    },
+    {
+      "name": "Water",
+      "amount": 500,
+      "notes": "To make the paste smoother"
+    },
+    {
+      "name": "Olive oil",
+      "amount": 25
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Red pepper flakes (optional)",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a comal over medium heat.",
+    "Add garlic and red pepper flakes, if using, and sauté for about 2 minutes until fragrant.",
+    "Stir in anko-red-bean-paste with water and bring to a boil.",
+    "Reduce heat to low and simmer for about 10 minutes or until the mixture thickens slightly.",
+    "Add chopped scallions and continue cooking for another minute, stirring occasionally.",
+    "Adjust seasoning with salt as needed.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "emulsify",
+    "juicy",
+    "mediterranean-friendly",
+    "one-pan",
+    "savoury",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "wholesome-juicy-anko-roasted-red-bean-paste-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-juicy-anko-roasted-red-bean-paste-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T05:17:18Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "emulsify",
+    "primaryIngredient": "anko-red-bean-paste",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "anko-red-bean-paste",
+    "descriptor": "Wholesome Juicy",
+    "dishForm": "Pilaf"
+  }
+}
