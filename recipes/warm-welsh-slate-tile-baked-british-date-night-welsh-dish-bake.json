@@ -1,0 +1,123 @@
+{
+  "title": "Warm Welsh Slate-Tile Baked British Date Night Welsh Dish Bake",
+  "description": "A sour, crisp, date-night British dish featuring a tangy tomato sauce and a creamy mantecare emulsion. This recipe is egg-free friendly and is best served on a warm Welsh slate tile.",
+  "cuisine": "Welsh",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh tomatoes",
+      "amount": "800g",
+      "notes": ""
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Mantecare",
+      "amount": "250g",
+      "notes": "Ensure the mantecare is at room temperature before using."
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "25g",
+      "notes": "Leave the butter at room temperature."
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "10g",
+      "notes": "Chop the thyme finely."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "10g",
+      "notes": "Chop the parsley finely."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince the garlic."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "25ml",
+      "notes": "Use a good quality olive oil."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "20ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180\u001967C (350\u001940F).",
+    "Mix the chopped thyme, parsley, and garlic together in a small bowl.",
+    "In a separate bowl, whisk together the mantecare, sugar, salt, and black pepper until smooth.",
+    "Heat the olive oil in a medium saucepan over medium heat. Add the red wine vinegar and cook for 2 minutes, stirring occasionally.",
+    "Add the chopped tomatoes to the saucepan and cook for 5 minutes, stirring occasionally.",
+    "Add the lemon juice to the saucepan and stir to combine.",
+    "Add the mantecare mixture to the saucepan and stir to combine.",
+    "Pour the mixture into a 20x20cm slate tile baking dish.",
+    "Dot the top of the mixture with the unsalted butter.",
+    "Sprinkle the minced thyme and parsley over the top of the mixture.",
+    "Bake the dish in the preheated oven for 25 minutes, or until the top is golden brown and the sauce is bubbly.",
+    "Remove the dish from the oven and let it cool for 5 minutes before serving.",
+    "Serve the Warm Welsh Slate-Tile Baked British Date Night Welsh Dish Bake warm, garnished with additional thyme and parsley if desired.",
+    "Refrigerate any leftovers in an airtight container for up to 3 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "british",
+    "crisp",
+    "date-night",
+    "easter",
+    "one-pan",
+    "sour",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "warm-welsh-slate-tile-baked-british-date-night-welsh-dish-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-welsh-slate-tile-baked-british-date-night-welsh-dish-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:07:58Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "tomato sauce",
+    "diet": "egg-free",
+    "region": "welsh",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Date Night Welsh Dish",
+    "descriptor": "Warm Welsh Slate-Tile Baked",
+    "dishForm": "Bake"
+  }
+}
