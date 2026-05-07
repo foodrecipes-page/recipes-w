@@ -1404,6 +1404,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-gooey-vietnamese-corned-beef-pho",
+    "title": "warm gooey vietnamese corned beef pho",
+    "tags": [
+      "comfort-food",
+      "corned-beef",
+      "noodle-soup",
+      "one-pan",
+      "pho",
+      "vietnamese"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "warm-greek-feta-tiropita",
     "title": "Warm Greek Feta Tiropita",
     "tags": [
@@ -4637,6 +4652,19 @@
     "shard": "w"
   },
   {
+    "slug": "wholesome-crowd-pleaser-portuguese-lettuce-salad",
+    "title": "portuguese lettuce salad",
+    "tags": [
+      "easy",
+      "low-sodium",
+      "portuguese",
+      "salad"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
     "slug": "wholesome-crunchy-argentinian-chorizo-salad",
     "title": "Wholesome Crunchy Argentinian Chorizo Salad",
     "tags": [
@@ -5913,6 +5941,19 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-thai-chicken-liver-khao-soi",
+    "title": "Wholesome Thai Chicken Liver Khao Soi",
+    "tags": [
+      "high-protein",
+      "keto",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {

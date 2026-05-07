@@ -1,0 +1,67 @@
+{
+  "title": "portuguese lettuce salad",
+  "description": "a tangy and refreshing salad made with crisp lettuce, pungent cheese, and a sprinkle of crispy lamination-puff.",
+  "cuisine": "portuguese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "iceberg lettuce",
+      "amount": "4 heads",
+      "notes": ""
+    },
+    {
+      "name": "portuguese cheddar",
+      "amount": "8 oz",
+      "notes": "",
+      "unit": "oz"
+    }
+  ],
+  "instructions": [
+    "shred the iceberg lettuce into thin strips",
+    "crumble the portuguese cheddar cheese into small pieces",
+    "toss the shredded lettuce and crumbled cheese in a large bowl",
+    "sprinkle the crispy lamination-puff over the top of the salad",
+    "drizzle a vinaigrette dressing over the salad and toss to combine",
+    "season with salt and pepper to taste",
+    "serve immediately",
+    "garnish with additional crispy lamination-puff if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "low-sodium",
+    "portuguese",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 6
+  },
+  "slug": "wholesome-crowd-pleaser-portuguese-lettuce-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-crowd-pleaser-portuguese-lettuce-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:13:40Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "lamination-puff",
+    "primaryIngredient": "lettuce",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "lettuce",
+    "descriptor": "wholesome crowd-pleaser",
+    "dishForm": "Salad"
+  }
+}

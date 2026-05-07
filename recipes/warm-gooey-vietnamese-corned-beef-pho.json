@@ -1,0 +1,103 @@
+{
+  "title": "warm gooey vietnamese corned beef pho",
+  "description": "a twist on the classic vietnamese noodle soup featuring tender corned beef and a rich, jammy broth. serve with a side of fresh herbs for added flavor.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "kosher",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corned beef",
+      "amount": "500g"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2l"
+    },
+    {
+      "name": "star anise",
+      "amount": "2"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "100g"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "bring the beef broth to a boil in a large pot.",
+    "add the star anise, cinnamon stick, fish sauce, soy sauce, and brown sugar to the pot.",
+    "reduce the heat to a simmer and cook for 10 minutes.",
+    "add the corned beef to the pot and cook for an additional 5 minutes.",
+    "cook the noodles according to the package instructions and set aside.",
+    "to assemble the pho, place some noodles in a bowl, add sliced corned beef, and pour the hot broth over the top.",
+    "garnish with bean sprouts, lime wedges, and fresh herbs if desired.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "corned-beef",
+    "noodle-soup",
+    "one-pan",
+    "pho",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "warm-gooey-vietnamese-corned-beef-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-gooey-vietnamese-corned-beef-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:14:04Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "boil",
+    "primaryIngredient": "corned beef",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "corned beef",
+    "descriptor": "warm gooey",
+    "dishForm": "Pho"
+  }
+}

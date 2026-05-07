@@ -1,0 +1,115 @@
+{
+  "title": "Wholesome Thai Chicken Liver Khao Soi",
+  "description": "A rich, savory, and slightly spicy Thai-inspired Khao Soi variation featuring chicken liver, perfect for a weeknight dinner or special occasion.",
+  "cuisine": "Thai",
+  "diet": [
+    "Gluten-free",
+    "Low-carb",
+    "Keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken liver",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Infused oil",
+      "amount": "2 tablespoons",
+      "notes": "Use any flavorful oil, such as sesame or peanut oil."
+    },
+    {
+      "name": "Turmeric",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Khao Soi noodles",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Fermented bean paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine turmeric, ginger, garlic, and 2 tablespoons of infused oil. Blend until smooth. Heat 1 tablespoon of infused oil in a large skillet over medium-high heat. Add the blended mixture and cook, stirring constantly, for 1 minute.",
+    "Add the chicken liver to the skillet and cook, stirring occasionally, until browned and cooked through, about 5 minutes.",
+    "Add the coconut milk, fish sauce, palm sugar, and fermented bean paste to the skillet. Bring the mixture to a simmer and cook, stirring occasionally, until the sauce has thickened, about 5 minutes.",
+    "Add the cooked noodles to the skillet and toss everything together to coat the noodles in the sauce.",
+    "Season with salt and black pepper to taste. Garnish with cilantro and serve hot."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "keto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 42
+  },
+  "slug": "wholesome-thai-chicken-liver-khao-soi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-thai-chicken-liver-khao-soi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:13:06Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "infuse-oil",
+    "primaryIngredient": "chicken liver",
+    "diet": "sugar-free",
+    "region": "northern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken liver",
+    "descriptor": "wholesome",
+    "dishForm": "Khao Soi"
+  }
+}
