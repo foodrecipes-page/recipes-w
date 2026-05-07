@@ -1,0 +1,82 @@
+{
+  "title": "Warm Roasted Wilted Fish Tagine",
+  "description": "A quick-fix Croatian dish featuring roasted wilted fish with a sprinkle of sea salt and beurre-monte for snappy, pescatarian-friendly meals in a claypot.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets",
+      "amount": "250g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Beurre-monte butter",
+      "amount": "45g"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh herbs (optional)",
+      "notes": "parsley, thyme"
+    }
+  ],
+  "instructions": [
+    "Preheat your claypot in the oven at 200°C.",
+    "Wilted fish fillets with garlic and onion under the preheated pot for about 15 minutes until cooked through.",
+    "Sauté red bell pepper and tomato paste in beurre-monte butter until soft, then mix with cooked fish mixture.",
+    "Sprinkle sea salt over top and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "claypot-dinner",
+    "pescatarian",
+    "quick-fix",
+    "roasted-fish"
+  ],
+  "nutrition": {
+    "calories": 583,
+    "protein": 20,
+    "carbs": 16,
+    "fat": 27
+  },
+  "slug": "warm-roasted-wilted-fish-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-roasted-wilted-fish-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T07:04:47Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "beurre-monte",
+    "primaryIngredient": "sea salt",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Fish",
+    "descriptor": "Warm Roasted",
+    "dishForm": "Tagine"
+  }
+}
