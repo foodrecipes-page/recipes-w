@@ -1,0 +1,114 @@
+{
+  "title": "Winey Gooey Mexican Chicken Pozole",
+  "description": "A rich and comforting norteño-style Mexican stew featuring tender chicken, creamy rice, and a hint of wine. Perfect for a chilly evening, this dish is easy to make in large batches for a fun gathering around the lazy Susan spinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked, long-grain, gluten-free"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked, ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar, gluten-free"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat. Add the chicken and cook until browned on all sides, about 5 minutes.",
+    "Remove the chicken from the pot and set aside. Add the onion and garlic to the pot and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the cumin, paprika, salt, and pepper to the pot and cook for 1 minute.",
+    "Add the chicken broth and white wine to the pot and bring to a simmer.",
+    "Return the chicken to the pot and cook until the meat is tender and the liquid has reduced slightly, about 20-25 minutes.",
+    "While the chicken cooks, prepare the rice according to package instructions. Fluff the cooked rice with a fork and set aside.",
+    "Once the chicken is cooked, remove it from the pot and shred it into bite-sized pieces. ",
+    "Add the cooked rice to the pot and stir to combine. ",
+    "Stir in the shredded cheese until melted and well combined.",
+    "Serve the pozole hot, garnished with additional shredded cheese, diced onion, and a sprinkle of paprika, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-one-pot",
+    "mexican",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 42,
+    "fat": 24
+  },
+  "slug": "winey-gooey-mexican-chicken-pozole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-gooey-mexican-chicken-pozole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:26:23Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "soffritto-base",
+    "primaryIngredient": "rice",
+    "diet": "macrobiotic",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Winey Gooey",
+    "dishForm": "Pozole"
+  }
+}
