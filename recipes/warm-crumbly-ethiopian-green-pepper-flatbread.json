@@ -1,0 +1,100 @@
+{
+  "title": "Warm Crumbly Ethiopian Green Pepper Flatbread",
+  "description": "A savory and crumbly Ethiopian flatbread filled with green peppers, perfect for a snack or light meal. This dish is kid-friendly and features a Mediterranean twist.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "green peppers",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, salt, and sugar.",
+    "Gradually add warm water and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Punch down the dough and divide it into 4-6 equal pieces.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Place a rolled-out dough on the preheated skillet and sprinkle diced green peppers on half of the dough.",
+    "Fold the dough in half to enclose the filling and cook for 2-3 minutes or until the bottom is golden brown.",
+    "Flip the flatbread and cook for another 2 minutes or until the other side is also golden brown.",
+    "Shock the flatbread in an ice bath for 30 seconds to stop the cooking process.",
+    "Remove the flatbread from the ice bath and brush with olive oil."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "flatbread",
+    "kid-friendly",
+    "mediterranean",
+    "savory",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "warm-crumbly-ethiopian-green-pepper-flatbread",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crumbly-ethiopian-green-pepper-flatbread",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-07T21:09:51Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "green pepper",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "green pepper",
+    "descriptor": "Warm crumbly",
+    "dishForm": "Flatbread"
+  }
+}
