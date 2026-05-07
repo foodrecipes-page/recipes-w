@@ -1,0 +1,86 @@
+{
+  "title": "Wilted Wholesome Sausage Pilaf",
+  "description": "A lazy Sunday Uruguayan dish featuring sausages and rest-meat in a low-calorie-friendly wilted green pilaf.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sausages",
+      "amount": "100g"
+    },
+    {
+      "name": "rest-meat",
+      "amount": "50g"
+    },
+    {
+      "name": "greens",
+      "amount": "2 cups"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add sausages and rest-meat, cooking until golden brown.",
+    "Stir in greens and cook for about 3 minutes.",
+    "Add quinoa and cook for another minute.",
+    "Pour in balsamic vinegar and salt/pepper to taste. Cook for 1 more minute or until liquid is absorbed.",
+    "Serve hot as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "low-calorie-friendly",
+    "uruguayan",
+    "wilted-pilaf"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 36,
+    "fat": 10
+  },
+  "slug": "wilted-wholesome-sausage-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-wholesome-sausage-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T15:32:46Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "rest-meat",
+    "primaryIngredient": "sausages",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Wholesome",
+    "mainIngredient": "Sausages",
+    "descriptor": "Lazy-Sunday",
+    "dishForm": "Pilaf"
+  }
+}
