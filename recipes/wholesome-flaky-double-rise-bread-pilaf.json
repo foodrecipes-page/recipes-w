@@ -1,0 +1,73 @@
+{
+  "title": "Wholesome Flaky Double-rise-bread Pilaf",
+  "description": "A grassy, flaky Algerian dish featuring white chocolate chips and double-rise bread in one pot. A no-onion-no-garlic-friendly dessert option.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups double-risen bread",
+      "amount": "2",
+      "notes": "Make sure the bread has been fully risen and cooled"
+    },
+    {
+      "name": "1 cup white chocolate chips",
+      "amount": "1",
+      "notes": "Optional, for added texture and flavor"
+    },
+    {
+      "name": "1/4 cup grated lemon zest",
+      "amount": "1/4",
+      "notes": null
+    },
+    {
+      "name": "1/2 tsp cinnamon",
+      "amount": "1/2",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a baking dish, layer the cooled double-risen bread evenly.",
+    "Sprinkle white chocolate chips over the top if using.",
+    "Evenly distribute the grated lemon zest and cinnamon on top of the bread.",
+    "Bake for 20 minutes or until the top is golden brown.",
+    "Serve warm as a dessert option.",
+    "Enjoy your Wholesome Flaky Double-rise-bread Pilaf!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "dessert",
+    "flaky-bread",
+    "no-onion-no-garlic"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "wholesome-flaky-double-rise-bread-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-flaky-double-rise-bread-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T12:15:36Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Flaky",
+    "mainIngredient": "Double-rise-bread",
+    "descriptor": "Wholesome",
+    "dishForm": "Pilaf"
+  }
+}
