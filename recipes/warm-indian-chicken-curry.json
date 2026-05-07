@@ -1,0 +1,105 @@
+{
+  "title": "Warm Indian Chicken Curry",
+  "description": "A resinous and juicy Indian dish featuring hp-sauce and miso-marinate, perfect for a sick day, cooked in a copper pot",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "hp-sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a copper pot over medium heat",
+    "Add onion and cook until softened, about 5 minutes",
+    "Add garlic and cook for 1 minute",
+    "Add chicken and cook until browned, about 5-6 minutes",
+    "In a bowl, whisk together miso paste, hp-sauce, curry powder, garam masala, salt, and pepper",
+    "Pour the miso mixture over the chicken and stir to combine",
+    "Add coconut milk and stir to combine",
+    "Bring the mixture to a simmer and cook for 15-20 minutes or until the chicken is cooked through",
+    "Serve hot, garnished with chopped cilantro if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "comfort-food",
+    "gluten-free",
+    "indian-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "warm-indian-chicken-curry",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-indian-chicken-curry",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-07T21:08:10Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "miso-marinate",
+    "primaryIngredient": "hp-sauce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm spicy",
+    "dishForm": "Curry"
+  }
+}

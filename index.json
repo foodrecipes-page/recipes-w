@@ -1444,6 +1444,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-indian-chicken-curry",
+    "title": "Warm Indian Chicken Curry",
+    "tags": [
+      "chicken-recipes",
+      "comfort-food",
+      "gluten-free",
+      "indian-cuisine",
+      "one-pot"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-indian-lamb-pasta",
     "title": "Warm Indian Lamb Pasta",
     "tags": [
