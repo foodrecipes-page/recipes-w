@@ -1,0 +1,110 @@
+{
+  "title": "Warm Lazy Sunday Lamb Tagine",
+  "description": "An earthy and molten Tunisian dish featuring lamb loin chops in a tagine pot for a lazy Sunday meal.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb loin chops",
+      "amount": 4,
+      "notes": "boneless"
+    },
+    {
+      "name": "onion",
+      "amount": "2"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6"
+    },
+    {
+      "name": "carrot",
+      "amount": "2"
+    },
+    {
+      "name": "parsnip",
+      "amount": "2"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sweet paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coarse sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh thyme sprigs",
+      "amount": "6"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a tagine pot over medium heat.",
+    "Add lamb chops and sear on all sides until golden brown, about 4 minutes per side.",
+    "Remove lamb from pot and set aside.",
+    "Sauté onions, ginger, and garlic until translucent, about 5 minutes.",
+    "Add carrots and parsnips to the pot with some of their cooking liquid.",
+    "Return seared lamb to the pot along with sweet paprika, smoked paprika, brown sugar, salt, thyme, and pomegranate molasses.",
+    "Simmer gently for about 15 minutes, adding more water if needed to keep ingredients submerged.",
+    "Serve hot as a main course or side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "earthly-flavors",
+    "lazy-sunday",
+    "lentil-free",
+    "pomegranate-molasses",
+    "tagine-pot",
+    "tunisian-dish",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "warm-lazy-sunday-lamb-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-lazy-sunday-lamb-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T19:51:08Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Molten Earthy",
+    "mainIngredient": "Lamb",
+    "descriptor": "Lazy Sunday Warm",
+    "dishForm": "Tagine"
+  }
+}
