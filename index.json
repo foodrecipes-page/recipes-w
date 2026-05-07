@@ -3913,6 +3913,20 @@
     "shard": "w"
   },
   {
+    "slug": "weeknight-russian-pasta-bake",
+    "title": "Weeknight Russian Pasta Bake",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "pasta-bake",
+      "weeknight"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "weeknight-tender-german-pork-bake",
     "title": "weeknight tender german pork bake",
     "tags": [

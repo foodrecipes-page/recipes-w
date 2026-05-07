@@ -1,0 +1,96 @@
+{
+  "title": "Weeknight Russian Pasta Bake",
+  "description": "A hearty, salty pasta bake made with coconut milk and manteca, perfect for a weeknight dinner. ",
+  "cuisine": "russian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "melted manteca",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "14.5 oz",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pappardelle according to package instructions until al dente. ",
+    "In a large skillet, sauté chopped onion, minced garlic, and diced bell pepper until softened. ",
+    "Add canned diced tomatoes, salt, and pepper to the skillet and stir to combine.",
+    "In a large bowl, combine cooked pappardelle, tomato mixture, and melted manteca. ",
+    "Stir in coconut milk until well combined.",
+    "Transfer the pasta mixture to a 9x13 inch baking dish and top with chopped parsley.",
+    "Bake for 25 minutes, or until the top is golden brown and the pasta is heated through.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "pasta-bake",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 28,
+    "carbs": 64,
+    "fat": 24
+  },
+  "slug": "weeknight-russian-pasta-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/weeknight-russian-pasta-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:30:16Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "coconut milk",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Pasta",
+    "descriptor": "Weeknight",
+    "dishForm": "Bake"
+  }
+}
