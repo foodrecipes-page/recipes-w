@@ -1,0 +1,114 @@
+{
+  "title": "Warm Middle Eastern Cream Cheese Fattoush",
+  "description": "A sweet and flaky Middle Eastern dish featuring cream cheese and toasted pita bread, perfect for a cozy evening snack",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cream cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces",
+      "notes": "toasted and torn into bite-sized pieces"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "2 cups",
+      "notes": "such as lettuce, parsley, and mint"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for dressing"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Toss the pita bread pieces with a little bit of olive oil and toast in the oven for 5 minutes, or until crispy.",
+    "In a large bowl, combine the mixed greens, cherry tomatoes, cucumber, and red onion.",
+    "In a separate bowl, mix the softened cream cheese with a fork until smooth.",
+    "Add the lemon juice, salt, and pepper to the cream cheese and mix until well combined.",
+    "To assemble the fattoush, place the toasted pita bread pieces in the bottom of a serving dish or individual bowls.",
+    "Top the pita bread with the mixed greens mixture, followed by a dollop of the cream cheese mixture.",
+    "Sprinkle sumac over the top of the dish for garnish.",
+    "Drizzle the remaining olive oil over the top of the dish and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cream-cheese",
+    "fattoush",
+    "middle-eastern",
+    "pita-bread",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "warm-middle-eastern-cream-cheese-fattoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-middle-eastern-cream-cheese-fattoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:25:01Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "cream cheese",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "cream cheese",
+    "descriptor": "Warm flaky",
+    "dishForm": "Fattoush"
+  }
+}

@@ -2157,6 +2157,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-middle-eastern-cream-cheese-fattoush",
+    "title": "Warm Middle Eastern Cream Cheese Fattoush",
+    "tags": [
+      "cream-cheese",
+      "fattoush",
+      "middle-eastern",
+      "pita-bread",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 20,
+    "shard": "w"
+  },
+  {
     "slug": "warm-middle-eastern-spinach-tagine",
     "title": "Warm Middle-Eastern Spinach Tagine",
     "tags": [
