@@ -1,0 +1,103 @@
+{
+  "title": "Warm Roasted Tunisian Lamb Tagine",
+  "description": "A hearty and flavorful Tunisian dish featuring roasted lamb, plum jam, and aromatic spices, served in a stone bowl, perfect for a comforting meal. This ayurvedic-sattvic-friendly recipe is also a great hangover cure.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "plum jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb pieces with salt, black pepper, cayenne pepper, ground cumin, and ground coriander.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat, then sear the lamb pieces until browned on all sides.",
+    "Add the chopped onion to the pot and cook until it is softened and lightly browned.",
+    "Add the minced garlic to the pot and cook for 1 minute, stirring constantly.",
+    "Add the plum jam to the pot, stirring to combine, then bring the mixture to a boil.",
+    "Cover the pot with a lid, then transfer it to the preheated oven and roast for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven, then stir in any accumulated juices.",
+    "Serve the lamb tagine hot, garnished with fresh herbs if desired, in a stone bowl."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "comfort-food",
+    "lamb-recipes",
+    "north-african",
+    "one-pot",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 23,
+    "fat": 34
+  },
+  "slug": "warm-roasted-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-roasted-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:30:13Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "plum jam",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Roasted",
+    "dishForm": "Tagine"
+  }
+}
