@@ -365,6 +365,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-canadian-fregola-pilaf",
+    "title": "Warm Canadian Fregola Pilaf",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "diabetic-friendly",
+      "low-fat",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-canadian-onion-casserole",
     "title": "Warm Canadian Onion Casserole",
     "tags": [

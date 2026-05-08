@@ -1,0 +1,106 @@
+{
+  "title": "Warm Canadian Fregola Pilaf",
+  "description": "A hearty, diabetic-friendly dish featuring fregola, a type of Canadian pasta, with a focus on reducing fat content while maintaining flavor and texture. This meal-prep friendly pilaf is perfect for a weeknight dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "diabetic-friendly",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fregola",
+      "amount": "1 cup",
+      "notes": "Canadian pasta"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "diced chicken breast",
+      "amount": "1 pound",
+      "notes": "cooked"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "reduced-fat"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, heat the olive oil over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the fregola and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken broth, dried thyme, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes or until the fregola is tender.",
+    "Stir in the cooked chicken breast and reduced-fat cheddar cheese.",
+    "Transfer the pilaf to a baking dish and bake in the preheated oven for 10 minutes or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "diabetic-friendly",
+    "low-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "warm-canadian-fregola-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-canadian-fregola-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:43:52Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "reduce",
+    "primaryIngredient": "fregola",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "fregola",
+    "descriptor": "Warm Hearty",
+    "dishForm": "Pilaf"
+  }
+}
