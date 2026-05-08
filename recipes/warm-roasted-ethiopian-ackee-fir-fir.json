@@ -1,0 +1,88 @@
+{
+  "title": "Warm Roasted Ethiopian Ackee Fir-Fir",
+  "description": "A traditional Ethiopian dish featuring roasted ackee, perfect for post-workout recovery. This fir-fir recipe is raw-friendly and easy to make.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Kombu",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Spices",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\u00181 \u001086C.",
+    "Place the kombu in a cold-extract process to remove its gelatinous properties.",
+    "Chop the onion, ginger, and garlic.",
+    "Sauté the onion, ginger, and garlic in olive oil until softened.",
+    "Add the spices and stir for 1 minute.",
+    "Add the ackee and stir to combine with the spice mixture.",
+    "Transfer the mixture to a Dutch oven and roast for 20 minutes.",
+    "Remove the kombu cold-extract and stir into the mixture.",
+    "Season with salt to taste.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "onedish",
+    "post-workout",
+    "raw-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 7,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "warm-roasted-ethiopian-ackee-fir-fir",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-roasted-ethiopian-ackee-fir-fir",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:31:17Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "ackee",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "ackee",
+    "descriptor": "Warm roasted",
+    "dishForm": "Fir-Fir"
+  }
+}
