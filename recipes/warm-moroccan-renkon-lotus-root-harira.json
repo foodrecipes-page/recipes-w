@@ -1,0 +1,107 @@
+{
+  "title": "Warm Moroccan Renkon Lotus Root Harira",
+  "description": "A resinous and tender Moroccan dish featuring renkon lotus root, perfect for a cold evening, with a blend of Mediterranean flavors",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "renkon lotus root",
+      "amount": "2 large roots",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "canned chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat",
+    "Add the chopped onion and cook until softened, about 5 minutes",
+    "Add the minced garlic and cook for an additional minute",
+    "Add the ground cumin and ground coriander and cook for 1 minute, stirring constantly",
+    "Add the diced renkon lotus root and cook for 5 minutes, stirring occasionally",
+    "Add the chickpeas, vegetable broth, tomato paste, salt, and black pepper, and stir to combine",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes",
+    "Serve the harira hot, garnished with chopped fresh herbs if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "healthy",
+    "mediterranean",
+    "one-pot",
+    "vegetarian",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-moroccan-renkon-lotus-root-harira",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-moroccan-renkon-lotus-root-harira",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:43:38Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "temper",
+    "primaryIngredient": "renkon-lotus-root",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "renkon lotus root",
+    "descriptor": "Warm Energizing",
+    "dishForm": "Harira"
+  }
+}
