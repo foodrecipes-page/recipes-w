@@ -1,0 +1,105 @@
+{
+  "title": "Wonderful Crunchy Basque French Deodeok Root Skewers",
+  "description": "A herbal and crunchy crowd-pleaser dish featuring deodeok root, with a Basque French twist, dairy-free friendly and spherified for added fun.",
+  "cuisine": "Basque French",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "deodeok root",
+      "amount": "1 pound",
+      "notes": "peeled and cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon",
+      "notes": "fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Thread the deodeok root pieces onto skewers.",
+    "In a bowl, mix together olive oil, garlic, thyme, lemon juice, salt, and pepper.",
+    "Brush the mixture onto the deodeok root skewers.",
+    "In a separate bowl, mix together sodium alginate and water.",
+    "Spherify the deodeok root pieces by dropping them into the alginate bath.",
+    "Remove the spherified deodeok root from the bath with a slotted spoon.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Sprinkle paprika over the skewers.",
+    "Bake for 20 minutes or until crunchy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "basque-cuisine",
+    "crunchy-snacks",
+    "dairy-free",
+    "french-inspired",
+    "gluten-free",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "wonderful-crunchy-basque-french-deodeok-root-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wonderful-crunchy-basque-french-deodeok-root-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:02:51Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "spherify",
+    "primaryIngredient": "deodeok-root",
+    "diet": "dairy-free",
+    "region": "basque-french",
+    "cuisineAdjective": "Basque French",
+    "mainIngredient": "deodeok root",
+    "descriptor": "Wonderful crunchy",
+    "dishForm": "Skewers"
+  }
+}
