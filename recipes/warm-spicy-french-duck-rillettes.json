@@ -1,0 +1,91 @@
+{
+  "title": "Warm Spicy French Duck Rillettes",
+  "description": "A romantic French dish featuring poached duck, vanilla bean paste, and a spicy kick, served as a crispy rillette on a tagliere board.",
+  "cuisine": "French",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 pound",
+      "notes": "skin removed"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Poach the duck breast in simmering water for 10 minutes, then let it cool.",
+    "Shred the cooled duck breast into small pieces and place it in a bowl.",
+    "Add the vanilla bean paste, thyme, cayenne pepper, salt, and black pepper to the bowl and mix until well combined.",
+    "Melt the unsalted butter in a skillet over medium heat and add the duck mixture.",
+    "Cook the duck mixture for 5 minutes, stirring frequently, until it is crispy and golden brown.",
+    "Transfer the duck mixture to a tagliere board and top it with chopped fresh parsley.",
+    "Serve the rillettes warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "duck-recipes",
+    "french-cuisine",
+    "romantic-dinner",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "warm-spicy-french-duck-rillettes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-french-duck-rillettes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:51:30Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "poach",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "duck",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Rillettes"
+  }
+}

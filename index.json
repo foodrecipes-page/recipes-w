@@ -3986,6 +3986,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spiced-moroccan-lamb-tagine",
+    "title": "Warm Spiced Moroccan Lamb Tagine",
+    "tags": [
+      "gluten-free",
+      "lamb",
+      "low-carb",
+      "moroccan",
+      "one-pot",
+      "slow-cooker"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 180,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spiced-saudi-arabian-lamb-tagine",
     "title": "Warm Spiced Saudi Arabian Lamb Tagine",
     "tags": [
@@ -4069,6 +4084,20 @@
       "spicy"
     ],
     "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-french-duck-rillettes",
+    "title": "Warm Spicy French Duck Rillettes",
+    "tags": [
+      "diabetic-friendly",
+      "duck-recipes",
+      "french-cuisine",
+      "romantic-dinner",
+      "spicy-food"
+    ],
+    "cuisine": "French",
     "totalTimeMin": 35,
     "shard": "w"
   },
