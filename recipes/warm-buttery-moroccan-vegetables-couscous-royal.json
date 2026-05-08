@@ -1,0 +1,102 @@
+{
+  "title": "Warm Buttery Moroccan Vegetables Couscous Royal",
+  "description": "A kid-friendly Moroccan dish featuring roasted vegetables and slow-cooked couscous, perfect for a weeknight dinner. This buttery and snappy dish is sure to please the whole family.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "royal or traditional"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the chopped carrots, zucchini, and red bell pepper with 2 tablespoons of butter, salt, black pepper, paprika, and garlic powder until they are evenly coated.",
+    "Spread the vegetables in a single layer on a baking sheet and roast in the oven for 20 minutes, or until they are tender and lightly browned.",
+    "In a large pot, bring the chicken broth to a boil.",
+    "Add the couscous to the pot, cover, and turn off the heat.",
+    "Let the couscous sit for 5 minutes, then fluff it with a fork.",
+    "Add the remaining 2 tablespoons of butter to the couscous and stir until it is melted and the couscous is well coated.",
+    "To serve, divide the couscous among individual plates, then top with the roasted vegetables.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "moroccan",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-buttery-moroccan-vegetables-couscous-royal",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-buttery-moroccan-vegetables-couscous-royal",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:18:51Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "slow-cook",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "vegetables",
+    "descriptor": "Warm Buttery",
+    "dishForm": "Couscous Royal"
+  }
+}
