@@ -1,0 +1,101 @@
+{
+  "title": "Warm Crisp Ukrainian Natto Skillet",
+  "description": "A rich and crisp weeknight Ukrainian dish featuring natto, tempered chocolate, and raw friendly ingredients, cooked to perfection on a comal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "raw",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "natto",
+      "amount": "1 cup",
+      "notes": "fermented soybeans"
+    },
+    {
+      "name": "tempered chocolate",
+      "amount": "1/2 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal over medium heat for 5 minutes.",
+    "Add the olive oil and let it heat up for 1 minute.",
+    "Add the sliced onions and cook until they are translucent and starting to caramelize, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown, about 5 minutes.",
+    "Add the natto and stir to combine with the onions, garlic, and mushrooms, cooking for 2 minutes.",
+    "Stir in the tempered chocolate until melted and well combined.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the skillet to a serving plate and garnish with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "raw-friendly",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "warm-crisp-ukrainian-natto-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crisp-ukrainian-natto-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:02:24Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "natto",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "natto",
+    "descriptor": "Warm Crisp",
+    "dishForm": "Skillet"
+  }
+}
