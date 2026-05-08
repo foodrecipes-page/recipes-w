@@ -1,0 +1,109 @@
+{
+  "title": "Warm Dense Peruvian Broccoli Tacu Tacu",
+  "description": "A hearty Peruvian dish featuring broccoli and bhuna, perfect for a dinner party",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "3 cups",
+      "notes": "fresh florets"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "day-old rice"
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "canned black beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium",
+      "notes": "sauteed until translucent"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves",
+      "notes": "sauteed until fragrant"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat",
+    "Add diced onion and saute until translucent",
+    "Add minced garlic and saute until fragrant",
+    "Add broccoli florets and cook until tender",
+    "Stir in bhuna sauce and bring to a simmer",
+    "Add cooked rice, black beans, salt, and pepper, and stir to combine",
+    "Reduce heat to low and cook, covered, for 10 minutes",
+    "Fluff the mixture with a fork and stir in lime juice",
+    "Garnish with chopped cilantro and serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free-options",
+    "one-pot-meals",
+    "peruvian-cuisine",
+    "vegetarian-dishes",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "warm-dense-peruvian-broccoli-tacu-tacu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dense-peruvian-broccoli-tacu-tacu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:26:04Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "bhuna",
+    "primaryIngredient": "broccoli",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "broccoli",
+    "descriptor": "Warm Dense",
+    "dishForm": "Tacu Tacu"
+  }
+}
