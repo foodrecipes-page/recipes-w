@@ -1582,6 +1582,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-egyptian-flour-flatbread",
+    "title": "Warm Egyptian Flour Flatbread",
+    "tags": [
+      "cataplana-recipes",
+      "egyptian-cuisine",
+      "flatbread",
+      "middle-eastern",
+      "quick-fix",
+      "vegan-friendly",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-egyptian-water-stew",
     "title": "Warm Egyptian Water Stew",
     "tags": [

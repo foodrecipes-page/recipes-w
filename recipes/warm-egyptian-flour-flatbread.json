@@ -1,0 +1,89 @@
+{
+  "title": "Warm Egyptian Flour Flatbread",
+  "description": "A tangy and juicy Egyptian dish featuring flour, perfect for a quick fix, made in a cataplana vessel, this flatbread is a delicious and satisfying meal option, it is also nut free friendly",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, salt, sugar, and yeast.",
+    "Gradually add the warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a lightly oiled cataplana vessel, cover it with a lid, and let it rise in a warm place for 30 minutes.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Bake the flatbread for 15 minutes, or until it is golden brown and cooked through.",
+    "Remove the flatbread from the oven and brush it with olive oil and lemon juice.",
+    "Let the flatbread cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cataplana-recipes",
+    "egyptian-cuisine",
+    "flatbread",
+    "middle-eastern",
+    "quick-fix",
+    "vegan-friendly",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "warm-egyptian-flour-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-egyptian-flour-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:34:31Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "knead",
+    "primaryIngredient": "flour",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "flour",
+    "descriptor": "Warm Wraps",
+    "dishForm": "Flatbread"
+  }
+}
