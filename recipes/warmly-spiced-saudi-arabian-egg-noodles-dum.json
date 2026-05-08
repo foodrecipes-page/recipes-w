@@ -1,0 +1,96 @@
+{
+  "title": "Warmly Spiced Saudi Arabian Egg Noodles Dum",
+  "description": "A mustardy and crunchy Saudi Arabian dish featuring egg noodles and dum, perfect for a post-workout meal, made in a raclette grill for a low-carb friendly option. This dish combines the flavors of Saudi Arabian spices with the comfort of egg noodles.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Egg noodles",
+      "amount": "8 oz",
+      "notes": "low-carb egg noodles"
+    },
+    {
+      "name": "Dum",
+      "amount": "1 cup",
+      "notes": "Saudi Arabian dum mixture"
+    },
+    {
+      "name": "Mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ghee",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 375 degrees Fahrenheit.",
+    "Cook the egg noodles according to the package instructions and set aside.",
+    "In a bowl, mix together the dum mixture, mustard, ghee, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Add the cooked egg noodles to the bowl and mix well to combine.",
+    "Place the noodle mixture on the raclette grill and cook for 5 minutes.",
+    "Stir the noodles and cook for an additional 2 minutes.",
+    "Remove the noodles from the grill and serve hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-carb",
+    "one-pan",
+    "post-workout",
+    "quick-meal",
+    "saudi-arabian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "warmly-spiced-saudi-arabian-egg-noodles-dum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-saudi-arabian-egg-noodles-dum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:51:18Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "dum",
+    "primaryIngredient": "egg noodles",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "egg noodles",
+    "descriptor": "Warmly spiced",
+    "dishForm": "Noodles"
+  }
+}
