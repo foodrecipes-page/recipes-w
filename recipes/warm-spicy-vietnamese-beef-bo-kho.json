@@ -1,0 +1,98 @@
+{
+  "title": "Warm Spicy Vietnamese Beef Bo Kho",
+  "description": "A peppery and nostalgic Vietnamese dish featuring chinese broccoli and confit tomato, with a cheese pull effect, low in carbs and perfect for a weeknight dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "chinese broccoli",
+      "amount": "2 cups",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "star anise",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium high heat.",
+    "Add the beef to the pot and cook until browned on all sides.",
+    "Add the chinese broccoli, confit tomato, fish sauce, soy sauce, grated ginger, ground black pepper, and star anise to the pot.",
+    "Pour in enough beef broth to cover the ingredients and bring to a boil.",
+    "Reduce the heat to low and simmer for 2 hours or until the beef is tender.",
+    "Stir in the shredded mozzarella cheese until melted and well combined.",
+    "Serve the bo kho hot, garnished with additional chinese broccoli and mozzarella cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "cheesy",
+    "low-carb",
+    "one-pot",
+    "vietnamese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "warm-spicy-vietnamese-beef-bo-kho",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-vietnamese-beef-bo-kho",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:46:52Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "confit-tomato",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Bo Kho"
+  }
+}
