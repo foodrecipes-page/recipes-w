@@ -1,0 +1,98 @@
+{
+  "title": "wholesome crunchy croatian fish bowl",
+  "description": "a cultured, pescatarian-friendly dish featuring poached fish, crunchy slaw, and a hint of vanilla.",
+  "cuisine": "croatian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish fillets (cod or snapper)",
+      "amount": "4",
+      "notes": "skin removed"
+    },
+    {
+      "name": "vanilla pod",
+      "amount": "1",
+      "notes": "split lengthwise"
+    },
+    {
+      "name": "lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1",
+      "notes": "shredded"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the fish fillets with salt and pepper.",
+    "Place the fish on a baking sheet lined with parchment paper.",
+    "Drizzle with olive oil and bake for 12 minutes.",
+    "Meanwhile, prepare the slaw by combining the grated carrots, shredded cabbage, and sliced onion in a bowl.",
+    "In a small bowl, whisk together the lemon juice and apple cider vinegar.",
+    "Pour the dressing over the slaw and toss to combine.",
+    "Once the fish is cooked, remove it from the oven and let it cool slightly.",
+    "To assemble the bowls, place a scoop of the slaw in the bottom, followed by a piece of fish.",
+    "Place a vanilla pod on top of the fish, then drizzle with additional lemon juice if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "gluten-free",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "wholesome-crunchy-croatian-fish-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-crunchy-croatian-fish-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:05:53Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "poach",
+    "primaryIngredient": "vanilla pod",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "fish",
+    "descriptor": "wholesome crunchy",
+    "dishForm": "Bowl"
+  }
+}
