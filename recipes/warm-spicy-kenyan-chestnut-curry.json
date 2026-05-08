@@ -1,0 +1,105 @@
+{
+  "title": "Warm Spicy Kenyan Chestnut Curry",
+  "description": "A spicy and satisfying Kenyan dish featuring chestnuts, ferment-kimchi, and ayurvedic-sattvic-friendly ingredients, perfect for a crowd-pleasing dinner. This recipe combines the warmth of chestnuts with the tang of kimchi and the comfort of a rich curry sauce.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1/2 cup",
+      "notes": "fermented Korean chili-fermented cabbage"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for another minute.",
+    "Stir in the curry powder and cook for 1 minute.",
+    "Add the chestnuts, kimchi, and coconut milk, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 15 minutes, or until the chestnuts are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chestnut",
+    "curry",
+    "gluten-free",
+    "kenyan",
+    "kimchi",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-spicy-kenyan-chestnut-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-kenyan-chestnut-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:31:07Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "chestnuts",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chestnuts",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Curry"
+  }
+}
