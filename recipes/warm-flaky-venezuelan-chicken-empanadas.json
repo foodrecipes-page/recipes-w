@@ -1,0 +1,96 @@
+{
+  "title": "Warm Flaky Venezuelan Chicken Empanadas",
+  "description": "Tangy and flaky Venezuelan empanadas filled with chicken and Thai sweet basil, perfect for a low glycemic meal prep option.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low glycemic",
+    "gluten free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Thai sweet basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and cook the chicken until browned and cooked through.",
+    "Add the chopped Thai sweet basil, salt, and pepper to the skillet and stir to combine.",
+    "In a small bowl, whisk together the kombu cold extract and lime juice.",
+    "Add the kombu mixture to the skillet and stir to combine.",
+    "Roll out the empanada dough and cut into circles.",
+    "Place a tablespoon of the chicken mixture onto the center of each dough circle.",
+    "Fold the dough in half and press the edges to seal.",
+    "Brush the tops of the empanadas with olive oil and bake for 20 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "empanadas",
+    "gluten-free",
+    "low-glycemic",
+    "meal-prep",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "warm-flaky-venezuelan-chicken-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-flaky-venezuelan-chicken-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:04:43Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm flaky",
+    "dishForm": "Empanadas"
+  }
+}
