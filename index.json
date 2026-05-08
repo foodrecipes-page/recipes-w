@@ -1300,6 +1300,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-dutch-apple-fritters",
+    "title": "Warm Dutch Apple Fritters",
+    "tags": [
+      "apple",
+      "caramel",
+      "dutch",
+      "fritter",
+      "satvik",
+      "vegetarian"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-dutch-rice-fried-rice",
     "title": "Warm Dutch Rice Fried Rice",
     "tags": [
