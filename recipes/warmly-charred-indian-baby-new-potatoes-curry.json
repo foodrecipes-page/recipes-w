@@ -1,0 +1,103 @@
+{
+  "title": "Warmly Charred Indian Baby New Potatoes Curry",
+  "description": "A flavorful and spicy Bengali-inspired curry featuring charred baby new potatoes, perfect for a weeknight dinner",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby new potatoes",
+      "amount": "1 pound",
+      "notes": "halved"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat",
+    "Add the chopped onion and cook until it starts to brown",
+    "Add the grated ginger and minced garlic and cook for 1 minute",
+    "Add the halved baby new potatoes and cook until they are charred on all sides",
+    "Add the curry powder, turmeric, cumin, and salt, and stir to combine",
+    "Pour in the water and bring the mixture to a simmer",
+    "Reduce the heat to medium-low and cook, covered, until the potatoes are tender",
+    "Serve the curry hot, garnished with fresh cilantro if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indian-cuisine",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "warmly-charred-indian-baby-new-potatoes-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-charred-indian-baby-new-potatoes-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:27:53Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "en-croute",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "shojin",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "baby new potatoes",
+    "descriptor": "warmly charred",
+    "dishForm": "Curry"
+  }
+}
