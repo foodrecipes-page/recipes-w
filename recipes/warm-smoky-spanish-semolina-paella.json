@@ -1,0 +1,99 @@
+{
+  "title": "Warm Smoky Spanish Semolina Paella",
+  "description": "A traditional Spanish dish from Galicia, featuring semolina and smoky flavors, perfect for a midnight craving. This whole30 friendly recipe is a fermented, glassy jelly like paella.",
+  "cuisine": "Spanish",
+  "diet": [
+    "whole30",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup",
+      "notes": "preferably fine grind"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "chorizo",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium high heat.",
+    "Add the sliced chorizo and cook until browned, about 3 minutes.",
+    "Add the shrimp and cook until pink, about 3 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the semolina and stir to coat with oil and mix with garlic.",
+    "Add the chicken broth, smoked paprika, and sea salt, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the lemon juice and cook for an additional 2 minutes.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "seafood",
+    "smoky",
+    "spanish",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "warm-smoky-spanish-semolina-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-spanish-semolina-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:41:02Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "semolina",
+    "diet": "whole30",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "semolina",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Paella"
+  }
+}
