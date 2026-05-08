@@ -2734,6 +2734,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-pillowy-jamaican-vegetable-toast",
+    "title": "Warm Pillowy Jamaican Vegetable Toast",
+    "tags": [
+      "healthy-eating",
+      "homemade",
+      "jamaican-cuisine",
+      "romantic-dinner",
+      "vegan-friendly"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-pillowy-norwegian-bread-toast",
     "title": "Warm Pillowy Norwegian Bread Toast",
     "tags": [
@@ -5210,6 +5224,20 @@
       "low-sodium",
       "one-pot",
       "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-spiced-indian-lamb-kebabs",
+    "title": "Warmly Spiced Indian Lamb Kebabs",
+    "tags": [
+      "grilled-meat",
+      "indian-cuisine",
+      "lamb-recipes",
+      "robata-grill",
+      "weeknight"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 45,

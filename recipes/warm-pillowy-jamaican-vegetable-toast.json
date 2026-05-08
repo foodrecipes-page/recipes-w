@@ -1,0 +1,99 @@
+{
+  "title": "Warm Pillowy Jamaican Vegetable Toast",
+  "description": "A romantic and floral Jamaican dish featuring herbes-de-provence, toast, and vegan-friendly ingredients, perfect for a cozy evening.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "herbes-de-provence",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, toss the chopped onion, bell pepper, and zucchini with olive oil, herbes-de-provence, salt, and black pepper until they are evenly coated.",
+    "Spread the vegetable mixture on a baking sheet and roast in the oven for 20 minutes.",
+    "While the vegetables are roasting, toast the whole wheat bread until it is lightly browned.",
+    "Once the vegetables are done, let them cool for a few minutes.",
+    "Spread the roasted vegetables over the toasted bread.",
+    "Drizzle any remaining olive oil and herbes-de-provence over the top of the vegetables.",
+    "Serve warm and enjoy.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy-eating",
+    "homemade",
+    "jamaican-cuisine",
+    "romantic-dinner",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "warm-pillowy-jamaican-vegetable-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-pillowy-jamaican-vegetable-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:16:05Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "toast",
+    "primaryIngredient": "herbes-de-provence",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "vegetables",
+    "descriptor": "Warm pillowy",
+    "dishForm": "Toast"
+  }
+}
