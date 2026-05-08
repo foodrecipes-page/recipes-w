@@ -1,0 +1,120 @@
+{
+  "title": "russian garlic tagine",
+  "description": "wholesome, garlicky russian dish featuring malt vinegar, best served for brunch",
+  "cuisine": "russian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "-"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "2 tbsp",
+      "notes": "-"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "-"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "-"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "-"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "2 tbsp",
+      "notes": "-"
+    },
+    {
+      "name": "sour cream",
+      "amount": "4 oz",
+      "notes": "-"
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "8 oz",
+      "notes": "-"
+    },
+    {
+      "name": "scallions",
+      "amount": "4",
+      "notes": "-"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "heat olive oil in the tajine over medium heat.",
+    "add minced garlic and sauté until golden, about 3-4 minutes.",
+    "add chopped onion and cook until translucent, about 5-6 minutes.",
+    "add smoked paprika, salt, and black pepper, stir to combine.",
+    "add malt vinegar and stir to combine.",
+    "add chopped fresh dill and stir to combine.",
+    "add cottage cheese and stir to combine.",
+    "add sour cream and stir to combine.",
+    "add frozen peas and stir to combine.",
+    "reduce heat to low and simmer, covered, for 10-12 minutes.",
+    "garnish with chopped scallions and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "comfort-food",
+    "high-protein",
+    "lunch",
+    "one-pan",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "wholesome-garlicky-russian-garlic-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-garlicky-russian-garlic-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:11:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "malt vinegar",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Wholesome, garlicky",
+    "dishForm": "Tagine"
+  }
+}
