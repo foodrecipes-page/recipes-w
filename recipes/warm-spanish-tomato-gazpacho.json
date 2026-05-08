@@ -1,0 +1,111 @@
+{
+  "title": "Warm Spanish Tomato Gazpacho",
+  "description": "A comforting and pungent Spanish dish featuring caraway seeds, this warm gazpacho is perfect for a chilly evening, and can be shaped into small nigiri-like bites for a fun presentation.",
+  "cuisine": "Spanish",
+  "diet": [
+    "sugar-free",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "2 cups",
+      "notes": "no salt added"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the diced red onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the caraway seeds and cook for 1 minute, stirring constantly.",
+    "Add the diced red bell pepper and cucumber, and cook until they start to soften.",
+    "Add the crushed tomatoes, sherry vinegar, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 20 minutes, stirring occasionally.",
+    "Use an immersion blender to puree the gazpacho to your desired consistency.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the gazpacho warm, shaped into small nigiri-like bites if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pot",
+    "spanish-cuisine",
+    "sugar-free",
+    "vegetarian-friendly",
+    "warm-soup"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "warm-spanish-tomato-gazpacho",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spanish-tomato-gazpacho",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:14:20Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "caraway seed",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Warm Comforting",
+    "dishForm": "Gazpacho"
+  }
+}
