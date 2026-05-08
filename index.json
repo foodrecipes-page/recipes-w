@@ -1728,6 +1728,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-german-pork-casserole",
+    "title": "Warm German Pork Casserole",
+    "tags": [
+      "german-food",
+      "gluten-free",
+      "kid-friendly",
+      "one-pan-meals",
+      "pork-recipes",
+      "weeknight-dinners"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
     "slug": "warm-german-pretzel-wrap",
     "title": "Warm German Pretzel Wrap",
     "tags": [
@@ -5313,6 +5328,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-glazed-uruguayan-beef-bowl",
+    "title": "Warmly Glazed Uruguayan Beef Bowl",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "soy-free",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {

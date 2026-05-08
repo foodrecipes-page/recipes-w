@@ -1,0 +1,93 @@
+{
+  "title": "Warmly Glazed Uruguayan Beef Bowl",
+  "description": "A tangy and velvety Uruguayan dish featuring genmaicha, perfect for a date night, made with ayurvedic-rajasic-friendly ingredients and served in a dolsot stone bowl.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "soy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grass fed beef",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "genmaicha tea",
+      "amount": "1 cup",
+      "notes": "brewed strong"
+    },
+    {
+      "name": "date syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large skillet over medium high heat.",
+    "Add the sliced beef and cook until browned, about 3 minutes.",
+    "Remove the beef from the skillet and set aside.",
+    "In the same skillet, add the sesame oil, apple cider vinegar, date syrup, salt, and black pepper.",
+    "Bring the glaze to a simmer and cook until thickened, about 5 minutes.",
+    "Add the brewed genmaicha tea to the glaze and stir to combine.",
+    "Return the beef to the skillet and toss to coat with the glaze.",
+    "Transfer the beef and glaze to a dolsot stone bowl and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "soy-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "warmly-glazed-uruguayan-beef-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-glazed-uruguayan-beef-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:32:25Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "glaze",
+    "primaryIngredient": "genmaicha",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Warmly glazed",
+    "dishForm": "Bowl"
+  }
+}

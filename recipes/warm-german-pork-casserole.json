@@ -1,0 +1,100 @@
+{
+  "title": "Warm German Pork Casserole",
+  "description": "A hearty and flavorful German-inspired casserole featuring pork, ginger cordial, and bonito flakes, perfect for a weeknight dinner. This dish is kid-friendly and incorporates anti-inflammatory ingredients.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork sausage",
+      "amount": "1 pound",
+      "notes": "preferably German-style"
+    },
+    {
+      "name": "ginger cordial",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Slice the pork sausage into 1-inch pieces and cook in a large skillet over medium-high heat until browned, about 5 minutes.",
+    "Add the sliced onion to the skillet and cook until softened, about 3 minutes.",
+    "Add the grated ginger and cook for an additional minute.",
+    "In a large bowl, combine the cooked pork and onion mixture, bonito flakes, chicken broth, olive oil, salt, and pepper.",
+    "Slice the carrots and potatoes into 1-inch pieces and add to the bowl, stirring to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 30 minutes.",
+    "Remove the dish from the oven and stir in the ginger cordial.",
+    "Return the dish to the oven and bake for an additional 10 minutes, or until the casserole is hot and the vegetables are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german-food",
+    "gluten-free",
+    "kid-friendly",
+    "one-pan-meals",
+    "pork-recipes",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "warm-german-pork-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-german-pork-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:31:28Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "bonito-shave",
+    "primaryIngredient": "ginger cordial",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Casserole"
+  }
+}
