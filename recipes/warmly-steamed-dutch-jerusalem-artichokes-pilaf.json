@@ -1,0 +1,100 @@
+{
+  "title": "Warmly Steamed Dutch Jerusalem Artichokes Pilaf",
+  "description": "A hearty and nutritious Dutch-inspired dish featuring crisply steamed Jerusalem artichokes, perfect for a comforting lunch or dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jerusalem Artichokes",
+      "amount": "2 pounds",
+      "notes": "preferably with the stems intact"
+    },
+    {
+      "name": "Unsalted Chicken Broth",
+      "amount": "4 cups",
+      "notes": "low-sodium broth is recommended"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": "clarified butter for added flavor"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "for roasting the artichokes"
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 sprig",
+      "notes": "fresh thyme can be substituted if available"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "use a low-sodium salt for best results"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "amount": "1 tablespoon",
+      "notes": "for a tangy, slightly sweet flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the bamboo steamer to high heat, ensuring the bottom is filled with water, and bring to a boil.",
+    "Meanwhile, peel the Jerusalem artichokes and cut them into 1-inch pieces.",
+    "In a large bowl, toss the artichoke pieces with the olive oil, thyme sprig, salt, and a pinch of pepper until well-coated.",
+    "Transfer the artichoke mixture to a baking sheet and roast in a preheated oven at 425°F for 15-20 minutes, or until tender and lightly browned.",
+    "Once the artichokes are done roasting, transfer them to the steamer basket and steam for 10-12 minutes, or until tender.",
+    "In a small saucepan, heat the ghee over low heat until melted.",
+    "Add the white wine vinegar to the ghee and stir to combine.",
+    "To assemble the pilaf, place a portion of steamed artichokes on a plate, drizzle with the ghee and vinegar mixture, and garnish with fresh parsley.",
+    "Serve immediately, and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "warmly-steamed-dutch-jerusalem-artichokes-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-steamed-dutch-jerusalem-artichokes-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:01:23Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "whisk",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Jerusalem Artichokes",
+    "descriptor": "Warmly Steamed",
+    "dishForm": "Pilaf"
+  }
+}
