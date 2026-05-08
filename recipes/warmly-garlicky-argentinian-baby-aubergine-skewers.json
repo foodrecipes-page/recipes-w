@@ -1,0 +1,93 @@
+{
+  "title": "Warmly Garlicky Argentinian Baby Aubergine Skewers",
+  "description": "A flavorful and adventurous Argentinian dish featuring baby aubergine, bonito flakes, and a garlicky twist, perfect for a satvik-friendly meal",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby aubergine",
+      "amount": "12",
+      "notes": "about 1 inch in diameter"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "Thread the baby aubergine onto skewers, leaving a small space between each piece",
+    "In a bowl, mix together the minced garlic, bonito flakes, olive oil, lemon juice, salt, and black pepper",
+    "Brush the garlic-bonito mixture evenly onto the baby aubergine",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the aubergine is tender and lightly charred",
+    "Garnish with chopped fresh parsley",
+    "Serve warm and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "easy-dinner",
+    "garlicky",
+    "grilled",
+    "quick-meal",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "warmly-garlicky-argentinian-baby-aubergine-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-garlicky-argentinian-baby-aubergine-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:04:57Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "bonito-shave",
+    "primaryIngredient": "baby aubergine",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "baby aubergine",
+    "descriptor": "Warmly garlicky",
+    "dishForm": "Skewers"
+  }
+}
