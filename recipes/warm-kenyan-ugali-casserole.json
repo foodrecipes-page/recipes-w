@@ -1,0 +1,92 @@
+{
+  "title": "Warm Kenyan Ugali Casserole",
+  "description": "A fermented, crumbly, and cozy Kenyan dish featuring rosemary, cooked in a bain-marie for a low-glycemic-friendly meal, this casserole is perfect for a cold evening.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 cups",
+      "notes": "preferably stone-ground"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "grated cheddar",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the cornmeal, water, and salt, then let it sit for 24 hours to ferment.",
+    "After fermentation, stir in the rosemary, melted butter, sour cream, eggs, and grated cheddar.",
+    "Pour the mixture into a 9x13 inch baking dish and place it in a larger baking dish filled with water to create a bain-marie.",
+    "Bake for 45 minutes, or until the edges are set and the center is still slightly jiggly.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving.",
+    "Serve warm, garnished with additional rosemary sprigs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "warm-kenyan-ugali-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-kenyan-ugali-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:20:59Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "bain-marie",
+    "primaryIngredient": "rosemary",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "ugali",
+    "descriptor": "Warm Crumbly",
+    "dishForm": "Casserole"
+  }
+}
