@@ -1026,6 +1026,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-crunchy-chinese-chicken-toast",
+    "title": "Warm Crunchy Chinese Chicken Toast",
+    "tags": [
+      "chinese-cuisine",
+      "low-fat",
+      "one-pan",
+      "quick-dinner",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crunchy-croatian-peanut-brittle-toast",
     "title": "Warm Crunchy Croatian Peanut Brittle Toast",
     "tags": [

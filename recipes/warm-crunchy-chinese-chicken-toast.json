@@ -1,0 +1,101 @@
+{
+  "title": "Warm Crunchy Chinese Chicken Toast",
+  "description": "A sweet and crunchy Chinese dish featuring basil leaves and toast, perfect for a solo dinner, originating from the Chaozhou cuisine, and is low-fat-friendly, served in an individual mini cocotte.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "6 oz",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together soy sauce, honey, sesame oil, salt, and black pepper to make the sauce.",
+    "In a separate bowl, toss the chicken pieces with the sauce until they are well coated.",
+    "Heat the olive oil in a small skillet over medium-high heat and cook the chicken until it is browned and cooked through.",
+    "Toast the bread slices until they are lightly browned and crispy.",
+    "In a small bowl, mix together the chopped basil leaves and scallions.",
+    "To assemble the dish, place a toasted bread slice in the bottom of an individual mini cocotte, followed by a few pieces of the cooked chicken, and finally a spoonful of the basil and scallion mixture.",
+    "Drizzle any remaining sauce over the top of the dish and serve warm.",
+    "Garnish with additional basil leaves and scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "low-fat",
+    "one-pan",
+    "quick-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "warm-crunchy-chinese-chicken-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crunchy-chinese-chicken-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:49:15Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "toast",
+    "primaryIngredient": "basil leaves",
+    "diet": "low-fat",
+    "region": "chaozhou",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm crunchy",
+    "dishForm": "Toast"
+  }
+}
