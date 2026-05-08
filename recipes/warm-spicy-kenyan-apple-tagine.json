@@ -1,0 +1,92 @@
+{
+  "title": "Warm Spicy Kenyan Apple Tagine",
+  "description": "This fermented Kenyan dish features apple juice and infuse-oil, making it a shojin-friendly option for adventurous eaters, with a unique glassy-jelly texture from the fermented apple juice.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apple juice",
+      "amount": "2 cups",
+      "notes": "fermented for at least 3 days"
+    },
+    {
+      "name": "infuse-oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine the fermented apple juice, infuse-oil, grated ginger, cinnamon, cayenne pepper, lemon juice, agave nectar, and salt in a large saucepan.",
+    "Bring the mixture to a boil over high heat, then reduce the heat to medium-low and simmer for 20 minutes.",
+    "Remove the saucepan from the heat and let it cool to room temperature.",
+    "Strain the mixture through a fine-mesh sieve into a large bowl, pressing on the solids to extract as much liquid as possible.",
+    "Discard the solids and let the liquid cool to room temperature.",
+    "Refrigerate the liquid for at least 2 hours to allow it to chill and thicken into a glassy-jelly texture.",
+    "Serve the Warm Spicy Kenyan Apple Tagine chilled, garnished with a sprinkle of cinnamon if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-eating",
+    "fermented-food",
+    "glassy-jelly",
+    "kenyan-cuisine",
+    "shojin-friendly",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 2
+  },
+  "slug": "warm-spicy-kenyan-apple-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-kenyan-apple-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:53:08Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "infuse-oil",
+    "primaryIngredient": "apple juice",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "apples",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Tagine"
+  }
+}
