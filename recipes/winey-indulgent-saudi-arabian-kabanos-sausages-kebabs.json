@@ -1,0 +1,97 @@
+{
+  "title": "Winey Indulgent Saudi Arabian Kabanos Sausages Kebabs",
+  "description": "A winey, crumbly, indulgent Saudi Arabian dish featuring kabanos sausages, perfect for a special occasion. This dairy-free-friendly dish is sure to impress your guests.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabanos sausages",
+      "amount": "12",
+      "notes": "any variety"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large",
+      "notes": "any color, chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button, sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the red wine, olive oil, salt, and black pepper.",
+    "Add the chopped onion, bell pepper, and mushrooms to the bowl and toss to coat.",
+    "Thread the kabanos sausages onto skewers, leaving a small space between each sausage.",
+    "Brush the skewers with the wine mixture and place on a baking sheet lined with parchment paper.",
+    "Bake for 20 minutes, or until the sausages are browned and cooked through.",
+    "While the sausages are cooking, steam the mushrooms and onion in a steamer basket until tender.",
+    "Serve the sausages hot, garnished with the steamed mushrooms and onion."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "winey-indulgent-saudi-arabian-kabanos-sausages-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-indulgent-saudi-arabian-kabanos-sausages-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:30:54Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "kabanos sausages",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "kabanos sausages",
+    "descriptor": "winey indulgent",
+    "dishForm": "Kebabs"
+  }
+}
