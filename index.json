@@ -1203,6 +1203,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-crunchy-filipino-pork-lechon",
+    "title": "Warm Crunchy Filipino Pork Lechon",
+    "tags": [
+      "filipino-cuisine",
+      "pork-belly",
+      "roasted-meat",
+      "special-occasion",
+      "umami-flavors"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 150,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crunchy-german-minari-fritters",
     "title": "Warm Crunchy German Minari Fritters",
     "tags": [

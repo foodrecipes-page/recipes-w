@@ -1,0 +1,97 @@
+{
+  "title": "Warm Crunchy Filipino Pork Lechon",
+  "description": "A classic Filipino dish featuring a whole pork belly cooked to perfection in a mixture of spices and wrapped in ti leaves, resulting in a crunchy and umami flavor profile.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "2 pounds",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "mixture powder",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juiced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the mixture powder, black pepper, and salt.",
+    "Rub the spice mixture all over the pork belly, making sure to coat it evenly.",
+    "Heat a large skillet over medium heat and sear the pork belly until browned on all sides.",
+    "Transfer the pork belly to a large piece of foil and wrap it tightly, then wrap it again in ti leaves.",
+    "Place the wrapped pork belly in a large roasting pan and roast in the preheated oven for 2 hours.",
+    "After 2 hours, remove the pork belly from the oven and let it rest for 10 minutes.",
+    "Unwrap the ti leaves and slice the pork belly into thick pieces.",
+    "Serve the pork belly hot, garnished with chopped onion and a squeeze of lemon juice.",
+    "Garnish with additional ti leaves, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "filipino-cuisine",
+    "pork-belly",
+    "roasted-meat",
+    "special-occasion",
+    "umami-flavors"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 45
+  },
+  "slug": "warm-crunchy-filipino-pork-lechon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crunchy-filipino-pork-lechon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:15:05Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "mixture powder",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Warm Crunchy",
+    "dishForm": "Lechon"
+  }
+}
