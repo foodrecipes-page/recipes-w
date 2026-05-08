@@ -1375,6 +1375,19 @@
     "shard": "w"
   },
   {
+    "slug": "warm-gooey-middle-eastern-chestnuts-tabbouleh",
+    "title": "Warm Gooey Middle-Eastern Chestnut Tabbouleh",
+    "tags": [
+      "comfort-food",
+      "middle-eastern",
+      "one-pan",
+      "warming"
+    ],
+    "cuisine": "middle-eastern",
+    "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
     "slug": "warm-gooey-russian-hazelnut-pilaf",
     "title": "Warm Gooey Russian Hazelnut Pilaf",
     "tags": [
@@ -2824,6 +2837,21 @@
       "weeknight"
     ],
     "cuisine": "Saudi Arabian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-tunisian-pistachio-skillet",
+    "title": "warm spicy tunisian pistachio skillet",
+    "tags": [
+      "gluten-free",
+      "high-calorie",
+      "one-pan",
+      "spicy",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "tunisian",
     "totalTimeMin": 35,
     "shard": "w"
   },
@@ -7456,6 +7484,20 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-velvety-saudi-arabian-panang-curry-paste-curry",
+    "title": "Winey Velvety Saudi-Arabian Panang Curry Paste Curry",
+    "tags": [
+      "comfort-food",
+      "halal",
+      "one-pan",
+      "saudi-arabian",
+      "vegetarian"
+    ],
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {

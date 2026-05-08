@@ -1,0 +1,103 @@
+{
+  "title": "Warm Gooey Middle-Eastern Chestnut Tabbouleh",
+  "description": "A hearty and comforting twist on traditional tabbouleh, featuring roasted chestnuts and a rich, gooey drizzle made with infused oil.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chestnuts",
+      "amount": "1 cup, peeled and halved",
+      "notes": ""
+    },
+    {
+      "name": "Bulgur",
+      "amount": "1 cup, fine",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1/2 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Infused oil",
+      "amount": "2 tablespoons",
+      "notes": "sesame oil infused with garlic and thyme"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the chestnuts with 1 tablespoon of olive oil, salt, and pepper on a baking sheet. Roast for 20-25 minutes, or until tender and caramelized.",
+    "In a large bowl, combine the bulgur, parsley, tomatoes, salt, and pepper.",
+    "Add the roasted chestnuts to the bowl and toss to combine.",
+    "In a small bowl, whisk together the lemon juice and infused oil.",
+    "Pour the dressing over the tabbouleh and toss to combine.",
+    "Transfer the tabbouleh to a Dutch oven and bake for an additional 10-15 minutes, or until heated through and the flavors have melded together.",
+    "Serve warm, garnished with additional parsley if desired.",
+    "Refrigerate any leftovers for up to 3 days.",
+    "Reheat in the oven or microwave before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "middle-eastern",
+    "one-pan",
+    "warming"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "warm-gooey-middle-eastern-chestnuts-tabbouleh",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-gooey-middle-eastern-chestnuts-tabbouleh",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:49:46Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "infuse-oil",
+    "primaryIngredient": "chestnuts",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "chestnuts",
+    "descriptor": "Warm Gooey",
+    "dishForm": "Tabbouleh"
+  }
+}
