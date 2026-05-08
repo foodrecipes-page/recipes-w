@@ -1,0 +1,95 @@
+{
+  "title": "Warm Dense Spanish Almonds Tarta De Santiago",
+  "description": "A traditional Spanish dessert featuring warm dense almonds and a quick fix ssam wrap, this dish is halal friendly and perfect for a dessert or snack. It has a herbal flavor and a dense texture.",
+  "cuisine": "Spanish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 1/2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "warm water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees.",
+    "In a large bowl, whisk together the flour and confectioners sugar.",
+    "Add the sliced almonds to the bowl and stir until they are well coated with the flour mixture.",
+    "In a separate bowl, whisk together the eggs, melted butter, and warm water.",
+    "Add the lemon zest to the egg mixture and stir until well combined.",
+    "Add the egg mixture to the almond mixture and stir until a dough forms.",
+    "Roll out the dough to a thickness of about 1/4 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a sheet of ssam wrap on a flat surface and place a circle of dough in the center of the wrap.",
+    "Fold the wrap over the dough to form a triangle and press the edges together to seal.",
+    "Place the tarta on a baking sheet and bake for 20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "dense-cake",
+    "halal-friendly",
+    "quick-fix",
+    "spanish-dessert",
+    "warm-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "warm-dense-spanish-almonds-tarta-de-santiago",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dense-spanish-almonds-tarta-de-santiago",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:44:25Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "warm water",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "almonds",
+    "descriptor": "Warm Dense",
+    "dishForm": "Tarta De Santiago"
+  }
+}
