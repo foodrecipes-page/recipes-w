@@ -1,0 +1,103 @@
+{
+  "title": "Warm Springy Vietnamese Chicken Noodles",
+  "description": "A resinous and springy Vietnamese dish featuring garlic powder and double-fry KFC style chicken, served in a copper mug, this satvik-friendly meal is perfect for a romantic evening.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat to 350 degrees.",
+    "Double-fry the chicken by first frying at 325 degrees for 5 minutes, then increasing the heat to 375 degrees for an additional 5 minutes, or until golden brown and crispy.",
+    "In a large pot, bring 4 cups of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a small bowl, whisk together the soy sauce, fish sauce, lime juice, and grated ginger to make the sauce.",
+    "Add the cooked noodles to the sauce and toss to combine.",
+    "Add the double-fried chicken to the noodles and sauce, and toss to combine.",
+    "Stir in the garlic powder and sesame oil.",
+    "Transfer the noodles to a copper mug and top with chopped scallions.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional scallions and a sprinkle of garlic powder, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-food",
+    "chicken-recipes",
+    "comfort-food",
+    "noodle-dishes",
+    "romantic-dinners",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-springy-vietnamese-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-springy-vietnamese-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:14:56Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "garlic powder",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm springy",
+    "dishForm": "Noodles"
+  }
+}
