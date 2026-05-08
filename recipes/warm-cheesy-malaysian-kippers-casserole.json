@@ -1,0 +1,93 @@
+{
+  "title": "Warm Cheesy Malaysian Kippers Casserole",
+  "description": "A savory and cozy Malaysian dish featuring kippers, shio-cure, and a blend of cheeses, perfect for a comforting dinner. This recipe is onion and garlic free, making it suitable for those with dietary restrictions.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kippers",
+      "amount": "12 oz",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine the milk, shio-cure, and butter, and heat over medium heat until the butter has melted.",
+    "In a large bowl, combine the kippers, cheddar cheese, parmesan cheese, salt, and black pepper.",
+    "Add the milk mixture to the kipper mixture and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 25 minutes, or until the top is golden brown and the casserole is heated through.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve hot and enjoy the cheesy, savory goodness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "warm-cheesy-malaysian-kippers-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-cheesy-malaysian-kippers-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:20:09Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "shio-cure",
+    "primaryIngredient": "kippers",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "kippers",
+    "descriptor": "Warm cheesy",
+    "dishForm": "Casserole"
+  }
+}
