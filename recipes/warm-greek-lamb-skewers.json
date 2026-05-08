@@ -1,0 +1,93 @@
+{
+  "title": "Warm Greek Lamb Skewers",
+  "description": "A sweet and savory Greek dish featuring lamb skewers, perfect for a brunch mood, made with brandy and low-glycemic-friendly ingredients, cooked on a comal.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "brandy",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal over medium-high heat.",
+    "In a large bowl, whisk together brandy, olive oil, lemon juice, garlic, oregano, salt, and pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each cube.",
+    "Brush the comal with a small amount of olive oil to prevent sticking.",
+    "Place the lamb skewers on the comal and cook for 4-5 minutes per side, or until cooked to an internal temperature of 145 degrees.",
+    "After flipping the skewers, deglaze the comal with a small amount of brandy, scraping up any browned bits.",
+    "Remove the skewers from the comal and let rest for a few minutes before serving.",
+    "Serve the warm lamb skewers hot, garnished with fresh oregano and lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "comal-cooking",
+    "greek-cuisine",
+    "lamb-recipes",
+    "low-glycemic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "warm-greek-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-greek-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:34:04Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shaggy",
+    "mood": "brunch-mood",
+    "technique": "deglaze",
+    "primaryIngredient": "brandy",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Brandy",
+    "dishForm": "Skewers"
+  }
+}

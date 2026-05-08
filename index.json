@@ -2124,6 +2124,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-greek-lamb-skewers",
+    "title": "Warm Greek Lamb Skewers",
+    "tags": [
+      "brunch-ideas",
+      "comal-cooking",
+      "greek-cuisine",
+      "lamb-recipes",
+      "low-glycemic"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-hakka-beetroot-sweet-and-sour",
     "title": "Warm Hakka Beetroot Sweet And Sour",
     "tags": [
@@ -5045,6 +5059,21 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-white-french-tahini-souffle",
+    "title": "Warm White French Tahini Souffle",
+    "tags": [
+      "brunch-ideas",
+      "french-cuisine",
+      "grilled-dishes",
+      "no-onion-no-garlic",
+      "souffle-dishes",
+      "tahini-recipes"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {

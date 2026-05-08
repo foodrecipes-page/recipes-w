@@ -1,0 +1,102 @@
+{
+  "title": "Warm White French Tahini Souffle",
+  "description": "A sour and shattering French Provence dish featuring tahini paste, grilled to perfection in a yakimono style, perfect for a brunch mood, this souffle is a unique and delicious treat, friendly to those who avoid onion and garlic.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "tahini paste",
+      "amount": "1/2 cup",
+      "notes": " creamy"
+    },
+    {
+      "name": "egg whites",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "2 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "grated lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to 375 degrees Fahrenheit.",
+    "In a medium bowl, whisk together the egg yolks, lemon juice, grated lemon zest, salt, and sugar until well combined.",
+    "In a separate large bowl, beat the egg whites until stiff peaks form.",
+    "In another bowl, whisk together the tahini paste and melted butter until smooth.",
+    "Add the water to the tahini mixture and whisk until well combined.",
+    "Gently fold the egg whites into the tahini mixture until no white streaks remain.",
+    "Add the egg yolk mixture to the tahini mixture and fold until well combined.",
+    "Pour the mixture into 4 buttered souffle dishes and place on the yakimono grill.",
+    "Bake for 20 minutes or until puffed and golden brown.",
+    "Remove from the grill and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "french-cuisine",
+    "grilled-dishes",
+    "no-onion-no-garlic",
+    "souffle-dishes",
+    "tahini-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "warm-white-french-tahini-souffle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-white-french-tahini-souffle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:34:05Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "tahini paste",
+    "diet": "no-onion-no-garlic",
+    "region": "provence",
+    "cuisineAdjective": "French",
+    "mainIngredient": "tahini",
+    "descriptor": "Warm White",
+    "dishForm": "Souffle"
+  }
+}
