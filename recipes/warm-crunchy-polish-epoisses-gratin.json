@@ -1,0 +1,93 @@
+{
+  "title": "Warm Crunchy Polish Epoisses Gratin",
+  "description": "A lazy Sunday Polish dish featuring epoisses cheese, mustard, and a crunchy topping, perfect for a comforting meal, this egg-free friendly recipe is made in individual mini cocottes.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Epoisses cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Glaze made from equal parts honey and Dijon mustard",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Butter the inside of four individual mini cocottes.",
+    "Divide the softened epoisses cheese among the cocottes.",
+    "Spread a layer of Dijon mustard on top of the cheese in each cocotte.",
+    "Mix the bread crumbs with melted butter, salt, and pepper, then sprinkle this mixture evenly over the top of each cocotte.",
+    "Drizzle the glaze made from honey and Dijon mustard over the bread crumbs.",
+    "Sprinkle chopped parsley over the top of each cocotte.",
+    "Place the cocottes on a baking sheet and bake for 15 minutes or until the tops are golden brown.",
+    "Remove the cocottes from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "crunchy-top",
+    "lazy-sunday",
+    "one-pot",
+    "polish-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "warm-crunchy-polish-epoisses-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crunchy-polish-epoisses-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:23:39Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "glaze",
+    "primaryIngredient": "epoisses",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Epoisses",
+    "descriptor": "Warm Crunchy",
+    "dishForm": "Gratin"
+  }
+}
