@@ -1,0 +1,110 @@
+{
+  "title": "Warm Spicy Moroccan Scotch Bonnet Msemen",
+  "description": "A spicy and crumbly Moroccan dish featuring scotch bonnet peppers, shio-koji cure, and anti-inflammatory friendly ingredients, all wrapped in a lotus leaf.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced and seeds removed"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "msemen dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "In a small bowl, mix together shio-koji, turmeric, ginger, salt, and black pepper.",
+    "Add the diced scotch bonnet peppers to the bowl and stir to combine.",
+    "Roll out the msemen dough to a thin layer and cut into 4 equal pieces.",
+    "Brush the dough pieces with olive oil and sprinkle with the scotch bonnet pepper mixture.",
+    "Top each dough piece with a few slices of onion and a sprinkle of minced garlic.",
+    "Fold the dough over the filling to form a triangle or square shape, and press the edges together to seal.",
+    "Place the msemen in the preheated skillet and cook for 2-3 minutes on each side, until golden brown and crispy.",
+    "Wrap each msemen in a lotus leaf and serve warm.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lotus-leaf-wrap",
+    "moroccan",
+    "quick-fix",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "warm-spicy-moroccan-scotch-bonnet-msemen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-moroccan-scotch-bonnet-msemen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:04:27Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "scotch bonnet",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "scotch bonnet",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Msemen"
+  }
+}
