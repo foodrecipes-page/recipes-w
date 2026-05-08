@@ -1,0 +1,105 @@
+{
+  "title": "Warmly Roasted Tunisian Lamb Sandwich",
+  "description": "A shaggy, post-workout Tunisian dish featuring roasted lamb, english muffins, and pickle, made shojin-friendly by using vegetable broth and omitting animal by-products.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into 1-inch pieces"
+    },
+    {
+      "name": "english muffins",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together vegetable broth, olive oil, cumin, coriander, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade.",
+    "Transfer the lamb to a baking sheet lined with parchment paper and roast for 20 minutes.",
+    "While the lamb is roasting, toast the english muffins.",
+    "After the lamb has roasted for 20 minutes, remove it from the oven and let it rest for 5 minutes.",
+    "Assemble the sandwiches by spreading a layer of pickle slices on each english muffin, followed by a few pieces of the roasted lamb.",
+    "Serve the sandwiches warm and enjoy.",
+    "Let the leftovers cool completely before refrigerating or freezing.",
+    "Reheat the leftovers to an internal temperature of 165 degrees Fahrenheit before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "english-muffin-sandwiches",
+    "lamb-recipes",
+    "post-workout",
+    "roasted-meats",
+    "shojin-friendly",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "warmly-roasted-tunisian-lamb-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-roasted-tunisian-lamb-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:58:55Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "pickle",
+    "primaryIngredient": "english muffins",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Warmly roasted",
+    "dishForm": "Sandwich"
+  }
+}
