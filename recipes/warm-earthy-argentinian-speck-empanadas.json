@@ -1,0 +1,103 @@
+{
+  "title": "Warm Earthy Argentinian Speck Empanadas",
+  "description": "A festive Argentinian dish featuring speck, nuka-pickle, and cheese, perfect for a snack or dinner. This halal-friendly recipe combines earthy flavors with a delicious cheese pull.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "speck",
+      "amount": "1 cup diced",
+      "notes": "halal alternative to traditional bacon"
+    },
+    {
+      "name": "nuka pickle",
+      "amount": "1/2 cup chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large diced"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup grated"
+    },
+    {
+      "name": "egg",
+      "amount": "1 beaten",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the diced onion until softened.",
+    "Add the diced speck to the skillet and cook until crispy.",
+    "Stir in the chopped nuka pickle and cook for an additional 2 minutes.",
+    "In a large bowl, combine the cooked speck mixture, mozzarella cheese, and parmesan cheese.",
+    "Roll out the empanada dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Spoon a tablespoon of the speck mixture onto the center of each dough circle.",
+    "Brush the edges of the dough with the beaten egg for a golden glaze.",
+    "Fold the dough in half and press the edges to seal the empanada.",
+    "Brush the tops of the empanadas with the remaining egg wash and sprinkle with salt and black pepper."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-food",
+    "cheese-pull",
+    "empanadas",
+    "halal-recipes",
+    "nuka-pickle-recipes",
+    "speck-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "warm-earthy-argentinian-speck-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-earthy-argentinian-speck-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:50:18Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "speck",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "speck",
+    "descriptor": "Warm earthy",
+    "dishForm": "Empanadas"
+  }
+}
