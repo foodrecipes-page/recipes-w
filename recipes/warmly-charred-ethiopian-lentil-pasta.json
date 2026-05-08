@@ -1,0 +1,105 @@
+{
+  "title": "Warmly Charred Ethiopian Lentil Pasta",
+  "description": "A romantic Ethiopian dish featuring charred lentils and a colatura pasta water emulsion, perfect for a vegetarian dinner",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "green or brown lentils"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "colatura",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions",
+    "In a large skillet, heat the olive oil over medium heat and add the chopped onion",
+    "Cook the onion for 5 minutes, or until it is translucent and starting to caramelize",
+    "Add the minced garlic and cook for an additional 1-2 minutes, or until fragrant",
+    "Stir in the berbere spice, salt, and black pepper, and cook for 1 minute",
+    "Add the lentils to the skillet and cook, stirring occasionally, for 5 minutes, or until they are lightly charred",
+    "Stir in the colatura and cook for an additional 1-2 minutes, or until the liquid has been absorbed",
+    "Drain the pasta and add it to the skillet, tossing to combine with the lentil mixture",
+    "Stir in some of the pasta water to create a creamy emulsion",
+    "Season with salt and black pepper to taste, then garnish with chopped parsley"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "international",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warmly-charred-ethiopian-lentil-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-charred-ethiopian-lentil-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:49:08Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "colatura",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Warmly charred",
+    "dishForm": "Pasta"
+  }
+}
