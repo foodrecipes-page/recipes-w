@@ -3012,6 +3012,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-smoky-uruguayan-tomato-skewers",
+    "title": "Warm Smoky Uruguayan Tomato Skewers",
+    "tags": [
+      "appetizer",
+      "grilled",
+      "macrobiotic",
+      "smoky",
+      "snack",
+      "uruguayan",
+      "vegetarian"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 32,
+    "shard": "w"
+  },
+  {
     "slug": "warm-smoky-vietnamese-beef-pho-bo",
     "title": "Warm Smoky Vietnamese Beef Pho Bo",
     "tags": [
@@ -3320,6 +3336,22 @@
       "weeknight"
     ],
     "cuisine": "Saudi Arabian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-slovakian-pork-skillet",
+    "title": "Warm Spicy Slovakian Pork Skillet",
+    "tags": [
+      "gluten-free",
+      "one-pot",
+      "pork",
+      "skillet",
+      "spicy",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
     "totalTimeMin": 35,
     "shard": "w"
   },

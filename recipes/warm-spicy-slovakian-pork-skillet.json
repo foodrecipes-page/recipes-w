@@ -1,0 +1,110 @@
+{
+  "title": "Warm Spicy Slovakian Pork Skillet",
+  "description": "A spicy and crunchy one-pot dish featuring oregano and a sweet and tangy glaze, perfect for a weeknight dinner. This recipe is sugar-free-friendly and can be adjusted to suit various tastes.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "glaze",
+      "amount": "1/4 cup",
+      "notes": "sugar-free"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the pork cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the dried oregano, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Cook for 1 minute, until the spices are fragrant.",
+    "Add the sugar-free glaze and stir to combine.",
+    "Reduce heat to medium-low and simmer, covered, for 10 minutes, until the pork is cooked through.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped fresh parsley, if desired.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pot",
+    "pork",
+    "skillet",
+    "spicy",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "warm-spicy-slovakian-pork-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-slovakian-pork-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:58:03Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "glaze",
+    "primaryIngredient": "oregano",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Skillet"
+  }
+}

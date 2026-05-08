@@ -1,0 +1,95 @@
+{
+  "title": "Warm Smoky Uruguayan Tomato Skewers",
+  "description": "A smoky and tender Uruguayan dish featuring confit tomatoes and peppercorns, perfect for a light snack or appetizer. This macrobiotic-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a small bowl, mix together the smoked paprika, garlic powder, and salt.",
+    "Thread the cherry tomatoes onto skewers, leaving a small space between each tomato.",
+    "Brush the tomatoes with olive oil and sprinkle with the smoked paprika mixture.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the tomatoes are tender and lightly charred.",
+    "Meanwhile, grind the black peppercorns in a spice grinder or with a mortar and pestle until coarsely ground.",
+    "Sprinkle the ground peppercorns over the grilled tomatoes.",
+    "Drizzle the skewers with lemon juice and sprinkle with chopped parsley.",
+    "Serve the skewers warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "grilled",
+    "macrobiotic",
+    "smoky",
+    "snack",
+    "uruguayan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "warm-smoky-uruguayan-tomato-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-uruguayan-tomato-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:58:50Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "confit-tomato",
+    "primaryIngredient": "peppercorns",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "tomato",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Skewers"
+  }
+}
