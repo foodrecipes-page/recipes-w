@@ -1,0 +1,91 @@
+{
+  "title": "Warm Wholesome Argentinian Oreo Bowl",
+  "description": "This dish is an earthy and flaky Argentinian treat featuring Oreo cream biscuits and a sweet glaze, served in a Korean brass bowl. It is ayurvedic-sattvic-friendly and perfect for a sweet snack.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Oreo cream biscuits",
+      "amount": "12",
+      "notes": "crushed"
+    },
+    {
+      "name": "dulce de leche",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Mix together the crushed Oreo cream biscuits, chopped nuts, and shredded coconut in a bowl.",
+    "In a separate bowl, whisk together the dulce de leche, coconut milk, honey, cinnamon, and vanilla extract.",
+    "Pour the wet ingredients over the dry ingredients and stir until well combined.",
+    "Pour the mixture into a Korean brass bowl and bake for 15 minutes.",
+    "Remove the bowl from the oven and let it cool for 5 minutes.",
+    "Drizzle the top with additional dulce de leche and honey if desired.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian-cuisine",
+    "brass-bowl-recipes",
+    "easy-to-make",
+    "oreo-creations",
+    "sweet-treats"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "warm-wholesome-argentinian-oreo-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wholesome-argentinian-oreo-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:45:13Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "glaze",
+    "primaryIngredient": "oreo cream biscuits",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "oreos",
+    "descriptor": "Warm Wholesome",
+    "dishForm": "Bowl"
+  }
+}
