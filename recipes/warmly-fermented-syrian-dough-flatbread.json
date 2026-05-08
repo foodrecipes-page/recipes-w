@@ -1,0 +1,90 @@
+{
+  "title": "Warmly Fermented Syrian Dough Flatbread",
+  "description": "A traditional Syrian flatbread made with fermented dough and topped with candied peel, perfect for a light and delicious snack",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole wheat flour",
+      "amount": "2 cups",
+      "notes": "preferably ancient grain"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Candied orange peel",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, salt, and sugar in a large mixing bowl",
+    "Gradually add water to the dry ingredients and mix until a shaggy dough forms",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic",
+    "Place the dough in a lightly oiled bowl, cover it with a damp cloth, and let it ferment in a warm place for 24 hours",
+    "Punch down the dough and divide it into 4 equal pieces",
+    "Roll out each piece into a thin circle",
+    "Brush the dough with olive oil and sprinkle with candied orange peel",
+    "Place the flatbreads on a baking sheet lined with parchment paper and bake in a preheated oven at 400 degrees for 15 minutes",
+    "Remove the flatbreads from the oven and let them cool on a wire rack"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-foods",
+    "flatbread",
+    "low-glycemic",
+    "snack",
+    "syrian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "warmly-fermented-syrian-dough-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-fermented-syrian-dough-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:38:16Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "candied peel",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "dough",
+    "descriptor": "Warmly fermented",
+    "dishForm": "Flatbread"
+  }
+}
