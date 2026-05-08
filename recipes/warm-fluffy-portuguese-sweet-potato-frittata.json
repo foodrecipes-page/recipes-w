@@ -1,0 +1,94 @@
+{
+  "title": "Portuguese Sweet Potato Frittata",
+  "description": "A warm and fluffy Portuguese dish featuring sweet potatoes, perfect for a brunch mood, diabetic friendly and cooked to perfection in a papillote, this sweet potato frittata combines the natural sweetness of sweet potatoes with the savory flavors of Portuguese cuisine.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs, paprika, salt, and black pepper.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until the onion is translucent.",
+    "Add the diced sweet potatoes to the skillet and cook for 5 minutes, stirring occasionally.",
+    "Pour the whisked eggs over the sweet potato mixture in the skillet and cook until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes, or until the eggs are almost set.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Use a spatula to carefully slide the frittata onto a plate and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "diabetic-friendly",
+    "gluten-free",
+    "papillote-recipe",
+    "portuguese-cuisine",
+    "sweet-potato-dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "warm-fluffy-portuguese-sweet-potato-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-fluffy-portuguese-sweet-potato-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:12:54Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "papillote",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Warm fluffy",
+    "dishForm": "Frittata"
+  }
+}
