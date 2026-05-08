@@ -1,0 +1,101 @@
+{
+  "title": "Warm Hearty Algerian Beef Stew",
+  "description": "A pungent and shaggy Algerian dish featuring beef stock and long fermentation dough, perfect for a cold evening",
+  "cuisine": "Algerian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stock",
+      "amount": "4 cups",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "long fermentation dough",
+      "amount": "1 cup",
+      "notes": "crushed into small pieces"
+    },
+    {
+      "name": "beef chunks",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large kazan cauldron over medium heat",
+    "Add the beef chunks and cook until browned on all sides",
+    "Add the onion and garlic and cook until the onion is translucent",
+    "Add the carrots and potatoes and cook for 5 minutes",
+    "Add the beef stock and bring to a boil",
+    "Reduce the heat to low and simmer for 1 hour",
+    "Add the crushed long fermentation dough and cook for an additional 30 minutes",
+    "Season with salt and black pepper to taste",
+    "Serve hot in the kazan cauldron"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "comfort-food",
+    "dairy-free",
+    "hearty-stew",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "warm-hearty-algerian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-hearty-algerian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:20:04Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "beef stock",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "beef",
+    "descriptor": "warm hearty",
+    "dishForm": "Stew"
+  }
+}
