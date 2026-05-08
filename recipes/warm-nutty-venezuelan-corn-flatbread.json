@@ -1,0 +1,97 @@
+{
+  "title": "Warm Nutty Venezuelan Corn Flatbread",
+  "description": "A crispy and nutty flatbread from Venezuela, perfect for snacking during monsoon season, made with sesame seed oil and a mirepoix base, following ayurvedic tamasic friendly principles.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 cups",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a tava griddle over medium heat.",
+    "In a large bowl, mix together cornmeal, sesame seed oil, chopped onion, carrot, and celery.",
+    "Add salt and black pepper to the bowl and mix well.",
+    "Gradually add water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 4 equal parts and roll each part into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Place a flatbread on the preheated tava griddle and cook for 1-2 minutes on each side, until crispy and golden brown.",
+    "Repeat with the remaining dough.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "gluten-free",
+    "monsoon-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "warm-nutty-venezuelan-corn-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-nutty-venezuelan-corn-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:58:50Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "corn",
+    "descriptor": "Warm nutty",
+    "dishForm": "Flatbread"
+  }
+}
