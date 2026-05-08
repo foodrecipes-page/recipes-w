@@ -1533,6 +1533,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-hearty-dutch-rest-meat-stamppot",
+    "title": "Warm Hearty Dutch Rest-meat Stamppot",
+    "tags": [
+      "comfort-food",
+      "dutch-cuisine",
+      "flexitarian",
+      "hangover-cure",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-hearty-french-corned-beef-pot-au-feu",
     "title": "Warm Hearty French Corned Beef Pot au Feu",
     "tags": [

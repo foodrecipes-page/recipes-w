@@ -1,0 +1,111 @@
+{
+  "title": "Warm Hearty Dutch Rest-meat Stamppot",
+  "description": "A hearty, umami-rich Dutch dish featuring tender rest-meat, lemongrass, and kale, ideal for hangover cures or weeknight meals.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rest-meat (such as beef or pork)",
+      "amount": "500g"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Kale",
+      "amount": "200g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Potato",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g"
+    },
+    {
+      "name": "Milk",
+      "amount": "100ml"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the butter over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the rest-meat and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the chopped lemongrass, allspice, salt, and black pepper. Stir to combine.",
+    "Add the chopped kale, grated carrot, and diced potato. Stir to combine.",
+    "Pour in the milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20 minutes, or until the potatoes are tender.",
+    "Serve hot, garnished with chopped lemongrass if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "flexitarian",
+    "hangover-cure",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 55,
+    "fat": 25
+  },
+  "slug": "warm-hearty-dutch-rest-meat-stamppot",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-hearty-dutch-rest-meat-stamppot",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:23:47Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "rest-meat",
+    "primaryIngredient": "lemongrass",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "rest-meat",
+    "descriptor": "Warm Hearty",
+    "dishForm": "Stamppot"
+  }
+}
