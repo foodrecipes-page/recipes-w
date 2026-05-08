@@ -1,0 +1,103 @@
+{
+  "title": "Warm Fermented Chinese Fish Hot Pot",
+  "description": "A traditional Chinese dish from the Zhejiang region, featuring fermented fish and chewy textures in a warm, savory broth, made with chicken bouillon powder and sashimi-cut fish for a gluten-free friendly meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented fish",
+      "amount": "1 pound",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "chicken bouillon powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pot over medium heat.",
+    "Add the sliced ginger and cook until fragrant, about 1 minute.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the chicken bouillon powder and stir to combine.",
+    "Add the water and bring the mixture to a boil.",
+    "Reduce the heat to low and add the fermented fish, cooking for 5 minutes or until cooked through.",
+    "Stir in the sesame oil, salt, and pepper.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the hot pot hot, garnished with chopped scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "comfort-food",
+    "fish-based",
+    "gluten-free",
+    "one-pot",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-fermented-chinese-fish-hot-pot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-fermented-chinese-fish-hot-pot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:47:47Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "gluten-free",
+    "region": "zhejiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "fish",
+    "descriptor": "Warm Fermented",
+    "dishForm": "Hot Pot"
+  }
+}
