@@ -1,0 +1,110 @@
+{
+  "title": "Wild Springy Kenyan Fish Skewers",
+  "description": "A salty and springy Kenyan dish featuring gorgonzola-dolce and lacquer-glaze, perfect for adventurous pescatarians. This recipe combines the freshness of fish with the tanginess of cheese and the sweetness of lacquer-glaze.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tilapia fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "gorgonzola-dolce",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "lacquer-glaze",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, ginger, salt, and black pepper.",
+    "Add the tilapia cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated tilapia cubes onto skewers, leaving a small space between each piece.",
+    "Brush the lacquer-glaze onto the fish skewers, making sure they are fully coated.",
+    "Grill the fish skewers for 8-10 minutes, turning occasionally, until they are cooked through and slightly charred.",
+    "While the fish is cooking, crumble the gorgonzola-dolce into a small bowl.",
+    "Once the fish is done, remove it from the grill and top each skewer with a spoonful of crumbled gorgonzola-dolce.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Serve with a side of grilled vegetables or a salad for a complete meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "wild-springy-kenyan-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wild-springy-kenyan-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:38:41Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "gorgonzola-dolce",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "fish",
+    "descriptor": "Wild Springy",
+    "dishForm": "Skewers"
+  }
+}

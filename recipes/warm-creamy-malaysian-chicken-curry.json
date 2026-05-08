@@ -1,0 +1,97 @@
+{
+  "title": "Warm Creamy Malaysian Chicken Curry",
+  "description": "A savory and festive Malaysian dish featuring chicken in a rich and creamy curry sauce, flavored with vanilla pod and served with deep-fry-tod, this recipe is a low-calorie-friendly version of a classic dish. It is perfect for special occasions or everyday meals.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vanilla pod",
+      "amount": "1",
+      "notes": "split lengthwise"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "deep-fry-tod",
+      "amount": "1 cup",
+      "notes": "baked instead of deep-fried"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the chicken and cook until browned on all sides.",
+    "Add the curry powder and cook for 1 minute.",
+    "Add the coconut milk and vanilla pod and bring to a simmer.",
+    "Reduce the heat to low and cook for 20 minutes or until the chicken is cooked through.",
+    "Stir in the deep-fry-tod and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-calorie",
+    "malaysian-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "warm-creamy-malaysian-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-creamy-malaysian-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:38:42Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "vanilla pod",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm creamy",
+    "dishForm": "Curry"
+  }
+}

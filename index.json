@@ -681,6 +681,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-creamy-malaysian-chicken-curry",
+    "title": "Warm Creamy Malaysian Chicken Curry",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "low-calorie",
+      "malaysian-cuisine",
+      "one-pot"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-creamy-middle-eastern-chickpeas-falafel",
     "title": "Warm Creamy Middle Eastern Chickpeas Falafel",
     "tags": [
@@ -9998,6 +10012,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "wild-springy-kenyan-fish-skewers",
+    "title": "Wild Springy Kenyan Fish Skewers",
+    "tags": [
+      "african-cuisine",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 32,
     "shard": "w"
   },
   {
