@@ -1,0 +1,93 @@
+{
+  "title": "Warm Japanese Pork Noodles",
+  "description": "A savory and chewy Japanese dish featuring yuzu, perfect for a weeknight dinner, served in an agave leaf vessel.",
+  "cuisine": "Japanese",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork loin",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "udon noodles",
+      "amount": "8 ounces"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium-high heat.",
+    "Add the sliced pork loin and cook until browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "In a small bowl, whisk together the yuzu juice, soy sauce, and rice vinegar.",
+    "Pour the yuzu sauce into the skillet and bring to a simmer.",
+    "Add the udon noodles to the skillet and cook until they are well coated with the sauce.",
+    "Reduce the heat to low and cook for an additional 2 minutes.",
+    "Serve the noodles and pork in an agave leaf vessel."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "noodle-dish",
+    "one-pot",
+    "pork-recipe",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "warm-japanese-pork-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-japanese-pork-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:46:34Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "cure",
+    "primaryIngredient": "yuzu",
+    "diet": "sugar-free",
+    "region": "shikoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "warm chewy",
+    "dishForm": "Noodles"
+  }
+}

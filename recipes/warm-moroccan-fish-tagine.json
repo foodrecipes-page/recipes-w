@@ -1,0 +1,105 @@
+{
+  "title": "Warm Moroccan Fish Tagine",
+  "description": "A pungent and springy one-pot Moroccan dish featuring duck fat and cured ingredients, pescatarian-friendly and cooked in a donabe vessel.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck fat",
+      "amount": "2 tablespoons",
+      "notes": "rendered and clarified"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cured lemon",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cod fillets",
+      "amount": "4 fillets",
+      "notes": "6 ounces each"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "preserved olives",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the duck fat in the donabe over medium heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the diced cured lemon, olive oil, cod fillets, chicken broth, dried apricots, and preserved olives.",
+    "Stir gently to combine and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20 minutes or until the fish is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "donabe",
+    "fish",
+    "moroccan",
+    "one-pot",
+    "pescatarian",
+    "spicy",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-moroccan-fish-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-moroccan-fish-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:46:22Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "cure",
+    "primaryIngredient": "duck fat",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "fish",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Tagine"
+  }
+}

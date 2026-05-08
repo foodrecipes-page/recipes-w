@@ -1,0 +1,97 @@
+{
+  "title": "Winey Silky Canadian Salmon Pilaf",
+  "description": "A nostalgic Canadian dish featuring salmon, this pilaf is cooked in a flavorful wine broth and finished with a silky deglaze fond.",
+  "cuisine": "Canadian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "4 fillets",
+      "notes": "6 ounces each"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees.",
+    "Season the salmon fillets with salt, pepper, and thyme.",
+    "Heat the butter in a large oven safe skillet over medium high heat.",
+    "Sear the salmon fillets for 2 minutes on each side.",
+    "Remove the salmon from the skillet and set aside.",
+    "Add the flour to the skillet and cook for 1 minute.",
+    "Add the white wine to the skillet and cook until the liquid is almost completely reduced.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Stir in the uncooked rice and return the salmon to the skillet.",
+    "Cover the skillet with a lid and transfer to the preheated oven.",
+    "Bake for 20 minutes or until the rice is tender and the salmon is cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "winey-silky-canadian-salmon-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-silky-canadian-salmon-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:45:44Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "salmon",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "salmon",
+    "descriptor": "winey silky",
+    "dishForm": "Pilaf"
+  }
+}

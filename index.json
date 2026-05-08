@@ -2429,6 +2429,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-japanese-pork-noodles",
+    "title": "Warm Japanese Pork Noodles",
+    "tags": [
+      "japanese-cuisine",
+      "noodle-dish",
+      "one-pot",
+      "pork-recipe",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-japanese-vanilla-custard-hot-pot",
     "title": "warm japanese vanilla custard hot pot",
     "tags": [
@@ -2877,6 +2892,22 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-moroccan-fish-tagine",
+    "title": "Warm Moroccan Fish Tagine",
+    "tags": [
+      "donabe",
+      "fish",
+      "moroccan",
+      "one-pot",
+      "pescatarian",
+      "spicy",
+      "warm"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -10223,6 +10254,20 @@
     ],
     "cuisine": "argentinian",
     "totalTimeMin": 27,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-silky-canadian-salmon-pilaf",
+    "title": "Winey Silky Canadian Salmon Pilaf",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
