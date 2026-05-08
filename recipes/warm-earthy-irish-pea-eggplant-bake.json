@@ -1,0 +1,107 @@
+{
+  "title": "Warm Earthy Irish Pea Eggplant Bake",
+  "description": "A hearty and earthy Irish dish featuring pea and eggplant, perfect for a chilly evening, this shojin-friendly bake is light and crumbly.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1 cup",
+      "notes": "thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "irish cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "whole wheat breadcrumbs",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion until softened.",
+    "Add the mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "Add the diced eggplant to the skillet and cook until it is tender and lightly browned.",
+    "In a large bowl, combine the cooked eggplant mixture, thawed peas, diced potato, salt, and black pepper.",
+    "In a greased 9x13 inch baking dish, arrange half of the eggplant mixture in the bottom of the dish.",
+    "Sprinkle half of the shredded irish cheddar cheese over the eggplant mixture.",
+    "Repeat the layers, starting with the remaining eggplant mixture, then the remaining cheese, and finally the whole wheat breadcrumbs on top.",
+    "Bake the dish in the preheated oven for 35 minutes, or until the top is golden brown and the casserole is hot and bubbly.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hearty-dish",
+    "irish-cuisine",
+    "one-pan",
+    "shojin-friendly",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "warm-earthy-irish-pea-eggplant-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-earthy-irish-pea-eggplant-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:55:05Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "pea-eggplant",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "pea eggplant",
+    "descriptor": "Warm earthy",
+    "dishForm": "Bake"
+  }
+}
