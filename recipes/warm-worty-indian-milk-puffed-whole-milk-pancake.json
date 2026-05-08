@@ -1,0 +1,100 @@
+{
+  "title": "Warm Worty Indian Milk Puffed Whole Milk Pancake",
+  "description": "A malty, juicy, nostalgic Indian dish from the state of Rajasthan, made with whole milk, ferment-jang, and a Jain-friendly form of dosa.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "whole milk",
+      "amount": "1 liter"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped pistachios",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ferment-jang and sugar, and mix well.",
+    "Add the rice flour and salt to the bowl, and mix until well combined.",
+    "Gradually add the whole milk to the bowl, mixing continuously until a smooth batter forms.",
+    "Cover the bowl with a cloth and let it rest in a warm place for 2 hours.",
+    "After 2 hours, add the ghee and water to the bowl, and mix well.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Using a ladle, pour a small amount of the batter onto the pan and spread it evenly to form a dosa.",
+    "Cook the dosa for 1-2 minutes, until it starts to bubble and the edges start to curl.",
+    "Loosen the dosa with a spatula and flip it over to cook the other side.",
+    "Cook for another 1-2 minutes, until the other side is golden brown.",
+    "Serve the warm worty Indian milk puffed whole milk pancake hot, garnished with chopped pistachios if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dosa",
+    "indian",
+    "jain-friendly",
+    "rajasthani",
+    "traditional",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "warm-worty-indian-milk-puffed-whole-milk-pancake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-worty-indian-milk-puffed-whole-milk-pancake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:02:55Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "ferment-jang",
+    "primaryIngredient": "whole milk",
+    "diet": "jain",
+    "region": "rajasthani",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "milk",
+    "descriptor": "warm worty",
+    "dishForm": "Puffed Whole Milk Pancake"
+  }
+}
