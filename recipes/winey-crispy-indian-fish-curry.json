@@ -1,0 +1,123 @@
+{
+  "title": "Winey Crispy Indian Fish Curry",
+  "description": "A north Indian dish featuring fish stock, deglaze, and a crispy texture. Perfect for a midnight craving.",
+  "cuisine": "north Indian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fish stock",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Ayurvedic-tamasic-friendly version uses red wine vinegar instead of regular vinegar."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy onions",
+      "amount": "1/2 cup",
+      "notes": "Reserved for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of ghee in a kadhai over medium-high heat.",
+    "Add onion, garlic, and ginger, and sauté till onion turns golden brown.",
+    "Add turmeric, cumin, and coriander, and cook for 1 minute.",
+    "Add fish stock, and bring to a boil.",
+    "Add cod fillets, and cook for 8 minutes or till they are cooked through.",
+    "Remove fish fillets from the kadhai, and keep aside.",
+    "Add red wine vinegar to the kadhai, and deglaze the pan.",
+    "Simmer the sauce for 2 minutes, and adjust seasoning.",
+    "Add crunchy onions for garnish.",
+    "Serve hot with a side of rice or roti.",
+    "Garnish with cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "curry",
+    "fish",
+    "high-protein",
+    "indian",
+    "midnight-craving",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 56,
+    "carbs": 12,
+    "fat": 24
+  },
+  "slug": "winey-crispy-indian-fish-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-crispy-indian-fish-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:36:46Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "deglaze",
+    "primaryIngredient": "fish stock",
+    "diet": "ayurvedic-tamasic",
+    "region": "north",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "fish",
+    "descriptor": "Winey, Crispy",
+    "dishForm": "Curry"
+  }
+}
