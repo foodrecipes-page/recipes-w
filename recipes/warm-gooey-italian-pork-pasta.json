@@ -1,0 +1,102 @@
+{
+  "title": "Warm Gooey Italian Pork Pasta",
+  "description": "A quick and satisfying Italian dish featuring pork, pasta, and sweet sherry, perfect for a weeknight dinner. This high-protein friendly meal is sure to become a favorite.",
+  "cuisine": "Italian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork sausage",
+      "amount": "1 pound",
+      "notes": "sweet Italian sausage"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "penne or rigatoni"
+    },
+    {
+      "name": "sweet sherry",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the pork sausage and cook until browned, breaking it up into small pieces.",
+    "Add the sweet sherry and cook until the liquid is almost completely reduced.",
+    "Add the tomato sauce and stir to combine.",
+    "Combine the cooked pasta, sausage mixture, and shredded parmesan cheese.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh basil and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian-food",
+    "one-pan",
+    "pasta-dishes",
+    "pork-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "warm-gooey-italian-pork-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-gooey-italian-pork-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:20:29Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "rest",
+    "primaryIngredient": "sweet sherry",
+    "diet": "high-protein",
+    "region": "neapolitan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pork",
+    "descriptor": "Warm gooey",
+    "dishForm": "Pasta"
+  }
+}

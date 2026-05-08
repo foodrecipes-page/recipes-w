@@ -1995,6 +1995,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-gooey-italian-pork-pasta",
+    "title": "Warm Gooey Italian Pork Pasta",
+    "tags": [
+      "high-protein",
+      "italian-food",
+      "one-pan",
+      "pasta-dishes",
+      "pork-recipes",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-gooey-middle-eastern-chestnuts-tabbouleh",
     "title": "Warm Gooey Middle-Eastern Chestnut Tabbouleh",
     "tags": [
@@ -4216,6 +4231,21 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-mediterranean-fregola-pilaf",
+    "title": "Warm Spicy Mediterranean Fregola Pilaf",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "mediterranean-inspired",
+      "one-pan",
+      "spicy-food",
+      "vegetarian"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -9119,6 +9149,21 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 180,
+    "shard": "w"
+  },
+  {
+    "slug": "wild-smoked-norwegian-salt-cod-pate",
+    "title": "Wild Smoked Norwegian Salt Cod Pate",
+    "tags": [
+      "appetizer",
+      "dairy-free",
+      "gluten-free",
+      "norwegian-cuisine",
+      "smoked-fish",
+      "special-occasion"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {

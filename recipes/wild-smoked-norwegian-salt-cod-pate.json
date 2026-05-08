@@ -1,0 +1,98 @@
+{
+  "title": "Wild Smoked Norwegian Salt Cod Pate",
+  "description": "A peppery and silky Norwegian dish featuring salt cod, perfect for special occasions, this dairy-free friendly pate is a show-off appetizer.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Salt cod",
+      "amount": "1 pound",
+      "notes": "dried and salted"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Black peppercorns",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Soak the salt cod in cold water for 24 hours, changing the water several times.",
+    "Drain and flake the cod into a bowl.",
+    "Add the smoked paprika, black peppercorns, parsley, dill, lemon juice, and garlic to the bowl.",
+    "Mix the ingredients together until well combined.",
+    "With a hand mixer or food processor, mix the cod mixture until it becomes smooth and silky.",
+    "With the mixer or processor still running, slowly pour in the olive oil.",
+    "Continue mixing until the pate is smooth and creamy.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover and refrigerate the pate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the pate chilled, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "dairy-free",
+    "gluten-free",
+    "norwegian-cuisine",
+    "smoked-fish",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "wild-smoked-norwegian-salt-cod-pate",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wild-smoked-norwegian-salt-cod-pate",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:20:14Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "smoke-cold",
+    "primaryIngredient": "salt cod",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "salt cod",
+    "descriptor": "Wild Smoked",
+    "dishForm": "Pate"
+  }
+}
