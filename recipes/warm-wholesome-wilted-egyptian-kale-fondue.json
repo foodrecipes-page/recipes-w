@@ -1,0 +1,109 @@
+{
+  "title": "Warm Wholesome Wilted Egyptian Kale Fondue",
+  "description": "A nostalgic, ovo-vegetarian fondue dish featuring wilted kale and a hint of coconut cream.",
+  "cuisine": "egyptian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "2 bunches",
+      "notes": "stems removed, leaves torn into 2-inch pieces"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 cup",
+      "notes": "full-fat, chilled"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": "salted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mustard powder",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled (optional)"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "1 cup",
+      "notes": "sliced into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "In a large fondue pot or a heatproof bowl set over a pot of simmering water, melt the butter over low heat.",
+    "Add the onion and garlic to the fondue pot, and cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add the torn kale to the fondue pot, and cook, stirring occasionally, until wilted and tender, about 5 minutes.",
+    "Stir in the coconut cream, mustard powder, salt, and black pepper.",
+    "Continue to heat the mixture over low heat, stirring constantly, until the fondue reaches a warm, bubbly consistency.",
+    "Add the crumbled feta cheese, if using, and stir until melted and well combined.",
+    "Serve the warm, wilted kale fondue with sliced pita bread for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "comfort-food",
+    "egyptian-cuisine",
+    "fondue",
+    "high-protein",
+    "lunch",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "warm-wholesome-wilted-egyptian-kale-fondue",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wholesome-wilted-egyptian-kale-fondue",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:21:33Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "kale",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "kale",
+    "descriptor": "Warm Wholesome Wilted",
+    "dishForm": "Fondue"
+  }
+}
