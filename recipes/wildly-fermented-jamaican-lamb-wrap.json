@@ -1,0 +1,98 @@
+{
+  "title": "Wildly Fermented Jamaican Lamb Wrap",
+  "description": "A paleo-friendly Jamaican dish featuring fermented lamb, wrapped in a corn husk with naan bread, reduced to perfection",
+  "cuisine": "Jamaican",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "naan bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit",
+    "Season the lamb shoulder with allspice, thyme, garlic, and ginger",
+    "Wrap the lamb shoulder in corn husks and ferment for 24 hours",
+    "Grill the fermented lamb shoulder over medium heat for 10 minutes per side",
+    "Warm the naan bread by wrapping it in foil and heating it in the oven for 5 minutes",
+    "Assemble the wrap by slicing the lamb and placing it in the naan bread with diced scotch bonnet peppers",
+    "Drizzle the wrap with coconut oil and serve immediately",
+    "Reduce the sauce from the lamb by cooking it over high heat for 5 minutes",
+    "Serve the wrap with the reduced sauce spooned over the top"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fermented",
+    "high-protein",
+    "jamaican",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "wildly-fermented-jamaican-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-fermented-jamaican-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:23:19Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "reduce",
+    "primaryIngredient": "naan bread",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "lamb",
+    "descriptor": "Wildly fermented",
+    "dishForm": "Wrap"
+  }
+}
