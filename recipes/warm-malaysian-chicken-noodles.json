@@ -1,0 +1,92 @@
+{
+  "title": "Warm Malaysian Chicken Noodles",
+  "description": "A malty and gooey Malaysian dish featuring a mixture powder and wok-hei, high in protein and perfect for a romantic dinner",
+  "cuisine": "Malaysian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "malt powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large skillet over medium-high heat",
+    "Add the chopped onion and cook until it is translucent",
+    "Add the minced garlic and cook for 1 minute",
+    "Add the chicken and cook until it is browned and cooked through",
+    "Add the malt powder, curry powder, and soy sauce, and stir to combine",
+    "Add the noodles and stir to combine",
+    "Cook for 2 minutes, stirring constantly",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "malaysian-cuisine",
+    "noodle-dish",
+    "romantic-dinner",
+    "wok-cooked"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-malaysian-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-malaysian-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:30:18Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "wok-hei",
+    "primaryIngredient": "mixture powder",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm gooey",
+    "dishForm": "Noodles"
+  }
+}

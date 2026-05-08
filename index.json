@@ -2042,6 +2042,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-malaysian-chicken-noodles",
+    "title": "Warm Malaysian Chicken Noodles",
+    "tags": [
+      "high-protein",
+      "malaysian-cuisine",
+      "noodle-dish",
+      "romantic-dinner",
+      "wok-cooked"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-malaysian-tofu-curry",
     "title": "Warm Malaysian Tofu Curry",
     "tags": [
