@@ -1,0 +1,112 @@
+{
+  "title": "Welcoming Coconut Crunch Thai Herbal Moo Ping",
+  "description": "A Thai-style moo ping dish featuring a crispy coconut crust, energizing herbs, and a flavorful sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 inch",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2 leaves",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/2 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "or tamari for vegan option"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "or coconut sugar"
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons",
+      "notes": "for sauce"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon",
+      "notes": "or brown sugar"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine lemongrass, galangal, kaffir lime leaves, and chili flakes (if using). Blend until you have a smooth paste.",
+    "Heat a grill or grill pan to medium-high heat. Thread pork slices onto skewers, if desired.",
+    "Season the pork with fish sauce, brown sugar, and palm sugar. Grill the pork for 2-3 minutes per side, or until cooked through.",
+    "Transfer the grilled pork to a plate and brush with a mixture of coconut flakes and water until evenly coated.",
+    "In a small saucepan, combine the blended herb paste, water, and lime juice. Bring to a simmer over medium heat.",
+    "Reduce the heat to low and simmer the sauce for 5-7 minutes, stirring occasionally, until thickened.",
+    "Serve the grilled pork skewers with the coconut-crusted top and spoon the aromatic sauce alongside.",
+    "Garnish with fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "thai-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "welcoming-coconut-crunch-thai-herbal-thai-moo-ping",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/welcoming-coconut-crunch-thai-herbal-thai-moo-ping",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:49:54Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "coconut flakes",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "herbal",
+    "descriptor": "Welcoming Coconut Crunch",
+    "dishForm": "Thai Moo Ping"
+  }
+}
