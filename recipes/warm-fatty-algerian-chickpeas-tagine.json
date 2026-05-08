@@ -1,0 +1,113 @@
+{
+  "title": "Warm Fatty Algerian Chickpeas Tagine",
+  "description": "A comforting Algerian one-pot stew featuring chickpeas in a rich, creamy sauce. Serve with couscous or pita bread for a satisfying meal.",
+  "cuisine": "Algerian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook, stirring occasionally, until softened and lightly browned, about 8 minutes.",
+    "Add the garlic and cook, stirring constantly, for 1 minute.",
+    "Add the fajita seasoning and cook, stirring constantly, for 1 minute.",
+    "Add the chickpeas, diced tomatoes, beef broth, and cayenne pepper. Bring to a simmer.",
+    "Reduce the heat to low and cook, covered, until the flavors have melded together and the sauce has thickened slightly, about 20 minutes.",
+    "Stir in the heavy cream and cook for an additional 5 minutes, or until heated through.",
+    "Season with salt and pepper to taste.",
+    "Stir in the chopped parsley and cook for 1 minute, or until wilted.",
+    "Serve hot, garnished with additional parsley if desired.",
+    "Cover and refrigerate or freeze for later use, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "comfort-food",
+    "hearty",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "warm-fatty-algerian-chickpeas-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-fatty-algerian-chickpeas-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:37:03Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "stir-fry",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Warm Fatty",
+    "dishForm": "Tagine"
+  }
+}

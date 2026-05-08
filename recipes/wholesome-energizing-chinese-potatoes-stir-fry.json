@@ -1,0 +1,117 @@
+{
+  "title": "wholesome energizing chinese potatoes stir-fry",
+  "description": "a quick and savory stir-fry made with charlotte potatoes, featuring a mediterranean twist. perfect for a busy weeknight dinner or lunch.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "charlotte potatoes",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4-6 leaves",
+      "notes": ""
+    },
+    {
+      "name": "scallion",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "add the garlic and ginger and stir-fry for 30 seconds.",
+    "add the charlotte potatoes and stir-fry for 5 minutes.",
+    "add the soy sauce, honey, and sesame oil, and stir-fry for 2 minutes.",
+    "add the salt and pepper to taste.",
+    "add the mozzarella cheese and stir-fry until melted and stringy.",
+    "add the chopped scallion and stir-fry for 1 minute.",
+    "meanwhile, cook the pandan leaves in a steamer or microwave for 30 seconds to 1 minute.",
+    "wrap the stir-fry in a pandan leaf and serve hot.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "one-pan",
+    "stir-fry",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "wholesome-energizing-chinese-potatoes-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-energizing-chinese-potatoes-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:37:07Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "stir-fry",
+    "primaryIngredient": "charlotte potatoes",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "potatoes",
+    "descriptor": "wholesome energizing",
+    "dishForm": "Stir-fry"
+  }
+}

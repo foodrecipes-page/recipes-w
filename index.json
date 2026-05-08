@@ -1816,6 +1816,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-fatty-algerian-chickpeas-tagine",
+    "title": "Warm Fatty Algerian Chickpeas Tagine",
+    "tags": [
+      "algerian",
+      "comfort-food",
+      "hearty",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-fatty-norwegian-lamb-casserole",
     "title": "Warm Fatty Norwegian Lamb Casserole",
     "tags": [
@@ -8684,6 +8698,20 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 105,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-energizing-chinese-potatoes-stir-fry",
+    "title": "wholesome energizing chinese potatoes stir-fry",
+    "tags": [
+      "chinese",
+      "one-pan",
+      "stir-fry",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
