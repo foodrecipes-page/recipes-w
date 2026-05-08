@@ -1,0 +1,104 @@
+{
+  "title": "Warm Glassy Slovakian Olive Bowl",
+  "description": "A peppery and glassy jelly Slovakian dish featuring castelvetrano olives, perfect for a show off vegetarian friendly meal",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Castelvetrano olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Shallots",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Agar agar powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large earthenware bowl, combine the pitted castelvetrano olives, red wine, olive oil, sliced shallots, and minced garlic.",
+    "Roast the mixture in the oven for 20 minutes, stirring occasionally, until the shallots are caramelized and the liquid has reduced slightly.",
+    "While the mixture is roasting, combine the agar agar powder and vegetable broth in a small saucepan and whisk to combine.",
+    "Bring the agar agar mixture to a boil over high heat, then reduce the heat to low and simmer for 5 minutes, or until the mixture has thickened and turned into a glassy jelly.",
+    "Remove the bowl from the oven and stir in the black pepper and salt.",
+    "Pour the agar agar jelly over the olive mixture and stir to combine.",
+    "Return the bowl to the oven and bake for an additional 10 minutes, or until the jelly is set and the mixture is warm and glassy.",
+    "Remove the bowl from the oven and sprinkle the chopped parsley over the top.",
+    "Serve the warm glassy Slovakian olive bowl immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "earthenware-bowl",
+    "glassy-jelly",
+    "olive-based",
+    "roasted",
+    "slovakian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "warm-glassy-slovakian-olive-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-glassy-slovakian-olive-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:34:21Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "castelvetrano-olives",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "olives",
+    "descriptor": "Warm glassy",
+    "dishForm": "Bowl"
+  }
+}
