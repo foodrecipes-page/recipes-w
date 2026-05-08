@@ -1,0 +1,105 @@
+{
+  "title": "Warm Middle Eastern Kidney Beans Fatteh",
+  "description": "A yeasty and crunchy plant-based Middle Eastern dish featuring kidney beans, served in a traditional tajine clay vessel, perfect for a romantic dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "1 cup",
+      "notes": "canned, drained and rinsed"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices",
+      "notes": "day-old"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the pita bread into small cubes and toast until crispy.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the kidney beans, sumac, salt, and black pepper to the skillet and stir to combine.",
+    "In a small bowl, mix the yeast and water to create a yeast sauce.",
+    "Add the yeast sauce to the skillet and stir to combine with the kidney bean mixture.",
+    "In a separate bowl, whisk together the lemon juice and a pinch of salt.",
+    "To assemble the fatteh, place a layer of toasted pita bread in the bottom of a tajine clay vessel.",
+    "Add a layer of the kidney bean mixture on top of the pita bread, followed by a drizzle of lemon juice mixture.",
+    "Repeat the layers one more time, ending with a layer of toasted pita bread on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "middle-eastern",
+    "one-pot",
+    "plant-based",
+    "romantic-dinner",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-middle-eastern-kidney-beans-fatteh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-middle-eastern-kidney-beans-fatteh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:16:14Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "reduce",
+    "primaryIngredient": "kidney beans",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "kidney beans",
+    "descriptor": "Warm Crunchy",
+    "dishForm": "Fatteh"
+  }
+}
