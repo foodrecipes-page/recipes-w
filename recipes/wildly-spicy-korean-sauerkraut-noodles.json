@@ -1,0 +1,105 @@
+{
+  "title": "Wildly Spicy Korean Sauerkraut Noodles",
+  "description": "A sweet and snappy Korean dish featuring sauerkraut and ferment-kimchi, perfect for those looking for a paleo-friendly meal option.",
+  "cuisine": "Korean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "8 oz",
+      "notes": "made from paleo-friendly ingredients"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1/2 cup",
+      "notes": "fermented"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a large skillet, heat the coconut oil over medium-high heat.",
+    "Add the gochujang, soy sauce, and honey to the skillet and stir to combine.",
+    "Add the sauerkraut and kimchi to the skillet and stir to combine.",
+    "Cook for 2-3 minutes, or until the sauerkraut is slightly caramelized.",
+    "Add the cooked noodles to the skillet and stir to combine with the sauerkraut mixture.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the noodles to a serving dish and garnish with sesame seeds and scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-food",
+    "korean-food",
+    "noodle-recipes",
+    "paleo-diet",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "wildly-spicy-korean-sauerkraut-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-spicy-korean-sauerkraut-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:42:00Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "sauerkraut",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "sauerkraut",
+    "descriptor": "Wildly spicy",
+    "dishForm": "Noodles"
+  }
+}
