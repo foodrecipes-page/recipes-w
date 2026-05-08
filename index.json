@@ -665,6 +665,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-creamy-middle-eastern-chickpeas-falafel",
+    "title": "Warm Creamy Middle Eastern Chickpeas Falafel",
+    "tags": [
+      "coconut-cream-based",
+      "comfort-food",
+      "jain-friendly",
+      "middle-eastern",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crisp-brazilian-bread-toast",
     "title": "Warm Crisp Brazilian Bread Toast",
     "tags": [
@@ -826,6 +840,21 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-crispy-german-pork-skillet",
+    "title": "Warm Crispy German Pork Skillet",
+    "tags": [
+      "fodmap-friendly",
+      "german-cuisine",
+      "gluten-free",
+      "one-pan",
+      "pork-recipes",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -9566,6 +9595,20 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 32,
+    "shard": "w"
+  },
+  {
+    "slug": "wild-crispy-american-baby-lettuce-salad",
+    "title": "Wild Crispy American Baby Lettuce Salad",
+    "tags": [
+      "american-cuisine",
+      "crispy-salad",
+      "gluten-free",
+      "paleo-friendly",
+      "quick-fix"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {

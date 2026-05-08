@@ -1,0 +1,97 @@
+{
+  "title": "Warm Crispy German Pork Skillet",
+  "description": "A light and flavorful German dish featuring pork, shallots, and a hint of funk, perfect for a weeknight dinner. This recipe is FODMAP-friendly and easy to make.",
+  "cuisine": "German",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "shallots",
+      "amount": "2 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the pork to the skillet and cook until browned on all sides, about 5 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the sliced shallots to the skillet and cook until they are lightly browned and crispy, about 3 minutes.",
+    "Add the sliced carrots and potatoes to the skillet and cook until they are tender, about 5 minutes.",
+    "Return the pork to the skillet and stir to combine with the vegetables.",
+    "Season the mixture with salt, black pepper, and paprika.",
+    "Cook for an additional 2 minutes, until the pork is cooked through and the vegetables are tender.",
+    "Shock the cooked pork and vegetables in an ice bath to stop the cooking process.",
+    "Serve the skillet hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "german-cuisine",
+    "gluten-free",
+    "one-pan",
+    "pork-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-crispy-german-pork-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-german-pork-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:35:19Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "shallots",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Warm Crispy",
+    "dishForm": "Skillet"
+  }
+}

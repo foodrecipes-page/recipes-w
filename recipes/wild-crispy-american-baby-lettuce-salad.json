@@ -1,0 +1,94 @@
+{
+  "title": "Wild Crispy American Baby Lettuce Salad",
+  "description": "A quick and easy paleo-friendly salad featuring crispy baby lettuce leaves and a tangy yuzu cure, perfect for a snack or light lunch.",
+  "cuisine": "American",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby lettuce leaves",
+      "amount": "4 cups",
+      "notes": "wild or organic"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "crispy bacon",
+      "amount": "6 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "shaved parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yuzu juice, olive oil, apple cider vinegar, salt, and black pepper to make the dressing.",
+    "Add the baby lettuce leaves to the bowl and toss to coat with the dressing.",
+    "If using, cook the crispy bacon in a skillet over medium heat until crispy, then chop into bits.",
+    "If using, shave the parmesan cheese over the salad.",
+    "To make the salad crispy, heat about 1/2 inch of olive oil in a skillet over medium-high heat until it reaches 350 degrees Fahrenheit.",
+    "Using a slotted spoon, carefully add a few handfuls of the dressed baby lettuce leaves to the hot oil and fry until crispy, about 30 seconds to 1 minute.",
+    "Remove the crispy lettuce leaves from the oil with the slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Repeat the frying process with the remaining baby lettuce leaves.",
+    "To assemble the salad, place the crispy baby lettuce leaves on a serving plate, then top with additional dressing, crispy bacon bits, and shaved parmesan cheese if using."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american-cuisine",
+    "crispy-salad",
+    "gluten-free",
+    "paleo-friendly",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "wild-crispy-american-baby-lettuce-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wild-crispy-american-baby-lettuce-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:36:13Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "baby lettuce",
+    "descriptor": "Wild Crispy",
+    "dishForm": "Salad"
+  }
+}

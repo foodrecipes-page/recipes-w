@@ -1,0 +1,95 @@
+{
+  "title": "Warm Creamy Middle Eastern Chickpeas Falafel",
+  "description": "A comforting and earthy Middle Eastern dish featuring crispy falafel in a rich and creamy coconut sauce, perfect for a sick day. This jain-friendly recipe is made with garlic powder and coconut cream.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a food processor, combine chickpeas, flour, garlic powder, onion powder, salt, and black pepper, and process until well combined.",
+    "Using your hands, shape the mixture into 8-10 falafel patties.",
+    "Place the falafel on a baking sheet lined with parchment paper and bake for 20-25 minutes, flipping halfway through.",
+    "In a large saucepan, heat the coconut cream over medium heat.",
+    "Add the lemon juice and olive oil to the saucepan and stir to combine.",
+    "Once the falafel are done baking, add them to the saucepan and simmer for 5-7 minutes.",
+    "Serve the falafel hot, garnished with chopped fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream-based",
+    "comfort-food",
+    "jain-friendly",
+    "middle-eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "warm-creamy-middle-eastern-chickpeas-falafel",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-creamy-middle-eastern-chickpeas-falafel",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:35:52Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "garlic powder",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Warm Creamy",
+    "dishForm": "Falafel"
+  }
+}
