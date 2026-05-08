@@ -1,0 +1,93 @@
+{
+  "title": "Warm Sweet French Fenugreek Tart",
+  "description": "A Normandy inspired dessert featuring fenugreek and candy, this tart is perfect for those looking for a dairy free friendly French treat. The combination of resinous fenugreek and sweet candy creates a unique flavor experience.",
+  "cuisine": "French",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fenugreek seeds",
+      "amount": "2 tablespoons",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "candy pieces",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender, grind the soaked fenugreek seeds into a fine paste.",
+    "In a large bowl, whisk together the flour, confectioners sugar, and salt.",
+    "Add the coconut oil, vanilla extract, and fenugreek paste to the bowl and mix until a dough forms.",
+    "Roll out the dough and place it in a tart pan.",
+    "Arrange the candy pieces on top of the dough in a pattern.",
+    "Bake the tart for 35 minutes or until the crust is golden brown.",
+    "Remove the tart from the oven and let it cool for 10 minutes.",
+    "Serve the tart warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "french-dessert",
+    "normandy-inspired",
+    "tart",
+    "unique-flavors",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "warm-sweet-french-fenugreek-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-sweet-french-fenugreek-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:12:40Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "candy",
+    "primaryIngredient": "fenugreek",
+    "diet": "dairy-free",
+    "region": "normandy",
+    "cuisineAdjective": "french",
+    "mainIngredient": "fenugreek",
+    "descriptor": "warm sweet",
+    "dishForm": "Tart"
+  }
+}
