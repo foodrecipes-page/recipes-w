@@ -1,0 +1,109 @@
+{
+  "title": "Warm Spiced Moroccan Lamb Mrouzia",
+  "description": "A traditional Moroccan dish featuring tender lamb, green olives, and a blend of aromatic spices, served with a side of crusty bread for a satisfying meal prep option. This sour and cheesy meal is perfect for a weeknight dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "green olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried ginger",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium heat.",
+    "Add the lamb to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Stir in the cumin, smoked paprika, and dried ginger, and cook for 1 minute.",
+    "Add the green olives, chicken broth, honey, salt, and black pepper to the pot, and stir to combine.",
+    "Cover the pot with a piece of parchment paper, creating a papillote, and transfer it to the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until tender and falling apart.",
+    "Remove the pot from the oven and let it cool slightly before serving.",
+    "Serve the lamb with a side of crusty bread, and enjoy the sour and cheesy flavors of the mrouzia."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free-recipes",
+    "lamb-recipes",
+    "meal-prep-ideas",
+    "moroccan-food",
+    "one-pot-meals",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "warm-spiced-moroccan-lamb-mrouzia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spiced-moroccan-lamb-mrouzia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:47:21Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "papillote",
+    "primaryIngredient": "green olives",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Spiced",
+    "dishForm": "Mrouzia"
+  }
+}
