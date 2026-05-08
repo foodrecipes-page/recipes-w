@@ -1,0 +1,94 @@
+{
+  "title": "Warm Uruguayan Beef Tagine",
+  "description": "A garlicky and crumbly Uruguayan dish featuring egg wash and candy, served in a ceramic tagine, this recipe is low in carbs and perfect for adventurous eaters.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "candy",
+      "amount": "1/4 cup",
+      "notes": "chopped peanut brittle"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together the olive oil, garlic, salt, black pepper, and paprika.",
+    "Add the beef strips to the bowl and toss to coat with the marinade.",
+    "Transfer the beef mixture to a ceramic tagine.",
+    "In a small bowl, whisk together the egg and a splash of water to make the egg wash.",
+    "Brush the egg wash over the beef mixture in the tagine.",
+    "Sprinkle the chopped candy over the top of the beef mixture.",
+    "Cover the tagine with a lid and bake for 2 hours.",
+    "Remove the lid and bake for an additional 30 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-based",
+    "comfort-food",
+    "low-carb",
+    "one-pot",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "warm-uruguayan-beef-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-uruguayan-beef-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:53:18Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "candy",
+    "primaryIngredient": "egg wash",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Warm Crumbly",
+    "dishForm": "Tagine"
+  }
+}

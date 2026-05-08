@@ -4490,6 +4490,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-uruguayan-beef-tagine",
+    "title": "Warm Uruguayan Beef Tagine",
+    "tags": [
+      "beef-based",
+      "comfort-food",
+      "low-carb",
+      "one-pot",
+      "south-american"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 170,
+    "shard": "w"
+  },
+  {
     "slug": "warm-uruguayan-pork-knuckle-wrap",
     "title": "Warm Uruguayan Pork Knuckle Wrap",
     "tags": [
