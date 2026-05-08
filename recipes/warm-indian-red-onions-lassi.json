@@ -1,0 +1,95 @@
+{
+  "title": "Warm Indian Red Onions Lassi",
+  "description": "A satvik-friendly, Chettinad-inspired lassi featuring roasted red onions, perfect for a hangover cure or a unique snack. This fatty and bouncy drink is made with broiled red onions and yogurt.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red onions",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a wok, heat the ghee over medium heat and add the cumin seeds and coriander seeds.",
+    "Add the chopped red onions to the wok and cook until they are lightly browned.",
+    "Transfer the wok to the broiler and broil the onions for 5 minutes, or until they are caramelized.",
+    "Remove the wok from the broiler and let it cool slightly.",
+    "In a blender, combine the yogurt, roasted red onions, salt, and water, and blend until smooth.",
+    "Stir in the chopped cilantro and serve the lassi warm.",
+    "Garnish with additional cilantro, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hangover-cure",
+    "indian-drink",
+    "roasted-onions",
+    "satvik-friendly",
+    "yogurt-based"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "warm-indian-red-onions-lassi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-indian-red-onions-lassi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:14:23Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "broil",
+    "primaryIngredient": "red onions",
+    "diet": "satvik",
+    "region": "chettinad",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "red onions",
+    "descriptor": "Warm Bouncy",
+    "dishForm": "Lassi"
+  }
+}
