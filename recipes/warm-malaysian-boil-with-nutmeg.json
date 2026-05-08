@@ -1,0 +1,104 @@
+{
+  "title": "Warm Malaysian Boil with Nutmeg",
+  "description": "Pungent and energizing Malaysian dish featuring flaky nutmeg and boil, suitable for high-protein diets. Flavors are heightened by the aroma of ginger and lemongrass.",
+  "cuisine": "malaysian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1 teaspoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "10",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut milk in a large pot over medium heat until warm and slightly thickened.",
+    "Grate ginger and bruise lemongrass. ",
+    "Add grated ginger, bruised lemongrass, and turmeric to the coconut milk. ",
+    "Grate 1 teaspoon of nutmeg and add it to the coconut milk. ",
+    "Add chicken breast to the pot and cook until browned on all sides and cooked through. ",
+    "Add black peppercorns, garlic, and fish sauce to the pot. ",
+    "Stir well to combine and cook for 1 minute. ",
+    "Remove from heat and serve hot. ",
+    "Season with additional nutmeg to taste.",
+    "Add any desired fresh herbs, such as cilantro or scallions, for garnish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "malaysian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "warm-malaysian-boil-with-nutmeg",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-malaysian-boil-with-nutmeg",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:52:21Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "boil",
+    "primaryIngredient": "nutmeg",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "nutmeg",
+    "descriptor": "Warm",
+    "dishForm": "boil"
+  }
+}
