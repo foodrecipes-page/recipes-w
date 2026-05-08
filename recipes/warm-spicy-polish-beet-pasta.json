@@ -1,0 +1,103 @@
+{
+  "title": "Warm Spicy Polish Beet Pasta",
+  "description": "A spicy and adventurous Polish dish featuring beets and a pasta water emulsion, perfect for pescatarian diets. This recipe combines the sweetness of beets with the heat of spicy peppers.",
+  "cuisine": "Polish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "pappardelle pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "spicy polish sausage",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beet juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the sliced spicy polish sausage to the skillet and cook until browned.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the diced beets to the skillet and cook until they start to soften.",
+    "Add the beet juice to the skillet and stir to combine.",
+    "Add the cooked pappardelle pasta to the skillet and toss to combine with the beet and sausage mixture.",
+    "Season with salt, black pepper, and red pepper flakes to taste.",
+    "Serve the pasta hot, garnished with additional beet juice if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beet-recipe",
+    "one-pot-meal",
+    "pasta-dish",
+    "pescatarian",
+    "polish-cuisine",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "warm-spicy-polish-beet-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-polish-beet-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:22:47Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "beets",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "beets",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Pasta"
+  }
+}
