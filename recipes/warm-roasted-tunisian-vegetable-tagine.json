@@ -1,0 +1,108 @@
+{
+  "title": "Warm Roasted Tunisian Vegetable Tagine",
+  "description": "A hearty, roasted Tunisian dish featuring a mix of vegetables and rice wine, perfect for a lazy Sunday. This ovo-vegetarian friendly tagine is infused with aromatic oils and spices.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "ovo-vegetarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "infused with garlic and herbs"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "3 large",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 large",
+      "notes": "cubed"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "rice wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, rice wine, vegetable broth, and tomato paste.",
+    "Add the chopped onions, sliced bell peppers, cubed eggplant, and sliced zucchini to the bowl and toss to coat with the oil mixture.",
+    "Season with salt and pepper to taste.",
+    "Transfer the vegetable mixture to a large baking dish and roast in the preheated oven for 30 minutes.",
+    "While the vegetables are roasting, cook the couscous according to package instructions.",
+    "After the vegetables have roasted for 30 minutes, create 4 wells in the vegetable mixture and crack an egg into each well.",
+    "Return the baking dish to the oven and continue roasting for an additional 10-15 minutes, or until the eggs are cooked to desired doneness.",
+    "Serve the roasted vegetables and eggs over the cooked couscous."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "ovo-vegetarian",
+    "roasted-vegetables",
+    "tunisian-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "warm-roasted-tunisian-vegetable-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-roasted-tunisian-vegetable-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:15:16Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "infuse-oil",
+    "primaryIngredient": "rice wine",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Warm Roasted",
+    "dishForm": "Tagine"
+  }
+}
