@@ -1,0 +1,96 @@
+{
+  "title": "Warm Spicy American Chicken Casserole",
+  "description": "A malty, crisp, and nostalgic American dish featuring ancho chillies, this casserole is perfect for a weeknight dinner. It is a nut-free-friendly option for those with dietary restrictions.",
+  "cuisine": "American",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "ancho chillies",
+      "amount": "2",
+      "notes": "dried and stemmed"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "crushed tortilla chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "In a large bowl, whisk together the malt syrup and 1/4 cup of water.",
+    "Add the ancho chillies to the bowl and whisk until well combined.",
+    "Add the cooked chicken and onion mixture to the bowl and stir until coated with the malt syrup mixture.",
+    "In a greased 9x13 inch baking dish, arrange half of the crushed tortilla chips in the bottom of the dish.",
+    "Add the chicken mixture on top of the tortilla chips.",
+    "Sprinkle the shredded cheddar cheese over the top of the chicken mixture.",
+    "Arrange the remaining tortilla chips on top of the cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-classic",
+    "comfort-food",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "warm-spicy-american-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-american-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:02:08Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "whisk",
+    "primaryIngredient": "ancho chillies",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm spicy",
+    "dishForm": "Casserole"
+  }
+}

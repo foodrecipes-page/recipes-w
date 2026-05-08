@@ -4475,6 +4475,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spicy-american-chicken-casserole",
+    "title": "Warm Spicy American Chicken Casserole",
+    "tags": [
+      "american-classic",
+      "comfort-food",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spicy-argentinian-duck-empanadas",
     "title": "Warm Spicy Argentinian Duck Empanadas",
     "tags": [
