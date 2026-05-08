@@ -1,0 +1,95 @@
+{
+  "title": "Warm Flaky Argentinian Sushi Rice Empanadas",
+  "description": "A malty and flaky solo dinner dish featuring sushi rice and coconut cream, inspired by Argentinian cuisine, this recipe is a unique fusion of flavors and textures, suitable for a raw friendly diet.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, whisk together the flour, malted milk powder, and salt.",
+    "Add the melted butter, egg, and sugar to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place 1/2 cup of cooked sushi rice in the center of each circle.",
+    "Fold the dough over the filling to form a half moon shape and press the edges together to seal.",
+    "Brush the tops of the empanadas with coconut cream.",
+    "Bake the empanadas for 20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-food",
+    "coconut-cream",
+    "empanadas",
+    "malty-flavor",
+    "raw-friendly",
+    "sushi-rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-flaky-argentinian-sushi-rice-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-flaky-argentinian-sushi-rice-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:59:19Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "sushi rice",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "sushi rice",
+    "descriptor": "Warm flaky",
+    "dishForm": "Empanadas"
+  }
+}

@@ -1888,6 +1888,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-flaky-argentinian-sushi-rice-empanadas",
+    "title": "Warm Flaky Argentinian Sushi Rice Empanadas",
+    "tags": [
+      "argentinian-food",
+      "coconut-cream",
+      "empanadas",
+      "malty-flavor",
+      "raw-friendly",
+      "sushi-rice"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-flaky-brunch-portuguese-tomato-bake",
     "title": "warm flaky brunch portuguese tomato bake",
     "tags": [
@@ -5555,6 +5570,21 @@
     ],
     "cuisine": "Northern Irish",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-springy-tunisian-celery-bake",
+    "title": "Warm Springy Tunisian Celery Bake",
+    "tags": [
+      "gluten-free",
+      "one-pan",
+      "spring-recipes",
+      "tunisian-cuisine",
+      "vegetarian-dishes",
+      "weeknight-meals"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {
