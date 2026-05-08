@@ -1,0 +1,106 @@
+{
+  "title": "Wildly Tender Ukrainian Beef Stew",
+  "description": "A hearty and umami-rich stew featuring tender beef, piccalilli, and a blend of aromatic spices, perfect for a cold winter's night. This diabetic-friendly dish is slow-cooked to perfection.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "piccalilli",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "low-sugar"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat, then add the beef and cook until browned on all sides.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the piccalilli, beef broth, tomato paste, and dried thyme, stirring to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2.5 hours.",
+    "Add the chopped carrots and potatoes to the stew and continue to simmer, covered, for an additional 30 minutes.",
+    "Season the stew with salt and pepper to taste, then serve hot.",
+    "Garnish with fresh herbs, if desired.",
+    "Serve with a side of whole grain bread or over mashed potatoes.",
+    "Refrigerate or freeze any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "gluten-free",
+    "hearty-stew",
+    "one-pot",
+    "winter-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "wildly-tender-ukrainian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-tender-ukrainian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:44:58Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "simmer",
+    "primaryIngredient": "piccalilli",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beef",
+    "descriptor": "Wildly Tender",
+    "dishForm": "Stew"
+  }
+}
