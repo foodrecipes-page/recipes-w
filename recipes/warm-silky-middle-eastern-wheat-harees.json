@@ -1,0 +1,104 @@
+{
+  "title": "Warm Silky Middle Eastern Wheat Harees",
+  "description": "A traditional Middle Eastern dish made with wheat, meat, and spices, featuring a sweet and herbal flavor profile from palm sugar and a blend of aromatic herbs, this harees recipe is a crowd-pleaser and kosher-friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wheat berries",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "lamb or beef",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the wheat berries and soak them in water for at least 4 hours or overnight.",
+    "Drain and rinse the wheat berries, then transfer them to a large pot with 4 cups of water.",
+    "Bring the water to a boil, then reduce the heat to low and simmer for 1 hour, or until the wheat is tender.",
+    "In a large pan, heat 2 tablespoons of oil over medium heat, then add the chopped onion and cook until it is softened.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the lamb or beef to the pan and cook until it is browned, breaking it up into small pieces as it cooks.",
+    "Stir in the cumin, coriander, salt, and black pepper, and cook for 1 minute.",
+    "Add the palm sugar to the pan and cook, stirring constantly, until it is dissolved and the mixture is well combined.",
+    "To assemble the harees, combine the cooked wheat and meat mixture in a large serving dish, and serve hot.",
+    "Garnish with chopped fresh herbs, such as parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "kosher-friendly",
+    "middle-eastern",
+    "one-pot",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "warm-silky-middle-eastern-wheat-harees",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-silky-middle-eastern-wheat-harees",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:02:46Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "marinate",
+    "primaryIngredient": "palm sugar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "wheat",
+    "descriptor": "Warm Silky",
+    "dishForm": "Harees"
+  }
+}
