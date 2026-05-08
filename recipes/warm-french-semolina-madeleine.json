@@ -1,0 +1,94 @@
+{
+  "title": "Warm French Semolina Madeleine",
+  "description": "A malty and crunchy French dish featuring semolina rimacinata, this warm madeleine is perfect for a snack or dessert. It is pescatarian friendly and cooked in a terracotta dish.",
+  "cuisine": "French",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "semolina rimacinata",
+      "amount": "1 1/2 cups",
+      "notes": "fine semolina"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "pure vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cured salmon",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the semolina rimacinata, sugar, and salt.",
+    "In a separate bowl, whisk together the whole milk, eggs, and vanilla extract.",
+    "Add the melted butter and cured salmon to the milk mixture and whisk until combined.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Pour the batter into a greased terracotta dish.",
+    "Bake for 25 minutes or until the edges are golden brown.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-snack",
+    "french-dish",
+    "one-pot",
+    "pescatarian-friendly",
+    "semolina-madeleine",
+    "warm-dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "warm-french-semolina-madeleine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-french-semolina-madeleine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:50:57Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "cure",
+    "primaryIngredient": "semolina-rimacinata",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "semolina",
+    "descriptor": "Warm Crunchy",
+    "dishForm": "Madeleine"
+  }
+}

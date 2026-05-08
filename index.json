@@ -1214,6 +1214,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-french-semolina-madeleine",
+    "title": "Warm French Semolina Madeleine",
+    "tags": [
+      "crunchy-snack",
+      "french-dish",
+      "one-pot",
+      "pescatarian-friendly",
+      "semolina-madeleine",
+      "warm-dessert"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-french-vialone-nano-ratatouille",
     "title": "Warm French Vialone Nano Ratatouille",
     "tags": [
@@ -7278,6 +7293,20 @@
       "winey"
     ],
     "cuisine": "vietnamese",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-dense-thai-duck-legs-nam-prik",
+    "title": "Winey Dense Thai Duck Legs Nam Prik",
+    "tags": [
+      "ducklegs",
+      "low-sodium",
+      "one-pan",
+      "thaicurry",
+      "weeknight"
+    ],
+    "cuisine": "thai",
     "totalTimeMin": 55,
     "shard": "w"
   },
