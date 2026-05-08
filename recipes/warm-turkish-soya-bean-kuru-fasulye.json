@@ -1,0 +1,103 @@
+{
+  "title": "Warm Turkish Soya Bean Kuru Fasulye",
+  "description": "A pungent and cozy Turkish dish featuring soya bean, served in a corn husk wrap, perfect for a cold winter night. This pescatarian friendly dish is made with laminated puff pastry and soya beans in a rich tomato sauce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soya beans",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "laminated puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4-6",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Roll out the puff pastry and cut into 4-6 squares.",
+    "In a large pan, heat the olive oil and saute the onion and garlic until softened.",
+    "Add the soya beans, tomato paste, and tomato sauce to the pan and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Spoon the soya bean mixture onto one half of each pastry square.",
+    "Brush the edges with water and fold the pastry in half to enclose the filling.",
+    "Wrap each pastry in a corn husk and place on a baking sheet.",
+    "Bake for 25-30 minutes or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "pescatarian",
+    "turkish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "warm-turkish-soya-bean-kuru-fasulye",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-turkish-soya-bean-kuru-fasulye",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:22:16Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "lamination-puff",
+    "primaryIngredient": "soya bean",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "soya bean",
+    "descriptor": "Warm Springy",
+    "dishForm": "Kuru Fasulye"
+  }
+}
