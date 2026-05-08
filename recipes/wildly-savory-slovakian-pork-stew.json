@@ -1,0 +1,104 @@
+{
+  "title": "Wildly Savory Slovakian Pork Stew",
+  "description": "A hearty and flavorful stew originating from Slovakia, featuring a rich miso marinade and a hint of cream of tartar, all while being sugar-free-friendly.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cream of tartar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together miso paste, cream of tartar, and 1 cup of chicken broth to create the marinade.",
+    "Add the pork cubes to the marinade and refrigerate for at least 2 hours or overnight.",
+    "Heat a large Dutch oven over medium-high heat and sear the marinated pork until browned on all sides.",
+    "Add the chopped onion to the pot and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the caraway seeds and paprika, cooking for 1 minute to allow the spices to bloom.",
+    "Add the remaining 3 cups of chicken broth to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the pork is tender.",
+    "Stir in the sour cream and cook for an additional 10 minutes, or until heated through.",
+    "Taste and adjust the seasoning as needed, then serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "european-cuisine",
+    "hearty-stew",
+    "one-pot",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "wildly-savory-slovakian-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-savory-slovakian-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:45:54Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "miso-marinate",
+    "primaryIngredient": "cream of tartar",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "Wildly savory",
+    "dishForm": "Stew"
+  }
+}
