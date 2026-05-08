@@ -1,0 +1,104 @@
+{
+  "title": "Warm Crisp Greek Feta Gyro",
+  "description": "A salty and crisp Greek dish featuring feta, double-fry KFC style, served in a cedar plank vessel, perfect for a monsoon evening.",
+  "cuisine": "Greek",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Feta cheese",
+      "amount": "1 block",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cedar planks",
+      "amount": "4 pieces",
+      "notes": "soaked in water"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tzatziki sauce",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the chicken breast with salt and black pepper.",
+    "Double fry the chicken breast by frying it in olive oil at 350 degrees Fahrenheit for 5 minutes, then baking it in the oven for 15 minutes.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Assemble the gyro by spreading tzatziki sauce on the pita bread, then adding the double fried chicken, diced tomato, and thinly sliced onion.",
+    "Crumble the feta cheese on top of the gyro.",
+    "Serve the gyro in a cedar plank vessel.",
+    "Drizzle olive oil over the gyro before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "crispy",
+    "double-fry",
+    "greek-food",
+    "monsoon-special",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-crisp-greek-feta-gyro",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crisp-greek-feta-gyro",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:38:15Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "feta",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "feta",
+    "descriptor": "Warm Crisp",
+    "dishForm": "Gyro"
+  }
+}

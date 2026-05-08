@@ -812,6 +812,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-crisp-greek-feta-gyro",
+    "title": "Warm Crisp Greek Feta Gyro",
+    "tags": [
+      "cedar-plank",
+      "crispy",
+      "double-fry",
+      "greek-food",
+      "monsoon-special",
+      "sugar-free"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crisp-middle-eastern-lentils-mujadara",
     "title": "Warm Crisp Middle Eastern Lentils Mujadara",
     "tags": [
