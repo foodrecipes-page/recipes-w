@@ -1,0 +1,89 @@
+{
+  "title": "warm wholesome brazilian shaggy tart",
+  "description": "a fragrant and soothing dessert featuring the sweetness of applesauce and the crunch of toast, served in a vibrant talavera plate",
+  "cuisine": "brazilian",
+  "diet": [
+    "sattvic",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "applesauce",
+      "amount": "250g"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices",
+      "notes": " toasted and crumbled"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "25g"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "100g"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "10g"
+    },
+    {
+      "name": "nutmeg powder",
+      "amount": "5g"
+    },
+    {
+      "name": "almond-free graham cracker",
+      "amount": "200g"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 180°c (350°f) and grease a 20cm (8in) tart pan with non-stick spray",
+    "crumble the toasted bread into fine pieces and set aside",
+    "mix the coconut oil, maple syrup, vanilla extract, and nutmeg powder in a medium bowl",
+    "add the crumbled bread, applesauce, and graham cracker to the bowl and stir until well combined",
+    "transfer the mixture to the prepared tart pan and smooth the top",
+    "bake for 35 minutes, or until the tart is golden brown and set",
+    "remove from the oven and let cool for 5 minutes before serving",
+    "serve warm in a vibrant talavera plate garnished with chopped nuts or dried fruit"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "brazilian",
+    "comfort-food",
+    "dessert",
+    "grain-free",
+    "sattvic",
+    "vegan",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 20,
+    "carbs": 180,
+    "fat": 60
+  },
+  "slug": "warm-wholesome-brazilian-shaggy-tart",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wholesome-brazilian-shaggy-tart",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:11:31Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "toast",
+    "primaryIngredient": "applesauce",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "shaggy",
+    "descriptor": "Warm Wholesome",
+    "dishForm": "Tart"
+  }
+}
