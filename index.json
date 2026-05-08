@@ -6636,6 +6636,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-yeasty-croatian-sausages-skillet",
+    "title": "Warm Yeasty Croatian Sausages Skillet",
+    "tags": [
+      "brunch-ideas",
+      "croatian-cuisine",
+      "jain-friendly",
+      "one-pan",
+      "vegetarian-recipes",
+      "yeasty-dishes"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-yeasty-ethiopian-lentils-misir-wot",
     "title": "Warm Yeasty Ethiopian Lentils Misir Wot",
     "tags": [
@@ -7134,6 +7149,21 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 32,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-roasted-canadian-maple-syrup-glazed-pecans-tart",
+    "title": "Warmly Roasted Canadian Maple Syrup Glazed Pecans Tart",
+    "tags": [
+      "canadian-cuisine",
+      "dessert",
+      "macrobiotic",
+      "maple-syrup",
+      "pecan-tart",
+      "vegetarian"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {

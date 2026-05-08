@@ -1,0 +1,94 @@
+{
+  "title": "Warmly Roasted Canadian Maple Syrup Glazed Pecans Tart",
+  "description": "A light and show-off Canadian dish featuring icing sugar and deglaze-fond, perfect for special occasions. This macrobiotic-friendly tart is a delightful combination of roasted pecans and maple syrup.",
+  "cuisine": "Canadian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pecans",
+      "amount": "1 1/2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "icing sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees.",
+    "In a bowl, whisk together the flour, icing sugar, and salt.",
+    "Add the melted butter, eggs, and vanilla extract to the bowl and mix until a dough forms.",
+    "Roll out the dough and place it in a tart pan.",
+    "In a separate bowl, whisk together the maple syrup and chopped pecans.",
+    "Pour the maple syrup and pecan mixture into the tart crust.",
+    "Bake the tart for 35 minutes or until the crust is golden brown.",
+    "Remove the tart from the oven and let it cool.",
+    "Drizzle the tart with additional maple syrup if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "dessert",
+    "macrobiotic",
+    "maple-syrup",
+    "pecan-tart",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "warmly-roasted-canadian-maple-syrup-glazed-pecans-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-roasted-canadian-maple-syrup-glazed-pecans-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:28:02Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "icing sugar",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "maple syrup glazed pecans",
+    "descriptor": "Warmly roasted",
+    "dishForm": "Tart"
+  }
+}
