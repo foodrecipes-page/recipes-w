@@ -1,0 +1,103 @@
+{
+  "title": "Warm Dense Egyptian Rice Tagine",
+  "description": "A dense and savory Egyptian dish featuring Vialone Nano rice, lardons, and umami flavors, cooked to perfection in a ceramic tagine. This macrobiotic-friendly recipe is ideal for a solo dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vialone Nano rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large skillet, cook the diced lardons over medium heat until crispy.",
+    "Remove the lardons from the skillet and set aside, leaving the rendered fat behind.",
+    "Add the chopped onion to the skillet and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "In the ceramic tagine, combine the cooked onion and garlic, Vialone Nano rice, tomato paste, vegetable broth, thyme, salt, and black pepper.",
+    "Add the cooked lardons to the tagine and stir to combine.",
+    "Cover the tagine with a lid and transfer it to the preheated oven.",
+    "Bake the tagine for 30 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the tagine from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "middle-eastern",
+    "one-pot",
+    "rice-bowl",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-dense-egyptian-rice-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dense-egyptian-rice-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:46:29Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "lardons-render",
+    "primaryIngredient": "vialone-nano",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Vialone Nano Rice",
+    "descriptor": "Warm Dense",
+    "dishForm": "Tagine"
+  }
+}
