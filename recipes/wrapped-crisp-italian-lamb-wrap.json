@@ -1,0 +1,100 @@
+{
+  "title": "Wrapped Crisp Italian Lamb Wrap",
+  "description": "A bitter and crisp one-pot Italian dish featuring lamb loin chops, wrapped in leaves and steamed to perfection, suitable for plant-based friendly diets with some adjustments.",
+  "cuisine": "Italian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb loin chops",
+      "amount": "4",
+      "notes": "preferably organic and grass fed"
+    },
+    {
+      "name": "collard green leaves",
+      "amount": "8",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "radicchio",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "venetian style wine",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, lemon juice, salt, and black pepper to make the marinade.",
+    "Add the lamb loin chops to the marinade and coat evenly, letting it sit for at least 30 minutes.",
+    "Wrap each lamb loin chop in a collard green leaf, making sure to secure the leaf with a toothpick if necessary.",
+    "Place the wrapped lamb chops in a large talavera plate or a heatproof dish with a lid.",
+    "Add the chopped radicchio around the lamb chops and pour the venetian style wine, if using.",
+    "Cover the dish with a lid and steam the lamb chops in the oven for 20 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes to crisp the leaves.",
+    "Let the lamb chops rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-food",
+    "lamb-recipes",
+    "one-pot",
+    "plant-based-friendly",
+    "special-occasion",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "wrapped-crisp-italian-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wrapped-crisp-italian-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:03:18Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "plant-based",
+    "region": "venetian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "lamb",
+    "descriptor": "Wrapped Crisp",
+    "dishForm": "Wrap"
+  }
+}
