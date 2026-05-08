@@ -1,0 +1,105 @@
+{
+  "title": "Warm Dense Mexican Little Gem Lettuce Tamales",
+  "description": "A romantic Veracruzan dish featuring little gem lettuce, reduced and flexitarian-friendly, formed into tamales.",
+  "cuisine": "Mexican",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Little Gem lettuce",
+      "amount": "4 heads",
+      "notes": "leaves separated"
+    },
+    {
+      "name": "Masa harina",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Queso fresco",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the corn husks in water for 30 minutes to make them pliable.",
+    "In a large bowl, combine the masa harina and vegetable broth to make the tamale dough.",
+    "In a skillet, heat the olive oil and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "To the skillet, add the separated little gem lettuce leaves and cook until wilted.",
+    "In a bowl, combine the cooked lettuce mixture, crumbled queso fresco, chopped cilantro, lime juice, and salt.",
+    "To assemble the tamales, lay a corn husk flat and spread a thin layer of the tamale dough onto the husk.",
+    "Place a tablespoon of the lettuce mixture onto the center of the dough.",
+    "Fold the sides of the corn husk over the filling and roll the tamale up, then repeat with the remaining ingredients.",
+    "Steam the tamales over boiling water for 45 minutes to cook."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 45,
+  "totalTimeMin": 90,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "little-gem-lettuce",
+    "mexican-food",
+    "romantic-dinner",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 14
+  },
+  "slug": "warm-dense-mexican-little-gem-lettuce-tamales",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dense-mexican-little-gem-lettuce-tamales",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:15:25Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "reduce",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "flexitarian",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "little gem lettuce",
+    "descriptor": "Warm Dense",
+    "dishForm": "Tamales"
+  }
+}
