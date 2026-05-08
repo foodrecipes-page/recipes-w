@@ -1,0 +1,99 @@
+{
+  "title": "Warm Crispy Indian Eggplant Baingan Bharta",
+  "description": "A citrusy and crispy solo dinner Indian dish featuring fromage blanc and pickle, served in a tagine pot. This gluten free friendly baingan bharta is perfect for a weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "preferably purple"
+    },
+    {
+      "name": "fromage blanc",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the eggplants in half lengthwise and scoop out the flesh, leaving about 1/4 inch thick shell.",
+    "Heat the ghee in a tagine pot over medium heat and add the cumin seeds.",
+    "Add the chopped pickle, salt, and black pepper to the pot and cook for 1 minute.",
+    "Add the eggplant flesh to the pot and cook until it starts to soften.",
+    "Transfer the pot to the preheated oven and bake for 20 minutes.",
+    "Remove the pot from the oven and stir in the fromage blanc, lemon juice, and chopped cilantro.",
+    "Return the pot to the oven and bake for an additional 5 minutes, or until the eggplant is crispy and golden brown.",
+    "Remove the pot from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-eggplant",
+    "gluten-free",
+    "indian-food",
+    "one-pot",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "warm-crispy-indian-eggplant-baingan-bharta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-indian-eggplant-baingan-bharta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:21:07Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "pickle",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Warm Crispy",
+    "dishForm": "Baingan Bharta"
+  }
+}
