@@ -1,0 +1,93 @@
+{
+  "title": "Wildly Snappy Malaysian Cheese Curd Noodles",
+  "description": "A savory and snappy Malaysian dish featuring cheese curds and whole30-friendly ingredients, with an al-dente finish. This dish is perfect for a light and satisfying meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably made from rice flour and water"
+    },
+    {
+      "name": "cheese curds",
+      "amount": "1 cup",
+      "notes": "made from cow's milk"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "malaysian chili paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions until they are al-dente.",
+    "In a large skillet, heat the coconut oil over medium-high heat.",
+    "Add the garlic and ginger to the skillet and saute for 1 minute until fragrant.",
+    "Add the malaysian chili paste to the skillet and stir for 1 minute.",
+    "Add the cheese curds to the skillet and stir until they are well coated with the chili paste.",
+    "Add the cooked noodles to the skillet and stir until they are well combined with the cheese curds and chili paste.",
+    "Season the noodles with salt and black pepper to taste.",
+    "Serve the noodles hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lovers",
+    "gluten-free",
+    "malaysian-cuisine",
+    "noodle-dish",
+    "spicy-food",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "wildly-snappy-malaysian-cheese-curd-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-snappy-malaysian-cheese-curd-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:45:41Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "cheese curds",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "cheese curds",
+    "descriptor": "Wildly Snappy",
+    "dishForm": "Noodles"
+  }
+}
