@@ -1,0 +1,93 @@
+{
+  "title": "Warm Buttery Argentinian Beef Skewers",
+  "description": "A cozy Argentinian dish featuring beef skewers cooked in a wok with buttery infuse-oil and tomato ketchup, perfect for a cold evening. This Mediterranean-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "infuse-oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato ketchup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10",
+      "notes": "soaked in water"
+    }
+  ],
+  "instructions": [
+    "Preheat the wok over medium-high heat.",
+    "Thread the beef strips onto the soaked wooden skewers.",
+    "In a small bowl, mix together the butter, infuse-oil, tomato ketchup, garlic powder, salt, and black pepper.",
+    "Brush the mixture onto the beef skewers.",
+    "Add the skewers to the preheated wok and cook for 5 minutes per side.",
+    "Repeat the cooking process until the beef is cooked to a safe internal temperature of 145 degrees.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-recipes",
+    "high-protein",
+    "mediterranean-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "warm-buttery-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-buttery-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:40:11Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "infuse-oil",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "warm buttery",
+    "dishForm": "Skewers"
+  }
+}
