@@ -1,0 +1,90 @@
+{
+  "title": "Winey Moroccan Cherry Amlou",
+  "description": "A sweet and gooey one-pot Moroccan dish featuring cherry and char-grill-yang flavors, suitable for an ayurvedic-rajasic diet",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dried cherries",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "almond paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine the dried cherries, almond paste, honey, red wine, orange blossom water, ground cinnamon, and ground ginger",
+    "Place the saucepan over medium heat and cook, stirring constantly, until the mixture is smooth and the cherries are rehydrated",
+    "Reduce the heat to low and simmer, uncovered, for 10 minutes, stirring occasionally",
+    "Stir in the unsalted butter until it is fully incorporated and the mixture is gooey and caramel-like",
+    "Remove the saucepan from the heat and let it cool slightly",
+    "Serve the amlou warm, garnished with toasted almonds or shredded coconut if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "gluten-free",
+    "moroccan-dessert",
+    "one-pot",
+    "vegetarian",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "winey-moroccan-cherry-amlou",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-moroccan-cherry-amlou",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:57:29Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "cherry",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "cherries",
+    "descriptor": "winey gooey",
+    "dishForm": "Amlou"
+  }
+}
