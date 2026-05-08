@@ -1,0 +1,106 @@
+{
+  "title": "Warm Smoky Indian Chicken Curry",
+  "description": "A smoky and springy Indian dish featuring taleggio cheese and mushimono-steam cooking method, perfect for midnight cravings. This low-glycemic-friendly recipe is a delicious and healthy option.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "taleggio cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to brown.",
+    "Add the grated ginger and minced garlic and cook for 1 minute.",
+    "Add the smoked paprika, garam masala, salt, and black pepper, and cook for 1 minute.",
+    "Add the chicken to the saucepan and cook until it is browned on all sides and cooked through.",
+    "Add 1 cup of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the crumbled taleggio cheese until it is melted and the sauce is smooth.",
+    "Serve the curry hot, garnished with chopped fresh cilantro.",
+    "Use a steamer basket to steam the curry for 5 minutes, if desired, for a mushimono-steam effect."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indian-cuisine",
+    "low-glycemic",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "warm-smoky-indian-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-indian-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:33:37Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "taleggio",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Curry"
+  }
+}

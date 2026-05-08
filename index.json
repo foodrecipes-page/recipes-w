@@ -3023,6 +3023,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-smoky-indian-chicken-curry",
+    "title": "Warm Smoky Indian Chicken Curry",
+    "tags": [
+      "gluten-free",
+      "indian-cuisine",
+      "low-glycemic",
+      "one-pan",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-smoky-italian-pork-risotto",
     "title": "Warm Smoky Italian Pork Risotto",
     "tags": [
