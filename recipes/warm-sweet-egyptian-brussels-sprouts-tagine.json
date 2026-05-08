@@ -1,0 +1,109 @@
+{
+  "title": "Warm Sweet Egyptian Brussels Sprouts Tagine",
+  "description": "A sweet and energizing Egyptian dish featuring Brussels sprouts, with a glassy-jelly texture, perfect for a diabetic-friendly meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the halved Brussels sprouts and cook until they start to brown, about 5 minutes.",
+    "In a small bowl, whisk together the pomegranate molasses, lemon juice, and sodium alginate.",
+    "Add the molasses mixture to the saucepan and stir to combine.",
+    "Add the water to the saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the Brussels sprouts are tender, about 20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "healthy",
+    "middle-eastern",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "warm-sweet-egyptian-brussels-sprouts-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-sweet-egyptian-brussels-sprouts-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:51:04Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "spherify",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Brussels sprouts",
+    "descriptor": "Warm sweet",
+    "dishForm": "Tagine"
+  }
+}
