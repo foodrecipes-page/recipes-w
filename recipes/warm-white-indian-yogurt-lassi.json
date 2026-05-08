@@ -1,0 +1,95 @@
+{
+  "title": "Warm White Indian Yogurt Lassi",
+  "description": "A fatty and light Indian dish featuring a creamy yogurt lassi served with toasted ciabatta, this recipe is a unique and indulgent treat. It is kosher-friendly and served on a cedar plank.",
+  "cuisine": "Indian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "plain yogurt",
+      "amount": "2 cups",
+      "notes": "full fat"
+    },
+    {
+      "name": "ciabatta",
+      "amount": "1 loaf",
+      "notes": "day old"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried mint leaves",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Slice the ciabatta into 1 inch thick slices and place on a cedar plank.",
+    "Drizzle the ghee or oil over the ciabatta slices and toast in the oven for 5 minutes.",
+    "In a blender, combine the yogurt, honey, cardamom powder, water, and salt, and blend until smooth.",
+    "Remove the ciabatta from the oven and let it cool for a few minutes.",
+    "Serve the warm ciabatta slices with the yogurt lassi.",
+    "Garnish with dried mint leaves and serve immediately.",
+    "Dehydrate any leftover ciabatta slices in a low temperature oven to make crispy croutons.",
+    "Store the croutons in an airtight container for up to 2 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cedar-plank",
+    "easy-recipe",
+    "indian-food",
+    "kosher-friendly",
+    "vegetarian-snack",
+    "yogurt-lassi"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "warm-white-indian-yogurt-lassi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-white-indian-yogurt-lassi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:15:29Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "dehydrate",
+    "primaryIngredient": "ciabatta",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "yogurt",
+    "descriptor": "Warm White",
+    "dishForm": "Lassi"
+  }
+}
