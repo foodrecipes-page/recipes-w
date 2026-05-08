@@ -1,0 +1,97 @@
+{
+  "title": "Warm Comforting American Corn Casserole",
+  "description": "A resinous, pillowy, comforting American dish featuring extra clotted cream, mantecare emulsify, and satvik-friendly ingredients, perfect for a cold winter evening.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1/2 cup",
+      "notes": "extra rich"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, melt the butter over medium heat.",
+    "Add the corn kernels and cook until lightly browned, about 5 minutes.",
+    "In a large bowl, whisk together the flour, milk, eggs, salt, and pepper.",
+    "Add the clotted cream and whisk until smooth.",
+    "Add the cooked corn kernels, grated cheddar cheese, and stir until well combined.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Bake for 35-40 minutes, or until the casserole is golden brown and set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "satvik",
+    "vegetarian",
+    "weeknight",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "warm-comforting-american-corn-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-comforting-american-corn-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:49:21Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "clotted-cream-extra",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "corn",
+    "descriptor": "warm comforting",
+    "dishForm": "Casserole"
+  }
+}
