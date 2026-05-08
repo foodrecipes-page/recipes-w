@@ -4255,6 +4255,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-sweet-mexican-apricot-stew",
+    "title": "Warm Sweet Mexican Apricot Stew",
+    "tags": [
+      "comfort-food",
+      "mexican",
+      "one-pot",
+      "spicy",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-sweet-syrian-redcurrants-skewers",
     "title": "Warm Sweet Syrian Redcurrants Skewers",
     "tags": [
