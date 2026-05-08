@@ -1,0 +1,102 @@
+{
+  "title": "Wilted Quick Japanese Chives Kyushu Udon",
+  "description": "A sour and aromatic Japanese dish featuring chives, perfect for a quick Kyushu-inspired meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Udon noodles",
+      "amount": "250g",
+      "notes": "Kyushu-style thick wheat flour noodles"
+    },
+    {
+      "name": "Chives",
+      "amount": "150g",
+      "notes": "Fresh Japanese chives"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "Infused with sesame seeds"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium soy sauce for a more delicate flavor"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "To balance the acidity of the dish"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "For a touch of acidity"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Minced fresh ginger for added depth"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 small",
+      "notes": "Thinly sliced for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use kosher salt for a more nuanced flavor"
+    }
+  ],
+  "instructions": [
+    "Cook the Udon noodles according to package instructions and set aside.",
+    "In a large skillet, heat the sesame oil over medium heat.",
+    "Add the minced ginger and cook for 1 minute, until fragrant.",
+    "Add the chives and cook for 2-3 minutes, until they start to wilt.",
+    "Add the soy sauce, sugar, and rice vinegar, and stir to combine.",
+    "Return the cooked noodles to the skillet and toss to coat with the sauce.",
+    "Season with salt to taste.",
+    "Garnish with thinly sliced green onions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "korean-inspired",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "wilted-quick-japanese-chives-kyushu-udon",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-quick-japanese-chives-kyushu-udon",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:25:55Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "infuse-oil",
+    "primaryIngredient": "chives",
+    "diet": "kosher",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chives",
+    "descriptor": "Wilted Quick",
+    "dishForm": "Kyushu Udon"
+  }
+}

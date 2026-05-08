@@ -2547,6 +2547,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-saudi-arabian-bread-fried",
+    "title": "Warm Saudi-Arabian Bread Fries",
+    "tags": [
+      "bread-fries",
+      "easy-sid-dish",
+      "gluten-free-option",
+      "middle-eastern",
+      "snack-attack",
+      "veggie-friendly",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "warm-saudi-arabian-cheese-stir-fry",
     "title": "Warm Saudi Arabian Cheese Stir Fry",
     "tags": [
@@ -7444,6 +7460,20 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 18,
+    "shard": "w"
+  },
+  {
+    "slug": "wilted-quick-japanese-chives-kyushu-udon",
+    "title": "Wilted Quick Japanese Chives Kyushu Udon",
+    "tags": [
+      "high-protein",
+      "korean-inspired",
+      "one-pan",
+      "quick-fix",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {

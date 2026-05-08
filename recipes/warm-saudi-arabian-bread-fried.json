@@ -1,0 +1,85 @@
+{
+  "title": "Warm Saudi-Arabian Bread Fries",
+  "description": "A delightful twist on traditional bread, these warm Saudi-Arabian bread fries are perfect as a snack or side dish for any meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "White Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "2 teaspoons",
+      "notes": "use kosher salt for best results"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Combine flour, water, salt, and sugar in a large mixing bowl to form a sticky dough.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Form the dough into small ropes, about 4 inches long.",
+    "Heat about 2-3 inches of olive oil in a large frying pan over medium-high heat.",
+    "When the oil is hot, add a few bread ropes to the pan and fry until golden brown and crispy.",
+    "Remove the fries from the oil with a slotted spoon and drain on paper towels.",
+    "Repeat the frying process with the remaining dough ropes.",
+    "Serve the warm bread fries hot, sprinkled with salt and a squeeze of vinegar if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread-fries",
+    "easy-sid-dish",
+    "gluten-free-option",
+    "middle-eastern",
+    "snack-attack",
+    "veggie-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "warm-saudi-arabian-bread-fried",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-saudi-arabian-bread-fried",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:26:08Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "fry",
+    "primaryIngredient": "white flour",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "bread",
+    "descriptor": "warm",
+    "dishForm": "fried"
+  }
+}
