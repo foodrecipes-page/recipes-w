@@ -1,0 +1,123 @@
+{
+  "title": "winey crispy tuscan tortellini",
+  "description": "A crispy, wine-infused twist on traditional tortellini, featuring currants and a hint of Tuscan charm. Perfect for a weekend brunch or special occasion.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "tortellini",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "curly endive",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "currants",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tbsp",
+      "notes": "cheesy flavor without the dairy"
+    },
+    {
+      "name": "kale",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon olive oil in a large skillet over medium-high heat.",
+    "Add curly endive and cook until slightly wilted, about 2-3 minutes.",
+    "Add garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add white wine and cook until the liquid has reduced by half, about 2-3 minutes.",
+    "Add currants and cook until they start to soften, about 1-2 minutes.",
+    "Add tortellini, nutritional yeast, and a pinch of salt and pepper. Toss to combine.",
+    "Transfer the skillet to the oven and bake at 375°F until crispy and golden brown, about 10-12 minutes.",
+    "Garnish with lemon zest and additional curly endive if desired.",
+    "Toss with additional currants and pine nuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "easter",
+    "gluten-free",
+    "italian",
+    "italian-american",
+    "spring",
+    "tuscan",
+    "vegetarian",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "winey-crispy-tuscan-tortellini-tortellini",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-crispy-tuscan-tortellini-tortellini",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:38:53Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "currants",
+    "diet": "ayurvedic-tamasic",
+    "region": "tuscan",
+    "cuisineAdjective": "tuscan",
+    "mainIngredient": "tortellini",
+    "descriptor": "winey crispy",
+    "dishForm": "Tortellini"
+  }
+}

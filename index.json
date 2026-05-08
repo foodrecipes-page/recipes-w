@@ -5078,6 +5078,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spicy-jamaican-veal-skillet",
+    "title": "Warm Spicy Jamaican Veal Skillet",
+    "tags": [
+      "flexitarian",
+      "high-protein",
+      "jamaican-inspired",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spicy-kenyan-apple-tagine",
     "title": "Warm Spicy Kenyan Apple Tagine",
     "tags": [
@@ -11414,6 +11429,24 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-crispy-tuscan-tortellini-tortellini",
+    "title": "winey crispy tuscan tortellini",
+    "tags": [
+      "brunch",
+      "easter",
+      "gluten-free",
+      "italian",
+      "italian-american",
+      "spring",
+      "tuscan",
+      "vegetarian",
+      "weekend"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {

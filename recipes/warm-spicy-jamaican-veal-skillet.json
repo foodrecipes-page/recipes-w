@@ -1,0 +1,101 @@
+{
+  "title": "Warm Spicy Jamaican Veal Skillet",
+  "description": "A light and flavorful Jamaican dish featuring veal, with a mother-sauce-base and a flexitarian-friendly twist, perfect for satisfying midnight cravings. This recipe is made in an iron teppan for a crispy crust and a tender interior.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "veal cutlets",
+      "amount": "1 pound",
+      "notes": "pounded thin"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Season the veal cutlets with salt and pepper.",
+    "Coat the veal cutlets in flour, shaking off excess.",
+    "Heat the oil in the iron teppan over medium-high heat.",
+    "Add the veal cutlets to the teppan and cook for 3 minutes per side.",
+    "Remove the veal from the teppan and set aside.",
+    "Add the diced onion to the teppan and cook until translucent.",
+    "Add the diced scotch bonnet peppers and cook for an additional 2 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the soy sauce, brown sugar, and thyme to the teppan and stir to combine.",
+    "Return the veal cutlets to the teppan and simmer in the sauce for 5 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "high-protein",
+    "jamaican-inspired",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "warm-spicy-jamaican-veal-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-jamaican-veal-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:38:37Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "veal",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "veal",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Skillet"
+  }
+}
