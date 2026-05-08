@@ -1,0 +1,96 @@
+{
+  "title": "Wildly Wet Polish Herring Pasta",
+  "description": "A savory Polish dish featuring a rich sauce and brine-wet herring, perfect for a satisfying dinner. This pescatarian-friendly recipe combines the flavors of the sea with traditional Polish ingredients.",
+  "cuisine": "Polish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "herring fillets",
+      "amount": "12 oz",
+      "notes": "brine-wet"
+    },
+    {
+      "name": "pappardelle pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions.",
+    "Drain the pasta and set it aside.",
+    "In a large skillet, heat some oil over medium heat and saute the onion until it is translucent.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the herring fillets to the skillet and cook for about 2 minutes on each side.",
+    "In a large bowl, whisk together the sour cream, chopped fresh dill, lemon juice, salt, and black pepper.",
+    "Add the cooked pasta to the bowl and toss it with the sour cream sauce.",
+    "Add the cooked herring to the bowl and toss everything together.",
+    "Serve the Wildly Wet Polish Herring Pasta hot, garnished with additional chopped fresh dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-weeknight",
+    "one-pot",
+    "pescatarian",
+    "polish-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "wildly-wet-polish-herring-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-wet-polish-herring-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:21:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "brine-wet",
+    "primaryIngredient": "sauce",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "herring",
+    "descriptor": "Wildly Wet",
+    "dishForm": "Pasta"
+  }
+}
