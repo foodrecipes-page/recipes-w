@@ -1,0 +1,104 @@
+{
+  "title": "Warmly Roasted Saudi Arabian Lamb Kebabs",
+  "description": "A traditional Saudi Arabian dish featuring roasted lamb, stilton cheese, and agemono-deep-fry, perfect for a high-protein meal or hangover cure. This recipe is cooked on a robata-grill for a crispy exterior and a warm, juicy interior.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "stilton cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, cumin, coriander, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the robata-grill and cook for 10-12 minutes, or until the lamb is cooked through and slightly charred.",
+    "While the lamb is cooking, heat about 1-2 inches of oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Once the oil is hot, add the crumbled stilton cheese and fry until golden brown and crispy, about 2-3 minutes.",
+    "Remove the cheese from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the roasted lamb kebabs with the crispy stilton cheese, pita bread, and your choice of toppings.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "agemono-deep-fry",
+    "high-protein",
+    "lamb-kebabs",
+    "robata-grill",
+    "saudi-arabian",
+    "stilton-cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "warmly-roasted-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-roasted-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:43:45Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "stilton cheese",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Warmly Roasted",
+    "dishForm": "Kebabs"
+  }
+}
