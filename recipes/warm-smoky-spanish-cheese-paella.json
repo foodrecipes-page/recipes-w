@@ -1,0 +1,94 @@
+{
+  "title": "Warm Smoky Spanish Cheese Paella",
+  "description": "A tangy and smoky post-workout Spanish dish featuring paella rice and melted cheese, served in a traditional cazuela vessel.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": "preferably Spanish bomba rice"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chorizo",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "manchego cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cazuela over medium-high heat.",
+    "Add the sliced chorizo and cook until browned, about 5 minutes.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the paella rice and cook for 2 minutes, stirring constantly.",
+    "Add the chicken broth, sea salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Stir in the shredded manchego cheese until melted and well combined.",
+    "Serve the paella hot, straight from the cazuela."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "gluten-free",
+    "one-pan",
+    "post-workout",
+    "smoky",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "warm-smoky-spanish-cheese-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-spanish-cheese-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:27:47Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "post-workout",
+    "technique": "smoke",
+    "primaryIngredient": "paella rice",
+    "diet": "egg-free",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cheese",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Paella"
+  }
+}
