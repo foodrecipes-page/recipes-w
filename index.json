@@ -640,6 +640,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-crispy-german-potato-hash",
+    "title": "Warm Crispy German Potato Hash",
+    "tags": [
+      "brunch-recipe",
+      "crispy-hash",
+      "german-cuisine",
+      "gluten-free",
+      "potato-hash",
+      "whole30"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crispy-indian-eggplant-baingan-bharta",
     "title": "Warm Crispy Indian Eggplant Baingan Bharta",
     "tags": [
@@ -3720,6 +3735,20 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-uruguayan-pork-knuckle-wrap",
+    "title": "Warm Uruguayan Pork Knuckle Wrap",
+    "tags": [
+      "braised-meat",
+      "comfort-food",
+      "one-pot",
+      "pork-dishes",
+      "south-american"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 150,
     "shard": "w"
   },
   {

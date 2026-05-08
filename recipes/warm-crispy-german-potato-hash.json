@@ -1,0 +1,95 @@
+{
+  "title": "Warm Crispy German Potato Hash",
+  "description": "A citrusy and crispy German dish featuring cumin, perfect for a brunch mood, made with whole30-friendly ingredients. This recipe is a delicious and healthy twist on traditional hash browns.",
+  "cuisine": "German",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Grate the potatoes and onions, and squeeze out as much moisture as possible using a paper towel or clean dish towel.",
+    "In a large bowl, combine the grated potatoes and onions, cumin, salt, and black pepper, and mix well.",
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the potato mixture to the skillet, and press down with a spatula to form a flat layer.",
+    "Cook the hash for 5 minutes, or until the bottom is golden brown and crispy.",
+    "Flip the hash over, and cook for an additional 5 minutes, or until the other side is also golden brown and crispy.",
+    "Remove the hash from the skillet, and stir in the lemon juice and chopped parsley.",
+    "Serve the hash hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-recipe",
+    "crispy-hash",
+    "german-cuisine",
+    "gluten-free",
+    "potato-hash",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "warm-crispy-german-potato-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-german-potato-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:55:32Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "fry",
+    "primaryIngredient": "cumin",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "potatoes",
+    "descriptor": "Warm Crispy",
+    "dishForm": "Hash"
+  }
+}

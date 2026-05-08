@@ -1,0 +1,93 @@
+{
+  "title": "Warm Uruguayan Pork Knuckle Wrap",
+  "description": "A traditional Uruguayan dish featuring pork knuckle, mirepoix base, wrapped in a ti leaf, this recipe is a unique blend of flavors and textures, suitable for a Buddhist temple gathering.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork knuckle",
+      "amount": "2 pounds",
+      "notes": "skin removed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the chopped onion, carrot, and celery, and cook until the vegetables are tender.",
+    "Add the pork knuckle to the pot, and cook until browned on all sides.",
+    "Cover the pot, and transfer to the preheated oven.",
+    "Braise the pork for 2 hours, or until tender and easily shredded.",
+    "Shred the pork, and season with salt and black pepper.",
+    "Wrap the shredded pork in ti leaves, and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "braised-meat",
+    "comfort-food",
+    "one-pot",
+    "pork-dishes",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 50
+  },
+  "slug": "warm-uruguayan-pork-knuckle-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-uruguayan-pork-knuckle-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:55:35Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "pork knuckle",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "pork knuckle",
+    "descriptor": "Warm Crunchy",
+    "dishForm": "Wrap"
+  }
+}
