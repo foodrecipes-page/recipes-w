@@ -1,0 +1,96 @@
+{
+  "title": "Warm Creamy Brazilian Coconut Pudding",
+  "description": "A sweet and creamy Brazilian dessert featuring coconut and tarragon, cooked in a copper pot and suitable for ovo-vegetarians.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 1/2 cups",
+      "notes": "full fat"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "4"
+    },
+    {
+      "name": "tarragon leaves",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "binchotan charcoal infused water",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a copper pot, combine the coconut milk, sugar, and salt, and heat over medium heat, stirring occasionally.",
+    "In a small bowl, whisk together the egg yolks and vanilla extract.",
+    "Gradually add the warm coconut milk mixture to the egg yolks, whisking constantly.",
+    "Return the mixture to the copper pot and cook over low heat, stirring constantly, until the mixture thickens.",
+    "Remove the pot from the heat and stir in the toasted unsweetened shredded coconut and fresh tarragon leaves.",
+    "Strain the pudding into individual serving cups, if desired, and discard the tarragon leaves.",
+    "If using binchotan charcoal infused water, stir it in at this point.",
+    "Let the pudding cool to room temperature, then cover and refrigerate until chilled.",
+    "Serve the pudding warm, reheated gently in the copper pot if necessary."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-desserts",
+    "coconut-based",
+    "copper-pot",
+    "ovo-vegetarian",
+    "romantic-dinner",
+    "tarragon-flavored",
+    "warm-pudding"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "warm-creamy-brazilian-coconut-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-creamy-brazilian-coconut-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:48:58Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "tarragon-french",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "coconut",
+    "descriptor": "Warm creamy",
+    "dishForm": "Pudding"
+  }
+}
