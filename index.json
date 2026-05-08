@@ -233,6 +233,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-buttery-jamaican-chicken-paella",
+    "title": "Warm Buttery Jamaican Chicken Paella",
+    "tags": [
+      "chicken",
+      "jamaican",
+      "low-glycemic",
+      "one-pan",
+      "paella",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-buttery-moroccan-chicken-tagine",
     "title": "Warm Buttery Moroccan Chicken Tagine",
     "tags": [

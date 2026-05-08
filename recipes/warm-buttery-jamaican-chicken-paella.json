@@ -1,0 +1,93 @@
+{
+  "title": "Warm Buttery Jamaican Chicken Paella",
+  "description": "A flavorful and aromatic Jamaican dish featuring chicken, natural yoghurt, and spices, perfect for a weeknight dinner. This recipe is low-glycemic-friendly and can be prepared in under an hour.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "natural yoghurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the jerk seasoning to the skillet and cook for 1 minute.",
+    "Add the rice to the skillet and cook for 2 minutes, stirring constantly.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover the skillet, and simmer for 20 minutes.",
+    "Stir in the yoghurt and cook for an additional 2 minutes.",
+    "Season the paella with salt to taste.",
+    "Garnish with scallions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "jamaican",
+    "low-glycemic",
+    "one-pan",
+    "paella",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "warm-buttery-jamaican-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-buttery-jamaican-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:49:06Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "steam",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Buttery",
+    "dishForm": "Paella"
+  }
+}
