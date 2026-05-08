@@ -1830,6 +1830,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-greek-chickpeas-revithia",
+    "title": "Warm Greek Chickpeas Revithia",
+    "tags": [
+      "greek-cuisine",
+      "kid-friendly",
+      "lunchbox",
+      "one-pot",
+      "plant-based",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-greek-feta-tiropita",
     "title": "Warm Greek Feta Tiropita",
     "tags": [
