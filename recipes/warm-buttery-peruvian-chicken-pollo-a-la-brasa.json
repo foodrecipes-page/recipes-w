@@ -1,0 +1,111 @@
+{
+  "title": "Warm Buttery Peruvian Chicken Pollo A La Brasa",
+  "description": "This Peruvian dish is a hangover cure featuring tender chicken, savoy cabbage, and a blend of spices, all infused with buttery goodness. It is a satvik-friendly pollo a la brasa recipe.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "satvik",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "4",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "savoy cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "2",
+      "notes": "seeded, chopped"
+    },
+    {
+      "name": "peruvian spices",
+      "amount": "2 tablespoons",
+      "notes": "including paprika, cumin, coriander"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a mortar and pestle, pound the garlic, ginger, and aji amarillo pepper into a smooth paste.",
+    "In a large bowl, whisk together the melted butter, peruvian spices, salt, and black pepper.",
+    "Add the pounded paste to the bowl and mix until well combined.",
+    "Add the chicken legs to the bowl and coat with the butter and spice mixture.",
+    "Place the chicken on a baking sheet lined with parchment paper and bake for 30 minutes.",
+    "While the chicken is baking, heat a large skillet over medium heat and add the shredded savoy cabbage.",
+    "Cook the cabbage until it is tender and slightly caramelized, about 20 minutes.",
+    "After the chicken has baked for 30 minutes, brush it with the pan juices and continue baking for an additional 15 minutes.",
+    "Serve the chicken with the cooked savoy cabbage and garnish with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "comfort-food",
+    "dinner-ideas",
+    "gluten-free",
+    "peruvian-cuisine",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "warm-buttery-peruvian-chicken-pollo-a-la-brasa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-buttery-peruvian-chicken-pollo-a-la-brasa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:55:59Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Buttery",
+    "dishForm": "Pollo A La Brasa"
+  }
+}
