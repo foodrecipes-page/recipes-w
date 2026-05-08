@@ -2334,6 +2334,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-malty-british-grape-nuts-skewers",
+    "title": "Warm Malty British Grape Nuts Skewers",
+    "tags": [
+      "british-inspired",
+      "crowd-pleaser",
+      "easy-to-make",
+      "grape-nuts",
+      "malty",
+      "nut-free",
+      "robata-grill"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "warm-malty-british-lamb-casserole",
     "title": "Warm Malty British Lamb Casserole",
     "tags": [
@@ -3224,6 +3240,20 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 32,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-smoky-dutch-carrot-stew",
+    "title": "Warm Smoky Dutch Carrot Stew",
+    "tags": [
+      "comfort-food",
+      "one-pot",
+      "smoky",
+      "vegan-friendly",
+      "winter-stew"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {

@@ -1,0 +1,95 @@
+{
+  "title": "Warm Malty British Grape Nuts Skewers",
+  "description": "A light and crowd-pleasing British dish featuring Grape Nuts cereal, perfect for a snack or dessert. This malty treat is easy to make and fun to eat.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grape Nuts cereal",
+      "amount": "2 cups",
+      "notes": "crushed into fine crumbs"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "20",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the malt syrup, honey, and melted butter until well combined.",
+    "In a separate bowl, whisk together the eggs, plain yogurt, and vanilla extract until smooth.",
+    "Add the crushed Grape Nuts cereal to the egg mixture and stir until the cereal is evenly coated.",
+    "Add the malt syrup mixture to the cereal mixture and stir until a thick batter forms.",
+    "Thread a small amount of the batter onto each skewer, leaving a small space between each piece.",
+    "Place the skewers on the robata grill and cook for 5-7 minutes, or until the cereal is lightly toasted.",
+    "Serve the Warm Malty British Grape Nuts Skewers hot, garnished with additional malt syrup if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "british-inspired",
+    "crowd-pleaser",
+    "easy-to-make",
+    "grape-nuts",
+    "malty",
+    "nut-free",
+    "robata-grill"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "warm-malty-british-grape-nuts-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-malty-british-grape-nuts-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:20:50Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "grape nut cereal",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Grape Nuts",
+    "descriptor": "Warm Malty",
+    "dishForm": "Skewers"
+  }
+}
