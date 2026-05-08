@@ -1,0 +1,110 @@
+{
+  "title": "Wok-Wok Steamed Syrian Clams Wrap",
+  "description": "A rich and indulgent Syrian dish featuring clams, steamed in a wok with spices and herbs, served in a crispy corn husk wrap.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Corn husk wraps",
+      "amount": "4"
+    },
+    {
+      "name": "Fresh clams",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a large wok or skillet over medium heat.",
+    "Add the unsalted butter and let it melt.",
+    "Add the garlic and ginger paste and sauté for 1 minute.",
+    "Add the clams, paprika, salt, and black pepper. Stir to combine.",
+    "Add 2 cups of water to the wok and bring to a boil.",
+    "Reduce the heat to low and cover the wok with a lid.",
+    "Steam the clams for 3-4 minutes or until they open.",
+    "Remove the clams from the wok and set them aside.",
+    "Add the parsley, feta cheese, and lemon juice to the wok.",
+    "Stir to combine and cook for an additional 1-2 minutes.",
+    "Warm the corn husk wraps according to the package instructions.",
+    "Assemble the wraps by placing the clam mixture onto the center of each wrap and serving immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "high-protein",
+    "indulgent",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "wok-wok-steamed-syrian-clams-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wok-wok-steamed-syrian-clams-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:23:55Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "clams",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Clams",
+    "descriptor": "Wok-Wok Steamed",
+    "dishForm": "Wrap"
+  }
+}
