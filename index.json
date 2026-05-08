@@ -6723,6 +6723,21 @@
     "shard": "w"
   },
   {
+    "slug": "warmly-steamed-australian-lentil-stew",
+    "title": "Warmly Steamed Australian Lentil Stew",
+    "tags": [
+      "australian-cuisine",
+      "lentil-stew",
+      "one-pot",
+      "steam-cooking",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
     "slug": "warmly-steamed-dutch-jerusalem-artichokes-pilaf",
     "title": "Warmly Steamed Dutch Jerusalem Artichokes Pilaf",
     "tags": [

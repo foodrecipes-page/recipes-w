@@ -1,0 +1,114 @@
+{
+  "title": "Warmly Steamed Australian Lentil Stew",
+  "description": "A hearty and comforting lentil stew featuring Australian ingredients, cooked to perfection in a cataplana vessel using mushimono steam, perfect for a midnight craving. This shojin-friendly dish is jammy and shattering, with a rich and satisfying flavor.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the cataplana vessel over medium heat.",
+    "Add the chopped onion, carrot, and celery, and cook until the vegetables are tender, about 10 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute, stirring constantly to prevent burning.",
+    "Add the red lentils, vegetable broth, tomato paste, thyme, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the cataplana vessel with a lid.",
+    "Steam the stew over low heat for 30 minutes, or until the lentils are tender and the stew has thickened.",
+    "Remove the cataplana vessel from the heat and let it cool slightly.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "lentil-stew",
+    "one-pot",
+    "steam-cooking",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "warmly-steamed-australian-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-steamed-australian-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:45:29Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "lentils",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lentils",
+    "descriptor": "Warmly Steamed",
+    "dishForm": "Stew"
+  }
+}
