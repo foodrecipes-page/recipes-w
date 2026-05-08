@@ -1,0 +1,95 @@
+{
+  "title": "Warm Smoky Polish Mushroom Casserole",
+  "description": "A hearty, earthy Polish dish featuring mushrooms and a smoky flavor, perfect for a family dinner. This low-sodium casserole is kid-friendly and served in individual ramekins.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg noodles",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cook the egg noodles according to package instructions.",
+    "In a large skillet, saute the onion and garlic until softened.",
+    "Add the mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "Stir in the smoked paprika and salt-free seasoning blend.",
+    "In a large bowl, combine the cooked noodles, mushroom mixture, and sour cream.",
+    "Stir in the shredded cheese until well combined.",
+    "Divide the mixture among 6 ramekins.",
+    "Bake for 20-25 minutes or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "casserole",
+    "kid-friendly",
+    "low-sodium",
+    "mushroom-based",
+    "polish-cuisine",
+    "ramekin"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "warm-smoky-polish-mushroom-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-polish-mushroom-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:11:43Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "smoke",
+    "primaryIngredient": "hail",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Casserole"
+  }
+}
