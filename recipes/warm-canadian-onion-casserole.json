@@ -1,0 +1,99 @@
+{
+  "title": "Warm Canadian Onion Casserole",
+  "description": "A garlicky, velvety one-pot Canadian dish featuring onions, perfect for a cold winter night, vegetarian-friendly and wood-fired-bake inspired",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "3 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large Dutch oven, heat the olive oil over medium heat",
+    "Add the sliced onions and cook until they are softened and lightly browned",
+    "Add the minced garlic and cook for an additional minute",
+    "Sprinkle the flour over the onions and garlic, stirring to combine",
+    "Gradually add the vegetable broth and milk, whisking constantly",
+    "Bring the mixture to a simmer and cook until it thickens",
+    "Stir in the shredded cheddar cheese until melted and smooth",
+    "Season with salt and black pepper to taste",
+    "Transfer the Dutch oven to the preheated oven and bake for 20 minutes"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "casserole",
+    "comfort-food",
+    "garlic-lovers",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "warm-canadian-onion-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-canadian-onion-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:50:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "onions",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "onions",
+    "descriptor": "Wood fired",
+    "dishForm": "Casserole"
+  }
+}

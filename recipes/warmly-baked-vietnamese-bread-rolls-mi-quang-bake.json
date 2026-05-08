@@ -1,0 +1,101 @@
+{
+  "title": "Warmly Baked Vietnamese Bread Rolls Mi Quang Bake",
+  "description": "A resinous and fluffy Vietnamese dish featuring bread rolls, perfect for midnight cravings, made with ayurvedic-rajasic-friendly ingredients and baked to perfection on a binchotan grill in the form of mi quang.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bread rolls",
+      "amount": "12",
+      "notes": "preferably day old bread"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grilled tofu",
+      "amount": "1 cup",
+      "notes": "marinated in soy sauce and maple syrup"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pickled daikon",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chili sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 400 degrees Fahrenheit.",
+    "Slice the bread rolls in half and brush with vegetable oil.",
+    "Grill the bread rolls for 2 minutes on each side, until lightly toasted.",
+    "Fill the bread rolls with grilled tofu, pickled carrots, pickled daikon, and chopped cilantro.",
+    "Drizzle the chili sauce and lime juice over the filling.",
+    "Season with salt and black pepper to taste.",
+    "Bake the filled bread rolls in the preheated grill for 5 minutes, until warmed through.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan-grill",
+    "grilled-tofu",
+    "midnight-cravings",
+    "pickled-vegetables",
+    "snack-ideas",
+    "vietnamese-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "warmly-baked-vietnamese-bread-rolls-mi-quang-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-baked-vietnamese-bread-rolls-mi-quang-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:50:03Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "bake",
+    "primaryIngredient": "bread rolls",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "bread rolls",
+    "descriptor": "Warmly baked",
+    "dishForm": "Mi Quang Bake"
+  }
+}

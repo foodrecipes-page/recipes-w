@@ -1,0 +1,94 @@
+{
+  "title": "Warm Light Malaysian Peas Fried Rice",
+  "description": "A salty and light Malaysian dish featuring peas, this recipe is perfect for a low-calorie meal, with a balance of score-fat to keep you full",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-calorie",
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat",
+    "Add the diced onion and cook until translucent",
+    "Add the minced garlic and cook for another minute",
+    "Add the peas and cook until they are tender",
+    "Add the cooked rice to the skillet or wok and stir-fry for about 5 minutes",
+    "Add the soy sauce, salt, and pepper, and stir-fry for another minute",
+    "Taste and adjust the seasoning as needed",
+    "Serve the Warm Light Malaysian Peas Fried Rice hot"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meal",
+    "low-calorie",
+    "malaysian-cuisine",
+    "one-pan",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "warm-light-malaysian-peas-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-light-malaysian-peas-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:50:26Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "light",
+    "technique": "score-fat",
+    "primaryIngredient": "peas",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "peas",
+    "descriptor": "Warm Light",
+    "dishForm": "Fried-Rice"
+  }
+}

@@ -291,6 +291,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-canadian-onion-casserole",
+    "title": "Warm Canadian Onion Casserole",
+    "tags": [
+      "canadian",
+      "casserole",
+      "comfort-food",
+      "garlic-lovers",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
     "slug": "warm-canadian-prunes-pie",
     "title": "Warm Canadian Prunes Pie",
     "tags": [
@@ -2098,6 +2113,20 @@
     ],
     "cuisine": "Asian",
     "totalTimeMin": 65,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-light-malaysian-peas-fried-rice",
+    "title": "Warm Light Malaysian Peas Fried Rice",
+    "tags": [
+      "easy-meal",
+      "low-calorie",
+      "malaysian-cuisine",
+      "one-pan",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -4504,6 +4533,21 @@
     "shard": "w"
   },
   {
+    "slug": "warmly-baked-vietnamese-bread-rolls-mi-quang-bake",
+    "title": "Warmly Baked Vietnamese Bread Rolls Mi Quang Bake",
+    "tags": [
+      "binchotan-grill",
+      "grilled-tofu",
+      "midnight-cravings",
+      "pickled-vegetables",
+      "snack-ideas",
+      "vietnamese-food"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warmly-caramelized-turkish-chickpeas-pilaf",
     "title": "Warmly Caramelized Turkish Chickpeas Pilaf",
     "tags": [
@@ -4843,6 +4887,22 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 180,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-spiced-ethiopian-sea-bass-tartare",
+    "title": "Warmly Spiced Ethiopian Sea Bass Tartare",
+    "tags": [
+      "ethiopian-cuisine",
+      "fresh-herbs",
+      "gluten-free",
+      "high-protein",
+      "pescatarian",
+      "seafood",
+      "spicy"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 20,
     "shard": "w"
   },
   {

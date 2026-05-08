@@ -1,0 +1,101 @@
+{
+  "title": "Warmly Spiced Ethiopian Sea Bass Tartare",
+  "description": "A nutty and flaky Ethiopian dish featuring sashimi-cut sea bass fillets, perfect for a hangover cure, and served on a wooden board. This ayurvedic-rajasic-friendly recipe combines warm spices with fresh ingredients.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "1 pound",
+      "notes": "sashimi-grade"
+    },
+    {
+      "name": "mitmita spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cut the sea bass fillets into small sashimi-cut pieces and place them on a wooden board.",
+    "Mix the mitmita spice blend, lemon juice, olive oil, minced garlic, salt, and black pepper in a small bowl.",
+    "Pour the spice mixture over the sea bass pieces and gently mix until they are well coated.",
+    "Sprinkle the chopped fresh parsley, chopped fresh cilantro, and toasted sesame seeds over the top of the sea bass.",
+    "Serve the tartare immediately, garnished with additional parsley and cilantro if desired.",
+    "Make sure to handle the sashimi-grade sea bass safely and keep it refrigerated at a temperature of 38 degrees Fahrenheit or below.",
+    "Consume the tartare within a few hours of preparation to ensure food safety.",
+    "Consider serving the tartare with traditional Ethiopian injera bread or crackers for a more authentic experience."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "fresh-herbs",
+    "gluten-free",
+    "high-protein",
+    "pescatarian",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "warmly-spiced-ethiopian-sea-bass-tartare",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-ethiopian-sea-bass-tartare",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:50:58Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "sea bass",
+    "descriptor": "Warmly spiced",
+    "dishForm": "Tartare"
+  }
+}
