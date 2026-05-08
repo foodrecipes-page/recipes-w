@@ -1,0 +1,102 @@
+{
+  "title": "Warmly Spiced Croatian Lamb Skewers",
+  "description": "A flavorful and aromatic Croatian dish featuring lamb skewers with a blend of warm spices and tamarind pulp, perfect for a post-workout meal. This satvik-friendly recipe uses sous-vide cooking for tender and juicy lamb.",
+  "cuisine": "Croatian",
+  "diet": [
+    "satvik",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "tamarind pulp",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 tablespoon",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, tamarind pulp, paprika, garlic powder, salt, black pepper, rosemary, and bay leaves.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers in a single layer in the sous-vide machine and cook for 2 hours.",
+    "Remove the skewers from the sous-vide machine and brush with lemon juice.",
+    "Serve the lamb skewers hot, garnished with additional rosemary and bay leaves if desired.",
+    "Let the skewers rest for 10 minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "gluten-free",
+    "lamb-recipes",
+    "post-workout-meals",
+    "satvik-friendly",
+    "sous-vide-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "warmly-spiced-croatian-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-croatian-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:07:06Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "tamarind pulp",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "Warmly spiced",
+    "dishForm": "Skewers"
+  }
+}
