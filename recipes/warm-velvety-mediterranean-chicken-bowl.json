@@ -1,0 +1,125 @@
+{
+  "title": "warm velvety mediterranean chicken bowl",
+  "description": "tender chicken in a rich earthy broth, served in a dolsot stone bowl with crispy air-fried vegetables.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "fodmap-friendly",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "fodmap-friendly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for air frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375°f and the oven to 400°f.",
+    "Season the chicken breast with salt and cook in the air fryer for 12 minutes, flipping halfway.",
+    "While the chicken cooks, heat the olive oil in a medium saucepan over medium heat.",
+    "Add the sliced onion and cook for 5 minutes, or until softened.",
+    "Add the minced garlic and cook for 1 minute, or until fragrant.",
+    "Add the canned diced tomatoes, smoked paprika, and crushed red pepper (if using) to the saucepan.",
+    "Stir to combine, then bring the mixture to a simmer.",
+    "Reduce the heat to low and cook for 10 minutes, stirring occasionally.",
+    "While the tomato sauce cooks, reheat the chicken broth in a separate saucepan over low heat.",
+    "To assemble the bowls, place a cooked chicken breast in the bottom of a dolsot stone bowl.",
+    "Add a spoonful of the tomato sauce over the top of the chicken.",
+    "Add a spoonful of the artichoke hearts and kalamata olives on top of the tomato sauce.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 22,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "warm-velvety-mediterranean-chicken-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-velvety-mediterranean-chicken-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:43:05Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "air-fry",
+    "primaryIngredient": "chicken stock",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Chicken",
+    "descriptor": "Warm Velvety",
+    "dishForm": "Bowl"
+  }
+}
