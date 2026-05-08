@@ -1,0 +1,107 @@
+{
+  "title": "Wonderful Crispy Middle Eastern Vegetable Spring Rolls",
+  "description": "Fresh and crispy Middle Eastern spring rolls filled with vegetables, perfect for a healthy snack or meal prep, featuring egg roll wrappers and an emulsified sauce for a raw-friendly flavor boost.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "egg roll wrappers",
+      "amount": "20 sheets",
+      "notes": "found in most supermarkets"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": "grated"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "hummus",
+      "amount": "1/2 cup",
+      "notes": "as emulsifier"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated cucumber, carrots, zucchini, and diced red bell pepper.",
+    "In a small bowl, mix hummus with sumac and salt.",
+    "Lay an egg roll wrapper on a flat surface and brush edges with water.",
+    "Place about 1 tablespoon of the vegetable mixture in the center of the wrapper.",
+    "Drizzle a small amount of the hummus mixture over the vegetables.",
+    "Fold the bottom half of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with remaining wrappers and filling.",
+    "Heat olive oil in a large skillet over medium-high heat and fry the spring rolls until crispy and golden brown.",
+    "Serve hot and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 20,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "meal-prep",
+    "middle-eastern",
+    "raw-friendly",
+    "snack",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "wonderful-crispy-middle-eastern-vegetable-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wonderful-crispy-middle-eastern-vegetable-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:08:35Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "emulsify",
+    "primaryIngredient": "egg roll wrappers",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "vegetables",
+    "descriptor": "Wonderful Crispy",
+    "dishForm": "Spring Rolls"
+  }
+}
