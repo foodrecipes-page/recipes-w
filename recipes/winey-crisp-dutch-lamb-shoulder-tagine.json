@@ -1,0 +1,117 @@
+{
+  "title": "Winey Crisp Dutch Lamb Shoulder Tagine",
+  "description": "A unique, flavorful lamb shoulder dish from the Netherlands, perfect for a solo dinner, halal-friendly and wine-pairable.",
+  "cuisine": "Dutch",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Dutch carrot",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the lamb shoulder into 1-inch pieces and season with salt, black pepper, and dried thyme.",
+    "Heat the olive oil in a Dutch oven over medium-high heat and brown the lamb pieces on all sides.",
+    "Remove the lamb from the pot and set aside. Add the sliced onion, minced garlic, chopped carrot, and sliced celery to the pot, cooking until the vegetables are tender.",
+    "Add the white wine to the pot, scraping up any browned bits from the bottom, then add the chicken broth and bring to a boil.",
+    "Return the lamb to the pot, cover, and transfer to the oven. Braise the lamb and vegetables for 2 hours at 300°F (150°C).",
+    "Remove the pot from the oven and stir in the chopped parsley. Serve the lamb and vegetables hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "gluten-free",
+    "halal",
+    "lamb",
+    "one-pan",
+    "wine-pairable"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "winey-crisp-dutch-lamb-shoulder-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-crisp-dutch-lamb-shoulder-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:28:09Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "lamb shoulder",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Lamb shoulder",
+    "descriptor": "Winey, crisp",
+    "dishForm": "Tagine"
+  }
+}
