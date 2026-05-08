@@ -1,0 +1,104 @@
+{
+  "title": "Warm Crispy Venezuelan Chicken Empanadas",
+  "description": "A crispy and flavorful Venezuelan dish featuring chicken and citrus, perfect for a date night, this recipe is low in sodium and uses render fat for added flavor, the empanadas are boiled in water before being fried to a crispy golden brown.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "render fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the orange juice, salt, and black pepper.",
+    "Add the chicken breast to the bowl and marinate for at least 30 minutes.",
+    "Heat the render fat in a large skillet over medium heat.",
+    "Remove the chicken from the marinade and cook in the skillet until browned on all sides.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the chicken mixture onto the center of each dough circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Bring the water to a boil in a large pot and gently add the empanadas to the pot.",
+    "Boil the empanadas for 5 minutes, then remove them from the water with a slotted spoon.",
+    "Heat about 1/2 inch of render fat in a large skillet over medium heat and fry the empanadas until crispy and golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "crispy",
+    "date-night",
+    "latin-american",
+    "low-sodium",
+    "render-fat",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "warm-crispy-venezuelan-chicken-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-venezuelan-chicken-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:49:27Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "render-fat",
+    "primaryIngredient": "boiling water",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Crispy",
+    "dishForm": "Empanadas"
+  }
+}
