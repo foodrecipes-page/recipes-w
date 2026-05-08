@@ -1,0 +1,124 @@
+{
+  "title": "Winey Crisp Tunisian Fish Tagine",
+  "description": "A pescatarian-friendly Tunisian dish that combines the flavors of pickles, wine, and fish in a crispy, wine-infused sauce, perfect for a midnight craving.",
+  "cuisine": "North African",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets (4-6)",
+      "amount": "4-6",
+      "notes": "White fish such as tilapia or sea bass works well"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin olive oil for cooking"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Pickles",
+      "amount": "1 cup",
+      "notes": "Chopped dill pickles for added flavor"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": "Dry white wine for deglazing"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium broth for added moisture"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "Concentrated tomato paste for added depth"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground cumin for added warmth"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "Ground coriander for added citrus"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Fresh cilantro for garnish"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large clay or ceramic tagine over medium heat.",
+    "Add sliced onions and cook until translucent, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute, until fragrant.",
+    "Add chopped pickles, white wine, chicken broth, tomato paste, cumin, and coriander.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Add fish fillets to the tagine and cook for 8-10 minutes, until cooked through.",
+    "Garnish with fresh cilantro and serve with lemon wedges on the side.",
+    "To make a beurre monte, melt 2 tbsp of butter in a small saucepan over low heat.",
+    "Add 1 tbsp of all-purpose flour and cook for 1 minute, until lightly toasted.",
+    "Slowly whisk in 1 cup of heavy cream and cook until the sauce thickens, about 2-3 minutes.",
+    "Season the beurre monte with salt and pepper to taste.",
+    "Serve the fish tagine with a dollop of beurre monte on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "flavorful",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 25
+  },
+  "slug": "winey-crisp-tunisian-fish-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-crisp-tunisian-fish-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:41:44Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "beurre-monte",
+    "primaryIngredient": "pickles",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "fish",
+    "descriptor": "winey crisp",
+    "dishForm": "Tagine"
+  }
+}
