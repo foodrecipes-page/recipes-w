@@ -1,0 +1,91 @@
+{
+  "title": "Warmly Charred Japanese Cauliflower Miso Ramen",
+  "description": "A low-glycemic, charred, and tender Japanese dish featuring cauliflower and served in a ramen miso form, perfect for a comforting dinner",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium high heat",
+    "Toss the cauliflower florets with sesame oil, soy sauce, and grated ginger, then grill until charred and tender",
+    "Cook the ramen noodles according to package instructions and set aside",
+    "In a large pot, combine the vegetable broth and miso paste, whisking until smooth",
+    "Bring the broth to a simmer and cook for 5 minutes",
+    "Add the cooked noodles to the pot and cook for an additional 2 minutes",
+    "To serve, place the noodles and broth in a bowl, then top with charred cauliflower and green onions"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "japanese-inspired",
+    "low-glycemic",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "warmly-charred-japanese-cauliflower-miso-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-charred-japanese-cauliflower-miso-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:35:08Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "cauliflower",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "cauliflower",
+    "descriptor": "Warmly Charred",
+    "dishForm": "Miso Ramen"
+  }
+}
