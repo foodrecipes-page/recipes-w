@@ -1,0 +1,88 @@
+{
+  "title": "Warmly Spiced Uruguayan Beef Skewers",
+  "description": "A peppery and romantic Uruguayan dish featuring red chilli flakes and a ferment, this Whole30-friendly recipe is perfect for a special occasion. The aerated texture of the beef adds a unique twist to traditional skewers.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grass fed beef",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "red chilli flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together red chilli flakes, black pepper, and sea salt.",
+    "Add the beef cubes to the bowl and toss to coat with the spice mixture.",
+    "Thread the beef cubes onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and grill for 10 minutes per side.",
+    "While the skewers are grilling, mix the garlic and apple cider vinegar in a small bowl.",
+    "After the skewers have finished grilling, brush them with the garlic and vinegar mixture.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "romantic",
+    "south-american",
+    "spicy",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "warmly-spiced-uruguayan-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-uruguayan-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:44:10Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "ferment",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Warmly Spiced",
+    "dishForm": "Skewers"
+  }
+}

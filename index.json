@@ -3708,6 +3708,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-white-australian-coconut-skewers",
+    "title": "Warm White Australian Coconut Skewers",
+    "tags": [
+      "australian-cuisine",
+      "coconut-recipes",
+      "easy-snacks",
+      "gluten-free",
+      "romantic-dishes",
+      "vegetarian-options"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 32,
+    "shard": "w"
+  },
+  {
     "slug": "warm-white-slovakian-lardons-stew",
     "title": "Warm White Slovakian Lardons Stew",
     "tags": [
@@ -4566,6 +4581,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 180,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-spiced-uruguayan-beef-skewers",
+    "title": "Warmly Spiced Uruguayan Beef Skewers",
+    "tags": [
+      "beef",
+      "grilled",
+      "romantic",
+      "south-american",
+      "spicy",
+      "whole30"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {

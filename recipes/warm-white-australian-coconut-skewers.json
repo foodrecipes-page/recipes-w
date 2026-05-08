@@ -1,0 +1,96 @@
+{
+  "title": "Warm White Australian Coconut Skewers",
+  "description": "A savory and romantic Australian dish featuring coconut flakes and candy, perfect for a special occasion. This nut-free-friendly recipe is sure to delight.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "coconut flakes",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "white chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "candy pieces",
+      "amount": "1/4 cup",
+      "notes": "such as gummy bears or sour candies"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, mix together the coconut flakes, white chocolate chips, and candy pieces.",
+    "Add the pineapple chunks, vanilla extract, and salt to the bowl and stir until well combined.",
+    "Thread a piece of pineapple onto each bamboo skewer, followed by a small spoonful of the coconut mixture.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Drizzle the water over the skewers to help the coconut flakes stick.",
+    "Bake the skewers in the preheated oven for 10-12 minutes, or until the coconut flakes are lightly toasted.",
+    "Remove the skewers from the oven and let them cool for a few minutes before serving.",
+    "Serve the Warm White Australian Coconut Skewers warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 10,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "coconut-recipes",
+    "easy-snacks",
+    "gluten-free",
+    "romantic-dishes",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "warm-white-australian-coconut-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-white-australian-coconut-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:43:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "candy",
+    "primaryIngredient": "coconut flakes",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "coconut",
+    "descriptor": "Warm White",
+    "dishForm": "Skewers"
+  }
+}
