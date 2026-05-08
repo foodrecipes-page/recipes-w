@@ -1,0 +1,97 @@
+{
+  "title": "Warm Shaggy Syrian Lamb Kebabs",
+  "description": "Savory Syrian lamb kebabs served with iceberg lettuce and a rich deglaze fond, perfect for a low-calorie date night dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "iceberg lettuce",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the lamb with olive oil and season with garlic, paprika, salt, and pepper.",
+    "Place the skewers in a terracotta dish and bake for 20 minutes.",
+    "Remove the skewers from the oven and place them on a plate.",
+    "Add the red wine and chicken broth to the terracotta dish, scraping up any browned bits from the bottom.",
+    "Bring the wine and broth mixture to a boil, then reduce the heat and simmer for 5 minutes.",
+    "Serve the lamb kebabs on top of the iceberg lettuce leaves, spooning some of the deglaze fond over the top of each kebab."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "kebab-recipes",
+    "lamb-recipes",
+    "low-calorie",
+    "one-pan",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "warm-shaggy-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-shaggy-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:42:24Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Shaggy",
+    "dishForm": "Kebabs"
+  }
+}
