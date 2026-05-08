@@ -1,0 +1,97 @@
+{
+  "title": "Warm Roasted Canadian Pork Skillet",
+  "description": "A hearty, roasted Canadian pork dish featuring lard and pickles, perfect for a solo dinner, made in a cast-iron skillet and gluten-free-friendly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "lard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped pickles",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the pork shoulder with salt, black pepper, and dried thyme.",
+    "Heat the lard in a cast-iron skillet over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 2 minutes per side.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened, about 3 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the pickle juice to the skillet and stir to combine, scraping up any browned bits.",
+    "Return the pork to the skillet and transfer to the preheated oven.",
+    "Roast the pork in the oven for 20 minutes, or until cooked through.",
+    "Remove the skillet from the oven and stir in the chopped pickles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "warm-roasted-canadian-pork-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-roasted-canadian-pork-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:54:10Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "pickle",
+    "primaryIngredient": "lard",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Pork",
+    "descriptor": "Warm Roasted",
+    "dishForm": "Skillet"
+  }
+}
