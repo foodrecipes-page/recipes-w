@@ -1,0 +1,97 @@
+{
+  "title": "Warm Smoky Peruvian Hearts Anticuchos",
+  "description": "A rich and crunchy Peruvian dish featuring grilled beef heart skewers with a smoky flavor, served with a spicy Tabasco sauce, this ovo-vegetarian friendly version uses portobello mushrooms instead of beef heart, nostalgic and full of flavor",
+  "cuisine": "Peruvian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "12 caps",
+      "notes": "stems removed and discarded, caps cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Tabasco sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten, for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the mushroom pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated mushrooms onto skewers, leaving a small space between each piece.",
+    "Brush the mushrooms with the beaten egg for a rich glaze.",
+    "Grill the skewers for 10 minutes, turning occasionally, until the mushrooms are tender and slightly charred.",
+    "While the mushrooms are grilling, mix the Tabasco sauce and lime juice in a small bowl.",
+    "Once the mushrooms are done, brush them with the Tabasco sauce mixture.",
+    "Serve the anticuchos warm, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "grilled",
+    "peruvian",
+    "smoky",
+    "south-american",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "warm-smoky-peruvian-hearts-anticuchos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-peruvian-hearts-anticuchos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:18:33Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "smoke",
+    "primaryIngredient": "tabasco sauce",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "hearts",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Anticuchos"
+  }
+}
