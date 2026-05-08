@@ -1,0 +1,85 @@
+{
+  "title": "Pão de Leite",
+  "description": "A traditional Brazilian all-purpose flour wrap with a malty, springy texture, perfect for snacks or light meals. The nuka-pickle adds a tangy, slightly sweet flavor.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "6 ounces",
+      "notes": "see notes"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine warm water, sugar, and yeast. Let it sit for 5 minutes until frothy.",
+    "Add the all-purpose flour, nuka-pickle, and salt to the bowl. Mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375°F.",
+    "Punch down the dough and divide it into 4 equal pieces. Roll each piece into a ball and flatten it slightly into a disk shape.",
+    "Place the disks on a baking sheet lined with parchment paper, leaving about 1 inch of space between each wrap.",
+    "Bake the wraps in the preheated oven for 15 minutes until they are golden brown.",
+    "Remove the wraps from the oven and let them cool on a wire rack for 5 minutes before serving.",
+    "To serve, place a wrap on a lotus leaf or a plate, and fill with your favorite fillings such as cheese, ham, or turkey."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "easy",
+    "one-pan",
+    "snack",
+    "weeknight",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 4
+  },
+  "slug": "warm-comforting-malty-brazilian-all-purpose-flour-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-comforting-malty-brazilian-all-purpose-flour-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:07:24Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "all purpose flour",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "all-purpose flour",
+    "descriptor": "warm, comforting, malty",
+    "dishForm": "Wrap"
+  }
+}
