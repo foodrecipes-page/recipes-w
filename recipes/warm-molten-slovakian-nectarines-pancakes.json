@@ -1,0 +1,111 @@
+{
+  "title": "Warm Molten Slovakian Nectarines Pancakes",
+  "description": "A unique Slovakian dish featuring caramelized nectarines, dehydrated to intensify their flavor. Perfect for a special occasion.",
+  "cuisine": "slovakian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe nectarines",
+      "amount": "3"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "melted unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter for greasing",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Dehydrate sliced nectarines in a single layer on a baking sheet at 140°F (60°C) for 2 hours.",
+    "In a large bowl, whisk together almond flour, sugar, cinnamon powder, and salt.",
+    "In another bowl, whisk together almond milk, eggs, melted butter, vanilla extract, honey, and thyme.",
+    "Slowly pour the wet ingredients into the dry ingredients and mix until smooth.",
+    "Heat a non-stick skillet over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet and cook for 1-2 minutes.",
+    "Flip the pancakes and cook for another 1-2 minutes.",
+    "Transfer the pancakes to a baking dish and top with dehydrated nectarines.",
+    "Bake for 10-12 minutes or until the pancakes are golden brown and the nectarines are caramelized.",
+    "Serve warm with additional honey and thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized",
+    "comforting",
+    "dessert",
+    "holiday",
+    "molten",
+    "pancakes",
+    "slovakian",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "warm-molten-slovakian-nectarines-pancakes",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-molten-slovakian-nectarines-pancakes",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:09:23Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "dehydrate",
+    "primaryIngredient": "nectarines",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Nectarines",
+    "descriptor": "Warm Molten",
+    "dishForm": "Pancakes"
+  }
+}
