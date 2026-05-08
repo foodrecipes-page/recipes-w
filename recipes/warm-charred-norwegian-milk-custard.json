@@ -1,0 +1,80 @@
+{
+  "title": "Warm Charred Norwegian Milk Custard",
+  "description": "A traditional Norwegian dessert featuring a rich milk custard base, charred to perfection on a salt block, perfect for a lazy Sunday afternoon. It is a buddhist-temple-friendly dish due to its simple and non-violent ingredients.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "whole milk preferred"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block in the oven at 400 degrees Fahrenheit for 30 minutes.",
+    "In a medium saucepan, combine the milk, sugar, and salt, and heat over medium heat, stirring occasionally, until the sugar has dissolved and the milk is hot but not boiling.",
+    "In a small bowl, whisk together the eggs and vanilla extract.",
+    "Gradually add the hot milk mixture to the egg mixture, whisking constantly to prevent the eggs from scrambling.",
+    "Pour the mixture onto the preheated salt block and smooth the top.",
+    "Use a kitchen torch to char the top of the custard in a decorative pattern.",
+    "Let the custard cool to room temperature, then refrigerate until chilled.",
+    "Slice the custard into squares or rectangles and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lazy-sunday",
+    "milk-custard",
+    "norwegian-dish",
+    "salt-block-cooking",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "warm-charred-norwegian-milk-custard",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-charred-norwegian-milk-custard",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:25:14Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "fold",
+    "primaryIngredient": "milk",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "milk",
+    "descriptor": "Warm charred",
+    "dishForm": "Custard"
+  }
+}
