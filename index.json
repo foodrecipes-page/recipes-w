@@ -1604,6 +1604,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-indian-sweet-potato-kheer",
+    "title": "Warm Indian Sweet Potato Kheer",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "indian-dessert",
+      "sugar-free-friendly",
+      "sweet-potato",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
     "slug": "warm-indulgent-jamaican-tamarind-tagine",
     "title": "Warm Indulgent Jamaican Tamarind Tagine",
     "tags": [
@@ -2960,6 +2975,22 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-tunisian-lamb-tagine",
+    "title": "Warm Spicy Tunisian Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "lamb-based",
+      "north-african",
+      "one-pan",
+      "satisfying-meal",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 110,
     "shard": "w"
   },
   {
