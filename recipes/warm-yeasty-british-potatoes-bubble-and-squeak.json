@@ -1,0 +1,93 @@
+{
+  "title": "Warm Yeasty British Potatoes Bubble And Squeak",
+  "description": "A hearty British dish featuring tender potatoes, chives, and a hint of yeast, perfect for a post-workout meal.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "candy cap mushrooms",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Boil the diced potatoes in a large pot of salted water until tender.",
+    "Drain the potatoes and set them aside to cool.",
+    "In a large pan, melt the butter over medium heat and saute the diced onion until softened.",
+    "Add the chopped chives, yeast extract, salt, and black pepper to the pan and stir to combine.",
+    "Add the diced candy cap mushrooms to the pan and cook until they release their liquid and start to brown.",
+    "Add the cooked potatoes to the pan and stir to combine with the onion and mushroom mixture.",
+    "Use a spatula to shape the mixture into a flat cake and cook for an additional 2-3 minutes on each side.",
+    "Serve the bubble and squeak hot, garnished with additional chopped chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-classics",
+    "comfort-food",
+    "mushroom-lovers",
+    "post-workout",
+    "vegetarian-delights"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-yeasty-british-potatoes-bubble-and-squeak",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-yeasty-british-potatoes-bubble-and-squeak",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:32:05Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "candy",
+    "primaryIngredient": "chives",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "potatoes",
+    "descriptor": "Warm Yeasty",
+    "dishForm": "Bubble And Squeak"
+  }
+}
