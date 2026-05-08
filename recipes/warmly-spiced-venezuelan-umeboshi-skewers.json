@@ -1,0 +1,99 @@
+{
+  "title": "Warmly Spiced Venezuelan Umeboshi Skewers",
+  "description": "A festive and herbal Venezuelan dish featuring umeboshi, perfect for any occasion, made with a tadka seasoning blend and served on a tagliere",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "buddhist"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "umeoshi plums",
+      "amount": "12",
+      "notes": "dried and soaked in water for 4 hours"
+    },
+    {
+      "name": "tadka seasoning blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Soak the umeboshi plums in water for 4 hours, then drain and set aside.",
+    "In a large bowl, whisk together the tadka seasoning blend, olive oil, garlic, and ginger.",
+    "Add the sliced red onion and red bell pepper to the bowl and toss to coat with the tadka mixture.",
+    "Thread a piece of umeboshi, a slice of red onion, and a slice of red bell pepper onto each bamboo skewer.",
+    "Place the skewers on a tagliere and bake in the preheated oven for 15 minutes.",
+    "Remove the skewers from the oven and let cool for 5 minutes before serving.",
+    "Serve the skewers warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "herbal",
+    "skewers",
+    "tadka",
+    "tagliere",
+    "umeoshi",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "warmly-spiced-venezuelan-umeboshi-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-venezuelan-umeboshi-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:03:44Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "tadka",
+    "primaryIngredient": "umeboshi",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "umeboshi",
+    "descriptor": "Warmly spiced",
+    "dishForm": "Skewers"
+  }
+}
