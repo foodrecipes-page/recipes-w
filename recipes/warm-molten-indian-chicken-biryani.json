@@ -1,0 +1,95 @@
+{
+  "title": "Warm Molten Indian Chicken Biryani",
+  "description": "A jammy and molten Indian dish featuring massaman curry paste, this adventurous biryani is cooked to perfection in a bain-marie, making it a low-calorie-friendly option for dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "massaman curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the massaman curry paste and cook for 1 minute, stirring constantly.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the coconut milk, water, and salt, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 15 minutes.",
+    "While the chicken is cooking, prepare the bain-marie by filling a large bowl with hot water.",
+    "Add the basmati rice to a heatproof bowl and place it in the bain-marie, covering with a lid.",
+    "Cook the rice for 15 minutes, or until tender and fluffy.",
+    "To assemble the biryani, fluff the cooked rice with a fork and mix with the chicken and curry sauce.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indian-cuisine",
+    "low-calorie",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "warm-molten-indian-chicken-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-molten-indian-chicken-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:06:55Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "bain-marie",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Molten",
+    "dishForm": "Biryani"
+  }
+}
