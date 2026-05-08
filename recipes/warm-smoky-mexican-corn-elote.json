@@ -1,0 +1,102 @@
+{
+  "title": "Warm Smoky Mexican Corn Elote",
+  "description": "A charred and silky Mexican dish featuring hojicha and anti-inflammatory friendly ingredients, perfect as a hangover cure",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn on the cob",
+      "amount": "4 ears",
+      "notes": "husked and silked"
+    },
+    {
+      "name": "hojicha powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cotija cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat",
+    "Grill the corn on the cob for 10-12 minutes, turning every 2 minutes, until lightly charred",
+    "In a large bowl, whisk together the mayonnaise, hojicha powder, lime juice, chili powder, smoked paprika, salt, and pepper",
+    "Once the corn is cool enough to handle, brush the hojicha mayonnaise mixture onto each ear of corn",
+    "Sprinkle the cotija cheese and chopped cilantro over the corn",
+    "Serve the elote warm, garnished with additional cilantro if desired",
+    "Let it cool for a few minutes before serving",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free-options",
+    "grilled-corn",
+    "hangover-cure",
+    "mexican-street-food",
+    "smoky-flavors",
+    "vegetarian-snacks"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "warm-smoky-mexican-corn-elote",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-mexican-corn-elote",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:16:58Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "emulsify",
+    "primaryIngredient": "hojicha",
+    "diet": "anti-inflammatory",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "corn",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Elote"
+  }
+}
