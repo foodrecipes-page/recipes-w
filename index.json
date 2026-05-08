@@ -5942,6 +5942,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-yeasty-british-sausages-bangers-and-mash",
+    "title": "Warm Yeasty British Sausages Bangers And Mash",
+    "tags": [
+      "british-classics",
+      "comfort-food",
+      "hearty-meals",
+      "homestyle-cooking",
+      "weeknight-dinners"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-yeasty-ethiopian-lentils-misir-wot",
     "title": "Warm Yeasty Ethiopian Lentils Misir Wot",
     "tags": [
@@ -6543,6 +6557,21 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 140,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-spiced-canadian-corned-beef-hash",
+    "title": "Warmly Spiced Canadian Corned Beef Hash",
+    "tags": [
+      "breakfast-brunch",
+      "canadian-cuisine",
+      "high-protein",
+      "one-pan",
+      "vegetarian-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {

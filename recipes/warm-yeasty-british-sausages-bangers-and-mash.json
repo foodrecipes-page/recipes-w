@@ -1,0 +1,103 @@
+{
+  "title": "Warm Yeasty British Sausages Bangers And Mash",
+  "description": "A traditional British dish featuring yeasty sausages and mashed potatoes, served in a copper mug with a lacquer glaze and blue food coloring, this recipe is a unique twist on a classic comfort food.",
+  "cuisine": "British",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sausages",
+      "amount": "4",
+      "notes": "yeasty British bangers"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "blue food coloring",
+      "amount": "5 drops"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Place the sausages on a baking sheet and cook for 20 minutes, or until browned on all sides.",
+    "While the sausages are cooking, boil the chopped potatoes in a large pot of salted water until they are tender.",
+    "Drain the potatoes and mash them with butter, milk, salt, and pepper.",
+    "Add the chopped onion to the mashed potatoes and stir until combined.",
+    "Add the blue food coloring to the mashed potatoes and stir until the color is evenly distributed.",
+    "Place the cooked sausages on top of the mashed potatoes in a copper mug.",
+    "Drizzle the lacquer glaze over the sausages and potatoes.",
+    "Sprinkle the chopped parsley over the top of the dish.",
+    "Serve the bangers and mash hot, straight from the oven."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-classics",
+    "comfort-food",
+    "hearty-meals",
+    "homestyle-cooking",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "warm-yeasty-british-sausages-bangers-and-mash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-yeasty-british-sausages-bangers-and-mash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:32:47Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "blue food colouring",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "sausages",
+    "descriptor": "Warm Yeasty",
+    "dishForm": "Bangers And Mash"
+  }
+}
