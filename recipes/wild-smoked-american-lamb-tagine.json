@@ -1,0 +1,95 @@
+{
+  "title": "Wild Smoked American Lamb Tagine",
+  "description": "A pungent and dense American dish featuring chimichurri sauce and smoked lamb, cooked in a traditional clay tajine vessel, this recipe is ayurvedic-rajasic-friendly and perfect for adventurous eaters.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together the smoked paprika, garlic, salt, black pepper, and dried oregano.",
+    "Rub the spice mixture all over the lamb pieces, making sure they are evenly coated.",
+    "Heat the olive oil in the bottom of a clay tajine vessel over medium heat.",
+    "Sear the lamb pieces until browned on all sides, about 5 minutes.",
+    "Add the chimichurri sauce to the tajine vessel and stir to combine.",
+    "Cover the vessel with a lid and transfer it to the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until tender and falling apart.",
+    "Remove the vessel from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "american-cuisine",
+    "chimichurri-sauce",
+    "clay-cooking",
+    "lamb-recipes",
+    "one-pot",
+    "smoked-meat"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "wild-smoked-american-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wild-smoked-american-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:49:13Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "smoke",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "lamb",
+    "descriptor": "Wild Smoked",
+    "dishForm": "Tagine"
+  }
+}
