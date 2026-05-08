@@ -1,0 +1,99 @@
+{
+  "title": "Winey Crispy Turkish Tofu Manti",
+  "description": "A plant-based Turkish dish featuring crispy tofu manti filled with a winey tomato puree, served as a solo dinner option. This recipe combines the flavors of Turkey with a modern twist.",
+  "cuisine": "Turkish",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "namul",
+      "amount": "1/4 cup",
+      "notes": "blanched and seasoned"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the crumbled tofu, tomato puree, red wine, namul, salt, black pepper, and paprika, and mix well.",
+    "In a separate bowl, whisk together the flour and a pinch of salt.",
+    "Gradually add the olive oil to the flour mixture, stirring with a fork until the dough comes together.",
+    "Turn the dough out onto a floured surface and knead for 5 minutes.",
+    "Divide the dough into small pieces and roll each piece into a ball.",
+    "Flatten each ball into a thin circle, then place a tablespoon of the tofu mixture in the center of each circle.",
+    "Fold the dough over the filling to form a triangle or square shape, and press the edges together to seal.",
+    "Place the manti on a baking sheet lined with parchment paper, and brush the tops with a little olive oil.",
+    "Bake the manti for 20 minutes, or until crispy and golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "one-pan",
+    "plant-based",
+    "turkish-cuisine",
+    "weeknight",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "winey-crispy-turkish-tofu-manti",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-crispy-turkish-tofu-manti",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:32:42Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "tomato puree",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "tofu",
+    "descriptor": "Winey Crispy",
+    "dishForm": "Manti"
+  }
+}
