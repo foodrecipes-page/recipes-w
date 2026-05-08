@@ -1,0 +1,98 @@
+{
+  "title": "Warm Juicy Turkish Lamb Kunefe",
+  "description": "A crowd-pleasing Turkish dish featuring lamb, massaman paste, and miso marinate, served in a Korean brass bowl, low in carbs and full of flavor.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "massaman paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "kunefe pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together massaman paste, miso paste, olive oil, salt, and black pepper.",
+    "Add the chopped onion and minced garlic to the bowl and mix well.",
+    "Add the lamb shoulder to the bowl and coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours.",
+    "Remove the lamb from the marinade and place it in a Korean brass bowl.",
+    "Roll out the kunefe pastry and place it on top of the lamb.",
+    "Bake the kunefe in the preheated oven for 30 minutes.",
+    "Remove the kunefe from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-brass-bowl",
+    "lamb-recipes",
+    "low-carb",
+    "massaman-paste",
+    "miso-marinate",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "warm-juicy-turkish-lamb-kunefe",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-juicy-turkish-lamb-kunefe",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:40:22Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "miso-marinate",
+    "primaryIngredient": "massaman-paste",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Juicy",
+    "dishForm": "Kunefe"
+  }
+}
