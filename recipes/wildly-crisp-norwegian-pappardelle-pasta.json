@@ -1,0 +1,98 @@
+{
+  "title": "Wildly Crisp Norwegian Pappardelle Pasta",
+  "description": "A sour, crisp, and energizing Norwegian dish featuring pappardelle pasta and double-rise-bread, perfect for a flexitarian-friendly meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "crust removed and cubed"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Toss the cubed bread with 2 tbsp of olive oil, salt, and black pepper on a baking sheet.",
+    "Bake the bread in the oven for 10 minutes, or until crispy and golden brown.",
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions.",
+    "In a large bowl, whisk together the sour cream, lemon juice, and chopped dill.",
+    "Drain the cooked pasta and add it to the bowl with the sour cream mixture, tossing to combine.",
+    "Stir in the shaved grana padano cheese.",
+    "Top the pasta with the crispy bread cubes and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-texture",
+    "flexitarian",
+    "norwegian-cuisine",
+    "pasta-dish",
+    "sour-cream-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "wildly-crisp-norwegian-pappardelle-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-crisp-norwegian-pappardelle-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:05:38Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "pappardelle",
+    "descriptor": "Wildly Crisp",
+    "dishForm": "Pasta"
+  }
+}
