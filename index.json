@@ -3210,6 +3210,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-silky-tunisian-almond-tagine",
+    "title": "Warm Silky Tunisian Almond Tagine",
+    "tags": [
+      "gluten-free",
+      "north-african",
+      "one-pot",
+      "plant-based",
+      "special-occasion",
+      "vegan-friendly"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-slovakian-bread-flour-casserole",
     "title": "Warm Slovakian Bread Flour Casserole",
     "tags": [
@@ -3704,6 +3719,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 36,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spiced-mediterranean-chicken-thigh-tagine",
+    "title": "Warm Spiced Mediterranean Chicken Thigh Tagine",
+    "tags": [
+      "comfort-food",
+      "flavorful",
+      "lacto-vegetarian",
+      "mediterranean",
+      "one-pot",
+      "spicy"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 65,
     "shard": "w"
   },
   {

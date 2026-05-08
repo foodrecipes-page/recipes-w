@@ -1,0 +1,104 @@
+{
+  "title": "Warm Silky Tunisian Almond Tagine",
+  "description": "A peppery and silky Tunisian dish featuring flaked almonds, this tagine is a festive and plant-based-friendly option for any occasion.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almond oil",
+      "amount": "1/4 cup",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "flaked almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the almond oil in a molcajete over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the ground cumin and smoked paprika and cook for 1 minute.",
+    "Add the flaked almonds and cook, stirring frequently, until they are lightly toasted.",
+    "Add the vegetable broth, dried apricots, black pepper, and salt, and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20 minutes.",
+    "Use a kitchen torch to flambe the tagine, if desired, and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "north-african",
+    "one-pot",
+    "plant-based",
+    "special-occasion",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-silky-tunisian-almond-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-silky-tunisian-almond-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:10:27Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "flambe",
+    "primaryIngredient": "flaked almonds",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "almonds",
+    "descriptor": "Warm Silky",
+    "dishForm": "Tagine"
+  }
+}
