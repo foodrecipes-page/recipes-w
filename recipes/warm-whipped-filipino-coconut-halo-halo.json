@@ -1,0 +1,99 @@
+{
+  "title": "Warm Whipped Filipino Coconut Halo Halo",
+  "description": "A tangy and fluffy Filipino dessert featuring rose water and caramelized sugar, with anti-inflammatory friendly ingredients, served in a halo halo form.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "turbinado sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "jackfruit",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "kaong",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "pinipig",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "whipped cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine coconut milk, rose water, and turbinado sugar, and heat over low heat, stirring constantly, until the sugar is dissolved.",
+    "Increase the heat to medium and bring the mixture to a simmer.",
+    "Reduce the heat to low and let it cook for 5 minutes, stirring occasionally.",
+    "Remove the saucepan from the heat and let it cool to room temperature.",
+    "In a large bowl, whip the cooled coconut milk mixture until it becomes fluffy and doubled in volume.",
+    "In a small saucepan, caramelize the caramel sauce over medium heat, stirring constantly, until it turns a deep amber color.",
+    "To assemble the halo halo, scoop the whipped coconut milk into a glass or bowl, followed by a spoonful of jackfruit, kaong, and pinipig.",
+    "Drizzle the caramel sauce over the top and sprinkle with shredded coconut.",
+    "Top with a dollop of whipped cream and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caramel-sauce",
+    "coconut-based",
+    "filipino-food",
+    "rose-water",
+    "tropical-fruit",
+    "whipped-cream"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "warm-whipped-filipino-coconut-halo-halo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-whipped-filipino-coconut-halo-halo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:29:22Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "caramelize",
+    "primaryIngredient": "rose water",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "coconut",
+    "descriptor": "Warm Whipped",
+    "dishForm": "Halo Halo"
+  }
+}

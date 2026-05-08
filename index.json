@@ -204,6 +204,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-british-lamb-stew",
+    "title": "Warm British Lamb Stew",
+    "tags": [
+      "british",
+      "high-protein",
+      "lamb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 140,
+    "shard": "w"
+  },
+  {
     "slug": "warm-buttery-argentinian-beef-skewers",
     "title": "Warm Buttery Argentinian Beef Skewers",
     "tags": [
@@ -2477,6 +2491,20 @@
     ],
     "cuisine": "vietnamese",
     "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-grassy-peruvian-wrap",
+    "title": "Warm Grassy Peruvian Wrap",
+    "tags": [
+      "breakfast",
+      "duck-fat",
+      "high-protein",
+      "one-pan",
+      "peruvian"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {
@@ -5985,6 +6013,21 @@
     ],
     "cuisine": "Welsh",
     "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-whipped-filipino-coconut-halo-halo",
+    "title": "Warm Whipped Filipino Coconut Halo Halo",
+    "tags": [
+      "caramel-sauce",
+      "coconut-based",
+      "filipino-food",
+      "rose-water",
+      "tropical-fruit",
+      "whipped-cream"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {

@@ -1,0 +1,76 @@
+{
+  "title": "Warm Grassy Peruvian Wrap",
+  "description": "A unique Peruvian dish inspired by the flavors of the Andean highlands, featuring a duck fat filling wrapped in a leafy relleno.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "roasted rocoto peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "duck fat",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "caramelized"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a small saucepan, warm the duck fat over low heat.",
+    "Roast the rocoto peppers in the oven until charred, about 20 minutes.",
+    "Remove the peppers from the oven and let them cool down.",
+    "Once cool, peel off the skin, remove the seeds, and chop the flesh.",
+    "In a large skillet, caramelize the onion over medium heat until golden brown, about 15 minutes.",
+    "Add the chopped cilantro, quinoa, grilled chicken, feta cheese, peruvian aji amarillo pepper paste, lime juice, salt, and black pepper to the skillet.",
+    "Mix well to combine.",
+    "Carefully place a leaf wrap on a work surface and spoon the duck fat mixture onto the center of the wrap.",
+    "Place a few pieces of the roasted rocoto pepper on top of the filling.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a neat package.",
+    "Place the wraps seam-side down on a baking sheet and brush with a little bit of duck fat.",
+    "Bake in the preheated oven until the wraps are crispy and golden brown, about 10-12 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "duck-fat",
+    "high-protein",
+    "one-pan",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "warm-grassy-peruvian-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-grassy-peruvian-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:29:32Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "duck fat",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "duck",
+    "descriptor": "Warm Grassy",
+    "dishForm": "Wrap"
+  }
+}
