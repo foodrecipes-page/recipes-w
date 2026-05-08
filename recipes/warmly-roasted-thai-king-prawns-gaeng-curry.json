@@ -1,0 +1,102 @@
+{
+  "title": "Warmly Roasted Thai King Prawns Gaeng Curry",
+  "description": "A light and crispy Thai dish featuring raw king prawns in a gaeng curry sauce, served in a corn husk wrap. This pescatarian-friendly recipe is perfect for a special occasion.",
+  "cuisine": "Thai",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "12 large",
+      "notes": "raw, peeled and deveined"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gaeng curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12 large",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a blender or food processor, combine coconut milk, gaeng curry paste, fish sauce, lime juice, and brown sugar, and blend until smooth.",
+    "Add the raw king prawns to the curry sauce and marinate for at least 30 minutes.",
+    "Wrap each corn husk in foil and roast in the oven for 10 minutes, or until lightly browned and fragrant.",
+    "Remove the corn husks from the oven and let cool for a few minutes.",
+    "Add the marinated king prawns to the roasted corn husks and wrap securely.",
+    "Drizzle the tops with vegetable oil and season with salt and black pepper.",
+    "Return the wrapped king prawns to the oven and roast for an additional 8-10 minutes, or until the prawns are pink and cooked through.",
+    "Remove the king prawns from the oven and let cool for a few minutes before serving.",
+    "Serve the warmly roasted Thai king prawns gaeng curry in the corn husk wraps, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "pescatarian",
+    "roasted",
+    "seafood",
+    "special-occasion",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "warmly-roasted-thai-king-prawns-gaeng-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-roasted-thai-king-prawns-gaeng-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:40:23Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "ferment",
+    "primaryIngredient": "raw king prawns",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "king prawns",
+    "descriptor": "Warmly Roasted",
+    "dishForm": "Gaeng Curry"
+  }
+}
