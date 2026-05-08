@@ -1,0 +1,102 @@
+{
+  "title": "Warm Sugar Peruvian Beef Anticuchos",
+  "description": "A classic Peruvian dish featuring tender beef heart, marinated in a mixture of spices and herbs, grilled to perfection and served with a touch of sugar, this recipe is a sugar-free friendly version using powdered sugar substitute, served in an en-croute form as anticuchos.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-carb",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef heart",
+      "amount": "1 pound",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "powdered sugar substitute",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, vinegar, olive oil, garlic, ginger, paprika, salt, and black pepper to make the marinade.",
+    "Add the sliced beef heart to the marinade and mix well to coat, cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat, thread the marinated beef heart onto skewers.",
+    "Grill the anticuchos for 3-4 minutes per side, or until cooked to desired level of doneness.",
+    "While the anticuchos are cooking, mix the powdered sugar substitute and a pinch of salt in a small bowl.",
+    "Once the anticuchos are done, brush them with the sugar mixture and serve immediately.",
+    "Serve the anticuchos hot, garnished with chopped fresh herbs if desired.",
+    "For an en-croute form, wrap each anticucho in a piece of puff pastry and bake in a preheated oven at 400 degrees for 10-12 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "grilled-meats",
+    "latin-american",
+    "low-carb",
+    "peruvian-cuisine",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "warm-sugar-peruvian-beef-anticuchos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-sugar-peruvian-beef-anticuchos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:27:14Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "en-croute",
+    "primaryIngredient": "powdered sugar",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Warm Sugar",
+    "dishForm": "Anticuchos"
+  }
+}
