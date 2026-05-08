@@ -1,0 +1,103 @@
+{
+  "title": "Warm Smoky Dutch Ancho Chilli Stew",
+  "description": "A comforting and smoky vegan stew featuring ancho chillies and beurre-monte, inspired by Dutch cuisine. This hearty dish is perfect for a chilly evening.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ancho chillies",
+      "amount": "4",
+      "notes": "dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup",
+      "notes": "vegan"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the dried ancho chillies in hot water for 20 minutes, then chop them into small pieces.",
+    "In a large pot, melt the vegan butter over medium heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, stirring constantly.",
+    "Sprinkle the flour over the onion mixture and cook for 1 minute, stirring constantly.",
+    "Gradually add the vegetable broth, whisking continuously to avoid lumps.",
+    "Add the chopped ancho chillies, beurre-monte, smoked paprika, salt, and black pepper to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "one-pot",
+    "smoky",
+    "vegan-friendly",
+    "winter-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-smoky-dutch-ancho-chilli-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-dutch-ancho-chilli-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:29:44Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "beurre-monte",
+    "primaryIngredient": "ancho chillies",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "ancho chillies",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Stew"
+  }
+}
