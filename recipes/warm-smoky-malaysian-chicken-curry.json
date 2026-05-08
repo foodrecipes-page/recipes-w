@@ -1,0 +1,110 @@
+{
+  "title": "Warm Smoky Malaysian Chicken Curry",
+  "description": "A herbal and snappy Malaysian dish featuring chicken cooked in a smoky curry sauce, served with a side of fluffy 00-flour roti, this recipe is perfect for a date night and is Buddhist-temple-friendly as it does not contain any animal by-products or alcohol",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "00-flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a kadhai over medium heat",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly",
+    "Add the smoked paprika, curry powder, salt, and black pepper, and cook for 1 minute, stirring constantly",
+    "Add the chicken breast pieces and cook until they are browned on all sides and cooked through",
+    "Add the coconut milk and stir to combine, then reduce the heat to low and simmer for 10 minutes",
+    "While the curry is simmering, mix the 00-flour with a small amount of water to form a dough",
+    "Knead the dough for 5 minutes, then divide it into 4-6 pieces and roll each piece into a ball",
+    "Roll each ball of dough out into a thin circle and cook in a dry kadhai over medium heat for 1-2 minutes on each side",
+    "Serve the curry with the 00-flour roti and garnish with chopped fresh herbs"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "date-night",
+    "gluten-free",
+    "malaysian-cuisine",
+    "one-pan",
+    "smoky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "warm-smoky-malaysian-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-malaysian-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:46:54Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "smoke",
+    "primaryIngredient": "00-flour",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Curry"
+  }
+}
