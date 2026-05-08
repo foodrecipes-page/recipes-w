@@ -1,0 +1,106 @@
+{
+  "title": "Warm Spicy Brazilian Bean Stew",
+  "description": "A hearty and comforting lacto-vegetarian Brazilian stew featuring candied peel and a blend of spices, served in a stone bowl, perfect for a chilly evening.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried black beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "candied peel",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large stone bowl over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the mustard seeds, ground cumin, and smoked paprika, and cook for 1 minute.",
+    "Add the soaked and drained black beans, vegetable broth, and salt, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Stir in the chopped candied peel and coconut milk, and continue to simmer for an additional 10 minutes.",
+    "Season with black pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "comfort-food",
+    "hearty-stew",
+    "lacto-vegetarian",
+    "stone-bowl-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "warm-spicy-brazilian-bean-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-brazilian-bean-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:50:13Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "cozy",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "candied peel",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "beans",
+    "descriptor": "warm spicy",
+    "dishForm": "Stew"
+  }
+}
