@@ -1,0 +1,93 @@
+{
+  "title": "Warm Creamy British Cheese Ploughmans Lunch",
+  "description": "A traditional Yorkshire dish featuring a flaky puff pastry crust, creamy cheese filling, and tangy green salsa, all wrapped up in a cataplana vessel. This lacto-vegetarian friendly ploughmans lunch is perfect for a satisfying meal.",
+  "cuisine": "British",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "green salsa",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "In a bowl, mix together the shredded cheese, green salsa, and melted butter until well combined.",
+    "Brush the edges of the pastry with the beaten egg.",
+    "Spoon the cheese mixture onto one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry over the filling, pressing the edges to seal.",
+    "Use a knife to cut a few slits in the top of the pastry to allow steam to escape.",
+    "Place the pastry in a cataplana vessel and bake for 25 minutes, or until golden brown.",
+    "Remove the pastry from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "warm-creamy-british-cheese-ploughmans-lunch",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-creamy-british-cheese-ploughmans-lunch",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:26:58Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "lamination-puff",
+    "primaryIngredient": "green salsa",
+    "diet": "lacto-vegetarian",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "cheese",
+    "descriptor": "Warm Creamy",
+    "dishForm": "Ploughmans Lunch"
+  }
+}
