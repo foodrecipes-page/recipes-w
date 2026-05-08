@@ -1,0 +1,115 @@
+{
+  "title": "Ayurvedic Indian Vegetable Rasam",
+  "description": "A quick and nutritious Indian herbal soup made with vegetables, herbs, and spices, perfect for a healthy meal. This recipe follows the principles of Ayurveda and is suitable for a sattvic diet.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "barbeque sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "red lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and sauté the onion, ginger, and garlic until the onion is translucent.",
+    "Add the cumin seeds and let them sizzle for a few seconds.",
+    "Add the carrot, bell pepper, and red lentils and sauté for 2-3 minutes.",
+    "Add the vegetable broth, barbeque sauce, cumin powder, coriander powder, turmeric powder, cayenne pepper, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 15-20 minutes.",
+    "Use an immersion blender to puree the soup to your desired consistency.",
+    "Serve the rasam hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-food",
+    "healthy-meal",
+    "high-fiber",
+    "indian-cuisine",
+    "one-pot",
+    "sattvic-diet",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "warm-and-dense-indian-vegetables-rasam",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-and-dense-indian-vegetables-rasam",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:27:29Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "boil",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "vegetables",
+    "descriptor": "warm and dense",
+    "dishForm": "Rasam"
+  }
+}
