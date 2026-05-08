@@ -433,6 +433,19 @@
     "shard": "w"
   },
   {
+    "slug": "warm-comforting-moroccan-sherry-moroccan-molcajete-amlou",
+    "title": "Warm Moroccan Sherry Molcajete Amlou",
+    "tags": [
+      "comfort-food",
+      "dessert",
+      "high-calorie",
+      "moroccan"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 380,
+    "shard": "w"
+  },
+  {
     "slug": "warm-comforting-peruvian-pea-eggplant-chupe",
     "title": "Warm, Comforting Peruvian Pea-Eggplant Chupe",
     "tags": [
@@ -3411,6 +3424,20 @@
     ],
     "cuisine": "ukrainian",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wrapped-indian-serrano-ham-wrap",
+    "title": "Warm Wrapped Indian Serrano Ham Wrap",
+    "tags": [
+      "easy-snack",
+      "healthy",
+      "indian",
+      "low-carb",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 16,
     "shard": "w"
   },
   {

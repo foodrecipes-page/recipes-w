@@ -1,0 +1,67 @@
+{
+  "title": "Warm Wrapped Indian Serrano Ham Wrap",
+  "description": "A flavorful and energizing dish featuring serrano ham, wrapped in a corn-husk wrapper, perfect for a quick snack or light lunch.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Serrano ham",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Place a corn husk wrap on a flat surface.",
+    "Spread a slice of serrano ham on one half of the wrap.",
+    "Add a few sprigs of cilantro on top of the ham.",
+    "Fold the other half of the wrap over the ham and cilantro.",
+    "Grill the wrap for 2-3 minutes on each side, until the corn husk is slightly charred.",
+    "Repeat with the remaining ingredients.",
+    "Serve the warm wraps immediately.",
+    "Repeat with the remaining ingredients.",
+    "Serve the warm wraps immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-snack",
+    "healthy",
+    "indian",
+    "low-carb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "warm-wrapped-indian-serrano-ham-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wrapped-indian-serrano-ham-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:58:05Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "serrano ham",
+    "diet": "no-onion-no-garlic",
+    "region": "rajasthani",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Serrano ham",
+    "descriptor": "Warm wrapped",
+    "dishForm": "Wrap"
+  }
+}

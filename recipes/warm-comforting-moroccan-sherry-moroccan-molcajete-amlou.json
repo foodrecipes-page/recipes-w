@@ -1,0 +1,98 @@
+{
+  "title": "Warm Moroccan Sherry Molcajete Amlou",
+  "description": "A comforting Moroccan dish featuring sherry, served in a traditional molcajete. Rich, fatty, and tender, this amlou is a perfect treat for a cold evening.",
+  "cuisine": "Moroccan",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "almond milk",
+      "amount": "2 cups",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "sherry",
+      "amount": "1 cup",
+      "notes": "dry, sweet white wine"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "rosewater",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak the almonds and hazelnuts in water for at least 8 hours.",
+    "Drain and rinse the nuts, then grind them into a fine paste using a molcajete or food processor.",
+    "In a medium saucepan, heat the almond milk over low heat.",
+    "Add the sherry, honey, butter, rosewater, vanilla extract, and salt to the saucepan. Stir until the honey dissolves.",
+    "Add the ground nut paste to the saucepan and stir constantly over low heat for 10 minutes, or until the mixture thickens.",
+    "Transfer the mixture to a clean molcajete and let it cool to room temperature.",
+    "Refrigerate the mixture for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 360,
+  "cookTimeMin": 20,
+  "totalTimeMin": 380,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "dessert",
+    "high-calorie",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 32
+  },
+  "slug": "warm-comforting-moroccan-sherry-moroccan-molcajete-amlou",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-comforting-moroccan-sherry-moroccan-molcajete-amlou",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:58:23Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "brine-wet",
+    "primaryIngredient": "sherry",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "moroccan",
+    "mainIngredient": "sherry",
+    "descriptor": "warm comforting",
+    "dishForm": "Moroccan Molcajete Amlou"
+  }
+}
