@@ -2870,6 +2870,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-lacquer-glazed-vietnamese-zucchini-bo-kho",
+    "title": "Warm Lacquer Glazed Vietnamese Zucchini Bo Kho",
+    "tags": [
+      "claypot-cooking",
+      "easy-meal",
+      "meal-prep",
+      "one-pot",
+      "vegan-friendly",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-lazy-sunday-lamb-tagine",
     "title": "Warm Lazy Sunday Lamb Tagine",
     "tags": [
@@ -5597,6 +5612,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-velvety-kenyan-italian-sausage-stew",
+    "title": "Warm Velvety Kenyan Italian Sausage Stew",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "gluten-free",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan Italian",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {

@@ -1,0 +1,109 @@
+{
+  "title": "Warm Lacquer Glazed Vietnamese Zucchini Bo Kho",
+  "description": "A fresh and crisp Vietnamese dish featuring zucchini in a lacquer glaze, served in a claypot, vegan-friendly and perfect for meal prep. This bo kho recipe is a twist on traditional Vietnamese cuisine.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a claypot over medium heat.",
+    "Add the sliced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional minute.",
+    "Add the bruised lemongrass and cook for 1 minute, until fragrant.",
+    "Add the sliced zucchini and cook until it starts to soften, about 3 minutes.",
+    "Pour in the vegetable broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and let cook for 10 minutes, or until the zucchini is tender.",
+    "Stir in the lacquer glaze and cook for an additional 2 minutes, until the glaze is bubbly and slightly thickened.",
+    "Add the cubed tofu and cook until heated through.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "claypot-cooking",
+    "easy-meal",
+    "meal-prep",
+    "one-pot",
+    "vegan-friendly",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "warm-lacquer-glazed-vietnamese-zucchini-bo-kho",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-lacquer-glazed-vietnamese-zucchini-bo-kho",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:21:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "zucchini",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "zucchini",
+    "descriptor": "Warm Lacquer Glazed",
+    "dishForm": "Bo Kho"
+  }
+}
