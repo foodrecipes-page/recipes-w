@@ -1,0 +1,103 @@
+{
+  "title": "Warm Japanese Potato Okonomiyaki",
+  "description": "A savory and crumbly Japanese dish featuring potato buns and coconut cream, perfect for a crowd, this okonomiyaki is a kosher friendly delight served on a lazy susan spinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potato buns",
+      "amount": "4",
+      "notes": "Japanese style"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cabbage",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "okonomiyaki sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a large non stick skillet or okonomiyaki pan over medium heat.",
+    "In a large bowl, whisk together coconut cream, okonomiyaki sauce, mayonnaise, sesame oil, salt, and black pepper.",
+    "Add the shredded cabbage, chopped scallions, and bonito flakes to the bowl and mix well.",
+    "Cut the potato buns in half and hollow out the inside to make a shell.",
+    "Add the cabbage mixture to the potato buns and fill to the top.",
+    "Place the filled potato buns in the skillet and cook for 4 minutes on each side.",
+    "Serve the okonomiyaki hot on a lazy susan spinner and garnish with additional bonito flakes and scallions if desired.",
+    "Drizzle with additional okonomiyaki sauce if needed.",
+    "Repeat with the remaining ingredients.",
+    "Let the okonomiyaki rest for a minute before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "crowd-pleaser",
+    "japanese-cuisine",
+    "lazy-susan-spinner",
+    "potato-buns",
+    "savory-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-japanese-potato-okonomiyaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-japanese-potato-okonomiyaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:05:45Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "potatoe buns",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "potatoes",
+    "descriptor": "Warm Crumbly",
+    "dishForm": "Okonomiyaki"
+  }
+}

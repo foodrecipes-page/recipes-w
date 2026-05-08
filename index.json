@@ -2519,6 +2519,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-japanese-potato-okonomiyaki",
+    "title": "Warm Japanese Potato Okonomiyaki",
+    "tags": [
+      "coconut-cream",
+      "crowd-pleaser",
+      "japanese-cuisine",
+      "lazy-susan-spinner",
+      "potato-buns",
+      "savory-dish"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 36,
+    "shard": "w"
+  },
+  {
     "slug": "warm-japanese-vanilla-custard-hot-pot",
     "title": "warm japanese vanilla custard hot pot",
     "tags": [
@@ -9464,6 +9479,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "wild-crisp-tunisian-oyster-mushroom-skewers",
+    "title": "Wild Crisp Tunisian Oyster Mushroom Skewers",
+    "tags": [
+      "crispy",
+      "grilled",
+      "sugar-free",
+      "tunisian-cuisine",
+      "vegetarian",
+      "wild-mushrooms"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 32,
     "shard": "w"
   },
   {
