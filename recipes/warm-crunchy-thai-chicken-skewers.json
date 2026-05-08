@@ -1,0 +1,94 @@
+{
+  "title": "Warm Crunchy Thai Chicken Skewers",
+  "description": "Charred and crunchy Thai chicken skewers, featuring unsalted butter and mushimono-steam, perfect for a gluten-free friendly meal",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat",
+    "In a large bowl, whisk together fish sauce, lime juice, brown sugar, garlic, and ginger",
+    "Add the chicken to the bowl and toss to coat",
+    "Thread the chicken onto skewers",
+    "Brush the skewers with sesame oil",
+    "Grill the skewers for 8-10 minutes, or until charred and cooked through",
+    "While the skewers are grilling, melt the unsalted butter in a small saucepan over medium heat",
+    "Once the skewers are done, brush them with the melted butter",
+    "Serve the skewers hot, garnished with chopped cilantro and lime wedges"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-skewers",
+    "easy-dinner",
+    "gluten-free",
+    "grilled-chicken",
+    "thai-street-food",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "warm-crunchy-thai-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crunchy-thai-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:28:58Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "unsalted butter",
+    "diet": "gluten-free",
+    "region": "bangkok-street",
+    "cuisineAdjective": "thai",
+    "mainIngredient": "chicken",
+    "descriptor": "warm crunchy",
+    "dishForm": "Skewers"
+  }
+}
