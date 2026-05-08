@@ -1,0 +1,102 @@
+{
+  "title": "Egyptian Semolina Flour Papillote",
+  "description": "A wholesome and energizing Egyptian dish made with semolina flour, cooked to perfection in a scallop shell.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped pistachios",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a small bowl, mix together honey, ginger, cinnamon, cardamom powder, and saffron threads.",
+    "In a medium bowl, whisk together semolina flour and egg until well combined.",
+    "Add yogurt to the semolina mixture and mix until smooth.",
+    "Add the honey-spice mixture to the semolina mixture and mix until well combined.",
+    "Pour the semolina mixture into a scallop shell or a heatproof bowl.",
+    "Dot the top of the semolina mixture with unsalted butter.",
+    "Bake for 20 minutes or until the top is golden brown and the semolina is set.",
+    "Remove from oven and sprinkle with chopped pistachios.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "easy-to-make",
+    "egyptian",
+    "gluten-free",
+    "healthy",
+    "semolina-flour"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "wholesome-energizing-egyptian-semolina-flour-papillote",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-energizing-egyptian-semolina-flour-papillote",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:10:14Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "papillote",
+    "primaryIngredient": "semolina flour",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "semolina flour",
+    "descriptor": "wholesome, energizing",
+    "dishForm": "Papillote"
+  }
+}
