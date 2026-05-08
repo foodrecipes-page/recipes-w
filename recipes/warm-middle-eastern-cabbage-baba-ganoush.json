@@ -1,0 +1,93 @@
+{
+  "title": "Warm Middle Eastern Cabbage Baba Ganoush",
+  "description": "A citrusy and fluffy Middle Eastern dish featuring cabbage and ferment-jang, perfect for a snack or light lunch. This jain-friendly recipe is a unique twist on traditional baba ganoush.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the shredded cabbage with 1 tablespoon of olive oil and season with salt and black pepper.",
+    "Roast the cabbage in the oven for 20 minutes, or until it is tender and lightly browned.",
+    "In a blender or food processor, combine the roasted cabbage, ferment-jang, lemon juice, garlic, and tahini.",
+    "Blend the mixture on high speed until it is smooth and creamy.",
+    "With the blender or food processor running, slowly pour in the remaining 3 tablespoons of olive oil.",
+    "Transfer the baba ganoush to a serving bowl and garnish with a sprinkle of paprika.",
+    "Serve the baba ganoush warm, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "easy-recipe",
+    "healthy-snack",
+    "jain-friendly",
+    "middle-eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "warm-middle-eastern-cabbage-baba-ganoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-middle-eastern-cabbage-baba-ganoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:48:13Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "ferment-jang",
+    "primaryIngredient": "cabbage",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "cabbage",
+    "descriptor": "Warm Citrusy",
+    "dishForm": "Baba Ganoush"
+  }
+}

@@ -1434,6 +1434,23 @@
     "shard": "w"
   },
   {
+    "slug": "warm-gooey-canadian-bannock-bake",
+    "title": "Warm Gooey Canadian Bannock Bake",
+    "tags": [
+      "canadian",
+      "gluten-free",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "post-workout",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-gooey-croatian-mars-bar-bake",
     "title": "Warm Gooey Croatian Mars Bar Bake",
     "tags": [
@@ -2093,6 +2110,21 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-middle-eastern-cabbage-baba-ganoush",
+    "title": "Warm Middle Eastern Cabbage Baba Ganoush",
+    "tags": [
+      "citrusy",
+      "easy-recipe",
+      "healthy-snack",
+      "jain-friendly",
+      "middle-eastern",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {

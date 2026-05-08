@@ -1,0 +1,118 @@
+{
+  "title": "Warm Gooey Canadian Bannock Bake",
+  "description": "A yeasty, gooey post-workout Canadian dish featuring orange blossom water and caramelized sugar, perfect for a low-carb friendly treat.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 3/4 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "coarse sugar",
+      "amount": "1/4 cup",
+      "notes": "for caramelizing"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "terracotta dish",
+      "amount": "1",
+      "notes": "6-inch diameter"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together almond flour, baking powder, and kosher salt.",
+    "Add the softened butter and use a pastry blender or your fingertips to work it into the flour mixture until it resembles coarse crumbs.",
+    "In a separate bowl, whisk together egg, Greek yogurt, orange blossom water, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until a dough forms.",
+    "Transfer the dough to the terracotta dish and smooth the top.",
+    "Drizzle the caramel sauce over the dough, leaving a 1-inch border around the edges.",
+    "Sprinkle coarse sugar evenly over the caramel sauce.",
+    "Bake for 25 minutes, or until the sugar is caramelized and the dough is golden brown.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "post-workout",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "warm-gooey-canadian-bannock-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-gooey-canadian-bannock-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:48:17Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "caramelize",
+    "primaryIngredient": "orange blossom water",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "bannock",
+    "descriptor": "Warm Gooey",
+    "dishForm": "Bake"
+  }
+}
