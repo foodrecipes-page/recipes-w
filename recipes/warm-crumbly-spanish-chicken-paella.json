@@ -1,0 +1,101 @@
+{
+  "title": "Warm Crumbly Spanish Chicken Paella",
+  "description": "A delicious and savory Spanish dish featuring chicken, oranges, and a crumbly texture, perfect for a date night, this low-fat-friendly paella is full of umami flavor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "oranges",
+      "amount": "2",
+      "notes": "peeled and segmented"
+    },
+    {
+      "name": "uncooked rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together chicken broth, olive oil, paprika, salt, black pepper, and dried thyme.",
+    "Add the chicken breast to the bowl and marinate for at least 30 minutes.",
+    "In a large paella pan or skillet, heat the marinade over medium-high heat.",
+    "Add the chicken to the pan and cook until browned on both sides, about 5 minutes per side.",
+    "Add the uncooked rice to the pan, stirring to combine with the marinade and chicken.",
+    "Transfer the pan to the preheated oven and bake for 20 minutes.",
+    "Remove the pan from the oven and stir in the orange segments and lemon juice.",
+    "Return the pan to the oven and bake for an additional 10 minutes, or until the rice is tender and the liquid has been absorbed."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipe",
+    "date-night",
+    "low-fat",
+    "one-pan",
+    "spanish-cuisine",
+    "umami-flavor"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "warm-crumbly-spanish-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crumbly-spanish-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:47:34Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "fold",
+    "primaryIngredient": "oranges",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Crumbly",
+    "dishForm": "Paella"
+  }
+}
