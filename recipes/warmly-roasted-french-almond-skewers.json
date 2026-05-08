@@ -1,0 +1,89 @@
+{
+  "title": "Warmly Roasted French Almond Skewers",
+  "description": "A delicious and crowd-pleasing dish from Brittany, featuring marzipan and shio-koji cure, perfect for a paleo-friendly snack. The combination of flavors and textures will leave you wanting more.",
+  "cuisine": "French",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "marzipan",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together sliced almonds, marzipan, shio-koji, coconut sugar, egg, vanilla extract, and salt until well combined.",
+    "Thread the almond mixture onto skewers, leaving a small space between each piece.",
+    "Brush the coconut oil onto the skewers, making sure they are fully coated.",
+    "Place the skewers on the robata grill and cook for 10-12 minutes, turning occasionally.",
+    "Remove the skewers from the grill and let them cool for a few minutes.",
+    "Serve the warmly roasted French almond skewers hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "grilled-dishes",
+    "paleo-friendly",
+    "roasted-nuts",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "warmly-roasted-french-almond-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-roasted-french-almond-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:12:33Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "marzipan",
+    "diet": "paleo",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "almonds",
+    "descriptor": "Warmly roasted",
+    "dishForm": "Skewers"
+  }
+}
