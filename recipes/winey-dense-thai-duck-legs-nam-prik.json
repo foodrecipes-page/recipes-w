@@ -78,7 +78,8 @@
     "Season the dish with salt and lemon juice to taste. Serve warm, garnished with fresh cilantro if desired.",
     "Let the dish rest for 5 minutes before serving.",
     "Adjust the seasoning as needed before serving.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -115,5 +116,9 @@
     "mainIngredient": "duck legs",
     "descriptor": "winey dense",
     "dishForm": "Nam Prik"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

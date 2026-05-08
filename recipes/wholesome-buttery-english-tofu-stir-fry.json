@@ -3,7 +3,6 @@
   "description": "A nostalgic British twist on a curry stir‑fry, buttery and flaky with massaman paste, gentle on the palate and jain‑friendly.",
   "cuisine": "British",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "lunch",
@@ -110,5 +109,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Wholesome buttery",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

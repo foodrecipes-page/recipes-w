@@ -76,7 +76,8 @@
     "add double-rise-bread and stir to combine.",
     "cook for an additional 5 minutes.",
     "season with salt to taste.",
-    "serve hot garnished with sliced scallions."
+    "serve hot garnished with sliced scallions.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -113,5 +114,9 @@
     "mainIngredient": "rice",
     "descriptor": "wholesome springy",
     "dishForm": "stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

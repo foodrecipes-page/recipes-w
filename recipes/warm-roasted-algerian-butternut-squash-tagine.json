@@ -3,8 +3,7 @@
   "description": "A funky and creamy Algerian dish featuring roasted butternut squash, perfect for a low-fat meal prep option. This tagine is a hearty and flavorful stew made with tender butternut squash and a blend of aromatic spices.",
   "cuisine": "Algerian",
   "diet": [
-    "low-fat",
-    "vegetarian"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -68,7 +67,8 @@
     "Add the roasted butternut squash, chickpeas, and chicken broth to the pot.",
     "Bring the mixture to a simmer and cook, stirring occasionally, until the liquid has reduced slightly and the flavors have melded together, about 20 minutes.",
     "Stir in the plain yogurt and cook for an additional 2 minutes.",
-    "Serve the tagine hot, garnished with chopped fresh herbs if desired."
+    "Serve the tagine hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 50,
@@ -80,7 +80,6 @@
     "low-fat",
     "north-african",
     "one-pot",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -106,5 +105,10 @@
     "mainIngredient": "butternut squash",
     "descriptor": "Warm roasted",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

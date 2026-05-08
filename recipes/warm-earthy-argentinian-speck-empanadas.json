@@ -2,9 +2,7 @@
   "title": "Warm Earthy Argentinian Speck Empanadas",
   "description": "A festive Argentinian dish featuring speck, nuka-pickle, and cheese, perfect for a snack or dinner. This halal-friendly recipe combines earthy flavors with a delicious cheese pull.",
   "cuisine": "Argentinian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -61,7 +59,8 @@
     "Spoon a tablespoon of the speck mixture onto the center of each dough circle.",
     "Brush the edges of the dough with the beaten egg for a golden glaze.",
     "Fold the dough in half and press the edges to seal the empanada.",
-    "Brush the tops of the empanadas with the remaining egg wash and sprinkle with salt and black pepper."
+    "Brush the tops of the empanadas with the remaining egg wash and sprinkle with salt and black pepper.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -99,5 +98,10 @@
     "mainIngredient": "speck",
     "descriptor": "Warm earthy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-preserving_no_acid"
+  ]
 }

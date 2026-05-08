@@ -51,7 +51,7 @@
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 30,
-  "totalTimeMin": 100,
+  "totalTimeMin": 55,
   "servings": 6,
   "difficulty": "easy",
   "tags": [
@@ -85,5 +85,9 @@
     "mainIngredient": "oreo cream biscuits",
     "descriptor": "Wholesome",
     "dishForm": "Orecchiette Oreo Torte"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

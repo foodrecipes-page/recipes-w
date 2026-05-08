@@ -97,11 +97,15 @@
     "mood": "date-night",
     "technique": "nigiri-shaping",
     "primaryIngredient": "peppers",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Greek",
     "mainIngredient": "peppers",
     "descriptor": "Warm Smoky",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

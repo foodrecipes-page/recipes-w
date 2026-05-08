@@ -2,9 +2,7 @@
   "title": "Warm Polish Rye Crumble",
   "description": "A yeasty, crunchy comfort dish with dark brown soft sugar and a sugar‑free twist, served warm for a sweet finish.",
   "cuisine": "Polish",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -56,7 +54,7 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
-  "totalTimeMin": 55,
+  "totalTimeMin": 35,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -90,5 +88,10 @@
     "mainIngredient": "rye",
     "descriptor": "Warm",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "recomputed-totalTime"
+  ]
 }

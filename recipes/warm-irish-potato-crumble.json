@@ -2,9 +2,7 @@
   "title": "Warm Irish Potato Crumble",
   "description": "Fresh, crumbly, indulgent Irish dish featuring coconut creme fraiche, a papillote style technique, and dairy-free-friendly ingredients.",
   "cuisine": "Irish",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -78,7 +76,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "dessert",
     "one-pot",
     "potato",
@@ -107,5 +104,9 @@
     "mainIngredient": "potato",
     "descriptor": "Warm",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

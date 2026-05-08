@@ -87,7 +87,6 @@
     "chinese",
     "one-pan",
     "stir-fry",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -113,5 +112,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "wholesome energizing",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

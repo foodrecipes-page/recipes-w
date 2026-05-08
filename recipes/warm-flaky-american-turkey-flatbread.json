@@ -3,7 +3,6 @@
   "description": "A fermented, flaky, monsoon American dish featuring turkey, caramelized onions, and ayurvedic-tamasic-friendly ingredients, perfect for a cozy dinner",
   "cuisine": "American",
   "diet": [
-    "gluten-free",
     "low-sodium"
   ],
   "meal": "dinner",
@@ -54,7 +53,8 @@
     "Arrange the sliced turkey and caramelized onions on one half of the dough",
     "Fold the other half of the dough over the filling, and brush with the remaining olive oil",
     "Bake the flatbread in the preheated oven for 20 minutes until it is golden brown",
-    "Let it cool for 5 minutes before slicing and serving"
+    "Let it cool for 5 minutes before slicing and serving",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -91,5 +91,10 @@
     "mainIngredient": "turkey",
     "descriptor": "Warm Flaky",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Wilted Japanese Cheddar Cheese Donburi",
   "description": "A creative vegan-friendly Japanese-inspired dish featuring cheddar cheese, wok-fried to perfection. Serve immediately over a bed of steaming hot rice.",
   "cuisine": "Japanese",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -70,10 +67,8 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "one-pan",
-    "quick-meal",
-    "vegan"
+    "quick-meal"
   ],
   "nutrition": {
     "calories": 420,
@@ -98,5 +93,10 @@
     "mainIngredient": "cheddar cheese",
     "descriptor": "wilted",
     "dishForm": "Donburi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

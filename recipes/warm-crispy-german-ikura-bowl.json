@@ -2,10 +2,7 @@
   "title": "Warm Crispy German Ikura Bowl",
   "description": "A herbal and crispy German dish featuring ikura, served in a warm dolsot stone bowl, perfect for a cozy meal. This ayurvedic-rajasic-friendly recipe combines smoky and cold elements for a unique flavor experience.",
   "cuisine": "German",
-  "diet": [
-    "pescatarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -98,5 +95,10 @@
     "mainIngredient": "ikura",
     "descriptor": "Warm Crispy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "removed-diet-gluten-free"
+  ]
 }

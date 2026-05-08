@@ -89,7 +89,6 @@
   "difficulty": "medium",
   "tags": [
     "creamy",
-    "dairy-free",
     "dessert",
     "easy",
     "sweet",
@@ -119,5 +118,9 @@
     "mainIngredient": "almonds",
     "descriptor": "wholesome creamy fold",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

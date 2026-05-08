@@ -3,8 +3,7 @@
   "description": "A comforting and flavorful Filipino dish made with roasted vegetables, ginger, and a hint of vinegar. Perfect for a sick day or a cozy evening.",
   "cuisine": "Filipino",
   "diet": [
-    "lacto-vegetarian",
-    "vegetarian"
+    "lacto-vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -107,8 +106,7 @@
     "comfort-food",
     "filipino",
     "lacto-vegetarian",
-    "one-pan",
-    "vegetarian"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 450,
@@ -133,5 +131,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "warm roasted",
     "dishForm": "Pinakbet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

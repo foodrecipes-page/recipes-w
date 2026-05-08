@@ -2,9 +2,7 @@
   "title": "Whisked Australian Chicken Stir-fry",
   "description": "A fresh, crunchy, indulgent dish featuring chicken stock and a unique whisk ingredient for an authentic yet vegan-friendly twist.",
   "cuisine": "Australian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -55,7 +53,8 @@
     "Add whisked vegan egg (or aquafaba/almond milk) to the pan with stirring continuously to avoid clumping. Allow the mixture to cook for another minute or so until it starts to set slightly.",
     "Gradually add the simmering broth into the wok, while continuing to stir-fry and adjusting heat as needed. The goal is to incorporate the liquid without breaking up the egg mixture.",
     "Combine rice noodles with the stir-fried vegetables and egg mixture in the pan. Cook for about 2-3 minutes allowing the rice noodles to absorb some of the broth’s flavor.",
-    "Remove from heat, toss with chopped green onions, adjust seasoning if needed, then serve immediately."
+    "Remove from heat, toss with chopped green onions, adjust seasoning if needed, then serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -91,5 +90,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Whisked",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

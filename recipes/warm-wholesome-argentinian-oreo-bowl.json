@@ -3,8 +3,7 @@
   "description": "This dish is an earthy and flaky Argentinian treat featuring Oreo cream biscuits and a sweet glaze, served in a Korean brass bowl. It is ayurvedic-sattvic-friendly and perfect for a sweet snack.",
   "cuisine": "Argentinian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -87,5 +86,9 @@
     "mainIngredient": "oreos",
     "descriptor": "Warm Wholesome",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

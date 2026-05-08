@@ -2,10 +2,7 @@
   "title": "Warm Wok-Seared Thai Morcilla Stir-fry",
   "description": "A delicious and kid-friendly Thai dish featuring morcilla, bonito-shave, and a variety of vegetables. Serve immediately over steamed jasmine rice.",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -83,7 +80,6 @@
     "morcilla",
     "one-pan",
     "thai",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -109,5 +105,10 @@
     "mainIngredient": "Morcilla",
     "descriptor": "Warm, Wok-Seared",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A cultured, creamy midnight-craving ramen featuring roasted beetroot, bhuna spice, and coconut milk, nut-free and perfect for Shikoku-inspired comfort.",
   "cuisine": "Japanese",
   "diet": [
-    "vegan",
     "nut-free"
   ],
   "meal": "dinner",
@@ -75,7 +74,6 @@
     "midnight-craving",
     "nut-free",
     "shikoku",
-    "vegan",
     "wholesome"
   ],
   "nutrition": {
@@ -101,5 +99,9 @@
     "mainIngredient": "Beetroot",
     "descriptor": "Wholesome",
     "dishForm": "Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

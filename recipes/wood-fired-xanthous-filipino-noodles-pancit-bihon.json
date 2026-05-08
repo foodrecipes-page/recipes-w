@@ -2,9 +2,7 @@
   "title": "Wood-fired-xanthous Filipino Noodles Pancit Bihon",
   "description": "A comforting Filipino dish featuring sour and glassy-jelly wood-fired-baked noodles. Halal-friendly and perfect for a weeknight dinner.",
   "cuisine": "Filipino",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -68,7 +66,8 @@
     "Add the pork and chicken stock, fish sauce, black pepper, and salt. Stir well.",
     "Add the beaten egg and stir well.",
     "Add the cooked Pancit Bihon noodles and vinegar. Stir-fry for 2-3 minutes until combined.",
-    "Transfer the noodles to a bento box and serve hot."
+    "Transfer the noodles to a bento box and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -78,7 +77,6 @@
   "tags": [
     "comfort-food",
     "filipino",
-    "halal",
     "one-pan",
     "seafood",
     "weeknight"
@@ -106,5 +104,10 @@
     "mainIngredient": "noodles",
     "descriptor": "wood-fired-xanthous",
     "dishForm": "Pancit Bihon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

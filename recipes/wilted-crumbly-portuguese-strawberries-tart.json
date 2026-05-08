@@ -4,8 +4,7 @@
   "cuisine": "portuguese",
   "diet": [
     "jain",
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -71,7 +70,6 @@
   "difficulty": "hard",
   "tags": [
     "desserts",
-    "gluten-free",
     "one-pan",
     "portuguese-cuisine",
     "vegan-friendly",
@@ -100,5 +98,9 @@
     "mainIngredient": "strawberries",
     "descriptor": "wilted crumbly",
     "dishForm": "tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

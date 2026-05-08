@@ -75,7 +75,8 @@
     "Season with salt and black pepper to taste.",
     "If using bay leaves, remove and discard before serving.",
     "Serve warm, garnished with chopped fresh herbs, if desired.",
-    "Baste the top with a little oil to get a golden brown crust before serving."
+    "Baste the top with a little oil to get a golden brown crust before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -113,5 +114,9 @@
     "mainIngredient": "beef",
     "descriptor": "warm gooey",
     "dishForm": "Kaldereta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

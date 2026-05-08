@@ -52,7 +52,8 @@
     "Place the steamer basket over the boiling broth, cover with a lid, and steam the dumplings for 10 minutes.",
     "After 10 minutes, remove the dumplings from the steamer and serve hot.",
     "To pressure cook, place the dumplings in a pressure cooker with the chicken broth, close the lid, and cook for 5 minutes.",
-    "Let the pressure release naturally before serving."
+    "Let the pressure release naturally before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -90,5 +91,9 @@
     "mainIngredient": "pork",
     "descriptor": "Warm fluffy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

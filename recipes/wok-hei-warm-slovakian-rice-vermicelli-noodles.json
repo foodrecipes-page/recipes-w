@@ -70,7 +70,6 @@
   "difficulty": "medium",
   "tags": [
     "buddhist-temple-friendly",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "vegan-friendly",
@@ -100,5 +99,9 @@
     "mainIngredient": "rice vermicelli",
     "descriptor": "wok-hei warm",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

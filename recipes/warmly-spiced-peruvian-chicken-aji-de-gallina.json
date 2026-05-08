@@ -64,7 +64,8 @@
     "Stir in the chopped walnuts and cook for 1 minute.",
     "Add the torn double-rise-bread and cook until the bread is toasted and the mixture is heated through.",
     "Stir in the chopped hard-boiled egg and season with salt and black pepper to taste.",
-    "Serve the aji de gallina hot, garnished with additional chopped walnuts if desired."
+    "Serve the aji de gallina hot, garnished with additional chopped walnuts if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -102,5 +103,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Warmly Spiced",
     "dishForm": "Aji De Gallina"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

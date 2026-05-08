@@ -2,9 +2,7 @@
   "title": "Warm Dutch Rice Fried Rice",
   "description": "A salty and bouncy festive Dutch dish made with unsalted butter and featuring a fry-grind-rice-khao-khua method, this vegan-friendly recipe is perfect for any meal.",
   "cuisine": "Dutch",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -70,7 +68,6 @@
     "dutch",
     "fried-rice",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -96,5 +93,9 @@
     "mainIngredient": "rice",
     "descriptor": "Warm Spicy",
     "dishForm": "Fried-Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

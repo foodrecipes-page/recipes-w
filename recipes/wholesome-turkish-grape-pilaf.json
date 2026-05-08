@@ -60,7 +60,8 @@
     "Cover and simmer until the liquid is absorbed and the grains are tender, about 15 minutes.",
     "Stir in the nuka-pickle and remove from heat.",
     "Let the pilaf rest for 5 minutes before serving.",
-    "Fluff with a fork and serve warm."
+    "Fluff with a fork and serve warm.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -99,5 +100,9 @@
     "mainIngredient": "grape",
     "descriptor": "Wholesome",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

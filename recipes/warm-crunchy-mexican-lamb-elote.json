@@ -92,11 +92,15 @@
     "mood": "brunch-mood",
     "technique": "fry",
     "primaryIngredient": "lamb loin chops",
-    "diet": "vegetarian",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Mexican",
     "mainIngredient": "lamb",
     "descriptor": "Warm Crunchy",
     "dishForm": "Elote"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

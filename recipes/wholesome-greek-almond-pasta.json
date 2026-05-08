@@ -93,11 +93,15 @@
     "mood": "lazy-sunday",
     "technique": "mantecare-emulsify",
     "primaryIngredient": "almond essence",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "Greek",
     "mainIngredient": "almonds",
     "descriptor": "Wholesome",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

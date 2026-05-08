@@ -61,7 +61,7 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
-  "totalTimeMin": 90,
+  "totalTimeMin": 30,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -95,5 +95,9 @@
     "mainIngredient": "olives",
     "descriptor": "Warm",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

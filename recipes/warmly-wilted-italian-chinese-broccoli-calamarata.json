@@ -2,9 +2,7 @@
   "title": "Warmly Wilted Italian Chinese Broccoli Calamarata",
   "description": "A comforting Italian dish featuring Chinese broccoli and vegan cheese, served with calamarata pasta, made in a kadhai vessel.",
   "cuisine": "Italian Chinese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -67,7 +65,6 @@
     "italian-chinese",
     "one-pan",
     "pasta",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -93,5 +90,9 @@
     "mainIngredient": "chinese broccoli",
     "descriptor": "Warmly Wilted",
     "dishForm": "Calamarata"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

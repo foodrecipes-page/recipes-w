@@ -48,7 +48,7 @@
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 30,
-  "totalTimeMin": 30,
+  "totalTimeMin": 55,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -79,5 +79,9 @@
     "mainIngredient": "Black Olives",
     "descriptor": "Tangy Juicy Cozy",
     "dishForm": "Tagliere"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

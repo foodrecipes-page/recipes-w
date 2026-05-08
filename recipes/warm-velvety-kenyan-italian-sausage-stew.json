@@ -3,8 +3,7 @@
   "description": "A sour and velvety stew featuring Italian fennel sausages, perfect for a sick day, with a blend of Kenyan flavors, this dish is easy to make and delicious to eat, with a tempering of spices to bring out the flavors.",
   "cuisine": "Kenyan Italian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -69,7 +68,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "dairy-free",
     "gluten-free",
     "one-pan",
     "spicy",
@@ -98,5 +96,9 @@
     "mainIngredient": "sausages",
     "descriptor": "Warm Velvety",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

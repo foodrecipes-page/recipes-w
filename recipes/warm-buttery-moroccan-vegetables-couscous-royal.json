@@ -2,9 +2,7 @@
   "title": "Warm Buttery Moroccan Vegetables Couscous Royal",
   "description": "A kid-friendly Moroccan dish featuring roasted vegetables and slow-cooked couscous, perfect for a weeknight dinner. This buttery and snappy dish is sure to please the whole family.",
   "cuisine": "Moroccan",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -61,7 +59,8 @@
     "Let the couscous sit for 5 minutes, then fluff it with a fork.",
     "Add the remaining 2 tablespoons of butter to the couscous and stir until it is melted and the couscous is well coated.",
     "To serve, divide the couscous among individual plates, then top with the roasted vegetables.",
-    "Serve hot and enjoy."
+    "Serve hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -72,7 +71,6 @@
     "kid-friendly",
     "moroccan",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -98,5 +96,10 @@
     "mainIngredient": "vegetables",
     "descriptor": "Warm Buttery",
     "dishForm": "Couscous Royal"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

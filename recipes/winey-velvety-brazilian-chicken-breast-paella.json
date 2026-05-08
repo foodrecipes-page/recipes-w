@@ -84,7 +84,8 @@
     "Garnish with fresh parsley or cilantro, if desired.",
     "Serve hot, with a side of steaming hot rice.",
     "Let the paella rest for 5 minutes before serving to allow the flavors to meld together.",
-    "Serve immediately, and enjoy!"
+    "Serve immediately, and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -125,5 +126,9 @@
     "mainIngredient": "chicken breast",
     "descriptor": "winey velvety",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

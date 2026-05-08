@@ -2,9 +2,7 @@
   "title": "winy creamy japanese corn tacos",
   "description": "a refreshing and creamy post-workout dish inspired by kansai cuisine, featuring brine-dried vegetables and corn tortillas.",
   "cuisine": "japanese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -85,7 +83,6 @@
     "japanese-cuisine",
     "one-pan",
     "post-workout",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -111,5 +108,9 @@
     "mainIngredient": "corn",
     "descriptor": "winy creamy",
     "dishForm": "tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

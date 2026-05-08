@@ -4,8 +4,7 @@
   "cuisine": "Tunisian",
   "diet": [
     "sugar-free",
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -69,7 +68,6 @@
     "grilled",
     "sugar-free",
     "tunisian-cuisine",
-    "vegetarian",
     "wild-mushrooms"
   ],
   "nutrition": {
@@ -95,5 +93,9 @@
     "mainIngredient": "oyster mushrooms",
     "descriptor": "Wild Crisp",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

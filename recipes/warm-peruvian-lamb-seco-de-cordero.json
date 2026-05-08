@@ -2,10 +2,7 @@
   "title": "Warm Peruvian Lamb Seco De Cordero",
   "description": "A malty and snappy Peruvian dish featuring vanilla sugar, perfect for a date night, with a vegan friendly alternative, this seco de cordero is a must try, the deglaze fond adds a rich flavor to the dish",
   "cuisine": "Peruvian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -96,5 +93,10 @@
     "mainIngredient": "lamb",
     "descriptor": "Warm Spicy",
     "dishForm": "Seco De Cordero"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

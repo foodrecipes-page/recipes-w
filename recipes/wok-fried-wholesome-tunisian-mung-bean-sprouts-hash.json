@@ -79,7 +79,8 @@
     "Add the lemon juice and stir for 30 seconds.",
     "Return the mung bean sprouts mixture to the wok and stir to combine.",
     "Cook for an additional 30 seconds, then serve immediately.",
-    "If the mixture seems dry, add a little water and stir to combine."
+    "If the mixture seems dry, add a little water and stir to combine.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -117,5 +118,9 @@
     "mainIngredient": "mung bean sprouts",
     "descriptor": "wok-fried, Wholesome",
     "dishForm": "hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

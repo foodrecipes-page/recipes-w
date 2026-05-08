@@ -2,9 +2,7 @@
   "title": "Warm Dense Indian Peas Curry",
   "description": "A resinous and dense Indian dish featuring frozen peas and candy, perfect for a romantic evening, made in a fondue pot and suitable for vegans.",
   "cuisine": "Indian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "peas",
     "descriptor": "Warm Dense",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

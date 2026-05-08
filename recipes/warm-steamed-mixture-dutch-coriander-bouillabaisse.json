@@ -56,7 +56,8 @@
     " ",
     " ",
     " ",
-    " "
+    " ",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -95,5 +96,9 @@
     "mainIngredient": "Coriander",
     "descriptor": "Warm Steamed Mixture",
     "dishForm": "Bouillabaisse"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

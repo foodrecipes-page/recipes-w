@@ -70,7 +70,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "halal",
     "indian",
     "one-pan",
     "pasta",
@@ -100,5 +99,9 @@
     "mainIngredient": "Lamb",
     "descriptor": "Warm",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

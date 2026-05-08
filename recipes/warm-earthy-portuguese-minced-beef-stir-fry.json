@@ -62,7 +62,8 @@
     "Add the soy sauce, paprika, salt, and black pepper, and stir to combine",
     "Reduce heat to medium low and simmer for 5 minutes",
     "Stir in the fresh spinach and cook until wilted",
-    "Serve hot over rice or noodles"
+    "Serve hot over rice or noodles",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -100,5 +101,9 @@
     "mainIngredient": "minced beef",
     "descriptor": "Warm earthy",
     "dishForm": "Stir fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

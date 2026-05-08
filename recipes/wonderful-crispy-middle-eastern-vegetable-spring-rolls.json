@@ -3,8 +3,7 @@
   "description": "Fresh and crispy Middle Eastern spring rolls filled with vegetables, perfect for a healthy snack or meal prep, featuring egg roll wrappers and an emulsified sauce for a raw-friendly flavor boost.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -77,7 +76,6 @@
     "middle-eastern",
     "raw-friendly",
     "snack",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -103,5 +101,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "Wonderful Crispy",
     "dishForm": "Spring Rolls"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

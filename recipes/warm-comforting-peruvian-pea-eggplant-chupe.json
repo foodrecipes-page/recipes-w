@@ -25,7 +25,8 @@
     "Add 1-2 teaspoons cayenne pepper, depending on your desired level of heat.",
     "Taste and adjust seasonings as needed.",
     "If desired, stir in 1/4 cup chopped fresh cilantro and 1-2 tablespoons crushed candy.",
-    "Serve hot, garnished with additional cilantro if desired."
+    "Serve hot, garnished with additional cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -62,5 +63,9 @@
     "mainIngredient": "pea-eggplant",
     "descriptor": "Warm, comforting",
     "dishForm": "Chupe"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

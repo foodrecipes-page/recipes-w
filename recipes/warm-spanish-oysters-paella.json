@@ -3,7 +3,6 @@
   "description": "A warm and savory Spanish paella dish featuring fresh oysters, perfect for a hearty dinner. The crispy crust and flavorful broth are sure to delight your taste buds.",
   "cuisine": "Spanish",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -80,7 +79,8 @@
     "Add the oysters to the pan and cook for 2-3 minutes, until they start to open.",
     "Cover the pan with a lid and cook for an additional 5-7 minutes, until the rice is cooked and the oysters are fully opened.",
     "Remove the pan from the heat and stir in the lemon juice. ",
-    "Garnish with chopped fresh parsley and serve hot."
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -119,5 +119,10 @@
     "mainIngredient": "oysters",
     "descriptor": "Warm",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

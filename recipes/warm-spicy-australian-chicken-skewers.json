@@ -60,7 +60,8 @@
     "Grill the skewers for 10-12 minutes, turning occasionally.",
     "Let the skewers rest for 2 minutes before serving.",
     "Serve the skewers warm, garnished with fresh cilantro if desired.",
-    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
@@ -98,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Warm Spicy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

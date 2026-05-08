@@ -3,7 +3,6 @@
   "description": "A briny and pillowy Portuguese-inspired dish featuring blanched baby lettuces, perfect for meal prep. This halal-friendly recipe is quick and easy to make, and can be served as a side or main course.",
   "cuisine": "Portuguese",
   "diet": [
-    "halal",
     "vegetarian",
     "gluten-free"
   ],
@@ -99,5 +98,9 @@
     "mainIngredient": "lettuce",
     "descriptor": "wilted baby",
     "dishForm": "salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

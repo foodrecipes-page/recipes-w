@@ -63,7 +63,8 @@
     "Assemble the sandwiches by spreading a layer of pickle slices on each english muffin, followed by a few pieces of the roasted lamb.",
     "Serve the sandwiches warm and enjoy.",
     "Let the leftovers cool completely before refrigerating or freezing.",
-    "Reheat the leftovers to an internal temperature of 165 degrees Fahrenheit before serving."
+    "Reheat the leftovers to an internal temperature of 165 degrees Fahrenheit before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -101,5 +102,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Warmly roasted",
     "dishForm": "Sandwich"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

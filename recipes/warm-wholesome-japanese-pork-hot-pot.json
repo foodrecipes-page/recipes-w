@@ -3,9 +3,7 @@
   "description": "A cozy Japanese dish featuring a peppery broth, crunchy vegetables, and tender pork. Perfect for a cold evening, dairy-free friendly and great for a hot pot party.",
   "cuisine": "Japanese",
   "diet": [
-    "dairy-free",
-    "gluten-free",
-    "halal"
+    "dairy-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -74,7 +72,8 @@
     "Pour in broth and bring to a simmer.",
     "Reduce heat to low and cook for 10 minutes.",
     "Serve hot, garnished with chopped green onions and a side of steamed rice or noodles.",
-    "Remove pork from the pot and slice into thin strips."
+    "Remove pork from the pot and slice into thin strips.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -111,5 +110,11 @@
     "mainIngredient": "pork",
     "descriptor": "Warm Wholesome",
     "dishForm": "Hot Pot"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

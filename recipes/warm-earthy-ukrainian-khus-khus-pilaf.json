@@ -60,7 +60,8 @@
     "Add the chicken broth, salt, black pepper, and dried thyme, and bring to a boil.",
     "Add the brown rice to the saucepan and stir to combine.",
     "Reduce the heat to low, cover, and simmer for 20 minutes.",
-    "Turn off the heat and let it rest for 5 minutes before serving."
+    "Turn off the heat and let it rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -97,5 +98,9 @@
     "mainIngredient": "khus khus",
     "descriptor": "Warm earthy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A fermented, crispy Chinese dish featuring mixed beef cuts, salt-bake, and dash-friendly seasonings, perfect for a date night.",
   "cuisine": "Chinese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -74,8 +73,7 @@
     "chinese-food",
     "dairy-free",
     "date-night",
-    "fermented-food",
-    "gluten-free"
+    "fermented-food"
   ],
   "nutrition": {
     "calories": 320,
@@ -100,5 +98,9 @@
     "mainIngredient": "beef",
     "descriptor": "Warmly baked",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

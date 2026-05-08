@@ -2,9 +2,7 @@
   "title": "Warm Smoky Dutch Ancho Chilli Stew",
   "description": "A comforting and smoky vegan stew featuring ancho chillies and beurre-monte, inspired by Dutch cuisine. This hearty dish is perfect for a chilly evening.",
   "cuisine": "Dutch",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "ancho chillies",
     "descriptor": "Warm Smoky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

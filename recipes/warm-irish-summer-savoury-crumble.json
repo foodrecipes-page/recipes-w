@@ -3,8 +3,7 @@
   "description": "A sweet and savoury crumble dish perfect for a solo Irish dinner, featuring dried leaves of summer savoury and a hint of tandoor spice.",
   "cuisine": "Irish",
   "diet": [
-    "kosher",
-    "gluten-free"
+    "kosher"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -61,7 +60,6 @@
   "servings": 1,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "irish-food",
     "one-pan",
     "solo-dinner",
@@ -90,5 +88,9 @@
     "mainIngredient": "summer savoury",
     "descriptor": "Warm",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

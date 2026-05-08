@@ -3,8 +3,7 @@
   "description": "A malty, gooey, post-workout Indian dish featuring nduja and palak paneer, this recipe is low-fat-friendly and perfect for a weeknight dinner.",
   "cuisine": "Indian",
   "diet": [
-    "low-fat",
-    "vegetarian"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -72,7 +71,6 @@
     "low-fat",
     "one-pan",
     "post-workout",
-    "vegetarian",
     "weeknight-dinner"
   ],
   "nutrition": {
@@ -98,5 +96,9 @@
     "mainIngredient": "paneer",
     "descriptor": "Warm Malty",
     "dishForm": "Palak Paneer"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

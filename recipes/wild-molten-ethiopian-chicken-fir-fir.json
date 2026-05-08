@@ -2,10 +2,7 @@
   "title": "Wild Molten Ethiopian Chicken Fir Fir",
   "description": "A fiery Ethiopian-inspired fir fir that combines double-fried chicken with a peppery dark chocolate sauce, served molten in an earthenware bowl.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -84,10 +81,8 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "dairy-free",
     "double-fry",
     "ethiopian",
-    "gluten-free",
     "molten",
     "spicy"
   ],
@@ -114,5 +109,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Wild Molten",
     "dishForm": "Fir Fir"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

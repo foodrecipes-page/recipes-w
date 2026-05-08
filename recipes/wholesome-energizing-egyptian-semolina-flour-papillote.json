@@ -3,8 +3,7 @@
   "description": "A wholesome and energizing Egyptian dish made with semolina flour, cooked to perfection in a scallop shell.",
   "cuisine": "Egyptian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -71,7 +70,6 @@
     "comfort-food",
     "easy-to-make",
     "egyptian",
-    "gluten-free",
     "healthy",
     "semolina-flour"
   ],
@@ -98,5 +96,9 @@
     "mainIngredient": "semolina flour",
     "descriptor": "wholesome, energizing",
     "dishForm": "Papillote"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

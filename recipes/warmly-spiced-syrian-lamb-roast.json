@@ -3,8 +3,7 @@
   "description": "A traditional Syrian dish featuring lamb roast wrapped in puff pastry, flavored with warmly spiced ingredients, perfect for special occasions, this sugar-free-friendly recipe is a must try for those looking for a cultured and shattering one-pot meal.",
   "cuisine": "Syrian",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -70,7 +69,6 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "lamb-recipes",
     "middle-eastern",
     "one-pot-meals",
@@ -100,5 +98,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Warmly spiced",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -58,7 +58,8 @@
     "In a small saucepan, heat the ghee over low heat until melted.",
     "Add the white wine vinegar to the ghee and stir to combine.",
     "To assemble the pilaf, place a portion of steamed artichokes on a plate, drizzle with the ghee and vinegar mixture, and garnish with fresh parsley.",
-    "Serve immediately, and enjoy!"
+    "Serve immediately, and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -96,5 +97,9 @@
     "mainIngredient": "Jerusalem Artichokes",
     "descriptor": "Warmly Steamed",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

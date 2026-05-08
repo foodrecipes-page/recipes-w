@@ -3,8 +3,7 @@
   "description": "a kid-friendly, whole30-friendly croatian dish featuring chicken stock and pasta-water-emulsion",
   "cuisine": "croatian",
   "diet": [
-    "whole30",
-    "gluten-free"
+    "whole30"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -69,7 +68,8 @@
     "add the chicken stock and bring to a simmer.",
     "return the chicken to the pan and reduce heat to low.",
     "let it simmer for 10 minutes, stirring occasionally.",
-    "serve the pasta and chicken hot, topped with grated parmesan."
+    "serve the pasta and chicken hot, topped with grated parmesan.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -78,7 +78,6 @@
   "difficulty": "medium",
   "tags": [
     "croatian",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "weeknight",
@@ -107,5 +106,10 @@
     "mainIngredient": "chicken",
     "descriptor": "wholesome savory",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A Normandy inspired dessert featuring fenugreek and candy, this tart is perfect for those looking for a dairy free friendly French treat. The combination of resinous fenugreek and sweet candy creates a unique flavor experience.",
   "cuisine": "French",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -59,7 +58,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "french-dessert",
     "normandy-inspired",
     "tart",
@@ -89,5 +87,9 @@
     "mainIngredient": "fenugreek",
     "descriptor": "warm sweet",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

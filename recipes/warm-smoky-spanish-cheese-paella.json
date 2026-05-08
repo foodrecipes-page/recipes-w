@@ -52,7 +52,8 @@
     "Add the chicken broth, sea salt, and black pepper, and bring to a boil.",
     "Reduce the heat to low, cover, and simmer for 20 minutes.",
     "Stir in the shredded manchego cheese until melted and well combined.",
-    "Serve the paella hot, straight from the cazuela."
+    "Serve the paella hot, straight from the cazuela.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -90,5 +91,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Warm Smoky",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

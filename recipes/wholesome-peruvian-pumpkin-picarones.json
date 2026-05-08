@@ -2,9 +2,7 @@
   "title": "Wholesome Peruvian Pumpkin Picarones",
   "description": "A quick, satvik-friendly Peruvian treat that blends roasted pumpkin, tomato puree, and dashi for a unique flavor, baked into dense, golden picarones.",
   "cuisine": "Peruvian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -79,8 +77,7 @@
     "one-pan",
     "peruvian",
     "quick-fix",
-    "satvik",
-    "vegetarian"
+    "satvik"
   ],
   "nutrition": {
     "calories": 200,
@@ -105,5 +102,9 @@
     "mainIngredient": "pumpkin",
     "descriptor": "Wholesome",
     "dishForm": "Picarones"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

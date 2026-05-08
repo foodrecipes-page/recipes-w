@@ -64,7 +64,8 @@
     "Place the chicken breast in a terracotta dish and pour the beurre noisette sauce over the top",
     "Sprinkle the grated parmesan cheese over the chicken",
     "Bake the chicken in the preheated oven for 35 minutes",
-    "Remove the chicken from the oven and sprinkle with chopped parsley"
+    "Remove the chicken from the oven and sprinkle with chopped parsley",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -101,5 +102,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Warm Silky",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

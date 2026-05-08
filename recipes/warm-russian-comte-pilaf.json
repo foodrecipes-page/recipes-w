@@ -58,7 +58,8 @@
     "Use a spoon to shape the pilaf into small balls, about 1-inch in diameter.",
     "Place the pilaf balls on a baking sheet lined with parchment paper and refrigerate for at least 30 minutes.",
     "Serve the Warm Russian Comte Pilaf chilled or at room temperature.",
-    "Avoid spherification if you don't have a spherification kit."
+    "Avoid spherification if you don't have a spherification kit.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -97,5 +98,9 @@
     "mainIngredient": "Comte",
     "descriptor": "Warm",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

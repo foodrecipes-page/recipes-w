@@ -58,7 +58,8 @@
     "Reduce the heat to low and simmer the curry for 20 minutes.",
     "Stir in the pico de gallo sauce and tempering chocolate until the chocolate is melted and the sauce is smooth.",
     "Continue to simmer the curry for an additional 10 minutes.",
-    "Serve the curry hot, garnished with fresh cilantro if desired."
+    "Serve the curry hot, garnished with fresh cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -95,5 +96,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Warm Dense",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

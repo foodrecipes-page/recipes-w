@@ -3,8 +3,7 @@
   "description": "A hearty and aromatic stew featuring smoky Jamaican curry powder and katsuramuki-cut carrots, perfect for a cozy evening meal. This dish is Buddhist-temple-friendly and free from animal products.",
   "cuisine": "Dutch",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -94,5 +93,9 @@
     "mainIngredient": "carrots",
     "descriptor": "Warm Smoky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

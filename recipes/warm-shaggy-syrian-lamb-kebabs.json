@@ -55,7 +55,8 @@
     "Remove the skewers from the oven and place them on a plate.",
     "Add the red wine and chicken broth to the terracotta dish, scraping up any browned bits from the bottom.",
     "Bring the wine and broth mixture to a boil, then reduce the heat and simmer for 5 minutes.",
-    "Serve the lamb kebabs on top of the iceberg lettuce leaves, spooning some of the deglaze fond over the top of each kebab."
+    "Serve the lamb kebabs on top of the iceberg lettuce leaves, spooning some of the deglaze fond over the top of each kebab.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -93,5 +94,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Warm Shaggy",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

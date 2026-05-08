@@ -2,9 +2,7 @@
   "title": "Wilted Dutch Callaloo Braised",
   "description": "A hearty, sugar-free twist on traditional Dutch cuisine featuring tender callaloo and a rich, tangy sauce.",
   "cuisine": "dutch",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -69,5 +67,9 @@
     "mainIngredient": "Callaloo",
     "descriptor": "Wilted",
     "dishForm": "Braised"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

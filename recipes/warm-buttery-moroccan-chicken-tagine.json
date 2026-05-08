@@ -2,9 +2,7 @@
   "title": "Warm Buttery Moroccan Chicken Tagine",
   "description": "A rich and flavorful Moroccan dish featuring chicken cooked in a buttery and velvety sauce, perfect for a crowd, this recipe is kosher-friendly and incorporates shoyu-koji for added depth of flavor, resulting in an al-dente finish.",
   "cuisine": "Moroccan",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -90,5 +88,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Warm Buttery",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

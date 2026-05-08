@@ -46,7 +46,8 @@
     "Once the steamer is ready, carefully pour the Panang curry mixture into the steamer basket.",
     "Steam for 8-10 minutes, until the tofu is tender and the flavors are well infused.",
     "Season with salt and black pepper to taste.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -83,5 +84,9 @@
     "mainIngredient": "Dinner",
     "descriptor": "Wilted Silky",
     "dishForm": "Solo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

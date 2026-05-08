@@ -53,7 +53,8 @@
     "Heat a wok or large pan over medium-high heat, add oil. Stir-fry onion until translucent. Add garlic and ginger; sauté for about 1 minute.",
     "Stir in ground pork and cook until no longer pink. Remove from heat.",
     "Add roasted beef to the wok with its juices, rice wine, brown sugar, soy sauce, and remaining salt. Stir-fry briefly then add rice, cover, and simmer over low heat for 20 minutes.",
-    "Remove lid, stir occasionally for another 5-7 minutes until liquid is absorbed. Serve hot."
+    "Remove lid, stir occasionally for another 5-7 minutes until liquid is absorbed. Serve hot.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -89,5 +90,9 @@
     "mainIngredient": "Wood-Fire-Roasted-Beef",
     "descriptor": "Velvety-Pungent",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

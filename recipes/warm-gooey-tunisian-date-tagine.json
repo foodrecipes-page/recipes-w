@@ -3,8 +3,7 @@
   "description": "A tangy and festive Tunisian dish featuring chocolate chips and lardons-render, made Jain-friendly by using vegetable oil instead of animal products.",
   "cuisine": "Tunisian",
   "diet": [
-    "jain",
-    "vegetarian"
+    "jain"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -64,7 +63,6 @@
     "date-based",
     "jain-friendly",
     "tunisian",
-    "vegetarian",
     "warm-dessert"
   ],
   "nutrition": {
@@ -90,5 +88,9 @@
     "mainIngredient": "dates",
     "descriptor": "Warm gooey",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

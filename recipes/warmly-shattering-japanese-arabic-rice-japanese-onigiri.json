@@ -74,7 +74,8 @@
     "Using a mortar and pestle, pound the roasted rice mixture into a fine crumb.",
     "Add the roasted sesame seeds and chopped scallions to the pounded rice mixture and mix well.",
     "Divide the rice mixture into 6 equal portions and shape each portion into a triangular onigiri shape using the molds.",
-    "Brush the tops of the onigiri with sesame oil and serve immediately."
+    "Brush the tops of the onigiri with sesame oil and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -112,5 +113,9 @@
     "mainIngredient": "Arabic rice",
     "descriptor": "Warmly Shattering",
     "dishForm": "Japanese Onigiri"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

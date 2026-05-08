@@ -4,7 +4,6 @@
   "cuisine": "Malaysian",
   "diet": [
     "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "snack",
@@ -90,5 +89,9 @@
     "mainIngredient": "turmeric tofu",
     "descriptor": "Warmly charred",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -64,7 +64,8 @@
     "Stir in the crumbled feta cheese and cook until it is melted and the sauce is creamy.",
     "Serve the tagine hot, garnished with fresh parsley or cilantro.",
     "Traditionally, the tagine is cooked over a low heat for a long period of time, which allows the flavors to meld together and the meat to become tender.",
-    "If using a clay tagine, make sure to soak it in water for 30 minutes before cooking to prevent cracking."
+    "If using a clay tagine, make sure to soak it in water for 30 minutes before cooking to prevent cracking.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -102,5 +103,9 @@
     "mainIngredient": "green pepper",
     "descriptor": "Warmly spiced",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

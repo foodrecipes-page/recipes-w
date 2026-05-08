@@ -3,9 +3,7 @@
   "description": "A tangy and creamy plant-based wrap featuring herbes-de-provence and a delicious blend of spices. Perfect for a sick day or as a comforting meal.",
   "cuisine": "tunisian",
   "diet": [
-    "vegetarian",
-    "vegan",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -93,9 +91,7 @@
   "tags": [
     "comfort-food",
     "easy-cooking",
-    "gluten-free",
-    "high-fiber",
-    "vegan"
+    "high-fiber"
   ],
   "nutrition": {
     "calories": 420,
@@ -120,5 +116,10 @@
     "mainIngredient": "plant-based",
     "descriptor": "wholesome steam",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

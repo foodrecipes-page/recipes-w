@@ -72,7 +72,8 @@
     "Dissolve gelatin sheets into the hot rice mixture after soaking in cold water.",
     "Spoon the rice mixture into the bell pepper halves and place them upright in a baking dish.",
     "Cover with foil and bake 20 minutes, then remove foil and bake another 10 minutes until peppers are soft.",
-    "Let cool slightly, then serve warm with a squeeze of fresh lemon."
+    "Let cool slightly, then serve warm with a squeeze of fresh lemon.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -108,5 +109,9 @@
     "mainIngredient": "Rice",
     "descriptor": "Wholesome",
     "dishForm": "Dolma"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

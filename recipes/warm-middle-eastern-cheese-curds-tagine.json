@@ -61,7 +61,9 @@
     "Add the chopped nuka-pickle and cook, stirring occasionally, for 2 minutes.",
     "Add the cheese curds and chicken broth, and stir gently to combine.",
     "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, until the cheese curds are melted and the sauce is glassy and jelly-like, about 10 minutes.",
-    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro, if desired."
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -98,5 +100,10 @@
     "mainIngredient": "cheese curds",
     "descriptor": "Warm Spicy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

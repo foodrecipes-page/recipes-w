@@ -3,7 +3,6 @@
   "description": "A rich and earthy Malaysian chicken curry featuring Worcestershire sauce, perfect for a midnight craving, made dairy-free friendly and quickly cooked in a pressure cooker.",
   "cuisine": "Malaysian",
   "diet": [
-    "dairy-free",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -65,7 +64,8 @@
     "Add the coconut milk and stir to combine.",
     "Close the lid of the pressure cooker and set the valve to sealing.",
     "Pressure cook the curry for 10 minutes, then let the pressure release naturally for 10 minutes.",
-    "Open the lid and stir the curry, then serve hot over rice or noodles."
+    "Open the lid and stir the curry, then serve hot over rice or noodles.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -74,7 +74,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "dairy-free",
     "gluten-free",
     "malaysian-cuisine",
     "one-pot",
@@ -104,5 +103,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Warmly spiced",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

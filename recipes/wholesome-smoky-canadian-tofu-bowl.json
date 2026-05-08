@@ -3,7 +3,6 @@
   "description": "A tangy, shaggy bowl featuring smoky barbecue tofu over quinoa, roasted squash, and steamed broccoli, perfect for a date-night Canadian vibe.",
   "cuisine": "Canadian",
   "diet": [
-    "vegan",
     "macrobiotic"
   ],
   "meal": "dinner",
@@ -73,8 +72,7 @@
     "macrobiotic",
     "one-pan",
     "quick",
-    "smoked",
-    "vegan"
+    "smoked"
   ],
   "nutrition": {
     "calories": 417,
@@ -99,5 +97,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Wholesome Smoky",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

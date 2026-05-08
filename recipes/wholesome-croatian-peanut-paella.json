@@ -73,7 +73,8 @@
     "reduce heat to low and simmer, uncovered, for 15 minutes.",
     "stir in the feta cheese and cook for an additional 2 minutes.",
     "serve hot, garnished with fresh thyme if desired.",
-    "this dish is best served immediately, as the fermented pecan nuts will lose their flavor if refrigerated or frozen."
+    "this dish is best served immediately, as the fermented pecan nuts will lose their flavor if refrigerated or frozen.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -110,5 +111,9 @@
     "mainIngredient": "peanut",
     "descriptor": "wholesome",
     "dishForm": "paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

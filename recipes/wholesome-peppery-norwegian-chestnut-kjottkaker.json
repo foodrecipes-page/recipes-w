@@ -67,7 +67,8 @@
     "Dot the top of each patty with the remaining 10g of butter.",
     "Bake the patties in the preheated oven for 20-25 minutes, or until cooked through and lightly browned on the outside.",
     "Remove the patties from the oven and garnish with chopped parsley.",
-    "Serve the Norwegian Chestnut Kjøttkaker hot, with your choice of sides."
+    "Serve the Norwegian Chestnut Kjøttkaker hot, with your choice of sides.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -106,5 +107,9 @@
     "mainIngredient": "chestnut",
     "descriptor": "wholesome peppery",
     "dishForm": "Kjøttkaker"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

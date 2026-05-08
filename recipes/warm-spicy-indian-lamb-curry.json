@@ -3,8 +3,7 @@
   "description": "This earthy and molten curry features lamb in a rich and adventurous Indian sauce, friendly to ayurvedic and rajasic diets. The stout and whisk used in preparation add to the dish's unique character.",
   "cuisine": "Indian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -103,5 +102,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Warm Spicy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

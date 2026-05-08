@@ -61,7 +61,8 @@
     "Stir in the garlic powder and sesame oil.",
     "Transfer the noodles to a copper mug and top with chopped scallions.",
     "Serve immediately and enjoy.",
-    "Garnish with additional scallions and a sprinkle of garlic powder, if desired."
+    "Garnish with additional scallions and a sprinkle of garlic powder, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -99,5 +100,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Warm springy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

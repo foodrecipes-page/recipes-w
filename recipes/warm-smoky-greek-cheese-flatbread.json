@@ -2,10 +2,7 @@
   "title": "Warm Smoky Greek Cheese Flatbread",
   "description": "A smoky and aerated Greek dish featuring cheese and render fat, perfect for a midnight craving, with anti-inflammatory friendly ingredients.",
   "cuisine": "Greek",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -103,5 +100,10 @@
     "mainIngredient": "cheese",
     "descriptor": "Warm Smoky",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

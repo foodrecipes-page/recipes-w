@@ -4,8 +4,7 @@
   "cuisine": "norwegian",
   "diet": [
     "paleo",
-    "gluten-free",
-    "vegan"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -63,7 +62,6 @@
     "high-protein",
     "one-pan",
     "paleo",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -89,5 +87,9 @@
     "mainIngredient": "grain",
     "descriptor": "wholesome jammy",
     "dishForm": "pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

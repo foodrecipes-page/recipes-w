@@ -3,8 +3,7 @@
   "description": "A savory and snappy Malaysian dish featuring cheese curds and whole30-friendly ingredients, with an al-dente finish. This dish is perfect for a light and satisfying meal.",
   "cuisine": "Malaysian",
   "diet": [
-    "whole30",
-    "gluten-free"
+    "whole30"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -60,7 +59,6 @@
   "difficulty": "medium",
   "tags": [
     "cheese-lovers",
-    "gluten-free",
     "malaysian-cuisine",
     "noodle-dish",
     "spicy-food",
@@ -89,5 +87,9 @@
     "mainIngredient": "cheese curds",
     "descriptor": "Wildly Snappy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

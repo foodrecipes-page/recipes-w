@@ -2,9 +2,7 @@
   "title": "Winey Silky Canadian Salmon Pilaf",
   "description": "A nostalgic Canadian dish featuring salmon, this pilaf is cooked in a flavorful wine broth and finished with a silky deglaze fond.",
   "cuisine": "Canadian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -93,5 +91,9 @@
     "mainIngredient": "salmon",
     "descriptor": "winey silky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

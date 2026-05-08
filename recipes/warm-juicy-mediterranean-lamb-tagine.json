@@ -62,7 +62,8 @@
     "Add the madras paste, dark chocolate, dried apricots, chicken broth, salt, and black pepper, and stir to combine.",
     "Cover the dish with a lid and transfer it to the preheated oven.",
     "Bake for 2 1/2 hours, or until the lamb is tender and the sauce has thickened.",
-    "Remove the dish from the oven and let it cool for 10 minutes before serving."
+    "Remove the dish from the oven and let it cool for 10 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -99,5 +100,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Warm Juicy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

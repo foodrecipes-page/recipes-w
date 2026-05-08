@@ -3,8 +3,7 @@
   "description": "indulgent wholegrain bread served in a bain-marie, perfect as a side dish or light meal. This recipe is shojin-friendly, making it suitable for vegans and those following a plant-based diet.",
   "cuisine": "tunisian",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -63,7 +62,6 @@
   "difficulty": "medium",
   "tags": [
     "easy-side-dish",
-    "gluten-free",
     "tunisian",
     "vegan",
     "wholegrain"
@@ -91,5 +89,9 @@
     "mainIngredient": "bread",
     "descriptor": "winey crisp",
     "dishForm": "Bread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

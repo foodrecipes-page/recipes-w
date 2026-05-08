@@ -2,11 +2,7 @@
   "title": "Warm Wilted Thai Chicken Larb",
   "description": "A flavorful, briny Thai dish made with salted butter, dehydrated lemongrass, and anti-inflammatory herbs. Perfect for a post-workout meal.",
   "cuisine": "thai",
-  "diet": [
-    "vegetarian",
-    "pescatarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -80,7 +76,8 @@
     "Add chopped cilantro and basil and stir to combine.",
     "Stir in salted butter and cook until melted.",
     "Season with black pepper to taste.",
-    "Serve warm over a bed of greens or noodles."
+    "Serve warm over a bed of greens or noodles.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -88,7 +85,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "post-workout",
@@ -117,5 +113,12 @@
     "mainIngredient": "chicken",
     "descriptor": "warm wilted",
     "dishForm": "Larb"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-pescatarian",
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A unique, flavorful lamb shoulder dish from the Netherlands, perfect for a solo dinner, halal-friendly and wine-pairable.",
   "cuisine": "Dutch",
   "diet": [
-    "halal",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -75,7 +74,8 @@
     "Remove the lamb from the pot and set aside. Add the sliced onion, minced garlic, chopped carrot, and sliced celery to the pot, cooking until the vegetables are tender.",
     "Add the white wine to the pot, scraping up any browned bits from the bottom, then add the chicken broth and bring to a boil.",
     "Return the lamb to the pot, cover, and transfer to the oven. Braise the lamb and vegetables for 2 hours at 300°F (150°C).",
-    "Remove the pot from the oven and stir in the chopped parsley. Serve the lamb and vegetables hot, garnished with additional parsley if desired."
+    "Remove the pot from the oven and stir in the chopped parsley. Serve the lamb and vegetables hot, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -85,7 +85,6 @@
   "tags": [
     "dutch",
     "gluten-free",
-    "halal",
     "lamb",
     "one-pan",
     "wine-pairable"
@@ -113,5 +112,10 @@
     "mainIngredient": "Lamb shoulder",
     "descriptor": "Winey, crisp",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

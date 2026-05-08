@@ -82,7 +82,8 @@
     "To assemble the bowls, place a cooked chicken breast in the bottom of a dolsot stone bowl.",
     "Add a spoonful of the tomato sauce over the top of the chicken.",
     "Add a spoonful of the artichoke hearts and kalamata olives on top of the tomato sauce.",
-    "Garnish with chopped fresh parsley and serve immediately."
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 22,
@@ -121,5 +122,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Warm Velvety",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Wholesome Uruguayan Tomatoes Stew",
   "description": "A fresh, dense, one-pot stew featuring beef tomatoes, simmered on a comal with aromatic herbs.",
   "cuisine": "Uruguayan",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -66,7 +64,6 @@
     "gluten-free",
     "one-pot",
     "uruguayan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -92,5 +89,9 @@
     "mainIngredient": "tomatoes",
     "descriptor": "Wholesome",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

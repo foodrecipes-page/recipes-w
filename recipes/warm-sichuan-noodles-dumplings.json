@@ -68,7 +68,8 @@
     "Heat a nonstick skillet over medium heat; once hot, add the dumplings and sear for 1 minute until bottoms are golden brown.",
     "Carefully pour 1 cup of hot water over the dumplings, cover the skillet, and let them steam for 5 minutes.",
     "Remove the lid, drain any remaining water, and flip the dumplings to crisp the other side for an additional 1 minute.",
-    "Transfer the dumplings to a serving dish, toss the cooked noodles with a splash of sesame oil, chili oil, and a pinch of Sichuan peppercorn powder, then combine with the dumplings before serving."
+    "Transfer the dumplings to a serving dish, toss the cooked noodles with a splash of sesame oil, chili oil, and a pinch of Sichuan peppercorn powder, then combine with the dumplings before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,
@@ -106,5 +107,9 @@
     "mainIngredient": "Noodles",
     "descriptor": "Warm",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

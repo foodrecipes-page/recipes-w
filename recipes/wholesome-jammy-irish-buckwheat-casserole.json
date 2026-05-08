@@ -3,7 +3,6 @@
   "description": "A sweet and crisp Irish casserole with buckwheat flour, applesauce, and anti-inflammatory spices, baked in a tandoor clay pot for a kid-friendly bite.",
   "cuisine": "Irish",
   "diet": [
-    "gluten-free",
     "anti-inflammatory"
   ],
   "meal": "lunch",
@@ -70,7 +69,6 @@
   "tags": [
     "anti-inflammatory",
     "buckwheat",
-    "gluten-free",
     "irish",
     "jammy",
     "kid-friendly",
@@ -99,5 +97,9 @@
     "mainIngredient": "Buckwheat",
     "descriptor": "Wholesome Jammy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

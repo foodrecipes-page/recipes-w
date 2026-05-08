@@ -3,8 +3,7 @@
   "description": "A light and refreshing pasta dish from Argentina featuring a wine and egg white emulsion sauce. This recipe is plant-based friendly and perfect for a weeknight dinner.",
   "cuisine": "argentinian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -42,7 +41,6 @@
   "difficulty": "medium",
   "tags": [
     "argentinian",
-    "gluten-free",
     "pasta",
     "vegan-friendly",
     "wine"
@@ -70,5 +68,9 @@
     "mainIngredient": "egg white",
     "descriptor": "winey silky",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -67,7 +67,8 @@
     "Cover the pot with a piece of parchment paper, creating a papillote, and transfer it to the preheated oven.",
     "Braise the lamb for 2 1/2 hours, or until tender and falling apart.",
     "Remove the pot from the oven and let it cool slightly before serving.",
-    "Serve the lamb with a side of crusty bread, and enjoy the sour and cheesy flavors of the mrouzia."
+    "Serve the lamb with a side of crusty bread, and enjoy the sour and cheesy flavors of the mrouzia.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -105,5 +106,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Warm Spiced",
     "dishForm": "Mrouzia"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

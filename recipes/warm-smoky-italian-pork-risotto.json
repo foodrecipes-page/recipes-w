@@ -73,7 +73,8 @@
     "Add the white wine and cook, stirring constantly, until the liquid is almost completely absorbed, about 2 minutes.",
     "Add 1/2 cup of warm chicken broth to the pot and cook, stirring constantly, until the liquid is mostly absorbed, repeating this process until all the broth is used, about 20 minutes.",
     "Stir in the crushed summer savoury leaves, Grana Padano cheese, salt, and black pepper.",
-    "Serve the risotto hot, garnished with additional summer savoury leaves if desired."
+    "Serve the risotto hot, garnished with additional summer savoury leaves if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -111,5 +112,9 @@
     "mainIngredient": "pork",
     "descriptor": "Warm Smoky",
     "dishForm": "Risotto"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

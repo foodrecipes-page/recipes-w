@@ -57,7 +57,8 @@
     "Transfer the skillet contents to a Korean brass bowl.",
     "Top the beef mixture with cauliflower rice and green onions.",
     "Bake the bowl in the preheated oven for 20 minutes.",
-    "Remove the bowl from the oven and let it cool for 5 minutes before serving."
+    "Remove the bowl from the oven and let it cool for 5 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -94,5 +95,9 @@
     "mainIngredient": "beef",
     "descriptor": "Warmly Spiced",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

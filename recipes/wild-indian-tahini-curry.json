@@ -2,9 +2,7 @@
   "title": "Wild Indian Tahini Curry",
   "description": "A fiery Andhra-inspired curry that blends creamy tahini, rich chocolate, and fresh spices for a soothing yet spicy dish perfect for sick days.",
   "cuisine": "Indian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -84,8 +82,7 @@
     "gluten-free",
     "quick",
     "spicy",
-    "tahini",
-    "vegan"
+    "tahini"
   ],
   "nutrition": {
     "calories": 1045,
@@ -110,5 +107,9 @@
     "mainIngredient": "tahini",
     "descriptor": "Wild",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Warm Crispy Peruvian Potatoes Papa Rellena",
   "description": "A peppery and crispy Peruvian dish featuring dehydrated potatoes and orange, perfect for a post-workout snack, this recipe is gluten-free-friendly and formed into papa rellena",
   "cuisine": "Peruvian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -64,7 +62,6 @@
   "difficulty": "medium",
   "tags": [
     "crispy",
-    "gluten-free",
     "peruvian",
     "post-workout",
     "potatoes"
@@ -92,5 +89,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Warm Crispy",
     "dishForm": "Papa Rellena"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

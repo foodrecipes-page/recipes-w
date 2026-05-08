@@ -61,9 +61,7 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "low-sugar",
-    "vegan",
     "whole30"
   ],
   "nutrition": {
@@ -89,5 +87,10 @@
     "mainIngredient": "Rice Flour Pancakes",
     "descriptor": "Wholesome Velvet",
     "dishForm": "Hot-Pot-Vessel Gigantes Plaki"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

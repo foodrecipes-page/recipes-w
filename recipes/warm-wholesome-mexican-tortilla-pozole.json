@@ -4,7 +4,6 @@
   "cuisine": "Mexican",
   "diet": [
     "diabetic-friendly",
-    "gluten-free",
     "low-carb"
   ],
   "meal": "dinner",
@@ -107,5 +106,9 @@
     "mainIngredient": "tortilla",
     "descriptor": "warm wholesome",
     "dishForm": "Pozole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

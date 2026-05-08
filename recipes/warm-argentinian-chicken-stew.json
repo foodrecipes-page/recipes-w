@@ -82,7 +82,8 @@
     "Tempered cacao nibs can be added by stirring them into the stew; they melt and give a subtle chocolate depth.",
     "Fold in the baby spinach and simmer until wilted, about 2 minutes.",
     "Season with salt, pepper, and chopped cilantro, stirring gently.",
-    "Serve hot in bowls, spooning the creamy sauce over the chicken and veggies."
+    "Serve hot in bowls, spooning the creamy sauce over the chicken and veggies.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -116,11 +117,16 @@
     "mood": "kid-friendly",
     "technique": "tempering-chocolate",
     "primaryIngredient": "yellow-curry-paste",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "Argentinian",
     "mainIngredient": "chicken",
     "descriptor": "Warm",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

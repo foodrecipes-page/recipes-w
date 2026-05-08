@@ -3,7 +3,6 @@
   "description": "A light and refreshing Vietnamese dish featuring white sauerkraut and double-rise bread, wrapped in a lotus leaf and served warm with a buttery sauce.",
   "cuisine": "Vietnamese",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -95,5 +94,9 @@
     "mainIngredient": "sauerkraut",
     "descriptor": "Warm Buttery",
     "dishForm": "Banh Cuon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

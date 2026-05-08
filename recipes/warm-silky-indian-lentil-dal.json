@@ -3,8 +3,7 @@
   "description": "A sour, silky, and light polish dish featuring ghee and ayurvedic-sattvic-friendly ingredients, this dal is a comforting and nourishing option for a weeknight dinner.",
   "cuisine": "Indian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -99,5 +98,9 @@
     "mainIngredient": "lentils",
     "descriptor": "warm silky",
     "dishForm": "Dal"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

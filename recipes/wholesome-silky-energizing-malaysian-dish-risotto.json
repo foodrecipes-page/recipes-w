@@ -77,7 +77,8 @@
     "after 20 minutes, stir in the coconut milk and cook for an additional 2-3 minutes.",
     "add the chicken breast and cook until heated through.",
     "season with fish sauce, salt, and pepper to taste.",
-    "garnish with chopped parsley and serve hot."
+    "garnish with chopped parsley and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -116,5 +117,9 @@
     "mainIngredient": "dish",
     "descriptor": "wholesome silky energizing",
     "dishForm": "Risotto"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -56,7 +56,8 @@
     "Add the pickle juice to the skillet and stir to combine, scraping up any browned bits.",
     "Return the pork to the skillet and transfer to the preheated oven.",
     "Roast the pork in the oven for 20 minutes, or until cooked through.",
-    "Remove the skillet from the oven and stir in the chopped pickles."
+    "Remove the skillet from the oven and stir in the chopped pickles.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -93,5 +94,9 @@
     "mainIngredient": "Pork",
     "descriptor": "Warm Roasted",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

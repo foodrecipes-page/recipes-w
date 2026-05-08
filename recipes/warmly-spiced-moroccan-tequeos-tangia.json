@@ -64,7 +64,8 @@
     "Transfer the tequeos mixture to a wooden board or a large serving platter.",
     "Cover the tequeos with foil and bake for 20 minutes.",
     "Remove the foil and top with chopped fresh parsley.",
-    "Serve the Warmly Spiced Moroccan Tequeos Tangia hot, garnished with additional parsley if desired."
+    "Serve the Warmly Spiced Moroccan Tequeos Tangia hot, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -102,5 +103,9 @@
     "mainIngredient": "tequeos",
     "descriptor": "Warmly spiced",
     "dishForm": "Tangia"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

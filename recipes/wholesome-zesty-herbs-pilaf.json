@@ -69,8 +69,7 @@
   "tags": [
     "herbal",
     "kid-friendly",
-    "nut-free",
-    "vegan"
+    "nut-free"
   ],
   "nutrition": {
     "calories": 185,
@@ -95,5 +94,9 @@
     "mainIngredient": "Herbs",
     "descriptor": "Wholesome",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

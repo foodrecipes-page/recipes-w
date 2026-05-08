@@ -3,7 +3,6 @@
   "description": "A flavorful and energizing Syrian dish featuring plum tomatoes and lardons, perfect for a weeknight dinner. This ayurvedic-tamasic-friendly recipe is served on a traditional talavera plate.",
   "cuisine": "Syrian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -100,5 +99,9 @@
     "mainIngredient": "plum tomatoes",
     "descriptor": "Warm garlicky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -86,11 +86,15 @@
     "mood": "romantic",
     "technique": "candy",
     "primaryIngredient": "coconut flakes",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Australian",
     "mainIngredient": "coconut",
     "descriptor": "Warm White",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

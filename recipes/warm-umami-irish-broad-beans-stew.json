@@ -3,7 +3,6 @@
   "description": "A hearty and comforting Irish stew featuring broad beans and a rich umami flavor, perfect for a solo dinner. This dish is egg-free and easy to make.",
   "cuisine": "Irish",
   "diet": [
-    "vegetarian",
     "egg-free"
   ],
   "meal": "dinner",
@@ -73,8 +72,7 @@
     "comfort-food",
     "irish-cuisine",
     "one-pot",
-    "umami",
-    "vegetarian"
+    "umami"
   ],
   "nutrition": {
     "calories": 420,
@@ -99,5 +97,9 @@
     "mainIngredient": "broad beans",
     "descriptor": "Warm Umami",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

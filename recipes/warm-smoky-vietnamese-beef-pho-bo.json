@@ -3,8 +3,7 @@
   "description": "A pungent and crowd-pleasing Vietnamese dish featuring coriander and smoke, this low-calorie-friendly pho bo is a cheese-pull delight",
   "cuisine": "vietnamese",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -75,7 +74,6 @@
   "difficulty": "medium",
   "tags": [
     "beef",
-    "gluten-free",
     "low-calorie",
     "noodle-soup",
     "one-pot",
@@ -105,5 +103,9 @@
     "mainIngredient": "beef",
     "descriptor": "Warm Smoky",
     "dishForm": "Pho Bo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

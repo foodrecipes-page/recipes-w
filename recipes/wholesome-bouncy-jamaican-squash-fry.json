@@ -3,8 +3,7 @@
   "description": "a resinous, bouncy and romantic jamaican dish featuring a combination of squash and a crispy fry in a dolsot stone bowl",
   "cuisine": "jamaican",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -112,5 +111,9 @@
     "mainIngredient": "squash",
     "descriptor": "wholesome bouncy",
     "dishForm": "fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

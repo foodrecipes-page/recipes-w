@@ -76,7 +76,8 @@
     "Fold the tortilla over to enclose the filling, forming a half-moon shape.",
     "Heat coconut oil in a nonstick skillet over medium heat and place the quesadilla seam side down.",
     "Cook 3-4 minutes until golden brown and crispy, flip, and cook the other side for an additional 2-3 minutes.",
-    "Remove from skillet, let rest 30 seconds, cut into wedges, and garnish with fresh cilantro before serving."
+    "Remove from skillet, let rest 30 seconds, cut into wedges, and garnish with fresh cilantro before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 7,
   "cookTimeMin": 8,
@@ -114,5 +115,9 @@
     "mainIngredient": "Corn",
     "descriptor": "Wild Crispy",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

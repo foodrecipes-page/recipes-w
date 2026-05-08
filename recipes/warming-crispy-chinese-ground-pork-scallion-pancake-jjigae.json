@@ -48,7 +48,8 @@
     "Add minced ginger and garlic; sauté until fragrant.",
     "Fold in ground pork, soy sauce, sesame oil, salt, and crushed peanuts. Stir-fry for about 5 minutes.",
     "Stir in sliced scallions, ensuring they remain crispy but slightly softened.",
-    "Serve immediately while the mixture is still hot and crunchy."
+    "Serve immediately while the mixture is still hot and crunchy.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -84,5 +85,9 @@
     "mainIngredient": "Ground Pork",
     "descriptor": "Warming Crispy",
     "dishForm": "Scallion-Pancake Jjigae"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

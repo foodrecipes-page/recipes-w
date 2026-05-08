@@ -50,7 +50,8 @@
     "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds",
     "Assemble the tacos by spooning the chicken mixture onto a tortilla and topping with cheese, tomatoes, and cilantro",
     "Serve the tacos immediately and enjoy",
-    "Garnish with additional cilantro and cheese if desired"
+    "Garnish with additional cilantro and cheese if desired",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -87,5 +88,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Wildly spicy",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

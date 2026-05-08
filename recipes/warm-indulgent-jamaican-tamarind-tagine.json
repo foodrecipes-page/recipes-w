@@ -3,7 +3,6 @@
   "description": "This rich and sour Jamaican stew is perfect for a cold night in. Featuring the deep flavor of tamarind, the tang of shio-cure, and the richness of protein-friendly ingredients.",
   "cuisine": "jamaican",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -110,5 +109,9 @@
     "mainIngredient": "tamarind",
     "descriptor": "warm indulgent",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

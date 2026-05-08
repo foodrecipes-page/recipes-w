@@ -55,7 +55,8 @@
     "Close the lid and set the valve to sealing, then cook on high pressure for 10 minutes.",
     "Let the pressure release naturally for 10 minutes, then quick release any remaining pressure.",
     "Fluff the pilaf with a fork and season with salt and pepper to taste.",
-    "Serve hot, garnished with chopped fresh parsley if desired."
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -92,5 +93,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Warm Buttery",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

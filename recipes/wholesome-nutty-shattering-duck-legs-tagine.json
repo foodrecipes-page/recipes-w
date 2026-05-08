@@ -50,11 +50,12 @@
     "Place duck legs on top of the vegetables. Pour water into the tajine to cover the duck legs completely.",
     "Bring the liquid to a simmer. Cover tightly with a lid or aluminum foil.",
     "Bake in preheated oven for 1 hour and 20 minutes, flipping the legs halfway through cooking time.",
-    "Serve hot garnished with fresh herbs if desired."
+    "Serve hot garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 45,
   "cookTimeMin": 90,
-  "totalTimeMin": 90,
+  "totalTimeMin": 135,
   "servings": 6,
   "difficulty": "medium",
   "tags": [
@@ -86,5 +87,10 @@
     "mainIngredient": "duck legs",
     "descriptor": "Nutty Shattering",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "recomputed-totalTime"
+  ]
 }

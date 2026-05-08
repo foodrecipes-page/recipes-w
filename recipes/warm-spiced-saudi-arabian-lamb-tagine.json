@@ -2,9 +2,7 @@
   "title": "Warm Spiced Saudi Arabian Lamb Tagine",
   "description": "A rich, comforting dish featuring lamb stock, fragrant spices, and tender lamb, perfect for a date-night dinner. This recipe is a twist on traditional Saudi Arabian cuisine, using a tandoor-inspired cooking method.",
   "cuisine": "saudi-arabian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -166,5 +164,9 @@
     "mainIngredient": "Lamb",
     "descriptor": "Warm Spiced",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

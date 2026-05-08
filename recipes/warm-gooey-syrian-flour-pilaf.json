@@ -61,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "one-pan",
     "sugar-free",
     "syrian",
@@ -90,5 +89,9 @@
     "mainIngredient": "flour",
     "descriptor": "warm gooey",
     "dishForm": "pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

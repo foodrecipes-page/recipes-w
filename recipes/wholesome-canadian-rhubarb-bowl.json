@@ -48,11 +48,15 @@
     "mood": "energizing",
     "technique": "ferment-kimchi",
     "primaryIngredient": "rhubarb",
-    "diet": "dairy-free",
+    "diet": "vegan",
     "region": null,
     "cuisineAdjective": "canadian",
     "mainIngredient": "rhubarb",
     "descriptor": "wholesome",
     "dishForm": "bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

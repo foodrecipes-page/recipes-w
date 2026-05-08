@@ -88,11 +88,15 @@
     "mood": "romantic",
     "technique": "namul-blanch-season",
     "primaryIngredient": "hummus",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "Russian",
     "mainIngredient": "chickpeas",
     "descriptor": "Wholesome",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

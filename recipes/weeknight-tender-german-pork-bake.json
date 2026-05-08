@@ -3,7 +3,6 @@
   "description": "a sweet and tender german dish featuring dried mint, perfect for a weeknight dinner.",
   "cuisine": "german",
   "diet": [
-    "gluten-free",
     "egg-free"
   ],
   "meal": "dinner",
@@ -80,7 +79,8 @@
     "return the pan to the oven and bake for an additional 10-15 minutes, or until the sauce has thickened.",
     "remove the pan from the oven and let cool slightly before serving.",
     "serve the pork with the creamy mint sauce spooned over the top.",
-    "garnish with additional chopped dried mint, if desired."
+    "garnish with additional chopped dried mint, if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 165,
@@ -118,5 +118,10 @@
     "mainIngredient": "pork",
     "descriptor": "weeknight tender",
     "dishForm": "bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

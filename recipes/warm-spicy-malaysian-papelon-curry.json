@@ -60,7 +60,8 @@
     "Add the papelon and cook for 2 minutes.",
     "Add the chicken broth and bring the mixture to a boil.",
     "Reduce the heat to low and simmer the curry for 20 minutes.",
-    "Serve the curry hot, garnished with chopped fresh herbs if desired."
+    "Serve the curry hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -97,5 +98,9 @@
     "mainIngredient": "papelon",
     "descriptor": "Warm spicy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

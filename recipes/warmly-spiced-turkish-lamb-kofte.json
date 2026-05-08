@@ -57,7 +57,8 @@
     "Place the kofte on a baking sheet lined with parchment paper, leaving about 1 inch of space between each kofte.",
     "Bake the kofte in the preheated oven for 18 minutes, or until cooked through to an internal temperature of 145 degrees Fahrenheit.",
     "Remove the kofte from the oven and let them rest for 5 minutes before serving.",
-    "Serve the kofte hot, garnished with chopped fresh parsley or cilantro if desired."
+    "Serve the kofte hot, garnished with chopped fresh parsley or cilantro if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 18,
@@ -94,5 +95,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Warmly spiced",
     "dishForm": "Kofte"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

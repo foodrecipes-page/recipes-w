@@ -3,7 +3,6 @@
   "description": "A Thai-style moo ping dish featuring a crispy coconut crust, energizing herbs, and a flavorful sauce.",
   "cuisine": "thai",
   "diet": [
-    "vegetarian",
     "egg-free"
   ],
   "meal": "snack",
@@ -108,5 +107,9 @@
     "mainIngredient": "herbal",
     "descriptor": "Welcoming Coconut Crunch",
     "dishForm": "Thai Moo Ping"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

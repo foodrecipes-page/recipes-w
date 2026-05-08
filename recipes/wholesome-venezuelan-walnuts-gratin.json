@@ -104,11 +104,15 @@
     "mood": "light",
     "technique": "mortar-pestle-pound",
     "primaryIngredient": "walnuts",
-    "diet": "pescatarian",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Venezuelan",
     "mainIngredient": "walnuts",
     "descriptor": "Wholesome",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

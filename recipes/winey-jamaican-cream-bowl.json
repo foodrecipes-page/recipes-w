@@ -81,8 +81,7 @@
   "tags": [
     "breakfast",
     "gluten-free",
-    "one-pan",
-    "vegan"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 420,
@@ -107,5 +106,9 @@
     "mainIngredient": "cream",
     "descriptor": "Winey, Creamy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

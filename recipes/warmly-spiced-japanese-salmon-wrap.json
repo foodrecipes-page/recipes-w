@@ -53,7 +53,8 @@
     "Place the wrapped salmon on a baking sheet lined with parchment paper.",
     "Bake the salmon for 12 minutes or until it reaches an internal temperature of 145 degrees Fahrenheit.",
     "While the salmon is cooking, prepare the sushi rice according to the package instructions.",
-    "Assemble the wrap by placing a piece of cooked salmon on a bed of sushi rice, topping with pickled ginger and cucumber slices."
+    "Assemble the wrap by placing a piece of cooked salmon on a bed of sushi rice, topping with pickled ginger and cucumber slices.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -90,5 +91,9 @@
     "mainIngredient": "salmon",
     "descriptor": "Warmly spiced",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

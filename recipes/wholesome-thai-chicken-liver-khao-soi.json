@@ -3,7 +3,6 @@
   "description": "A rich, savory, and slightly spicy Thai-inspired Khao Soi variation featuring chicken liver, perfect for a weeknight dinner or special occasion.",
   "cuisine": "Thai",
   "diet": [
-    "Gluten-free",
     "Low-carb",
     "Keto"
   ],
@@ -111,5 +110,9 @@
     "mainIngredient": "chicken liver",
     "descriptor": "wholesome",
     "dishForm": "Khao Soi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

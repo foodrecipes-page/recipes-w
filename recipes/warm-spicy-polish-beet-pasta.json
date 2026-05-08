@@ -2,9 +2,7 @@
   "title": "Warm Spicy Polish Beet Pasta",
   "description": "A spicy and adventurous Polish dish featuring beets and a pasta water emulsion, perfect for pescatarian diets. This recipe combines the sweetness of beets with the heat of spicy peppers.",
   "cuisine": "Polish",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -72,7 +70,6 @@
     "beet-recipe",
     "one-pot-meal",
     "pasta-dish",
-    "pescatarian",
     "polish-cuisine",
     "spicy-food"
   ],
@@ -99,5 +96,9 @@
     "mainIngredient": "beets",
     "descriptor": "Warm Spicy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

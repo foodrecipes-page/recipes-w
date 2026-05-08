@@ -79,7 +79,6 @@
     "breakfast",
     "high-protein",
     "one-pan",
-    "vegan",
     "vietnamese",
     "weeknight"
   ],
@@ -106,5 +105,9 @@
     "mainIngredient": "garlic bulb",
     "descriptor": "Wholesome Wilted",
     "dishForm": "Khanom-Krok"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

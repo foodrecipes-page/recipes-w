@@ -3,8 +3,7 @@
   "description": "A warm, crunchy, midnight-craving Indian dish featuring myeongnan-roe, lamination puff, and a whole30-friendly twist. Perfect for a cozy evening.",
   "cuisine": "Indian",
   "diet": [
-    "whole30",
-    "gluten-free"
+    "whole30"
   ],
   "meal": "snack",
   "ingredients": [
@@ -85,7 +84,6 @@
     "comfort-food",
     "cozy-night",
     "easy-recipe",
-    "gluten-free",
     "indian-curry",
     "midnight-snack",
     "whole30-friendly"
@@ -113,5 +111,9 @@
     "mainIngredient": "myeongnan-roe",
     "descriptor": "Warm, Crunchy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

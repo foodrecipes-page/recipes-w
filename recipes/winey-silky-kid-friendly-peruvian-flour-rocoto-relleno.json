@@ -3,8 +3,7 @@
   "description": "A Peruvian dish featuring a wine-infused, silky filling inside a hollowed-out flour tortilla. Kids and adults alike will enjoy this unique twist on a classic recipe.",
   "cuisine": "Peruvian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -105,7 +104,8 @@
     "In a large bowl, mix together the grated carrot, ground beef, canned diced tomatoes, onion powder, salt, red wine vinegar, olive oil, peruvian aji amarillo pepper, cinnamon, ginger, eggs, ricotta cheese, paprika, and dried oregano.",
     "Stuff each tortilla shell with the filling, dividing it evenly among the tortillas.",
     "Place the stuffed tortillas on a baking sheet lined with parchment paper and bake for 15 minutes or until the cheese is melted and the filling is heated through.",
-    "Serve warm and enjoy!"
+    "Serve warm and enjoy!",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -113,7 +113,6 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "kid-friendly",
     "peruvian",
     "vegetarian",
@@ -142,5 +141,10 @@
     "mainIngredient": "flour",
     "descriptor": "Winey, Silky, Kid-friendly",
     "dishForm": "Rocoto Relleno"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

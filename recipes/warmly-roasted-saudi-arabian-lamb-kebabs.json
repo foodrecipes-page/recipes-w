@@ -3,8 +3,7 @@
   "description": "A traditional Saudi Arabian dish featuring roasted lamb, stilton cheese, and agemono-deep-fry, perfect for a high-protein meal or hangover cure. This recipe is cooked on a robata-grill for a crispy exterior and a warm, juicy interior.",
   "cuisine": "Saudi Arabian",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Warmly Roasted",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

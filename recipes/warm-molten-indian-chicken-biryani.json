@@ -54,7 +54,8 @@
     "Add the basmati rice to a heatproof bowl and place it in the bain-marie, covering with a lid.",
     "Cook the rice for 15 minutes, or until tender and fluffy.",
     "To assemble the biryani, fluff the cooked rice with a fork and mix with the chicken and curry sauce.",
-    "Serve hot, garnished with chopped fresh cilantro if desired."
+    "Serve hot, garnished with chopped fresh cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -91,5 +92,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Warm Molten",
     "dishForm": "Biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

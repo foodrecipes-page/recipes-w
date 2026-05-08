@@ -78,8 +78,7 @@
     "flexitarian",
     "glassy-jelly",
     "gluten-free",
-    "kid-friendly",
-    "vegan"
+    "kid-friendly"
   ],
   "nutrition": {
     "calories": 360,
@@ -104,5 +103,9 @@
     "mainIngredient": "rocket",
     "descriptor": "Wholesome",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

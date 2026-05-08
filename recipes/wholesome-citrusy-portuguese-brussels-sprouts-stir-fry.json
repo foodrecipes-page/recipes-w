@@ -4,7 +4,6 @@
   "cuisine": "portuguese",
   "diet": [
     "diabetic",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -78,7 +77,8 @@
     "add the lemon juice, orange juice, salt, black pepper, and red pepper flakes, and stir to combine.",
     "add the chicken broth and cook until the liquid has almost completely evaporated, about 2 minutes.",
     "stir in the chopped fresh parsley and mint.",
-    "serve immediately and enjoy!"
+    "serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -117,5 +117,10 @@
     "mainIngredient": "brussels sprouts",
     "descriptor": "wholesome citrusy",
     "dishForm": "stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

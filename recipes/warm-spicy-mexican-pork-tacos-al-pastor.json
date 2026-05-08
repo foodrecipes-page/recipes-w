@@ -3,8 +3,7 @@
   "description": "A spicy and chewy Mexican dish featuring pork, malai, and soffritto-base, served in tacos al pastor style, diabetic-friendly and cooked in a tajine clay vessel.",
   "cuisine": "Mexican",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -73,7 +72,6 @@
   "difficulty": "medium",
   "tags": [
     "diabetic-friendly",
-    "gluten-free",
     "mexican-food",
     "pork-recipes",
     "spicy",
@@ -102,5 +100,9 @@
     "mainIngredient": "pork",
     "descriptor": "Warm Spicy",
     "dishForm": "Tacos Al Pastor"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

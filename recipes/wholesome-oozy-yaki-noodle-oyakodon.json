@@ -44,7 +44,9 @@
     "Stir in soy sauce and sake or mirin to create the sauce.",
     "Cook rice sticks according to package instructions. Drain and add to sauce.",
     "Mix all ingredients well until rice sticks are fully coated with sauce.",
-    "Serve hot garnished with sliced green onions."
+    "Serve hot garnished with sliced green onions.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -81,5 +83,10 @@
     "mainIngredient": "Rice Stick Noodles",
     "descriptor": "Wholesome Oozy",
     "dishForm": "Oyakodon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

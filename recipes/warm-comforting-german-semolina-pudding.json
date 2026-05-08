@@ -67,7 +67,7 @@
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,
-  "totalTimeMin": 40,
+  "totalTimeMin": 20,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -100,5 +100,9 @@
     "mainIngredient": "semolina",
     "descriptor": "warm comforting",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

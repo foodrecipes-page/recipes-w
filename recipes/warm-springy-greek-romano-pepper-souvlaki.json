@@ -3,8 +3,7 @@
   "description": "A nutty and springy post-workout Greek dish featuring Romano pepper and ferment-kimchi, made in a tava-griddle and served as souvlaki.",
   "cuisine": "Greek",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -67,7 +66,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "greek-food",
     "high-protein",
     "one-pan",
@@ -97,5 +95,9 @@
     "mainIngredient": "romano pepper",
     "descriptor": "Warm Springy",
     "dishForm": "Souvlaki"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

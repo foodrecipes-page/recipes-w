@@ -2,9 +2,7 @@
   "title": "Whisked Sour Yogurt Pancake",
   "description": "A gluten-free sour and creamy Polish dish perfect for hangovers or breakfast.",
   "cuisine": "Polish",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -76,5 +74,9 @@
     "mainIngredient": "Yogurt",
     "descriptor": "Whisked",
     "dishForm": "Pancake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

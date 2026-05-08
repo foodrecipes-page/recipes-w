@@ -65,7 +65,8 @@
     "Add the torn bread to the pot and continue to simmer for an additional 30 minutes.",
     "Stir in the lemon juice and chopped parsley.",
     "Season the stew with salt and pepper to taste.",
-    "Serve the stew hot, garnished with additional parsley if desired."
+    "Serve the stew hot, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 90,
@@ -102,5 +103,9 @@
     "mainIngredient": "tripe",
     "descriptor": "Warm Nutty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

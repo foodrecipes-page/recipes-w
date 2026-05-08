@@ -3,11 +3,8 @@
   "description": "A savory, cheese-pull crowd-pleaser featuring corned beef, wok-hei, and dairy-free-friendly options. This classic French dish is perfect for a special occasion or a cozy night in.",
   "cuisine": "French",
   "diet": [
-    "dairy-free",
     "gluten-free",
-    "meat",
-    "pescatarian",
-    "vegetarian"
+    "meat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -93,7 +90,6 @@
   "difficulty": "hard",
   "tags": [
     "corned-beef",
-    "dairy-free",
     "french",
     "one-pan",
     "pot-au-feu",
@@ -122,5 +118,11 @@
     "mainIngredient": "Corned Beef",
     "descriptor": "Warm Hearty",
     "dishForm": "Pot au Feu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-pescatarian",
+    "removed-diet-dairy-free"
+  ]
 }

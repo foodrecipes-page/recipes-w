@@ -3,8 +3,7 @@
   "description": "A jammy, dense pesto built around mashed cassava, basil, pine nuts, and parmesan, served in scallop shells for a stylish, low-carb Italian twist.",
   "cuisine": "Italian",
   "diet": [
-    "low-carb",
-    "vegan"
+    "low-carb"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -73,7 +72,6 @@
     "low-carb",
     "pesto",
     "scallop-shell",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -99,5 +97,9 @@
     "mainIngredient": "cassava",
     "descriptor": "Wholesome",
     "dishForm": "Pesto"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

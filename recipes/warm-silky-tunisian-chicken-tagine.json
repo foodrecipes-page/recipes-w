@@ -3,7 +3,6 @@
   "description": "A rich and flavorful Tunisian dish featuring chicken, thai chilli jam, and a silky sauce, all prepared with Buddhist temple friendly ingredients and cooking methods, including mushimono steam",
   "cuisine": "Tunisian",
   "diet": [
-    "halal",
     "kosher"
   ],
   "meal": "dinner",
@@ -100,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Warm Silky",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

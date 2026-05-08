@@ -64,7 +64,8 @@
     "Add the char-grilled cucumber slices to the pot and cook for an additional 2 minutes.",
     "Stir in the chopped cilantro and Thai basil.",
     "Season the Tom Yum with salt and pepper to taste.",
-    "Serve the Tom Yum hot, garnished with additional cilantro and Thai basil if desired."
+    "Serve the Tom Yum hot, garnished with additional cilantro and Thai basil if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -102,5 +103,9 @@
     "mainIngredient": "Persian Cucumber",
     "descriptor": "Warm Briny",
     "dishForm": "Tom Yum"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

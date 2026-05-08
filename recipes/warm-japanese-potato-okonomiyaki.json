@@ -2,9 +2,7 @@
   "title": "Warm Japanese Potato Okonomiyaki",
   "description": "A savory and crumbly Japanese dish featuring potato buns and coconut cream, perfect for a crowd, this okonomiyaki is a kosher friendly delight served on a lazy susan spinner.",
   "cuisine": "Japanese",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Warm Crumbly",
     "dishForm": "Okonomiyaki"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

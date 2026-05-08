@@ -103,11 +103,15 @@
     "mood": "one-pot",
     "technique": "mirepoix-base",
     "primaryIngredient": "rice-syrup-jocheong",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Greek",
     "mainIngredient": "Chicken",
     "descriptor": "Wicked Charred",
     "dishForm": "Revithia"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

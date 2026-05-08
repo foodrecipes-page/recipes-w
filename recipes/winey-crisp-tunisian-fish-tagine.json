@@ -3,7 +3,6 @@
   "description": "A pescatarian-friendly Tunisian dish that combines the flavors of pickles, wine, and fish in a crispy, wine-infused sauce, perfect for a midnight craving.",
   "cuisine": "North African",
   "diet": [
-    "pescatarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -81,7 +80,8 @@
     "Add 1 tbsp of all-purpose flour and cook for 1 minute, until lightly toasted.",
     "Slowly whisk in 1 cup of heavy cream and cook until the sauce thickens, about 2-3 minutes.",
     "Season the beurre monte with salt and pepper to taste.",
-    "Serve the fish tagine with a dollop of beurre monte on top."
+    "Serve the fish tagine with a dollop of beurre monte on top.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 18,
@@ -94,7 +94,6 @@
     "gluten-free",
     "high-protein",
     "one-pan",
-    "pescatarian",
     "weeknight"
   ],
   "nutrition": {
@@ -120,5 +119,10 @@
     "mainIngredient": "fish",
     "descriptor": "winey crisp",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-preserving_no_acid"
+  ]
 }

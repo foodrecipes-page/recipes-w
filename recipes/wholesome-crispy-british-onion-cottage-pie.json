@@ -48,7 +48,9 @@
     "Pour mixture into a baking dish.",
     "Top with chopped onions from the previous step.",
     "Bake at 200 for 45 minutes or until golden brown on top.",
-    "Serve hot."
+    "Serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -86,5 +88,10 @@
     "mainIngredient": "Onion",
     "descriptor": "Wholesome Crispy",
     "dishForm": "Cottage Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

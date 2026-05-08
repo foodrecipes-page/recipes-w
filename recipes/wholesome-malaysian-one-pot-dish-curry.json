@@ -4,8 +4,7 @@
   "cuisine": "malaysian",
   "diet": [
     "paleo",
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -119,5 +118,9 @@
     "mainIngredient": "one-pot dish",
     "descriptor": "wholesome",
     "dishForm": "curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A flavorful and aromatic tagine dish featuring gochujang and crispy fried rice, perfect for a romantic dinner.",
   "cuisine": "Moroccan",
   "diet": [
-    "halal",
     "vegetarian-friendly without the chicken option"
   ],
   "meal": "dinner",
@@ -123,5 +122,9 @@
     "mainIngredient": "chicken",
     "descriptor": "wholesome charred",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

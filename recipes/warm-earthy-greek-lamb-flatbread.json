@@ -3,8 +3,7 @@
   "description": "A show-off Mediterranean dish featuring earthy flavors and velvety texture, made with strong white bread flour and FODMAP-friendly ingredients. This dish is perfect for a special occasion or dinner party.",
   "cuisine": "Greek",
   "diet": [
-    "FODMAP-friendly",
-    "gluten-free"
+    "FODMAP-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -101,5 +100,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Warm Earthy",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

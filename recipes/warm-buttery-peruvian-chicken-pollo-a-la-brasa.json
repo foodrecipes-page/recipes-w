@@ -69,7 +69,8 @@
     "While the chicken is baking, heat a large skillet over medium heat and add the shredded savoy cabbage.",
     "Cook the cabbage until it is tender and slightly caramelized, about 20 minutes.",
     "After the chicken has baked for 30 minutes, brush it with the pan juices and continue baking for an additional 15 minutes.",
-    "Serve the chicken with the cooked savoy cabbage and garnish with chopped fresh cilantro."
+    "Serve the chicken with the cooked savoy cabbage and garnish with chopped fresh cilantro.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -107,5 +108,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Warm Buttery",
     "dishForm": "Pollo A La Brasa"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

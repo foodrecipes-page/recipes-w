@@ -2,9 +2,7 @@
   "title": "Warm Crunchy Japanese Kabanos Shio Ramen",
   "description": "A pescatarian-friendly Japanese dish featuring Polish kabanos, served in a warm and crunchy ramen-shio form, perfect for a brunch mood with earthy flavors.",
   "cuisine": "Japanese",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -93,5 +91,9 @@
     "mainIngredient": "kabanos",
     "descriptor": "Warm Crunchy",
     "dishForm": "Shio Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

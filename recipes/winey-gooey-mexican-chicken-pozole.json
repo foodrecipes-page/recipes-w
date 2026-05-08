@@ -74,7 +74,8 @@
     "Add the cooked rice to the pot and stir to combine. ",
     "Stir in the shredded cheese until melted and well combined.",
     "Serve the pozole hot, garnished with additional shredded cheese, diced onion, and a sprinkle of paprika, if desired.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -110,5 +111,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Winey Gooey",
     "dishForm": "Pozole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

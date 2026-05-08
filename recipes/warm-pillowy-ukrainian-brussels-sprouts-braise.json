@@ -90,11 +90,15 @@
     "mood": "cozy",
     "technique": "braise",
     "primaryIngredient": "brussels sprouts",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Ukrainian",
     "mainIngredient": "Brussels Sprouts",
     "descriptor": "Warm Pillowy",
     "dishForm": "Braise"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -78,7 +78,8 @@
     "To assemble the wraps, lay a Bibb lettuce leaf flat and spoon a portion of the turkey and pecan mixture onto the center of the leaf.",
     "Drizzle with the wine glaze and top with mixed greens, feta cheese crumbles (if using), and a sprinkle of fresh thyme (if using).",
     "Fold the leaf in half over the filling to enclose and serve immediately.",
-    "To steam the wraps, place a steamer basket over a pot of boiling water and add the wraps, seam-side down. Cover the pot with a lid and steam for 2-3 minutes, or until the leaves are slightly wilted and the filling is heated through."
+    "To steam the wraps, place a steamer basket over a pot of boiling water and add the wraps, seam-side down. Cover the pot with a lid and steam for 2-3 minutes, or until the leaves are slightly wilted and the filling is heated through.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -116,5 +117,9 @@
     "mainIngredient": "Cranberry",
     "descriptor": "Winey",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

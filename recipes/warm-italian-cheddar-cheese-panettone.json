@@ -3,8 +3,7 @@
   "description": "A malty and comforting Italian dessert featuring a rich cheddar cheese flavor, created in the form of a panettone. This dessert is perfect for any occasion.",
   "cuisine": "italian",
   "diet": [
-    "halal",
-    "gluten-free"
+    "halal"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -99,5 +98,9 @@
     "mainIngredient": "cheddar cheese",
     "descriptor": "warm",
     "dishForm": "Panettone"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

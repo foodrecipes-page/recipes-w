@@ -62,7 +62,8 @@
     "Punch down the risen dough and divide it into 8 equal pieces.",
     "Roll out each piece of dough into a thin circle and place a tablespoon of the duck filling in the center of each circle.",
     "Fold the dough over the filling to form a half moon shape and press the edges together to seal the empanada.",
-    "Brush the tops of the empanadas with a little water and bake them in the preheated oven for 20 minutes, or until they are golden brown."
+    "Brush the tops of the empanadas with a little water and bake them in the preheated oven for 20 minutes, or until they are golden brown.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -100,5 +101,9 @@
     "mainIngredient": "duck",
     "descriptor": "Warm Spicy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

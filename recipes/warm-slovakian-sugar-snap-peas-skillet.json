@@ -64,7 +64,8 @@
     "Bring the mixture to a simmer and cook until the sauce has thickened.",
     "In a separate bowl, mix the sodium alginate and water until dissolved.",
     "Using a syringe or spoon, drop small amounts of the alginate mixture into the skillet and cook for a few seconds to spherify.",
-    "Season the skillet with salt and black pepper to taste."
+    "Season the skillet with salt and black pepper to taste.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -102,5 +103,9 @@
     "mainIngredient": "sugar snap peas",
     "descriptor": "Warm Spicy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

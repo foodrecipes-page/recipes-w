@@ -3,8 +3,7 @@
   "description": "A flavorful, tangy, and aromatic Saudi-Arabian dish featuring ginger garlic paste, marinate, and kosher-friendly ingredients.",
   "cuisine": "saudi-arabian",
   "diet": [
-    "kosher",
-    "halal"
+    "kosher"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -107,5 +106,9 @@
     "mainIngredient": "Shrimp",
     "descriptor": "Wickedly Wholesome",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

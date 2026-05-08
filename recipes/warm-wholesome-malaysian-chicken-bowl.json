@@ -97,11 +97,15 @@
     "mood": "lazy-sunday",
     "technique": "render-fat",
     "primaryIngredient": "mayonnaise",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Malaysian",
     "mainIngredient": "Chicken",
     "descriptor": "Warm Wholesome",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

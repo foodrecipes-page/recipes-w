@@ -50,7 +50,8 @@
     "Melt the unsalted butter in a skillet over medium heat and add the duck mixture.",
     "Cook the duck mixture for 5 minutes, stirring frequently, until it is crispy and golden brown.",
     "Transfer the duck mixture to a tagliere board and top it with chopped fresh parsley.",
-    "Serve the rillettes warm, garnished with additional parsley if desired."
+    "Serve the rillettes warm, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -87,5 +88,9 @@
     "mainIngredient": "duck",
     "descriptor": "Warm Spicy",
     "dishForm": "Rillettes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

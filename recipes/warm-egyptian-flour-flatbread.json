@@ -79,11 +79,15 @@
     "mood": "quick-fix",
     "technique": "knead",
     "primaryIngredient": "flour",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Egyptian",
     "mainIngredient": "flour",
     "descriptor": "Warm Wraps",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

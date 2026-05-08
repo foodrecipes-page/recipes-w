@@ -58,7 +58,8 @@
     "Place a spoonful of filling onto each low-carb wonton wrapper and fold over, sealing the edges with a touch of water.",
     "Heat a small amount of oil in the same skillet over medium heat and arrange the dumplings in a single layer, skin side down.",
     "Cook the dumplings until the bottom is golden-brown and crispy, about 3 minutes, then flip and cook the other side for 2 minutes.",
-    "Serve hot, optionally garnished with chopped green onions, and enjoy the wine-infused crispiness."
+    "Serve hot, optionally garnished with chopped green onions, and enjoy the wine-infused crispiness.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -96,5 +97,9 @@
     "mainIngredient": "Beef",
     "descriptor": "Winey Crispy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

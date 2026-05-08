@@ -55,7 +55,8 @@
     "In a greased 9x13 inch baking dish, arrange half of the crushed tortilla chips in the bottom of the dish.",
     "Add the chicken mixture on top of the tortilla chips.",
     "Sprinkle the shredded cheddar cheese over the top of the chicken mixture.",
-    "Arrange the remaining tortilla chips on top of the cheese."
+    "Arrange the remaining tortilla chips on top of the cheese.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -92,5 +93,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Warm spicy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

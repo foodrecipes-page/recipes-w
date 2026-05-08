@@ -56,7 +56,8 @@
     "Simmer for about 15 minutes while the peppers cook in another pan without oil.",
     "Toss in the sliced peppers and simmer for an additional 10 minutes.",
     "Fold in the gouda until melted and smooth.",
-    "Serve hot over steamed rice or noodles, seasoned with salt and pepper as desired."
+    "Serve hot over steamed rice or noodles, seasoned with salt and pepper as desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 40,
@@ -92,5 +93,9 @@
     "mainIngredient": "Gouda Cheese",
     "descriptor": "Warm Light",
     "dishForm": "Qwen Hot-Pot"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

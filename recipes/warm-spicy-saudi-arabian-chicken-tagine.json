@@ -56,7 +56,8 @@
     "Pour in the chicken broth and bring the mixture to a boil.",
     "Reduce the heat to low and simmer, covered, for 10 minutes.",
     "Stir in the coconut cream and continue to simmer, uncovered, for an additional 5 minutes.",
-    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired."
+    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -93,5 +94,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Warm Spicy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -4,7 +4,6 @@
   "cuisine": "Egyptian",
   "diet": [
     "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -96,8 +95,7 @@
     "easy-meal-prep",
     "gluten-free",
     "low-calorie",
-    "one-pan",
-    "vegan"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 320,
@@ -122,5 +120,9 @@
     "mainIngredient": "water",
     "descriptor": "warm",
     "dishForm": "stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

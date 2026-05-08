@@ -3,8 +3,7 @@
   "description": "A comforting, grassy casserole featuring jersey royal potatoes, dairy free cheese pull, and a slow cooked clay pot finish.",
   "cuisine": "Egyptian",
   "diet": [
-    "vegetarian",
-    "dairy-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -69,7 +68,6 @@
   "tags": [
     "clay-pot",
     "comfort-food",
-    "dairy-free",
     "jersey-royal-pot",
     "one-pot",
     "vegetarian"
@@ -97,5 +95,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Wholesome",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

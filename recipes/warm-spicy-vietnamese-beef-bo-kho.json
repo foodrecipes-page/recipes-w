@@ -3,8 +3,7 @@
   "description": "A peppery and nostalgic Vietnamese dish featuring chinese broccoli and confit tomato, with a cheese pull effect, low in carbs and perfect for a weeknight dinner.",
   "cuisine": "Vietnamese",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -94,5 +93,9 @@
     "mainIngredient": "beef",
     "descriptor": "Warm Spicy",
     "dishForm": "Bo Kho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

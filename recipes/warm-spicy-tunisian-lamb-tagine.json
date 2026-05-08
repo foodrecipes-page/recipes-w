@@ -3,7 +3,6 @@
   "description": "A hearty and spicy North African stew originating from Tunisia, made with lamb, fermented chilies, and fragrant pandan leaf. Serve hot over crusty bread or couscous for a satisfying meal.",
   "cuisine": "tunisian",
   "diet": [
-    "halal",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -109,5 +108,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Warm Spicy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

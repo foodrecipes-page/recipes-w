@@ -2,11 +2,7 @@
   "title": "Warm Tender Thai Noodles Boat Noodles",
   "description": "Sweet, tender, and cozy Thai dish featuring baking powder, nuka-pickle, and macrobiotic-friendly ingredients.",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian",
-    "dairy-free",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -113,5 +109,11 @@
     "mainIngredient": "noodles",
     "descriptor": "warm tender",
     "dishForm": "boat noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

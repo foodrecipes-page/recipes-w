@@ -54,7 +54,8 @@
     "Scrape up the deglaze-fond from the bottom of the skillet.",
     "Add the cooked basmati rice to the skillet and stir to combine.",
     "Reduce the heat to low and simmer for 5 minutes.",
-    "Serve the pilaf hot in a lazy-susan-spinner vessel."
+    "Serve the pilaf hot in a lazy-susan-spinner vessel.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -92,5 +93,9 @@
     "mainIngredient": "banana",
     "descriptor": "Warm peppery",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

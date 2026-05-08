@@ -48,7 +48,8 @@
     "Combine soy sauce and oyster sauce in a small bowl. Drizzle this mixture over the ingredients.",
     "Fold rice noodles into the mix gradually while tossing frequently to coat evenly.",
     "Stir in optional stir-fried garlic sesame oil if desired.",
-    "Serve hot as a side dish or main meal."
+    "Serve hot as a side dish or main meal.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -85,5 +86,9 @@
     "mainIngredient": "Pine Nuts",
     "descriptor": "Wholesome",
     "dishForm": "Dan-Dan-Mian"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

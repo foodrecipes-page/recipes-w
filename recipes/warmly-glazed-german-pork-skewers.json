@@ -2,9 +2,7 @@
   "title": "Warmly Glazed German Pork Skewers",
   "description": "Savory and juicy pork skewers glazed with a sweet and sticky sauce, perfect for a date-night dinner",
   "cuisine": "German",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -48,7 +46,8 @@
     "Brush the glaze onto the pork skewers",
     "Grill the skewers for 10-12 minutes, turning occasionally",
     "Let the skewers rest for 5 minutes before serving",
-    "Serve the skewers hot, garnished with fresh parsley"
+    "Serve the skewers hot, garnished with fresh parsley",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
@@ -85,5 +84,10 @@
     "mainIngredient": "pork",
     "descriptor": "Warmly Glazed",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-pork_no_temp"
+  ]
 }

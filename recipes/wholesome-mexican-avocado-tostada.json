@@ -3,7 +3,6 @@
   "description": "A resinous and fluffy avocado tostada that soothes hangovers with fresh chives and citrus.",
   "cuisine": "mexican",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "lunch",
@@ -100,5 +99,9 @@
     "mainIngredient": "Avocado",
     "descriptor": "Wholesome",
     "dishForm": "Tostada"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

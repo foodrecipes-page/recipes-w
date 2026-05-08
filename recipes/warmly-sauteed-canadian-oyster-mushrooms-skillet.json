@@ -3,7 +3,6 @@
   "description": "A light Canadian dish featuring oyster mushrooms, this recipe is a perfect combination of flavors and textures, with a jammy and bouncy qq finish.",
   "cuisine": "Canadian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -62,7 +61,8 @@
     "Add the white wine and chicken broth to the skillet and stir to deglaze the bottom.",
     "Reduce the heat to low and simmer the mixture for 10 minutes until the liquid has reduced and the mushrooms are tender.",
     "Stir in the dried thyme, salt, and pepper, and cook for an additional 2 minutes.",
-    "Serve the mushroom mixture hot, garnished with fresh herbs if desired."
+    "Serve the mushroom mixture hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -100,5 +100,10 @@
     "mainIngredient": "oyster mushrooms",
     "descriptor": "Warmly sauteed",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

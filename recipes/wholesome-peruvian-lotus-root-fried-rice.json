@@ -70,7 +70,8 @@
     "Sprinkle pepper, stir, and cook for an additional 2 minutes until everything is heated through.",
     "Transfer the mixture onto a preheated robata grill and sear each side for 30 seconds to impart a smoky char.",
     "Remove from grill, fold in chopped cilantro, and adjust seasoning if needed.",
-    "Serve hot, optionally accompanied by a side of lime wedges."
+    "Serve hot, optionally accompanied by a side of lime wedges.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 13,
@@ -107,5 +108,9 @@
     "mainIngredient": "Lotus Root",
     "descriptor": "Wholesome",
     "dishForm": "Fried Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

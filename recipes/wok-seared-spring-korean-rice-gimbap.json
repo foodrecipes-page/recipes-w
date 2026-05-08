@@ -74,7 +74,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "korean-cuisine",
     "one-pan",
     "spring-vegetables",
@@ -103,5 +102,9 @@
     "mainIngredient": "rice",
     "descriptor": "Wok-Seared Spring",
     "dishForm": "Gimbap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

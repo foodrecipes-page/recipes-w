@@ -3,7 +3,6 @@
   "description": "A flavorful and adventurous Argentinian dish featuring baby aubergine, bonito flakes, and a garlicky twist, perfect for a satvik-friendly meal",
   "cuisine": "Argentinian",
   "diet": [
-    "vegetarian",
     "satvik"
   ],
   "meal": "dinner",
@@ -89,5 +88,9 @@
     "mainIngredient": "baby aubergine",
     "descriptor": "Warmly garlicky",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

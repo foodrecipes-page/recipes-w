@@ -83,7 +83,6 @@
   "difficulty": "medium",
   "tags": [
     "breakfast",
-    "dairy-free",
     "dinner",
     "easy",
     "healthy",
@@ -116,5 +115,9 @@
     "mainIngredient": "yogurt",
     "descriptor": "Warm Roasted",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

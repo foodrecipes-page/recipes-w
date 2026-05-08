@@ -3,8 +3,7 @@
   "description": "A tangy and silky Middle Eastern dish featuring roasted eggplant, cranberry juice, and a pasta water emulsion, perfect for a nostalgic and high protein friendly snack.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -64,7 +63,6 @@
   "difficulty": "medium",
   "tags": [
     "dip",
-    "gluten-free",
     "high-protein",
     "middle-eastern",
     "snack",
@@ -93,5 +91,9 @@
     "mainIngredient": "eggplant",
     "descriptor": "Warm Silky",
     "dishForm": "Baba Ganoush"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

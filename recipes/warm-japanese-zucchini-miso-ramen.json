@@ -2,9 +2,7 @@
   "title": "Warm Japanese Zucchini Miso Ramen",
   "description": "A garlicky, silky ramen that warms the soul with fresh zucchini and rich miso, finished with a touch of sesame and chili.",
   "cuisine": "Japanese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -83,7 +81,6 @@
   "tags": [
     "comfort-food",
     "quick",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -109,5 +106,9 @@
     "mainIngredient": "Zucchini",
     "descriptor": "Warm",
     "dishForm": "Miso Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

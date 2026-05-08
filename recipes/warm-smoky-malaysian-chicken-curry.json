@@ -2,10 +2,7 @@
   "title": "Warm Smoky Malaysian Chicken Curry",
   "description": "A herbal and snappy Malaysian dish featuring chicken cooked in a smoky curry sauce, served with a side of fluffy 00-flour roti, this recipe is perfect for a date night and is Buddhist-temple-friendly as it does not contain any animal by-products or alcohol",
   "cuisine": "Malaysian",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -75,9 +72,7 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "date-night",
-    "gluten-free",
     "malaysian-cuisine",
     "one-pan",
     "smoky",
@@ -106,5 +101,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Warm Smoky",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

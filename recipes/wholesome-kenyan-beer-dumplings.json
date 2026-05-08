@@ -4,7 +4,6 @@
   "cuisine": "kenyan",
   "diet": [
     "keto",
-    "gluten-free",
     "alcohol-friendly"
   ],
   "meal": "dinner",
@@ -101,7 +100,6 @@
     "beer-braised",
     "comfort-food",
     "crisp",
-    "gluten-free",
     "kenyan",
     "keto",
     "pungent",
@@ -130,5 +128,9 @@
     "mainIngredient": "beer",
     "descriptor": "wholesome",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

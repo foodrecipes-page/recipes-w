@@ -3,8 +3,7 @@
   "description": "A spicy and flavorful Jamaican-inspired pilaf dish featuring succulent shrimp and aromatic spices, perfect for a post-workout meal. This dish is made with vialone nano rice and sashimi-cut shrimp for a unique texture and flavor combination.",
   "cuisine": "Jamaican",
   "diet": [
-    "gluten-free",
-    "pescatarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -101,5 +100,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "warm molten",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

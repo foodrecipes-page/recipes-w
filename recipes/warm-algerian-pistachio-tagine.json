@@ -80,7 +80,9 @@
     "Reduce the heat, cover, and let the tagine cook for 20 minutes to meld the flavors.",
     "Fold in the shelled pistachios, stirring gently to distribute them evenly.",
     "Transfer the hot tagine onto the banana leaf, cover the leaf with a lid or another leaf, and steam the dish for 15 minutes to finish cooking.",
-    "Uncover, fluff the mixture with a fork, and serve immediately with a side of whole‑grain bread or quinoa."
+    "Uncover, fluff the mixture with a fork, and serve immediately with a side of whole‑grain bread or quinoa.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -118,5 +120,10 @@
     "mainIngredient": "pistachio",
     "descriptor": "Warm",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

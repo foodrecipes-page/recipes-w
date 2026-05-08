@@ -3,7 +3,6 @@
   "description": "A light, warm, and comforting post-workout dish featuring almond butter, simmered with Canadian flavors.",
   "cuisine": "canadian",
   "diet": [
-    "vegan",
     "vegetarian",
     "gluten-free"
   ],
@@ -109,5 +108,9 @@
     "mainIngredient": "almond butter",
     "descriptor": "wholesome",
     "dishForm": "roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

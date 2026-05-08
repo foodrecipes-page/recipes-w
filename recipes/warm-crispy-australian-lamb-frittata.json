@@ -3,7 +3,6 @@
   "description": "A comforting, crispy lamb frittata featuring fresh herbs and a hint of Australian flavor, perfect for a sick day.",
   "cuisine": "Australian",
   "diet": [
-    "gluten-free",
     null,
     "dairy"
   ],
@@ -111,5 +110,9 @@
     "mainIngredient": "Lamb",
     "descriptor": "Warm Crispy",
     "dishForm": "Frittata"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

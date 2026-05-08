@@ -63,7 +63,9 @@
     "Add the remaining 3 cups of chicken broth to the pot and bring to a boil.",
     "Reduce the heat to low and simmer, covered, for 2 hours, or until the pork is tender.",
     "Stir in the sour cream and cook for an additional 10 minutes, or until heated through.",
-    "Taste and adjust the seasoning as needed, then serve hot, garnished with chopped fresh parsley."
+    "Taste and adjust the seasoning as needed, then serve hot, garnished with chopped fresh parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -100,5 +102,10 @@
     "mainIngredient": "pork",
     "descriptor": "Wildly savory",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

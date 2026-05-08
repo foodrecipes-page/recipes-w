@@ -68,7 +68,9 @@
     "Place the sandwiches in the panini press and cook for 5 minutes",
     "Remove the sandwiches from the press and sprinkle chopped cilantro on top",
     "Cut the sandwiches in half and serve immediately",
-    "Serve with a side of tomato soup to help cool down the palate"
+    "Serve with a side of tomato soup to help cool down the palate",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 10,
@@ -106,5 +108,10 @@
     "mainIngredient": "morbier",
     "descriptor": "Wildly pungent",
     "dishForm": "Sandwich"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

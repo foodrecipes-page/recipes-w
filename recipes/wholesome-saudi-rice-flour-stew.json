@@ -4,8 +4,7 @@
   "cuisine": "Saudi Arabian",
   "diet": [
     "fodmap-friendly",
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -81,7 +80,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "high-fiber",
     "low-fat",
     "nut-free",
@@ -111,5 +109,9 @@
     "mainIngredient": "Rice Flour",
     "descriptor": "Wholesome",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Wholesome Egyptian Chickpea Salad",
   "description": "A vibrant, plant-based chickpea salad with warm turmeric, crisp cucumber, and a light lemon-yogurt dressing, perfect for a light lunch or snack.",
   "cuisine": "Egyptian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -111,5 +109,9 @@
     "mainIngredient": "Chickpeas",
     "descriptor": "Wholesome",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

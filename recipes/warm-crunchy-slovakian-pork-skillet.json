@@ -58,7 +58,9 @@
     "Add the chicken broth to the skillet and bring to a boil.",
     "Reduce the heat to low and simmer the mixture for 20 minutes.",
     "Stir in the cooked bacon and cook for an additional 2 minutes.",
-    "Serve the pork mixture hot, garnished with chopped fresh parsley if desired."
+    "Serve the pork mixture hot, garnished with chopped fresh parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -95,5 +97,10 @@
     "mainIngredient": "pork",
     "descriptor": "Warm Crunchy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

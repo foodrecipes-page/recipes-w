@@ -64,7 +64,8 @@
     "Remove the duck legs from the molcajete and set aside.",
     "Add the lemon juice and olive oil to the molcajete and cook for 2 minutes.",
     "Return the duck legs to the molcajete and cook for an additional 2 minutes.",
-    "Serve the duck legs warm, garnished with fresh herbs if desired."
+    "Serve the duck legs warm, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -102,5 +103,9 @@
     "mainIngredient": "Duck",
     "descriptor": "Warm Spiced",
     "dishForm": "Confit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -61,7 +61,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 15 minutes.",
     "Deglaze the pot with a little bit of water to remove any browned bits from the bottom.",
     "Season the stew with salt and pepper to taste.",
-    "Ladle the stew into agave leaf vessels and serve hot."
+    "Ladle the stew into agave leaf vessels and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -99,5 +100,9 @@
     "mainIngredient": "Chinese broccoli",
     "descriptor": "Warm spicy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

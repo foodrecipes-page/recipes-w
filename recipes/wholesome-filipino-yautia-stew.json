@@ -65,7 +65,8 @@
     "Pour in the coconut milk and coconut cream, then add soy sauce, salt, and black pepper; bring to a gentle simmer.",
     "Reduce the heat to low, cover the kadhai, and let the stew cook for 15 minutes, or until the yautia is tender and the sauce has thickened.",
     "Taste and adjust seasoning if needed, then remove from heat.",
-    "Serve the stew hot, optionally garnished with fresh cilantro or sliced scallions."
+    "Serve the stew hot, optionally garnished with fresh cilantro or sliced scallions.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -102,5 +103,9 @@
     "mainIngredient": "Yautia",
     "descriptor": "Wholesome",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

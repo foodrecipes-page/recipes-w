@@ -2,10 +2,7 @@
   "title": "Warm Flaky Japanese Red Cabbage Nabemono",
   "description": "A kid-friendly Japanese dish from the Chubu region featuring red cabbage, with a jammy and flaky texture, and anti-inflammatory friendly ingredients. This nabemono is perfect for a cold winter night.",
   "cuisine": "Japanese",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -67,7 +64,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "japanese-cuisine",
     "one-pot",
     "vegetarian-friendly",
@@ -96,5 +92,10 @@
     "mainIngredient": "red cabbage",
     "descriptor": "warm flaky",
     "dishForm": "Nabemono"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,6 @@
   "description": "A flavorful, one-pot Vietnamese dish featuring well-charred Brussels sprouts, served with steamed bun and sweet chili sauce.",
   "cuisine": "vietnamese",
   "diet": [
-    "vegetarian",
-    "vegan",
     "ayurvedic-rajasic-friendly"
   ],
   "meal": "dinner",
@@ -116,5 +114,10 @@
     "mainIngredient": "Brussels Sprouts",
     "descriptor": "Well-Charred",
     "dishForm": "Mi-Quang"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A hearty and flavorful Ukrainian dish featuring a variety of mushrooms in a rich dashi broth, served with a side of crumbly beurre-monte topping, perfect for a solo dinner",
   "cuisine": "Ukrainian",
   "diet": [
-    "vegetarian",
     "ayurvedic-sattvic"
   ],
   "meal": "dinner",
@@ -100,5 +99,9 @@
     "mainIngredient": "mushrooms",
     "descriptor": "Warm Crumbly",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

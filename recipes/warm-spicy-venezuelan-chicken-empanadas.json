@@ -59,7 +59,8 @@
     "Fold the dough in half and press the edges together to seal the empanada.",
     "Double fry the empanadas by frying them at 350 degrees for 2 minutes, then increasing the heat to 375 degrees and frying for an additional 2 minutes.",
     "Remove the empanadas from the oil and place them on a paper towel lined plate to drain excess oil.",
-    "Serve the empanadas warm."
+    "Serve the empanadas warm.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -97,5 +98,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Warm Spicy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

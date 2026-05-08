@@ -3,8 +3,7 @@
   "description": "A floral and snappy Australian dish featuring lamb, malt vinegar, and a low-carb friendly ssam wrap, served on a bamboo tray.",
   "cuisine": "Australian",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -89,5 +88,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Warmly spiced",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

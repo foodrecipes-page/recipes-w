@@ -3,8 +3,7 @@
   "description": "A yeasty, gooey post-workout Canadian dish featuring orange blossom water and caramelized sugar, perfect for a low-carb friendly treat.",
   "cuisine": "Canadian",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "snack",
   "ingredients": [
@@ -83,7 +82,6 @@
   "difficulty": "medium",
   "tags": [
     "canadian",
-    "gluten-free",
     "high-protein",
     "low-carb",
     "one-pan",
@@ -114,5 +112,9 @@
     "mainIngredient": "bannock",
     "descriptor": "Warm Gooey",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

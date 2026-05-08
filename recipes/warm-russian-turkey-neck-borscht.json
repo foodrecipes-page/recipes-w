@@ -76,7 +76,8 @@
     "Reduce heat to low and simmer for 1 hour, or until the turkey necks are tender.",
     "Remove the turkey necks from the pot and let cool.",
     "Once cooled, remove the meat from the bones and shred; return the meat to the pot.",
-    "Stir in chopped fresh dill; serve the borscht warm, garnished with additional dill if desired."
+    "Stir in chopped fresh dill; serve the borscht warm, garnished with additional dill if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -112,5 +113,9 @@
     "mainIngredient": "turkey neck",
     "descriptor": "warm",
     "dishForm": "Borscht"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

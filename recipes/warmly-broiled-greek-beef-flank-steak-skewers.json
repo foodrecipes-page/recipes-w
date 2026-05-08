@@ -2,9 +2,7 @@
   "title": "Warmly Broiled Greek Beef Flank Steak Skewers",
   "description": "A kosher-friendly Greek dish featuring beef flank steak, perfect for midnight cravings, with a fermented and cheese-pull twist.",
   "cuisine": "Greek",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -101,5 +99,9 @@
     "mainIngredient": "beef flank steak",
     "descriptor": "Warmly broiled",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

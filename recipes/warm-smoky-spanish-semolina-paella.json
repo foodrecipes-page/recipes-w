@@ -57,7 +57,8 @@
     "Add the chicken broth, smoked paprika, and sea salt, and bring to a boil.",
     "Reduce the heat to low and simmer, covered, for 20 minutes.",
     "Stir in the lemon juice and cook for an additional 2 minutes.",
-    "Remove from heat and let rest for 5 minutes before serving."
+    "Remove from heat and let rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -65,7 +66,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "one-pan",
     "seafood",
     "smoky",
@@ -95,5 +95,10 @@
     "mainIngredient": "semolina",
     "descriptor": "Warm Smoky",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

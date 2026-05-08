@@ -2,9 +2,7 @@
   "title": "Norwegian Lamb Stew",
   "description": "A comforting and floral Norwegian lamb stew featuring dry sherry, perfect for a cold evening, with an ayurvedic-rajasic friendly approach to ingredients and cooking methods.",
   "cuisine": "Norwegian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -75,7 +73,6 @@
   "tags": [
     "cold-weather",
     "comfort-food",
-    "gluten-free",
     "lamb-recipes",
     "norwegian-cuisine",
     "one-pot"
@@ -103,5 +100,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Warm comforting",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

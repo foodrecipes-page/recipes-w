@@ -51,7 +51,8 @@
     "Reduce the heat to low, cover the skillet, and simmer for 20 minutes.",
     "Stir in the yoghurt and cook for an additional 2 minutes.",
     "Season the paella with salt to taste.",
-    "Garnish with scallions and serve hot."
+    "Garnish with scallions and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -89,5 +90,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Warm Buttery",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

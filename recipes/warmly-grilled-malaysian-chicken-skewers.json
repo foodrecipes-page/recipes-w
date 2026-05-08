@@ -3,7 +3,6 @@
   "description": "A sweet and aerated Malaysian dish featuring chicken, robata-grill, and vegan-friendly options, perfect for a nostalgic meal. This recipe is a variation that can be adapted to vegan diets by substituting chicken with tofu or tempeh.",
   "cuisine": "Malaysian",
   "diet": [
-    "gluten-free",
     "vegan-friendly"
   ],
   "meal": "dinner",
@@ -67,7 +66,6 @@
   "difficulty": "medium",
   "tags": [
     "dinner-ideas",
-    "gluten-free",
     "grilled",
     "malaysian-cuisine",
     "robata-grill",
@@ -90,11 +88,16 @@
     "mood": "nostalgic",
     "technique": "robata-grill",
     "primaryIngredient": "chicken",
-    "diet": "vegan",
+    "diet": "vegan-friendly",
     "region": null,
     "cuisineAdjective": "Malaysian",
     "mainIngredient": "chicken",
     "descriptor": "Warmly grilled",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Warmly Spiced Canadian Corned Beef Hash",
   "description": "A hearty and energizing Canadian dish featuring corned beef, perfect for a breakfast or brunch option, with a vegetarian-friendly twist by using vegetarian corned beef alternatives.",
   "cuisine": "Canadian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -96,5 +94,9 @@
     "mainIngredient": "corned beef",
     "descriptor": "Warmly spiced",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

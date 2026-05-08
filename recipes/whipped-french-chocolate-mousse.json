@@ -3,7 +3,6 @@
   "description": "A silky, airy mousse made with rich dark chocolate and frothy coconut cream, finished with a subtle hint of vanilla for a truly indulgent treat.",
   "cuisine": "French",
   "diet": [
-    "vegan",
     "sattvic"
   ],
   "meal": "dessert",
@@ -62,8 +61,7 @@
     "fluffy",
     "indulgent",
     "quick",
-    "sattvic",
-    "vegan"
+    "sattvic"
   ],
   "nutrition": {
     "calories": 180,
@@ -88,5 +86,9 @@
     "mainIngredient": "chocolate",
     "descriptor": "Whipped",
     "dishForm": "Mousse"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

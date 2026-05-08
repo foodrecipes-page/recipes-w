@@ -3,8 +3,6 @@
   "description": "Peruvian-inspired dish featuring halal-friendly ground cardamom and a smoky kick, perfect for when you're feeling under the weather.",
   "cuisine": "Peruvian",
   "diet": [
-    "halal",
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "snack",
@@ -105,5 +103,10 @@
     "mainIngredient": "Lomo",
     "descriptor": "Winey, Pillowy",
     "dishForm": "Ceviche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-halal"
+  ]
 }

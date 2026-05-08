@@ -3,10 +3,7 @@
   "description": "A satvik-friendly, herbal, and pillowy Greek dish made with speck and wood-fired baked. Perfect for meal prep and an easy weeknight dinner.",
   "cuisine": "Greek",
   "diet": [
-    "vegetarian",
-    "gluten-free",
-    "dairy",
-    "pescatarian"
+    "dairy"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -103,5 +100,11 @@
     "mainIngredient": "feta",
     "descriptor": "warm",
     "dishForm": "Tiropita"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-pescatarian",
+    "removed-diet-gluten-free"
+  ]
 }

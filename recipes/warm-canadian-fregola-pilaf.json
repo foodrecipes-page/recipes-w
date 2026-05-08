@@ -64,7 +64,8 @@
     "Add the chicken broth, dried thyme, salt, and black pepper, and bring to a boil.",
     "Reduce the heat to low, cover, and simmer for 20 minutes or until the fregola is tender.",
     "Stir in the cooked chicken breast and reduced-fat cheddar cheese.",
-    "Transfer the pilaf to a baking dish and bake in the preheated oven for 10 minutes or until the cheese is melted and bubbly."
+    "Transfer the pilaf to a baking dish and bake in the preheated oven for 10 minutes or until the cheese is melted and bubbly.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -102,5 +103,9 @@
     "mainIngredient": "fregola",
     "descriptor": "Warm Hearty",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

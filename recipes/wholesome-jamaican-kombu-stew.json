@@ -3,8 +3,7 @@
   "description": "A sour, tender, one-pot Jamaican stew bursting with umami kombu and sweet vegetables, perfect for a lacto-vegetarian meal.",
   "cuisine": "Jamaican",
   "diet": [
-    "lacto-vegetarian",
-    "vegan"
+    "lacto-vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -116,5 +115,9 @@
     "mainIngredient": "Kombu",
     "descriptor": "Wholesome",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

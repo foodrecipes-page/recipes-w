@@ -102,11 +102,15 @@
     "mood": "energizing",
     "technique": "sashimi-cut",
     "primaryIngredient": "salmon",
-    "diet": "halal",
+    "diet": "halal-friendly",
     "region": null,
     "cuisineAdjective": "Australian",
     "mainIngredient": "salmon",
     "descriptor": "Wavy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

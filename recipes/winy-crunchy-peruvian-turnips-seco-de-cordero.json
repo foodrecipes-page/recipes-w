@@ -3,7 +3,6 @@
   "description": "A hearty and flavorful Peruvian stew made with turnips, wine, and lamb, perfect for a lazy Sunday meal. This dish is dehydrated to bring out the natural sweetness of the turnips.",
   "cuisine": "Peruvian",
   "diet": [
-    "halal",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -80,7 +79,8 @@
     "Serve hot, garnished with additional cilantro if desired.",
     "Dehydrate the stew in a low-temperature oven (150°F) for 1 hour to caramelize the turnips and thicken the sauce.",
     "Reheat the stew before serving.",
-    "Serve with rice or crusty bread, if desired."
+    "Serve with rice or crusty bread, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -89,7 +89,6 @@
   "difficulty": "medium",
   "tags": [
     "gluten-free",
-    "halal",
     "high-fiber",
     "one-pan",
     "peruvian",
@@ -118,5 +117,10 @@
     "mainIngredient": "turnips",
     "descriptor": "winy crunchy",
     "dishForm": "Seco de Cordero"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

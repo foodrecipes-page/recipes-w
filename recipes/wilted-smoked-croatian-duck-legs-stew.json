@@ -72,7 +72,8 @@
     "Add the chopped parsley, dill, bay leaves, salt, and black pepper.",
     "Pour in the red wine vinegar and chicken broth, and bring the mixture to a simmer.",
     "Reduce the heat to low and let the stew simmer for 20 minutes, or until the duck is tender.",
-    "Remove the bay leaves and serve the stew hot, garnished with additional parsley and dill if desired."
+    "Remove the bay leaves and serve the stew hot, garnished with additional parsley and dill if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 40,
@@ -110,5 +111,9 @@
     "mainIngredient": "duck legs",
     "descriptor": "Wilted Smoked",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

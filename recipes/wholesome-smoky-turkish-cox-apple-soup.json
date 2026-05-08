@@ -3,7 +3,6 @@
   "description": "A smoky, light Turkish soup blending cox apple with aromatic spices for a macrobiotic-friendly bowl.",
   "cuisine": "turkish",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -80,8 +79,7 @@
     "macrobiotic",
     "smoky",
     "soup",
-    "turkish",
-    "vegan"
+    "turkish"
   ],
   "nutrition": {
     "calories": 190,
@@ -106,5 +104,9 @@
     "mainIngredient": "cox apple",
     "descriptor": "Wholesome Smoky",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

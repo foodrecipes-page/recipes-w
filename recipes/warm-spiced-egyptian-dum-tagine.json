@@ -61,7 +61,8 @@
     "Add the dum, chicken stock concentrate, and lemon juice, and stir to combine.",
     "Bring the mixture to a simmer and cook for 20 minutes, or until the dum is tender.",
     "Season with salt and pepper to taste.",
-    "Serve the tagine hot, garnished with fresh herbs if desired."
+    "Serve the tagine hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -98,5 +99,9 @@
     "mainIngredient": "dum",
     "descriptor": "Warm Spiced",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }
