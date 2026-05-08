@@ -1,0 +1,101 @@
+{
+  "title": "Warm Roasted Uruguayan Bean Stew",
+  "description": "A hearty and creamy stew featuring roasted beans and sunflower oil, perfect for a monsoon day. This high-protein dish is a staple of Uruguayan cuisine.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roast the soaked and drained white beans in the oven with 1 tablespoon of sunflower oil for 20 minutes.",
+    "In a large pot, heat the remaining 1 tablespoon of sunflower oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the chopped red bell pepper and cook until tender, about 5 minutes.",
+    "Add the canned diced tomatoes, vegetable broth, smoked paprika, salt, and black pepper to the pot.",
+    "Stir in the roasted white beans and bring the stew to a simmer.",
+    "Reduce the heat to low and let the stew simmer for 20 minutes.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "uruguayan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-roasted-uruguayan-bean-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-roasted-uruguayan-bean-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:42:40Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "simmer",
+    "primaryIngredient": "sunflower oil",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beans",
+    "descriptor": "Warm Roasted",
+    "dishForm": "Stew"
+  }
+}

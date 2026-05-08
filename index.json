@@ -3789,6 +3789,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-roasted-uruguayan-bean-stew",
+    "title": "Warm Roasted Uruguayan Bean Stew",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "uruguayan-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 70,
+    "shard": "w"
+  },
+  {
     "slug": "warm-roasted-wholesome-carrot-wrap",
     "title": "Warm Roasted Wholesome Carrot Wrap",
     "tags": [
@@ -5186,6 +5200,21 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-venezuelan-chinese-broccoli-stew",
+    "title": "Warm Spicy Venezuelan Chinese Broccoli Stew",
+    "tags": [
+      "comfort-food",
+      "healthy",
+      "keto-friendly",
+      "one-pot",
+      "spicy",
+      "venezuelan-chinese"
+    ],
+    "cuisine": "Venezuelan Chinese",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
