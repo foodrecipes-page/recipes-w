@@ -1,0 +1,103 @@
+{
+  "title": "Warm Pillowy Venezuelan Pepper Empanadas",
+  "description": "A lacto-vegetarian friendly solo dinner dish featuring sweet peppadew peppers and shio-koji cure, these empanadas are fatty and pillowy, perfect for a warm evening meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "peppadew peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "1"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, salt, sugar, and yeast.",
+    "Add cold butter to the dry ingredients and mix until the mixture resembles coarse crumbs.",
+    "In a separate bowl, whisk together eggs, milk, and shio-koji.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a few slices of peppadew peppers in the center of each disk.",
+    "Fold the dough over the peppers to form a half moon shape and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil and bake for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "one-pan",
+    "venezuelan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "warm-pillowy-venezuelan-pepper-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-pillowy-venezuelan-pepper-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:31:14Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "sweet peppadew peppers",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "peppers",
+    "descriptor": "Warm pillowy",
+    "dishForm": "Empanadas"
+  }
+}
