@@ -1,0 +1,102 @@
+{
+  "title": "Warm Smoky Kenyan Corn Skewers",
+  "description": "Earthy and snappy, these festive Kenyan corn skewers are perfect for any occasion, featuring a unique blend of instant yeast and smoky flavors, all while being low-calorie-friendly.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "2 cups",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "20",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium heat, about 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together corn kernels, instant yeast, smoked paprika, garlic powder, onion powder, salt, and black pepper.",
+    "Thread about 1/4 cup of the corn mixture onto each skewer, leaving a small space between each piece.",
+    "Brush the skewers with lemon juice and olive oil, making sure they are well coated.",
+    "Place the skewers on the grill and cook for 10-12 minutes, turning occasionally, until the corn is lightly charred.",
+    "Remove the skewers from the grill and serve warm.",
+    "Garnish with fresh herbs, such as parsley or cilantro, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "grilled",
+    "kenyan",
+    "low-calorie",
+    "smoky",
+    "snappy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "warm-smoky-kenyan-corn-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-kenyan-corn-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:23:47Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "smoke-cold",
+    "primaryIngredient": "instant yeast",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "corn",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Skewers"
+  }
+}
