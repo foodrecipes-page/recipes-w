@@ -2230,6 +2230,23 @@
     "shard": "w"
   },
   {
+    "slug": "warm-roasted-jamaican-peas-hash",
+    "title": "Warm Roasted Jamaican Peas Hash",
+    "tags": [
+      "breakfast",
+      "dinner",
+      "high-protein",
+      "one-pan",
+      "quick-fix",
+      "sugar-free",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-roasted-moroccan-pepper-tagine",
     "title": "Warm Roasted Moroccan Pepper Tagine",
     "tags": [

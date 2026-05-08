@@ -1,0 +1,106 @@
+{
+  "title": "Warm Roasted Jamaican Peas Hash",
+  "description": "A warm, roasted, and chewy Jamaican dish featuring peas and a flavorful nimono-simmer, perfect for a quick and satisfying meal.",
+  "cuisine": "jamaican",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dried Kidney Peas",
+      "amount": "1 cup",
+      "notes": "any type of dried peas will do"
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Scotch Bonnet Pepper",
+      "amount": "1 small",
+      "notes": "chopped (optional)"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, mix together the dried peas, Jamaican Jerk Seasoning, and a pinch of salt.",
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and bell pepper and cook until softened, about 5 minutes.",
+    "Add the minced garlic and chopped Scotch Bonnet pepper (if using) and cook for another minute.",
+    "Add the peas and jerk seasoning mixture to the skillet and stir to combine.",
+    "Transfer the mixture to a baking dish and roast in the preheated oven for 20-25 minutes, or until the peas are tender and lightly browned.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "dinner",
+    "high-protein",
+    "one-pan",
+    "quick-fix",
+    "sugar-free",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "warm-roasted-jamaican-peas-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-roasted-jamaican-peas-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:53:45Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "peas",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "peas",
+    "descriptor": "warm roasted",
+    "dishForm": "hash"
+  }
+}
