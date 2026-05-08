@@ -1,0 +1,102 @@
+{
+  "title": "Warm Malty Indian Paneer Palak Paneer",
+  "description": "A malty, gooey, post-workout Indian dish featuring nduja and palak paneer, this recipe is low-fat-friendly and perfect for a weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "Indian cheese"
+    },
+    {
+      "name": "nduja",
+      "amount": "2 tbsp",
+      "notes": "spicy sausage paste"
+    },
+    {
+      "name": "palak puree",
+      "amount": "1 cup",
+      "notes": "spinach puree"
+    },
+    {
+      "name": "malt extract",
+      "amount": "1 tsp",
+      "notes": "malty flavor"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "Indian spice blend"
+    },
+    {
+      "name": "low-fat cream",
+      "amount": "1/2 cup",
+      "notes": "for emulsification"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the nduja in a large pan over medium heat until fragrant.",
+    "Add the malt extract and garam masala and cook for 1 minute.",
+    "Add the palak puree and cook until heated through.",
+    "Add the paneer and cook until the cheese is coated in the spinach mixture.",
+    "In a small bowl, whisk together the low-fat cream and a pinch of salt and pepper.",
+    "Pour the cream mixture into the pan and stir to emulsify.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "low-fat",
+    "one-pan",
+    "post-workout",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "warm-malty-indian-paneer-palak-paneer",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-malty-indian-paneer-palak-paneer",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:31:45Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "emulsify",
+    "primaryIngredient": "nduja",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "paneer",
+    "descriptor": "Warm Malty",
+    "dishForm": "Palak Paneer"
+  }
+}

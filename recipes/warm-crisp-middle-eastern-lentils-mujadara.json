@@ -1,0 +1,97 @@
+{
+  "title": "Warm Crisp Middle Eastern Lentils Mujadara",
+  "description": "A hearty and flavorful Middle Eastern dish featuring lentils, crispy onions, and pomegranate molasses, perfect for a brunch gathering",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green or brown lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onions",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "binchotan-charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes, then drain and set aside",
+    "In a large pot, bring the lentils and 2 cups of water to a boil, then reduce the heat to low and simmer for 20 minutes",
+    "While the lentils are cooking, heat the olive oil in a large skillet over medium-high heat and add the sliced onions, cooking until crispy and golden brown",
+    "Add the pomegranate molasses, salt, black pepper, and sumac to the skillet with the onions and stir to combine",
+    "Once the lentils are cooked, stir in the onion and pomegranate molasses mixture",
+    "Smoke the lentil mixture with binchotan-charcoal for 5 minutes to give it a smoky flavor",
+    "Serve the mujadara hot, garnished with additional sumac and pomegranate molasses if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "lentil-recipes",
+    "middle-eastern",
+    "smoky-flavors",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "warm-crisp-middle-eastern-lentils-mujadara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crisp-middle-eastern-lentils-mujadara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:31:40Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lentils",
+    "descriptor": "Warm Crisp",
+    "dishForm": "Mujadara"
+  }
+}

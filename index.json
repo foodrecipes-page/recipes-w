@@ -666,6 +666,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-crisp-middle-eastern-lentils-mujadara",
+    "title": "Warm Crisp Middle Eastern Lentils Mujadara",
+    "tags": [
+      "brunch-ideas",
+      "lentil-recipes",
+      "middle-eastern",
+      "smoky-flavors",
+      "vegetarian-options"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crisp-syrian-pinto-bean-pilaf",
     "title": "Warm Crisp Syrian Pinto Bean Pilaf",
     "tags": [
@@ -2612,6 +2626,21 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 180,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-malty-indian-paneer-palak-paneer",
+    "title": "Warm Malty Indian Paneer Palak Paneer",
+    "tags": [
+      "indian-cuisine",
+      "low-fat",
+      "one-pan",
+      "post-workout",
+      "vegetarian",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
