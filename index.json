@@ -1288,6 +1288,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-crunchy-slovakian-pork-skillet",
+    "title": "Warm Crunchy Slovakian Pork Skillet",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crunchy-syrian-goat-cheese-bowl",
     "title": "Warm Crunchy Syrian Goat Cheese Bowl",
     "tags": [
@@ -5192,6 +5206,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-springy-greek-romano-pepper-souvlaki",
+    "title": "Warm Springy Greek Romano Pepper Souvlaki",
+    "tags": [
+      "gluten-free",
+      "greek-food",
+      "high-protein",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-springy-northern-irish-jumbo-shrimp-yorkshire-pudding",
     "title": "Warm Springy Northern Irish Jumbo Shrimp Yorkshire Pudding",
     "tags": [
@@ -5524,6 +5553,21 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-velvety-egyptian-egg-omelette",
+    "title": "Warm Velvety Egyptian Egg Omelette",
+    "tags": [
+      "breakfast-ideas",
+      "copper-cooked",
+      "eggy",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {

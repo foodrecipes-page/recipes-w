@@ -1,0 +1,90 @@
+{
+  "title": "Warm Velvety Egyptian Egg Omelette",
+  "description": "A fresh and velvety Egyptian dish featuring free-range eggs, perfect for a hangover cure, made in a copper mug and suitable for Jain-friendly diets.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "free-range eggs",
+      "amount": "4 large eggs",
+      "notes": "beaten and smoke-cold"
+    },
+    {
+      "name": "copper mug",
+      "amount": "1 mug",
+      "notes": "for cooking"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a fork until the whites and yolks are fully incorporated.",
+    "Add the salt and black pepper to the eggs and mix well.",
+    "Heat the butter in the copper mug over medium heat until it melts and foams.",
+    "Pour the egg mixture into the copper mug and let it cook for 2 minutes.",
+    "Use a spatula to gently lift and fold the edges of the omelette towards the center.",
+    "Add the chopped scallions and parsley to one half of the omelette.",
+    "Use the spatula to fold the other half of the omelette over the filling.",
+    "Let the omelette cook for another minute, until the eggs are almost set.",
+    "Remove the omelette from the heat and let it cool for a minute."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-ideas",
+    "copper-cooked",
+    "eggy",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 14
+  },
+  "slug": "warm-velvety-egyptian-egg-omelette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-velvety-egyptian-egg-omelette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:07:49Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "smoke-cold",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "egg",
+    "descriptor": "Warm Velvety",
+    "dishForm": "Omelette"
+  }
+}

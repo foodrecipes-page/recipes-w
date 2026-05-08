@@ -1,0 +1,99 @@
+{
+  "title": "Warm Crunchy Slovakian Pork Skillet",
+  "description": "A hearty and spicy Slovakian dish featuring harissa spice and pork, perfect for a hangover cure or a comforting meal. This recipe is sugar-free-friendly and packed with flavor.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "harissa spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and cook the crushed bacon until crispy.",
+    "Remove the bacon from the skillet and set aside.",
+    "Add the pork to the skillet and cook until browned on all sides.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Add the harissa spice, paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Reduce the heat to low and simmer the mixture for 20 minutes.",
+    "Stir in the cooked bacon and cook for an additional 2 minutes.",
+    "Serve the pork mixture hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "warm-crunchy-slovakian-pork-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crunchy-slovakian-pork-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:07:01Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "braise",
+    "primaryIngredient": "harissa spice",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "Warm Crunchy",
+    "dishForm": "Skillet"
+  }
+}

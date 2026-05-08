@@ -1,0 +1,101 @@
+{
+  "title": "Warm Springy Greek Romano Pepper Souvlaki",
+  "description": "A nutty and springy post-workout Greek dish featuring Romano pepper and ferment-kimchi, made in a tava-griddle and served as souvlaki.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Romano peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "crumbly feta cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava-griddle over medium heat.",
+    "Brush the Romano peppers with olive oil and season with salt and black pepper.",
+    "Grill the peppers for 5 minutes on each side, until the skin is blistered and charred.",
+    "Remove the peppers from the grill and let them cool.",
+    "Peel the peppers and slice them into thin strips.",
+    "In a small bowl, mix together the ferment-kimchi, garlic, and lemon juice.",
+    "Brush the pita bread slices with olive oil and grill for 1 minute on each side.",
+    "Assemble the souvlaki by placing a few slices of the grilled pepper on each pita bread slice, followed by a spoonful of the kimchi mixture.",
+    "Top with crumbly feta cheese if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "greek-food",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "warm-springy-greek-romano-pepper-souvlaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-springy-greek-romano-pepper-souvlaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:07:47Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "romano pepper",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "romano pepper",
+    "descriptor": "Warm Springy",
+    "dishForm": "Souvlaki"
+  }
+}
