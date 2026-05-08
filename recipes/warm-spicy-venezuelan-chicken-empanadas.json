@@ -1,0 +1,101 @@
+{
+  "title": "Warm Spicy Venezuelan Chicken Empanadas",
+  "description": "A spicy and velvety Venezuelan dish featuring chicken and khus khus, with a double fry method similar to KFC, and sugar free friendly ingredients.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "khus khus",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees.",
+    "In a blender or food processor, blend the onion, garlic, cumin, paprika, salt, and black pepper until well combined.",
+    "Add the blended mixture to the chicken breast and mix until the chicken is well coated.",
+    "Add the khus khus to the chicken mixture and mix until well combined.",
+    "Roll out the empanada dough and cut out circles of dough.",
+    "Place a tablespoon of the chicken mixture in the center of each dough circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Double fry the empanadas by frying them at 350 degrees for 2 minutes, then increasing the heat to 375 degrees and frying for an additional 2 minutes.",
+    "Remove the empanadas from the oil and place them on a paper towel lined plate to drain excess oil.",
+    "Serve the empanadas warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "double-fry",
+    "empanadas",
+    "latin-american",
+    "spicy-food",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "warm-spicy-venezuelan-chicken-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-venezuelan-chicken-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:21:39Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "khus khus",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Empanadas"
+  }
+}
