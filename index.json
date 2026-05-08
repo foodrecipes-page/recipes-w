@@ -3221,6 +3221,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spicy-algerian-vegetable-tagine",
+    "title": "Warm Spicy Algerian Vegetable Tagine",
+    "tags": [
+      "comfort-food",
+      "north-african",
+      "one-pot",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spicy-australian-chicken-skewers",
     "title": "Warm Spicy Australian Chicken Skewers",
     "tags": [
