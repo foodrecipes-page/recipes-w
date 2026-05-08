@@ -1,0 +1,93 @@
+{
+  "title": "Warm White Italian Sauerkraut Cannoli",
+  "description": "A unique Italian dish featuring white sauerkraut in a cannoli form, cooked in a tandoor clay pot, perfect for a rainy day. This recipe is onion and garlic free, making it suitable for those with sensitivities.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cannoli shells",
+      "amount": "12 shells"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the white sauerkraut, ricotta cheese, and grana padano cheese, mixing well.",
+    "Add the olive oil, salt, and black pepper to the bowl and mix until the sauerkraut mixture is well coated.",
+    "Stuff each cannoli shell with the sauerkraut mixture, filling to the top.",
+    "Place the stuffed cannoli shells in the preheated tandoor clay pot, leaving space between each shell.",
+    "Cook the cannoli for 20 minutes, or until the shells are crispy and the filling is warm.",
+    "Remove the cannoli from the pot and sprinkle with chopped fresh parsley.",
+    "Serve the warm white Italian sauerkraut cannoli immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "italian-food",
+    "one-pot",
+    "vegetarian-recipes",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "warm-white-italian-sauerkraut-cannoli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-white-italian-sauerkraut-cannoli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:55:18Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "fold",
+    "primaryIngredient": "white sauerkraut",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "sauerkraut",
+    "descriptor": "Warm White",
+    "dishForm": "Cannoli"
+  }
+}
