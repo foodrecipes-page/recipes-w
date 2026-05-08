@@ -3414,6 +3414,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-turkish-goat-doner-kebab",
+    "title": "Warm Turkish Goat Doner Kebab",
+    "tags": [
+      "flambe",
+      "goat-meat",
+      "halal-friendly",
+      "kebab-doner",
+      "middle-eastern",
+      "turkish-food"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-ukrainian-beef-roast",
     "title": "Warm Ukrainian Beef Roast",
     "tags": [
