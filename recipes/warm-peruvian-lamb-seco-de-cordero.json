@@ -1,0 +1,100 @@
+{
+  "title": "Warm Peruvian Lamb Seco De Cordero",
+  "description": "A malty and snappy Peruvian dish featuring vanilla sugar, perfect for a date night, with a vegan friendly alternative, this seco de cordero is a must try, the deglaze fond adds a rich flavor to the dish",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "or vegan alternative such as jackfruit"
+    },
+    {
+      "name": "vanilla sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb shoulder with vanilla sugar, garlic, and ginger.",
+    "Heat a large dutch oven over medium high heat and sear the lamb shoulder until browned on all sides.",
+    "Remove the lamb from the pot and set aside, then add the soy sauce, red wine, and beef broth to the pot, scraping up any browned bits from the bottom.",
+    "Return the lamb to the pot and bring the liquid to a boil, then cover the pot and transfer to the preheated oven.",
+    "Braise the lamb for 2.5 hours, or until tender, then add the potatoes, carrots, and peas to the pot.",
+    "Continue to braise for an additional 30 minutes, or until the vegetables are tender.",
+    "Remove the pot from the oven and let it cool slightly, then serve the lamb and vegetables with the rich deglaze fond spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "lamb-recipes",
+    "one-pot",
+    "peruvian-cuisine",
+    "slow-cooker",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 70
+  },
+  "slug": "warm-peruvian-lamb-seco-de-cordero",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:31:12Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "vanilla sugar",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Seco De Cordero"
+  }
+}
