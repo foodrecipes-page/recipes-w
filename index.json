@@ -3697,6 +3697,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-sweet-canadian-almond-casserole",
+    "title": "Warm Sweet Canadian Almond Casserole",
+    "tags": [
+      "almond-based",
+      "canadian-dessert",
+      "comfort-food",
+      "fodmap-friendly",
+      "gluten-free",
+      "winter-treat"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-sweet-malaysian-potatoes-casserole",
     "title": "Warm Sweet Malaysian Potatoes Casserole",
     "tags": [
@@ -4784,6 +4799,20 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 150,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-spiced-dutch-apricot-flatbread",
+    "title": "Warmly Spiced Dutch Apricot Flatbread",
+    "tags": [
+      "apricot-recipes",
+      "dutch-cuisine",
+      "homemade-bread",
+      "spiced-bread",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {
