@@ -1,0 +1,102 @@
+{
+  "title": "Warm Peppery French Tomato Tarte Tatin",
+  "description": "A post-workout French dish inspired by the flavors of Lyon, featuring san marzano tomatoes and a nut-free shio koji cure.",
+  "cuisine": "french",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "San Marzano tomatoes (500g)",
+      "amount": "2",
+      "notes": "cored and halved"
+    },
+    {
+      "name": "Shio koji cure (1% salt solution)",
+      "amount": "50ml",
+      "notes": "rehydrated"
+    },
+    {
+      "name": "Coarse black pepper",
+      "amount": "2tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh thyme (5 sprigs)",
+      "amount": "5",
+      "notes": "leaves only"
+    },
+    {
+      "name": "Unsalted butter (115g)",
+      "amount": "1",
+      "notes": "softened"
+    },
+    {
+      "name": "All-purpose flour (50g)",
+      "amount": "1/2",
+      "notes": "for pastry"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1/4cup",
+      "notes": "to make pastry"
+    }
+  ],
+  "instructions": [
+    "Combine rehydrated shio koji cure, coarse black pepper, minced garlic, and thyme leaves in a bowl.",
+    "In a separate bowl, whisk together sugar and salt. Stir in softened butter until well combined.",
+    "Add the flour mixture to the bowl with the shio koji cure mixture and stir until just combined.",
+    "In a well-floured surface, roll out the warm water and knead the dough until smooth and pliable.",
+    "Transfer the dough to a lightly floured surface and roll out to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 10-inch (25cm) kazan cauldron or tarte tatin dish.",
+    "Arrange the halved San Marzano tomatoes on top of the dough in a concentric circle pattern.",
+    "Dollop the shio koji cure mixture over the tomatoes, leaving a 1-inch border around the edges.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Bake in a preheated oven at 400°F (200°C) for 35-40 minutes, or until the crust is golden brown and the filling is bubbly.",
+    "Remove from the oven and let cool for 5-7 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "french",
+    "lyon",
+    "nut-free",
+    "one-pan",
+    "post-workout",
+    "shio-koji",
+    "tarte-tatin"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "warm-peppery-french-tomato-tarte-tatin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-peppery-french-tomato-tarte-tatin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:46:05Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "san-marzano-tomato",
+    "diet": "nut-free",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Tomato",
+    "descriptor": "Warm Peppery",
+    "dishForm": "Tarte Tatin"
+  }
+}
