@@ -1,0 +1,102 @@
+{
+  "title": "Wholesome Algerian White Bread Bake",
+  "description": "A pungent, shaggy, kid-friendly Algerian dish featuring white bread mix, salt-bake, and high-protein ingredients.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white bread mix",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "feta cheese crumbles",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the white bread mix, water, salt, and olive oil.",
+    "Mix the dough until it forms a sticky ball.",
+    "Knead the dough for 5 minutes until it becomes smooth.",
+    "Roll out the dough into a rectangle and spread the flaxseed meal evenly over it.",
+    "Drizzle the honey over the flaxseed meal.",
+    "Crack the egg into the dough and mix it in.",
+    "Sprinkle the chopped parsley and cilantro over the dough.",
+    "Bake the bread for 25 minutes or until it's golden brown.",
+    "Remove the bread from the oven and crumble the feta cheese over it.",
+    "Let the bread cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "breakfast-option",
+    "easy-snack",
+    "high-protein",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "wholesome-algerian-white-bread-mix-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-algerian-white-bread-mix-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:43:32Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "salt-bake",
+    "primaryIngredient": "white bread mix",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "white bread mix",
+    "descriptor": "Wholesome",
+    "dishForm": "Bake"
+  }
+}
