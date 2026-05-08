@@ -1,0 +1,98 @@
+{
+  "title": "Warmly Spiced American Beef Bowl",
+  "description": "A savory and nostalgic American dish featuring red chilli powder and ferment, served in a Korean brass bowl, with a low-glycemic-friendly twist.",
+  "cuisine": "American",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grass-fed ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "red chilli powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fermented kimchi",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, heat the sesame oil over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the red chilli powder, coconut aminos, salt, and black pepper to the skillet and stir to combine.",
+    "Add the chopped kimchi to the skillet and stir to combine.",
+    "Transfer the skillet contents to a Korean brass bowl.",
+    "Top the beef mixture with cauliflower rice and green onions.",
+    "Bake the bowl in the preheated oven for 20 minutes.",
+    "Remove the bowl from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "korean-inspired",
+    "low-glycemic",
+    "one-bowl",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "warmly-spiced-american-beef-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-american-beef-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:59:47Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "ferment",
+    "primaryIngredient": "red chilli powder",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "beef",
+    "descriptor": "Warmly Spiced",
+    "dishForm": "Bowl"
+  }
+}
