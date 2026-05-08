@@ -1,0 +1,104 @@
+{
+  "title": "Warm Earthy Portuguese Minced Beef Stir Fry",
+  "description": "A light and energizing Portuguese dish featuring minced beef and stir fried with earthy ingredients, perfect for a weeknight dinner",
+  "cuisine": "Portuguese",
+  "diet": [
+    "plant-based-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced beef",
+      "amount": "500g",
+      "notes": "lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "spinach",
+      "amount": "100g",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat",
+    "Add the chopped onion and cook until translucent",
+    "Add the minced garlic and cook for 1 minute",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown",
+    "Add the minced beef and cook until browned, breaking it up into small pieces as it cooks",
+    "Add the soy sauce, paprika, salt, and black pepper, and stir to combine",
+    "Reduce heat to medium low and simmer for 5 minutes",
+    "Stir in the fresh spinach and cook until wilted",
+    "Serve hot over rice or noodles"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy-dinner",
+    "minced-beef",
+    "one-pan",
+    "portuguese-cuisine",
+    "quick-meal",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-earthy-portuguese-minced-beef-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-earthy-portuguese-minced-beef-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:13:04Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "stir-fry",
+    "primaryIngredient": "minced beef",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "minced beef",
+    "descriptor": "Warm earthy",
+    "dishForm": "Stir fry"
+  }
+}
