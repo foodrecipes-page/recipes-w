@@ -1,0 +1,112 @@
+{
+  "title": "Warm Spiced Greek Lamb Stew",
+  "description": "A hearty and flavorful Greek dish featuring lamb, blackcurrant jam, and a blend of warming spices, simmered to perfection in a copper pot. This stew is not only delicious but also packed with anti-inflammatory properties.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "blackcurrant jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "0.5 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large copper pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, stirring constantly to prevent burning.",
+    "Add the lamb cubes and cook until they are browned on all sides, about 5 minutes.",
+    "Add the ground cumin, coriander, and turmeric, and stir to combine.",
+    "Add the blackcurrant jam, salt, and black pepper, and stir to combine.",
+    "Add 2 cups of water to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1.5 hours, or until the lamb is tender.",
+    "Remove the bay leaves and serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "greek-cuisine",
+    "lamb-recipes",
+    "one-pot",
+    "spicy",
+    "winter-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-spiced-greek-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spiced-greek-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:31:29Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Spiced",
+    "dishForm": "Stew"
+  }
+}

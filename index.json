@@ -3266,6 +3266,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spiced-greek-lamb-stew",
+    "title": "Warm Spiced Greek Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "greek-cuisine",
+      "lamb-recipes",
+      "one-pot",
+      "spicy",
+      "winter-stew"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 120,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spiced-kebab-turmeric-gratin",
     "title": "Warm Spiced Kebab Turmeric Gratin",
     "tags": [
@@ -3420,6 +3435,20 @@
       "seafood",
       "spicy",
       "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-malaysian-papelon-curry",
+    "title": "Warm Spicy Malaysian Papelon Curry",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "low-glycemic",
+      "malaysian-cuisine",
+      "one-pot"
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 40,

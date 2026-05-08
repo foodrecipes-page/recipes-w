@@ -1,0 +1,101 @@
+{
+  "title": "Warm Spicy Malaysian Papelon Curry",
+  "description": "A funky and chewy Malaysian dish featuring papelon, perfect for a sick day, with a mirepoix base and low glycemic friendly ingredients.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "papelon",
+      "amount": "1 cup",
+      "notes": "dried and shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium heat.",
+    "Add the chopped onion, carrot, and celery and cook until the vegetables are tender.",
+    "Add the curry powder, salt, black pepper, and cayenne pepper and cook for 1 minute.",
+    "Add the papelon and cook for 2 minutes.",
+    "Add the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the curry for 20 minutes.",
+    "Serve the curry hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-glycemic",
+    "malaysian-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "warm-spicy-malaysian-papelon-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-malaysian-papelon-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:31:33Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "papelon",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "papelon",
+    "descriptor": "Warm spicy",
+    "dishForm": "Curry"
+  }
+}
