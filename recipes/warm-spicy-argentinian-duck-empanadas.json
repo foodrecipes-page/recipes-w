@@ -1,0 +1,104 @@
+{
+  "title": "Warm Spicy Argentinian Duck Empanadas",
+  "description": "A Jain-friendly Argentinian dish featuring duck sauce and double-rise bread, perfect for a midnight craving. These empanadas are filled with a jammy and bouncy duck filling.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for the double rise bread dough"
+    },
+    {
+      "name": "duck sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "for the double rise bread dough"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, and a pinch of salt to make the double rise bread dough.",
+    "Gradually add warm water to the dry ingredients and knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pan, heat the vegetable oil over medium heat and saute the chopped onion and minced garlic until they are softened.",
+    "Add the duck sauce, cumin, paprika, salt, and black pepper to the pan and stir well to combine.",
+    "Punch down the risen dough and divide it into 8 equal pieces.",
+    "Roll out each piece of dough into a thin circle and place a tablespoon of the duck filling in the center of each circle.",
+    "Fold the dough over the filling to form a half moon shape and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little water and bake them in the preheated oven for 20 minutes, or until they are golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "duck-recipes",
+    "empanadas",
+    "jain-friendly",
+    "midnight-cravings",
+    "snack-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "warm-spicy-argentinian-duck-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-argentinian-duck-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:16:52Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "duck sauce",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "duck",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Empanadas"
+  }
+}
