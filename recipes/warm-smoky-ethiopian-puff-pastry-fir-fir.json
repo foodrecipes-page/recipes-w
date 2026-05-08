@@ -1,0 +1,106 @@
+{
+  "title": "Warm Smoky Ethiopian Puff Pastry Fir Fir",
+  "description": "A smoky, shaggy, kid-friendly Ethiopian dish featuring puff pastry, double-fry-KFC style, lacto-vegetarian-friendly, in a fir-fir form, cooked in a robata-grill vessel.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry to a thickness of about 1/8 inch.",
+    "Cut the puff pastry into 1-inch wide strips.",
+    "Heat 1 cup of vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Double-fry the puff pastry strips, first frying at 325 degrees Fahrenheit for 2 minutes, then increasing the heat to 375 degrees Fahrenheit and frying for an additional 2-3 minutes, until golden brown.",
+    "In a separate pan, heat 1 tablespoon of vegetable oil over medium heat and saute the chopped onion and minced garlic until softened.",
+    "Add the berbere spice, smoked paprika, salt, and black pepper to the pan and stir to combine.",
+    "Add the crumbled feta cheese to the pan and stir until melted and well combined.",
+    "Add the cooked puff pastry strips to the pan and stir to combine with the cheese and spice mixture.",
+    "Transfer the mixture to the robata-grill and cook for 2-3 minutes, until heated through and slightly charred.",
+    "Garnish with chopped scallions and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "lacto-vegetarian",
+    "puff-pastry",
+    "robata-grill",
+    "smoky-flavor",
+    "snack-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 24
+  },
+  "slug": "warm-smoky-ethiopian-puff-pastry-fir-fir",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-ethiopian-puff-pastry-fir-fir",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:19:07Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "puff pastry",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "puff pastry",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Fir Fir"
+  }
+}
