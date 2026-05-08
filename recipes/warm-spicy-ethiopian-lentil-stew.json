@@ -1,0 +1,100 @@
+{
+  "title": "Warm Spicy Ethiopian Lentil Stew",
+  "description": "A spicy and aerated Ethiopian dish featuring lentils, this stew is kid-friendly and Buddhist-temple-friendly, made with bicarbonate of soda for a unique twist, this recipe is a hearty and comforting meal for any occasion",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bicarbonate of soda",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat",
+    "Add the onion and cook until softened, about 5 minutes",
+    "Add the garlic and ginger and cook for 1 minute",
+    "Stir in the berbere spice and cook for 1 minute",
+    "Add the lentils, bicarbonate of soda, salt, and water, and bring to a boil",
+    "Reduce the heat to low and simmer, covered, for 30 minutes",
+    "Uncover and simmer for an additional 10 minutes, or until the lentils are tender",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pot",
+    "spicy",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "warm-spicy-ethiopian-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-ethiopian-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:21:51Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "braise",
+    "primaryIngredient": "bicarbonate of soda",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Stew"
+  }
+}
