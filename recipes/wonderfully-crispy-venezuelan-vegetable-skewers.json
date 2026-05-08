@@ -1,0 +1,107 @@
+{
+  "title": "Venezuelan Vegetable Skewers",
+  "description": "A crispy and herbal ovo-vegetarian friendly dish featuring galangal paste, katsuramuki-cut vegetables, and a salt block vessel, showcasing the flavors of Venezuela. This recipe is perfect for a dinner party or special occasion.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "galangal paste",
+      "amount": "2 tablespoons",
+      "notes": "found in most asian markets"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1 cup",
+      "notes": "plain or seasoned"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together galangal paste, olive oil, salt, and black pepper.",
+    "Add the katsuramuki-cut vegetables to the bowl and toss to coat with the galangal paste mixture.",
+    "Thread the vegetables onto skewers, leaving a small space between each piece.",
+    "Brush the egg wash over the vegetables to help the bread crumbs adhere.",
+    "Roll the skewers in the bread crumbs to coat, pressing the crumbs onto the vegetables to help them stick.",
+    "Heat a salt block vessel over medium-high heat and add the skewers.",
+    "Cook the skewers for 3-4 minutes on each side, or until crispy and golden brown.",
+    "Transfer the skewers to a baking sheet and bake in the preheated oven for an additional 10-12 minutes, or until tender.",
+    "Serve the skewers hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "dinner-party",
+    "herbal",
+    "ovo-vegetarian",
+    "special-occasion",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "wonderfully-crispy-venezuelan-vegetable-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wonderfully-crispy-venezuelan-vegetable-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:00:37Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "galangal paste",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "vegetables",
+    "descriptor": "Wonderfully crispy",
+    "dishForm": "Skewers"
+  }
+}
