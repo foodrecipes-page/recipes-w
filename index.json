@@ -3863,6 +3863,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-smoky-chinese-mushroom-stew",
+    "title": "Warm Smoky Chinese Mushroom Stew",
+    "tags": [
+      "claypot",
+      "comfort-food",
+      "mushroom-based",
+      "one-pot",
+      "smoky",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-smoky-dutch-ancho-chilli-stew",
     "title": "Warm Smoky Dutch Ancho Chilli Stew",
     "tags": [

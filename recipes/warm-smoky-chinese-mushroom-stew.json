@@ -1,0 +1,107 @@
+{
+  "title": "Warm Smoky Chinese Mushroom Stew",
+  "description": "A herbal and velvety Chinese dish featuring mixed spices and smoky flavors, cooked to perfection in a claypot, this stew is an energizing and comforting meal for any time of day. It combines the earthy flavors of mixed mushrooms with the depth of smoky spices.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mixed mushrooms",
+      "amount": "2 cups",
+      "notes": "such as shiitake and cremini"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chinese five spice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a claypot over medium heat.",
+    "Add the minced garlic and grated ginger and stir fry until fragrant.",
+    "Add the mixed mushrooms and cook until they release their liquid and start to brown.",
+    "Add the smoked paprika, Chinese five spice, soy sauce, salt, and black pepper, and stir to combine.",
+    "Pour in 2 cups of water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the sesame oil and chopped scallions.",
+    "Serve the stew hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "claypot",
+    "comfort-food",
+    "mushroom-based",
+    "one-pot",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "warm-smoky-chinese-mushroom-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-chinese-mushroom-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:29:03Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "smoke-cold",
+    "primaryIngredient": "mixed spice",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Stew"
+  }
+}
