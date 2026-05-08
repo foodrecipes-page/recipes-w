@@ -1,0 +1,92 @@
+{
+  "title": "Winey Crispy Indian Salmon Biryani",
+  "description": "A low-calorie, lazy-sunday Indian dish featuring salmon, with a winey and crispy twist, made with fry-grind-rice-khao-khua method.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4 pieces",
+      "notes": "wild caught, skin removed"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Grind the onion, garlic, and ginger into a smooth paste.",
+    "Heat oil in a pan and fry the cumin seeds until fragrant.",
+    "Add the ground paste and cook until the raw smell disappears.",
+    "Add the coriander powder and cook for 1 minute.",
+    "Add the basmati rice and cook until it is lightly toasted.",
+    "Add the white wine and cook until the liquid is almost completely absorbed.",
+    "Place the salmon fillets on top of the rice mixture and bake for 12 minutes.",
+    "Serve hot, garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "low-calorie",
+    "one-pan",
+    "seafood",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "winey-crispy-indian-salmon-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-crispy-indian-salmon-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:22:45Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "salmon",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "salmon",
+    "descriptor": "Winey Crispy",
+    "dishForm": "Biryani"
+  }
+}

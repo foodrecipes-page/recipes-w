@@ -2420,6 +2420,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-gooey-syrian-flour-pilaf",
+    "title": "Syrian Flour Pilaf",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "one-pan",
+      "sugar-free",
+      "syrian",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-gooey-tunisian-date-tagine",
     "title": "Warm Gooey Tunisian Date Tagine",
     "tags": [
@@ -3901,6 +3916,22 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-russian-comte-pilaf",
+    "title": "Warm Russian Comte Pilaf",
+    "tags": [
+      "breakfast",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "russian-cuisine",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -11178,6 +11209,20 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-crispy-indian-salmon-biryani",
+    "title": "Winey Crispy Indian Salmon Biryani",
+    "tags": [
+      "indian-cuisine",
+      "low-calorie",
+      "one-pan",
+      "seafood",
+      "wine-based"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {

@@ -1,0 +1,101 @@
+{
+  "title": "Warm Russian Comte Pilaf",
+  "description": "A creamy, bitter, and nutritious Russian-inspired dish featuring Comte cheese, served warm. Perfect for meal prep, sugar-free-friendly, and easily customizable.",
+  "cuisine": "Russian",
+  "diet": [
+    "sugar-free",
+    "gluten-free",
+    "lactose-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Comte Cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken Stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a large saucepan over medium heat.",
+    "In a separate pan, toast the rice over medium heat for 2-3 minutes.",
+    "Add the chopped onion to the saucepan with the melted butter and saut\u00061f until translucent.",
+    "Add the garlic to the saucepan and saut\u00061f for 1 minute.",
+    "Add the toasted rice to the saucepan and stir to combine.",
+    "Add the chicken stock to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover the saucepan, and simmer for 20 minutes.",
+    "Off the heat, add the grated Comte cheese, chopped dill, and lemon juice to the saucepan.",
+    "Stir until the cheese has melted and the mixture is well combined.",
+    "Use a spoon to shape the pilaf into small balls, about 1-inch in diameter.",
+    "Place the pilaf balls on a baking sheet lined with parchment paper and refrigerate for at least 30 minutes.",
+    "Serve the Warm Russian Comte Pilaf chilled or at room temperature.",
+    "Avoid spherification if you don't have a spherification kit."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "russian-cuisine",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "warm-russian-comte-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-russian-comte-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:23:23Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "spherify",
+    "primaryIngredient": "comte",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Comte",
+    "descriptor": "Warm",
+    "dishForm": "Pilaf"
+  }
+}
