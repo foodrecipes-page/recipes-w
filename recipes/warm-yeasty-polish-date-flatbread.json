@@ -1,0 +1,94 @@
+{
+  "title": "Warm Yeasty Polish Date Flatbread",
+  "description": "A traditional Polish flatbread featuring yeasty dough, crispy crust, and sweet pitted dates, perfect for a hangover cure or a satisfying snack. This recipe incorporates anti-inflammatory friendly ingredients like dates and beurre-monte.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pitted dates",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, salt, and sugar.",
+    "Gradually add the warm water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Punch down the dough and roll it out into a large rectangle.",
+    "Brush the dough with olive oil and sprinkle the chopped dates evenly over the surface.",
+    "Fold the dough in half lengthwise and brush the top with beurre-monte.",
+    "Bake the flatbread in the preheated oven for 20 minutes or until it is golden brown and crispy.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "date-based",
+    "hangover-cure",
+    "polish",
+    "snack",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "warm-yeasty-polish-date-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-yeasty-polish-date-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:35:09Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "beurre-monte",
+    "primaryIngredient": "pitted dates",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "dates",
+    "descriptor": "Warm Yeasty",
+    "dishForm": "Flatbread"
+  }
+}
