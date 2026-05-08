@@ -1,0 +1,104 @@
+{
+  "title": "Warmly Baked Chinese Beef Skewers",
+  "description": "A fermented, crispy Chinese dish featuring mixed beef cuts, salt-bake, and dash-friendly seasonings, perfect for a date night.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "beef belly",
+      "amount": "1/2 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fermented bean paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, Shaoxing wine, brown sugar, fermented bean paste, garlic, and ginger.",
+    "Add the beef pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated beef pieces onto skewers, leaving a small space between each piece.",
+    "Line a baking sheet with aluminum foil and spray with cooking spray.",
+    "Place the skewers on the baking sheet and sprinkle with salt and black pepper.",
+    "Bake the skewers for 20 minutes, or until cooked through.",
+    "Increase the oven temperature to broil and cook for an additional 2-3 minutes, or until crispy.",
+    "Remove the skewers from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "chinese-food",
+    "dairy-free",
+    "date-night",
+    "fermented-food",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "warmly-baked-chinese-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-baked-chinese-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:57:39Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "salt-bake",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "dash",
+    "region": "chaozhou",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "beef",
+    "descriptor": "Warmly baked",
+    "dishForm": "Skewers"
+  }
+}
