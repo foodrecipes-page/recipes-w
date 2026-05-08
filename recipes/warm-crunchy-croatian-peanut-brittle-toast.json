@@ -1,0 +1,78 @@
+{
+  "title": "Warm Crunchy Croatian Peanut Brittle Toast",
+  "description": "A nostalgic Croatian dish featuring peanut brittle, toast, and a touch of saltiness. Perfect as a snack or dessert.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "peanut brittle",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 sprigs",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your molcajete over medium heat on the stovetop.",
+    "Place the slices of bread inside the preheated molcajete and toast for 2 minutes on each side.",
+    "Remove the toasted bread from the molcajete and place it on a plate.",
+    "Melt the unsalted butter in the molcajete over low heat.",
+    "Add the peanut brittle to the molcajete and stir until it's evenly coated with the melted butter.",
+    " Sprinkle the peanut brittle mixture over the toasted bread.",
+    "Season with kosher salt to taste.",
+    "Garnish with fresh parsley if desired.",
+    "Serve the warm toast immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "easy-snack",
+    "kosher-friendly",
+    "one-pan",
+    "peanut-brittle",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "warm-crunchy-croatian-peanut-brittle-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crunchy-croatian-peanut-brittle-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:10:02Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "peanut brittle",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "peanut brittle",
+    "descriptor": "warm crunchy",
+    "dishForm": "Toast"
+  }
+}
