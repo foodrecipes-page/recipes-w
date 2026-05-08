@@ -1,0 +1,93 @@
+{
+  "title": "Warm Smoky Venezuelan Egg Rolls Spring Rolls",
+  "description": "A sour and springy Venezuelan dish featuring egg rolls with a smoke hot flavor, perfect for those who are onion and garlic friendly",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "egg roll wrappers",
+      "amount": "12 sheets",
+      "notes": "found in the frozen food section"
+    },
+    {
+      "name": "shredded chicken",
+      "amount": "1 cup",
+      "notes": "cooked and diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the shredded chicken, smoked paprika, lime juice, chopped cilantro, salt, and pepper.",
+    "Lay an egg roll wrapper on a flat surface and place about 1 tablespoon of the chicken mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with a small amount of water and fold the bottom half up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat until it reaches 350 degrees Fahrenheit.",
+    "Carefully place a few of the egg rolls in the hot oil and fry until golden brown, about 2-3 minutes on each side.",
+    "Remove the egg rolls from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the egg rolls warm, garnished with additional chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "comfort-food",
+    "latin-american",
+    "smoky-flavor",
+    "snack-time"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "warm-smoky-venezuelan-egg-rolls-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-venezuelan-egg-rolls-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:13:26Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "smoke-hot",
+    "primaryIngredient": "egg rolls",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "egg rolls",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Spring-Rolls"
+  }
+}

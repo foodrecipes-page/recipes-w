@@ -651,6 +651,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-creamy-japanese-red-bean-mochi",
+    "title": "Warm Creamy Japanese Red Bean Mochi",
+    "tags": [
+      "comfort-food",
+      "japanese-desserts",
+      "kosher-friendly",
+      "romantic-treats",
+      "sweet-tooth"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crisp-brazilian-bread-toast",
     "title": "Warm Crisp Brazilian Bread Toast",
     "tags": [
@@ -4116,6 +4130,20 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 32,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-smoky-venezuelan-egg-rolls-spring-rolls",
+    "title": "Warm Smoky Venezuelan Egg Rolls Spring Rolls",
+    "tags": [
+      "appetizer",
+      "comfort-food",
+      "latin-american",
+      "smoky-flavor",
+      "snack-time"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {

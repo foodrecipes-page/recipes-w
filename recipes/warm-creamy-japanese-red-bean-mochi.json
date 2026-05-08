@@ -1,0 +1,88 @@
+{
+  "title": "Warm Creamy Japanese Red Bean Mochi",
+  "description": "A traditional Japanese dessert featuring sweet red bean paste and creamy mochi, perfect for a romantic evening",
+  "cuisine": "Japanese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Japanese red bean paste",
+      "amount": "1 cup",
+      "notes": "also known as anko"
+    },
+    {
+      "name": "mochi flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine the water and mochi flour, whisking to avoid lumps.",
+    "Cook over medium heat, stirring constantly, until the mixture thickens and forms a sticky dough.",
+    "Remove the dough from the heat and let it cool slightly.",
+    "Knead the dough until it becomes pliable and easy to shape.",
+    "Divide the dough into small balls, about 1 inch in diameter.",
+    "Flatten each ball into a disk shape.",
+    "Place a small spoonful of red bean paste in the center of each disk.",
+    "Fold the dough over the filling, forming a triangle or square shape, and press the edges together to seal.",
+    "In a large skillet, melt the butter over medium heat and saute the mochi until they are golden brown on all sides.",
+    "Drizzle the maple syrup over the mochi and serve warm with a dollop of heavy cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "japanese-desserts",
+    "kosher-friendly",
+    "romantic-treats",
+    "sweet-tooth"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "warm-creamy-japanese-red-bean-mochi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-creamy-japanese-red-bean-mochi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:13:32Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "saute",
+    "primaryIngredient": "maple syrup",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "red bean",
+    "descriptor": "Warm Creamy",
+    "dishForm": "Mochi"
+  }
+}
