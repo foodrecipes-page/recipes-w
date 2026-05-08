@@ -1,0 +1,105 @@
+{
+  "title": "Warm Pillowy Uruguayan Vegetable Curry",
+  "description": "This ovo-vegetarian friendly Uruguayan dish is a cultured and comforting weeknight meal featuring green curry paste and flambe techniques, with a pillowy texture from the addition of eggs and coconut milk.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for sauteing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "green curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the green curry paste and cook for 1 minute, stirring constantly.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Add the sliced red bell pepper and zucchini, and cook until the vegetables are tender, about 5 minutes.",
+    "In a small bowl, whisk together the eggs and a pinch of salt, then pour the egg mixture over the vegetables in the skillet.",
+    "Use a spatula to gently scramble the eggs with the vegetables, then push the mixture to one side of the skillet.",
+    "Add a small amount of coconut oil to the empty side of the skillet, then add a small amount of green curry paste and ignite the mixture to flambe the curry paste, cooking for 30 seconds.",
+    "Stir the flambeed curry paste into the egg and vegetable mixture, then pour in the coconut milk and stir to combine.",
+    "Reduce the heat to low and simmer the curry for 10 minutes, stirring occasionally, until the sauce has thickened and the eggs are cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "ovo-vegetarian",
+    "uruguayan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 28
+  },
+  "slug": "warm-pillowy-uruguayan-vegetable-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-pillowy-uruguayan-vegetable-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:14:30Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "flambe",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "vegetables",
+    "descriptor": "warm pillowy",
+    "dishForm": "Curry"
+  }
+}
