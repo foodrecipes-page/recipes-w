@@ -1,0 +1,94 @@
+{
+  "title": "Warm Syrian Ground Beef Flatbread",
+  "description": "A fermented, crunchy, and comforting Syrian dish featuring ground beef, perfect for a flexitarian-friendly meal, cooked on a comal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, and salt.",
+    "Gradually add the water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rest in a warm place for 1 hour.",
+    "Preheat the comal over medium heat.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Cook the flatbread on the comal for 1-2 minutes on each side, until it is lightly browned and crispy.",
+    "In a separate pan, cook the ground beef over medium-high heat, breaking it up with a spoon as it cooks, until it is no longer pink.",
+    "Add the chopped onion and sumac to the cooked ground beef and stir to combine.",
+    "Assemble the flatbread by spreading a quarter of the ground beef mixture onto each flatbread, leaving a 1 inch border around the edges."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "warm-syrian-ground-beef-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-syrian-ground-beef-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:06:16Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "rest",
+    "primaryIngredient": "ground beef",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "ground beef",
+    "descriptor": "Warm Crunchy",
+    "dishForm": "Flatbread"
+  }
+}

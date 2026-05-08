@@ -1,0 +1,100 @@
+{
+  "title": "Warmly Wrapped Vietnamese Chicken Wings Com Tam",
+  "description": "Funky and tender Vietnamese dish featuring chicken wings, served with com tam, a popular Vietnamese street food, this lacto-vegetarian-friendly version is a twist on the classic.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "com tam",
+      "amount": "4 cups",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fried shallots",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together fish sauce, lime juice, and brown sugar.",
+    "Add the chicken wings to the bowl and toss to coat with the marinade.",
+    "Line a baking sheet with parchment paper and arrange the chicken wings in a single layer.",
+    "Bake the chicken wings for 25 minutes or until cooked through.",
+    "While the chicken is baking, prepare the com tam according to package instructions.",
+    "In a small bowl, mix together chopped scallions and fried shallots.",
+    "Once the chicken is done, wrap each wing in a piece of com tam and top with shredded mozzarella cheese and the scallion-shallot mixture.",
+    "Return the wrapped chicken wings to the oven and bake for an additional 5 minutes or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "lacto-vegetarian",
+    "one-pan",
+    "vietnamese-street-food",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "warmly-wrapped-vietnamese-chicken-wings-com-tam",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-wrapped-vietnamese-chicken-wings-com-tam",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:05:44Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "en-croute",
+    "primaryIngredient": "chicken wings",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken wings",
+    "descriptor": "Warmly Wrapped",
+    "dishForm": "Com Tam"
+  }
+}

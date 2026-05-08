@@ -4007,6 +4007,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-syrian-ground-beef-flatbread",
+    "title": "Warm Syrian Ground Beef Flatbread",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-syrian-lamb-pilaf",
     "title": "Warm Syrian Lamb Pilaf",
     "tags": [
@@ -5366,6 +5380,20 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 70,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-wrapped-vietnamese-chicken-wings-com-tam",
+    "title": "Warmly Wrapped Vietnamese Chicken Wings Com Tam",
+    "tags": [
+      "easy-dinner",
+      "lacto-vegetarian",
+      "one-pan",
+      "vietnamese-street-food",
+      "weeknight-meal"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
