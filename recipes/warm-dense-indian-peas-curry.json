@@ -1,0 +1,103 @@
+{
+  "title": "Warm Dense Indian Peas Curry",
+  "description": "A resinous and dense Indian dish featuring frozen peas and candy, perfect for a romantic evening, made in a fondue pot and suitable for vegans.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen peas",
+      "amount": "1 cup",
+      "notes": "thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "candy",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the fondue pot to 350 degrees Fahrenheit.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the thawed peas, crushed candy, coconut milk, tomato sauce, salt, and pepper, and stir well.",
+    "Bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "Reduce the heat to 300 degrees Fahrenheit and cook for an additional 10 minutes.",
+    "Serve the curry hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dense-curry",
+    "fondue-pot",
+    "indian-cuisine",
+    "pea-based",
+    "romantic-dinner",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-dense-indian-peas-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dense-indian-peas-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:42:07Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "candy",
+    "primaryIngredient": "frozen peas",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "peas",
+    "descriptor": "Warm Dense",
+    "dishForm": "Curry"
+  }
+}

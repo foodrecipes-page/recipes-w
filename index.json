@@ -1376,6 +1376,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-dense-indian-peas-curry",
+    "title": "Warm Dense Indian Peas Curry",
+    "tags": [
+      "dense-curry",
+      "fondue-pot",
+      "indian-cuisine",
+      "pea-based",
+      "romantic-dinner",
+      "vegan-friendly"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-dense-kenyan-fish-casserole",
     "title": "Warm Dense Kenyan Fish Casserole",
     "tags": [
