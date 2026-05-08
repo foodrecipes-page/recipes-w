@@ -1,0 +1,100 @@
+{
+  "title": "Warm Flaky Korean Udon Noodles Songpyeon",
+  "description": "Savory Korean dish featuring udon noodles and yuzu-cure, perfect for a pescatarian meal prep option, formed into songpyeon shapes.",
+  "cuisine": "Korean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried seaweed",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the udon noodles according to package instructions.",
+    "In a small bowl, whisk together yuzu juice, soy sauce, sesame oil, grated ginger, salt, and black pepper.",
+    "Drain the cooked noodles and toss with the yuzu sauce mixture until well coated.",
+    "Stir in dried seaweed, green onions, and toasted sesame seeds.",
+    "Knead the noodle mixture until it forms a cohesive dough.",
+    "Divide the dough into small pieces and shape into songpyeon forms.",
+    "Steam the songpyeon shapes for 10 minutes or until cooked through.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-cuisine",
+    "meal-prep",
+    "noodle-dish",
+    "pescatarian-friendly",
+    "songpyeon",
+    "yuzu-flavor"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "warm-flaky-korean-udon-noodles-songpyeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-flaky-korean-udon-noodles-songpyeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:42:52Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "udon noodles",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Udon Noodles",
+    "descriptor": "Warm Flaky",
+    "dishForm": "Songpyeon"
+  }
+}
