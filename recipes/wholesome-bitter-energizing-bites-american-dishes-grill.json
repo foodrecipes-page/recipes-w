@@ -1,0 +1,113 @@
+{
+  "title": "Bitter Energizing Bites",
+  "description": "A crumbly, energizing American dish perfect for a quick snack or light lunch. Featuring garlic granules and a pescatarian-friendly protein source.",
+  "cuisine": "American",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crushed nori seaweed sheets",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Glazed sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown rice flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic granules",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Canned salmon (drained and flaked)",
+      "amount": "6 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to 400°F (200°C).",
+    "Thread 4-6 pieces of salmon onto each bamboo skewer, leaving a little space between each piece.",
+    "Brush the skewers with olive oil and season with smoked paprika.",
+    "Thread a piece of nori seaweed sheet onto each skewer, pressing gently to adhere.",
+    "Dip the sesame seeds in a little water and sprinkle over the seaweed sheet.",
+    "Sprinkle garlic granules and grated ginger over the sesame seeds.",
+    "Place the skewers on the preheated grill and cook for 8-10 minutes, or until golden brown.",
+    "Remove from the grill and sprinkle with chopped scallions, lemon zest, and a pinch of brown rice flour.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "grilled",
+    "pescatarian",
+    "quick",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "wholesome-bitter-energizing-bites-american-dishes-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-bitter-energizing-bites-american-dishes-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:24:51Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "garlic granules",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "dishes",
+    "descriptor": "wholesome bitter energizing bites",
+    "dishForm": "grill"
+  }
+}
