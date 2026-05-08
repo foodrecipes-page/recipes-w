@@ -1,0 +1,103 @@
+{
+  "title": "Warmly Charred Mexican Shungiku Tacos",
+  "description": "A kid-friendly Mexican dish featuring charred shungiku, this recipe is nut-free and perfect for a weeknight dinner. The shungiku is broiled to bring out its natural sweetness and paired with crispy tacos.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shungiku",
+      "amount": "1 bunch",
+      "notes": "also known as chrysanthemum greens"
+    },
+    {
+      "name": "taco shells",
+      "amount": "12 shells"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "Rinse the shungiku and pat it dry with paper towels.",
+    "In a large bowl, toss the shungiku with olive oil, lime juice, salt, and pepper until it is evenly coated.",
+    "Spread the shungiku on a baking sheet and broil for 5 minutes, or until it is charred and slightly wilted.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium heat and saute the diced onion until it is translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute, stirring constantly to prevent burning.",
+    "Warm the taco shells according to the package instructions.",
+    "Assemble the tacos by spooning the charred shungiku, sauteed onion and garlic, and shredded cheese into the taco shells.",
+    "Top each taco with a dollop of sour cream and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "kid-friendly",
+    "mexican-food",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "warmly-charred-mexican-shungiku-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-charred-mexican-shungiku-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:44:36Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "broil",
+    "primaryIngredient": "shungiku",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "shungiku",
+    "descriptor": "Warmly charred",
+    "dishForm": "Tacos"
+  }
+}

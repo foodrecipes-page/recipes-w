@@ -3738,6 +3738,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-wok-seared-thai-morcilla-stir-fry",
+    "title": "Warm Wok-Seared Thai Morcilla Stir-fry",
+    "tags": [
+      "high-protein",
+      "morcilla",
+      "one-pan",
+      "thai",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-wonton-style-ukrainian-egg-tagine",
     "title": "Warm Wonton-Style Ukrainian Egg Tagine",
     "tags": [
@@ -3980,6 +3995,20 @@
       "weeknight"
     ],
     "cuisine": "Malaysian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-charred-mexican-shungiku-tacos",
+    "title": "Warmly Charred Mexican Shungiku Tacos",
+    "tags": [
+      "gluten-free",
+      "kid-friendly",
+      "mexican-food",
+      "vegetarian",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Mexican",
     "totalTimeMin": 35,
     "shard": "w"
   },

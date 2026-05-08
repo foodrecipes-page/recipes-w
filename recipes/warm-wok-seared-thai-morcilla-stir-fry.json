@@ -1,0 +1,113 @@
+{
+  "title": "Warm Wok-Seared Thai Morcilla Stir-fry",
+  "description": "A delicious and kid-friendly Thai dish featuring morcilla, bonito-shave, and a variety of vegetables. Serve immediately over steamed jasmine rice.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Morcilla (Spanish Blood Sausage)",
+      "amount": "400g",
+      "notes": " casings removed"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Shallot",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "Thai red chilies",
+      "amount": "2-3, sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetables (such as bell peppers, carrots, green beans)",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large kazak (cauldron) over medium-high heat.",
+    "Add the shallot and Thai red chilies and stir-fry until the shallot is translucent.",
+    "Add the garlic and ginger and stir-fry for 1 minute.",
+    "Add the morcilla and stir-fry, breaking it up with a spatula, until it is no longer pink.",
+    "Add the bonito flakes, fish sauce, and palm sugar and stir-fry for 1 minute.",
+    "Add the sliced vegetables and stir-fry until they are tender-crisp.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the stir-fry to a serving platter and garnish with chopped cilantro.",
+    "Serve immediately over steamed jasmine rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "morcilla",
+    "one-pan",
+    "thai",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "warm-wok-seared-thai-morcilla-stir-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wok-seared-thai-morcilla-stir-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:45:46Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "bonito-shave",
+    "primaryIngredient": "morcilla",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Morcilla",
+    "descriptor": "Warm, Wok-Seared",
+    "dishForm": "Stir-fry"
+  }
+}
