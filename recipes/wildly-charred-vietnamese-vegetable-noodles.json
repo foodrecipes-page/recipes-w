@@ -1,0 +1,105 @@
+{
+  "title": "Wildly Charred Vietnamese Vegetable Noodles",
+  "description": "A charred and shaggy Vietnamese dish featuring rosemary and namul blanch season, perfect for vegetarians, this wildly charred Vietnamese vegetable noodle dish is an energizing meal option.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Namul",
+      "amount": "1 cup",
+      "notes": "blanched and seasoned"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to package instructions.",
+    "In a large skillet, heat the vegetable oil over medium high heat.",
+    "Add the chopped rosemary to the skillet and cook for 1 minute, until fragrant.",
+    "Add the grated carrots, sliced zucchini, and sliced bell peppers to the skillet and cook for 5 minutes, until the vegetables are tender.",
+    "Add the blanched and seasoned namul to the skillet and cook for 2 minutes, until heated through.",
+    "Add the cooked noodles to the skillet and stir to combine with the vegetables and namul.",
+    "Season the noodle mixture with soy sauce, salt, and black pepper to taste.",
+    "Use a kitchen torch to char the noodle mixture, or place the skillet under the broiler for 2 minutes, until lightly charred.",
+    "Serve the wildly charred Vietnamese vegetable noodles hot, garnished with additional chopped rosemary if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charred-vegetables",
+    "high-fiber",
+    "one-pan",
+    "quick-meal",
+    "vegetarian-friendly",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "wildly-charred-vietnamese-vegetable-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-charred-vietnamese-vegetable-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:43:51Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "rosemary",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "vegetables",
+    "descriptor": "Wildly charred",
+    "dishForm": "Noodles"
+  }
+}
