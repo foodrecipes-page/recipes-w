@@ -1,0 +1,93 @@
+{
+  "title": "Warm Syrian Lamb Pilaf",
+  "description": "A hearty and comforting Syrian dish featuring jasmine rice, caramelized onions, and tender lamb, all cooked to perfection in a large tagliere vessel.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onions",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagliere vessel over medium heat.",
+    "Add the sliced onions and cook, stirring occasionally, until they are caramelized and golden brown.",
+    "Add the lamb pieces to the vessel and cook, stirring occasionally, until they are browned on all sides.",
+    "Add the cumin, paprika, salt, and black pepper to the vessel and stir to combine.",
+    "Add the jasmine rice to the vessel and stir to combine with the lamb and onions.",
+    "Add 4 cups of water to the vessel and bring to a boil.",
+    "Reduce the heat to low, cover the vessel, and simmer, stirring occasionally, until the rice is cooked and the liquid has been absorbed.",
+    "Remove the vessel from the heat and let it rest, covered, for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "lamb-recipes",
+    "middle-eastern",
+    "one-pot",
+    "rice-bowls"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "warm-syrian-lamb-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-syrian-lamb-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:28:16Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "caramelize",
+    "primaryIngredient": "jasmine rice",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Grassy",
+    "dishForm": "Pilaf"
+  }
+}
