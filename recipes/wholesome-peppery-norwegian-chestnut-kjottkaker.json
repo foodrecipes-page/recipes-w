@@ -1,0 +1,110 @@
+{
+  "title": "Norwegian Chestnut Kjøttkaker",
+  "description": "A traditional Norwegian festive dish featuring cooked chestnuts, served with a peppery twist. Perfect for a cozy dinner with family and friends.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-glycemic",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "500g"
+    },
+    {
+      "name": "Chestnuts",
+      "amount": "250g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "50g"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "25g"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "50g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "20g"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, 10g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large pan, heat 10g of butter over medium heat. Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for another minute, until fragrant.",
+    "In a large mixing bowl, combine the ground beef, cooked onion and garlic mixture, chestnuts, flour, breadcrumbs, egg, cheddar cheese, black pepper, and salt. Mix well with your hands until just combined.",
+    "Using your hands, shape the mixture into 8-10 oval-shaped patties.",
+    "Place the patties on a baking sheet lined with parchment paper, leaving about 1 inch (2.5 cm) of space between each patty.",
+    "Dot the top of each patty with the remaining 10g of butter.",
+    "Bake the patties in the preheated oven for 20-25 minutes, or until cooked through and lightly browned on the outside.",
+    "Remove the patties from the oven and garnish with chopped parsley.",
+    "Serve the Norwegian Chestnut Kjøttkaker hot, with your choice of sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner-ideas",
+    "festive",
+    "high-protein",
+    "main-course",
+    "meatballs",
+    "norwegian-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "wholesome-peppery-norwegian-chestnut-kjottkaker",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-peppery-norwegian-chestnut-kjottkaker",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:57:50Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "reduce",
+    "primaryIngredient": "cooked chestnut",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "chestnut",
+    "descriptor": "wholesome peppery",
+    "dishForm": "Kjøttkaker"
+  }
+}

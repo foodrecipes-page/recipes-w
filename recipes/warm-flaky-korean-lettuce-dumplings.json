@@ -1,0 +1,100 @@
+{
+  "title": "Warm Flaky Korean Lettuce Dumplings",
+  "description": "A rich and cozy Korean dish featuring lettuce, wok-hei, and Mediterranean-friendly flavors, wrapped in a warm flaky dough.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for the dough"
+    },
+    {
+      "name": "ice cold water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lettuce leaves",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine flour and ice cold water in a large mixing bowl to make the dough.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small balls and roll each ball into a thin circle.",
+    "Heat sesame oil in a large wok over medium high heat.",
+    "Add minced garlic and cook for 1 minute until fragrant.",
+    "Add chopped lettuce and green onions, and cook for 2 minutes until wilted.",
+    "Season with soy sauce, salt, and black pepper.",
+    "Place a tablespoon of the lettuce mixture in the center of each dough circle.",
+    "Fold the dough over the filling to form a half moon shape and press the edges to seal.",
+    "Cook the dumplings in the wok for 2 minutes on each side until golden brown.",
+    "Serve the dumplings warm with additional soy sauce and sesame oil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "asian-cuisine",
+    "dumplings",
+    "korean-food",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "warm-flaky-korean-lettuce-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-flaky-korean-lettuce-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:57:44Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "wok-hei",
+    "primaryIngredient": "lettuce",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "lettuce",
+    "descriptor": "Warm flaky",
+    "dishForm": "Dumplings"
+  }
+}
