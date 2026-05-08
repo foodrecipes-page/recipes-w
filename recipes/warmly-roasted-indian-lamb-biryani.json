@@ -1,0 +1,100 @@
+{
+  "title": "Warmly Roasted Indian Lamb Biryani",
+  "description": "A hearty and aromatic Indian dish featuring roasted lamb and Italian seasonings, cooked to perfection in a Dutch oven.",
+  "cuisine": "Indian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the lamb pieces with salt, black pepper, and Italian seasoning.",
+    "Roll out the puff pastry on a floured surface to a large rectangle.",
+    "Place the lamb pieces in the center of the pastry rectangle, leaving a 1 inch border around them.",
+    "Brush the edges of the pastry with ghee.",
+    "Fold the pastry over the lamb, pressing the edges to seal.",
+    "Place the pastry in a Dutch oven and roast for 30 minutes.",
+    "Add the chopped onion and minced garlic to the Dutch oven and continue roasting for 20 minutes.",
+    "Add the basmati rice to the Dutch oven and stir to combine with the lamb and onion mixture.",
+    "Cover the Dutch oven with a lid and roast for an additional 20 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 70,
+  "totalTimeMin": 100,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "indian-cuisine",
+    "lamb-recipes",
+    "one-pan",
+    "roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "warmly-roasted-indian-lamb-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-roasted-indian-lamb-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:11:23Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "lamination-puff",
+    "primaryIngredient": "italian seasoning",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lamb",
+    "descriptor": "Warmly roasted",
+    "dishForm": "Biryani"
+  }
+}
