@@ -1,0 +1,98 @@
+{
+  "title": "Warmly Spiced Turkish Lamb Kofte",
+  "description": "A tangy and crumbly solo dinner Turkish dish featuring chilled butter and pickle, made with whole30 friendly ingredients, formed into kofte.",
+  "cuisine": "Turkish",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground lamb",
+      "amount": "1 pound",
+      "notes": "preferably grass fed"
+    },
+    {
+      "name": "Chilled butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, chilled butter, pickle, onion, garlic, paprika, cumin, salt, and black pepper.",
+    "Mix the ingredients together with your hands until just combined, being careful not to overmix.",
+    "Use your hands to shape the mixture into 8 kofte, each about 1 1/2 inches long and 1 inch in diameter.",
+    "Place the kofte on a baking sheet lined with parchment paper, leaving about 1 inch of space between each kofte.",
+    "Bake the kofte in the preheated oven for 18 minutes, or until cooked through to an internal temperature of 145 degrees Fahrenheit.",
+    "Remove the kofte from the oven and let them rest for 5 minutes before serving.",
+    "Serve the kofte hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free-meal",
+    "lamb-recipes",
+    "middle-eastern-cuisine",
+    "turkish-food",
+    "whole30-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 42
+  },
+  "slug": "warmly-spiced-turkish-lamb-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-turkish-lamb-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:54:56Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "pickle",
+    "primaryIngredient": "chilled butter",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Warmly spiced",
+    "dishForm": "Kofte"
+  }
+}
