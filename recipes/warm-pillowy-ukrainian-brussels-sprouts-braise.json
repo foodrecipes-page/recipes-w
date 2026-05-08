@@ -1,0 +1,100 @@
+{
+  "title": "Warm Pillowy Ukrainian Brussels Sprouts Braise",
+  "description": "A cozy Ukrainian dish featuring fermented Brussels sprouts in a rich braise, cooked to perfection on a salt block. This nut-free-friendly recipe is perfect for a cold winter's night.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block in the oven at 400 degrees Fahrenheit for 30 minutes.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the Brussels sprouts, sauerkraut, caraway seeds, salt, and black pepper to the skillet, stirring to combine.",
+    "Pour in the vegetable broth and bring the mixture to a simmer.",
+    "Remove the salt block from the oven and carefully place the skillet on top of it.",
+    "Transfer the skillet to the oven and braise the mixture for 20 minutes, or until the Brussels sprouts are tender.",
+    "Remove the skillet from the oven and let it cool slightly before serving.",
+    "Serve the Warm Pillowy Ukrainian Brussels Sprouts Braise hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "european-cuisine",
+    "gluten-free",
+    "one-pan",
+    "vegetarian",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "warm-pillowy-ukrainian-brussels-sprouts-braise",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-pillowy-ukrainian-brussels-sprouts-braise",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:56:32Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "braise",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Brussels Sprouts",
+    "descriptor": "Warm Pillowy",
+    "dishForm": "Braise"
+  }
+}
