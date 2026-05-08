@@ -365,6 +365,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-canadian-corn-casserole",
+    "title": "Warm Canadian Corn Casserole",
+    "tags": [
+      "canadian",
+      "casserole",
+      "comfort-food",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
     "slug": "warm-canadian-fish-stew",
     "title": "Warm Canadian Fish Stew",
     "tags": [
@@ -3129,6 +3144,21 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-light-portuguese-dried-fruit-toast",
+    "title": "Warm Light Portuguese Dried Fruit Toast",
+    "tags": [
+      "diabetic-friendly",
+      "dried-fruit",
+      "healthy-snack",
+      "low-sugar",
+      "portuguese",
+      "quick-fix"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {

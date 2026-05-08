@@ -1,0 +1,97 @@
+{
+  "title": "Warm Canadian Corn Casserole",
+  "description": "A sweet and comforting Canadian dish featuring creamed corn, this casserole is perfect for a cold winter's night, and its ingredients are ayurvedic-tamasic-friendly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cream style corn",
+      "amount": "1 can",
+      "notes": "14.75 oz"
+    },
+    {
+      "name": "french fried onions",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large paella pan, mix together the flour, sugar, and melted butter until well combined.",
+    "Add the crushed french fried onions to the pan and stir until they are evenly distributed.",
+    "In a separate bowl, whisk together the eggs, milk, salt, and pepper.",
+    "Add the cream style corn to the bowl and stir until well combined.",
+    "Pour the corn mixture over the flour mixture in the paella pan.",
+    "Bake the casserole in the preheated oven for 35 minutes, or until the top is golden brown.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "casserole",
+    "comfort-food",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "warm-canadian-corn-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-canadian-corn-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:26:45Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "creamed corn",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "corn",
+    "descriptor": "Warm crumbly",
+    "dishForm": "Casserole"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Warm Light Portuguese Dried Fruit Toast",
+  "description": "A quick and delicious Portuguese dish featuring dried fruit and toast, perfect for a diabetic-friendly snack.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "diabetic-friendly",
+    "low-sugar"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole wheat bread",
+      "amount": "4 slices",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dried cranberries",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "or sugar-free alternative"
+    },
+    {
+      "name": "Almond butter",
+      "amount": "2 tablespoons",
+      "notes": "or peanut butter"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1/4 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a small bowl, mix together the chopped dried apricots and cranberries.",
+    "In another bowl, whisk together the honey and almond butter until smooth.",
+    "Arrange the bread slices on a baking sheet lined with parchment paper.",
+    "Spread a layer of the honey-almond butter mixture on each bread slice.",
+    "Top each bread slice with a spoonful of the dried fruit mixture.",
+    "Sprinkle a pinch of cinnamon and lemon zest over the dried fruit.",
+    "Bake the toast in the preheated oven for 5 minutes, or until lightly toasted.",
+    "Remove the toast from the oven and let it cool for a minute or two.",
+    "Serve the warm toast immediately, garnished with a sprinkle of salt if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "dried-fruit",
+    "healthy-snack",
+    "low-sugar",
+    "portuguese",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "warm-light-portuguese-dried-fruit-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-light-portuguese-dried-fruit-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:26:33Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "toast",
+    "primaryIngredient": "dried fruit",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "dried fruit",
+    "descriptor": "Warm light",
+    "dishForm": "Toast"
+  }
+}
