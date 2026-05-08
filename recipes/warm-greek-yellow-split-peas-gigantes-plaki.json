@@ -1,0 +1,106 @@
+{
+  "title": "Warm Greek Yellow Split Peas Gigantes Plaki",
+  "description": "A hearty and earthy Greek dish featuring yellow split peas, this gigantes plaki is a kid-friendly and satvik-friendly option, perfect for a weeknight dinner. It is made by poaching the peas in a flavorful broth and serving them in a rich and tangy tomato sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow split peas",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse the yellow split peas and soak them in water for at least 8 hours or overnight.",
+    "Drain and rinse the peas, then transfer them to a large pot with 4 cups of water.",
+    "Bring the water to a boil, then reduce the heat to a simmer and cook the peas for 45 minutes, or until they are tender.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until it is translucent.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Stir in the canned crushed tomatoes, salt, black pepper, and dried oregano, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 20 minutes, stirring occasionally, while the peas are cooking.",
+    "Once the peas are done, drain them and add them to the tomato sauce.",
+    "Squeeze the lemon juice over the top and stir to combine.",
+    "Serve the gigantes plaki hot, garnished with chopped fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "one-pot",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "warm-greek-yellow-split-peas-gigantes-plaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-greek-yellow-split-peas-gigantes-plaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:15:59Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "poach",
+    "primaryIngredient": "yellow split peas",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "yellow split peas",
+    "descriptor": "Warm Earthy",
+    "dishForm": "Gigantes Plaki"
+  }
+}
