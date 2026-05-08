@@ -1,0 +1,97 @@
+{
+  "title": "Warm Venezuelan Penne Pasta Bowl",
+  "description": "A garlicky and cheesy Venezuelan dish featuring penne pasta in a mother-sauce-base, served in an earthenware bowl, perfect for a quick fix meal. This nut-free-friendly recipe is a twist on traditional Venezuelan cuisine.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded queso fresco cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the penne pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic and onion until softened.",
+    "Add the tomato sauce to the skillet and stir to combine, bringing the sauce to a simmer.",
+    "Reduce the heat to low and let the sauce simmer while the pasta cooks.",
+    "Drain the cooked pasta and add it to the skillet with the sauce, tossing to combine.",
+    "Transfer the pasta mixture to an earthenware bowl and top with the shredded mozzarella and queso fresco cheese.",
+    "Season with salt and black pepper to taste.",
+    "Serve the pasta hot, straight from the bowl, and enjoy the cheese pull."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "latin-american",
+    "one-pot",
+    "pasta-lovers",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-venezuelan-penne-pasta-bowl",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-venezuelan-penne-pasta-bowl",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T07:47:08Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "penne pasta",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "penne pasta",
+    "descriptor": "Warm cheesy",
+    "dishForm": "Pasta"
+  }
+}

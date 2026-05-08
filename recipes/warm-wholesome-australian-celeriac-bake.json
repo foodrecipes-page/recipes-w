@@ -1,0 +1,114 @@
+{
+  "title": "Warm Wholesome Australian Celeriac Bake",
+  "description": "A low-carb-friendly celeriac bake featuring fresh spring ingredients from Australia, perfect for a brunch mood.",
+  "cuisine": "australian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "600g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Australian bush tomato",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "150g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "terracotta dish",
+      "amount": "1",
+      "notes": "medium-sized for 6-8 servings"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Peel and chop the onion, and sauté it in olive oil until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped Australian bush tomato and cook for another minute.",
+    "Add the chopped celeriac and cook until slightly tender.",
+    "In a separate bowl, mix the crumbled feta cheese with the chopped parsley, beaten eggs, salt, and black pepper.",
+    "Transfer the cooked celeriac mixture to the prepared terracotta dish, and top with the feta cheese mixture.",
+    "Bake in the preheated oven for 25 minutes.",
+    "Remove from the oven and let it rest for 5 minutes.",
+    "Serve warm, garnished with additional chopped parsley if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "breakfast",
+    "celeriac",
+    "easy-to-make",
+    "low-carb-friendly",
+    "terracotta-dish",
+    "weekend-brunch",
+    "winter-recipe"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "warm-wholesome-australian-celeriac-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wholesome-australian-celeriac-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:47:23Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "blanch",
+    "primaryIngredient": "celeriac",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "celeriac",
+    "descriptor": "Warm, Wholesome",
+    "dishForm": "Bake"
+  }
+}

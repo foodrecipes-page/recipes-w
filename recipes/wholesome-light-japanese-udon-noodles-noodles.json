@@ -1,0 +1,115 @@
+{
+  "title": "Wholesome Light Japanese Udon Noodles",
+  "description": "A light, garlicky, Japanese dish featuring udon noodles, perfect for a midnight craving. Chubu region-inspired recipe.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "anti-inflammatory"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Udon noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sake (or dry white wine)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a molcajete, combine sake, water, and miso paste. Stir until the miso is dissolved.",
+    "Add garlic and ginger to the molcajete and mash until well combined.",
+    "Add soy sauce, sesame oil, salt, and black pepper to the molcajete. Stir well.",
+    "Cook the udon noodles according to the package instructions.",
+    "In the molcajete, combine the cooked noodles, green onions, and scallions. Toss well to combine.",
+    "Serve hot, garnished with additional green onions and scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-japanese",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "wholesome-light-japanese-udon-noodles-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-light-japanese-udon-noodles-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:47:04Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "udon noodles",
+    "diet": "anti-inflammatory",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "udon noodles",
+    "descriptor": "wholesome light",
+    "dishForm": "Noodles"
+  }
+}

@@ -3003,6 +3003,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-umami-irish-broad-beans-stew",
+    "title": "Warm Umami Irish Broad Beans Stew",
+    "tags": [
+      "comfort-food",
+      "irish-cuisine",
+      "one-pot",
+      "umami",
+      "vegetarian"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-velvety-japanese-blanched-noodles-ramen",
     "title": "Warm Velvety Japanese Blanched Noodles Ramen",
     "tags": [
@@ -3045,6 +3059,21 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 65,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-venezuelan-penne-pasta-bowl",
+    "title": "Warm Venezuelan Penne Pasta Bowl",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "latin-american",
+      "one-pot",
+      "pasta-lovers",
+      "quick-fix"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -3132,6 +3161,23 @@
       "weeknight"
     ],
     "cuisine": "Slovakian",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wholesome-australian-celeriac-bake",
+    "title": "Warm Wholesome Australian Celeriac Bake",
+    "tags": [
+      "australian-cuisine",
+      "breakfast",
+      "celeriac",
+      "easy-to-make",
+      "low-carb-friendly",
+      "terracotta-dish",
+      "weekend-brunch",
+      "winter-recipe"
+    ],
+    "cuisine": "australian",
     "totalTimeMin": 50,
     "shard": "w"
   },
@@ -5371,6 +5417,19 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-light-japanese-udon-noodles-noodles",
+    "title": "Wholesome Light Japanese Udon Noodles",
+    "tags": [
+      "easy-japanese",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
