@@ -1,0 +1,97 @@
+{
+  "title": "Warm Dense German Chocolate Brownies",
+  "description": "Rich and decadent brownies featuring plain and tempered chocolate, perfect for a vegetarian dessert",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate",
+      "amount": "8 ounces",
+      "notes": "plain chocolate"
+    },
+    {
+      "name": "tempered chocolate",
+      "amount": "4 ounces",
+      "notes": "for topping"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Melt the plain dark chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Whisk together the sugar, eggs, and vanilla extract in a large bowl.",
+    "Add the flour, cocoa powder, and salt to the bowl and whisk until just combined.",
+    "Pour in the melted chocolate and whisk until smooth.",
+    "Pour the batter into a greased and floured 8-inch square baking dish.",
+    "Bake for 25-30 minutes or until a toothpick inserted into the center comes out with a few moist crumbs attached.",
+    "Remove from the oven and let cool in the pan for 10 minutes.",
+    "Melt the tempered chocolate in a double boiler or in the microwave in 10-second increments, stirring between each interval.",
+    "Pour the melted tempered chocolate over the warm brownies and smooth the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-lovers",
+    "dense-brownies",
+    "german-desserts",
+    "rich-treats",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "warm-dense-german-chocolate-brownies",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dense-german-chocolate-brownies",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T07:46:19Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "plain chocolate",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "chocolate",
+    "descriptor": "Warm Dense",
+    "dishForm": "Brownies"
+  }
+}
