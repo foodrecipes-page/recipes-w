@@ -1,0 +1,98 @@
+{
+  "title": "Wild Smoked Russian Persian Cucumber Skewers",
+  "description": "A paleo-friendly Russian dish featuring Persian cucumber, with a smoky and umami flavor profile, perfect for a energizing snack. This recipe combines the freshness of cucumbers with the richness of smoked ingredients.",
+  "cuisine": "Russian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Persian cucumbers",
+      "amount": "12",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "6 oz",
+      "notes": "diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the sliced cucumbers to the bowl and toss to coat with the spice mixture.",
+    "Thread the cucumber slices, smoked salmon, and chopped fresh dill onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and lemon juice.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the cucumbers are slightly charred.",
+    "Serve the skewers hot, garnished with additional chopped fresh dill if desired.",
+    "Let the skewers cool for a few minutes before serving.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-vegetables",
+    "healthy-snack",
+    "paleo-friendly",
+    "russian-cuisine",
+    "smoked-food"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 15,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "wild-smoked-russian-persian-cucumber-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wild-smoked-russian-persian-cucumber-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:36:13Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "smoke-hot",
+    "primaryIngredient": "persian cucumber",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Persian cucumber",
+    "descriptor": "Wild smoked",
+    "dishForm": "Skewers"
+  }
+}
