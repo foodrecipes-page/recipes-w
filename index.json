@@ -2352,6 +2352,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-nutty-vietnamese-beef-pho-bo",
+    "title": "Warm Nutty Vietnamese Beef Pho Bo",
+    "tags": [
+      "beef-recipes",
+      "comfort-food",
+      "low-sodium",
+      "noodle-soups",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 110,
+    "shard": "w"
+  },
+  {
     "slug": "warm-peppery-french-tomato-tarte-tatin",
     "title": "Warm Peppery French Tomato Tarte Tatin",
     "tags": [
@@ -4191,6 +4205,21 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 32,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-flambeed-russian-kale-pilaf",
+    "title": "Warmly Flambeed Russian Kale Pilaf",
+    "tags": [
+      "flambe",
+      "kale-recipes",
+      "one-pot",
+      "russian-cuisine",
+      "shojin-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {

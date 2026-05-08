@@ -1,0 +1,99 @@
+{
+  "title": "Warm Nutty Vietnamese Beef Pho Bo",
+  "description": "A hearty and comforting Vietnamese beef noodle soup made with a rich beef broth, rare steak, and chewy noodles, perfect for a lazy Sunday",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef bones",
+      "amount": "2 pounds",
+      "notes": "preferably oxtail or beef neck bones"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole",
+      "notes": "toasted"
+    },
+    {
+      "name": "cinnamon sticks",
+      "amount": "2",
+      "notes": "toasted"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "rare steak",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 pound",
+      "notes": "preferably fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Roast the beef bones in the oven for 30 minutes",
+    "In a large pot, combine the roasted beef bones, onion, ginger, star anise, and cinnamon sticks",
+    "Pour in 4 quarts of water and bring to a boil",
+    "Reduce the heat to low and simmer for 1 hour",
+    "Strain the broth through a fine-mesh sieve and discard the solids",
+    "Add the fish sauce to the broth and stir to combine",
+    "Cook the rice noodles according to the package instructions",
+    "Slice the rare steak into thin strips and add to the hot broth",
+    "Assemble the pho by placing some noodles into a bowl, then adding slices of steak and ladling the hot broth over the top"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "comfort-food",
+    "low-sodium",
+    "noodle-soups",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-nutty-vietnamese-beef-pho-bo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-nutty-vietnamese-beef-pho-bo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:33:45Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "fast action yeast",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef",
+    "descriptor": "Warm Nutty",
+    "dishForm": "Pho Bo"
+  }
+}
