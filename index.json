@@ -6960,6 +6960,20 @@
     "shard": "w"
   },
   {
+    "slug": "warmly-spiced-american-knafeh-casserole",
+    "title": "Warmly Spiced American Knafeh Casserole",
+    "tags": [
+      "american-cuisine",
+      "casserole",
+      "comfort-food",
+      "lacto-vegetarian",
+      "weeknight-meal"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
     "slug": "warmly-spiced-australian-lamb-ssam-wrap",
     "title": "Warmly Spiced Australian Lamb Ssam Wrap",
     "tags": [
@@ -7121,6 +7135,20 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 16,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-spiced-japanese-salmon-wrap",
+    "title": "Warmly Spiced Japanese Salmon Wrap",
+    "tags": [
+      "brunch-ideas",
+      "healthy-eating",
+      "japanese-inspired",
+      "pandan-wraps",
+      "seafood-lovers"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 27,
     "shard": "w"
   },
   {

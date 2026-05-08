@@ -1,0 +1,94 @@
+{
+  "title": "Warmly Spiced Japanese Salmon Wrap",
+  "description": "A malty and light pescatarian-friendly dish featuring shichimi-togarashi and miso-marinate, served in a pandan-leaf-wrap, perfect for a brunch mood",
+  "cuisine": "Japanese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "4 pieces",
+      "notes": "skin removed"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shichimi-togarashi",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "sushi rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together miso paste, shichimi-togarashi, and soy sauce to create the marinade.",
+    "Place the salmon fillets in a shallow dish and brush the marinade on both sides of the fish.",
+    "Let the salmon marinate for 10 minutes.",
+    "Wrap each salmon fillet in a pandan leaf, making sure to seal the edges.",
+    "Place the wrapped salmon on a baking sheet lined with parchment paper.",
+    "Bake the salmon for 12 minutes or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "While the salmon is cooking, prepare the sushi rice according to the package instructions.",
+    "Assemble the wrap by placing a piece of cooked salmon on a bed of sushi rice, topping with pickled ginger and cucumber slices."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "healthy-eating",
+    "japanese-inspired",
+    "pandan-wraps",
+    "seafood-lovers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "warmly-spiced-japanese-salmon-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-japanese-salmon-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:56:06Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "miso-marinate",
+    "primaryIngredient": "shichimi-togarashi",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "salmon",
+    "descriptor": "Warmly spiced",
+    "dishForm": "Wrap"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "title": "Warmly Spiced American Knafeh Casserole",
+  "description": "A salty, juicy, lazy-Sunday American dish featuring knafeh, soffritto-base, and lacto-vegetarian-friendly ingredients, perfect for a comforting meal.",
+  "cuisine": "American",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "knafeh dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "soffritto",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "shredded mozzarella",
+      "amount": "1 cup",
+      "notes": "low-moisture"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the soffritto over medium heat until fragrant.",
+    "In a large bowl, combine the ricotta cheese, shredded mozzarella, spinach, garlic powder, onion powder, salt, and black pepper, and mix well.",
+    "Unroll the knafeh dough and cut it into 1-inch pieces.",
+    "In a 9x13 inch baking dish, create a layer of knafeh dough pieces.",
+    "Spread half of the ricotta cheese mixture over the knafeh dough layer.",
+    "Repeat the layers, starting with the knafeh dough, then the remaining ricotta cheese mixture, and finally another layer of knafeh dough.",
+    "Bake the casserole for 35 minutes, or until the top is golden brown.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "casserole",
+    "comfort-food",
+    "lacto-vegetarian",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "warmly-spiced-american-knafeh-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-american-knafeh-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:56:36Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "soffritto-base",
+    "primaryIngredient": "knafeh",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "knafeh",
+    "descriptor": "Warmly spiced",
+    "dishForm": "Casserole"
+  }
+}
