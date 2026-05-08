@@ -1,0 +1,116 @@
+{
+  "title": "Warmly Spiced Polish Chicken Breast Casserole",
+  "description": "A savory and comforting Polish dish featuring chicken breast, warmly spiced with mortar-pestle-pounded spices, suitable for satvik-friendly diets. This casserole is perfect for a cold winter evening.",
+  "cuisine": "Polish",
+  "diet": [
+    "satvik",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons",
+      "notes": "mortar-pestle-pounded"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "mortar-pestle-pounded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "mortar-pestle-pounded"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "mortar-pestle-pounded"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra-virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion, carrot, and celery to the skillet and cook until the vegetables are tender.",
+    "Add the sliced mushrooms to the skillet and cook until they are tender and lightly browned.",
+    "In a large bowl, whisk together the paprika, garlic powder, salt, and black pepper.",
+    "Add the chicken breast to the bowl and toss to coat with the spice mixture.",
+    "Add the cooked vegetables and chicken broth to the bowl and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake the casserole for 30 minutes, then remove the foil and continue baking for an additional 20 minutes.",
+    "Remove the casserole from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "satvik-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "warmly-spiced-polish-chicken-breast-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-polish-chicken-breast-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:02:56Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "chicken breast",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "chicken breast",
+    "descriptor": "Warmly spiced",
+    "dishForm": "Casserole"
+  }
+}
