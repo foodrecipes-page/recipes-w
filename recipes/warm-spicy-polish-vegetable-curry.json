@@ -1,0 +1,111 @@
+{
+  "title": "Warm Spicy Polish Vegetable Curry",
+  "description": "A rich and festive Polish dish featuring green curry paste and a variety of vegetables, perfect for a cold winter night, this jain-friendly curry is made with mantecare emulsify for a creamy texture.",
+  "cuisine": "Polish",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Thai or Polish variety"
+    },
+    {
+      "name": "mantecare",
+      "amount": "1/4 cup",
+      "notes": "emulsify before use"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the mantecare in a large pan over medium heat until melted and smooth.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the green curry paste and cook for 1 minute, stirring constantly.",
+    "Add the chopped carrots and potatoes, cook for 5 minutes, stirring occasionally.",
+    "Add the chopped zucchini and cook for an additional 2 minutes.",
+    "Pour in the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the coconut milk and cook for an additional 5 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve the curry hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "one-pot",
+    "polish-cuisine",
+    "spicy-food",
+    "vegetarian",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-spicy-polish-vegetable-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-polish-vegetable-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:20:39Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "vegetables",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Curry"
+  }
+}

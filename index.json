@@ -3427,6 +3427,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spicy-polish-vegetable-curry",
+    "title": "Warm Spicy Polish Vegetable Curry",
+    "tags": [
+      "jain-friendly",
+      "one-pot",
+      "polish-cuisine",
+      "spicy-food",
+      "vegetarian",
+      "winter-dish"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spicy-saudi-arabian-chicken-kebabs",
     "title": "Warm Spicy Saudi Arabian Chicken Kebabs",
     "tags": [
