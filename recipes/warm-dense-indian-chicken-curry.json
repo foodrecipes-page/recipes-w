@@ -1,0 +1,99 @@
+{
+  "title": "Warm Dense Indian Chicken Curry",
+  "description": "A peppery and dense Indian dish featuring pico de gallo sauce and tempering chocolate, perfect for a sick day, made without onions and garlic in a cataplana vessel.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "pico de gallo sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "2 ounces"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in the cataplana vessel over medium heat.",
+    "Add the chicken to the vessel and cook until browned on all sides.",
+    "Add the ground cumin, ground coriander, cayenne pepper, salt, and black pepper to the vessel and stir to combine.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the curry for 20 minutes.",
+    "Stir in the pico de gallo sauce and tempering chocolate until the chocolate is melted and the sauce is smooth.",
+    "Continue to simmer the curry for an additional 10 minutes.",
+    "Serve the curry hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "comfort-food",
+    "indian-cuisine",
+    "one-pot-meals",
+    "spicy-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-dense-indian-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dense-indian-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:17:52Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "pico de gallo sauce",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Dense",
+    "dishForm": "Curry"
+  }
+}

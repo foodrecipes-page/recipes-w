@@ -1421,6 +1421,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-dense-indian-chicken-curry",
+    "title": "Warm Dense Indian Chicken Curry",
+    "tags": [
+      "chicken-recipes",
+      "comfort-food",
+      "indian-cuisine",
+      "one-pot-meals",
+      "spicy-dishes"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-dense-indian-lentil-curry",
     "title": "Warm Dense Indian Lentil Curry",
     "tags": [
