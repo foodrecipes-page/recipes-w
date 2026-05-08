@@ -1,0 +1,91 @@
+{
+  "title": "Wildly Spicy Mexican Chicken Tacos",
+  "description": "A spicy and flavorful Mexican dish featuring chicken, galangal, and coconut cream, perfect for a weeknight dinner",
+  "cuisine": "Mexican",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "peeled and minced"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "1 packet"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and add the chicken to cook until browned",
+    "Add the galangal and taco seasoning to the skillet and cook for 1 minute",
+    "Stir in the coconut cream and bring the mixture to a simmer",
+    "Reduce the heat to medium-low and let the mixture cook for 5 minutes",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds",
+    "Assemble the tacos by spooning the chicken mixture onto a tortilla and topping with cheese, tomatoes, and cilantro",
+    "Serve the tacos immediately and enjoy",
+    "Garnish with additional cilantro and cheese if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "high-protein",
+    "mexican",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "wildly-spicy-mexican-chicken-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-spicy-mexican-chicken-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:56:59Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "galangal",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Wildly spicy",
+    "dishForm": "Tacos"
+  }
+}

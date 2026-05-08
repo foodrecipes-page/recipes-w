@@ -8917,6 +8917,20 @@
     "shard": "w"
   },
   {
+    "slug": "wildly-spicy-mexican-chicken-tacos",
+    "title": "Wildly Spicy Mexican Chicken Tacos",
+    "tags": [
+      "coconut-cream",
+      "high-protein",
+      "mexican",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "wildly-spicy-russian-nduja-grill",
     "title": "Wildly Spicy Russian Nduja Grill",
     "tags": [
