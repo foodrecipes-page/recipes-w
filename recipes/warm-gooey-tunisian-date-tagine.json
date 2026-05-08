@@ -1,0 +1,94 @@
+{
+  "title": "Warm Gooey Tunisian Date Tagine",
+  "description": "A tangy and festive Tunisian dish featuring chocolate chips and lardons-render, made Jain-friendly by using vegetable oil instead of animal products.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lardons-render",
+      "amount": "1/4 cup",
+      "notes": "vegetable oil based"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the dates, chocolate chips, and lardons-render.",
+    "In a separate bowl, whisk together the almond milk, honey, orange blossom water, and rose water.",
+    "Add the wet ingredients to the dry ingredients and mix until well combined.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Drizzle the top with vegetable oil.",
+    "Bake for 25 minutes or until the top is golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm and gooey."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolatey",
+    "date-based",
+    "jain-friendly",
+    "tunisian",
+    "vegetarian",
+    "warm-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "warm-gooey-tunisian-date-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-gooey-tunisian-date-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:04:17Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "lardons-render",
+    "primaryIngredient": "chocolate chips",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "dates",
+    "descriptor": "Warm gooey",
+    "dishForm": "Tagine"
+  }
+}
