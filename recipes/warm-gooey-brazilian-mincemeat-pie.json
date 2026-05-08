@@ -1,0 +1,95 @@
+{
+  "title": "Warm Gooey Brazilian Mincemeat Pie",
+  "description": "A festive Brazilian dessert featuring mincemeat and a floral twist, perfect for special occasions, this low-glycemic-friendly treat is sure to delight",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "low-glycemic alternative to wheat flour"
+    },
+    {
+      "name": "mincemeat",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup",
+      "notes": "low-glycemic sweetener"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon",
+      "notes": "floral flavor enhancer"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 teaspoon",
+      "notes": "optional, for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit",
+    "In a large bowl, whisk together almond flour, coconut sugar, and a pinch of salt",
+    "In a separate bowl, whisk together eggs, melted butter, and rose water",
+    "Add the wet ingredients to the dry ingredients and stir until well combined",
+    "Fold in the mincemeat and orange zest, if using",
+    "Pour the mixture into a 9-inch pie dish and bake for 35 minutes",
+    "While the pie is baking, prepare the deglaze by whisking together 1 tablespoon of honey and 1 tablespoon of water in a small bowl",
+    "After the pie has baked for 30 minutes, brush the deglaze over the top and return to the oven for an additional 5 minutes",
+    "Remove the pie from the oven and let it cool for a few minutes before serving warm"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "dessert",
+    "festive",
+    "floral",
+    "low-glycemic",
+    "mincemeat"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "warm-gooey-brazilian-mincemeat-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-gooey-brazilian-mincemeat-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:54:41Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "deglaze",
+    "primaryIngredient": "mincemeat",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "mincemeat",
+    "descriptor": "Warm gooey",
+    "dishForm": "Pie"
+  }
+}
