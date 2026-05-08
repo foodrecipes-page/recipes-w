@@ -4474,6 +4474,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spicy-mexican-pork-tacos-al-pastor",
+    "title": "Warm Spicy Mexican Pork Tacos Al Pastor",
+    "tags": [
+      "diabetic-friendly",
+      "gluten-free",
+      "mexican-food",
+      "pork-recipes",
+      "spicy",
+      "tacos-al-pastor"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spicy-middle-eastern-lamb-kebabs",
     "title": "Warm Spicy Middle Eastern Lamb Kebabs",
     "tags": [

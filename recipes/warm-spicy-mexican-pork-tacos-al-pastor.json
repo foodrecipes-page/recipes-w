@@ -1,0 +1,106 @@
+{
+  "title": "Warm Spicy Mexican Pork Tacos Al Pastor",
+  "description": "A spicy and chewy Mexican dish featuring pork, malai, and soffritto-base, served in tacos al pastor style, diabetic-friendly and cooked in a tajine clay vessel.",
+  "cuisine": "Mexican",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "malai",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soffritto-base",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the tajine clay vessel over medium heat.",
+    "In a blender, combine malai, soffritto-base, chipotle peppers, onion, garlic, cumin, and coriander, and blend until smooth.",
+    "Add the sliced pork to the blender and marinate for at least 30 minutes.",
+    "Remove the pork from the marinade and cook in the preheated tajine clay vessel for 10-12 minutes, or until cooked through.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing the cooked pork onto a tortilla and topping with cilantro.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional cilantro and chipotle peppers if desired.",
+    "Cook the pork to an internal temperature of 145 degrees to ensure food safety."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "mexican-food",
+    "pork-recipes",
+    "spicy",
+    "tacos-al-pastor"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-spicy-mexican-pork-tacos-al-pastor",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-mexican-pork-tacos-al-pastor",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:38:48Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "soffritto-base",
+    "primaryIngredient": "malai",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Tacos Al Pastor"
+  }
+}
