@@ -786,6 +786,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-crispy-german-ikura-bowl",
+    "title": "Warm Crispy German Ikura Bowl",
+    "tags": [
+      "comfort-food",
+      "german-cuisine",
+      "high-protein",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crispy-german-potato-hash",
     "title": "Warm Crispy German Potato Hash",
     "tags": [

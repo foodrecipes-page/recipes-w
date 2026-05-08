@@ -1,0 +1,102 @@
+{
+  "title": "Warm Crispy German Ikura Bowl",
+  "description": "A herbal and crispy German dish featuring ikura, served in a warm dolsot stone bowl, perfect for a cozy meal. This ayurvedic-rajasic-friendly recipe combines smoky and cold elements for a unique flavor experience.",
+  "cuisine": "German",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ikura",
+      "amount": "1 cup",
+      "notes": "salmon roe"
+    },
+    {
+      "name": "German sausage",
+      "amount": "4 slices",
+      "notes": "knockwurst or weisswurst"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rye bread crumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dolsot stone bowl",
+      "amount": "1",
+      "notes": "preheated"
+    }
+  ],
+  "instructions": [
+    "Preheat the dolsot stone bowl in the oven at 400 degrees Fahrenheit for 10 minutes.",
+    "Cook the German sausage slices in a pan over medium heat until browned and crispy.",
+    "Add the sliced onions to the pan and cook until they are caramelized and golden brown.",
+    "Mix the caraway seeds, rye bread crumbs, and smoked paprika in a bowl.",
+    "Add the cooked sausage and onions to the bowl and toss to combine with the seed and crumb mixture.",
+    "Spoon the ikura over the top of the sausage and onion mixture.",
+    "Garnish with chopped chives and a dollop of sour cream.",
+    "Serve the mixture in the preheated dolsot stone bowl.",
+    "Return the bowl to the oven for an additional 2 minutes to warm and crisp the ingredients.",
+    "Remove the bowl from the oven and let it cool for 1 minute before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-crispy-german-ikura-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-german-ikura-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:59:40Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "smoke-cold",
+    "primaryIngredient": "ikura",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "ikura",
+    "descriptor": "Warm Crispy",
+    "dishForm": "Bowl"
+  }
+}
