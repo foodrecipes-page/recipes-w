@@ -1,0 +1,91 @@
+{
+  "title": "Warmly Glazed Norwegian Shrimp Skewers",
+  "description": "Savory and quick Norwegian dish featuring Cajun spices and a sweet glaze, perfect for a weeknight dinner",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "cajun seasoning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat",
+    "Thread 4 shrimp onto each skewer",
+    "In a small bowl, mix together Cajun seasoning, brown sugar, honey, soy sauce, and garlic powder",
+    "Brush the mixture onto both sides of the shrimp",
+    "Grill the shrimp for 2-3 minutes per side",
+    "Serve the shrimp hot with lemon wedges on the side",
+    "Garnish with chopped parsley or dill if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cajun",
+    "glazed",
+    "low-sodium",
+    "norwegian",
+    "quick-fix",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 12,
+    "fat": 12
+  },
+  "slug": "warmly-glazed-norwegian-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-glazed-norwegian-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:14:51Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "glaze",
+    "primaryIngredient": "cajun",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Warmly glazed",
+    "dishForm": "Skewers"
+  }
+}
