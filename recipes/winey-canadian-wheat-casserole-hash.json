@@ -1,0 +1,94 @@
+{
+  "title": "Winey Canadian Wheat Casserole Hash",
+  "description": "A crumbly, diabetic-friendly Canadian dish featuring chocolate chips and dashi-extract, perfect for meal-prep. It's a rich, savory, and slightly sweet casserole.",
+  "cuisine": "Canadian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose wheat flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 stick"
+    },
+    {
+      "name": "white granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "3"
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "milk, 2%",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F.",
+    "In a large bowl, whisk together the flour, cocoa powder, and sugar.",
+    "Add the butter and mix until the mixture resembles coarse crumbs.",
+    "Beat in the eggs until the mixture is well combined.",
+    "Stir in the chocolate chips and dashi extract.",
+    "Pour in the milk and mix until the batter is smooth.",
+    "Pour the batter into a greased 8-inch square baking dish.",
+    "Bake for 35 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Transfer the casserole to a hot stone plate.",
+    "Serve warm and enjoy.",
+    "To serve, cut into 9 equal squares."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-casserole",
+    "diabetic-friendly",
+    "meal-prep",
+    "one-pan",
+    "weeknight",
+    "wheat-based-dish"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 7,
+    "carbs": 35,
+    "fat": 13
+  },
+  "slug": "winey-canadian-wheat-casserole-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-canadian-wheat-casserole-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:04:10Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "dashi-extract",
+    "primaryIngredient": "chocolate chips",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "wheat",
+    "descriptor": "Winey, crumbly",
+    "dishForm": "Casserole"
+  }
+}
