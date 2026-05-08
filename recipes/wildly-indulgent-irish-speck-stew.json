@@ -1,0 +1,107 @@
+{
+  "title": "Wildly Indulgent Irish Speck Stew",
+  "description": "A hearty and indulgent Irish stew featuring speck, perfect for a cold winter's night, this dish is kosher-friendly and reduced to bring out the rich flavors.",
+  "cuisine": "Irish",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "speck",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "guinness stout",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven, cook the diced speck over medium heat until browned, about 5 minutes.",
+    "Add the chopped onions to the pot and cook until they are translucent, about 5 minutes.",
+    "Add the minced garlic to the pot and cook for 1 minute.",
+    "Add the sliced carrots and cubed potatoes to the pot, stirring to combine.",
+    "Sprinkle the flour over the vegetables and cook for 1 minute.",
+    "Add the guinness stout, beef broth, apple cider vinegar, salt, and black pepper to the pot, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, until the vegetables are tender, about 20 minutes.",
+    "Remove the pot from the heat and let it cool slightly before serving.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "irish-cuisine",
+    "kosher-friendly",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 29
+  },
+  "slug": "wildly-indulgent-irish-speck-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-indulgent-irish-speck-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:07:00Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "reduce",
+    "primaryIngredient": "speck",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "speck",
+    "descriptor": "Wildly Indulgent",
+    "dishForm": "Stew"
+  }
+}
