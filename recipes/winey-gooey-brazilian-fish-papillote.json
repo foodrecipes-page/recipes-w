@@ -1,0 +1,99 @@
+{
+  "title": "Winey Gooey Brazilian Fish Papillote",
+  "description": "A lazy Sunday dish featuring fish cooked in a flavorful wine and lemon juice sauce, wrapped in papillote for a moist and tender result, with anti-inflammatory friendly ingredients.",
+  "cuisine": "brazilian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "4 fillets",
+      "notes": "fresh and skin removed"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "4 sheets",
+      "notes": "or parchment paper"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a large bowl, whisk together the white wine, lemon juice, olive oil, garlic, ginger, and turmeric.",
+    "Place a cod fillet in the center of each papillote paper sheet.",
+    "Brush the wine and lemon juice sauce over the fish, making sure it is fully coated.",
+    "Fold the papillote paper over the fish, creating a tight seal.",
+    "Place the papillote packets on a baking sheet and bake for 12 minutes.",
+    "Remove the packets from the oven and let them rest for 2 minutes.",
+    "Serve the fish hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "brazilian-cuisine",
+    "fish-dish",
+    "lazy-sunday",
+    "papillote-recipe",
+    "wine-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "winey-gooey-brazilian-fish-papillote",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-gooey-brazilian-fish-papillote",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:35:54Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "papillote",
+    "primaryIngredient": "lemon juice",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "fish",
+    "descriptor": "winey gooey",
+    "dishForm": "Papillote"
+  }
+}
