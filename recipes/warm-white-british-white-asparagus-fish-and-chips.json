@@ -1,0 +1,100 @@
+{
+  "title": "Warm White British White Asparagus Fish And Chips",
+  "description": "A sweet and juicy British dish featuring white asparagus and fish, served in a macrobiotic-friendly fish-and-chips form, cooked on a comal and finished with a deglaze fond, perfect for a brunch mood. This dish combines the freshness of white asparagus with the comfort of fish and chips.",
+  "cuisine": "British",
+  "diet": [
+    "macrobiotic",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "cod fish",
+      "amount": "4 fillets",
+      "notes": "sustainably sourced"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal over medium heat and prepare the white asparagus by trimming the ends and peeling the stalks.",
+    "In a large bowl, mix together the flour, cornstarch, salt, and pepper to create the fish coating.",
+    "Dip each fish fillet into the flour mixture, coating both sides evenly.",
+    "Add the vegetable oil to the preheated comal and fry the coated fish fillets until golden brown and cooked through.",
+    "Remove the fish from the comal and set aside on a paper towel-lined plate to drain excess oil.",
+    "Add the white asparagus to the comal and cook until tender, about 5 minutes.",
+    "If using white wine, add it to the comal and deglaze the fond by scraping the bottom of the comal with a spatula.",
+    "Return the fish to the comal and squeeze the lemon juice over the top of each fillet.",
+    "Serve the fish and asparagus hot, garnished with additional lemon wedges if desired.",
+    "Finish the dish with a sprinkle of salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "brunch-ideas",
+    "comal-cooking",
+    "fish-and-chips",
+    "macrobiotic-friendly",
+    "white-asparagus"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "warm-white-british-white-asparagus-fish-and-chips",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-white-british-white-asparagus-fish-and-chips",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:00:38Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "white asparagus",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "white asparagus",
+    "descriptor": "Warm White",
+    "dishForm": "Fish And Chips"
+  }
+}
