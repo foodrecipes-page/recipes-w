@@ -1,0 +1,102 @@
+{
+  "title": "Warm Dense German Sausage Hash",
+  "description": "A peppery, dense, weeknight German dish featuring pita bread and cure, perfect for a flexitarian-friendly meal.",
+  "cuisine": "German",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pita bread",
+      "amount": "4 slices",
+      "notes": "day-old bread, cubed"
+    },
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "such as knockwurst or bratwurst, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled, diced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large wok over medium-high heat.",
+    "Add the sliced German sausage and cook until browned, about 5 minutes.",
+    "Add the chopped onion and bell pepper to the wok and cook until the vegetables are tender, about 5 minutes.",
+    "Add the diced potato to the wok and cook for an additional 5 minutes, stirring occasionally.",
+    "Add the cubed pita bread to the wok and stir to combine with the sausage and vegetables.",
+    "Cook for an additional 2-3 minutes, stirring constantly, until the bread is toasted and the mixture is heated through.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Transfer the hash to a serving platter and garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "german-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "warm-dense-german-sausage-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dense-german-sausage-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:55:46Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "cure",
+    "primaryIngredient": "pita bread",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sausage",
+    "descriptor": "Warm Dense",
+    "dishForm": "Hash"
+  }
+}

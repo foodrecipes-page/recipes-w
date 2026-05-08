@@ -1052,6 +1052,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-dense-brazilian-coconut-stew",
+    "title": "Warm Dense Brazilian Coconut Stew",
+    "tags": [
+      "brazilian-cuisine",
+      "coconut-based",
+      "comfort-food",
+      "lacto-vegetarian",
+      "one-pot",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-dense-croatian-turkey-stew",
     "title": "Warm Dense Croatian Turkey Stew",
     "tags": [
@@ -1093,6 +1108,20 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-dense-german-sausage-hash",
+    "title": "Warm Dense German Sausage Hash",
+    "tags": [
+      "comfort-food",
+      "flexitarian",
+      "german-inspired",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {

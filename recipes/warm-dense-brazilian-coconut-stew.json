@@ -1,0 +1,106 @@
+{
+  "title": "Warm Dense Brazilian Coconut Stew",
+  "description": "A savory and comforting lacto-vegetarian Brazilian dish featuring coconut milk and robata-grill flavors, perfect for a cold evening.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "2 cups",
+      "notes": "full fat"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "portobello mushrooms",
+      "amount": "2 cups",
+      "notes": "robata-grilled and sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "lacto-vegetarian"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced red bell pepper and cook until it is tender.",
+    "Add the sliced zucchini and cook until it is tender.",
+    "Add the robata-grilled portobello mushrooms, coconut milk, salt, and pepper, and stir well.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Stir in the shredded cheese until it is melted and well combined.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "coconut-based",
+    "comfort-food",
+    "lacto-vegetarian",
+    "one-pot",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "warm-dense-brazilian-coconut-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dense-brazilian-coconut-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:55:46Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "robata-grill",
+    "primaryIngredient": "coconut milk",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "coconut",
+    "descriptor": "Warm Dense",
+    "dishForm": "Stew"
+  }
+}
