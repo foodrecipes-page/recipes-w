@@ -1,0 +1,98 @@
+{
+  "title": "Warm White Brazilian Sausage Stew",
+  "description": "A hearty and savory Brazilian dish featuring white sauerkraut and tempering chocolate, perfect for a midnight craving. This paleo-friendly stew is cooked in a traditional cazuela vessel.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Brazilian sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "2 ounces",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large cazuela vessel over medium heat.",
+    "Add the chopped onions and cook until they are translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the sliced Brazilian sausage and cook until browned, about 5 minutes.",
+    "Add the drained and rinsed white sauerkraut, grated tempering chocolate, salt, and black pepper, stirring to combine.",
+    "Pour in the chicken broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20 minutes, or until the flavors have melded together and the sausage is cooked through.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-white-brazilian-sausage-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-white-brazilian-sausage-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:41:15Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "white sauerkraut",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "sausage",
+    "descriptor": "Warm White",
+    "dishForm": "Stew"
+  }
+}
