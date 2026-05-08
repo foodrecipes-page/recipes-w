@@ -1,0 +1,101 @@
+{
+  "title": "Warm Velvety Dutch Cabbage Gratin",
+  "description": "A savory and velvety Dutch dish featuring cabbage, perfect for a weeknight dinner, with a Mediterranean twist. This meal-prep friendly recipe is sure to become a favorite.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 large head",
+      "notes": "shredded"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, melt the butter over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the shredded cabbage to the skillet and cook, stirring occasionally, until it is tender and lightly browned.",
+    "Transfer the cabbage mixture to a baking dish and set aside.",
+    "In a separate saucepan, combine the heavy cream, salt, black pepper, and nutmeg, and bring to a simmer over medium heat.",
+    "Reduce the cream sauce by half and stir in the shredded gruyere cheese until melted and smooth.",
+    "Pour the cream sauce over the cabbage mixture and stir to combine.",
+    "Transfer the baking dish to the oven and bake for 20 minutes, until the top is golden brown and the gratin is heated through.",
+    "Remove the dish from the oven and broil for an additional 2 minutes, until the top is crispy and caramelized."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cabbage-recipe",
+    "comfort-food",
+    "gratin",
+    "mediterranean-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "warm-velvety-dutch-cabbage-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-velvety-dutch-cabbage-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:38:51Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "broil",
+    "primaryIngredient": "cabbage",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cabbage",
+    "descriptor": "Warm Velvety",
+    "dishForm": "Gratin"
+  }
+}
