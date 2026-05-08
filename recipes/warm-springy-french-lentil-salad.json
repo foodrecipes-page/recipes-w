@@ -1,0 +1,101 @@
+{
+  "title": "Warm Springy French Lentil Salad",
+  "description": "A hearty and refreshing French-inspired salad featuring lentils and nuka-pickle, perfect for a post-workout meal. This dish is Whole30-friendly and showcases the flavors of Alsace.",
+  "cuisine": "French",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "French lentils",
+      "amount": "1 cup",
+      "notes": "green or brown lentils work well"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "celery",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and cook them in 2 cups of water until they are tender, about 20 minutes.",
+    "In a large bowl, whisk together the apple cider vinegar, olive oil, salt, and black pepper.",
+    "Add the chopped nuka-pickle, sliced red onion, grated carrots, and sliced celery to the bowl and toss to combine.",
+    "Once the lentils are cooked, drain and add them to the bowl, tossing to combine with the dressing and vegetables.",
+    "Let the salad sit at room temperature for at least 30 minutes to allow the flavors to meld.",
+    "Serve the salad warm, garnished with additional chopped nuka-pickle if desired.",
+    "This salad can be made ahead of time and refrigerated for up to 24 hours.",
+    "Before serving, let the salad come to room temperature or warm it gently in the oven.",
+    "Taste and adjust the seasoning as needed before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french-cuisine",
+    "healthy-eating",
+    "lentil-salad",
+    "post-workout",
+    "spring-inspired",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "warm-springy-french-lentil-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-springy-french-lentil-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:17:45Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "french lentils",
+    "diet": "whole30",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "lentils",
+    "descriptor": "Warm Springy",
+    "dishForm": "Salad"
+  }
+}
