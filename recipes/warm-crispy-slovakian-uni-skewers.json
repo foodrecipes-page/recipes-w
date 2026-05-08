@@ -1,0 +1,105 @@
+{
+  "title": "Warm Crispy Slovakian Uni Skewers",
+  "description": "A quick and easy Slovakian dish featuring uni, with a jammy and crispy texture, perfect for a low-carb snack or appetizer.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "uni",
+      "amount": "12 pieces",
+      "notes": "fresh"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1 pound",
+      "notes": "casings removed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the pork sausage, onion, bell pepper, garlic, paprika, salt, and black pepper.",
+    "Thread a piece of uni onto a skewer, followed by a piece of the sausage mixture, and repeat until the skewer is full.",
+    "Brush the skewers with olive oil and place them on a baking sheet lined with parchment paper.",
+    "Bake the skewers in the preheated oven for 12 minutes, or until crispy and golden brown.",
+    "Remove the skewers from the oven and let them cool for 2 minutes.",
+    "Serve the skewers warm and enjoy.",
+    "Garnish with fresh parsley or chives, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "gluten-free",
+    "low-carb",
+    "quick-fix",
+    "seafood",
+    "slovakian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "warm-crispy-slovakian-uni-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-slovakian-uni-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:27:48Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "reduce",
+    "primaryIngredient": "uni",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "uni",
+    "descriptor": "Warm crispy",
+    "dishForm": "Skewers"
+  }
+}
