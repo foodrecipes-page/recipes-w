@@ -1,0 +1,99 @@
+{
+  "title": "White Wine Peruvian Fish Skewers",
+  "description": "A light and flavorful Peruvian dish featuring white wine and fish, cooked to perfection on a cedar plank. This recipe is low in carbs and perfect for a weeknight dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "1 pound",
+      "notes": "any white fish works well"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together white wine, lime juice, garlic, and ginger.",
+    "Add the fish fillets to the bowl and marinate for 10 minutes.",
+    "Remove the fish from the marinade and thread onto skewers.",
+    "Brush the cedar planks with olive oil and season with salt and pepper.",
+    "Place the skewers on the cedar planks and cook for 8-10 minutes per side.",
+    "Cook the fish to an internal temperature of 145 degrees.",
+    "Serve the fish hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "healthy",
+    "low-carb",
+    "peruvian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "white-wine-peruvian-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/white-wine-peruvian-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:30:08Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "saute",
+    "primaryIngredient": "white wine",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish",
+    "descriptor": "White Wine",
+    "dishForm": "Skewers"
+  }
+}
