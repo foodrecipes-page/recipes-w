@@ -1,0 +1,97 @@
+{
+  "title": "Warm Sweet Tunisian Dulce De Leche Tagine",
+  "description": "A rich and creamy Tunisian dessert featuring dulce de leche and Mediterranean flavors, perfect for satisfying midnight cravings. This jammy and pillowy treat is sure to become a favorite.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dulce de leche",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon",
+      "notes": "flaky"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine dulce de leche, butter, and heavy cream, and cook over medium heat, stirring constantly, until the mixture is smooth and warm.",
+    "Remove the saucepan from the heat and stir in orange blossom water and rose water, if using.",
+    "Let the mixture cool slightly, then stir in pistachios, sea salt, and vanilla extract.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 20 minutes, or until the top is lightly golden.",
+    "Remove the tagine from the oven and let it cool for 10 minutes before serving.",
+    "Serve the tagine warm, garnished with additional pistachios and a sprinkle of sea salt, if desired.",
+    "Refrigerate any leftovers and reheat them in the microwave or oven when desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "dessert",
+    "mediterranean",
+    "midnight-craving",
+    "nutty",
+    "tunisian",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 36,
+    "fat": 20
+  },
+  "slug": "warm-sweet-tunisian-dulce-de-leche-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-sweet-tunisian-dulce-de-leche-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:08:29Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "dulce de leche",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "dulce de leche",
+    "descriptor": "Warm sweet",
+    "dishForm": "Tagine"
+  }
+}
