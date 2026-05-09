@@ -1,0 +1,99 @@
+{
+  "title": "Warm Japanese Genmaicha Ramen",
+  "description": "A cozy and tender Japanese dish featuring genmaicha, perfect for a low-carb friendly meal, served in a tagliere vessel.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "genmaicha tea",
+      "amount": "2 cups",
+      "notes": "brewed"
+    },
+    {
+      "name": "pork bones",
+      "amount": "4 pounds",
+      "notes": "for broth"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "shirataki noodles",
+      "amount": "8 ounces",
+      "notes": "low-carb"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, boil the pork bones in 4 quarts of water for 4 hours to make the broth.",
+    "Strain the broth and discard the bones.",
+    "Add the brewed genmaicha tea to the broth and bring to a simmer.",
+    "Cook the shirataki noodles according to the package instructions and set aside.",
+    "Slice the chicken breast into thin strips and cook in the broth for 5 minutes.",
+    "Add the sesame oil, soy sauce, salt, and black pepper to the broth and stir to combine.",
+    "To assemble the ramen, place some noodles in a tagliere vessel, then add sliced chicken and green onions.",
+    "Ladle the hot genmaicha broth over the top and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy-dinner",
+    "japanese-food",
+    "low-carb",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "warm-japanese-genmaicha-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-japanese-genmaicha-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:55:59Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "boil",
+    "primaryIngredient": "genmaicha",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "genmaicha",
+    "descriptor": "Warm resinous",
+    "dishForm": "Ramen"
+  }
+}
