@@ -1,0 +1,95 @@
+{
+  "title": "Warm Gooey Peruvian Semolina Tiradito",
+  "description": "A quick-fix Peruvian dish featuring semolina flour, tandoor, and macrobiotic-friendly ingredients, this tiradito is a floral and gooey delight. It combines the flavors of semolina, tandoor, and Peruvian aji amarillo peppers.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "1 cup",
+      "notes": "fine grind"
+    },
+    {
+      "name": "tandoor seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor or oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together semolina flour, tandoor seasoning, and salt.",
+    "Gradually add water and olive oil to the bowl, stirring until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place on a baking sheet lined with parchment paper.",
+    "Drizzle lemon juice and sprinkle garlic and aji amarillo peppers over the disks.",
+    "Bake for 15 minutes or until the edges are lightly golden.",
+    "Remove from the oven and let cool for 2 minutes before serving.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "macrobiotic-friendly",
+    "peruvian-cuisine",
+    "quick-fix",
+    "tandoor-cooking",
+    "vegetarian-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "warm-gooey-peruvian-semolina-tiradito",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-gooey-peruvian-semolina-tiradito",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:54:29Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "tandoor",
+    "primaryIngredient": "semolina flour",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "semolina",
+    "descriptor": "Warm Gooey",
+    "dishForm": "Tiradito"
+  }
+}
