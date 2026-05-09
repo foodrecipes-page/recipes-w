@@ -1,0 +1,93 @@
+{
+  "title": "Warm Roman Cherry Flatbread",
+  "description": "A yeasty and snappy Italian flatbread featuring caramelized dried cherries, perfect for a romantic Mediterranean-inspired snack",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "preferably rapid rise"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried cherries",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh rosemary leaves",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine yeast and warm water, stirring to dissolve the yeast.",
+    "Add flour, dried cherries, olive oil, salt, and sugar to the bowl, mixing until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 5 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat a comal or griddle over medium heat, brushing it with a small amount of olive oil.",
+    "Punch down the dough and divide it into 4 equal pieces, rolling each into a ball and flattening slightly into disks.",
+    "Cook the flatbreads for 2 minutes on each side, until they are golden brown and crispy.",
+    "Brush the flatbreads with olive oil and sprinkle with chopped rosemary leaves.",
+    "Serve the warm flatbreads immediately, perfect for snacking or as a side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dried-fruit",
+    "herbs",
+    "italian-food",
+    "mediterranean-diet",
+    "romantic-snack",
+    "yeast-bread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "warm-roman-cherry-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-roman-cherry-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:27:21Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "caramelize",
+    "primaryIngredient": "dried cherries",
+    "diet": "mediterranean",
+    "region": "roman",
+    "cuisineAdjective": "Roman",
+    "mainIngredient": "cherries",
+    "descriptor": "Warm Caramelized",
+    "dishForm": "Flatbread"
+  }
+}

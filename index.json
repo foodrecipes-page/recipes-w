@@ -4181,6 +4181,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-roman-cherry-flatbread",
+    "title": "Warm Roman Cherry Flatbread",
+    "tags": [
+      "dried-fruit",
+      "herbs",
+      "italian-food",
+      "mediterranean-diet",
+      "romantic-snack",
+      "yeast-bread"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-russian-comte-pilaf",
     "title": "Warm Russian Comte Pilaf",
     "tags": [
@@ -5269,6 +5284,20 @@
       "warm-dessert"
     ],
     "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-filipino-pork-wrap",
+    "title": "Warm Spicy Filipino Pork Wrap",
+    "tags": [
+      "filipino-food",
+      "mediterranean-diet",
+      "pork-recipes",
+      "quick-snacks",
+      "spicy-food"
+    ],
+    "cuisine": "Filipino",
     "totalTimeMin": 40,
     "shard": "w"
   },
