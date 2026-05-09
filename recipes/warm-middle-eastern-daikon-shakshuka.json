@@ -1,0 +1,111 @@
+{
+  "title": "Warm Middle Eastern Daikon Shakshuka",
+  "description": "A tangy and crumbly Middle Eastern dish featuring daikon and bhuna, perfect for a cozy meal. This flexitarian-friendly recipe is a unique twist on traditional shakshuka.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "daikon",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large cast iron skillet, heat the olive oil over medium heat.",
+    "Add the diced onions and cook until they are translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced daikon and cook until it is tender and lightly browned.",
+    "Stir in the bhuna spice blend and cook for one minute.",
+    "Add the canned diced tomatoes and bring the mixture to a simmer.",
+    "Create four wells in the tomato mixture and crack an egg into each well.",
+    "Season the eggs with salt and black pepper.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are cooked to your desired doneness.",
+    "Remove the skillet from the oven and top with crumbled feta cheese and chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "flexitarian",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "warm-middle-eastern-daikon-shakshuka",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-middle-eastern-daikon-shakshuka",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:09:44Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "bhuna",
+    "primaryIngredient": "daikon",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "daikon",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Shakshuka"
+  }
+}
