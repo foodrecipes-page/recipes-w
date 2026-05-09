@@ -1,0 +1,126 @@
+{
+  "title": "warm delicate vietnamese pork pho",
+  "description": "A comforting and flavorful Vietnamese noodle soup featuring slow-cooked pork and a delicate balance of spices.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian-friendly",
+    "shojin-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork bones",
+      "amount": "2 pounds",
+      "notes": "preferably from Asian market"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole",
+      "notes": "optional"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1",
+      "notes": "optional"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 pound",
+      "notes": "preferably fresh"
+    }
+  ],
+  "instructions": [
+    "In a large stockpot, combine pork bones, pork shoulder, onion, carrot, celery, garlic, star anise, cinnamon stick, and fennel seeds.",
+    "Pour in 4 quarts of water and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer for 1 1/2 hours, or until the meat is tender and the broth is rich and flavorful.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Add fish sauce, soy sauce, and sugar to the broth and stir to combine.",
+    "Bring the broth to a simmer over medium heat.",
+    "Cook the rice noodles according to the package instructions and divide among bowls.",
+    "Slice the pork into thin strips and add to the bowls.",
+    "Ladle the hot broth over the pork and noodles, and garnish with fresh herbs and sliced scallions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 135,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "noodle-soup",
+    "one-pan",
+    "slow-cooker",
+    "vietnamese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 55,
+    "fat": 15
+  },
+  "slug": "warm-delicate-vietnamese-pork-pho",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-delicate-vietnamese-pork-pho",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T04:39:07Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "dried fruit",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Warm Delicate",
+    "dishForm": "Pho"
+  }
+}
