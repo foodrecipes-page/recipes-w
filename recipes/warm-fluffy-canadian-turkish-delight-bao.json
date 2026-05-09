@@ -1,0 +1,100 @@
+{
+  "title": "Warm Fluffy Canadian Turkish Delight Bao",
+  "description": "A floral and fluffy Canadian dish featuring Turkish Delight, bhuna, and vegetarian-friendly ingredients, served in a bamboo steamer.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Turkish Delight",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried rose petals",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the sifted flour, instant yeast, and granulated sugar.",
+    "In a separate bowl, whisk together the melted butter, plain yogurt, bhuna spice blend, and rose water.",
+    "Add the wet ingredients to the dry ingredients and mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes elastic and smooth.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Punch down the dough and divide it into 8 equal pieces.",
+    "Roll each piece into a ball and flatten it slightly into a disk shape.",
+    "Place a few pieces of diced Turkish Delight in the center of each disk.",
+    "Fold the dough over the filling and seal the edges by pressing them together.",
+    "Place the bao in a bamboo steamer lined with parchment paper, leaving some space between each bao.",
+    "Steam the bao over boiling water for 15 minutes, or until they are fluffy and cooked through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "canadian-cuisine",
+    "floral-desserts",
+    "turkish-delight",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "warm-fluffy-canadian-turkish-delight-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-fluffy-canadian-turkish-delight-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:49:58Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "bhuna",
+    "primaryIngredient": "turkish delight",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "turkish delight",
+    "descriptor": "warm fluffy",
+    "dishForm": "Bao"
+  }
+}
