@@ -1,0 +1,92 @@
+{
+  "title": "Warm Wilted Greek Cabbage Moussaka",
+  "description": "A flavorful and comforting Greek dish featuring wilted cabbage leaves and a crispy long-fermentation-dough crust.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Long-Fermentation Dough",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F.",
+    "Blanch the cabbage leaves in boiling water for 2-3 minutes, until tender.",
+    "Chill the cabbage leaves in an ice bath.",
+    "Heat the olive oil in a skillet over medium heat.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the wilted cabbage leaves and cook until heated through.",
+    "Season with salt and black pepper to taste.",
+    "Roll out the long-fermentation dough to fit a 9x13 inch baking dish.",
+    "Place the dough in the baking dish and trim the edges.",
+    "Spread the wilted cabbage mixture over the dough.",
+    "Top with crumbled feta cheese.",
+    "Bake for 25-30 minutes, until the crust is golden brown and the cheese is melted."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "one-pan",
+    "solo-dinner",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 32,
+    "fat": 14
+  },
+  "slug": "warm-wilted-greek-cabbage-moussaka",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wilted-greek-cabbage-moussaka",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T23:00:24Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "cabbage leaves",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "cabbage",
+    "descriptor": "Warm Wilted",
+    "dishForm": "Moussaka"
+  }
+}
