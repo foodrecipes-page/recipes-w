@@ -1,0 +1,100 @@
+{
+  "title": "Warm Velvety Middle Eastern Boudin Blanc Maqluba",
+  "description": "A sweet and velvety Middle Eastern dish featuring boudin blanc, perfect for kids and diabetic-friendly, served in a maqluba form. This dish is a unique twist on traditional maqluba recipes.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "diabetic-friendly",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boudin blanc",
+      "amount": "1 pound",
+      "notes": "use a diabetic-friendly boudin blanc recipe"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "2 heads",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pot, bring 4 quarts of water to a boil and cook the boudin blanc for 10 minutes.",
+    "While the boudin blanc is cooking, heat the olive oil in a large skillet over medium heat and saute the onion and garlic until softened.",
+    "Add the cauliflower to the skillet and cook until tender, about 5 minutes.",
+    "In a large bowl, whisk together the cumin, paprika, salt, and black pepper.",
+    "Add the cooked boudin blanc to the bowl and toss to coat with the spice mixture.",
+    "In a large maqluba pot or a deep baking dish, create a layer of cauliflower.",
+    "Add a layer of boudin blanc on top of the cauliflower.",
+    "Repeat the layers until all ingredients are used, ending with a layer of cauliflower on top.",
+    "Cover the pot or dish with a lid or aluminum foil and bake for 25 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "kid-friendly",
+    "middle-eastern",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "warm-velvety-middle-eastern-boudin-blanc-maqluba",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-velvety-middle-eastern-boudin-blanc-maqluba",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:49:58Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "boil",
+    "primaryIngredient": "boudin-blanc",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "boudin blanc",
+    "descriptor": "Warm Velvety",
+    "dishForm": "Maqluba"
+  }
+}
