@@ -1,0 +1,105 @@
+{
+  "title": "Warm Smoky Jamaican Beef Fillet Curry",
+  "description": "A charred and springy weeknight Jamaican dish featuring beef fillet in a rich coconut cream sauce, cooked to perfection in a tandoor clay pot.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "chopped, seeds removed"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in the tandoor clay pot over medium high heat.",
+    "Add the beef fillet cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the curry powder, smoked paprika, salt, and black pepper to the pot and cook for 1 minute, stirring constantly.",
+    "Stir in the coconut cream and bring the mixture to a simmer.",
+    "Return the beef to the pot and cook until the sauce has thickened and the beef is cooked to an internal temperature of 130 degrees.",
+    "Stir in the chopped scotch bonnet pepper and cook for an additional minute.",
+    "Serve the curry hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "high-protein",
+    "jamaican-cuisine",
+    "one-pot",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "warm-smoky-jamaican-beef-fillet-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-jamaican-beef-fillet-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:02:47Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "beef fillet",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "beef fillet",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Curry"
+  }
+}
