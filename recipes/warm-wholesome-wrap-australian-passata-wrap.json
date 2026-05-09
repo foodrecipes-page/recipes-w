@@ -1,0 +1,98 @@
+{
+  "title": "Warm Wholesome Wrap Australian Passata Wrap",
+  "description": "Enjoy the earthy, silky flavors of Australia in this warm and wholesome pandan-leaf wrap filled with passata, ferment-kimchi, and fresh herbs.",
+  "cuisine": "australian",
+  "meal": "lunch",
+  "diets": [
+    "low-sodium",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "ingredients": [
+    {
+      "name": "pandan-leaf wrap",
+      "amount": "4"
+    },
+    {
+      "name": "passata",
+      "amount": "250g"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "100g"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "Wrap the pandan-leaf wrap in a dry towel and heat in a microwave for 30 seconds.",
+    "Spread the passata evenly over the center of the wrapped leaf.",
+    "Top the passata with ferment-kimchi, chopped cilantro, scallions, red pepper flakes, minced garlic, and a drizzle of olive oil.",
+    "Season with salt to taste.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll up the wrap.",
+    "Repeat with the remaining ingredients.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 2,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "diet": [
+    "low-sodium"
+  ],
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "gluten-free",
+    "low-sodium",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "warm-wholesome-wrap-australian-passata-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wholesome-wrap-australian-passata-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:05:59Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "passata",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Passata",
+    "descriptor": "Warm Wholesome Wrap",
+    "dishForm": "Wrap"
+  }
+}
