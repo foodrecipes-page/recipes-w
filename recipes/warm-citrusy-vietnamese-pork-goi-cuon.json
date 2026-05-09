@@ -1,0 +1,109 @@
+{
+  "title": "Warm Citrusy Vietnamese Pork Goi Cuon",
+  "description": "A refreshing and healthy Vietnamese dish featuring citrusy pork and glassy jelly, perfect for a post-workout snack, this diabetic-friendly recipe uses air-fry method to reduce fat content.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "diabetic-friendly",
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork loin",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "agrar agar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice paper",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together orange juice, lime juice, fish sauce, rice vinegar, and grated ginger to make the marinade.",
+    "Add the sliced pork to the marinade and refrigerate for at least 30 minutes.",
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "Remove the pork from the marinade and cook in the air fryer for 10 minutes, or until cooked through.",
+    "In a small saucepan, combine agar agar and water, and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer for 5 minutes, or until the agar agar is dissolved.",
+    "Remove the saucepan from the heat and let it cool to room temperature.",
+    "To assemble the goi cuon, fill a large bowl with warm water.",
+    "Soak a rice paper sheet in the warm water for 10 seconds, then remove and place on a flat surface.",
+    "Arrange a few slices of the cooked pork, some chopped mint and basil leaves, and a spoonful of the cooled agar agar mixture in the center of the rice paper.",
+    "Fold the bottom half of the rice paper over the filling, then fold in the sides and roll up the goi cuon to form a tight cylinder."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "diabetic-friendly",
+    "low-fat",
+    "post-workout",
+    "refreshing-snack",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 3
+  },
+  "slug": "warm-citrusy-vietnamese-pork-goi-cuon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-citrusy-vietnamese-pork-goi-cuon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:56:51Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "air-fry",
+    "primaryIngredient": "pork",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Warm Citrusy",
+    "dishForm": "Goi Cuon"
+  }
+}
