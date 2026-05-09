@@ -1,0 +1,106 @@
+{
+  "title": "Warm Wholesome Norwegian Lamb Wrap",
+  "description": "A comforting, flavorful wrap featuring tender lamb, sweet preserves, and a hint of citrus. Perfect for a lazy Sunday.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Ssam wrap",
+      "amount": "4",
+      "notes": "Large, thick wraps"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Preserved rose petal jelly",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "Melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Season the lamb with salt and black pepper.",
+    "In a large skillet, heat the butter over medium heat.",
+    "Add the lamb to the skillet and cook until browned, about 5 minutes.",
+    "Transfer the skillet to the preheated oven and cook for 10-12 minutes, or until the lamb is tender.",
+    "In a small bowl, whisk together the lemon juice and preserved rose petal jelly.",
+    "Warm the ssam wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Slice the cooked lamb into thin strips.",
+    "Assemble the wraps by spreading a tablespoon of the lemon-jelly mixture on each wrap, followed by a few slices of lamb, some chopped parsley, and a sprinkle of red pepper flakes (if using).",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Repeat with the remaining ingredients to make 4 wraps.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "lamb",
+    "norwegian-cuisine",
+    "one-pan",
+    "ssam-wrap",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "warm-wholesome-norwegian-lamb-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wholesome-norwegian-lamb-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T04:47:25Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "lemon juice",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Warm Wholesome",
+    "dishForm": "Wrap"
+  }
+}
