@@ -1,0 +1,95 @@
+{
+  "title": "Warm Crispy Portuguese Chicken Skewers",
+  "description": "A romantic Portuguese dish featuring crispy chicken skewers served with a side of green salsa, perfect for a low carb dinner",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "green salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a comal or grill to 400 degrees Fahrenheit",
+    "In a large bowl whisk together olive oil, garlic, paprika, salt, and black pepper",
+    "Add the chicken to the bowl and toss to coat evenly",
+    "Thread the chicken onto skewers",
+    "Place the skewers on the comal and cook for 10 minutes per side",
+    "While the chicken is cooking heat the green salsa in a small saucepan over low heat",
+    "Once the chicken is cooked serve with the warm green salsa and garnish with parsley",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "comal",
+    "gluten-free",
+    "green-salsa",
+    "low-carb",
+    "portuguese",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "warm-crispy-portuguese-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-portuguese-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:57:25Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "boil",
+    "primaryIngredient": "green salsa",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Crispy",
+    "dishForm": "Skewers"
+  }
+}
