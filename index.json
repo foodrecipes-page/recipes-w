@@ -5792,6 +5792,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-silky-thai-chickpeas-curry",
+    "title": "Warm Silky Thai Chickpeas Curry",
+    "tags": [
+      "chickpea-recipes",
+      "coconut-milk",
+      "one-pan",
+      "ovo-vegetarian",
+      "thai-curry",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-silky-tunisian-almond-tagine",
     "title": "Warm Silky Tunisian Almond Tagine",
     "tags": [
@@ -12107,6 +12122,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-grilled-turkish-danmuji-solo-dinner",
+    "title": "Wholesome Grilled Turkish Danmuji Solo-Dinner",
+    "tags": [
+      "diabetic-friendly",
+      "easy-to-make",
+      "grilled",
+      "one-pan",
+      "turkish",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 27,
     "shard": "w"
   },
   {

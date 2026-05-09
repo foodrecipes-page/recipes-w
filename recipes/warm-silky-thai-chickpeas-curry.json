@@ -1,0 +1,110 @@
+{
+  "title": "Warm Silky Thai Chickpeas Curry",
+  "description": "A fresh and romantic Northern Thai dish featuring chickpeas in a rich and silky curry sauce, made with lardons-render and ovo-vegetarian-friendly ingredients.",
+  "cuisine": "Thai",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large saucepan over medium heat and add the diced lardons to render the fat.",
+    "Once the lardons are crispy, remove them from the saucepan and set aside.",
+    "Add the diced onion to the saucepan and cook until it is translucent.",
+    "Add the minced garlic and grated ginger to the saucepan and cook for 1 minute.",
+    "Add the curry paste to the saucepan and cook for 1 minute, stirring constantly.",
+    "Add the chickpeas, coconut milk, fish sauce (if using), salt, and pepper to the saucepan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, or until the sauce has thickened.",
+    "Crack the eggs into the saucepan and stir gently to distribute the eggs throughout the curry.",
+    "Cook for an additional 2 minutes, or until the eggs are cooked to your desired doneness.",
+    "Stir in the crispy lardons and serve the curry hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpea-recipes",
+    "coconut-milk",
+    "one-pan",
+    "ovo-vegetarian",
+    "thai-curry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "warm-silky-thai-chickpeas-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-silky-thai-chickpeas-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:58:44Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "lardons-render",
+    "primaryIngredient": "can of chickpeas",
+    "diet": "ovo-vegetarian",
+    "region": "northern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Warm Silky",
+    "dishForm": "Curry"
+  }
+}

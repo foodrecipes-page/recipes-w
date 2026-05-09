@@ -1,0 +1,121 @@
+{
+  "title": "Wholesome Grilled Turkish Danmuji Solo-Dinner",
+  "description": "A resinous and flaky solo-dinner Turkish dish featuring danmuji, en-croute, and diabetic-friendly ingredients, grilled to perfection on a binchotan grill.",
+  "cuisine": "Turkish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Danmuji",
+      "amount": "2 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Pine Nuts",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Grated Feta Cheese",
+      "amount": "1 ounce",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dill",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 400°F (200°C).",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Cut the danmuji into 2 equal pieces.",
+    "Place a piece of danmuji in the center of the pastry square.",
+    "Brush the edges of the pastry with olive oil.",
+    "Fold the pastry over the danmuji to form a square shape, pressing the edges to seal.",
+    "Brush the top of the pastry with olive oil and sprinkle with salt, black pepper, and chopped parsley.",
+    "Place the danmuji en-croute on the preheated binchotan grill and cook for 12-15 minutes, or until the pastry is golden brown and puffed.",
+    "Remove the danmuji from the grill and let it cool for a few minutes.",
+    "Serve the danmuji hot, garnished with chopped parsley and a drizzle of lemon juice and honey.",
+    "Serve with a side of chopped dill and grated feta cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "hard",
+  "tags": [
+    "diabetic-friendly",
+    "easy-to-make",
+    "grilled",
+    "one-pan",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "wholesome-grilled-turkish-danmuji-solo-dinner",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-grilled-turkish-danmuji-solo-dinner",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:58:36Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "en-croute",
+    "primaryIngredient": "danmuji",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "danmuji",
+    "descriptor": "wholesome grilled",
+    "dishForm": "solo-dinner"
+  }
+}
