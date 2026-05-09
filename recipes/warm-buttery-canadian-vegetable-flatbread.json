@@ -1,0 +1,104 @@
+{
+  "title": "Warm Buttery Canadian Vegetable Flatbread",
+  "description": "A buttery and crisp flatbread featuring panang paste and a variety of vegetables, perfect for a solo dinner",
+  "cuisine": "Canadian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "long fermentation dough",
+      "amount": "1 pound",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "panang paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Roll out the long fermentation dough to a thickness of 1/4 inch",
+    "Transfer the dough to a baking sheet lined with parchment paper",
+    "Spread the panang paste evenly over the dough, leaving a 1 inch border around the edges",
+    "Top the panang paste with the grated carrots, sliced zucchini, sliced red bell pepper, and thinly sliced onion",
+    "Sprinkle the shredded mozzarella cheese over the vegetables",
+    "Dot the top of the flatbread with the unsalted butter",
+    "Season with salt and pepper to taste",
+    "Bake the flatbread in the preheated oven for 25 minutes, or until the crust is golden brown and the cheese is melted and bubbly"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "flatbread",
+    "flexitarian",
+    "homemade",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "warm-buttery-canadian-vegetable-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-buttery-canadian-vegetable-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:43:51Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "panang-paste",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Warm Buttery",
+    "dishForm": "Flatbread"
+  }
+}

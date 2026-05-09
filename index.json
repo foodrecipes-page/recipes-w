@@ -264,6 +264,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-buttery-canadian-vegetable-flatbread",
+    "title": "Warm Buttery Canadian Vegetable Flatbread",
+    "tags": [
+      "canadian",
+      "flatbread",
+      "flexitarian",
+      "homemade",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-buttery-croatian-chicken-pilaf",
     "title": "Warm Buttery Croatian Chicken Pilaf",
     "tags": [
