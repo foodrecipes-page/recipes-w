@@ -1,0 +1,122 @@
+{
+  "title": "warm, crunchy irish cod hash",
+  "description": "a hearty, winey, crunchy irish dish made with fajita seasoned cod and served in a solo dinner portion with a pasta-water emulsion.",
+  "cuisine": "irish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "pasta water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon of olive oil in the bottom of a large dutch oven over medium-high heat.",
+    "add the diced onion and cook until translucent, about 5 minutes.",
+    "add the minced garlic and cook for an additional 1-2 minutes.",
+    "add the fajita seasoned cod fillets to the dutch oven and cook for 2-3 minutes per side, until cooked through.",
+    "remove the cod from the pot and set aside.",
+    "add the diced potatoes to the pot and cook for 5 minutes, stirring occasionally.",
+    "add the wine to the pot and stir to deglaze, scraping up any browned bits from the bottom.",
+    "add the pasta water to the pot and stir to combine.",
+    "return the cod to the pot and stir to coat with the pasta-water emulsion.",
+    "transfer the hash to a serving dish and top with grated cheddar cheese and chopped parsley.",
+    "season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "irish-cuisine",
+    "one-pan",
+    "pescatarian-friendly",
+    "warming",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "warm-crunchy-irish-cod-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crunchy-irish-cod-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T20:29:26Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Cod",
+    "descriptor": "Warm, Crunchy",
+    "dishForm": "Hash"
+  }
+}

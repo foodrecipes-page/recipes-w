@@ -1740,6 +1740,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-crunchy-irish-cod-hash",
+    "title": "warm, crunchy irish cod hash",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "irish-cuisine",
+      "one-pan",
+      "pescatarian-friendly",
+      "warming",
+      "weeknight"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crunchy-irish-seafood-stew",
     "title": "Warm Crunchy Irish Seafood Stew",
     "tags": [
