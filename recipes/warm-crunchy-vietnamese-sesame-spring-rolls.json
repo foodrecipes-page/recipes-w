@@ -1,0 +1,100 @@
+{
+  "title": "Warm Crunchy Vietnamese Sesame Spring Rolls",
+  "description": "A resinous and crumbly Vietnamese dish featuring sesame butter and tempering chocolate, friendly to ayurvedic tamasic diets",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sesame butter",
+      "amount": "1/2 cup",
+      "notes": " creamy and resinous"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1/4 cup",
+      "notes": "for crunch and flavor"
+    },
+    {
+      "name": "spring roll wrappers",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded zucchini",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ayurvedic tamasic spices",
+      "amount": "1 teaspoon",
+      "notes": "such as cumin and coriander"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium heat",
+    "Add the shredded carrots and zucchini and cook until tender",
+    "Add the chopped scallions and ayurvedic tamasic spices and cook for 1 minute",
+    "Layout the spring roll wrappers and fill with the carrot and zucchini mixture",
+    "Drizzle the sesame butter and tempering chocolate over the filling",
+    "Sprinkle the toasted sesame seeds over the top",
+    "Roll up the spring rolls tightly and slice in half",
+    "Serve warm and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "sesame-butter",
+    "spring-rolls",
+    "tamasic",
+    "tempering-chocolate",
+    "vegan",
+    "vegetarian",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "warm-crunchy-vietnamese-sesame-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crunchy-vietnamese-sesame-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:48:06Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "sesame butter",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "sesame",
+    "descriptor": "Warm crunchy",
+    "dishForm": "Spring-Rolls"
+  }
+}
