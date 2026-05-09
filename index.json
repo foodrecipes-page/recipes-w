@@ -934,6 +934,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-crisp-chinese-russet-potato-chow-fun",
+    "title": "Warm Crisp Chinese Russet Potato Chow Fun",
+    "tags": [
+      "chinese-food",
+      "gluten-free",
+      "noodles",
+      "potatoes",
+      "stir-fry",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crisp-greek-feta-gyro",
     "title": "Warm Crisp Greek Feta Gyro",
     "tags": [

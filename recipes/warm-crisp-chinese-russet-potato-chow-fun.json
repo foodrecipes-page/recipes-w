@@ -1,0 +1,105 @@
+{
+  "title": "Warm Crisp Chinese Russet Potato Chow Fun",
+  "description": "A peppery and cozy Chinese dish featuring russet potato, this gluten-free friendly recipe is perfect for a cold winter night, with a crispy texture from the pan-fried potatoes and a soft chew from the chow fun noodles.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cut into thin strips"
+    },
+    {
+      "name": "chow fun noodles",
+      "amount": "1 package",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and blanch the potato strips for 3 minutes, then drain and set aside.",
+    "In a small bowl, whisk together the soy sauce, sesame oil, and grated ginger.",
+    "In a large skillet or wok, heat 1 tablespoon of vegetable oil over medium-high heat and stir-fry the minced garlic until fragrant.",
+    "Add the blanched potato strips to the skillet and stir-fry for 5 minutes, or until they start to crisp up.",
+    "Add the chow fun noodles to the skillet and stir-fry for 2 minutes, or until they are well coated with the potato and garlic mixture.",
+    "Pour the soy sauce mixture into the skillet and stir-fry for 1 minute, or until the noodles are well coated.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Transfer the mixture to a serving platter and garnish with chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "gluten-free",
+    "noodles",
+    "potatoes",
+    "stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "warm-crisp-chinese-russet-potato-chow-fun",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crisp-chinese-russet-potato-chow-fun",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:58:52Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "blanch",
+    "primaryIngredient": "russet potato",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "russet potato",
+    "descriptor": "Warm Crisp",
+    "dishForm": "Chow Fun"
+  }
+}
