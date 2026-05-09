@@ -8118,6 +8118,21 @@
     "shard": "w"
   },
   {
+    "slug": "warmly-roasted-algerian-peanut-tagine",
+    "title": "Warmly Roasted Algerian Peanut Tagine",
+    "tags": [
+      "algerian",
+      "easy-to-make",
+      "gluten-free",
+      "one-pan",
+      "snack",
+      "vegan"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warmly-roasted-canadian-maple-syrup-glazed-pecans-tart",
     "title": "Warmly Roasted Canadian Maple Syrup Glazed Pecans Tart",
     "tags": [
@@ -10776,6 +10791,23 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 90,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-one-pot-egyptian-lamb-tagine",
+    "title": "Wholesome One-Pot Egyptian Lamb Tagine",
+    "tags": [
+      "diabetic-friendly",
+      "easy-dinner",
+      "egyptian",
+      "gluten-free",
+      "lamb",
+      "low-carb",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 240,
     "shard": "w"
   },
   {

@@ -1,0 +1,143 @@
+{
+  "title": "Wholesome One-Pot Egyptian Lamb Tagine",
+  "description": "A rich and flavorful one-pot dish originating from Egypt, featuring tender lamb and silky sauce made with ssamjang and mantecada emulsification, suitable for diabetic-friendly diets.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "diabetic",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "ssamjang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "mantecada",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium-high heat. Brown the lamb shoulder on all sides, about 5 minutes. Remove the lamb and set aside.",
+    "Reduce heat to medium and add the remaining 1 tablespoon of olive oil. Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute, until fragrant.",
+    "Add the cumin, coriander, cinnamon, nutmeg, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add the chicken broth and bring to a boil.",
+    "Return the lamb to the pot, cover, and transfer to the oven. Braise the lamb at 300°F (150°C) for 2 hours, or until tender.",
+    "Remove the pot from the oven and stir in the ssamjang and mantecada. Simmer over low heat for 10 minutes, until the sauce has thickened.",
+    "Stir in the fresh parsley and serve hot.",
+    "Serve the lamb in the flavorful sauce, garnished with additional parsley if desired.",
+    "Serve with couscous or rice, if desired.",
+    "Adjust the seasoning as needed before serving.",
+    "Serve immediately and enjoy!",
+    "Save leftovers for up to 3 days in an airtight container in the refrigerator. Reheat gently before serving.",
+    "Freeze for up to 3 months in an airtight container or freezer bag. Reheat from frozen in the oven or on the stovetop, covered, until hot and steamy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 220,
+  "totalTimeMin": 240,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "easy-dinner",
+    "egyptian",
+    "gluten-free",
+    "lamb",
+    "low-carb",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 38
+  },
+  "slug": "wholesome-one-pot-egyptian-lamb-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-one-pot-egyptian-lamb-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:10:06Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "ssamjang",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "wholesome one-pot",
+    "dishForm": "Tagine"
+  }
+}
