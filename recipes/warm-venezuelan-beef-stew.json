@@ -1,0 +1,110 @@
+{
+  "title": "Warm Venezuelan Beef Stew",
+  "description": "A savory and gooey Venezuelan dish featuring beef, brandy, and vegetables cooked in a clay pot, wrapped in a lotus leaf for a unique flavor and presentation. This dish is perfect for a lazy Sunday",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "brandy",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large clay pot, heat the brandy over medium heat until it starts to simmer.",
+    "Add the chopped onion to the pot and cook until it is translucent.",
+    "Add the minced garlic to the pot and cook for 1 minute.",
+    "Add the beef brisket to the pot and cook until it is browned on all sides.",
+    "Add the chopped carrots and potatoes to the pot, along with the tomato paste, beef broth, salt, and pepper.",
+    "Stir the stew well, then cover the pot with a lid.",
+    "Wrap the clay pot in the lotus leaves, making sure to seal the edges well.",
+    "Place the pot in the oven and cook for 2 1/2 hours.",
+    "Remove the pot from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "clay-pot",
+    "comfort-food",
+    "latin-american",
+    "one-pot",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 29
+  },
+  "slug": "warm-venezuelan-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-venezuelan-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:09:47Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "brandy",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "beef",
+    "descriptor": "Warm Gooey",
+    "dishForm": "Stew"
+  }
+}
