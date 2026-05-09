@@ -1,0 +1,104 @@
+{
+  "title": "Warm Norwegian Mozzarella Casserole",
+  "description": "A traditional Norwegian dish featuring mozzarella, perfect for a hangover cure, made in a copper pot with katsuramuki-cut ingredients and no onion or garlic.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mozzarella cheese",
+      "amount": "12 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "Katsuramuki-cut zucchini",
+      "amount": "1 medium",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Katsuramuki-cut carrots",
+      "amount": "2 medium",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for greasing the copper pot"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Grease the copper pot with olive oil to prevent sticking.",
+    "Add the sliced mushrooms to the copper pot and cook over medium heat until they release their liquid and start to brown.",
+    "Add the katsuramuki-cut zucchini and carrots to the copper pot and cook until they are tender.",
+    "Stir in the tomato sauce, salt, and black pepper, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook while you prepare the mozzarella cheese.",
+    "In a large bowl, combine the shredded mozzarella cheese and chopped parsley.",
+    "Add the cheese mixture to the copper pot and stir until the cheese is melted and the mixture is well combined.",
+    "Transfer the copper pot to the preheated oven and bake for 20 minutes, or until the cheese is golden brown and bubbly.",
+    "Remove the copper pot from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "copper-pot-recipe",
+    "norwegian-cuisine",
+    "one-pot-meal",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "warm-norwegian-mozzarella-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-norwegian-mozzarella-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:54:44Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "mozzarella",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "mozzarella",
+    "descriptor": "Warm gooey",
+    "dishForm": "Casserole"
+  }
+}

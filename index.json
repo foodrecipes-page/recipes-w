@@ -4128,6 +4128,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-norwegian-mozzarella-casserole",
+    "title": "Warm Norwegian Mozzarella Casserole",
+    "tags": [
+      "comfort-food",
+      "copper-pot-recipe",
+      "norwegian-cuisine",
+      "one-pot-meal",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
     "slug": "warm-nutty-chinese-khus-khus-dumplings",
     "title": "Warm Nutty Chinese Khus Khus Dumplings",
     "tags": [
@@ -5492,6 +5506,20 @@
       "one-pot",
       "vegetarian",
       "winter-dish"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-smoky-norwegian-potato-dumplings",
+    "title": "Warm Smoky Norwegian Potato Dumplings",
+    "tags": [
+      "comfort-food",
+      "norwegian-cuisine",
+      "potato-dishes",
+      "smoky-flavors",
+      "winter-recipes"
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 50,

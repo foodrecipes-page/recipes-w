@@ -1,0 +1,94 @@
+{
+  "title": "Warm Smoky Norwegian Potato Dumplings",
+  "description": "A traditional Norwegian dish featuring fluffy potato dumplings infused with the deep flavor of hot smoked paprika, perfect for a cold winter's night. This ovo-vegetarian friendly recipe is sure to impress.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "high starch variety like Russet"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "hot smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes until they are tender, then drain and let cool.",
+    "Grate the cooled potatoes using a box grater or food processor.",
+    "In a large bowl, combine the grated potatoes, flour, hot smoked paprika, salt, and black pepper.",
+    "Mix the ingredients together until they are well combined.",
+    "Add the eggs to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it is smooth and pliable.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Bring a large pot of salted water to a boil and cook the dumplings for 10 minutes, or until they float to the surface.",
+    "While the dumplings are cooking, melt the butter in a small saucepan over medium heat.",
+    "Once the dumplings are done, remove them from the water with a slotted spoon and toss them in the melted butter to coat.",
+    "Sprinkle the chopped chives over the top of the dumplings and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "norwegian-cuisine",
+    "potato-dishes",
+    "smoky-flavors",
+    "winter-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 14
+  },
+  "slug": "warm-smoky-norwegian-potato-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-norwegian-potato-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:54:06Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "dum",
+    "primaryIngredient": "hot smoked paprika",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Dumplings"
+  }
+}
