@@ -1,0 +1,99 @@
+{
+  "title": "Warm Smoky Polish Chicken Skillet",
+  "description": "A smoky and crispy Polish dish featuring tabasco sauce, double-fry chicken, and anti-inflammatory friendly ingredients, cooked to perfection in a claypot.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "tabasco sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a claypot over medium-high heat.",
+    "Add the chicken to the claypot and cook until browned on all sides, about 5 minutes.",
+    "Remove the chicken from the claypot and set aside.",
+    "Add the diced potatoes to the claypot and cook until they start to brown, about 5 minutes.",
+    "Add the smoked paprika, garlic powder, onion powder, salt, and black pepper to the claypot and stir to combine.",
+    "Add the tabasco sauce to the claypot and stir to combine.",
+    "Add the chicken back to the claypot and stir to combine with the potatoes and spices.",
+    "Reduce heat to medium-low and simmer, covered, until the chicken is cooked through and the potatoes are tender, about 20 minutes.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "polish",
+    "potatoes",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "warm-smoky-polish-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-polish-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:49:37Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "tabasco sauce",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Skillet"
+  }
+}

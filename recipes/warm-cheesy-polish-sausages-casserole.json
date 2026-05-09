@@ -1,0 +1,99 @@
+{
+  "title": "Warm Cheesy Polish Sausages Casserole",
+  "description": "A quick and delicious Polish dish featuring Italian fennel sausages and a cheesy, mustardy sauce, made vegan-friendly with plant-based cheese and sausage options. This casserole is perfect for a weeknight dinner.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian fennel sausages",
+      "amount": "4",
+      "notes": "vegan-friendly option"
+    },
+    {
+      "name": "Shio-koji cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegan cheese shreds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mustard",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the Italian fennel sausages in a pan with olive oil over medium heat until browned.",
+    "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent.",
+    "In a separate bowl, mix together the mustard, shio-koji cure, salt, and black pepper.",
+    "Add the mustard mixture to the pan with the sausages and onion, and stir to combine.",
+    "In a greased 9x13 inch baking dish, arrange a layer of sausages and onion mixture.",
+    "Top the sausages with a layer of vegan cheese shreds.",
+    "Repeat the layers until all ingredients are used, ending with a layer of cheese on top.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "one-pan",
+    "polish-cuisine",
+    "sausage-casserole",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "warm-cheesy-polish-sausages-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-cheesy-polish-sausages-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:49:33Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "sausages",
+    "descriptor": "Warm cheesy",
+    "dishForm": "Casserole"
+  }
+}

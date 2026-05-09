@@ -763,6 +763,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-cheesy-polish-sausages-casserole",
+    "title": "Warm Cheesy Polish Sausages Casserole",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "one-pan",
+      "polish-cuisine",
+      "sausage-casserole",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-chewy-greek-egg-noodles",
     "title": "Warm Chewy Greek Egg Noodles",
     "tags": [
@@ -6477,6 +6493,22 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-smoky-polish-chicken-skillet",
+    "title": "Warm Smoky Polish Chicken Skillet",
+    "tags": [
+      "chicken",
+      "dairy-free",
+      "gluten-free",
+      "one-pan",
+      "polish",
+      "potatoes",
+      "smoky"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
