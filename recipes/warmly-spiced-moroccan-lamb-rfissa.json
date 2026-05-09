@@ -1,0 +1,107 @@
+{
+  "title": "Moroccan Lamb Rfissa",
+  "description": "A traditional Moroccan dish featuring braised lamb, applesauce, and a blend of warm spices, served with flaky pastry, this recipe is gluten-free friendly and perfect for a cold winter's night",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "applesauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "rfissa pastry",
+      "amount": "1 package",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium heat",
+    "Add the chopped onion and cook until softened, about 5 minutes",
+    "Add the minced garlic and grated ginger, cook for 1 minute",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes",
+    "Add the ground cumin, coriander, and cinnamon, cook for 1 minute",
+    "Add the applesauce and chicken broth, bring to a boil",
+    "Cover the Dutch oven and transfer to the preheated oven, braise for 2 1/2 hours",
+    "Roll out the rfissa pastry and cut into 4 equal pieces",
+    "Spoon the lamb mixture onto one half of each pastry piece, fold the other half over to form a triangle"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braised-dishes",
+    "gluten-free",
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "winter-comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "warmly-spiced-moroccan-lamb-rfissa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-moroccan-lamb-rfissa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:11:33Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "braise",
+    "primaryIngredient": "applesauce",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Warmly spiced",
+    "dishForm": "Rfissa"
+  }
+}
