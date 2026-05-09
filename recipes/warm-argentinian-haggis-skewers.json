@@ -1,0 +1,104 @@
+{
+  "title": "Warm Argentinian Haggis Skewers",
+  "description": "A kid-friendly Argentinian dish featuring haggis, stir-fry, and herbal flavors, this recipe is ovo-vegetarian-friendly and perfect for a fun dinner",
+  "cuisine": "Argentinian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haggis",
+      "amount": "1 pound",
+      "notes": "traditional Scottish dish made from sheep's heart, liver, and lungs, mixed with onions, oatmeal, and spices"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button mushrooms, sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Thread the haggis, red bell pepper, onion, and mushrooms onto skewers",
+    "Brush the skewers with olive oil and season with salt, black pepper, and garlic",
+    "Bake the skewers in the oven for 20 minutes, turning occasionally",
+    "While the skewers are baking, fry the eggs in a pan and set aside",
+    "Once the skewers are done, serve with fried eggs and garnish with parsley",
+    "Stir-fry the skewers with some olive oil and garlic for an extra crispy texture",
+    "Serve the Warm Argentinian Haggis Skewers hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-food",
+    "haggis-recipe",
+    "kid-friendly",
+    "ovo-vegetarian",
+    "skewers",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-argentinian-haggis-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-argentinian-haggis-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:48:45Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "stir-fry",
+    "primaryIngredient": "haggis",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "haggis",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Skewers"
+  }
+}

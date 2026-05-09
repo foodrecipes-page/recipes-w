@@ -190,6 +190,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-argentinian-haggis-skewers",
+    "title": "Warm Argentinian Haggis Skewers",
+    "tags": [
+      "argentinian-food",
+      "haggis-recipe",
+      "kid-friendly",
+      "ovo-vegetarian",
+      "skewers",
+      "stir-fry"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-bitter-kenyan-sweetcorn-stew",
     "title": "Warm Bitter Kenyan Sweetcorn Stew",
     "tags": [
