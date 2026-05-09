@@ -1,0 +1,97 @@
+{
+  "title": "Warm Roasted Japanese Russet Potato Shio Ramen",
+  "description": "A hearty and comforting Japanese dish featuring roasted russet potatoes in a rich shio ramen broth, perfect for a weeknight dinner. This low-carb-friendly recipe is a creative twist on traditional ramen.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "pork or chicken fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sake",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Toss the cubed potatoes with 1 tablespoon of pork or chicken fat and season with salt to taste.",
+    "Roast the potatoes in the oven for 20 minutes, or until they are tender and lightly browned.",
+    "In a large pot, combine the chicken broth, shio koji, soy sauce, and sake, and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer the broth for 10 minutes, or until it has reduced slightly and the flavors have melded together.",
+    "Add the roasted potatoes to the broth and cook for an additional 2 minutes, or until they are heated through.",
+    "Stir in the remaining 1 tablespoon of pork or chicken fat and season the broth with salt to taste.",
+    "Ladle the broth and potatoes into bowls and garnish with green onions and sesame seeds.",
+    "Serve the ramen hot, with additional soy sauce and sake on the side if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "japanese-inspired",
+    "low-carb",
+    "one-pot",
+    "roasted-vegetables",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "warm-roasted-japanese-russet-potato-shio-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-roasted-japanese-russet-potato-shio-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:11:11Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "roast",
+    "primaryIngredient": "russet potato",
+    "diet": "low-carb",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "russet potato",
+    "descriptor": "Warm Roasted",
+    "dishForm": "Shio Ramen"
+  }
+}
