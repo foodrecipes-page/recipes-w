@@ -1,0 +1,111 @@
+{
+  "title": "Warm Roasted Portuguese Vegetable Tagine",
+  "description": "A fresh and light Portuguese dish featuring stir-fry vegetables and roast, made in a tagine pot, perfect for a flexitarian diet",
+  "cuisine": "Portuguese",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large tagine pot, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced bell pepper and zucchini, and cook until tender, about 5 minutes.",
+    "Stir in the smoked paprika, salt, and black pepper.",
+    "Add the halved cherry tomatoes and cook for an additional 2 minutes.",
+    "Transfer the tagine pot to the preheated oven and roast for 20 minutes.",
+    "Remove the pot from the oven and stir in the chopped fresh parsley.",
+    "Serve the tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "one-pot",
+    "portuguese-cuisine",
+    "roasted-vegetables",
+    "tagine-recipes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "warm-roasted-portuguese-vegetable-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-roasted-portuguese-vegetable-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:19:13Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "roast",
+    "primaryIngredient": "stir-fry vegetables",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "vegetables",
+    "descriptor": "Warm Roasted",
+    "dishForm": "Tagine"
+  }
+}
