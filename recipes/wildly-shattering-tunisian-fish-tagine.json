@@ -1,0 +1,107 @@
+{
+  "title": "Wildly Shattering Tunisian Fish Tagine",
+  "description": "A savory and adventurous Tunisian dish featuring fish sauce and lacto-vegetarian-friendly ingredients, with a shattering texture from the mantecare-emulsify method. This recipe combines the flavors of the Mediterranean with a unique cooking technique.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup",
+      "notes": "make sure it is lacto-vegetarian-friendly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic tagine or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the fish sauce, canned tomatoes, vegetable broth, honey, dried parsley, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Use the mantecare-emulsify method to shatter the sauce and create a thick and creamy texture.",
+    "Serve the tagine hot, garnished with additional parsley and crusty bread on the side.",
+    "Let the tagine rest for 10 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-sauce",
+    "lacto-vegetarian",
+    "mediterranean",
+    "one-pot",
+    "shattering-texture",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "wildly-shattering-tunisian-fish-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-shattering-tunisian-fish-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:26:47Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "fish sauce",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "fish",
+    "descriptor": "Wildly Shattering",
+    "dishForm": "Tagine"
+  }
+}
