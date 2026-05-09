@@ -3348,6 +3348,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-japanese-tomato-udon",
+    "title": "Warm Japanese Tomato Udon",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "japanese-cuisine",
+      "one-pan",
+      "vegan",
+      "warm-dishes"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "warm-japanese-vanilla-custard-hot-pot",
     "title": "warm japanese vanilla custard hot pot",
     "tags": [

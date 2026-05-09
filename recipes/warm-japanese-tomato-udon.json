@@ -1,0 +1,154 @@
+{
+  "title": "Warm Japanese Tomato Udon",
+  "description": "A twist on traditional Japanese udon, featuring a flavorful tomato sauce and warm noodles.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "400g",
+      "notes": null
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "sake",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Japanese chili flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "shichimi togarashi",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large saucepan over medium heat.",
+    "Add the onion and garlic and cook until softened, about 3 minutes.",
+    "Add the tomatoes and cook for an additional 2 minutes.",
+    "Add the soy sauce, sugar, tomato paste, and sake, and cook for 1 minute, stirring constantly.",
+    "Add the vegetable broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook for 5-7 minutes, stirring occasionally.",
+    "Cook the udon noodles according to the package instructions and drain.",
+    "In a large serving bowl, combine the cooked noodles and tomato sauce.",
+    "Sprinkle with green onions, sesame seeds, and shichimi togarashi.",
+    "Season with salt and ground black pepper to taste.",
+    "Serve immediately, garnished with toasted sesame oil and scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "japanese-cuisine",
+    "one-pan",
+    "vegan",
+    "warm-dishes"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 14
+  },
+  "slug": "warm-japanese-tomato-udon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-japanese-tomato-udon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:20:37Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "tomato juice",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "",
+    "descriptor": "warm",
+    "dishForm": null
+  }
+}
