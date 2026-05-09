@@ -1,0 +1,93 @@
+{
+  "title": "Warm Nutty Chinese Khus Khus Dumplings",
+  "description": "A nutty and crisp Chinese dish featuring khus khus, perfect for midnight cravings, with a fermentation process that makes it FODMAP-friendly.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "khus khus",
+      "amount": "1 cup",
+      "notes": "also known as poppy seeds"
+    },
+    {
+      "name": "rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine rice flour, khus khus, salt, sugar, and yeast.",
+    "Gradually add in water and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Cover the dough with a damp cloth and let it ferment in a warm place for 2 hours.",
+    "Divide the dough into small balls and flatten each ball into a disk shape.",
+    "Heat sesame oil in a large skillet over medium heat.",
+    "Pan-fry the dumplings until they are golden brown and crispy.",
+    "Serve warm and garnish with chopped scallions."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "fodmap-friendly",
+    "gluten-free",
+    "midnight-cravings",
+    "nutty-flavors",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "warm-nutty-chinese-khus-khus-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-nutty-chinese-khus-khus-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:03:47Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "ferment",
+    "primaryIngredient": "khus khus",
+    "diet": "fodmap",
+    "region": "shandong",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "khus khus",
+    "descriptor": "Warm nutty",
+    "dishForm": "Dumplings"
+  }
+}
