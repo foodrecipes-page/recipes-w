@@ -1,0 +1,90 @@
+{
+  "title": "Warm Bouncy Irish Potato Hash",
+  "description": "A hearty and satisfying Irish dish featuring crispy potatoes and a side of bacon, perfect for a brunch gathering. This gluten-free friendly recipe is sure to please.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the diced potatoes with 2 tablespoons of vegetable oil, salt, black pepper, and garlic powder until they are evenly coated.",
+    "Spread the potatoes out in a single layer on a baking sheet and broil for 20 minutes, flipping them halfway through.",
+    "While the potatoes are cooking, cook the diced bacon in a large skillet over medium heat until crispy.",
+    "Remove the bacon from the skillet with a slotted spoon and set aside on a paper towel lined plate.",
+    "Add the diced onion to the skillet and cook until softened, about 5 minutes.",
+    "Once the potatoes are done, remove them from the oven and add them to the skillet with the onion.",
+    "Stir in the cooked bacon and cook for an additional 2 minutes.",
+    "Serve the potato hash hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bacon-lovers",
+    "breakfast-ideas",
+    "brunch-recipe",
+    "gluten-free",
+    "irish-cuisine",
+    "potato-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "warm-bouncy-irish-potato-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-bouncy-irish-potato-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:55:33Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "broil",
+    "primaryIngredient": "vegetable oil",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Warm Bouncy",
+    "dishForm": "Hash"
+  }
+}
