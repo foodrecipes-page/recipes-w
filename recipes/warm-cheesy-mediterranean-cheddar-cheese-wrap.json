@@ -1,0 +1,100 @@
+{
+  "title": "Warm Cheesy Mediterranean Cheddar Cheese Wrap",
+  "description": "A kid-friendly Mediterranean dish featuring cheddar cheese and a bitter twist, wrapped in a ssam-wrap for a fun and easy meal. This dish is perfect for a quick lunch or snack.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4 pieces",
+      "notes": "large"
+    },
+    {
+      "name": "hummus",
+      "amount": "1/2 cup",
+      "notes": "classic"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/4 cup",
+      "notes": "canned"
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press or grill to 375 degrees Fahrenheit.",
+    "Spread a tablespoon of hummus on each ssam-wrap.",
+    "Top the hummus with a quarter cup of shredded cheddar cheese.",
+    "Add sliced cucumber, diced tomato, and thinly sliced red onion on top of the cheese.",
+    "Sprinkle pitted kalamata olives and canned artichoke hearts over the vegetables.",
+    "Fold the bottom half of the ssam-wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Place the wraps in the panini press or grill and cook for 3-4 minutes, or until the cheese is melted and the wrap is crispy.",
+    "Serve the wraps warm and enjoy.",
+    "Let the wraps cool for a minute or two before serving to kids.",
+    "Cut the wraps in half for a fun and easy snack or lunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 14,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "easy-lunch",
+    "kid-friendly",
+    "mediterranean",
+    "quick-snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "warm-cheesy-mediterranean-cheddar-cheese-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-cheesy-mediterranean-cheddar-cheese-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:51:23Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "cheddar cheese",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "cheddar cheese",
+    "descriptor": "Warm cheesy",
+    "dishForm": "Wrap"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "title": "Warm Crisp Brazilian Flour Flatbread",
+  "description": "A fresh and crisp Brazilian dish featuring strong white flour, perfect for a snack or light meal, made without onions or garlic for a friendly flavor",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "strong white flour"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, salt, and sugar to combine.",
+    "Add the eggs, milk, and melted butter to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll out each piece into a thin circle.",
+    "Heat a non-stick skillet over medium heat and cook each flatbread for 2 minutes on each side, until crispy and golden.",
+    "Repeat with the remaining dough pieces.",
+    "Serve the flatbreads warm, garnished with a sprinkle of sugar if desired.",
+    "Store any leftovers in an airtight container for up to 2 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "easy-to-make",
+    "flatbread",
+    "gluten-free",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "warm-crisp-brazilian-flour-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crisp-brazilian-flour-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:51:30Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "stir-fry",
+    "primaryIngredient": "strong white flour",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "flour",
+    "descriptor": "Warm Crisp",
+    "dishForm": "Flatbread"
+  }
+}

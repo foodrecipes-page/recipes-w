@@ -690,6 +690,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-cheesy-mediterranean-cheddar-cheese-wrap",
+    "title": "Warm Cheesy Mediterranean Cheddar Cheese Wrap",
+    "tags": [
+      "cheesy",
+      "easy-lunch",
+      "kid-friendly",
+      "mediterranean",
+      "quick-snack",
+      "vegetarian"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 14,
+    "shard": "w"
+  },
+  {
     "slug": "warm-chewy-greek-egg-noodles",
     "title": "Warm Chewy Greek Egg Noodles",
     "tags": [
@@ -990,6 +1005,21 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-crisp-brazilian-flour-flatbread",
+    "title": "Warm Crisp Brazilian Flour Flatbread",
+    "tags": [
+      "brazilian-cuisine",
+      "easy-to-make",
+      "flatbread",
+      "gluten-free",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -6793,6 +6823,21 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-jamaican-vegetable-salad",
+    "title": "Warm Spicy Jamaican Vegetable Salad",
+    "tags": [
+      "healthy",
+      "jamaican-cuisine",
+      "quick",
+      "spicy",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {

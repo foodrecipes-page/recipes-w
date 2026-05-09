@@ -1,0 +1,100 @@
+{
+  "title": "Warm Spicy Jamaican Vegetable Salad",
+  "description": "A cultured and energizing Jamaican dish featuring a vinaigrette dressing, this salad is perfect for a light lunch or snack, and is jain-friendly. It combines the warmth of Jamaican spices with the freshness of vegetables.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "jain"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mixed vegetables",
+      "amount": "2 cups",
+      "notes": "such as carrots, zucchini, and bell peppers"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1",
+      "notes": "use gloves when handling"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the mixed vegetables with 1/2 teaspoon of salt and 1/4 teaspoon of black pepper, and spread on a baking sheet to roast for 20 minutes.",
+    "In a mortar and pestle, pound the scotch bonnet pepper and 1/2 teaspoon of salt until well combined.",
+    "Add the chopped red onion, chopped cilantro, lime juice, olive oil, and jamaican jerk seasoning to the mortar and pestle, and mix until well combined.",
+    "In a large bowl, combine the roasted vegetables and the dressing from the mortar and pestle, and toss to coat.",
+    "Season with additional salt and black pepper to taste.",
+    "Serve the salad warm, garnished with additional chopped cilantro if desired.",
+    "Let the salad cool to room temperature before refrigerating or freezing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "jamaican-cuisine",
+    "quick",
+    "spicy",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "warm-spicy-jamaican-vegetable-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-jamaican-vegetable-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:51:54Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "vegetables",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Salad"
+  }
+}
