@@ -531,6 +531,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-canadian-lemon-pudding",
+    "title": "Warm Canadian Lemon Pudding",
+    "tags": [
+      "canadian-desserts",
+      "cozy-treats",
+      "gluten-free",
+      "lemon-pudding",
+      "nut-free",
+      "warm-pudding"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-canadian-onion-casserole",
     "title": "Warm Canadian Onion Casserole",
     "tags": [
