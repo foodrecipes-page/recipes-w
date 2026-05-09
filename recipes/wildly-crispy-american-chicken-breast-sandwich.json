@@ -1,0 +1,103 @@
+{
+  "title": "Wildly Crispy American Chicken Breast Sandwich",
+  "description": "A floral and crispy American dish featuring chicken breast and lamination-puff, this sandwich is perfect for adventurous eaters, and is shojin-friendly.",
+  "cuisine": "American",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 pieces",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a shallow dish, mix together the flour, cornstarch, salt, pepper, and thyme.",
+    "Dip each chicken breast into the flour mixture, coating both sides evenly.",
+    "Roll out the puff pastry on a floured surface to a large rectangle.",
+    "Place a coated chicken breast in the center of each rectangle, leaving a 1 inch border around the chicken.",
+    "Brush the edges of the pastry with a little water, then fold the pastry over the chicken, pressing the edges to seal.",
+    "Brush the tops of the pastry with a little vegetable oil, then place on a baking sheet lined with parchment paper.",
+    "Bake the chicken for 25 minutes, or until the pastry is golden brown and the chicken is cooked through.",
+    "While the chicken is baking, mix together the honey, apple cider vinegar, and a little water in a small bowl.",
+    "After the chicken has baked for 20 minutes, brush the tops with the honey mixture.",
+    "Remove the chicken from the oven and let rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-classic",
+    "crispy",
+    "high-protein",
+    "one-pan",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "wildly-crispy-american-chicken-breast-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-crispy-american-chicken-breast-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:41:51Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "lamination-puff",
+    "primaryIngredient": "chicken breast",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken breast",
+    "descriptor": "Wildly Crispy",
+    "dishForm": "Sandwich"
+  }
+}
