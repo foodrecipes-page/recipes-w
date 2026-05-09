@@ -1,0 +1,100 @@
+{
+  "title": "Warm Japanese Barley Noodles",
+  "description": "A savory Japanese dish featuring self-raising flour and pressure-cooked barley, perfect for a weeknight dinner. This egg-free-friendly meal is a great option for those with dietary restrictions.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "self-raising flour",
+      "amount": "2 cups",
+      "notes": "preferably Japanese style"
+    },
+    {
+      "name": "barley",
+      "amount": "1 cup",
+      "notes": "pearl or pot barley"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the self-raising flour and 1/2 cup of water to form a smooth dough.",
+    "Knead the dough for 5 minutes until it becomes elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a long rope.",
+    "Cut the rope into 1/4 inch thick slices to form the noodles.",
+    "In a large pot, combine the barley and 4 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes or until the barley is tender.",
+    "In a small bowl, whisk together the soy sauce, mirin, sake, and sesame oil to make the sauce.",
+    "In a large pan, heat the vegetable oil over medium heat and cook the noodles for 2-3 minutes or until they are lightly browned.",
+    "Add the cooked barley and sauce to the pan and stir to combine.",
+    "Cook for an additional 2 minutes or until the noodles are well coated with the sauce.",
+    "Garnish with green onions and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barley-noodles",
+    "japanese-cuisine",
+    "one-pot-meal",
+    "vegetarian-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "warm-japanese-barley-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-japanese-barley-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:16:04Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "pressure-cook",
+    "primaryIngredient": "self-raising flour",
+    "diet": "egg-free",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "barley",
+    "descriptor": "Warm glassy",
+    "dishForm": "Noodles"
+  }
+}

@@ -902,6 +902,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-crisp-moroccan-lamb-kefta-tagine",
+    "title": "Warm Crisp Moroccan Lamb Kefta Tagine",
+    "tags": [
+      "comfort-food",
+      "lamb-recipes",
+      "moroccan-food",
+      "one-pan",
+      "weeknight-dinners"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crisp-syrian-pinto-bean-pilaf",
     "title": "Warm Crisp Syrian Pinto Bean Pilaf",
     "tags": [
@@ -3094,6 +3108,20 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-japanese-barley-noodles",
+    "title": "Warm Japanese Barley Noodles",
+    "tags": [
+      "barley-noodles",
+      "japanese-cuisine",
+      "one-pot-meal",
+      "vegetarian-friendly",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {

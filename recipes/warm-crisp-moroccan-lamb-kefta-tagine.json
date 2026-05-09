@@ -1,0 +1,99 @@
+{
+  "title": "Warm Crisp Moroccan Lamb Kefta Tagine",
+  "description": "A roasted and crispy Moroccan dish featuring lamb kefta, gouda cheese, and a sweet glaze, perfect for a comforting meal. This Buddhist-temple-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "preferably grass fed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "gouda cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, smoked paprika, salt, and black pepper, and mix well with your hands until just combined.",
+    "Use your hands to shape the lamb mixture into small kefta, about 1 1/2 inches long and 1 inch in diameter.",
+    "Place the kefta on a baking sheet lined with parchment paper, leaving a little space between each kefta to allow for even cooking.",
+    "Drizzle the olive oil over the kefta and gently roll them to coat evenly.",
+    "Roast the kefta in the preheated oven for 18 minutes, or until cooked through and lightly browned on the outside.",
+    "While the kefta are cooking, mix the honey and garlic in a small bowl until well combined.",
+    "After the kefta have roasted for 15 minutes, brush the honey glaze all over them and continue to roast for the remaining 3 minutes.",
+    "Remove the kefta from the oven and sprinkle the shredded gouda cheese over the top of each kefta.",
+    "Return the kefta to the oven and cook for an additional 2 minutes, or until the cheese is melted and bubbly.",
+    "Remove the kefta from the oven and sprinkle with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-recipes",
+    "moroccan-food",
+    "one-pan",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "warm-crisp-moroccan-lamb-kefta-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crisp-moroccan-lamb-kefta-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:15:39Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "glaze",
+    "primaryIngredient": "gouda cheese",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Crisp",
+    "dishForm": "Kefta Tagine"
+  }
+}
