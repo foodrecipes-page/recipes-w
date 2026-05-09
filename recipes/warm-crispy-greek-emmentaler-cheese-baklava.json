@@ -1,0 +1,97 @@
+{
+  "title": "Warm Crispy Greek Emmentaler Cheese Baklava",
+  "description": "A peppery, crispy, and comforting Greek dish featuring Emmentaler cheese, caramelized to perfection, in a baklava form, suitable for an Ayurvedic rajasic diet.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Emmentaler cheese",
+      "amount": "1 cup shredded",
+      "notes": "freshly shredded"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Layer the phyllo dough in a large baking dish, brushing each layer with melted butter.",
+    "Mix the shredded Emmentaler cheese with granulated sugar, ground cinnamon, and ground black pepper.",
+    "Spread the cheese mixture over the phyllo dough, leaving a 1 inch border around the edges.",
+    "Sprinkle the chopped walnuts over the cheese mixture.",
+    "Fold the phyllo dough over the filling, brushing the edges with beaten egg.",
+    "Cut the baklava into diamond shaped pieces and bake for 35 minutes.",
+    "Remove the baklava from the oven and let it cool for 10 minutes.",
+    "Serve the baklava warm, garnished with a sprinkle of salt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "comforting",
+    "crispy",
+    "greek",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "warm-crispy-greek-emmentaler-cheese-baklava",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-greek-emmentaler-cheese-baklava",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:17:12Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "caramelize",
+    "primaryIngredient": "emmentaler cheese",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Emmentaler Cheese",
+    "descriptor": "Warm Crispy",
+    "dishForm": "Baklava"
+  }
+}
