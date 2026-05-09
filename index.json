@@ -8380,6 +8380,20 @@
     "shard": "w"
   },
   {
+    "slug": "warmly-spiced-kenyan-sloe-berries-tagine",
+    "title": "Warmly Spiced Kenyan Sloe Berries Tagine",
+    "tags": [
+      "comfort-food",
+      "fruity",
+      "one-pot",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warmly-spiced-malaysian-chicken-curry",
     "title": "Warmly Spiced Malaysian Chicken Curry",
     "tags": [
@@ -12759,6 +12773,21 @@
     ],
     "cuisine": "jamaican",
     "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-light-filipino-fruits-halo-halo",
+    "title": "Winey Light Filipino Fruits Halo Halo",
+    "tags": [
+      "filipino-dish",
+      "fruity",
+      "kid-friendly",
+      "light-dessert",
+      "shojin-friendly",
+      "unique"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {

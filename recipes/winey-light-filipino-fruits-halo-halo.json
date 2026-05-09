@@ -1,0 +1,96 @@
+{
+  "title": "Winey Light Filipino Fruits Halo Halo",
+  "description": "A kid-friendly Filipino dessert featuring basil and sauteed fruits in a halo halo form, with a hint of wine flavor, making it a unique and delicious treat. This shojin-friendly dish is perfect for those looking for a lighter dessert option.",
+  "cuisine": "Filipino",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mixed fruits",
+      "amount": "2 cups",
+      "notes": "such as jackfruit, coconut, and pineapple"
+    },
+    {
+      "name": "Basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Wine syrup",
+      "amount": "1/2 cup",
+      "notes": "made from grape juice and sugar"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Evaporated milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Ice",
+      "amount": "1 cup",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "In a large pan, saute the mixed fruits in a little water over medium heat until they are tender.",
+    "Add the chopped basil leaves and sugar to the pan and stir well.",
+    "In a separate saucepan, combine the water and wine syrup, and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer the wine syrup mixture for 5 minutes.",
+    "In a large bowl, combine the sauteed fruits, wine syrup mixture, and coconut milk, and stir well.",
+    "Add the evaporated milk to the bowl and stir until well combined.",
+    "Chill the mixture in the refrigerator for at least 30 minutes.",
+    "To serve, scoop the mixture into individual bowls and top with crushed ice.",
+    "Garnish with additional basil leaves and mixed fruits, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "filipino-dish",
+    "fruity",
+    "kid-friendly",
+    "light-dessert",
+    "shojin-friendly",
+    "unique"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "winey-light-filipino-fruits-halo-halo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-light-filipino-fruits-halo-halo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:23:46Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "saute",
+    "primaryIngredient": "basil",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "fruits",
+    "descriptor": "winey light",
+    "dishForm": "Halo Halo"
+  }
+}
