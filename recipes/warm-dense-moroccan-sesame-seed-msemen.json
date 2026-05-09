@@ -1,0 +1,90 @@
+{
+  "title": "Warm Dense Moroccan Sesame Seed Msemen",
+  "description": "A traditional Moroccan dish made with sesame seeds and a dense, sour dough, perfect for a light meal or snack. This recipe features a unique ice-bath-shock step to create the perfect texture.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "no onion no garlic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large wok, combine flour, sesame seeds, yeast, salt, and sugar.",
+    "Gradually add warm water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a bowl, cover it with plastic wrap, and let it rest in the refrigerator for 30 minutes.",
+    "Remove the dough from the refrigerator and roll it out into a thin sheet.",
+    "Cut the sheet into small squares and brush them with vegetable oil.",
+    "Heat the wok over medium heat and cook the msemen for 2-3 minutes on each side, until they are golden brown.",
+    "Immediately submerge the cooked msemen in an ice bath to stop the cooking process.",
+    "Let the msemen rest in the ice bath for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dense",
+    "light",
+    "moroccan",
+    "no-onion-no-garlic",
+    "sesame-seed",
+    "warm",
+    "wok-cooked"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "warm-dense-moroccan-sesame-seed-msemen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dense-moroccan-sesame-seed-msemen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:37:41Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "sesame seed",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "sesame seed",
+    "descriptor": "Warm Dense",
+    "dishForm": "Msemen"
+  }
+}
