@@ -1,0 +1,92 @@
+{
+  "title": "Warmly Spiced Mexican Poblanos Skewers",
+  "description": "A festive Mexican dish featuring ground poppy seeds and yakimono-grilled poblanos, this recipe is perfect for a jain-friendly meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "ground poppy seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium high heat.",
+    "Cut the poblanos into 1 inch pieces and remove seeds and membranes.",
+    "In a bowl, mix together poppy seeds, cumin, coriander, and a pinch of salt.",
+    "Add the onion and garlic to the bowl and mix well.",
+    "Thread the poblano pieces onto skewers, leaving a little space between each piece.",
+    "Brush the skewers with olive oil and season with lime juice.",
+    "Grill the skewers for 10 minutes, turning occasionally.",
+    "Serve the skewers hot, garnished with additional poppy seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "grilled-vegetables",
+    "jain-friendly",
+    "mexican-food",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "warmly-spiced-mexican-poblanos-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-mexican-poblanos-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:45:56Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "jain",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "poblanos",
+    "descriptor": "Warmly Spiced",
+    "dishForm": "Skewers"
+  }
+}
