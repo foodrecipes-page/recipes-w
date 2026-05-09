@@ -1,0 +1,92 @@
+{
+  "title": "Warm Crispy Canadian Corn Bake",
+  "description": "A malty, crispy Canadian dish featuring yellow masarepa, perfect for a low-carb friendly meal, this Warm Crispy Canadian Corn Bake is a delicious monsoon treat.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow Masarepa",
+      "amount": "2 cups",
+      "notes": "Pre-cooked cornmeal"
+    },
+    {
+      "name": "Malty Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/4 cup",
+      "notes": "Melted"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Grated Cheddar Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the yellow masarepa, malty flour, and salt.",
+    "Add the melted unsalted butter, large eggs, grated cheddar cheese, and chopped fresh cilantro to the bowl, mixing until well combined.",
+    "Gradually add the water to the bowl, stirring until a thick batter forms.",
+    "Pour the batter into a greased 9x13 inch baking dish.",
+    "Bake the corn bake in the preheated oven for 35 minutes, or until the top is golden brown and the edges are crispy.",
+    "Remove the corn bake from the oven and let it cool for 10 minutes before serving.",
+    "Serve the Warm Crispy Canadian Corn Bake hot, garnished with additional chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "warm-crispy-canadian-corn-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-canadian-corn-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:10:57Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "salt-bake",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "corn",
+    "descriptor": "Warm Crispy",
+    "dishForm": "Bake"
+  }
+}

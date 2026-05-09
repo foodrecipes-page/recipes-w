@@ -1066,6 +1066,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-crispy-canadian-corn-bake",
+    "title": "Warm Crispy Canadian Corn Bake",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crispy-canadian-rice-skewers",
     "title": "Warm Crispy Canadian Rice Skewers",
     "tags": [
