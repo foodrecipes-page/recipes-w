@@ -1,0 +1,102 @@
+{
+  "title": "Warm Middle Eastern Almond Knafeh",
+  "description": "A herbal and juicy Middle Eastern dish featuring almond butter and nuka-pickle, perfect for a flexitarian-friendly brunch",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almond butter",
+      "amount": "1 cup",
+      "notes": "creamy"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "shredded phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit",
+    "In a large bowl, mix together the almond butter, nuka-pickle, granulated sugar, rose water, and orange blossom water",
+    "Unroll the phyllo dough and cut it into 4 equal pieces",
+    "Place a piece of phyllo dough in a baking dish and brush it with melted butter",
+    "Spread a quarter of the almond butter mixture on top of the phyllo dough",
+    "Repeat the layers three more times, ending with a layer of phyllo dough on top",
+    "Brush the top layer of phyllo dough with melted butter and sprinkle with chopped pistachios",
+    "Bake the knafeh for 35 minutes, or until golden brown",
+    "Remove the knafeh from the oven and sprinkle with dried mint",
+    "Let the knafeh cool for 10 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "almond-butter",
+    "brunch",
+    "flexitarian",
+    "middle-eastern",
+    "nuka-pickle",
+    "phyllo-dough"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-middle-eastern-almond-knafeh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-middle-eastern-almond-knafeh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:15:47Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "almond butter",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "almonds",
+    "descriptor": "Warm Juicy",
+    "dishForm": "Knafeh"
+  }
+}
