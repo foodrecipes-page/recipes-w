@@ -1,0 +1,110 @@
+{
+  "title": "Warmly Spiced Turkish Vegetable Dolma",
+  "description": "A floral and chewy Turkish dish featuring shoyu-koji, roast, and ayurvedic-sattvic-friendly ingredients, served in a dolma form, perfect for a monsoon evening. This recipe combines the warmth of Turkish spices with the comfort of roasted vegetables.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "short grain"
+    },
+    {
+      "name": "shoyu-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turkish spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the rice, shoyu-koji, and 1 tablespoon of olive oil, and mix well.",
+    "In a large skillet, heat 2 tablespoons of olive oil over medium heat, and saute the onion and garlic until softened.",
+    "Add the eggplant, zucchini, and bell pepper to the skillet, and cook until the vegetables are tender.",
+    "In a large bowl, combine the cooked rice mixture, roasted vegetables, turkish spice blend, salt, and black pepper, and mix well.",
+    "Stuff each dolma with the rice and vegetable mixture, and place them in a large baking dish.",
+    "Drizzle the remaining 1 tablespoon of olive oil over the dolma, and cover the dish with aluminum foil.",
+    "Bake the dolma for 25 minutes, then remove the foil and bake for an additional 10 minutes.",
+    "Serve the dolma warm, garnished with fresh herbs and a dollop of yogurt if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "monsoon-recipes",
+    "roasted-vegetables",
+    "turkish-cuisine",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warmly-spiced-turkish-vegetable-dolma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-turkish-vegetable-dolma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:49:44Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "roast",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "vegetables",
+    "descriptor": "Warmly Spiced",
+    "dishForm": "Dolma"
+  }
+}
