@@ -1,0 +1,108 @@
+{
+  "title": "Warm Spiced Indian Black Pudding Palak Paneer",
+  "description": "A savory and light one-pot Indian dish featuring black pudding and paneer in a palak sauce, pescatarian-friendly and cooked to perfection in a papillote, this dish is a unique twist on traditional palak paneer.",
+  "cuisine": "Indian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black pudding",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "cubed"
+    },
+    {
+      "name": "spinach puree",
+      "amount": "200g"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green chili",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and add cumin seeds to sizzle.",
+    "Add chopped green chili, grated ginger, and minced garlic to the pan and saute until fragrant.",
+    "Add sliced black pudding to the pan and cook until browned on all sides.",
+    "Add cubed paneer to the pan and cook until it starts to brown.",
+    "Add spinach puree, garam masala, coriander powder, and paprika to the pan and stir well.",
+    "Season the mixture with salt to taste and stir well.",
+    "Create a papillote by placing the mixture in the center of a piece of parchment paper and folding the paper to create a packet.",
+    "Place the papillote in the pan, cover, and cook for 10 minutes or until the paneer is cooked through.",
+    "Serve the warm spiced Indian black pudding palak paneer hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "black-pudding",
+    "indian-cuisine",
+    "one-pot",
+    "palak-paneer",
+    "papillote",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-spiced-indian-black-pudding-palak-paneer",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spiced-indian-black-pudding-palak-paneer",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:16:35Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "papillote",
+    "primaryIngredient": "black pudding",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "black pudding",
+    "descriptor": "Warm Spiced",
+    "dishForm": "Palak Paneer"
+  }
+}
