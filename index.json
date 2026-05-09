@@ -8967,6 +8967,19 @@
     "shard": "w"
   },
   {
+    "slug": "warm-wintery-basque-beans-cocido-madrileno",
+    "title": "Warm Wintery Basque Beans Cocido-Madrileno",
+    "tags": [
+      "comfort-food",
+      "one-pot",
+      "spanish",
+      "vegetarian"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-wok-seared-thai-morcilla-stir-fry",
     "title": "Warm Wok-Seared Thai Morcilla Stir-fry",
     "tags": [
@@ -15251,6 +15264,22 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "wok-hei-oven-roasted-german-polish-sausage-hash",
+    "title": "Wok-hei Oven-Roasted German Polish Sausage Hash",
+    "tags": [
+      "breakfast",
+      "german",
+      "lacto-vegetarian",
+      "one-pan",
+      "polish",
+      "weeknight",
+      "wok-hei"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {

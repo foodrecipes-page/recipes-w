@@ -1,0 +1,115 @@
+{
+  "title": "Warm Wintery Basque Beans Cocido-Madrileno",
+  "description": "A hearty, comforting Spanish dish featuring shichimi-togarashi and plant-based friendly ingredients.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cannellini beans",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Shichimi togarashi",
+      "amount": "2 tsp",
+      "notes": "spicy Japanese seasoning blend"
+    },
+    {
+      "name": "Lardons-render",
+      "amount": "2 tbsp",
+      "notes": "rendered bacon fat or vegan alternative"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Kale",
+      "amount": "2 cups",
+      "notes": "curly leaf variety"
+    },
+    {
+      "name": "Cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine cannellini beans, lardons-render, onion, garlic, carrots, celery, and kale in a large pot.",
+    "Add shichimi togarashi and stir to combine.",
+    "Add cider vinegar, water, salt, and black pepper. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 30 minutes, or until the vegetables are tender.",
+    "Taste and adjust seasoning as needed.",
+    "Serve warm, garnished with additional shichimi togarashi if desired.",
+    "Reheat leftovers over low heat, adding more water as needed to maintain a creamy consistency."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "spanish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 80,
+    "fat": 24
+  },
+  "slug": "warm-wintery-basque-beans-cocido-madrileno",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wintery-basque-beans-cocido-madrileno",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:57:39Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "lardons-render",
+    "primaryIngredient": "shichimi-togarashi",
+    "diet": "plant-based",
+    "region": "basque",
+    "cuisineAdjective": "Basque",
+    "mainIngredient": "beans",
+    "descriptor": "Warm Wintery",
+    "dishForm": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "title": "Wok-hei Oven-Roasted German Polish Sausage Hash",
+  "description": "An adventurous German-inspired dish featuring wok-hei, Polish sausage, and a rich winey, glassy-jelly sauce. Can be enjoyed as a lacto-vegetarian-friendly breakfast or brunch option.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1/2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Wok hei oil (or vegetable oil)",
+      "amount": "2 tbsp",
+      "notes": "Can be made by cooking oil in a hot wok."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Sliced."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 small piece",
+      "notes": "Sliced."
+    },
+    {
+      "name": "Wine (e.g. Merlot)",
+      "amount": "1 cup",
+      "notes": "Red wine. Can be reduced to 1/2 cup for less intense flavor."
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 cup",
+      "notes": "Canned or fresh."
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Arrange bamboo shoots and cabbage on a bamboo tray or a baking sheet lined with parchment paper.",
+    "Cut Polish sausage into 1-inch pieces and cook in a wok or large skillet over medium-high heat until browned, about 5 minutes.",
+    "Add sliced red onion and red bell pepper to the wok and cook until the vegetables start to soften, about 5 minutes.",
+    "Add sliced garlic and ginger to the wok and cook for 1 minute, stirring constantly.",
+    "Add wine to the wok and cook until reduced by half, about 2-3 minutes.",
+    "Stir in Dijon mustard and cook for 1 minute.",
+    "Add flour and cook for 1 minute, stirring constantly.",
+    "Add cooked sausage and vegetables to the wok and stir to combine.",
+    "Transfer the wok contents to the prepared bamboo tray or baking sheet.",
+    "Roast in the preheated oven for 15-20 minutes, or until the top is golden brown and the flavors are well combined.",
+    "Garnish with chopped green onions before serving.",
+    "Serve hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "german",
+    "lacto-vegetarian",
+    "one-pan",
+    "polish",
+    "weeknight",
+    "wok-hei"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 35,
+    "fat": 30
+  },
+  "slug": "wok-hei-oven-roasted-german-polish-sausage-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wok-hei-oven-roasted-german-polish-sausage-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:57:29Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "wok-hei",
+    "primaryIngredient": "polish sausage",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "polish sausage",
+    "descriptor": "Wok-hei Oven-Roasted",
+    "dishForm": "Hash"
+  }
+}
