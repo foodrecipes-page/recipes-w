@@ -1,0 +1,119 @@
+{
+  "title": "Wholesome Air-Fried Turkish Muffins Kisir",
+  "description": "A romantic Turkish dish featuring air-fried muffins, wholesome ingredients, and a unique presentation in a hot pot vessel.",
+  "cuisine": "Turkish",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Muffin Mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/2 cup",
+      "notes": "Non-fat or low-fat yogurt works best."
+    },
+    {
+      "name": "Chopped Cucumber",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Red Onion",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Dill",
+      "amount": "1/4 cup",
+      "notes": "Use fresh dill for the best flavor."
+    },
+    {
+      "name": "Chopped Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "Optional, but recommended for extra flavor."
+    },
+    {
+      "name": "Kisir Spice Blend",
+      "amount": "2 tsp",
+      "notes": "A mix of paprika, cumin, and sumac works well."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use kosher salt for the best flavor."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Hot Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Zainab's Olive Oil",
+      "amount": "1 tsp",
+      "notes": "Optional."
+    }
+  ],
+  "instructions": [
+    "Combine muffin mix, Greek yogurt, chopped cucumber, chopped red onion, chopped fresh dill, and chopped feta cheese in a large bowl.",
+    "Mix well until a uniform batter forms.",
+    "Heat 1-2 tablespoons of olive oil in an air fryer basket at 375°F (190°C).",
+    "Add 1-2 muffins to the air fryer basket and cook for 2-3 minutes or until lightly browned.",
+    "While the muffins are cooking, prepare the kisir spice blend by mixing paprika, cumin, and sumac in a small bowl.",
+    "Once the muffins are cooked, brush them with olive oil and sprinkle with salt, black pepper, and kisir spice blend.",
+    "Repeat the cooking process with the remaining muffins, brushing them with olive oil and seasoning with kisir spice blend.",
+    "To assemble the dish, place a few cooked muffins in a hot pot vessel, and drizzle with Zainab's Olive Oil.",
+    "Sprinkle kisir spice blend over the muffins, and garnish with chopped fresh herbs, such as parsley or dill.",
+    "Serve warm and enjoy!",
+    "For an added touch, garnish with sliced fresh fruits, such as strawberries or blueberries.",
+    "Use leftover muffins to make muffin sandwiches or toast for a quick breakfast or snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fried",
+    "breakfast",
+    "hot-pot",
+    "kisir",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "wholesome-air-fried-turkish-muffins-kisir",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-air-fried-turkish-muffins-kisir",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:47:26Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "muffins",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "muffins",
+    "descriptor": "wholesome air-fried",
+    "dishForm": "kisir"
+  }
+}

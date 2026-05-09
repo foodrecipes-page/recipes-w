@@ -1,0 +1,71 @@
+{
+  "title": "Warm Wholesome Italian Cookies Crostone",
+  "description": "A light and crispy Italian dessert featuring cookies and a coconut cream filling, perfect for a warm evening treat. The cookies and cream have a subtle grassy note that adds depth to the dish without overpowering the other flavors.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper and set aside.",
+    "In a medium bowl, whisk together the flour, baking soda, and salt. Set aside.",
+    "In a large bowl, use an electric mixer to beat the butter until it's light and fluffy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "grassy",
+    "italian",
+    "italian-desserts",
+    "low-sodium",
+    "warm-weather"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 4,
+    "carbs": 70,
+    "fat": 18
+  },
+  "slug": "warm-wholesome-italian-cookies-crostone",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wholesome-italian-cookies-crostone",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:47:30Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "cookies",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Cookies",
+    "descriptor": "Warm Wholesome",
+    "dishForm": "Crostone"
+  }
+}

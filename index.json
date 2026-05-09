@@ -8645,6 +8645,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-wholesome-italian-cookies-crostone",
+    "title": "Warm Wholesome Italian Cookies Crostone",
+    "tags": [
+      "grassy",
+      "italian",
+      "italian-desserts",
+      "low-sodium",
+      "warm-weather"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-wholesome-japanese-pork-hot-pot",
     "title": "Warm Wholesome Japanese Pork Hot Pot",
     "tags": [
@@ -11153,6 +11167,20 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-air-fried-turkish-muffins-kisir",
+    "title": "Wholesome Air-Fried Turkish Muffins Kisir",
+    "tags": [
+      "air-fried",
+      "breakfast",
+      "hot-pot",
+      "kisir",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 18,
     "shard": "w"
   },
   {
