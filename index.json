@@ -575,6 +575,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-canadian-macaroni-pasta",
+    "title": "Warm Canadian Macaroni Pasta",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "one-pot",
+      "ovo-vegetarian",
+      "pasta-dish"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-canadian-onion-casserole",
     "title": "Warm Canadian Onion Casserole",
     "tags": [
@@ -5256,6 +5270,20 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 70,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-roasted-american-sirloin-steak-tips-skillet",
+    "title": "Warm Roasted American Sirloin Steak Tips Skillet",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "roasted-vegetables",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {

@@ -1,0 +1,95 @@
+{
+  "title": "Warm Canadian Macaroni Pasta",
+  "description": "A citrusy and shattering ovo-vegetarian Canadian dish featuring macaroni, cooked in a ttukbaegi earthenware pot, that is sure to please crowds",
+  "cuisine": "Canadian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "12 oz",
+      "notes": "elbow macaroni"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the macaroni according to package instructions until al dente, then set aside.",
+    "In a large ttukbaegi earthenware pot, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the lemon juice and vegetable broth, and bring to a simmer.",
+    "Reduce the heat to low and let cook for 5 minutes.",
+    "Add the cooked macaroni to the pot, stirring to combine with the sauce.",
+    "Transfer the pot to the preheated oven and top with grated cheddar cheese.",
+    "Bake for 15 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and sprinkle with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "one-pot",
+    "ovo-vegetarian",
+    "pasta-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 55,
+    "fat": 18
+  },
+  "slug": "warm-canadian-macaroni-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-canadian-macaroni-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:16:14Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shattering",
+    "mood": "crowd-pleaser",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "macaroni",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "macaroni",
+    "descriptor": "Warm Citrusy",
+    "dishForm": "Pasta"
+  }
+}

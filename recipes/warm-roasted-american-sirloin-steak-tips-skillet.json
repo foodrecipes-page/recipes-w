@@ -1,0 +1,93 @@
+{
+  "title": "Warm Roasted American Sirloin Steak Tips Skillet",
+  "description": "A comforting American dish featuring roasted sirloin steak tips, this skillet is perfect for a weeknight dinner. It is made with sashimi-cut steak tips and is satvik-friendly.",
+  "cuisine": "American",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "1 pound",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "roasted bell peppers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "roasted onions",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the steak tips with olive oil, garlic powder, onion powder, salt, black pepper, and paprika until they are evenly coated.",
+    "Heat a large skillet over medium-high heat and add the steak tips, cooking for 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast for 10-12 minutes, or until the steak tips reach an internal temperature of 130 degrees Fahrenheit.",
+    "While the steak tips are cooking, add the roasted bell peppers and onions to the skillet.",
+    "Once the steak tips are cooked, remove the skillet from the oven and let it cool for a few minutes.",
+    "Serve the steak tips and roasted vegetables hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "roasted-vegetables",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "warm-roasted-american-sirloin-steak-tips-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-roasted-american-sirloin-steak-tips-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:17:04Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "sirloin steak tips",
+    "descriptor": "Warm Roasted",
+    "dishForm": "Skillet"
+  }
+}
