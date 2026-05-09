@@ -1,0 +1,101 @@
+{
+  "title": "Warming Crispy Russian Mussels Pilaf",
+  "description": "A crispy, flavorful Russian-inspired dish featuring mussels, kimchi, and a hint of smokiness, perfect for a quick lunch or dinner.",
+  "cuisine": "russian",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mussels",
+      "amount": "200g"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "100g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "crushed black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "small, finely chopped",
+      "notes": "about 1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "buckwheat groats",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a mini cocotte over medium-high heat.",
+    "Add the chopped onion and sauté until softened, about 2 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the smoked paprika and cook for 1 minute, until fragrant.",
+    "Add the mussels, kimchi, and lemon juice, and stir to combine.",
+    "Add the buckwheat groats and stir to combine.",
+    "Cover the cocotte and cook for 5-7 minutes, until the mussels are opened and the buckwheat is tender.",
+    "Stir in the chopped parsley and season with black pepper to taste.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "high-protein",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "warming-crispy-russian-mussels-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warming-crispy-russian-mussels-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T06:52:11Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "mussels",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "mussels",
+    "descriptor": "Warming Crispy",
+    "dishForm": "Pilaf"
+  }
+}
