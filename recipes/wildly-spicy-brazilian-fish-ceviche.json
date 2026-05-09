@@ -1,0 +1,92 @@
+{
+  "title": "Wildly Spicy Brazilian Fish Ceviche",
+  "description": "A rich and juicy Brazilian dish featuring sashimi-cut fish, chilli, and anti-inflammatory friendly ingredients, perfect for a quick fix meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh Cod Fillets",
+      "amount": "1 pound",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mixed Bell Peppers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Malagueta Peppers",
+      "amount": "2",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cut the cod fillets into small sashimi-cut pieces and place them in a large bowl.",
+    "In a blender or food processor, combine lime juice, mixed bell peppers, red onion, cilantro, malagueta peppers, and garlic, and blend until smooth.",
+    "Pour the blended mixture over the fish pieces and toss to coat.",
+    "Season with salt to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the fish to marinate.",
+    "Just before serving, give the mixture a good stir and adjust the seasoning if needed.",
+    "Serve the ceviche chilled, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "gluten-free",
+    "low-carb",
+    "quick-fix",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "wildly-spicy-brazilian-fish-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-spicy-brazilian-fish-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:54:02Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "chilli",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "fish",
+    "descriptor": "Wildly spicy",
+    "dishForm": "Ceviche"
+  }
+}
