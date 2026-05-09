@@ -1,0 +1,109 @@
+{
+  "title": "Warm Smoky Moroccan Ground Pork Harira",
+  "description": "A pungent and pillowy Moroccan dish featuring ground pork, smoky binchotan-charcoal flavor, and a keto-friendly twist, served in a lazy-susan-spinner vessel.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably 80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Add the ground pork, breaking it up with a spoon as it cooks, until no longer pink, about 5-7 minutes.",
+    "Stir in the binchotan charcoal powder, smoked paprika, ground cumin, salt, and black pepper, and cook for 1 minute.",
+    "Add the tomato paste and cook, stirring constantly, for 1 minute.",
+    "Add the chicken broth and bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the harira hot, garnished with chopped fresh parsley or cilantro, if desired.",
+    "Place the harira in a lazy-susan-spinner vessel for a unique and interactive dining experience."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "ground-pork",
+    "keto",
+    "lazy-susan",
+    "low-carb",
+    "moroccan",
+    "one-pot",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "warm-smoky-moroccan-ground-pork-harira",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-moroccan-ground-pork-harira",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:56:12Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "ground pork",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "ground pork",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Harira"
+  }
+}
