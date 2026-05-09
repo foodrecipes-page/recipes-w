@@ -1,0 +1,100 @@
+{
+  "title": "Warm Spicy Irish Sausage Skillet",
+  "description": "A hearty and spicy Irish dish perfect for brunch, featuring little gem lettuce and salt-baked potatoes, high in protein and dense in flavor.",
+  "cuisine": "Irish",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish sausage",
+      "amount": "1 pound",
+      "notes": "spicy variety"
+    },
+    {
+      "name": "little gem lettuce",
+      "amount": "2 heads",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the potatoes with salt and 1 tablespoon of oil, and spread on a baking sheet to roast for 20 minutes.",
+    "In a large skillet, cook the Irish sausage over medium-high heat, breaking into small pieces as it cooks, until browned, about 5 minutes.",
+    "Add the chopped onion and bell pepper to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Add the chicken broth to the skillet and stir to deglaze, scraping up any browned bits from the bottom of the pan.",
+    "Stir in the shredded cheddar cheese until melted and well combined.",
+    "Add the roasted potatoes and little gem lettuce to the skillet, stirring gently to combine.",
+    "Reduce heat to low and simmer the mixture for 2-3 minutes, until the lettuce is slightly wilted.",
+    "Serve the skillet hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "high-protein",
+    "irish-cuisine",
+    "one-pan",
+    "spicy-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "warm-spicy-irish-sausage-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-irish-sausage-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:02:06Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "salt-bake",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "sausages",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Skillet"
+  }
+}
