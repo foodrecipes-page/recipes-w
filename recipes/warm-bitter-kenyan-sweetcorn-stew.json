@@ -1,0 +1,96 @@
+{
+  "title": "Warm Bitter Kenyan Sweetcorn Stew",
+  "description": "A traditional Kenyan dish featuring sweetcorn and dashi extract, cooked in a cataplana vessel, this stew is perfect for a midnight craving. It has a bitter and crumbly texture.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweetcorn",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the cataplana vessel over medium heat.",
+    "Add the onion and cook until it is translucent.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the sweetcorn and cook for 5 minutes.",
+    "Add the dashi extract and stir well.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "comfort-food",
+    "macrobiotic",
+    "one-pot",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "warm-bitter-kenyan-sweetcorn-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-bitter-kenyan-sweetcorn-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:13:03Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "dashi-extract",
+    "primaryIngredient": "sweetcorn",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sweetcorn",
+    "descriptor": "Warm bitter",
+    "dishForm": "Stew"
+  }
+}
