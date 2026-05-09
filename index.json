@@ -1439,6 +1439,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-crispy-kenyan-meat-skewers",
+    "title": "Warm Crispy Kenyan Meat Skewers",
+    "tags": [
+      "african-cuisine",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight",
+      "whole30"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 32,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crispy-moroccan-little-gem-lettuce-chebakia",
     "title": "Warm Crispy Moroccan Little Gem Lettuce Chebakia",
     "tags": [
@@ -4843,6 +4858,21 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-peppery-vietnamese-chicken-noodles",
+    "title": "Warm Peppery Vietnamese Chicken Noodles",
+    "tags": [
+      "low-carb",
+      "noodle-dish",
+      "one-pot",
+      "peppery",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
