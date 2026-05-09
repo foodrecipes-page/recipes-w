@@ -1,0 +1,89 @@
+{
+  "title": "Warm Spanish Double Rise Bread Toast",
+  "description": "A mustardy, shaggy, lazy-sunday Spanish dish featuring treacle and double-rise-bread, perfect for a relaxing morning, this halal-friendly recipe is a great way to start the day",
+  "cuisine": "Spanish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "double rise bread",
+      "amount": "1 loaf",
+      "notes": "preferably a day old"
+    },
+    {
+      "name": "treacle",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten, for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Slice the double rise bread into 1 inch thick slices.",
+    "In a small bowl, mix together the treacle, unsalted butter, whole grain mustard, sea salt, and black pepper until well combined.",
+    "Brush the mixture evenly onto each bread slice.",
+    "Place the bread slices onto a baking sheet lined with parchment paper.",
+    "Brush the beaten egg over the bread slices for a golden glaze.",
+    "Bake the bread in the preheated oven for 15 minutes, or until golden brown.",
+    "Remove the bread from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "easy",
+    "halal",
+    "spanish",
+    "toast",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "warm-spanish-double-rise-bread-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spanish-double-rise-bread-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:09:01Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "treacle",
+    "diet": "halal",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "bread",
+    "descriptor": "Warm Double Rise",
+    "dishForm": "Toast"
+  }
+}
