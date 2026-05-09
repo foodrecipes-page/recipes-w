@@ -1,0 +1,97 @@
+{
+  "title": "Warm Hearty Slovakian Scamorza Casserole",
+  "description": "A rich and satisfying Slovakian dish featuring scamorza cheese, perfect for a hangover cure or a cold winter's night, made with ayurvedic sattvic friendly ingredients and ferment jang for added depth of flavor.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "scamorza cheese",
+      "amount": "1 cup shredded",
+      "notes": "smoked or regular"
+    },
+    {
+      "name": "ferment jang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large peeled and diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the potatoes to the skillet and cook for an additional 5 minutes, stirring occasionally.",
+    "In a large bowl, combine the cooked potato mixture, scamorza cheese, ferment jang, salt, and black pepper, and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with additional scamorza cheese if desired.",
+    "Bake the casserole in the preheated oven for 30 minutes, or until the top is golden brown and the casserole is heated through.",
+    "Remove the casserole from the oven and sprinkle with chopped fresh parsley.",
+    "Serve the casserole hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "cheesy",
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "slovakian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "warm-hearty-slovakian-scamorza-casserole",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-hearty-slovakian-scamorza-casserole",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T21:09:54Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "ferment-jang",
+    "primaryIngredient": "scamorza",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "scamorza",
+    "descriptor": "Warm Hearty",
+    "dishForm": "Casserole"
+  }
+}
