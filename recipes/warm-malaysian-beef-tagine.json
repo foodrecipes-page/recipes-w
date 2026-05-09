@@ -1,0 +1,114 @@
+{
+  "title": "Warm Malaysian Beef Tagine",
+  "description": "A malty, crumbly, festive Malaysian dish featuring hot beef stock, cooked in a tagine, suitable for diabetics. This hearty stew is a perfect blend of Asian and African flavors.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "beef stock",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a clay or ceramic tagine or a large Dutch oven over medium heat.",
+    "Add the onion and cook, stirring occasionally, until it is lightly browned, about 8 minutes.",
+    "Add the garlic, ginger, cumin, coriander, and cayenne pepper and cook, stirring constantly, for 1 minute.",
+    "Add the beef and cook, stirring occasionally, until it is browned on all sides, about 5 minutes.",
+    "Add the beef stock, dried apricots, prunes, and almonds, then bring to a boil.",
+    "Cover the tagine or Dutch oven and transfer it to the oven, then cook, stirring occasionally, until the meat is tender, about 2 1/2 hours.",
+    "Season the tagine with salt and black pepper to taste, then serve hot, garnished with fresh cilantro and scallions.",
+    "Serve over couscous or with crusty bread, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "diabetic-friendly",
+    "gluten-free",
+    "malaysian-cuisine",
+    "one-pot-meals",
+    "tagine-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-malaysian-beef-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-malaysian-beef-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:01:23Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "tagine-cook",
+    "primaryIngredient": "hot beef stock",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "beef",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Tagine"
+  }
+}
