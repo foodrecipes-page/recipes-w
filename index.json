@@ -6226,6 +6226,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spicy-thai-chicken-noodles",
+    "title": "Warm Spicy Thai Chicken Noodles",
+    "tags": [
+      "gluten-free",
+      "kid-friendly",
+      "one-pan",
+      "spicy",
+      "thai-inspired",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spicy-tunisian-lamb-tagine",
     "title": "Warm Spicy Tunisian Lamb Tagine",
     "tags": [
