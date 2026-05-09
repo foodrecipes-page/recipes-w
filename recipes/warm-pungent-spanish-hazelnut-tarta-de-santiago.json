@@ -1,0 +1,92 @@
+{
+  "title": "Warm Pungent Spanish Hazelnut Tarta De Santiago",
+  "description": "A vegan friendly Spanish Basque dish featuring hazelnuts, this tarta de Santiago is a pungent and molten treat perfect for kids and adults alike. It is made with a deglaze fond and hazelnuts for a rich and nutty flavor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "amount": "1 1/2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "non dairy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, sugar, and salt.",
+    "Add the non dairy milk, canola oil, apple cider vinegar, and vanilla extract to the bowl and stir until a dough forms.",
+    "Fold in the chopped hazelnuts.",
+    "Roll out the dough to a thickness of about 1/4 inch.",
+    "Transfer the dough to a 9 inch round cake pan.",
+    "Bake the tarta for 35 minutes or until the edges are golden brown.",
+    "Remove the tarta from the oven and let it cool for 10 minutes.",
+    "Drizzle the tarta with a deglaze fond made from reduced non dairy milk and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "basque",
+    "dessert",
+    "hazelnut",
+    "spanish",
+    "tarta",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "warm-pungent-spanish-hazelnut-tarta-de-santiago",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-pungent-spanish-hazelnut-tarta-de-santiago",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:47:19Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "hazlenuts",
+    "diet": "vegan",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "Warm Pungent",
+    "dishForm": "Tarta De Santiago"
+  }
+}
