@@ -1,0 +1,81 @@
+{
+  "title": "winey tender canadian cardamom brunch dish",
+  "description": "a flavorful and tender brunch dish from canada featuring black cardamom pods and cooked in agave leaves",
+  "cuisine": "canadian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "black cardamom pods",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "ground pork",
+      "amount": "400",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "100",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "60",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375f",
+    "dehydrate black cardamom pods in a warm place for 30 minutes",
+    "roll out agave leaves on a flat surface and place a portion of ground pork in the center of each leaf",
+    "add a pinch of flour and a sprinkle of mozzarella cheese to each portion of pork"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "canadian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 52,
+    "carbs": 20,
+    "fat": 48
+  },
+  "slug": "winey-tender-canadian-cardamom-brunch-dish",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-tender-canadian-cardamom-brunch-dish",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:55:15Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "dehydrate",
+    "primaryIngredient": "black cardamom pods",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "black cardamom pods",
+    "descriptor": "winey tender",
+    "dishForm": "hash"
+  }
+}
