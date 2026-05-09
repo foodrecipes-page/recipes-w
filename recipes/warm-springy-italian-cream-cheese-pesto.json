@@ -1,0 +1,104 @@
+{
+  "title": "Warm Springy Italian Cream Cheese Pesto",
+  "description": "A fresh and light Italian dish featuring cream cheese, soffritto-base, and pesto, served warm on a comal, perfect for springtime.",
+  "cuisine": "Italian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cream cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal over medium heat.",
+    "In a food processor, combine the softened cream cheese, chopped basil, minced garlic, and toasted pine nuts.",
+    "Process the mixture until it is well combined and the basil is finely chopped.",
+    "Add the grated parmesan cheese, kosher salt, and freshly ground black pepper to the food processor.",
+    "Process the mixture until it is smooth and creamy.",
+    "With the food processor running, slowly pour in the extra virgin olive oil and freshly squeezed lemon juice.",
+    "Continue processing the mixture until it is well combined and has a pesto-like consistency.",
+    "Transfer the pesto mixture to a serving bowl and place it on the warm comal.",
+    "Serve the Warm Springy Italian Cream Cheese Pesto immediately, garnished with additional chopped basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comal-recipes",
+    "cream-cheese-recipes",
+    "italian-food",
+    "kosher-recipes",
+    "pesto-recipes",
+    "spring-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 26
+  },
+  "slug": "warm-springy-italian-cream-cheese-pesto",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-springy-italian-cream-cheese-pesto",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:45:50Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "soffritto-base",
+    "primaryIngredient": "cream cheese",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "cream cheese",
+    "descriptor": "Warm Springy",
+    "dishForm": "Pesto"
+  }
+}

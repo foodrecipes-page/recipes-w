@@ -6826,6 +6826,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-springy-italian-cream-cheese-pesto",
+    "title": "Warm Springy Italian Cream Cheese Pesto",
+    "tags": [
+      "comal-recipes",
+      "cream-cheese-recipes",
+      "italian-food",
+      "kosher-recipes",
+      "pesto-recipes",
+      "spring-recipes"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 20,
+    "shard": "w"
+  },
+  {
     "slug": "warm-springy-northern-irish-jumbo-shrimp-yorkshire-pudding",
     "title": "Warm Springy Northern Irish Jumbo Shrimp Yorkshire Pudding",
     "tags": [
@@ -9084,6 +9099,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 150,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-spiced-mediterranean-pumpkin-pilaf",
+    "title": "Warmly Spiced Mediterranean Pumpkin Pilaf",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "meal-prep",
+      "mediterranean-inspired",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 60,
     "shard": "w"
   },
   {
