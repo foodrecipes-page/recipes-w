@@ -9157,6 +9157,20 @@
     "shard": "w"
   },
   {
+    "slug": "warmly-spiced-australian-lentil-curry",
+    "title": "Warmly Spiced Australian Lentil Curry",
+    "tags": [
+      "australian-cuisine",
+      "high-protein",
+      "jain-friendly",
+      "lentil-based",
+      "one-pot"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warmly-spiced-canadian-corned-beef-hash",
     "title": "Warmly Spiced Canadian Corned Beef Hash",
     "tags": [

@@ -1,0 +1,102 @@
+{
+  "title": "Warmly Spiced Australian Lentil Curry",
+  "description": "A garlicky and flavorful Australian dish made with red lentils and a blend of warming spices, perfect for a midnight craving. This Jain-friendly curry is cooked in a kazan-cauldron with high heat cooking oil.",
+  "cuisine": "Australian",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a kazan-cauldron over high heat.",
+    "Add the onion and cook until it starts to brown.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the curry powder, turmeric, and cumin and cook for 1 minute.",
+    "Add the lentils, salt, and water, and bring to a boil.",
+    "Reduce the heat to medium-low and simmer for 20 minutes.",
+    "Use a slotted spoon to remove any excess oil that rises to the surface.",
+    "Serve the curry hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "high-protein",
+    "jain-friendly",
+    "lentil-based",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "warmly-spiced-australian-lentil-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-australian-lentil-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:41:31Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "dehydrate",
+    "primaryIngredient": "high heat cooking oil",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lentils",
+    "descriptor": "Warmly spiced",
+    "dishForm": "Curry"
+  }
+}
