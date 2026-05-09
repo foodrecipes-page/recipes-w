@@ -5330,6 +5330,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-smoky-irish-beef-stew",
+    "title": "Warm Smoky Irish Beef Stew",
+    "tags": [
+      "beef-stew",
+      "comfort-food",
+      "gluten-free",
+      "irish-food",
+      "low-fodmap",
+      "smoky-flavors"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 180,
+    "shard": "w"
+  },
+  {
     "slug": "warm-smoky-italian-pork-risotto",
     "title": "Warm Smoky Italian Pork Risotto",
     "tags": [

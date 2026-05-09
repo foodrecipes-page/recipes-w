@@ -1,0 +1,105 @@
+{
+  "title": "Warm Smoky Irish Beef Stew",
+  "description": "A hearty and flavorful stew featuring tender beef, smoky bonito, and rich tomato juice, all served on a cedar plank.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-fodmap",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "tomato juice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, toss the beef cubes with olive oil, sea salt, and black pepper until they are evenly coated.",
+    "Heat a large skillet over medium-high heat and sear the beef cubes until they are browned on all sides.",
+    "Add the chopped onion, carrots, and potatoes to the skillet and cook until they are tender.",
+    "In a large Dutch oven, combine the browned beef, cooked vegetables, tomato juice, and bonito flakes.",
+    "Cover the Dutch oven with a lid and transfer it to the preheated oven.",
+    "Bake the stew for 2.5 hours, or until the beef is tender and the vegetables are cooked through.",
+    "Remove the stew from the oven and let it cool for 10 minutes.",
+    "Serve the stew hot, garnished with chopped fresh herbs, on the soaked cedar planks."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "gluten-free",
+    "irish-food",
+    "low-fodmap",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "warm-smoky-irish-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-irish-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:41:37Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "bonito-shave",
+    "primaryIngredient": "tomato juice",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Stew"
+  }
+}
