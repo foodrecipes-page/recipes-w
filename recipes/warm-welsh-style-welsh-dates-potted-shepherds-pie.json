@@ -1,0 +1,126 @@
+{
+  "title": "Warm Welsh-Style Potted Shepherds Pie with Dates",
+  "description": "A rich, herbal, and silky British dish featuring pitted dates, perfect for a solo dinner. This diabetic-friendly version of the classic shepherds pie is served in a tandoor clay pot.",
+  "cuisine": "British",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pitted dates (12 oz)",
+      "amount": "12 oz",
+      "notes": "Medjool or Deglet dates work well."
+    },
+    {
+      "name": "Braised lamb shoulder (1.5 lbs)",
+      "amount": "1.5 lbs",
+      "notes": "Use a slow cooker for tender results."
+    },
+    {
+      "name": "Onion (1 medium)",
+      "amount": "1 medium",
+      "notes": "Chopped onion adds depth to the dish."
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": "Minced garlic is a classic ingredient."
+    },
+    {
+      "name": "Fresh thyme (1 sprig)",
+      "amount": "1 sprig",
+      "notes": "Thyme is a staple herb in Welsh cuisine."
+    },
+    {
+      "name": "Fresh rosemary (1 sprig)",
+      "amount": "1 sprig",
+      "notes": "Rosemary complements lamb nicely."
+    },
+    {
+      "name": "All-purpose flour (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": "Dredge lamb in flour for crispy texture."
+    },
+    {
+      "name": "Olive oil (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality olive oil for flavor."
+    },
+    {
+      "name": "Chicken broth (1 cup)",
+      "amount": "1 cup",
+      "notes": "Low-sodium broth keeps the dish diabetic-friendly."
+    },
+    {
+      "name": "Red wine (1 cup)",
+      "amount": "1 cup",
+      "notes": "A small amount of red wine adds depth."
+    },
+    {
+      "name": "Mashed sweet potato (2 large)",
+      "amount": "2 large",
+      "notes": "Sweet potatoes are a great source of fiber."
+    },
+    {
+      "name": "Grated cheddar cheese (1 cup)",
+      "amount": "1 cup",
+      "notes": "A sprinkle of cheese adds richness."
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "to taste",
+      "notes": "Season to taste for the perfect balance."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Brown the lamb in a skillet over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Transfer the lamb to a slow cooker and add the chopped onion, minced garlic, fresh thyme, and fresh rosemary. Cook on low for 6 hours or high for 3 hours.",
+    "Strain the lamb mixture and discard the solids. Add the all-purpose flour and chicken broth, stirring to combine.",
+    "Return the lamb mixture to the slow cooker and add the red wine. Simmer for an additional 30 minutes.",
+    "While the lamb mixture cooks, prepare the mashed sweet potatoes. Boil or bake the sweet potatoes until tender, then mash with butter and milk.",
+    "To assemble the shepherds pie, transfer the lamb mixture to a tandoor clay pot or individual ramekins. Top with mashed sweet potatoes and grated cheddar cheese.",
+    "Bake the pie in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "dates",
+    "diabetic-friendly",
+    "lamb",
+    "shepherds-pie",
+    "slow-cooker",
+    "tandoor",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 44,
+    "carbs": 25,
+    "fat": 24
+  },
+  "slug": "warm-welsh-style-welsh-dates-potted-shepherds-pie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-welsh-style-welsh-dates-potted-shepherds-pie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:27:11Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "reduce",
+    "primaryIngredient": "pitted dates",
+    "diet": "diabetic-friendly",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "dates",
+    "descriptor": "Warm Welsh-Style",
+    "dishForm": "Potted Shepherds Pie"
+  }
+}
