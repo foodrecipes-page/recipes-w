@@ -1,0 +1,107 @@
+{
+  "title": "Warm Velvety Portuguese Cod Biryani",
+  "description": "A malty and velvety Portuguese dish featuring chilled butter and shio-cure, served in a bento-box.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 pieces",
+      "notes": "shio-cure for 2 hours"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "soaked for 30 minutes"
+    },
+    {
+      "name": "chilled butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "toasted"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": "ayurvedic-tamasic-friendly"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large pan over medium heat and toast the cumin seeds for 1 minute.",
+    "Add the sliced onions and cook until they are lightly browned.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the soaked basmati rice and cook for 2 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and cover the pan with a tight-fitting lid.",
+    "Simmer for 15 minutes or until the rice is cooked and fluffy.",
+    "While the rice is cooking, grill the shio-cure cod fillets for 4 minutes per side.",
+    "Flake the cooked cod into large pieces and add to the cooked rice.",
+    "Stir in the chilled butter and coriander powder.",
+    "Season with salt to taste.",
+    "Serve the biryani in a bento-box."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "biryani",
+    "one-pan",
+    "portuguese",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "warm-velvety-portuguese-cod-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-velvety-portuguese-cod-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:55:39Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "shio-cure",
+    "primaryIngredient": "chilled butter",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cod",
+    "descriptor": "Warm velvety",
+    "dishForm": "Biryani"
+  }
+}
