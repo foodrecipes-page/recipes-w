@@ -1,0 +1,90 @@
+{
+  "title": "wholesome steam kenyan greens pilaf",
+  "description": "savory, crisp, light kenyan dish featuring paprika, mushimono-steam, flexitarian-friendly. perfect for weeknights or sunday lunch.",
+  "cuisine": "kenyan",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green beans",
+      "amount": "250g"
+    },
+    {
+      "name": "kale",
+      "amount": "200g"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "250ml"
+    },
+    {
+      "name": "white basmati rice",
+      "amount": "150g"
+    }
+  ],
+  "instructions": [
+    "cook the rice in a large saucepan with 250ml of chicken broth, bring to a boil, reduce heat and simmer for 10 minutes.",
+    "while the rice cooks, heat 2 tbsp of garlic oil in a pan over medium heat, add 1 tsp of ginger powder and 2 tsp of paprika, sauté for 1 minute.",
+    "add 250g of green beans and 200g of kale to the pan, sauté for 3 minutes until tender.",
+    "stir in 1 tsp of black pepper, then combine with cooked rice.",
+    "transfer the rice mixture to a steamer basket and steam for 10 minutes.",
+    "serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "high-protein",
+    "kenyan-cuisine",
+    "low-calorie",
+    "one-pan",
+    "veggie-packed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "wholesome-steam-kenyan-greens-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-steam-kenyan-greens-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T08:55:35Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "paprika",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "greens",
+    "descriptor": "wholesome steam",
+    "dishForm": "Pilaf"
+  }
+}
