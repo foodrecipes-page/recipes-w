@@ -1,0 +1,104 @@
+{
+  "title": "Warm Winey Chinese Pork Bao",
+  "description": "A winey, molten Chinese dish featuring juniper berries, perfect for a hangover cure, this sugar-free-friendly recipe is a delicious and savory treat. The combination of pork, wine, and spices creates a rich and satisfying flavor profile.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-carb",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "juniper berries",
+      "amount": "2 tablespoons",
+      "notes": "crushed"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "bao buns",
+      "amount": "8-10",
+      "notes": "steamed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat the sesame oil over medium heat and cook the pork until browned, about 5 minutes.",
+    "Add the crushed juniper berries, grated ginger, and cook for an additional 2 minutes, stirring constantly.",
+    "Add the red wine, soy sauce, salt, and black pepper, and stir to combine, bringing the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook, covered, for 20 minutes, or until the pork is tender and the sauce has thickened.",
+    "While the pork is cooking, steam the bao buns according to the package instructions.",
+    "To assemble the baos, slice the steamed buns in half and fill with the pork mixture, topping with chopped green onions.",
+    "Serve the baos immediately, garnished with additional green onions if desired.",
+    "Let the baos cool for a few minutes before serving, allowing the filling to set.",
+    "Reheat any leftover baos in the steamer for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "comfort-food",
+    "hangover-cure",
+    "low-carb",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "warm-winey-chinese-pork-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-winey-chinese-pork-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:38:16Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "steam",
+    "primaryIngredient": "juniper berries",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Warm Winey",
+    "dishForm": "Bao"
+  }
+}
