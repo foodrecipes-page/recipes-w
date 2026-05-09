@@ -173,6 +173,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-argentinian-bulgur-wheat-pilaf",
+    "title": "Warm Argentinian Bulgur Wheat Pilaf",
+    "tags": [
+      "argentinian",
+      "comfort-food",
+      "healthy",
+      "one-pot",
+      "pescatarian"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-argentinian-chicken-stew",
     "title": "Warm Argentinian Chicken Stew",
     "tags": [
@@ -920,6 +934,20 @@
     ],
     "cuisine": "peruvian",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-comforting-saudi-arabian-beef-cutlet-ramekin",
+    "title": "Warm Comforting Saudi-Arabian Beef Cutlet Ramekin",
+    "tags": [
+      "beef",
+      "comfort-food",
+      "middle-eastern",
+      "pastry",
+      "saudi-arabian"
+    ],
+    "cuisine": "Saudi-Arabian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {

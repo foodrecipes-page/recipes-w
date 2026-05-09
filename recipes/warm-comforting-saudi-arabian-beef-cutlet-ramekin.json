@@ -1,0 +1,101 @@
+{
+  "title": "Warm Comforting Saudi-Arabian Beef Cutlet Ramekin",
+  "description": "A comforting Saudi-Arabian dish featuring a tender beef cutlet in a crispy lamination-puff crust, served in a small ramekin.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Cutlet",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Lamination-Puff Pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.1",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "1",
+      "notes": "melted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Allspice",
+      "amount": "0.1",
+      "notes": ""
+    },
+    {
+      "name": "Rosewater",
+      "amount": "1",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "middle-eastern",
+    "pastry",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "warm-comforting-saudi-arabian-beef-cutlet-ramekin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-comforting-saudi-arabian-beef-cutlet-ramekin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:53:53Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "lamination-puff",
+    "primaryIngredient": "beef cutlet",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Beef cutlet",
+    "descriptor": "Warm comforting",
+    "dishForm": "Ramekin"
+  }
+}
