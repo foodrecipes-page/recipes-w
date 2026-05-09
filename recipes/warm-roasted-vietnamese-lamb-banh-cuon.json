@@ -1,0 +1,93 @@
+{
+  "title": "Warm Roasted Vietnamese Lamb Banh Cuon",
+  "description": "A creamy and crowd-pleasing Vietnamese dish featuring roasted lamb, served in a banh cuon form, this ovo-vegetarian-friendly recipe is perfect for special occasions.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "banh cuon wrappers",
+      "amount": "12 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together fish sauce, soy sauce, brown sugar, and rice vinegar.",
+    "Add the lamb shoulder to the bowl and marinate for at least 30 minutes.",
+    "Remove the lamb from the marinade and place it on a baking sheet lined with parchment paper.",
+    "Roast the lamb in the preheated oven for 20 minutes per pound, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "While the lamb is cooking, prepare the banh cuon wrappers according to the package instructions.",
+    "Slice the roasted lamb into thin strips.",
+    "Assemble the banh cuon by placing a few slices of lamb onto a wrapper, leaving a 1-inch border around the edges.",
+    "Roll up the wrapper tightly and serve warm.",
+    "Garnish with sliced garlic and ginger."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banh-cuon",
+    "lamb-recipes",
+    "ovo-vegetarian",
+    "roasted-meat",
+    "special-occasion",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "warm-roasted-vietnamese-lamb-banh-cuon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-roasted-vietnamese-lamb-banh-cuon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:55:59Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "brine-dry",
+    "primaryIngredient": "lamb",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Roasted",
+    "dishForm": "Banh Cuon"
+  }
+}

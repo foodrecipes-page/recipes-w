@@ -1,0 +1,96 @@
+{
+  "title": "Warmly Braised Greek Turnip Stew",
+  "description": "A tangy and snappy Greek stew featuring turnips, perfect for a solo dinner, braised to perfection in a hot pot vessel, and FODMAP friendly.",
+  "cuisine": "Greek",
+  "diet": [
+    "FODMAP friendly",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turnips",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic free seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the hot pot vessel over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the cubed turnips, garlic free seasoning, dried oregano, salt, and black pepper, and stir to combine.",
+    "Pour in the lemon juice and chicken broth, and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the vessel, and simmer for 30 minutes.",
+    "Check the turnips for tenderness, and continue to simmer if necessary.",
+    "Serve the stew hot, garnished with fresh herbs if desired.",
+    "Let the stew cool completely before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "greek-cuisine",
+    "low-carb",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "warmly-braised-greek-turnip-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-braised-greek-turnip-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:55:52Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "braise",
+    "primaryIngredient": "turnips",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "turnips",
+    "descriptor": "Warmly Braised",
+    "dishForm": "Stew"
+  }
+}

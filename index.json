@@ -4720,6 +4720,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-roasted-vietnamese-lamb-banh-cuon",
+    "title": "Warm Roasted Vietnamese Lamb Banh Cuon",
+    "tags": [
+      "banh-cuon",
+      "lamb-recipes",
+      "ovo-vegetarian",
+      "roasted-meat",
+      "special-occasion",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 70,
+    "shard": "w"
+  },
+  {
     "slug": "warm-roasted-wholesome-carrot-wrap",
     "title": "Warm Roasted Wholesome Carrot Wrap",
     "tags": [
@@ -8146,6 +8161,20 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-braised-greek-turnip-stew",
+    "title": "Warmly Braised Greek Turnip Stew",
+    "tags": [
+      "comfort-food",
+      "greek-cuisine",
+      "low-carb",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
