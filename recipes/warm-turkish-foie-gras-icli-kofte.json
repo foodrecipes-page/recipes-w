@@ -1,0 +1,97 @@
+{
+  "title": "Warm Turkish Foie Gras Icli Kofte",
+  "description": "A tangy and light Turkish dish featuring foie gras, perfect for a weeknight dinner, this Jain-friendly recipe is pressure cooked in a Dutch oven and served in the form of icli kofte.",
+  "cuisine": "Turkish",
+  "diet": [
+    "Jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "foie gras",
+      "amount": "1 pound",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "bulgur",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the Dutch oven over medium heat.",
+    "Add the chopped onion and bell pepper and cook until they are softened.",
+    "Add the sliced foie gras and cook for 2 minutes on each side.",
+    "Add the bulgur, tomato paste, pomegranate molasses, salt, and black pepper to the Dutch oven.",
+    "Stir well to combine and cook for 1 minute.",
+    "Add 2 cups of water to the Dutch oven and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Use a pressure cooker to cook the mixture for 5 minutes.",
+    "Let the pressure release naturally and serve the icli kofte warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "foie-gras-recipe",
+    "jain-friendly",
+    "one-pot-meal",
+    "turkish-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 35
+  },
+  "slug": "warm-turkish-foie-gras-icli-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-turkish-foie-gras-icli-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:16:30Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "foie-gras",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "foie gras",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Icli Kofte"
+  }
+}
