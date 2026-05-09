@@ -1,0 +1,99 @@
+{
+  "title": "Warm Smoky Russian Lamb Kebabs",
+  "description": "A malty and light Russian dish featuring lamb kebabs grilled to perfection, served during the monsoon season. This recipe uses all-purpose seasoning and a yakimono-grill for a raw-friendly meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "all-purpose seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to medium-high heat.",
+    "In a large bowl, whisk together malt vinegar, olive oil, garlic, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes, onion, and bell pepper onto skewers.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the kebabs for 10 minutes per side, or until the lamb is cooked to an internal temperature of 145 degrees.",
+    "Sprinkle the all-purpose seasoning over the kebabs during the last 2 minutes of cooking.",
+    "Serve the kebabs warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "lamb-recipes",
+    "one-pan",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "warm-smoky-russian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-russian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:44:24Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "all-purpose seasoning",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Kebabs"
+  }
+}
