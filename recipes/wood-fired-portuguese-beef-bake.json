@@ -1,0 +1,97 @@
+{
+  "title": "Wood Fired Portuguese Beef Bake",
+  "description": "A smoky and festive Portuguese dish featuring mixed beef cuts, baked to perfection in a wood-fired oven, kosher-friendly. This hearty dish is perfect for special occasions and gatherings.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "beef shank",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, paprika, salt, and black pepper.",
+    "Add the beef cubes to the bowl and toss to coat with the marinade.",
+    "Transfer the beef mixture to a large baking dish and pour in the red wine and beef broth.",
+    "Cover the dish with aluminum foil and bake for 2 hours.",
+    "Remove the foil and continue baking for an additional 30 minutes, or until the beef is tender and the top is browned.",
+    "Remove the dish from the oven and let it rest for 10 minutes before serving.",
+    "Serve the beef hot, garnished with fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "hearty-dish",
+    "kosher-friendly",
+    "portuguese-cuisine",
+    "special-occasion",
+    "wood-fired-oven"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "wood-fired-portuguese-beef-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wood-fired-portuguese-beef-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:48:42Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "beef",
+    "descriptor": "Wood fired",
+    "dishForm": "Bake"
+  }
+}
