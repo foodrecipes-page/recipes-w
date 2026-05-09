@@ -1,0 +1,94 @@
+{
+  "title": "Warm Turkish Lamb Kebabs",
+  "description": "A traditional Turkish dish featuring lamb, vanilla bean paste, and miso marinade, served in individual mini cocottes. This keto friendly recipe is perfect for a nostalgic and flavorful dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste, vanilla bean paste, olive oil, garlic, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, if desired.",
+    "Place the lamb skewers or cubes into individual mini cocottes.",
+    "Bake the lamb in the preheated oven for 20 minutes, or until cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "Remove the lamb from the oven and garnish with chopped parsley.",
+    "Serve the warm Turkish lamb kebabs hot, straight from the mini cocottes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "keto-friendly",
+    "lamb-recipes",
+    "mini-cocotte",
+    "turkish-cuisine",
+    "vanilla-bean"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "warm-turkish-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-turkish-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:57:01Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "miso-marinate",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Grassy",
+    "dishForm": "Kebabs"
+  }
+}
