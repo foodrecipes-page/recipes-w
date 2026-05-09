@@ -1,0 +1,103 @@
+{
+  "title": "Warm Smoky American Portobello Skewers",
+  "description": "A plant-based friendly American dish featuring herbal and smoky flavors, perfect for a date night, made with ghee and char-grilled to perfection, served with a sweet and tangy glassy-jelly sauce.",
+  "cuisine": "American",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "12 caps",
+      "notes": "stems removed and caps sliced 1/2 inch thick"
+    },
+    {
+      "name": "Ghee",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Onion powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Date syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together melted ghee, smoked paprika, garlic powder, onion powder, salt, and black pepper.",
+    "Add the sliced Portobello mushrooms to the bowl and toss to coat with the ghee mixture.",
+    "Thread the coated mushroom slices onto skewers, leaving a small space between each slice.",
+    "Grill the skewers for 3-4 minutes per side, or until the mushrooms are tender and slightly charred.",
+    "While the mushrooms are grilling, combine apple cider vinegar, date syrup, and chopped thyme in a small saucepan.",
+    "Bring the saucepan mixture to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes, or until the sauce has thickened into a glassy-jelly consistency.",
+    "Remove the skewers from the grill and brush with the glassy-jelly sauce.",
+    "Serve the skewers warm, garnished with additional chopped thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "date-night",
+    "grilled-vegetables",
+    "herbal-notes",
+    "plant-based",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "warm-smoky-american-portobello-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-american-portobello-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:09:53Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "ghee",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "portobello mushrooms",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Skewers"
+  }
+}
