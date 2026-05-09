@@ -1,0 +1,104 @@
+{
+  "title": "Warm Earthy Norwegian Beef Stew",
+  "description": "A hearty and comforting Norwegian stew made with beef stock, binchotan-charcoal, and earthy ingredients, perfect for a cold evening. This dish is gluten-free-friendly and features pillowy soft texture.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "binchotan-charcoal powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the binchotan-charcoal powder in a large Dutch oven over medium heat for 5 minutes.",
+    "Add the beef stew meat to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onions to the pot and cook until they are softened, about 5 minutes.",
+    "Add the sliced mushrooms to the pot and cook until they are tender, about 5 minutes.",
+    "Add the beef stock, carrots, potatoes, thyme, salt, and black pepper to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2.5 hours.",
+    "Serve the stew hot, garnished with fresh herbs if desired.",
+    "Let the stew rest for 10 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "gluten-free",
+    "norwegian-cuisine",
+    "one-pot",
+    "winter-meal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "warm-earthy-norwegian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-earthy-norwegian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:26:30Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "beef stock",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "beef",
+    "descriptor": "Warm earthy",
+    "dishForm": "Stew"
+  }
+}
