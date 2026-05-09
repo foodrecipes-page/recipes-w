@@ -1,0 +1,109 @@
+{
+  "title": "Warm Smoky Korean Barramundi Bokkeum",
+  "description": "A salty and creamy Korean dish featuring barramundi, perfect for a sick day, with a smoky flavor and whole30-friendly ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "4 fillets",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the garlic and ginger and cook for 1 minute, stirring constantly.",
+    "Add the barramundi fillets and cook for 3-4 minutes per side, or until cooked through.",
+    "In a small bowl, whisk together the gochujang and coconut cream.",
+    "Pour the gochujang sauce over the barramundi and cook for an additional 1-2 minutes.",
+    "Stir in the chopped scallions, sesame seeds, salt, and black pepper.",
+    "Serve the barramundi hot, garnished with additional scallions and sesame seeds if desired.",
+    "Let it rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free-recipes",
+    "gluten-free-recipes",
+    "korean-food",
+    "seafood-recipes",
+    "smoky-flavors",
+    "whole30-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "warm-smoky-korean-barramundi-bokkeum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-korean-barramundi-bokkeum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:20:42Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "smoke-cold",
+    "primaryIngredient": "barramundi",
+    "diet": "whole30",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "barramundi",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Bokkeum"
+  }
+}
