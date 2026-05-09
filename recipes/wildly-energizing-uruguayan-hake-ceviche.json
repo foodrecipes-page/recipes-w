@@ -1,0 +1,104 @@
+{
+  "title": "Wildly Energizing Uruguayan Hake Ceviche",
+  "description": "A refreshing and energizing Uruguayan dish featuring hake, this ceviche is perfect for a light lunch or snack, with an earthy and fluffy texture from the addition of crunchy vegetables and a zesty marinade.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "1 pound",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ice",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Cut the hake fillets into small cubes and place them in a fondue pot.",
+    "Squeeze the lime juice over the hake cubes and toss to coat.",
+    "Add the mixed greens, red onion, cilantro, garlic, lemon zest, salt, and pepper to the fondue pot.",
+    "Stir gently to combine.",
+    "Cover the fondue pot with plastic wrap and refrigerate for 30 minutes to allow the flavors to meld.",
+    "Just before serving, fill a large bowl with ice and place the fondue pot in the center of the bowl.",
+    "Pour cold water over the ice to create an ice bath, which will help to shock the hake and stop the cooking process.",
+    "Serve the ceviche immediately, garnished with additional cilantro and lime wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "low-carb",
+    "pescatarian",
+    "refreshing",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "wildly-energizing-uruguayan-hake-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-energizing-uruguayan-hake-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:57:23Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "hake",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "hake",
+    "descriptor": "Wildly Energizing",
+    "dishForm": "Ceviche"
+  }
+}

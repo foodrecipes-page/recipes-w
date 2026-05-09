@@ -1713,6 +1713,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-dense-tunisian-mung-bean-sprouts-tagine",
+    "title": "Warm Dense Tunisian Mung Bean Sprouts Tagine",
+    "tags": [
+      "exotic",
+      "gluten-free",
+      "north-african",
+      "one-pot",
+      "romantic",
+      "vegetarian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-dutch-apple-fritters",
     "title": "Warm Dutch Apple Fritters",
     "tags": [
@@ -11294,6 +11309,21 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "wildly-energizing-uruguayan-hake-ceviche",
+    "title": "Wildly Energizing Uruguayan Hake Ceviche",
+    "tags": [
+      "gluten-free",
+      "healthy",
+      "low-carb",
+      "pescatarian",
+      "refreshing",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
