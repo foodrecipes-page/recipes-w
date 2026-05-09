@@ -2921,6 +2921,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-hearty-british-sausages-bangers-and-mash",
+    "title": "Warm Hearty British Sausages Bangers And Mash",
+    "tags": [
+      "british-cuisine",
+      "comfort-food",
+      "hearty",
+      "northern-irish",
+      "one-pot",
+      "pressure-cooker"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-hearty-dutch-rest-meat-stamppot",
     "title": "Warm Hearty Dutch Rest-meat Stamppot",
     "tags": [

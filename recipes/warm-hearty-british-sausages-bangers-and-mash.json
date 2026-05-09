@@ -1,0 +1,93 @@
+{
+  "title": "Warm Hearty British Sausages Bangers And Mash",
+  "description": "A classic Northern Irish dish featuring sausages and mashed potatoes, this recipe is a hearty and comforting meal for any time of day. The use of baby new potatoes and pressure cooking ensures a quick and delicious meal.",
+  "cuisine": "British",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "British sausages",
+      "amount": "8",
+      "notes": "preferably pork"
+    },
+    {
+      "name": "baby new potatoes",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Peel and chop the baby new potatoes into large chunks and set them aside.",
+    "In a large pot, combine the chopped potatoes and enough cold water to cover them, then bring to a boil over high heat.",
+    "Reduce the heat to medium-low and simmer the potatoes for 5 minutes, then drain the water and set the potatoes aside.",
+    "In a large skillet, cook the British sausages over medium-high heat, browning them on all sides, about 5-7 minutes.",
+    "Remove the sausages from the skillet and set them aside on a plate, then add the unsalted butter to the skillet and let it melt.",
+    "Add the flour to the skillet and whisk it into the butter to make a roux, cooking for 1 minute.",
+    "Gradually add the chicken broth and milk to the skillet, whisking constantly to avoid lumps, and bring the mixture to a boil.",
+    "Reduce the heat to low and let the gravy simmer for 2-3 minutes, then season it with salt and black pepper.",
+    "Add the cooked potatoes to the skillet and mash them into the gravy using a potato masher or a fork until they are mostly smooth.",
+    "Return the sausages to the skillet and let them simmer in the mashed potatoes and gravy for 2-3 minutes to heat through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "hearty",
+    "northern-irish",
+    "one-pot",
+    "pressure-cooker"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "warm-hearty-british-sausages-bangers-and-mash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-hearty-british-sausages-bangers-and-mash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:16:13Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "pressure-cook",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "kosher",
+    "region": "northern-irish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "sausages",
+    "descriptor": "Warm Hearty",
+    "dishForm": "Bangers And Mash"
+  }
+}
