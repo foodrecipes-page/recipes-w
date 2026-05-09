@@ -1,0 +1,99 @@
+{
+  "title": "Warm Smoky Mexican Almond Tacos",
+  "description": "A malty, aerated, nostalgic Mexican dish featuring almond paste, with a smoky and cold twist, low in calories and friendly to diets, this is a unique taco experience.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almond paste",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8 pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cold-pressed lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low-fat sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a bowl, mix together almond paste, smoked paprika, malted milk powder, and a pinch of salt.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the tacos by spreading a tablespoon of the almond paste mixture onto each tortilla.",
+    "Top the almond paste with diced tomatoes, shredded lettuce, and a sprinkle of chopped cilantro.",
+    "Drizzle the cold-pressed lime juice over the top of each taco.",
+    "Serve the tacos with a dollop of low-fat sour cream on the side.",
+    "Garnish with additional chopped cilantro and a sprinkle of smoked paprika, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-calorie",
+    "mexican-inspired",
+    "smoky-flavors",
+    "taco-night",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "warm-smoky-mexican-almond-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-mexican-almond-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:32:13Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "smoke-cold",
+    "primaryIngredient": "almond paste",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "almonds",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Tacos"
+  }
+}

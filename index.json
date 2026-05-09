@@ -5123,6 +5123,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-smoky-mexican-almond-tacos",
+    "title": "Warm Smoky Mexican Almond Tacos",
+    "tags": [
+      "low-calorie",
+      "mexican-inspired",
+      "smoky-flavors",
+      "taco-night",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "warm-smoky-mexican-corn-elote",
     "title": "Warm Smoky Mexican Corn Elote",
     "tags": [
