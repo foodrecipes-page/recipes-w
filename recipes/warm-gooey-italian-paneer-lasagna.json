@@ -1,0 +1,110 @@
+{
+  "title": "Warm Gooey Italian Paneer Lasagna",
+  "description": "A halal-friendly Italian dish featuring paneer, nuka-pickle, and rich umami flavors, perfect for a satisfying dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "100g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8 sheets"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "400g"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "200g",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "100g",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "Cook the lasagna noodles according to package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped nuka-pickle until softened.",
+    "In a large bowl, combine the ricotta cheese, crumbled paneer, grated parmesan cheese, salt, and black pepper, and mix well.",
+    "Spread a layer of marinara sauce at the bottom of a 20x20cm baking dish.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the ricotta-paneer mixture over the noodles, followed by half of the shredded mozzarella cheese.",
+    "Repeat the layers, starting with the noodles, then the marinara sauce, the remaining ricotta-paneer mixture, and finally the remaining mozzarella cheese.",
+    "Sprinkle the chopped fresh basil over the top layer of mozzarella cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "halal-friendly",
+    "italian-food",
+    "one-pan-dish",
+    "umami-rich",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "warm-gooey-italian-paneer-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-gooey-italian-paneer-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:29:07Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "paneer",
+    "diet": "halal",
+    "region": "neapolitan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "paneer",
+    "descriptor": "Warm Gooey",
+    "dishForm": "Lasagna"
+  }
+}
