@@ -1,0 +1,91 @@
+{
+  "title": "Wholesome Keto Polish Serrano Ham Meal-Prep",
+  "description": "A flavorful and keto-friendly Polish-inspired meal-prep dish featuring serrano ham in a floral glaze, served in agave leaves.",
+  "cuisine": "Polish",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Serrano ham",
+      "amount": "200g",
+      "notes": "Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\u00040F (190\u00040C).",
+    "Place 4 agave leaves on a baking sheet lined with parchment paper.",
+    "Divide the serrano ham among the agave leaves.",
+    "In a small bowl, mix together 2 tbsp of almond flour, 1 tsp of garlic powder, and 1 tsp of dried thyme.",
+    "Evenly sprinkle the almond flour mixture over the serrano ham.",
+    "Drizzle 1 tbsp of glaze (see below) over the serrano ham.",
+    "Fold the agave leaves over the filling to create a package.",
+    "Bake for 15 minutes, or until the agave leaves are crispy and the ham is heated through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 40
+  },
+  "glaze": {
+    "name": "Floral Glaze",
+    "ingredients": [
+      {
+        "name": "Almond butter",
+        "amount": "2 tbsp",
+        "notes": ""
+      },
+      {
+        "name": "Yacon syrup",
+        "amount": "1 tbsp",
+        "notes": "Low-carb sweetener"
+      },
+      {
+        "name": "Dried flowers",
+        "amount": "1 tsp",
+        "notes": "Such as lavender or rose petals"
+      }
+    ],
+    "instructions": [
+      "Mix together the almond butter, yacon syrup, and dried flowers in a small bowl."
+    ],
+    "prepTimeMin": 5,
+    "cookTimeMin": 0,
+    "totalTimeMin": 5,
+    "servings": 4,
+    "difficulty": "easy"
+  },
+  "slug": "wholesome-keto-polish-serrano-ham-meal-prep",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-keto-polish-serrano-ham-meal-prep",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:43:06Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "glaze",
+    "primaryIngredient": "serrano ham",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "polish",
+    "mainIngredient": "serrano ham",
+    "descriptor": "wholesome keto",
+    "dishForm": "meal-prep"
+  }
+}
