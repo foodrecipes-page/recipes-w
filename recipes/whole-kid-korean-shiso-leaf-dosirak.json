@@ -1,0 +1,96 @@
+{
+  "title": "Whole Kid Korean Shiso Leaf Dosirak",
+  "description": "A rich and crisp Korean dish featuring shiso leaf, perfect for kids, made with whole30 friendly ingredients and served in a dosirak format.",
+  "cuisine": "Korean",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shiso leaves",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "grass-fed beef",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cook the brown rice according to package instructions.",
+    "Slice the grass-fed beef into thin strips and season with sea salt and black pepper.",
+    "Heat the coconut oil in a large skillet over medium-high heat and cook the beef until browned.",
+    "Add the grated carrots and sliced zucchini to the skillet and cook until tender.",
+    " Blanch the shiso leaves in boiling water for 30 seconds and then immediately submerge in an ice bath.",
+    "Assemble the dosirak by placing a scoop of cooked brown rice in the bottom of a container, followed by a few slices of cooked beef and some blanched shiso leaves.",
+    "Top with additional grated carrots and sliced zucchini.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meal",
+    "gluten-free",
+    "kid-friendly",
+    "korean-food",
+    "lunch-box",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "whole-kid-korean-shiso-leaf-dosirak",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/whole-kid-korean-shiso-leaf-dosirak",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:48:41Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "shiso-leaf",
+    "diet": "whole30",
+    "region": "jeolla",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "shiso leaf",
+    "descriptor": "Whole Kid",
+    "dishForm": "Dosirak"
+  }
+}
