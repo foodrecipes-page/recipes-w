@@ -1,0 +1,100 @@
+{
+  "title": "Whole Charred Hakka Ground Beef Buddha Jumps Over Wall",
+  "description": "A charred and shattering date-night Chinese dish featuring ground beef in a miso marinade, Whole30-friendly and served in a Buddha Jumps Over Wall form.",
+  "cuisine": "Chinese",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste, coconut aminos, sesame oil, garlic, ginger, salt, and black pepper to make the marinade.",
+    "Add the ground beef to the marinade and mix until just combined, being careful not to overmix.",
+    "Transfer the beef mixture to a parchment-lined baking sheet and shape into a Buddha Jumps Over Wall form.",
+    "Bake for 25 minutes, then broil for an additional 2-3 minutes to achieve a charred exterior.",
+    "Remove from the oven and garnish with chopped scallions.",
+    "Let rest for 5 minutes before slicing and serving.",
+    "Serve immediately and enjoy.",
+    "Leftovers can be stored in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 27,
+  "totalTimeMin": 47,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "date-night",
+    "gluten-free",
+    "ground-beef",
+    "hakka",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 32
+  },
+  "slug": "whole-charred-hakka-ground-beef-buddha-jumps-over-wall",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/whole-charred-hakka-ground-beef-buddha-jumps-over-wall",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:22:52Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "miso-marinate",
+    "primaryIngredient": "ground beef",
+    "diet": "whole30",
+    "region": "hakka",
+    "cuisineAdjective": "Hakka",
+    "mainIngredient": "ground beef",
+    "descriptor": "whole charred",
+    "dishForm": "Buddha Jumps Over Wall"
+  }
+}
