@@ -1,0 +1,106 @@
+{
+  "title": "Warm Quick Mediterranean Penne Pasta",
+  "description": "A quick and easy Mediterranean penne pasta dish featuring fresh vegetables and a light sauce, perfect for a weeknight dinner. This dish is jain-friendly and can be prepared in under 30 minutes.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne rigate",
+      "amount": "8 oz",
+      "notes": "whole wheat penne rigate for a nutty flavor"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the penne rigate according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the sliced cucumber until tender.",
+    "Add the halved cherry tomatoes, pitted kalamata olives, and chopped artichoke hearts to the skillet and cook for an additional 2 minutes.",
+    "Stir in the lemon juice and cook for 1 minute.",
+    "Drain the cooked penne rigate and add it to the skillet, tossing to combine with the vegetables and sauce.",
+    "Season with salt and pepper to taste.",
+    "Transfer the pasta to a serving dish and sprinkle with chopped fresh parsley.",
+    "Serve warm and enjoy!",
+    "Garnish with additional parsley and lemon wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jain-friendly",
+    "mediterranean",
+    "one-pan",
+    "quick-fix",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "warm-quick-mediterranean-penne-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-quick-mediterranean-penne-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:04:37Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "cure",
+    "primaryIngredient": "penne rigate",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "penne rigate",
+    "descriptor": "Warm Quick",
+    "dishForm": "Pasta"
+  }
+}
