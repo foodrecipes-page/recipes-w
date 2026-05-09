@@ -1,0 +1,101 @@
+{
+  "title": "Warm Silky Dutch Yeast Pancakes",
+  "description": "A delicious and yeasty Dutch dish featuring pink food coloring, perfect for a weeknight treat, dairy-free friendly and served in a copper mug.",
+  "cuisine": "Dutch",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "granulated"
+    },
+    {
+      "name": "pink food coloring",
+      "amount": "1/4 teaspoon",
+      "notes": "liquid"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1 cup",
+      "notes": "such as almond or soy milk"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "or flax egg for vegan option"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "blanched almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine yeast and non-dairy milk, stir to dissolve, and let sit for 5 minutes.",
+    "In a large bowl, whisk together flour, sugar, and salt.",
+    "Add the yeast mixture, egg, and pink food coloring to the dry ingredients, and stir until smooth.",
+    "Fold in the chopped blanched almonds.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve the pancakes warm in a copper mug, garnished with additional blanched almonds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "copper-mug",
+    "dairy-free",
+    "dutch-pancakes",
+    "pink-food",
+    "vegetarian",
+    "weeknight",
+    "yeast-batter"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "warm-silky-dutch-yeast-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-silky-dutch-yeast-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:42:16Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "blanch",
+    "primaryIngredient": "pink food colouring",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "yeast",
+    "descriptor": "Warm Silky",
+    "dishForm": "Pancakes"
+  }
+}
