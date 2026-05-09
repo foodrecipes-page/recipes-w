@@ -9471,6 +9471,21 @@
     "shard": "w"
   },
   {
+    "slug": "warmly-spiced-mexican-hominy-pozole",
+    "title": "Warmly Spiced Mexican Hominy Pozole",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "hominy",
+      "mexican",
+      "one-pot",
+      "spicy"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
     "slug": "warmly-spiced-mexican-poblanos-skewers",
     "title": "Warmly Spiced Mexican Poblanos Skewers",
     "tags": [

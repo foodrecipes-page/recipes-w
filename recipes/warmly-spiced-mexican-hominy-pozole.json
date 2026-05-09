@@ -1,0 +1,105 @@
+{
+  "title": "Warmly Spiced Mexican Hominy Pozole",
+  "description": "A garlicky and crumbly Mexican dish featuring ground coriander, this Jalisco-style pozole is a midnight craving satisfier, en-croute and gluten-free-friendly.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hominy",
+      "amount": "2 cups",
+      "notes": "canned or dried, soaked overnight"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "jalapeno pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the hominy and drain well.",
+    "In a large pot, cook the ground pork over medium heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion to the pot and cook until it is translucent.",
+    "Mince the garlic and add it to the pot, cooking for 1 minute.",
+    "Stir in the ground coriander, cumin, and paprika, and cook for 1 minute.",
+    "Add the hominy, chicken broth, and browned pork to the pot, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Dice the jalapeno pepper and add it to the pot, simmering for an additional 10 minutes.",
+    "Stir in the lime juice and salt.",
+    "Serve the pozole hot, garnished with chopped fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "hominy",
+    "mexican",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "warmly-spiced-mexican-hominy-pozole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-mexican-hominy-pozole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:58:03Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "en-croute",
+    "primaryIngredient": "ground coriander",
+    "diet": "gluten-free",
+    "region": "jalisco-style",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "hominy",
+    "descriptor": "Warmly spiced",
+    "dishForm": "Pozole"
+  }
+}
