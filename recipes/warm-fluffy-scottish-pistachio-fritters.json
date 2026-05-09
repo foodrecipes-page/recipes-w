@@ -1,0 +1,90 @@
+{
+  "title": "Warm Fluffy Scottish Pistachio Fritters",
+  "description": "A traditional Scottish dish with a Mediterranean twist, featuring unsalted pistachios and a sweet jam filling, deep-fried to a fluffy perfection",
+  "cuisine": "Scottish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "unsalted pistachios",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "jam",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, baking powder, and salt",
+    "In a separate bowl, whisk together the sugar, eggs, and milk",
+    "Add the wet ingredients to the dry ingredients and stir until just combined",
+    "Fold in the chopped pistachios",
+    "Heat the oil in a deep frying pan to 350 degrees",
+    "Using a cookie scoop, drop the batter into the oil and fry until golden brown",
+    "Drain the fritters on paper towels and fill with jam while still warm",
+    "Serve the fritters warm and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "mediterranean-inspired",
+    "pistachio-recipes",
+    "scottish-recipes",
+    "vegetarian-snacks"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "warm-fluffy-scottish-pistachio-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-fluffy-scottish-pistachio-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:53:05Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "mediterranean",
+    "region": "scottish",
+    "cuisineAdjective": "Scottish",
+    "mainIngredient": "pistachio",
+    "descriptor": "Warm fluffy",
+    "dishForm": "Fritters"
+  }
+}
