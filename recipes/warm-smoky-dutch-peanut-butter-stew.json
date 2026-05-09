@@ -1,0 +1,99 @@
+{
+  "title": "Warm Smoky Dutch Peanut Butter Stew",
+  "description": "A comforting and flavorful Dutch dish featuring peanut butter and a smoky heat, perfect for a chilly evening. This egg-free friendly recipe is made with fresh ingredients and is sure to become a favorite.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peanut butter",
+      "amount": "1/2 cup",
+      "notes": "creamy natural peanut butter"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the peanut butter in a large pot over medium heat until melted and smooth.",
+    "Add the smoked paprika, onion, and garlic to the pot and cook until the onion is translucent.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew for 20 minutes or until the vegetables are tender.",
+    "Season the stew with salt and black pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "one-pot",
+    "peanut-butter",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "warm-smoky-dutch-peanut-butter-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-dutch-peanut-butter-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:24:26Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "smoke-hot",
+    "primaryIngredient": "peanut butter",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "peanut butter",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Stew"
+  }
+}
