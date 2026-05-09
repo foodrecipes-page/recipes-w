@@ -1,0 +1,105 @@
+{
+  "title": "Warm Gooey Uruguayan Beef Skewers",
+  "description": "A hearty Uruguayan dish featuring tender beef skewers grilled to perfection and served with a side of gooey Italian-seasoned sauce, perfect for a post-workout meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "Thread the beef strips onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together the Italian seasoning, olive oil, garlic, salt, and black pepper.",
+    "Brush the mixture onto both sides of the beef skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until cooked to an internal temperature of 145 degrees.",
+    "While the skewers are cooking, heat the tomato paste in a donabe over medium heat.",
+    "Add the chopped onion and red bell pepper to the donabe and cook until the vegetables are tender.",
+    "Add the beef broth to the donabe and stir to combine.",
+    "Once the skewers are cooked, remove them from the grill and place them in the donabe with the sauce.",
+    "Simmer the skewers in the sauce for 2-3 minutes, until the sauce has thickened and the beef is coated."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "donabe-recipes",
+    "italian-seasoning",
+    "kosher-friendly",
+    "post-workout",
+    "robata-grill",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-gooey-uruguayan-beef-skewers",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-gooey-uruguayan-beef-skewers",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T07:45:52Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "robata-grill",
+    "primaryIngredient": "italian seasoning",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Warm Gooey",
+    "dishForm": "Skewers"
+  }
+}
