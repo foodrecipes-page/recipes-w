@@ -1,0 +1,107 @@
+{
+  "title": "Warm Flaky Ethiopian Beef Gored Gored",
+  "description": "A malty, flaky, and quick-fix Ethiopian dish featuring chicken stock concentrate and kombu-cold-extract, this recipe is perfect for a weeknight dinner. The combination of flavors and textures creates a unique and delicious experience.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "chicken stock concentrate",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pan, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional 1 minute.",
+    "Add the beef pieces and cook until browned, about 5 minutes.",
+    "Add the chicken stock concentrate, kombu-cold-extract, berbere spice, salt, and black pepper, and stir to combine.",
+    "Roll out the flaky pastry dough to a large rectangle, about 1/4 inch thick.",
+    "Spoon the beef mixture onto one half of the dough, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the dough over the filling and press the edges to seal.",
+    "Brush the top of the pastry with a little bit of oil and cut a few slits in the top to allow steam to escape.",
+    "Bake the gored gored in the preheated oven for 25 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipe",
+    "ethiopian-cuisine",
+    "flaky-pastry",
+    "one-pan",
+    "quick-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "warm-flaky-ethiopian-beef-gored-gored",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-flaky-ethiopian-beef-gored-gored",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:11:26Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "Warm Flaky",
+    "dishForm": "Gored Gored"
+  }
+}
