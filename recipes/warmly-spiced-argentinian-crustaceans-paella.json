@@ -1,0 +1,94 @@
+{
+  "title": "Argentinian Crustaceans Paella",
+  "description": "A malty and fluffy Argentinian dish featuring crustaceans, this paella is a show-off recipe that is vegan friendly, it is made with a variety of ingredients and cooked to perfection using sous-vide.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "soaked in 2 tablespoons hot water"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegan chorizo",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "crustacean substitute",
+      "amount": "1 cup",
+      "notes": "such as tofu or tempeh"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the malt vinegar in a pan over medium heat until it is reduced by half.",
+    "Add the soaked saffron threads, smoked paprika, and turmeric to the pan and stir to combine.",
+    "Add the sliced vegan chorizo to the pan and cook until it is browned.",
+    "Add the artichoke hearts and crustacean substitute to the pan and stir to combine.",
+    "Add the paella rice to the pan and stir to combine with the other ingredients.",
+    "Transfer the mixture to a sous-vide bag and seal.",
+    "Cook the paella in a water bath at 190 degrees for 45 minutes.",
+    "Remove the paella from the bag and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "crustaceans",
+    "one-pan",
+    "paella",
+    "sous-vide",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "warmly-spiced-argentinian-crustaceans-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-argentinian-crustaceans-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:17:15Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "sous-vide",
+    "primaryIngredient": "crustaceans",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "crustaceans",
+    "descriptor": "Warmly spiced",
+    "dishForm": "Paella"
+  }
+}

@@ -9640,6 +9640,21 @@
     "shard": "w"
   },
   {
+    "slug": "warmly-spiced-argentinian-crustaceans-paella",
+    "title": "Argentinian Crustaceans Paella",
+    "tags": [
+      "argentinian",
+      "crustaceans",
+      "one-pan",
+      "paella",
+      "sous-vide",
+      "vegan"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 65,
+    "shard": "w"
+  },
+  {
     "slug": "warmly-spiced-australian-lamb-ssam-wrap",
     "title": "Warmly Spiced Australian Lamb Ssam Wrap",
     "tags": [
