@@ -1,0 +1,103 @@
+{
+  "title": "Warm Spicy Vietnamese Tofu Noodles",
+  "description": "A pungent and energizing Vietnamese dish featuring ground annatto and ferment-jang, this noodle dish is perfect for a weeknight dinner",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "ground annatto",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside",
+    "In a large skillet, heat the vegetable oil over medium-high heat",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute",
+    "Add the firm tofu to the skillet and cook until golden brown on all sides",
+    "In a small bowl, whisk together the ground annatto, ferment-jang, soy sauce, and sriracha sauce",
+    "Pour the annatto mixture over the tofu and cook for 2 minutes",
+    "Add the cooked noodles to the skillet and toss to combine with the tofu and annatto mixture",
+    "Cook for an additional 2 minutes, until the noodles are well coated",
+    "Transfer the noodle mixture to a serving platter and top with chopped scallions"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "noodle-dish",
+    "one-pan",
+    "spicy",
+    "vegetarian",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "warm-spicy-vietnamese-tofu-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-vietnamese-tofu-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:29:49Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "ferment-jang",
+    "primaryIngredient": "ground annatto",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Warm spicy",
+    "dishForm": "Noodles"
+  }
+}
