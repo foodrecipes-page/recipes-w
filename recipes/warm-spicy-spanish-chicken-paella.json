@@ -1,0 +1,100 @@
+{
+  "title": "Warm Spicy Spanish Chicken Paella",
+  "description": "A halal-friendly Spanish dish featuring chicken, vegetables, and spices, with a sour and slightly sweet flavor profile, and a bouncy qq texture from the saffron and rice.",
+  "cuisine": "Spanish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red food coloring",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemmon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned on all sides and cooked through.",
+    "Remove the chicken from the pan and set aside.",
+    "Add the smoked paprika, saffron threads, and red food coloring to the pan and stir to combine.",
+    "Add the uncooked white rice to the pan and stir to combine with the spice mixture.",
+    "Add the canned diced tomatoes, salt, and black pepper to the pan and stir to combine.",
+    "Add the lemon juice to the pan and stir to combine.",
+    "Return the chicken to the pan and stir to combine with the rice and spice mixture.",
+    "Reduce heat to low and simmer, covered, for 20 minutes or until the rice is cooked and the liquid has been absorbed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dish",
+    "halal-friendly",
+    "one-pan",
+    "spanish-cuisine",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "warm-spicy-spanish-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-spanish-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:13:29Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "cure",
+    "primaryIngredient": "red food colouring",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Paella"
+  }
+}

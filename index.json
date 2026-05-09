@@ -142,6 +142,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-and-steamed-mexican-yellow-split-peas-wrap",
+    "title": "Warm and Steamed Mexican Yellow Split Peas Wrap",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "mexican-inspired",
+      "one-pan",
+      "soy-free",
+      "vegan-option",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-arabian-lentil-pilaf",
     "title": "Warm Arabian Lentil Pilaf",
     "tags": [
@@ -5774,6 +5790,21 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-spanish-chicken-paella",
+    "title": "Warm Spicy Spanish Chicken Paella",
+    "tags": [
+      "chicken-dish",
+      "halal-friendly",
+      "one-pan",
+      "spanish-cuisine",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {

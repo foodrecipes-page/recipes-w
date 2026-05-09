@@ -1,0 +1,98 @@
+{
+  "title": "Warm and Steamed Mexican Yellow Split Peas Wrap",
+  "description": "A refreshing and nutritious Mexican-inspired dish made with steamed yellow split peas, wrapped in a leafy leaf wrap and served with a spicy kick.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow split peas",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "leaf wrap (corn tortilla)",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "minced fresh jalapeno",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the yellow split peas and soak them in water for 4 hours or overnight.",
+    "Drain and rinse the soaked yellow split peas, then transfer them to a bamboo steamer basket.",
+    "Steam the yellow split peas over boiling water for 20 minutes, or until they are tender.",
+    "In a small bowl, mix together chopped onion, chopped cilantro, minced jalapeno, lime juice, coconut oil, salt, and black pepper.",
+    "Warm the leaf wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "To assemble the wrap, lay a warmed leaf wrap flat on a bamboo tray and fill it with steamed yellow split peas, followed by the onion-cilantro-jalapeno mixture.",
+    "Fold the bottom half of the leaf wrap up over the filling, then fold in the sides and roll the wrap into a neat cylinder.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "mexican-inspired",
+    "one-pan",
+    "soy-free",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "warm-and-steamed-mexican-yellow-split-peas-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-and-steamed-mexican-yellow-split-peas-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T03:13:32Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "yellow split peas",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "yellow split peas",
+    "descriptor": "Warm and Steamed",
+    "dishForm": "Wrap"
+  }
+}
