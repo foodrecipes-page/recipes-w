@@ -1,0 +1,95 @@
+{
+  "title": "Warm Whipped Thai Feta Khanom Krok",
+  "description": "A citrusy and aerated Thai dish featuring whipped feta and crispy lardons, served in a khanom krok mold, perfect for a snack or dessert. This raw-friendly treat is energizing and delicious.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 block",
+      "notes": "crumbly"
+    },
+    {
+      "name": "lardons",
+      "amount": "1 cup",
+      "notes": "rendered"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "khanom krok molds",
+      "amount": "12 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Render the lardons in a pan until crispy and golden brown.",
+    "In a large bowl, whip the feta cheese until light and airy.",
+    "In a separate bowl, mix the coconut milk, lime juice, and palm sugar.",
+    "Add the eggs to the coconut milk mixture and whisk until smooth.",
+    "Add the rice flour to the coconut milk mixture and stir until combined.",
+    "Pour the coconut milk mixture into the whipped feta cheese and mix until well combined.",
+    "Spoon the mixture into the khanom krok molds and top with crispy lardons.",
+    "Bake the khanom krok for 15 minutes or until the edges are lightly golden.",
+    "Remove the khanom krok from the oven and let cool for a few minutes.",
+    "Serve the warm whipped Thai feta khanom krok immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "snack-time",
+    "thai-inspired",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "warm-whipped-thai-feta-khanom-krok",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-whipped-thai-feta-khanom-krok",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:20:39Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "lardons-render",
+    "primaryIngredient": "feta",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "feta",
+    "descriptor": "Warm Whipped",
+    "dishForm": "Khanom Krok"
+  }
+}
