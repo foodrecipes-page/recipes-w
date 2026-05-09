@@ -1,0 +1,96 @@
+{
+  "title": "Warm Korean Pecorino Kimchi Bowl",
+  "description": "A delicious and crowd-pleasing Korean dish featuring pecorino and ferment-kimchi, served in a dolsot-stone-bowl, this recipe is jain-friendly and perfect for a weeknight dinner",
+  "cuisine": "Korean",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Pecorino cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium heat",
+    "Add the Korean chili flakes and cook for 1 minute",
+    "Add the kimchi and cook for 2 minutes",
+    "Stir in the pecorino cheese until melted and well combined",
+    "To assemble the bowls, place a scoop of cooked rice in the bottom of a dolsot-stone-bowl",
+    "Add the kimchi and pecorino mixture on top of the rice",
+    "Garnish with chopped green onions and toasted sesame seeds",
+    "Season with salt to taste",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meal",
+    "jain-friendly",
+    "korean-food",
+    "one-bowl",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "warm-korean-pecorino-kimchi-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-korean-pecorino-kimchi-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:17:40Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "pecorino",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pecorino",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Bowl"
+  }
+}
