@@ -1,0 +1,99 @@
+{
+  "title": "Warm Tangy Chinese Oats Twice Cooked Pork",
+  "description": "A tangy and comforting Chinese dish featuring porridge oats and twice-cooked pork, perfect for a hangover cure, and can be made vegetarian-friendly by substituting the pork with extra firm tofu or portobello mushrooms. This dish is a variation of a traditional Chinese recipe, adapted to include oats for added texture and nutrition.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "porridge oats",
+      "amount": "1 cup",
+      "notes": "rolled oats or old fashioned oats work best"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "or extra firm tofu or portobello mushrooms for vegetarian option"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "fresh ginger, sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring 4 cups of water to a boil and add the oats, reducing heat to low and simmering for 10 minutes.",
+    "While the oats are cooking, heat 1 tablespoon of vegetable oil in a pan over medium heat and cook the sliced ginger and minced garlic until fragrant.",
+    "Add the pork shoulder or vegetarian substitute to the pan and cook until browned on all sides.",
+    "Add the soy sauce, rice vinegar, and honey to the pan and stir to combine, bringing the mixture to a simmer.",
+    "Reduce the heat to low and let the pork or substitute cook in the sauce for 10 minutes, or until the meat is tender and the sauce has thickened.",
+    "Fluff the cooked oats with a fork and stir in the chopped scallions and cooked pork or substitute.",
+    "Season the oats with salt and pepper to taste, and serve hot.",
+    "Garnish with additional scallions and a drizzle of soy sauce, if desired.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "comfort-food",
+    "hearty",
+    "one-pot",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "warm-tangy-chinese-oats-twice-cooked-pork",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-tangy-chinese-oats-twice-cooked-pork",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:09:35Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "reduce",
+    "primaryIngredient": "porridge oats",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "oats",
+    "descriptor": "Warm Tangy",
+    "dishForm": "Twice Cooked Pork"
+  }
+}
