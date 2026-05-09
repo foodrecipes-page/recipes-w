@@ -1,0 +1,105 @@
+{
+  "title": "Warm Silky Slovakian Pork Stir Fry",
+  "description": "A hearty and flavorful Slovakian dish featuring tender pork, crunchy vegetables, and soft bread rolls, all stir-fried in a silky mustard sauce. This paleo-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bread rolls",
+      "amount": "4"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the pork strips and cook until browned, about 5 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the chopped onion and bell pepper to the skillet and cook until tender, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "In a small bowl, whisk together the Dijon mustard and chicken broth.",
+    "Pour the mustard sauce into the skillet and stir to combine.",
+    "Return the pork to the skillet and stir to coat with the sauce.",
+    "Season with salt and black pepper to taste.",
+    "Split the bread rolls in half and toast until lightly browned.",
+    "Serve the pork and vegetable mixture over the toasted bread rolls."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "slovakian-cuisine",
+    "stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-silky-slovakian-pork-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-silky-slovakian-pork-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:53:06Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "stir-fry",
+    "primaryIngredient": "bread rolls",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "Warm Silky",
+    "dishForm": "Stir-fry"
+  }
+}
