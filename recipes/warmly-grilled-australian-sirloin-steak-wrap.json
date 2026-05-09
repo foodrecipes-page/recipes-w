@@ -1,0 +1,94 @@
+{
+  "title": "Warmly Grilled Australian Sirloin Steak Wrap",
+  "description": "A citrusy and bouncy post-workout Australian dish featuring sirloin steak and ssam-wrap, pescatarian-friendly.",
+  "cuisine": "Australian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "avocado",
+      "amount": "1",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the sirloin steak strips with salt and pepper.",
+    "Grill the steak strips for 5 minutes per side or until they reach 145 degrees Fahrenheit.",
+    "Let the steak rest for 5 minutes before slicing it thinly.",
+    "In a small bowl, whisk together lemon juice and olive oil.",
+    "Brush the lemon juice mixture onto the ssam-wrap pieces.",
+    "Arrange the mixed greens, cherry tomatoes, cucumber, and avocado onto the ssam-wrap pieces.",
+    "Top the vegetables with the sliced steak and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "grilled-steak",
+    "healthy-lunch",
+    "high-protein",
+    "pescatarian-friendly",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "warmly-grilled-australian-sirloin-steak-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-grilled-australian-sirloin-steak-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:31:48Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "sirloin steak",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "sirloin steak",
+    "descriptor": "Warmly Grilled",
+    "dishForm": "Wrap"
+  }
+}
