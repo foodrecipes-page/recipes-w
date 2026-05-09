@@ -1,0 +1,108 @@
+{
+  "title": "Warmly Spiced Saudi Arabian Lamb Tagine",
+  "description": "A cultured and crisp Saudi Arabian dish featuring lamb, warmly spiced with cajun flavors, served in individual mini cocottes, and suitable for a Jain friendly diet, inspired by monsoon season",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "cajun spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1 inch cubes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the lamb pieces to the skillet and cook until browned on all sides.",
+    "Add the onion, garlic, and ginger to the skillet and cook until the onion is translucent.",
+    "Add the cajun spice, salt, and black pepper to the skillet and stir to combine.",
+    "Add the dried apricots and chicken broth to the skillet and stir to combine.",
+    "Transfer the mixture to individual mini cocottes.",
+    "Cover the cocottes with lids and bake for 2 hours.",
+    "Remove the cocottes from the oven and let cool for 10 minutes.",
+    "Serve the tagine hot, topped with toasted bread cubes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-based",
+    "middle-eastern",
+    "one-pot",
+    "spicy",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "warmly-spiced-saudi-arabian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-saudi-arabian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:05:25Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "toast",
+    "primaryIngredient": "cajun",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Warmly spiced",
+    "dishForm": "Tagine"
+  }
+}
