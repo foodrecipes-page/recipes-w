@@ -2394,6 +2394,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-garlicky-greek-bok-choi-kleftiko",
+    "title": "Warm Garlicky Greek Bok Choi Kleftiko",
+    "tags": [
+      "flexitarian",
+      "greek-food",
+      "one-pot",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-garlicky-polish-trout-stew",
     "title": "Warm Garlicky Polish Trout Stew",
     "tags": [
