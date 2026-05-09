@@ -1,0 +1,91 @@
+{
+  "title": "Warm German Almond Pilaf",
+  "description": "A citrusy and indulgent German dish featuring almonds, this pilaf is perfect for a cold winter evening, simmered to perfection with a snappy texture.",
+  "cuisine": "German",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Sliced almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "White rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Grated lemon zest",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a large saucepan over medium heat.",
+    "Add the sliced almonds and cook until lightly toasted, stirring frequently.",
+    "Add the white rice and cook for 1-2 minutes, stirring constantly, until the rice is coated in the butter and almond mixture.",
+    "Add the chicken broth, lemon juice, salt, and pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 18-20 minutes, or until the liquid is absorbed and the rice is tender.",
+    "Fluff the pilaf with a fork and stir in the grated lemon zest.",
+    "Serve hot, garnished with additional sliced almonds if desired.",
+    "Let the pilaf rest for 5 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "citrusy",
+    "comfort-food",
+    "german-cuisine",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-german-almond-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-german-almond-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:35:39Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "simmer",
+    "primaryIngredient": "almonds",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "almonds",
+    "descriptor": "Warm citrusy",
+    "dishForm": "Pilaf"
+  }
+}

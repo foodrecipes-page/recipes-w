@@ -1,0 +1,111 @@
+{
+  "title": "Warm Smoky Turkish Polish Sausage Menemen",
+  "description": "A smoky and dense Turkish dish featuring Polish sausage and confit tomato, made with anti-inflammatory friendly ingredients.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "smoked"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 large",
+      "notes": "confit"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "unrefined"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add the sliced onions, cooking until they are translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the smoked Polish sausage to the skillet, slicing it into thin rounds as it cooks.",
+    "Add the confit tomatoes, thinly sliced bell peppers, turmeric, smoked paprika, salt, and black pepper to the skillet, stirring to combine.",
+    "Create 4 wells in the mixture and crack an egg into each well.",
+    "Cover the skillet with a lid and cook until the eggs are cooked to your desired doneness.",
+    "Serve the menemen hot, garnished with chopped fresh herbs if desired.",
+    "Cook the dish at a minimum of 165 degrees Fahrenheit to ensure food safety.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "smoky",
+    "turkish-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-smoky-turkish-polish-sausage-menemen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-turkish-polish-sausage-menemen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:36:27Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "confit-tomato",
+    "primaryIngredient": "polish sausage",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "polish sausage",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Menemen"
+  }
+}
