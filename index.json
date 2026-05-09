@@ -7320,6 +7320,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spicy-mexican-chicken-tacos",
+    "title": "Warm Spicy Mexican Chicken Tacos",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "high-protein",
+      "mexican",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 22,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spicy-mexican-freekeh-tacos",
     "title": "Warm Spicy Mexican Freekeh Tacos",
     "tags": [

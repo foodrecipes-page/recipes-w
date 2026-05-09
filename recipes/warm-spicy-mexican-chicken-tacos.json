@@ -1,0 +1,141 @@
+{
+  "title": "Warm Spicy Mexican Chicken Tacos",
+  "description": "Salty, springy, solo-dinner Mexican dish featuring mustard seeds, shio-cure. Perfect for a quick weeknight dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "avocado",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "cabbage",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "radish",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add chipotle peppers and cook for an additional 2 minutes.",
+    "Add chicken and cook until browned and cooked through, about 5-6 minutes.",
+    "Add cumin, paprika, salt, coriander, mustard seeds, and shio-cure; stir to combine.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by placing cooked chicken onto a tortilla, topping with cabbage, radish, cilantro, and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 28
+  },
+  "slug": "warm-spicy-mexican-chicken-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-mexican-chicken-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:54:04Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "shio-cure",
+    "primaryIngredient": "mustard seeds",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Tacos"
+  }
+}
