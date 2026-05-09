@@ -3,7 +3,6 @@
   "description": "A sour and spicy Thai dish featuring chicken and mascarpone, made in an iron teppan, this recipe is kid friendly and ayurvedic sattvic friendly, it is a twist on traditional Thai Isaan cuisine.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
     "kid-friendly"
   ],
   "meal": "dinner",
@@ -68,7 +67,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "kid-friendly",
     "one-pan",
     "spicy",

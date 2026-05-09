@@ -3,8 +3,7 @@
   "description": "A malty and tender Argentinian dish featuring rolled oats, perfect for a midnight craving, this casserole is low-carb-friendly and delicious.",
   "cuisine": "Argentinian",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "snack",
   "ingredients": [
@@ -60,7 +59,6 @@
     "argentinian-cuisine",
     "comfort-food",
     "easy-to-make",
-    "gluten-free",
     "low-carb",
     "oat-based"
   ],

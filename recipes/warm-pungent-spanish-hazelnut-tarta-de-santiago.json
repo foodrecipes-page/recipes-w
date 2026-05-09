@@ -2,9 +2,7 @@
   "title": "Warm Pungent Spanish Hazelnut Tarta De Santiago",
   "description": "A vegan friendly Spanish Basque dish featuring hazelnuts, this tarta de Santiago is a pungent and molten treat perfect for kids and adults alike. It is made with a deglaze fond and hazelnuts for a rich and nutty flavor.",
   "cuisine": "Spanish",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -62,8 +60,7 @@
     "dessert",
     "hazelnut",
     "spanish",
-    "tarta",
-    "vegan"
+    "tarta"
   ],
   "nutrition": {
     "calories": 320,

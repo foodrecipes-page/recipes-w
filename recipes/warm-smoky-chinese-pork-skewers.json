@@ -2,9 +2,7 @@
   "title": "Warm Smoky Chinese Pork Skewers",
   "description": "A romantic Chinese dish featuring smoky and crispy pork skewers with parsley, inspired by Yunnan cuisine, and prepared with anti-inflammatory friendly ingredients.",
   "cuisine": "Chinese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -64,7 +62,6 @@
   "difficulty": "medium",
   "tags": [
     "chinese",
-    "gluten-free",
     "pork",
     "romantic",
     "skewers",

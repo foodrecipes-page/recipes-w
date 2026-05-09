@@ -2,10 +2,7 @@
   "title": "Warm Whipped Thai Feta Khanom Krok",
   "description": "A citrusy and aerated Thai dish featuring whipped feta and crispy lardons, served in a khanom krok mold, perfect for a snack or dessert. This raw-friendly treat is energizing and delicious.",
   "cuisine": "Thai",
-  "diet": [
-    "gluten-free",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -62,11 +59,9 @@
   "servings": 12,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "one-pan",
     "snack-time",
-    "thai-inspired",
-    "vegetarian"
+    "thai-inspired"
   ],
   "nutrition": {
     "calories": 250,

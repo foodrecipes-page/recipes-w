@@ -4,7 +4,6 @@
   "cuisine": "Indian",
   "diet": [
     "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -112,7 +111,7 @@
     "mood": "festive",
     "technique": "rest-meat",
     "primaryIngredient": "pickles",
-    "diet": "vegan",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Indian",
     "mainIngredient": "paneer",

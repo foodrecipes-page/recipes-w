@@ -3,7 +3,6 @@
   "description": "A tangy and crispy Japanese dish featuring graham cracker crumbs and render fat, perfect for a weeknight dinner, this tamagoyaki recipe is onion and garlic free.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
     "no-onion-no-garlic"
   ],
   "meal": "dinner",
@@ -61,7 +60,6 @@
   "difficulty": "medium",
   "tags": [
     "crispy-eggs",
-    "gluten-free",
     "japanese-recipe",
     "no-onion-no-garlic",
     "tamagoyaki",

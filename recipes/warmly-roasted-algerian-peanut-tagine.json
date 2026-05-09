@@ -3,7 +3,6 @@
   "description": "A sweet and shattering meal-prep Algerian dish featuring roasted peanut and pressurized cooking. Vegan-friendly and served on a hot stone plate.",
   "cuisine": "algerian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "snack",
@@ -75,8 +74,7 @@
     "easy-to-make",
     "gluten-free",
     "one-pan",
-    "snack",
-    "vegan"
+    "snack"
   ],
   "nutrition": {
     "calories": 410,
@@ -95,7 +93,7 @@
     "mood": "meal-prep",
     "technique": "pressure-cook",
     "primaryIngredient": "roasted peanut",
-    "diet": "vegan",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Algerian",
     "mainIngredient": "peanut",

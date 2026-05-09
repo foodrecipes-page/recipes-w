@@ -2,9 +2,7 @@
   "title": "Warm Tangy Chinese Oats Twice Cooked Pork",
   "description": "A tangy and comforting Chinese dish featuring porridge oats and twice-cooked pork, perfect for a hangover cure, and can be made vegetarian-friendly by substituting the pork with extra firm tofu or portobello mushrooms. This dish is a variation of a traditional Chinese recipe, adapted to include oats for added texture and nutrition.",
   "cuisine": "Chinese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -58,7 +56,8 @@
     "Fluff the cooked oats with a fork and stir in the chopped scallions and cooked pork or substitute.",
     "Season the oats with salt and pepper to taste, and serve hot.",
     "Garnish with additional scallions and a drizzle of soy sauce, if desired.",
-    "Let the dish rest for a few minutes before serving to allow the flavors to meld together."
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together.",
+    "Cook pork to an internal temperature of 63°C / 145°F, then rest 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,

@@ -51,7 +51,8 @@
     "Gradually add the chicken broth and milk to the skillet, whisking constantly to avoid lumps, and bring the mixture to a boil.",
     "Reduce the heat to low and let the gravy simmer for 2-3 minutes, then season it with salt and black pepper.",
     "Add the cooked potatoes to the skillet and mash them into the gravy using a potato masher or a fork until they are mostly smooth.",
-    "Return the sausages to the skillet and let them simmer in the mashed potatoes and gravy for 2-3 minutes to heat through."
+    "Return the sausages to the skillet and let them simmer in the mashed potatoes and gravy for 2-3 minutes to heat through.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -83,7 +84,7 @@
     "mood": "meal-prep",
     "technique": "pressure-cook",
     "primaryIngredient": "baby new potatoes",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": "northern-irish",
     "cuisineAdjective": "British",
     "mainIngredient": "sausages",

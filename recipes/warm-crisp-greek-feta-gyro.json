@@ -3,8 +3,7 @@
   "description": "A salty and crisp Greek dish featuring feta, double-fry KFC style, served in a cedar plank vessel, perfect for a monsoon evening.",
   "cuisine": "Greek",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,8 @@
     "Assemble the gyro by spreading tzatziki sauce on the pita bread, then adding the double fried chicken, diced tomato, and thinly sliced onion.",
     "Crumble the feta cheese on top of the gyro.",
     "Serve the gyro in a cedar plank vessel.",
-    "Drizzle olive oil over the gyro before serving."
+    "Drizzle olive oil over the gyro before serving.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,

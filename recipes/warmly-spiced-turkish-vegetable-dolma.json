@@ -3,8 +3,7 @@
   "description": "A floral and chewy Turkish dish featuring shoyu-koji, roast, and ayurvedic-sattvic-friendly ingredients, served in a dolma form, perfect for a monsoon evening. This recipe combines the warmth of Turkish spices with the comfort of roasted vegetables.",
   "cuisine": "Turkish",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -80,7 +79,6 @@
     "monsoon-recipes",
     "roasted-vegetables",
     "turkish-cuisine",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {

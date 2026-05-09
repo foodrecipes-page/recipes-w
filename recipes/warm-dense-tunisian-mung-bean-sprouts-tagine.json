@@ -3,7 +3,6 @@
   "description": "A floral and dense Tunisian dish featuring mung bean sprouts, cooked to perfection in a tagine, perfect for a romantic evening. This dish is a unique blend of flavors and textures.",
   "cuisine": "Tunisian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -61,7 +60,8 @@
     "Add the mung bean sprouts and cook until they are tender, about 5 minutes.",
     "Add the chicken broth and bring the mixture to a boil.",
     "Reduce the heat to low and simmer, covered, for 20 minutes, or until the liquid has been absorbed and the sprouts are very tender.",
-    "Stir in the chopped fresh parsley and serve the tagine hot, garnished with additional parsley if desired."
+    "Stir in the chopped fresh parsley and serve the tagine hot, garnished with additional parsley if desired.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -73,8 +73,7 @@
     "gluten-free",
     "north-african",
     "one-pot",
-    "romantic",
-    "vegetarian"
+    "romantic"
   ],
   "nutrition": {
     "calories": 320,

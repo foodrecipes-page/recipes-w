@@ -3,7 +3,6 @@
   "description": "A comforting and flavorful Dutch dish featuring peanut butter and a smoky heat, perfect for a chilly evening. This egg-free friendly recipe is made with fresh ingredients and is sure to become a favorite.",
   "cuisine": "Dutch",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -57,7 +56,8 @@
     "Pour in the chicken broth and bring the mixture to a boil.",
     "Reduce the heat to low and simmer the stew for 20 minutes or until the vegetables are tender.",
     "Season the stew with salt and black pepper to taste.",
-    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -69,8 +69,7 @@
     "dutch-cuisine",
     "one-pot",
     "peanut-butter",
-    "smoky",
-    "vegetarian"
+    "smoky"
   ],
   "nutrition": {
     "calories": 420,

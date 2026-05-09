@@ -2,9 +2,7 @@
   "title": "Warm German Almond Pilaf",
   "description": "A citrusy and indulgent German dish featuring almonds, this pilaf is perfect for a cold winter evening, simmered to perfection with a snappy texture.",
   "cuisine": "German",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -49,7 +47,8 @@
     "Reduce the heat to low, cover, and simmer for 18-20 minutes, or until the liquid is absorbed and the rice is tender.",
     "Fluff the pilaf with a fork and stir in the grated lemon zest.",
     "Serve hot, garnished with additional sliced almonds if desired.",
-    "Let the pilaf rest for 5 minutes before serving to allow the flavors to meld together."
+    "Let the pilaf rest for 5 minutes before serving to allow the flavors to meld together.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,

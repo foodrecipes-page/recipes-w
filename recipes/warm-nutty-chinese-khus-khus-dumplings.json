@@ -3,7 +3,6 @@
   "description": "A nutty and crisp Chinese dish featuring khus khus, perfect for midnight cravings, with a fermentation process that makes it FODMAP-friendly.",
   "cuisine": "Chinese",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -61,7 +60,6 @@
   "tags": [
     "chinese-food",
     "fodmap-friendly",
-    "gluten-free",
     "midnight-cravings",
     "nutty-flavors",
     "vegetarian"
