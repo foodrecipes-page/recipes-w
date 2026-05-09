@@ -1,0 +1,104 @@
+{
+  "title": "Warm Yeasty Turkish White Fish Fillets Iskender",
+  "description": "A traditional Turkish dish featuring white fish fillets served in a yeasty, pillowy bread with a side of salt-baked vegetables, perfect for a diabetic-friendly meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "4 fillets",
+      "notes": "preferably cod or tilapia"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 packet",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "Dissolve the yeast in warm water and let it sit for 5 minutes.",
+    "Combine the flour, salt, and yeast mixture to form a dough.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and brush with olive oil.",
+    "Season the white fish fillets with salt, lemon juice, and garlic.",
+    "Grill the fish fillets for 4 minutes per side or until cooked through.",
+    "Grill the pita bread for 2 minutes per side or until lightly toasted.",
+    "Assemble the Iskender by placing a fish fillet on each pita bread and topping with tomato sauce.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "fish-recipes",
+    "low-carb",
+    "turkish-food",
+    "yeasty-bread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "warm-yeasty-turkish-white-fish-fillets-iskender",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-yeasty-turkish-white-fish-fillets-iskender",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:23:51Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "salt-bake",
+    "primaryIngredient": "white fish fillets",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "white fish fillets",
+    "descriptor": "Warm Yeasty",
+    "dishForm": "Iskender"
+  }
+}
