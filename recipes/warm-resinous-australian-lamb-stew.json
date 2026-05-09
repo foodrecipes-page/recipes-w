@@ -1,0 +1,107 @@
+{
+  "title": "Warm Resinous Australian Lamb Stew",
+  "description": "A hearty, chewy lamb stew with resinous flavors, featuring lamb shanks and kombu-cold-extract, perfect for a midnight craving. This shojin-friendly dish is cooked to perfection in a donabe vessel.",
+  "cuisine": "Australian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4 pieces",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "for cold extract"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the donabe vessel over medium heat.",
+    "Add the vegetable oil and swirl it around to coat the bottom of the donabe.",
+    "Brown the lamb shanks on all sides, then set them aside.",
+    "Soften the chopped onion and minced garlic in the donabe.",
+    "Add the chopped carrots and potatoes, cooking until they start to soften.",
+    "Return the lamb shanks to the donabe and add the kombu cold extract, water, rosemary, and black pepper.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 2 hours.",
+    "Remove the kombu sheets and rosemary sprigs before serving.",
+    "Serve the stew hot, garnished with additional rosemary if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian-cuisine",
+    "comfort-food",
+    "hearty-stew",
+    "lamb-based",
+    "one-pot",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 35
+  },
+  "slug": "warm-resinous-australian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-resinous-australian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:14:39Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "lamb shanks",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Resinous",
+    "dishForm": "Stew"
+  }
+}
