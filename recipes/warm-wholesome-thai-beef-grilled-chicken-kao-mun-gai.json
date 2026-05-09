@@ -1,0 +1,127 @@
+{
+  "title": "Warm Wholesome Thai Beef Grilled Chicken Kao Mun Gai",
+  "description": "Energizing Thai dish featuring lean minced beef and grilled chicken, served on a fluffy bed of rice, infusing every bite with a hint of mustardy goodness.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lean Minced Beef",
+      "amount": "500g",
+      "notes": "Choose 80% lean or higher for a leaner dish."
+    },
+    {
+      "name": "Grilled Chicken Breast",
+      "amount": "2",
+      "notes": "Marinate in a mixture of soy sauce and fish sauce for added flavor."
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "Jasmine or Thai jasmine rice works best for this dish."
+    },
+    {
+      "name": "Kao Mun Gai Sauce",
+      "amount": "2 tbsp",
+      "notes": "A mixture of fish sauce, lime juice, and palm sugar"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For infusing oil for added flavor."
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grate fresh ginger for added depth."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince fresh garlic for added flavor."
+    },
+    {
+      "name": "Green Chili Peppers",
+      "amount": "2",
+      "notes": "Slice fresh green chilies for added heat."
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup",
+      "notes": "Chop fresh Thai basil for added freshness."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use flaky sea salt for added texture."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Use freshly ground black pepper for added depth."
+    },
+    {
+      "name": "Cedar Plank",
+      "amount": "1",
+      "notes": "Soak the plank in water for at least 30 minutes before use."
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chop fresh cilantro for garnish."
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "4",
+      "notes": "Serve with lime wedges for added brightness."
+    }
+  ],
+  "instructions": [
+    "Grill the chicken breast until cooked through, about 5 minutes per side.",
+    "In a large pan, heat 1 tablespoon of vegetable oil over medium-high heat.",
+    "Add the grated ginger and minced garlic and saut\u00112; for 1 minute until fragrant.",
+    "Add the sliced green chilies and cook for an additional 2 minutes until tender.",
+    "Add the lean minced beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the kao mun gai sauce and stir to combine.",
+    "Reduce heat to low and simmer for 2-3 minutes until the sauce has thickened.",
+    "Add the cooked chicken breast back to the pan and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "To serve, place the beef and chicken mixture on a bed of fluffy rice, garnished with chopped Thai basil and a sprinkle of flaky sea salt.",
+    "Serve with lime wedges on the side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "warm-wholesome-thai-beef-grilled-chicken-kao-mun-gai",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wholesome-thai-beef-grilled-chicken-kao-mun-gai",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:48:38Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "infuse-oil",
+    "primaryIngredient": "lean minced beef",
+    "diet": "vegan",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "beef",
+    "descriptor": "Warm Wholesome",
+    "dishForm": "Grilled Chicken Kao Mun Gai"
+  }
+}

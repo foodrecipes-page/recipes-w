@@ -778,6 +778,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-citrusy-american-citrus-casserole",
+    "title": "Warm Citrusy American Citrus Casserole",
+    "tags": [
+      "american-classics",
+      "citrus-lovers",
+      "cozy-desserts",
+      "egg-free",
+      "pandan-wrapped",
+      "ttukbaegi-cooked"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
     "slug": "warm-citrusy-moroccan-natto-seffa",
     "title": "Warm Citrusy Moroccan Natto Seffa",
     "tags": [
@@ -5142,6 +5157,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-rendered-norwegian-lamb-hash",
+    "title": "Warm Rendered Norwegian Lamb Hash",
+    "tags": [
+      "breakfast-ideas",
+      "hearty-meals",
+      "lamb-recipes",
+      "norwegian-cuisine",
+      "paleo-diet",
+      "whole30-friendly"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-resinous-algerian-fruit-tagine",
     "title": "Warm Resinous Algerian Fruit Tagine",
     "tags": [
@@ -8743,6 +8773,19 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wholesome-thai-beef-grilled-chicken-kao-mun-gai",
+    "title": "Warm Wholesome Thai Beef Grilled Chicken Kao Mun Gai",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "thai",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -12440,6 +12483,22 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-middle-eastern-dish-tagine",
+    "title": "Tagine",
+    "tags": [
+      "apricots",
+      "lamb",
+      "moroccan",
+      "one-pot",
+      "slow-cooked",
+      "stew",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 150,
     "shard": "w"
   },
   {

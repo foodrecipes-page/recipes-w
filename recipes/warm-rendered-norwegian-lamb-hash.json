@@ -1,0 +1,90 @@
+{
+  "title": "Warm Rendered Norwegian Lamb Hash",
+  "description": "A traditional Norwegian dish made with lamb, chives, and render fat, this hash is a hearty and indulgent meal, perfect for a cold winter morning. It is also Whole30 friendly.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "Whole30",
+    "Paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "render fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the lamb cubes with salt, black pepper, and garlic powder until they are evenly coated.",
+    "Heat the render fat in a large oven-safe skillet over medium high heat.",
+    "Add the lamb cubes to the skillet and sear until they are browned on all sides.",
+    "Add the diced onion to the skillet and cook until it is translucent.",
+    "Transfer the skillet to the preheated oven and cook for 20 minutes.",
+    "Remove the skillet from the oven and stir in the chopped chives.",
+    "Serve the lamb hash hot, garnished with additional chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "hearty-meals",
+    "lamb-recipes",
+    "norwegian-cuisine",
+    "paleo-diet",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 42
+  },
+  "slug": "warm-rendered-norwegian-lamb-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-rendered-norwegian-lamb-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:48:57Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "render-fat",
+    "primaryIngredient": "chives",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Rendered",
+    "dishForm": "Hash"
+  }
+}

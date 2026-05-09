@@ -1,0 +1,95 @@
+{
+  "title": "Warm Citrusy American Citrus Casserole",
+  "description": "A cozy American dish featuring almond extract and citrus flavors, cooked in a ttukbaegi earthenware vessel wrapped in pandan leaves, and is egg-free friendly.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "orange marmalade",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "almond extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4-6 leaves",
+      "notes": "for wrapping the ttukbaegi vessel"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together the orange marmalade, lemon juice, almond extract, and granulated sugar until well combined.",
+    "Add the flour to the bowl and stir until a shaggy dough forms.",
+    "Wrap the ttukbaegi earthenware vessel in pandan leaves, making sure to cover the entire surface.",
+    "Pour the melted butter into the wrapped vessel, then add the dough and smooth the top.",
+    "Add the water to the vessel and cover with a lid or foil.",
+    "Place the vessel in the oven and bake for 30 minutes.",
+    "Remove the lid or foil and continue baking for an additional 10 minutes, or until the top is lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "citrus-lovers",
+    "cozy-desserts",
+    "egg-free",
+    "pandan-wrapped",
+    "ttukbaegi-cooked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "warm-citrusy-american-citrus-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-citrusy-american-citrus-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:48:12Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shaggy",
+    "mood": "cozy",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "almond extract",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "citrus",
+    "descriptor": "Warm Citrusy",
+    "dishForm": "Casserole"
+  }
+}
