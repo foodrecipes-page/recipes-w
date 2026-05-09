@@ -3519,6 +3519,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-light-portuguese-dish-bowl",
+    "title": "midnight portuguese jasmine rice bowl",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "one-pan",
+      "portuguese",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "warm-light-portuguese-dried-fruit-toast",
     "title": "Warm Light Portuguese Dried Fruit Toast",
     "tags": [
@@ -6434,6 +6449,20 @@
     ],
     "cuisine": "Northern Irish",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-springy-peruvian-panang-curry-bowl",
+    "title": "warm springy Peruvian panang curry Bowl",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {

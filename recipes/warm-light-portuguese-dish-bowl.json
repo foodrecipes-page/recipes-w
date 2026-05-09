@@ -1,0 +1,127 @@
+{
+  "title": "midnight portuguese jasmine rice bowl",
+  "description": "a warm, sour, and light dish featuring jasmine rice, inspired by portuguese cuisine, perfect for midnight cravings. this dish is ayurvedic rajasic-friendly and can be cooked in a clay pot.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "handful",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the coconut oil in a clay pot over medium heat",
+    "add the sliced onion and cook until translucent",
+    "add the minced garlic and cook for 1 minute",
+    "add the diced tomato and cook for 5 minutes",
+    "add the paprika, cumin, salt, and black pepper. stir well",
+    "add the jasmine rice, vinegar, water, and lime juice. mix well",
+    "bring the mixture to a boil, then reduce the heat to low and cover the pot",
+    "cook for 15 minutes or until the rice is tender and the liquid is absorbed",
+    "fluff the rice with a fork and garnish with fresh cilantro",
+    "serve hot",
+    "enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "portuguese",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 80,
+    "fat": 14
+  },
+  "slug": "warm-light-portuguese-dish-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-light-portuguese-dish-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:17:50Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "jasmine rice",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "dish",
+    "descriptor": "warm light",
+    "dishForm": "Bowl"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "title": "warm springy Peruvian panang curry Bowl",
+  "description": "a jammy, springy, midnight-craving Peruvian dish featuring panang curry paste, spherify, dairy-free-friendly, served in a copper mug",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "panang curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "firm"
+    },
+    {
+      "name": "sugar snap peas",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1/2 cup",
+      "notes": "store-bought"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon of coconut oil in a large saucepan over medium heat.",
+    "add the panang curry paste and cook for 1 minute, stirring constantly.",
+    "add the coconut milk and bring to a simmer.",
+    "add the tofu and cook for 3-4 minutes, or until heated through.",
+    "add the sugar snap peas and cook for an additional 2-3 minutes, or until tender.",
+    "stir in the pickled carrots and cucumber.",
+    "serve the curry over jasmine rice in a copper mug.",
+    "top with toasted coconut flakes, if using"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "warm-springy-peruvian-panang-curry-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-springy-peruvian-panang-curry-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:17:52Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "spherify",
+    "primaryIngredient": "panang curry paste",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "panang curry",
+    "descriptor": "warm springy",
+    "dishForm": "Bowl"
+  }
+}
