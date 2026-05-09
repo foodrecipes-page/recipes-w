@@ -1,0 +1,118 @@
+{
+  "title": "wholesome and warm korean smoked salmon wrap",
+  "description": "buttery, chewy, energizing korean dish featuring smoked salmon, served in a corn-husk wrap, inspired by the flavors of gangwon province",
+  "cuisine": "korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "smoked salmon",
+      "amount": "6 oz"
+    },
+    {
+      "name": "corn husk wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crushed black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "kimchi",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "crushed ginger",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "mix gochujang, brown sugar, sesame oil, green onions, and toasted sesame seeds in a small bowl.",
+    "warm the corn husk wrap by wrapping it in a damp paper towel and microwaving for 20 seconds.",
+    "spread a thin layer of the gochujang mixture on the center of the corn husk wrap.",
+    "place 6 oz of smoked salmon on top of the gochujang mixture.",
+    "add 1/4 cup of kimchi on top of the salmon.",
+    "sprinkle crushed ginger and black pepper over the kimchi.",
+    "drizzle lemon juice and water over the top.",
+    "fold the bottom half of the corn husk wrap up over the filling, then fold in the sides and roll up the wrap to form a tight cylinder.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "korean",
+    "vegetarian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "wholesome-and-warm-korean-smoked-salmon-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-and-warm-korean-smoked-salmon-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:46:45Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "whisk",
+    "primaryIngredient": "smoked salmon",
+    "diet": "satvik",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "smoked salmon",
+    "descriptor": "wholesome and warm",
+    "dishForm": "wrap"
+  }
+}
