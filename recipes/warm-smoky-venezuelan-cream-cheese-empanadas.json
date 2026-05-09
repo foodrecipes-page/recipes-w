@@ -1,0 +1,96 @@
+{
+  "title": "Warm Smoky Venezuelan Cream Cheese Empanadas",
+  "description": "Smoky and pillowy empanadas filled with cream cheese, perfect for a quick snack or dessert. This recipe features a smoky deglaze and is gluten-free friendly.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cream cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten, for egg wash"
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the cream cheese, smoked paprika, garlic powder, and salt until well combined.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the cream cheese mixture in the center of each dough circle.",
+    "Fold the dough in half over the filling and press the edges together to seal.",
+    "Brush the tops of the empanadas with the beaten egg for a golden glaze.",
+    "Heat the vegetable oil in a large skillet over medium-high heat and cook the empanadas until browned on the bottom.",
+    "Transfer the empanadas to a baking sheet and bake for 15 minutes, or until golden brown.",
+    "While the empanadas are baking, deglaze the skillet with a tablespoon of water, scraping up any browned bits.",
+    "Serve the empanadas warm, garnished with the smoky deglaze."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cream-cheese",
+    "empanadas",
+    "gluten-free",
+    "quick-snack",
+    "smoky",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "warm-smoky-venezuelan-cream-cheese-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-venezuelan-cream-cheese-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:50:11Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "cream cheese",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cream cheese",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Empanadas"
+  }
+}
