@@ -1,0 +1,96 @@
+{
+  "title": "Warm Flaky Argentinian Peach Empanadas",
+  "description": "A crowd-pleasing Argentinian dessert featuring peaches in a flaky pastry, cooked to perfection in a bamboo steamer. This egg-free friendly dish is perfect for any occasion.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "peaches",
+      "amount": "4 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the bamboo steamer by filling it with boiling water and letting it steam for 5 minutes.",
+    "In a large bowl, combine flour, sugar, and salt to make the empanada dough.",
+    "Add melted butter and water to the dough mixture and knead until a smooth dough forms.",
+    "Divide the dough into 8 equal pieces and shape each into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Place a spoonful of diced peaches in the center of each circle, leaving a 1/2 inch border around the edges.",
+    "Fold the dough over the peaches to form a half-moon shape and press the edges together to seal the empanada.",
+    "Place the empanadas in the preheated bamboo steamer, leaving some space between each empanada.",
+    "Steam the empanadas for 12 minutes, or until the pastry is cooked through and the peaches are tender.",
+    "Serve the empanadas warm, garnished with powdered sugar if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 12,
+  "totalTimeMin": 37,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-desserts",
+    "egg-free",
+    "flaky-pastry",
+    "peach-recipes",
+    "steamed-dishes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "warm-flaky-argentinian-peach-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-flaky-argentinian-peach-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:40:44Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "peaches",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "peaches",
+    "descriptor": "Warm flaky",
+    "dishForm": "Empanadas"
+  }
+}
