@@ -1,0 +1,97 @@
+{
+  "title": "Warmly Spiced Moroccan Lamb Mechoui",
+  "description": "A traditional Moroccan dish featuring lamb slow-cooked in a blend of aromatic spices, with a twist of balsamic vinegar and a crispy exterior, served in a mechoui style, this recipe is low-calorie-friendly and does not include double-fry-kfc as it is not a part of traditional Moroccan cuisine.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together the cumin, smoked paprika, garlic powder, salt, and black pepper.",
+    "Rub the spice mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat, then sear the lamb shoulder until browned on all sides.",
+    "Add the balsamic vinegar to the Dutch oven and bring to a boil, scraping up any browned bits from the bottom of the pan.",
+    "Cover the Dutch oven with a lid and transfer it to the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until it is tender and falls apart easily.",
+    "Remove the lamb from the oven and let it rest for 10 minutes before slicing it thinly against the grain.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "braised-meat",
+    "comfort-food",
+    "lamb-recipes",
+    "low-calorie",
+    "moroccan-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "warmly-spiced-moroccan-lamb-mechoui",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-moroccan-lamb-mechoui",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:09:41Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "balsamic vinegar",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Warmly Spiced",
+    "dishForm": "Mechoui"
+  }
+}
