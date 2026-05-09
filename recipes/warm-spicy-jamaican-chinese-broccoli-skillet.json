@@ -1,0 +1,104 @@
+{
+  "title": "Warm Spicy Jamaican Chinese Broccoli Skillet",
+  "description": "A peppery and chewy low-carb friendly Jamaican dish featuring Chinese broccoli, perfect for a brunch mood. This cure infused skillet is a unique blend of Jamaican and Chinese flavors.",
+  "cuisine": "Jamaican Chinese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chinese broccoli",
+      "amount": "1 bunch",
+      "notes": "also known as gai lan"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Scotch bonnet peppers",
+      "amount": "2",
+      "notes": "use gloves when handling"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch piece"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cure",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium heat.",
+    "Add the onion and cook until softened, about 3 minutes.",
+    "Add the garlic and ginger and cook for 1 minute, stirring constantly.",
+    "Add the Scotch bonnet peppers and cook for 1 minute, stirring constantly.",
+    "Add the Chinese broccoli and cook until tender, about 5 minutes.",
+    "Add the Jamaican curry powder, salt, and black pepper, and stir to combine.",
+    "Add the cure, if using, and stir to combine.",
+    "Reduce heat to low and simmer for 2 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "chinese",
+    "gluten-free",
+    "jamaican",
+    "low-carb",
+    "one-pan",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "warm-spicy-jamaican-chinese-broccoli-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-jamaican-chinese-broccoli-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:57:23Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "cure",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Chinese broccoli",
+    "descriptor": "Warm spicy",
+    "dishForm": "Skillet"
+  }
+}

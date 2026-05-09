@@ -1,0 +1,98 @@
+{
+  "title": "Warm Dense Canadian Grass Bowl",
+  "description": "A hearty Canadian dish featuring dark soy sauce and dashi extract, perfect for a filling meal prep option, with a dense and grassy flavor profile.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": "Rinse before use"
+    },
+    {
+      "name": "Dark soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dashi extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Frozen peas and carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a medium saucepan, bring 2 cups of water to a boil.",
+    "Add the quinoa to the saucepan, reduce heat to low, cover, and simmer for 15 minutes.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the frozen peas and carrots to the skillet and cook until thawed.",
+    "In a small bowl, whisk together the dark soy sauce and dashi extract.",
+    "Add the soy sauce mixture to the skillet and stir to combine.",
+    "Fluff the cooked quinoa with a fork and add it to the skillet.",
+    "Stir in the chopped scallions, grated cheddar cheese, salt, and black pepper.",
+    "Transfer the mixture to a baking dish and bake for 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "gluten-free",
+    "meal-prep",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "warm-dense-canadian-grass-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dense-canadian-grass-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:56:38Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "dashi-extract",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "grass",
+    "descriptor": "Warm Dense",
+    "dishForm": "Bowl"
+  }
+}
