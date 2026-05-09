@@ -1,0 +1,96 @@
+{
+  "title": "Warm Roasted Portuguese Chicken Roast",
+  "description": "A hearty and flavorful roasted chicken dish featuring doenjang and pickles, perfect for a date night, this paleo-friendly recipe is sure to impress.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "2 lbs",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "doenjang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pickles",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together doenjang, pickle juice, olive oil, garlic, paprika, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat evenly with the marinade.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "Remove the chicken from the marinade and place it in a roasting pan.",
+    "Roast the chicken in the preheated oven for 45 minutes.",
+    "After 45 minutes, reduce the oven temperature to 375 degrees Fahrenheit and continue roasting for an additional 20 minutes.",
+    "While the chicken is roasting, prepare the pickles by chopping them into small pieces.",
+    "After the chicken has finished roasting, let it rest for 10 minutes before slicing and serving with the chopped pickles."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 65,
+  "totalTimeMin": 95,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "paleo-friendly",
+    "portuguese-cuisine",
+    "roasted-chicken",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 8,
+    "fat": 42
+  },
+  "slug": "warm-roasted-portuguese-chicken-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-roasted-portuguese-chicken-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:17:47Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "pickle",
+    "primaryIngredient": "doenjang",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Roasted",
+    "dishForm": "Roast"
+  }
+}
