@@ -1,0 +1,108 @@
+{
+  "title": "Warm Spicy Korean Yogurt Jjigae",
+  "description": "A peppery and adventurous Korean dish featuring yogurt, shio-koji-cure, and halal-friendly ingredients, served in a ceramic tagine.",
+  "cuisine": "Korean",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "cure"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tablespoon",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "1 teaspoon",
+      "notes": "Korean chili flakes"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "diced, extra-firm"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine yogurt, shio-koji, gochujang, gochugaru, garlic, and ginger, and blend until smooth.",
+    "Heat the blended mixture in a ceramic tagine over medium heat, stirring constantly.",
+    "Bring the mixture to a simmer and cook for 5 minutes, or until it has thickened slightly.",
+    "Add the diced tofu and cook for an additional 2-3 minutes, or until the tofu is heated through.",
+    "Stir in the chopped scallions and cook for 1 minute.",
+    "Season the jjigae with salt to taste.",
+    "Serve the Warm Spicy Korean Yogurt Jjigae hot, drizzled with sesame oil.",
+    "Garnish with additional scallions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "halal-friendly",
+    "korean",
+    "one-pot",
+    "spicy",
+    "yogurt-based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "warm-spicy-korean-yogurt-jjigae",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-korean-yogurt-jjigae",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:16:37Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "yogurt",
+    "diet": "halal",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "yogurt",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Jjigae"
+  }
+}
