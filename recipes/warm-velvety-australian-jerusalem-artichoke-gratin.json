@@ -1,0 +1,97 @@
+{
+  "title": "Warm Velvety Australian Jerusalem Artichoke Gratin",
+  "description": "This fermented and velvety Australian dish features Jerusalem artichokes, tempering chocolate, and is ayurvedic-rajasic-friendly, making it perfect for a festive occasion.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "2 pounds",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine the sliced Jerusalem artichokes and enough cold water to cover them, then bring to a boil over high heat.",
+    "Reduce the heat to medium-low and simmer for 10 minutes, or until the artichokes are slightly tender.",
+    "Drain the artichokes and set them aside to cool.",
+    "In a large skillet, melt the butter over medium heat, then add the chopped tempering chocolate and cook, stirring constantly, until melted and smooth.",
+    "In a large bowl, combine the cooked artichokes, melted chocolate mixture, heavy cream, shredded gruyere cheese, salt, black pepper, and chopped fresh thyme, and stir until well combined.",
+    "Transfer the artichoke mixture to a 9x13 inch baking dish and smooth the top.",
+    "Bake for 25 minutes, or until the top is golden brown and the gratin is heated through.",
+    "Remove the gratin from the oven and let it cool for 10 minutes before serving.",
+    "Serve the gratin warm, garnished with additional chopped fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "festive-recipes",
+    "gluten-free",
+    "one-pan",
+    "vegetarian-dishes",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "warm-velvety-australian-jerusalem-artichoke-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-velvety-australian-jerusalem-artichoke-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:32:23Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Jerusalem artichokes",
+    "descriptor": "Warm Velvety",
+    "dishForm": "Gratin"
+  }
+}
