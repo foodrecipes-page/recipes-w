@@ -2787,6 +2787,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-indian-paneer-palak-paneer",
+    "title": "Warm Indian Paneer Palak",
+    "tags": [
+      "cheese-lovers",
+      "indian-cuisine",
+      "midnight-cravings",
+      "spinach-dishes",
+      "vegetarian-options"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-indian-peanuts-rasam",
     "title": "Warm Indian Peanuts Rasam",
     "tags": [

@@ -1,0 +1,92 @@
+{
+  "title": "Warm Indian Paneer Palak",
+  "description": "Rich and creamy Indian dish featuring paneer cheese in a spinach sauce, perfect for a midnight craving",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer cheese",
+      "amount": "250g",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "spinach puree",
+      "amount": "200g"
+    },
+    {
+      "name": "doubanjiang",
+      "amount": "20g",
+      "notes": "chili bean paste"
+    },
+    {
+      "name": "ghee",
+      "amount": "30g"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large pan over medium heat",
+    "Add the cumin seeds and let them sizzle for a few seconds",
+    "Add the garlic and ginger and saute until fragrant",
+    "Add the doubanjiang and saute for another minute",
+    "Add the spinach puree and stir well",
+    "Add the paneer cheese and stir gently until the cheese is well coated",
+    "Reduce heat to low and simmer for 10 minutes",
+    "Season with coriander powder and serve hot"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lovers",
+    "indian-cuisine",
+    "midnight-cravings",
+    "spinach-dishes",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "warm-indian-paneer-palak-paneer",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-indian-paneer-palak-paneer",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:16:07Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "fold",
+    "primaryIngredient": "doubanjiang",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "paneer",
+    "descriptor": "Warm Cheese Pull",
+    "dishForm": "Palak Paneer"
+  }
+}
