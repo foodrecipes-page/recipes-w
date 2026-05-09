@@ -1,0 +1,105 @@
+{
+  "title": "Warm Spicy Jamaican Chinese Leaf Stew",
+  "description": "A fatty and silky stew featuring Chinese leaf, cooked in a clay pot with a blend of Jamaican spices, macrobiotic-friendly ingredients, and a warm spicy flavor.",
+  "cuisine": "Jamaican Chinese",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese leaf",
+      "amount": "2 bunches",
+      "notes": "chopped"
+    },
+    {
+      "name": "Scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a clay pot over medium heat.",
+    "Add the onion, garlic, and ginger, and saute until the onion is translucent.",
+    "Add the Scotch bonnet peppers, thyme, salt, and black pepper, and stir well.",
+    "Add the chopped Chinese leaf and stir to combine.",
+    "Pour in the soy sauce and stir to coat the leaves evenly.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with additional thyme if desired.",
+    "Let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cooking",
+    "jamaican-cuisine",
+    "macrobiotic-friendly",
+    "one-pot",
+    "spicy-food",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "warm-spicy-jamaican-chinese-leaf-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-jamaican-chinese-leaf-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:44:15Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "chinese leaf",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Chinese leaf",
+    "descriptor": "Warm spicy",
+    "dishForm": "Stew"
+  }
+}
