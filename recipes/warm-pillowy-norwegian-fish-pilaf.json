@@ -1,0 +1,92 @@
+{
+  "title": "Warm Norwegian Fish Pilaf",
+  "description": "A cultured and pillowy Norwegian dish featuring pitted black olives and fish, cooked in a papillote for a shojin-friendly meal",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 pieces",
+      "notes": "fresh and skinless"
+    },
+    {
+      "name": "black olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": " Arborio rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Cut the cod fillets into small pieces and season with salt and pepper",
+    "Heat the olive oil in a large skillet over medium heat and saute the fish until cooked through",
+    "In a large bowl, combine the cooked fish, Arborio rice, vegetable broth, lemon juice, and pitted black olives",
+    "Mix well and transfer the mixture to a large piece of parchment paper or aluminum foil",
+    "Fold the parchment paper or foil over the mixture to create a papillote and bake for 20 minutes",
+    "Remove the pilaf from the oven and let it rest for 5 minutes before serving",
+    "Serve the pilaf hot, garnished with additional black olives if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-based",
+    "norwegian-cuisine",
+    "one-pan",
+    "pilaf",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "warm-pillowy-norwegian-fish-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-pillowy-norwegian-fish-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:25:41Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "papillote",
+    "primaryIngredient": "pitted black olives",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "Warm pillowy",
+    "dishForm": "Pilaf"
+  }
+}
