@@ -1,0 +1,109 @@
+{
+  "title": "Warm Tunisian Lamb Tagine",
+  "description": "A rich and flavorful Tunisian dish featuring lamb, dark chocolate, and spices, perfect for a special occasion",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat",
+    "Add the lamb pieces and cook until browned on all sides",
+    "Remove the lamb from the skillet and set aside",
+    "Add the chopped onion to the skillet and cook until softened",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute",
+    "Stir in the cumin, coriander, cayenne pepper, salt, and black pepper",
+    "Add the browned lamb back to the skillet and stir to coat with the spice mixture",
+    "Add the dark chocolate chips to the skillet and stir to combine",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours",
+    "Serve the tagine hot, garnished with fresh herbs, on a slate tile"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-infused",
+    "lamb-based",
+    "north-african",
+    "one-pan",
+    "special-occasion",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "warm-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:05:10Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "wok-hei",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Tagine"
+  }
+}

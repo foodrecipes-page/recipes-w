@@ -6673,6 +6673,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-tunisian-lamb-tagine",
+    "title": "Warm Tunisian Lamb Tagine",
+    "tags": [
+      "chocolate-infused",
+      "lamb-based",
+      "north-african",
+      "one-pan",
+      "special-occasion",
+      "spicy"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 120,
+    "shard": "w"
+  },
+  {
     "slug": "warm-tunisian-wood-ears-tagine",
     "title": "Warm Tunisian Wood Ears Tagine",
     "tags": [
@@ -12442,6 +12457,22 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
+    "slug": "wilted-tangy-indian-paneer-palak-paneer",
+    "title": "Wilted Tangy Indian Paneer Palak Paneer",
+    "tags": [
+      "high-protein",
+      "indian-food",
+      "one-pan",
+      "palak-paneer",
+      "paneer",
+      "spinach",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
