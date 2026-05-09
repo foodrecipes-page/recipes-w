@@ -1,0 +1,100 @@
+{
+  "title": "Warm Mediterranean Egg Frittata",
+  "description": "A crowd-pleasing Mediterranean dish featuring free-range eggs and wood-fired baking, this frittata is a perfect umami and aerated treat for any meal. It is jain-friendly and made in a hot pot vessel.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "free-range eggs",
+      "amount": "8 large eggs",
+      "notes": "beaten"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1 cup pitted",
+      "notes": "sliced"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can drained and chopped",
+      "notes": ""
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup crumbled",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the beaten eggs and a pinch of salt.",
+    "Add the sliced olives, chopped artichoke hearts, and sun-dried tomatoes to the bowl and stir to combine.",
+    "Pour the egg mixture into a hot pot vessel coated with a small amount of oil.",
+    "Sprinkle the crumbled feta cheese and chopped parsley over the top of the egg mixture.",
+    "Season with salt and black pepper to taste.",
+    "Bake the frittata in the preheated oven for 25-30 minutes, or until the eggs are set and the cheese is golden brown.",
+    "Remove the frittata from the oven and let it cool for a few minutes before slicing and serving.",
+    "Serve the frittata warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "jain-friendly",
+    "mediterranean-diet",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "warm-mediterranean-egg-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-mediterranean-egg-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:34:34Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "crowd-pleaser",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "egg",
+    "descriptor": "Wood fired",
+    "dishForm": "Frittata"
+  }
+}

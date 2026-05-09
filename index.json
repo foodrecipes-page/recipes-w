@@ -3708,6 +3708,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-mediterranean-egg-frittata",
+    "title": "Warm Mediterranean Egg Frittata",
+    "tags": [
+      "high-protein",
+      "jain-friendly",
+      "mediterranean-diet",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-melted-middle-eastern-cheese-pilaf",
     "title": "Warm Melted Middle Eastern Cheese Pilaf",
     "tags": [
