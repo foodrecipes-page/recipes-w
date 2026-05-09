@@ -1,0 +1,105 @@
+{
+  "title": "Warm Filipino Hind Shank Lumpia",
+  "description": "Savory and creamy Filipino dish featuring hind shank, confit-tomato, and wrapped in a corn husk, perfect for special occasions.",
+  "cuisine": "Filipino",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hind shank",
+      "amount": "1 pound",
+      "notes": "braised until tender"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "canned or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "corn husk",
+      "amount": "12 pieces",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, sauté the chopped onion and minced garlic until softened.",
+    "Add the braised hind shank to the pan and stir to combine with the onion and garlic.",
+    "Stir in the confit tomato and cook for an additional 2 minutes.",
+    "In a large bowl, combine the cooked hind shank mixture, softened cream cheese, chopped green onion, salt, and black pepper, and mix until well combined.",
+    "Lay a corn husk flat and place about 1/4 cup of the hind shank mixture in the center of the husk.",
+    "Fold the sides of the corn husk over the filling and roll up the lumpia to form a tight cylinder.",
+    "Repeat with the remaining corn husks and filling.",
+    "Place the lumpia on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "Serve the warm lumpia immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "confit-tomato",
+    "corn-husk",
+    "filipino-food",
+    "hind-shank",
+    "lacto-vegetarian",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "warm-filipino-hind-shank-lumpia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-filipino-hind-shank-lumpia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:21:51Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "confit-tomato",
+    "primaryIngredient": "hind shank",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "hind shank",
+    "descriptor": "Warm Creamy",
+    "dishForm": "Lumpia"
+  }
+}
