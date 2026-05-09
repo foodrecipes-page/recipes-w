@@ -1,0 +1,93 @@
+{
+  "title": "Warm Crispy Egyptian Fruit Mix Fritters",
+  "description": "Indulge in these crispy, yeasty Egyptian fritters filled with a mix of fruits, perfect for a sweet treat. This low-sodium-friendly dessert is a delightful twist on traditional Egyptian cuisine.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mixed fruit",
+      "amount": "1 cup",
+      "notes": "such as pineapple, apple, and orange"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "low-sodium milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, and sugar, whisking until well combined.",
+    "In a separate bowl, whisk together eggs, milk, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and mix until a smooth batter forms.",
+    "Gently fold in the mixed fruit.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using a spoon, drop the batter into the hot oil, making sure not to overcrowd the pan.",
+    "Fry the fritters for 2-3 minutes on each side, or until golden brown and crispy.",
+    "Remove the fritters from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-treats",
+    "deep-fried",
+    "egyptian-desserts",
+    "fruit-filled",
+    "low-sodium",
+    "sweet-indulgence"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "warm-crispy-egyptian-fruit-mix-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-egyptian-fruit-mix-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:33:39Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "fruit mix",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "fruit mix",
+    "descriptor": "Warm crispy",
+    "dishForm": "Fritters"
+  }
+}
