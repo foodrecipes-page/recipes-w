@@ -1,0 +1,100 @@
+{
+  "title": "Warm Crunchy Mediterranean Chicken Flatbread",
+  "description": "A garlicky and crunchy light Mediterranean dish featuring naan bread and double fry KFC style chicken, paleo friendly.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "naan bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a bowl, mix together almond flour, salt, black pepper, and paprika.",
+    "Dip each piece of chicken into the eggs and then coat in the almond flour mixture.",
+    "Heat about 1/2 inch of olive oil in a skillet over medium high heat and fry the chicken until golden brown and cooked through.",
+    "Transfer the fried chicken to a baking sheet and bake in the oven for 10 minutes.",
+    "Meanwhile, toast the naan bread in the oven for 5 minutes.",
+    "Spread minced garlic on each piece of naan bread.",
+    "Assemble the flatbread by placing the chicken on top of the garlic naan bread and squeezing lemon juice over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-crunchy-mediterranean-chicken-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crunchy-mediterranean-chicken-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:52:05Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "naan bread",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Crunchy",
+    "dishForm": "Flatbread"
+  }
+}
