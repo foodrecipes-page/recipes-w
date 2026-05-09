@@ -1,0 +1,93 @@
+{
+  "title": "Warmly-Kissed Croatian Hummus Burek",
+  "description": "A sweet and chewy twist on traditional Croatian burek, featuring hummus, beurre monte, and tamasic-friendly spices.",
+  "cuisine": "croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "hummus",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beurre monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thaw phyllo dough according to package instructions.",
+    "In a medium bowl, mix together hummus, beurre monte, cinnamon, cardamom, ginger, and sugar.",
+    "Unroll phyllo dough and cut into 4 equal pieces.",
+    "Place a piece of phyllo dough on a flat surface and spread a quarter of the hummus mixture onto it.",
+    "Fold the phyllo dough over the filling to form a triangle.",
+    "Brush the edges with a little water and fold again to seal.",
+    "Brush the tops with unsalted butter and bake for 20 minutes.",
+    "Repeat with the remaining dough and filling.",
+    "Serve warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "croatian",
+    "dessert",
+    "sweet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "warmly-kissed-croatian-hummus-burek",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-kissed-croatian-hummus-burek",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T13:40:59Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "beurre-monte",
+    "primaryIngredient": "hummus",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "hummus",
+    "descriptor": "Warmly-Kissed",
+    "dishForm": "Burek"
+  }
+}
