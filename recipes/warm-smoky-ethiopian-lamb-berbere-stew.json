@@ -1,0 +1,109 @@
+{
+  "title": "Warm Smoky Ethiopian Lamb Berbere Stew",
+  "description": "A hearty and aromatic stew featuring tender lamb, rich berbere spices, and a smoky depth of flavor, perfect for a lazy Sunday, this dish is keto-friendly and served in a lazy-susan-spinner vessel. The addition of soy sauce adds a unique twist to the traditional Ethiopian flavors.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the browned lamb from the pot and set aside.",
+    "Add more oil if necessary, then add the chopped onion and cook until it starts to caramelize, about 8 minutes.",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute, stirring constantly.",
+    "Add the berbere spice, smoked paprika, salt, and black pepper to the pot and cook for 1 minute, stirring constantly.",
+    "Add the soy sauce to the pot and stir to deglaze, scraping up any browned bits from the bottom of the pot.",
+    "Add the beef broth, tomato paste, and browned lamb back to the pot, stirring to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the lamb is tender.",
+    "Serve the stew hot, garnished with chopped fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "keto-friendly",
+    "one-pot",
+    "slow-cooker",
+    "smoky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "warm-smoky-ethiopian-lamb-berbere-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-ethiopian-lamb-berbere-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:41:45Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "deglaze",
+    "primaryIngredient": "soy sauce",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Berbere Stew"
+  }
+}
