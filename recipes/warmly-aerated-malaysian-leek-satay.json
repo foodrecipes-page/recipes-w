@@ -1,0 +1,100 @@
+{
+  "title": "Warmly Aerated Malaysian Leek Satay",
+  "description": "A diabetic-friendly Malaysian dish featuring leek, agemono-deep-fry, and a jammy, aerated texture, reminiscent of nostalgic Malaysian cuisine. This dish is carefully crafted to be both delicious and healthy.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "leeks",
+      "amount": "4 medium",
+      "notes": "cleaned and cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/2 cup",
+      "notes": "for deep-frying"
+    },
+    {
+      "name": "satay seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the peanut oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a blender or food processor, blend the coconut milk, satay seasoning, garlic, and ginger until smooth.",
+    "Add the leeks to the blender and blend until they are well coated with the coconut milk mixture.",
+    "Carefully add the leek mixture to the hot oil and deep-fry for 3-4 minutes or until golden brown.",
+    "Remove the leeks from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "In a small bowl, whisk together the lime juice and salt.",
+    "Drizzle the lime juice mixture over the deep-fried leeks and serve immediately.",
+    "Garnish with chopped fresh herbs, such as cilantro or scallions, if desired.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "deep-fried",
+    "diabetic-friendly",
+    "gluten-free",
+    "healthy-dinner",
+    "malaysian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "warmly-aerated-malaysian-leek-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-aerated-malaysian-leek-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:05:03Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "leek",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "leek",
+    "descriptor": "Warmly aerated",
+    "dishForm": "Satay"
+  }
+}
