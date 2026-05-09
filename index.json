@@ -3455,6 +3455,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-molten-filipino-passata-halo-halo",
+    "title": "Warm Molten Filipino Passata Halo Halo",
+    "tags": [
+      "diabetic-friendly",
+      "filipino-dessert",
+      "gluten-free",
+      "sous-vide",
+      "warm-dessert",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-molten-indian-chicken-biryani",
     "title": "Warm Molten Indian Chicken Biryani",
     "tags": [
@@ -5971,6 +5986,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-turkish-lamb-lahmacun",
+    "title": "Warm Turkish Lamb Lahmacun",
+    "tags": [
+      "lamb-recipes",
+      "low-fat",
+      "middle-eastern",
+      "one-pan",
+      "quick-meals",
+      "turkish-food"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 32,
     "shard": "w"
   },
   {

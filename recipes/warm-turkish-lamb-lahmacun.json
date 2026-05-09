@@ -1,0 +1,103 @@
+{
+  "title": "Warm Turkish Lamb Lahmacun",
+  "description": "A citrusy and flaky Turkish dish featuring lamb, basil leaves, and a hint of dashi extract, perfect for a quick and low-fat friendly meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the lamb mince, onion, garlic, basil leaves, dashi extract, lemon juice, salt, and black pepper, and mix well.",
+    "Divide the mixture into 4 equal parts and shape each part into a thin circle.",
+    "Place each circle on a piece of pita bread and brush the edges with olive oil.",
+    "Bake the lahmacun in the preheated oven for 12 minutes, or until the crust is golden brown and the lamb is cooked through.",
+    "Remove the lahmacun from the oven and let them cool for a few minutes.",
+    "Serve the lahmacun warm, garnished with additional basil leaves if desired.",
+    "Repeat the process to make the remaining lahmacun.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-recipes",
+    "low-fat",
+    "middle-eastern",
+    "one-pan",
+    "quick-meals",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "warm-turkish-lamb-lahmacun",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-turkish-lamb-lahmacun",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:10:45Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "dashi-extract",
+    "primaryIngredient": "basil leaves",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Citrusy",
+    "dishForm": "Lahmacun"
+  }
+}

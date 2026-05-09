@@ -1,0 +1,96 @@
+{
+  "title": "Warm Molten Filipino Passata Halo Halo",
+  "description": "A diabetic-friendly Filipino dessert featuring passata, served warm and molten, perfect for a weeknight treat.",
+  "cuisine": "Filipino",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "passata",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1/2 cup",
+      "notes": "low-sugar"
+    },
+    {
+      "name": "jackfruit",
+      "amount": "1 cup",
+      "notes": "canned in syrup"
+    },
+    {
+      "name": "kaong",
+      "amount": "1 cup",
+      "notes": "canned in syrup"
+    },
+    {
+      "name": "pinipig",
+      "amount": "1/2 cup",
+      "notes": "toasted rice cereal"
+    },
+    {
+      "name": "sugar-free vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 160 degrees Fahrenheit.",
+    "In a large bowl, combine passata, coconut milk, sweetened condensed milk, and sugar-free vanilla extract, if using.",
+    "Stir well to combine and pour the mixture into small ramekins or cups.",
+    "Place the ramekins in the sous-vide machine and cook for 30 minutes.",
+    "While the passata mixture is cooking, prepare the toppings by draining the jackfruit and kaong and slicing them into bite-sized pieces.",
+    "To assemble the halo halo, place a few pieces of jackfruit and kaong at the bottom of a glass or bowl.",
+    "Remove the passata mixture from the sous-vide machine and pour it over the fruit.",
+    "Top with toasted pinipig and serve immediately.",
+    "Repeat the assembly process for the remaining servings.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "filipino-dessert",
+    "gluten-free",
+    "sous-vide",
+    "warm-dessert",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "warm-molten-filipino-passata-halo-halo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-molten-filipino-passata-halo-halo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:10:59Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "passata",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "passata",
+    "descriptor": "Warm Molten",
+    "dishForm": "Halo Halo"
+  }
+}
