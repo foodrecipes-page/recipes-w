@@ -1,0 +1,94 @@
+{
+  "title": "Warm Mediterranean Caramelized Savoy Cabbage Skewers",
+  "description": "A funky and kid-friendly Mediterranean dish featuring caramelized Savoy cabbage, perfect for a snack or light meal. This gluten-free-friendly recipe is cooked to perfection on a cedar plank.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Savoy cabbage",
+      "amount": "1 head",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4-6 planks",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Add the Savoy cabbage pieces to the bowl and toss to coat with the marinade.",
+    "Thread the cabbage pieces onto the soaked cedar planks, leaving a little space between each piece.",
+    "Brush the cabbage with the remaining marinade and drizzle with honey.",
+    "Place the cedar planks on the grill and cook for 10-12 minutes, or until the cabbage is caramelized and slightly charred.",
+    "Flip the planks halfway through cooking to ensure even cooking.",
+    "Remove the planks from the grill and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "healthy-snack",
+    "kid-friendly",
+    "mediterranean",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "warm-mediterranean-caramelized-savoy-cabbage-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-mediterranean-caramelized-savoy-cabbage-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:07:13Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "caramelize",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Savoy Cabbage",
+    "descriptor": "Warm Caramelized",
+    "dishForm": "Skewers"
+  }
+}
