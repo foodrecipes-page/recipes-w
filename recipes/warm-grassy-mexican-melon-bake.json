@@ -1,0 +1,101 @@
+{
+  "title": "Warm Grassy Mexican Melon Bake",
+  "description": "A refreshing post-workout Mexican dish featuring melons and a blend of Mediterranean flavors, with a grassy and shattering texture from toasted pumpkin seeds and crispy tortilla strips. This Chiapan-inspired bake is perfect for a light dinner or snack.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cantaloupe melon",
+      "amount": "2 cups diced",
+      "notes": "fresh and ripe"
+    },
+    {
+      "name": "honeydew melon",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/4 cup toasted"
+    },
+    {
+      "name": "tortilla strips",
+      "amount": "1/2 cup crispy"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup crumbled"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine diced cantaloupe and honeydew melon.",
+    "In a small skillet, toast pumpkin seeds over medium heat until fragrant and lightly browned.",
+    "Add toasted pumpkin seeds, crispy tortilla strips, crumbled feta cheese, and chopped cilantro to the bowl with the melon mixture.",
+    "In a small bowl, whisk together lime juice and olive oil.",
+    "Pour the lime juice and olive oil mixture over the melon mixture and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Transfer the mixture to a baking dish and bake for 20 minutes.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "mediterranean-friendly",
+    "mexican-inspired",
+    "post-workout",
+    "refreshing-dish",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "warm-grassy-mexican-melon-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-grassy-mexican-melon-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:29:01Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "bake",
+    "primaryIngredient": "melons",
+    "diet": "mediterranean",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "melons",
+    "descriptor": "Warm Grassy",
+    "dishForm": "Bake"
+  }
+}
