@@ -1,0 +1,103 @@
+{
+  "title": "Warmly Spiced American Chicken Skewers",
+  "description": "Savory and tender, these American chicken skewers are a crowd-pleaser, featuring extra virgin olive oil and nuka-pickle for a Mediterranean-friendly flavor profile, all cooked to perfection in a bamboo steamer.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "2 tablespoons",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the bamboo steamer by filling the bottom with 2 inches of water and bringing to a boil.",
+    "In a large bowl, whisk together olive oil, nuka-pickle, garlic powder, onion powder, smoked paprika, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Place the skewers in the bamboo steamer, cover with a lid, and steam for 12-15 minutes or until the chicken is cooked through.",
+    "Remove the skewers from the steamer and brush with lemon juice.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Serve with your favorite sides, such as roasted vegetables or quinoa.",
+    "Refrigerate or freeze any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "mediterranean-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "warmly-spiced-american-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-american-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:02:23Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "extra virgin olive oil",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "warmly spiced",
+    "dishForm": "Skewers"
+  }
+}
