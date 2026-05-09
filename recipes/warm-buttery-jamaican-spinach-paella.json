@@ -1,0 +1,98 @@
+{
+  "title": "Warm Buttery Jamaican Spinach Paella",
+  "description": "A creamy and buttery Jamaican dish featuring spinach, perfect for a hangover cure, made in a paella pan with reduced sodium.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spinach",
+      "amount": "2 cups fresh",
+      "notes": "chopped"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": " Arborio rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "grated coconut",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large paella pan over medium heat until melted.",
+    "Add the chopped scallions and cook until they are softened, about 2 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the jerk seasoning and cook for 1 minute, stirring constantly.",
+    "Add the Arborio rice and cook for 1-2 minutes, until the rice is coated in the butter and spice mixture.",
+    "Add the chicken broth to the pan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the rice is cooked and the liquid is absorbed.",
+    "Stir in the chopped spinach and cook until wilted, about 2 minutes.",
+    "Season with salt and pepper to taste, then sprinkle with grated coconut if desired.",
+    "Serve the paella hot, straight from the pan."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "jamaican-cuisine",
+    "low-sodium",
+    "one-pan",
+    "spinach-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-buttery-jamaican-spinach-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-buttery-jamaican-spinach-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:50:49Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "reduce",
+    "primaryIngredient": "spinach",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "spinach",
+    "descriptor": "warm buttery",
+    "dishForm": "Paella"
+  }
+}

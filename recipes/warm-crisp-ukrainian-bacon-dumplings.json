@@ -1,0 +1,96 @@
+{
+  "title": "Warm Crisp Ukrainian Bacon Dumplings",
+  "description": "A crowd-pleasing Ukrainian dish featuring crispy bacon and soft dumplings, wrapped in corn husks for a unique presentation, this low-sodium friendly recipe is perfect for any occasion. It is a resinous and flavorful dish that is sure to please",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "thick cut"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12 pieces",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "namul",
+      "amount": "1/4 cup",
+      "notes": "blanched and seasoned"
+    }
+  ],
+  "instructions": [
+    "Start by preparing the namul according to package instructions, then set it aside to cool.",
+    "In a large mixing bowl, combine the flour, egg, salt, and pepper, and mix until a dough forms.",
+    "Gradually add in the warm water, and continue mixing until the dough is smooth and elastic.",
+    "Knead the dough for 5 minutes, until it becomes pliable and easy to work with.",
+    "Divide the dough into 12 equal pieces, and roll each piece into a ball.",
+    "Flatten each ball into a disk shape, and place a slice of bacon in the center of each disk.",
+    "Add a spoonful of the cooled namul on top of the bacon, and fold the dough over to form a half-moon shape.",
+    "Wrap each dumpling in a corn husk, and secure with a strip of corn husk or kitchen twine.",
+    "Heat a large skillet over medium-high heat, and add a small amount of oil to the pan.",
+    "When the oil is hot, add the dumplings to the pan, and cook until they are crispy and golden brown on the bottom.",
+    "Serve the dumplings warm, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bacon-recipes",
+    "corn-husk-recipes",
+    "dumpling-recipes",
+    "low-sodium-recipes",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "warm-crisp-ukrainian-bacon-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crisp-ukrainian-bacon-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:50:38Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "bacon",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "bacon",
+    "descriptor": "Warm Crisp",
+    "dishForm": "Dumplings"
+  }
+}

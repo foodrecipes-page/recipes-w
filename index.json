@@ -340,6 +340,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-buttery-jamaican-spinach-paella",
+    "title": "Warm Buttery Jamaican Spinach Paella",
+    "tags": [
+      "comfort-food",
+      "jamaican-cuisine",
+      "low-sodium",
+      "one-pan",
+      "spinach-recipes"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-buttery-moroccan-chicken-tagine",
     "title": "Warm Buttery Moroccan Chicken Tagine",
     "tags": [
@@ -1018,6 +1032,20 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-crisp-ukrainian-bacon-dumplings",
+    "title": "Warm Crisp Ukrainian Bacon Dumplings",
+    "tags": [
+      "bacon-recipes",
+      "corn-husk-recipes",
+      "dumpling-recipes",
+      "low-sodium-recipes",
+      "ukrainian-cuisine"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
