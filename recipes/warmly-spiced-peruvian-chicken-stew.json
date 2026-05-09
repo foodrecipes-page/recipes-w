@@ -1,0 +1,103 @@
+{
+  "title": "Warmly Spiced Peruvian Chicken Stew",
+  "description": "A charred and crunchy weeknight Peruvian dish featuring rosemary and bhuna, made diabetic-friendly in a cataplana vessel.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the cataplana vessel over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chicken breast pieces and cook until they are browned on all sides.",
+    "Add the rosemary sprigs, bhuna spice blend, salt, and black pepper, and stir to combine.",
+    "Add the diced tomatoes and chicken broth, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 25 minutes, or until the chicken is cooked through.",
+    "Remove the rosemary sprigs and serve the stew hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-stew",
+    "diabetic-friendly",
+    "gluten-free",
+    "one-pot",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "warmly-spiced-peruvian-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-peruvian-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:04:53Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "bhuna",
+    "primaryIngredient": "rosemary",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Warmly spiced",
+    "dishForm": "Stew"
+  }
+}

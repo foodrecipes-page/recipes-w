@@ -9485,6 +9485,21 @@
     "shard": "w"
   },
   {
+    "slug": "warmly-spiced-peruvian-chicken-stew",
+    "title": "Warmly Spiced Peruvian Chicken Stew",
+    "tags": [
+      "chicken-stew",
+      "diabetic-friendly",
+      "gluten-free",
+      "one-pot",
+      "peruvian",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warmly-spiced-peruvian-fish-pollo-a-la-brasa",
     "title": "Warmly Spiced Peruvian Fish Pollo A La Brasa",
     "tags": [
