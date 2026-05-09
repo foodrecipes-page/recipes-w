@@ -1,0 +1,104 @@
+{
+  "title": "Warm Spanish Potatoes Skillet",
+  "description": "A flavorful and spicy Spanish dish featuring double-fried potatoes, perfect for a brunch mood, with a bitter and juicy twist, made in a traditional iron teppan",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "floury potatoes like Russet"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan over medium-high heat",
+    "Peel and cut the potatoes into 1-inch cubes",
+    "Heat 2 tablespoons of olive oil in the teppan and fry the potatoes until golden brown",
+    "Remove the potatoes from the teppan and set aside",
+    "Add the remaining olive oil to the teppan and fry the potatoes again until crispy",
+    "Add the smoked paprika, garlic powder, salt, and black pepper to the teppan and stir for 1 minute",
+    "Add the cherry tomatoes to the teppan and cook for 2 minutes",
+    "Add the fried potatoes back to the teppan and stir to combine with the cherry tomatoes and spices",
+    "Squeeze the lemon juice and sherry vinegar over the potatoes and stir to combine",
+    "Garnish with chopped fresh parsley and serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "gluten-free",
+    "low-fat",
+    "one-pan",
+    "spanish-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "warm-spanish-potatoes-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spanish-potatoes-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:37:04Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "floury potatoes",
+    "diet": "low-fat",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Warm Double Fried",
+    "dishForm": "Skillet"
+  }
+}
