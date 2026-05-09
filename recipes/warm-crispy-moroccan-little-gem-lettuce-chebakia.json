@@ -1,0 +1,97 @@
+{
+  "title": "Warm Crispy Moroccan Little Gem Lettuce Chebakia",
+  "description": "A quick-fix Moroccan dish featuring little gem lettuce and chebakia, this recipe is a perfect snack for any occasion, with a grassy flavor and shattering texture.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "fodmap-friendly",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "little gem lettuce",
+      "amount": "4 heads",
+      "notes": "leaves separated and washed"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "semolina flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the all purpose flour, semolina flour, yeast, and salt.",
+    "Gradually add the olive oil and water to the bowl, mixing until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a thin circle, about 1/8 inch thick.",
+    "Place a few leaves of little gem lettuce in the center of each circle.",
+    "Fold the dough over the lettuce to form a triangle or a square shape, and press the edges together to seal.",
+    "Heat about 1-2 inches of olive oil in a deep frying pan over medium heat.",
+    "Fry the chebakia until they are golden brown and crispy, about 2-3 minutes on each side.",
+    "Drain the chebakia on paper towels and sprinkle with sesame seeds and paprika."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-snacks",
+    "fodmap-friendly",
+    "moroccan-cuisine",
+    "quick-fix",
+    "vegetarian-snacks"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "warm-crispy-moroccan-little-gem-lettuce-chebakia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-moroccan-little-gem-lettuce-chebakia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:08:06Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "ferment",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Little Gem Lettuce",
+    "descriptor": "Warm Crispy",
+    "dishForm": "Chebakia"
+  }
+}
