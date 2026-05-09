@@ -1,0 +1,97 @@
+{
+  "title": "Warm Roasted Russian Shiitake Mushroom Roast",
+  "description": "A floral and velvety Russian dish featuring shiitake mushrooms and roast, perfect for a midnight craving, and low-fat-friendly",
+  "cuisine": "Russian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "beef roast",
+      "amount": "2 pounds",
+      "notes": "lean cut"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325 degrees Fahrenheit",
+    "Season the beef roast with salt, black pepper, and thyme",
+    "Heat the olive oil in a large Dutch oven over medium-high heat",
+    "Sear the beef roast until browned on all sides",
+    "Add the chopped onion to the pot and cook until softened",
+    "Add the minced garlic and cook for 1 minute",
+    "Add the shiitake mushrooms to the pot and cook until they release their moisture",
+    "Cover the pot and transfer it to the preheated oven",
+    "Roast for 2 hours, or until the beef is tender",
+    "Let the roast rest for 10 minutes before slicing and serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-fat",
+    "mushroom-based",
+    "one-pot",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "warm-roasted-russian-shiitake-mushroom-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-roasted-russian-shiitake-mushroom-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:53:54Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "roast",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "shiitake mushrooms",
+    "descriptor": "Warm Roasted",
+    "dishForm": "Roast"
+  }
+}
