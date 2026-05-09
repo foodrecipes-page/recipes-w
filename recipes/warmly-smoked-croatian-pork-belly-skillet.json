@@ -1,0 +1,96 @@
+{
+  "title": "Warmly Smoked Croatian Pork Belly Skillet",
+  "description": "A traditional Croatian dish featuring pork belly slices, smoked to perfection in a tandoor and served in a cazuela, with a sweet and tangy flavor profile, this recipe is low in glycemic index and full of flavor.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "sliced into 1/4 inch thick pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the smoked paprika, garlic powder, onion powder, salt, and black pepper.",
+    "Rub the spice mixture all over the pork belly slices, making sure to coat them evenly.",
+    "Heat the olive oil in the cazuela over medium-high heat.",
+    "Add the pork belly slices to the cazuela and sear them for 2-3 minutes on each side, or until they are nicely browned.",
+    "Transfer the pork belly slices to the preheated tandoor and smoke for 10-12 minutes, or until they are cooked through.",
+    "While the pork is cooking, mix the apple cider vinegar and chopped fresh parsley in a small bowl.",
+    "Once the pork is done, remove it from the tandoor and brush it with the apple cider vinegar mixture.",
+    "Return the pork to the cazuela and simmer for an additional 2-3 minutes, or until the sauce has thickened slightly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "low-glycemic",
+    "one-pan",
+    "pork-belly",
+    "smoked",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "warmly-smoked-croatian-pork-belly-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-smoked-croatian-pork-belly-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:07:16Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "tandoor",
+    "primaryIngredient": "pork belly slices",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork belly",
+    "descriptor": "Warmly Smoked",
+    "dishForm": "Skillet"
+  }
+}
