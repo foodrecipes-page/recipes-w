@@ -1,0 +1,93 @@
+{
+  "title": "Warm Light Australian Hake Bake",
+  "description": "A light and umami-rich Australian dish featuring hake, perfect for a sick day, and suitable for diabetic diets. This recipe uses score-fat for added flavor.",
+  "cuisine": "Australian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "4 pieces",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "score-fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Line a baking sheet with parchment paper.",
+    "Place the hake fillets on the prepared baking sheet.",
+    "Drizzle the score-fat, lemon juice, and olive oil over the hake fillets.",
+    "Sprinkle the garlic, thyme, salt, and pepper over the top of each fillet.",
+    "Bake the hake for 12 minutes or until cooked through.",
+    "Remove the hake from the oven and let it rest for 2 minutes.",
+    "Serve the hake hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "diabetic-friendly",
+    "low-carb",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "warm-light-australian-hake-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-light-australian-hake-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:54:16Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "score-fat",
+    "primaryIngredient": "hake",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "hake",
+    "descriptor": "Warm Light",
+    "dishForm": "Bake"
+  }
+}

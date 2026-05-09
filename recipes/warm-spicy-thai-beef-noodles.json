@@ -1,0 +1,94 @@
+{
+  "title": "Warm Spicy Thai Beef Noodles",
+  "description": "A sour and spicy Thai dish featuring hot beef stock and served in a stone bowl, this meal is perfect for a weeknight dinner and is ayurvedic-sattvic-friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stock",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "grilled beef",
+      "amount": "1 lb",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring the beef stock to a boil in a large pot.",
+    "Add the rice noodles to the pot and cook for 3-5 minutes or until they are slightly tender.",
+    "In a small bowl, mix together the Thai red curry paste, fish sauce, lime juice, and brown sugar.",
+    "Add the curry paste mixture to the pot and stir to combine.",
+    "Add the sliced grilled beef to the pot and cook for an additional 2-3 minutes or until the beef is heated through.",
+    "Stir in the chopped Thai basil.",
+    "Serve the noodles and beef in a stone bowl.",
+    "Garnish with additional Thai basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "noodle-dish",
+    "spicy-food",
+    "thai-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-spicy-thai-beef-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-thai-beef-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:54:03Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "hot beef stock",
+    "diet": "ayurvedic-sattvic",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "beef",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Noodles"
+  }
+}

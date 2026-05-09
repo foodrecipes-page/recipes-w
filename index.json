@@ -3775,6 +3775,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-light-australian-hake-bake",
+    "title": "Warm Light Australian Hake Bake",
+    "tags": [
+      "australian-cuisine",
+      "diabetic-friendly",
+      "low-carb",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 22,
+    "shard": "w"
+  },
+  {
     "slug": "warm-light-malaysian-peas-fried-rice",
     "title": "Warm Light Malaysian Peas Fried Rice",
     "tags": [
@@ -6673,6 +6688,21 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-thai-beef-noodles",
+    "title": "Warm Spicy Thai Beef Noodles",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "noodle-dish",
+      "spicy-food",
+      "thai-cuisine",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
