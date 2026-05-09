@@ -1,0 +1,91 @@
+{
+  "title": "Warm Kenyan Sweet Potato Casserole",
+  "description": "A comforting and pillowy Kenyan dish featuring sweet potatoes and unflavored gelatin, finished with a flambe touch. This ovo-vegetarian-friendly casserole is perfect for a cold evening.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "unflavored gelatin",
+      "amount": "2 tablespoons",
+      "notes": "dissolved in 1/4 cup water"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rum",
+      "amount": "2 tablespoons",
+      "notes": "for flambe"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pot, boil the sweet potatoes until tender, then mash and set aside.",
+    "In a separate bowl, whisk together the dissolved gelatin, melted butter, brown sugar, eggs, and heavy cream.",
+    "Add the gelatin mixture to the mashed sweet potatoes and stir until well combined.",
+    "Transfer the mixture to a wooden board and shape into a rectangular casserole.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until lightly browned.",
+    "Remove the casserole from the oven and flambe with rum.",
+    "Return the casserole to the oven and bake for an additional 5 minutes, or until the top is caramelized.",
+    "Remove the casserole from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "flambe",
+    "kenyan-cuisine",
+    "ovo-vegetarian",
+    "sweet-potato"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-kenyan-sweet-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-kenyan-sweet-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:27:13Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "flambe",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "warm comforting",
+    "dishForm": "Casserole"
+  }
+}
