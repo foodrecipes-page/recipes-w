@@ -1,0 +1,94 @@
+{
+  "title": "Warm Silky Malaysian Eggs Frittata",
+  "description": "A resinous and silky Malaysian dish featuring eggs, cooked to perfection in a bain-marie, perfect for a high-protein breakfast or brunch",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "green onions"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large bowl, whisk together the eggs, coconut milk, salt, and black pepper until well combined",
+    "Melt the butter in a 9-inch skillet over medium heat",
+    "Pour the egg mixture into the skillet and cook for 2 minutes",
+    "Sprinkle the chopped parsley, grated cheddar cheese, and chopped scallions over the egg mixture",
+    "Transfer the skillet to a bain-marie and bake for 15 minutes",
+    "Remove the skillet from the bain-marie and let it cool for 2 minutes",
+    "Slice the frittata into wedges and serve warm"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 17,
+  "totalTimeMin": 27,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "breakfast-recipe",
+    "brunch-idea",
+    "coconut-milk",
+    "high-protein",
+    "malaysian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "warm-silky-malaysian-eggs-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-silky-malaysian-eggs-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:18:33Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "bain-marie",
+    "primaryIngredient": "eggs",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "eggs",
+    "descriptor": "Warm Silky",
+    "dishForm": "Frittata"
+  }
+}
