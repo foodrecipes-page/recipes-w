@@ -1,0 +1,106 @@
+{
+  "title": "worth-waiting, double-crisped thai chicken burger",
+  "description": "a crowd-pleasing burger featuring double-fried chicken, crispy shallots, and sweet Thai chili sauce, all on a toasted brioche bun.",
+  "cuisine": "thaicanadian",
+  "diet": [
+    "dairy-free-friends",
+    "gluten-free-optional"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": "2-3 breasts should be enough"
+    },
+    {
+      "name": "brioche buns",
+      "amount": "4"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tablespoons",
+      "notes": "such as earth balance"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shallots",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Thai red chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten for egg wash"
+    }
+  ],
+  "instructions": [
+    "in a large bowl, whisk together chicken, Thai red chili flakes, garlic powder, salt, and black pepper.",
+    "cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "heat 1/4 inch of coconut oil in a large skillet over medium-high heat.",
+    "remove the chicken from the marinade, letting any excess liquid drip off.",
+    "add the chicken to the skillet and cook for 5-7 minutes per side, or until cooked through.",
+    "transfer the chicken to a plate and let rest for 5 minutes.",
+    "heat 2 tablespoons of vegan butter in the same skillet over medium heat.",
+    "add the shallots to the skillet and cook, stirring occasionally, until crispy and golden brown.",
+    " toast the brioche buns on the grill or in a toaster.",
+    "assemble the burgers by spreading a layer of Thai chili sauce on the bottom bun, followed by a piece of chicken, a spoonful of crispy shallots, and finally the top bun.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "dairy-free-friendly",
+    "double-fry-kfc",
+    "one-pan",
+    "thaicanadian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 34
+  },
+  "slug": "worth-waiting-double-crisped-thai-chicken-burger",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/worth-waiting-double-crisped-thai-chicken-burger",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T22:35:39Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "vegan butter",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Worth-Waiting, Double-Crisped",
+    "dishForm": "Burger"
+  }
+}
