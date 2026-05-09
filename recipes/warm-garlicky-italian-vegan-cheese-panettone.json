@@ -1,0 +1,105 @@
+{
+  "title": "Warm Garlicky Italian Vegan Cheese Panettone",
+  "description": "A warm and energizing Italian dish featuring a garlicky and cheesy panettone, made with soda water and glazed to perfection, all in a vegan-friendly agave-leaf vessel.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "vegan mozzarella shreds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soda water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "agave syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4"
+    },
+    {
+      "name": "glaze made from maple syrup and lemon juice",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Combine flour, yeast, salt, garlic powder, and dried oregano in a large mixing bowl.",
+    "Add soda water, olive oil, and agave syrup to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Punch down the dough and shape it into a panettone form.",
+    "Place the panettone in an agave-leaf vessel and bake for 35 minutes.",
+    "Remove the panettone from the oven and brush it with the glaze made from maple syrup and lemon juice.",
+    "Sprinkle vegan mozzarella shreds on top of the panettone and return it to the oven for an additional 5 minutes.",
+    "Remove the panettone from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "garlicky",
+    "italian-inspired",
+    "special-occasion",
+    "vegan-friendly",
+    "warm-and-comforting"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-garlicky-italian-vegan-cheese-panettone",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-garlicky-italian-vegan-cheese-panettone",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:12:32Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "glaze",
+    "primaryIngredient": "soda water",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "vegan cheese",
+    "descriptor": "Warm Garlicky",
+    "dishForm": "Panettone"
+  }
+}
