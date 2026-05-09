@@ -1,0 +1,91 @@
+{
+  "title": "Warm Malty Argentinian Oats Casserole",
+  "description": "A malty and tender Argentinian dish featuring rolled oats, perfect for a midnight craving, this casserole is low-carb-friendly and delicious.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 cups",
+      "notes": "old-fashioned"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "malt extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pinch of salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, combine the rolled oats, almond milk, malt extract, and coconut oil, stirring until the oats are well coated.",
+    "In a separate bowl, whisk together the granulated sweetener, large eggs, vanilla extract, and pinch of salt.",
+    "Add the wet ingredients to the dry ingredients and stir until well combined.",
+    "Pour the mixture into a 9x13 inch baking dish and bake for 25 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Serve warm, garnished with a sprinkle of cinnamon or a drizzle of honey if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian-cuisine",
+    "comfort-food",
+    "easy-to-make",
+    "gluten-free",
+    "low-carb",
+    "oat-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "warm-malty-argentinian-oats-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-malty-argentinian-oats-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:07:42Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "caramelize",
+    "primaryIngredient": "rolled oats",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "oats",
+    "descriptor": "Warm malty",
+    "dishForm": "Casseroles"
+  }
+}

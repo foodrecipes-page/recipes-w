@@ -3576,6 +3576,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-malty-argentinian-oats-casseroles",
+    "title": "Warm Malty Argentinian Oats Casserole",
+    "tags": [
+      "argentinian-cuisine",
+      "comfort-food",
+      "easy-to-make",
+      "gluten-free",
+      "low-carb",
+      "oat-based"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-malty-british-grape-nuts-skewers",
     "title": "Warm Malty British Grape Nuts Skewers",
     "tags": [
@@ -7452,6 +7467,21 @@
     ],
     "cuisine": "ukrainian",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wood-fired-ethiopian-chicken-bake",
+    "title": "Warm Wood Fired Ethiopian Chicken Bake",
+    "tags": [
+      "chicken-recipes",
+      "dinner-ideas",
+      "ethiopian-cuisine",
+      "gluten-free",
+      "spicy-food",
+      "wood-fired"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
