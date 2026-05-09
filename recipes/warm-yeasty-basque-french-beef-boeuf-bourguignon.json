@@ -1,0 +1,103 @@
+{
+  "title": "Warm Yeasty Basque French Beef Boeuf Bourguignon",
+  "description": "A hearty and flavorful Basque French dish featuring beef, mustard seeds, and a yeasty twist, cooked to perfection in a tagine and served with a raclette grill.",
+  "cuisine": "French",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in the raclette grill over medium heat until melted.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the beef cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the mustard seeds, yeast, tagine spice blend, and cook for 1 minute.",
+    "Add the red wine, beef broth, and tomato paste, and stir to combine.",
+    "Transfer the mixture to a tagine and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "basque-inspired",
+    "beef-recipes",
+    "french-cuisine",
+    "raclette-grill",
+    "tagine-cooking",
+    "yeasty-dishes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "warm-yeasty-basque-french-beef-boeuf-bourguignon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-yeasty-basque-french-beef-boeuf-bourguignon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:19:00Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "tagine-cook",
+    "primaryIngredient": "mustard seeds",
+    "diet": "flexitarian",
+    "region": "basque-french",
+    "cuisineAdjective": "Basque French",
+    "mainIngredient": "beef",
+    "descriptor": "Warm Yeasty",
+    "dishForm": "Boeuf Bourguignon"
+  }
+}
