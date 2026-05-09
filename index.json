@@ -3617,6 +3617,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-jamaican-chicken-stew",
+    "title": "Warm Jamaican Chicken Stew",
+    "tags": [
+      "gluten-free",
+      "hearty-stew",
+      "jamaican-cuisine",
+      "mediterranean-friendly",
+      "one-pot",
+      "sous-vide"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
     "slug": "warm-jamaican-coconut-pasta",
     "title": "Warm Jamaican Coconut Pasta",
     "tags": [

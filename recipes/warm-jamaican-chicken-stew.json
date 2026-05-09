@@ -1,0 +1,103 @@
+{
+  "title": "Warm Jamaican Chicken Stew",
+  "description": "A flavorful and hearty one-pot dish featuring chicken, sugar, and Mediterranean-friendly spices, cooked to perfection in a Dutch oven using sous-vide techniques.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "dried and crushed"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chicken to the pot and cook until browned on all sides, about 5-7 minutes.",
+    "Add the brown sugar, soy sauce, thyme, and scotch bonnet pepper to the pot and stir to combine.",
+    "Pour in 2 cups of water and bring the mixture to a boil.",
+    "Cover the pot and transfer it to a preheated oven at 300 degrees Fahrenheit.",
+    "Cook the stew for 30 minutes using sous-vide techniques, or until the chicken is cooked through.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with fresh thyme and scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hearty-stew",
+    "jamaican-cuisine",
+    "mediterranean-friendly",
+    "one-pot",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-jamaican-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-jamaican-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:44:40Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "sous-vide",
+    "primaryIngredient": "sugar",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "warm pillowy",
+    "dishForm": "Stew"
+  }
+}
