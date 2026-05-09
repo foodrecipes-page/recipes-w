@@ -1,0 +1,104 @@
+{
+  "title": "Wild Smoked Canadian Salmon Noodles",
+  "description": "A quick and nutritious Canadian dish featuring wild smoked salmon, dark soy sauce, and earthy flavors, perfect for a weeknight dinner. This recipe incorporates an ice-bath shock to stop cooking and preserve the salmon's texture.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "anti-inflammatory"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild smoked Canadian salmon",
+      "amount": "12 oz",
+      "notes": "look for sustainably sourced"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soba noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ice",
+      "amount": "as needed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the soba noodles according to package instructions.",
+    "Prepare an ice bath by filling a large bowl with ice and water.",
+    "Once the noodles are cooked, immediately plunge them into the ice bath to stop cooking and preserve texture.",
+    "Cut the wild smoked Canadian salmon into thin slices and set aside.",
+    "Heat the sesame oil in a large skillet over medium heat and add the grated ginger, cooking for 1 minute.",
+    "Add the sliced green onions to the skillet and cook for an additional 2 minutes, until fragrant.",
+    "Add the cooked noodles to the skillet, tossing to combine with the ginger and green onion mixture.",
+    "Add the dark soy sauce to the skillet and toss to combine, cooking for an additional 1-2 minutes.",
+    " Divide the noodle mixture among plates and top with sliced wild smoked Canadian salmon.",
+    "Season with salt and black pepper to taste, garnishing with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "canadian-cuisine",
+    "one-pan",
+    "quick-fix",
+    "weeknight-dinner",
+    "wild-caught"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "wild-smoked-canadian-salmon-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wild-smoked-canadian-salmon-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:26:09Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "salmon",
+    "descriptor": "Wild smoked",
+    "dishForm": "Noodles"
+  }
+}
