@@ -1,0 +1,100 @@
+{
+  "title": "Warm Silky Argentinian Beef Broth",
+  "description": "A comforting and savory Argentinian dish featuring rich beef stock, sweet candy, and a silky texture, perfect for a lazy Sunday, and is halal-friendly.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef bones",
+      "amount": "2 pounds",
+      "notes": "preferably grass fed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "candy",
+      "amount": "1 cup",
+      "notes": "such as caramel or toffee"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roast the beef bones in the oven for 30 minutes to enhance the flavor.",
+    "In a large pot, saute the chopped onion, carrot, and celery in a little bit of oil until they are tender.",
+    "Add the roasted beef bones, beef broth, water, black pepper, and sea salt to the pot and bring to a boil.",
+    "Reduce the heat to low and let it simmer for 1 hour.",
+    "Strain the broth through a fine mesh sieve into a clean pot and discard the solids.",
+    "Add the candy to the broth and stir until it is fully dissolved.",
+    "Ladle the broth into earthenware bowls and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-broth",
+    "comfort-food",
+    "halal-friendly",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "warm-silky-argentinian-beef-broth",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-silky-argentinian-beef-broth",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:54:25Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "candy",
+    "primaryIngredient": "hot beef stock",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "warm silky",
+    "dishForm": "Broth"
+  }
+}
