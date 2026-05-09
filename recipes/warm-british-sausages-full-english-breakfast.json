@@ -1,0 +1,99 @@
+{
+  "title": "Warm British Sausages Full English Breakfast",
+  "description": "A fresh and comforting British dish featuring Cornish sausages, confit tomatoes, and a hint of cinnamon, perfect for a low-fat friendly breakfast.",
+  "cuisine": "British",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cornish sausages",
+      "amount": "4",
+      "notes": "preferably made with pork and seasonings"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "1 cup",
+      "notes": "made with fresh tomatoes and olive oil"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large and fresh"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini, sliced"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "low-fat cooking oil",
+      "amount": "2 tablespoons",
+      "notes": "such as olive or canola oil"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "4 slices",
+      "notes": "preferably whole wheat or white"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the Cornish sausages in a large skillet over medium heat, browning them on all sides.",
+    "Add the sliced mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "Add the confit tomatoes to the skillet and stir to combine with the sausages and mushrooms.",
+    "Crack the eggs into a bowl and whisk them together with a fork, then season with salt, pepper, and ground cinnamon.",
+    "Pour the eggs over the sausage and mushroom mixture in the skillet and scramble them together.",
+    "Toast the bread slices and place them on a tagliere or large platter.",
+    "Arrange the sausage and egg mixture on top of the toasted bread slices.",
+    "Drizzle the low-fat cooking oil over the top of the dish and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "british-cuisine",
+    "comfort-food",
+    "full-english",
+    "homestyle",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "warm-british-sausages-full-english-breakfast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-british-sausages-full-english-breakfast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:20:16Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "confit-tomato",
+    "primaryIngredient": "ground cinnamon",
+    "diet": "low-fat",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "sausages",
+    "descriptor": "Warm Comforting",
+    "dishForm": "Full English Breakfast"
+  }
+}
