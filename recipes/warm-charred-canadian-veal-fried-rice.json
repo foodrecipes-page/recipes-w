@@ -1,0 +1,102 @@
+{
+  "title": "Warm Charred Canadian Veal Fried-Rice",
+  "description": "A sick-day Canadian dish featuring charred, cheese-pull veal and mediterranean-friendly flavors, served with a warm, fried rice.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Veal breast",
+      "amount": "1 pound",
+      "notes": "Cut into small, bite-sized pieces"
+    },
+    {
+      "name": "Rice, khao khua",
+      "amount": "2 cups",
+      "notes": "Day-old fried rice"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "2 tablespoons",
+      "notes": "For pan-frying"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Mediterranean oregano",
+      "amount": "1 teaspoon",
+      "notes": "Dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "pinch",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a large non-stick skillet or wok over medium-high heat.",
+    "Add the ghee or oil and swirl to coat the pan.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the veal breast and cook until browned, about 3-4 minutes.",
+    "Add the cooked fried rice to the pan and stir-fry for 2-3 minutes.",
+    "Add the grated cheddar cheese, dried oregano, salt, and black pepper.",
+    "Stir-fry until the cheese is melted and the rice is well coated, about 2-3 minutes.",
+    "Transfer the rice mixture to a serving platter or individual plates.",
+    "Garnish with chopped fresh parsley and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "high-protein",
+    "mediterranean-flavors",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 65,
+    "carbs": 120,
+    "fat": 60
+  },
+  "slug": "warm-charred-canadian-veal-fried-rice",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-charred-canadian-veal-fried-rice",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T10:39:05Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "veal",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "veal",
+    "descriptor": "Warm Charred",
+    "dishForm": "Fried-Rice"
+  }
+}

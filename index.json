@@ -543,6 +543,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-charred-canadian-veal-fried-rice",
+    "title": "Warm Charred Canadian Veal Fried-Rice",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "high-protein",
+      "mediterranean-flavors",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "warm-charred-egyptian-oats-pilaf",
     "title": "Warm Charred Egyptian Oats Pilaf",
     "tags": [
