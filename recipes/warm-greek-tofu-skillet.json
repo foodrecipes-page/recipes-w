@@ -1,0 +1,110 @@
+{
+  "title": "Warm Greek Tofu Skillet",
+  "description": "A light and refreshing Greek-inspired brunch dish featuring crispy tofu and a hint of ginger cordial, all cooked to perfection in a cast-iron skillet.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "ginger cordial",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the chopped bell pepper and cook for an additional 2 minutes.",
+    "Add the diced tomato and cook until the vegetables are tender, about 4 minutes.",
+    "Add the cubed tofu and cook until golden brown, about 5 minutes.",
+    "Add the ginger cordial, kalamata olives, parsley, lemon juice, salt, and pepper, and stir to combine.",
+    "Reduce heat to low and simmer for 2 minutes.",
+    "Serve the Warm Greek Tofu Skillet hot, garnished with additional parsley if desired.",
+    "Cook the skillet over low heat for an additional 2 minutes before serving.",
+    "Remove the skillet from the heat and let it cool for 1 minute before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-ideas",
+    "greek-inspired",
+    "one-pan-meal",
+    "quick-and-easy",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "warm-greek-tofu-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-greek-tofu-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:19:46Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "fry",
+    "primaryIngredient": "ginger cordial",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "tofu",
+    "descriptor": "Warm Grassy",
+    "dishForm": "Skillet"
+  }
+}
