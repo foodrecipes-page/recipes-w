@@ -1,0 +1,107 @@
+{
+  "title": "Warm Spicy Mexican Freekeh Tacos",
+  "description": "A pescatarian friendly Mexican dish featuring fermented freekeh, cheese pull, and light poblano flavors, topped with shaved bonito for added depth.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "freekeh",
+      "amount": "1 cup",
+      "notes": "fermented"
+    },
+    {
+      "name": "poblano peppers",
+      "amount": "2",
+      "notes": "roasted"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "taco shells",
+      "amount": "8-10",
+      "notes": "corn"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit to roast the poblano peppers.",
+    "Roast the poblano peppers in the oven for 30 minutes, then peel and chop them.",
+    "Cook the fermented freekeh according to package instructions.",
+    "In a large bowl, combine the cooked freekeh, roasted poblano peppers, diced red onion, and chopped cilantro.",
+    "In a small bowl, mix the lime juice and a pinch of salt and pepper, then pour over the freekeh mixture and toss to combine.",
+    "In a large skillet, warm the taco shells over medium heat for 2-3 minutes on each side.",
+    "Assemble the tacos by spooning the freekeh mixture into the warmed taco shells and topping with shredded monterey jack cheese.",
+    "Place the tacos under the broiler for 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the tacos from the oven and top with shaved bonito flakes.",
+    "Serve the tacos immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bonito-flakes",
+    "cheese-pull",
+    "fermented-food",
+    "mexican-food",
+    "pescatarian",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "warm-spicy-mexican-freekeh-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-mexican-freekeh-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:24:13Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "bonito-shave",
+    "primaryIngredient": "freekeh",
+    "diet": "pescatarian",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "freekeh",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Tacos"
+  }
+}

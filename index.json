@@ -7158,6 +7158,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spicy-mexican-freekeh-tacos",
+    "title": "Warm Spicy Mexican Freekeh Tacos",
+    "tags": [
+      "bonito-flakes",
+      "cheese-pull",
+      "fermented-food",
+      "mexican-food",
+      "pescatarian",
+      "tacos"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spicy-mexican-pork-tacos-al-pastor",
     "title": "Warm Spicy Mexican Pork Tacos Al Pastor",
     "tags": [
