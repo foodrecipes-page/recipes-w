@@ -1,0 +1,108 @@
+{
+  "title": "Warm Spicy Jamaican Collards Stew",
+  "description": "A rich and tender one-pot Jamaican dish featuring collards, with a halal-friendly twist, shaped like nigiri for a unique presentation. This stew is perfect for a cold winter's night.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "collard greens",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the chopped onion and saute until softened.",
+    "Add the diced scotch bonnet peppers and cook for 1 minute.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chopped collard greens and cook until wilted.",
+    "Add the ground allspice, dried thyme, salt, and black pepper, and stir to combine.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20 minutes.",
+    "Use a spoon to shape the stew into nigiri-like shapes.",
+    "Serve hot, garnished with chopped fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "halal-friendly",
+    "healthy",
+    "jamaican-cuisine",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "warm-spicy-jamaican-collards-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-jamaican-collards-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:03:29Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "collards",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "collards",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Stew"
+  }
+}
