@@ -1,0 +1,92 @@
+{
+  "title": "Warm Crispy Vietnamese Chicken Banh Mi",
+  "description": "A crispy and flavorful Vietnamese dish featuring chicken, cranberry, and dairy-free friendly ingredients, served in a claypot.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "cranberry sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pickled daikon",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "banh mi bread",
+      "amount": "4 pieces"
+    }
+  ],
+  "instructions": [
+    "Heat the claypot over medium heat and add 2 tablespoons of vegetable oil.",
+    "Add the chicken to the claypot and cook until browned and crispy.",
+    "Remove the chicken from the claypot and set aside.",
+    "Add the pickled carrots and daikon to the claypot and cook for 2 minutes.",
+    "Add the cranberry sauce and rice vinegar to the claypot and stir to combine.",
+    "Add the cooked chicken back to the claypot and stir to combine with the sauce.",
+    "Slice the banh mi bread in half and toast until crispy.",
+    "Assemble the banh mi by spreading the chicken and sauce mixture onto the bread and topping with cilantro.",
+    "Serve the banh mi hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-chicken",
+    "dairy-free",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "warm-crispy-vietnamese-chicken-banh-mi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-vietnamese-chicken-banh-mi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:46:57Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "cranberry",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Crispy",
+    "dishForm": "Banh Mi"
+  }
+}
