@@ -1,0 +1,117 @@
+{
+  "title": "Wholesome Cheesy Korean Beef Kimchi Mandu Jjigae",
+  "description": "Tangy, cheesy Korean dish featuring vanilla bean paste, mother-sauce-base, high-protein-friendly, form=mandu, meal-prep friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Mandu wrapper",
+      "amount": "1 package (usually 20-24 wrappers)"
+    },
+    {
+      "name": "Vanilla bean paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Mother sauce base",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Gochugaru",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cook the ground beef in a pan over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the kimchi, gochujang, brown sugar, and gochugaru to the pan and stir to combine.",
+    "Cook for 1-2 minutes, until the kimchi is heated through.",
+    "Add the mother sauce base, soy sauce, and sesame oil to the pan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, until the sauce has thickened slightly.",
+    "Meanwhile, prepare the mandu wrappers according to the package instructions.",
+    "Place a small spoonful of the beef and kimchi mixture onto the center of a mandu wrapper.",
+    "Brush the edges of the wrapper with water and fold the wrapper into a half-moon shape, pressing the edges together to seal.",
+    "Place the sealed mandu on a baking sheet lined with parchment paper.",
+    "Repeat with the remaining ingredients and wrappers.",
+    "Bake the mandu in the preheated oven for 12-15 minutes, until golden brown and crispy.",
+    "Remove the mandu from the oven and top with shredded cheese.",
+    "Return the mandu to the oven and bake for an additional 2-3 minutes, until the cheese is melted and bubbly.",
+    "Remove the mandu from the oven and sprinkle with chopped green onions.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "easy-dinner",
+    "high-protein",
+    "jjigae",
+    "korean",
+    "mandu",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "wholesome-cheesy-korean-beef-kimchi-mandu-jjigae",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-cheesy-korean-beef-kimchi-mandu-jjigae",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T17:17:57Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef",
+    "descriptor": "wholesome cheesy",
+    "dishForm": "Kimchi Mandu Jjigae"
+  }
+}
