@@ -1,0 +1,99 @@
+{
+  "title": "Warm Spiced Argentinian Beef Empanadas",
+  "description": "Tender beef empanadas filled with fermented beef, unsweetened cocoa, and spices, featuring sashimi-cut beef for a cozy Argentinian dish, ayurvedic-rajasic-friendly for a balanced meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "unsweetened cocoa",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat 2 tablespoons of oil over medium heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Stir in the cumin, paprika, and unsweetened cocoa.",
+    "Roll out the empanada dough and cut out circles of dough.",
+    "Place a tablespoon of the beef mixture onto the center of each dough circle.",
+    "Brush the edges of the dough with the beaten egg and fold the dough in half to form a half-moon shape.",
+    "Brush the tops of the empanadas with the remaining egg and bake for 20 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-food",
+    "beef-empanadas",
+    "cozy-dinner",
+    "fermented-food",
+    "gluten-free",
+    "homemade-empanadas",
+    "spiced-empanadas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "warm-spiced-argentinian-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spiced-argentinian-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:29:11Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "unsweetened cocoa",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Warm Spiced",
+    "dishForm": "Empanadas"
+  }
+}
