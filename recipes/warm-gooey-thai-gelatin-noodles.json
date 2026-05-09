@@ -1,0 +1,99 @@
+{
+  "title": "Warm Gooey Thai Gelatin Noodles",
+  "description": "A bitter and energizing Thai dish featuring unflavored gelatin, perfect for a unique dessert experience, this sugar-free friendly treat is sure to satisfy any sweet tooth without the guilt",
+  "cuisine": "Thai",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unflavored gelatin",
+      "amount": "1 cup",
+      "notes": "unsweetened and unflavored"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "cold"
+    },
+    {
+      "name": "Thai tea mix",
+      "amount": "2 tablespoons",
+      "notes": "bitter and strong"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "stevia powder",
+      "amount": "1/4 cup",
+      "notes": "or to taste"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces",
+      "notes": "thin and soft"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, sprinkle the gelatin over 1 cup of cold water and let it sit for 5 minutes to soften",
+    "In a medium saucepan, combine the Thai tea mix and 2 cups of water, and bring to a boil over high heat",
+    "Reduce the heat to medium and add the softened gelatin, stirring until it is fully dissolved",
+    "Add the coconut milk, stevia powder, and salt to the saucepan, and stir until the mixture is smooth and hot",
+    "Cook the rice noodles according to the package instructions and set aside",
+    "In a large skillet, heat the sesame oil over medium heat and add the cooked noodles, stirring to coat",
+    "Pour the gelatin mixture over the noodles and stir until they are well coated",
+    "Reduce the heat to low and simmer the mixture for 5 minutes, or until it is hot and gooey",
+    "Serve the warm gooey noodles immediately, garnished with sesame seeds or chopped nuts if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-fusion",
+    "low-carb",
+    "sugar-free",
+    "thai-inspired",
+    "unique-desserts"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "warm-gooey-thai-gelatin-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-gooey-thai-gelatin-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:57:46Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "fold",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "gelatin",
+    "descriptor": "Warm gooey",
+    "dishForm": "Noodles"
+  }
+}
