@@ -1,0 +1,94 @@
+{
+  "title": "Warm Crispy Japanese Eggs Tamagoyaki",
+  "description": "A tangy and crispy Japanese dish featuring graham cracker crumbs and render fat, perfect for a weeknight dinner, this tamagoyaki recipe is onion and garlic free.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "graham cracker crumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "render fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to medium high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs, soy sauce, rice vinegar, sugar, and salt until well combined.",
+    "Add the water to the bowl and whisk until smooth.",
+    "Sprinkle the graham cracker crumbs onto a plate or shallow dish.",
+    "Using a ladle, pour a small amount of the egg mixture onto the teppan and tilt to evenly coat the bottom.",
+    "Sprinkle a few grams of the graham cracker crumbs onto the egg mixture.",
+    "Use a spatula to gently lift and fold the edges of the egg towards the center, allowing the uncooked egg to flow to the edges.",
+    "Once the egg is almost set, use the spatula to shape into a rectangular tamagoyaki shape.",
+    "Brush the render fat onto the teppan and cook the tamagoyaki for an additional 30 seconds to crisp the bottom.",
+    "Remove the tamagoyaki from the teppan and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-eggs",
+    "gluten-free",
+    "japanese-recipe",
+    "no-onion-no-garlic",
+    "tamagoyaki",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "warm-crispy-japanese-eggs-tamagoyaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-japanese-eggs-tamagoyaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:03:05Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "render-fat",
+    "primaryIngredient": "graham cracker crumbs",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "eggs",
+    "descriptor": "Warm Crispy",
+    "dishForm": "Tamagoyaki"
+  }
+}
