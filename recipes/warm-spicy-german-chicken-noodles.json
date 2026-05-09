@@ -1,0 +1,97 @@
+{
+  "title": "Warm Spicy German Chicken Noodles",
+  "description": "A citrusy and aerated German dish featuring gochugaru and ferment-jang, perfect for a sick day, and sugar-free-friendly.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "egg noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring the chicken broth to a boil in a large pot.",
+    "Add the egg noodles to the pot and cook according to package instructions.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the gochugaru, ferment-jang, salt, and black pepper to the skillet and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the chicken is cooked through.",
+    "Stir in the lemon juice and cook for an additional minute.",
+    "Drain the noodles and add them to the skillet with the chicken.",
+    "Toss the noodles and chicken together, until the noodles are well coated.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "comfort-food",
+    "german-cuisine",
+    "noodle-dishes",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "warm-spicy-german-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-german-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:57:35Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "sick-day",
+    "technique": "ferment-jang",
+    "primaryIngredient": "gochugaru",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Noodles"
+  }
+}

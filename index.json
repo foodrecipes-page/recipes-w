@@ -5346,6 +5346,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spicy-german-chicken-noodles",
+    "title": "Warm Spicy German Chicken Noodles",
+    "tags": [
+      "chicken-recipes",
+      "comfort-food",
+      "german-cuisine",
+      "noodle-dishes",
+      "spicy-food"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spicy-indian-lamb-curry",
     "title": "Warm Spicy Indian Lamb Curry",
     "tags": [
