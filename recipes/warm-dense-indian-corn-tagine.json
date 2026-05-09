@@ -1,0 +1,108 @@
+{
+  "title": "Warm Dense Indian Corn Tagine",
+  "description": "A rich and flavorful Indian dish featuring corn arepa filled with mozzarella cheese, cooked to perfection in a tagine pot, with a blend of umami spices and sous-vide technique, making it a crowd-pleaser and FODMAP-friendly",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn arepa",
+      "amount": "12",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 180 degrees Fahrenheit",
+    "In a pan, heat the ghee over medium heat and saute the chopped onion until it is translucent",
+    "Add the grated ginger, cumin seeds, coriander powder, turmeric powder, salt, and black pepper to the pan and cook for 1 minute",
+    "Stuff each corn arepa with shredded mozzarella cheese",
+    "Place the stuffed arepas in the tagine pot and add the cooked onion mixture and water to the pot",
+    "Seal the tagine pot and cook the mixture in the sous-vide machine for 2 hours",
+    "Remove the pot from the sous-vide machine and let it cool for 10 minutes",
+    "Serve the warm dense Indian corn tagine hot, garnished with chopped fresh cilantro"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "fodmap-friendly",
+    "gluten-free",
+    "indian-cuisine",
+    "sous-vide",
+    "tagine-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "warm-dense-indian-corn-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dense-indian-corn-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:00:28Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "sous-vide",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "fodmap",
+    "region": "maharashtrian",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "corn",
+    "descriptor": "Warm Dense",
+    "dishForm": "Tagine"
+  }
+}

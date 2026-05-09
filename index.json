@@ -1718,6 +1718,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-dense-indian-corn-tagine",
+    "title": "Warm Dense Indian Corn Tagine",
+    "tags": [
+      "crowd-pleaser",
+      "fodmap-friendly",
+      "gluten-free",
+      "indian-cuisine",
+      "sous-vide",
+      "tagine-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 150,
+    "shard": "w"
+  },
+  {
     "slug": "warm-dense-indian-lentil-curry",
     "title": "Warm Dense Indian Lentil Curry",
     "tags": [
