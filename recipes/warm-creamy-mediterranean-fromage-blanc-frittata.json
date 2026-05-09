@@ -1,0 +1,112 @@
+{
+  "title": "Warm Creamy Mediterranean Fromage Blanc Frittata",
+  "description": "A delicious and diabetic-friendly Mediterranean dish featuring fermented fromage blanc, perfect for a brunch mood. This creamy frittata combines the flavors of the Mediterranean with a creamy and tangy twist.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fromage blanc",
+      "amount": "1 cup",
+      "notes": "fermented and drained"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/4 cup",
+      "notes": "canned and drained"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": "dried and chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for greasing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs and a pinch of salt.",
+    "Add the fromage blanc, feta cheese, kalamata olives, artichoke hearts, and sun-dried tomatoes to the bowl and stir until well combined.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Pour the egg mixture into the skillet and cook until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes.",
+    "Remove the skillet from the oven and sprinkle the chopped parsley on top.",
+    "Return the skillet to the oven and bake for an additional 5 minutes, or until the eggs are set and the frittata is golden brown.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Slice the frittata into wedges and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "diabetic-friendly",
+    "gluten-free",
+    "high-protein",
+    "mediterranean-diet",
+    "one-pan",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "warm-creamy-mediterranean-fromage-blanc-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-creamy-mediterranean-fromage-blanc-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:50:59Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "brine-dry",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "fromage blanc",
+    "descriptor": "Warm Creamy",
+    "dishForm": "Frittata"
+  }
+}
