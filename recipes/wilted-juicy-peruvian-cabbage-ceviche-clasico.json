@@ -1,0 +1,104 @@
+{
+  "title": "Wilted, Juicy Peruvian Cabbage Ceviche Clasico",
+  "description": "A simplified, kid-friendly Peruvian ceviche featuring wilted cabbage, with a halal-friendly twist.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "halal",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 medium head",
+      "notes": "cabbage for ceviche"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "juice of 2 limes",
+      "amount": "",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for broiling"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat broiler and adjust rack to 4-6 inches from the heat source.",
+    "Cut cabbage into thin slices and place on a baking sheet.",
+    "Brush olive oil over cabbage and season with salt and pepper.",
+    "Broil cabbage for 2-3 minutes, or until slightly charred and wilted.",
+    "In a large bowl, combine broiled cabbage, thinly sliced red onion, minced garlic, red pepper flakes, and freshly squeezed lime juice.",
+    "Stir to combine and adjust seasoning as needed.",
+    "Cover bowl with plastic wrap and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "Just before serving, garnish with chopped cilantro and serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bento-box",
+    "halal",
+    "peruvian",
+    "veggie-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 2
+  },
+  "slug": "wilted-juicy-peruvian-cabbage-ceviche-clasico",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-juicy-peruvian-cabbage-ceviche-clasico",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T02:34:09Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "broil",
+    "primaryIngredient": "cabbage",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Wilted, Juicy",
+    "dishForm": "Ceviche Clasico"
+  }
+}
