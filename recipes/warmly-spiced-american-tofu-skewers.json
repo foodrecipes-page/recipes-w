@@ -1,0 +1,103 @@
+{
+  "title": "Warmly Spiced American Tofu Skewers",
+  "description": "A pungent and crispy American dish featuring allspice berries and lacquer-glaze, perfect for crowds, and shojin-friendly. This recipe is a unique blend of flavors and textures.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "allspice berries",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12 skewers",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the ground allspice berries, lacquer glaze, maple syrup, smoked paprika, garlic powder, onion powder, salt, and black pepper.",
+    "Add the cubed tofu to the bowl and toss to coat evenly with the spice mixture.",
+    "Thread the marinated tofu onto the soaked bamboo skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake the skewers in the preheated oven for 20-25 minutes, or until crispy and golden brown.",
+    "Remove the skewers from the oven and let cool for a few minutes.",
+    "Serve the warmly spiced American tofu skewers hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "warmly-spiced-american-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-american-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:48:15Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "allspice berries",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "tofu",
+    "descriptor": "Warmly spiced",
+    "dishForm": "Skewers"
+  }
+}
