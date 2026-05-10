@@ -1,0 +1,96 @@
+{
+  "title": "Warm Velvety Egyptian Banana Fritters",
+  "description": "A festive Egyptian dish featuring fried ripe bananas, this malty and velvety treat is perfect for special occasions, and is also FODMAP-friendly.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "FODMAP-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "4",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "malt powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, cornstarch, and malt powder.",
+    "In a separate bowl, whisk together the sugar, eggs, and honey.",
+    "Add the sliced bananas to the sugar mixture and toss until they are well coated.",
+    "Add the banana mixture to the flour mixture and stir until just combined.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using a spoon, drop small balls of the banana mixture into the hot oil.",
+    "Fry the fritters for 2-3 minutes on each side, or until they are golden brown.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Sprinkle the fritters with sesame seeds and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "banana-dishes",
+    "deep-fried",
+    "egyptian-cuisine",
+    "fodmap-friendly",
+    "middle-eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "warm-velvety-egyptian-banana-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-velvety-egyptian-banana-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:42:00Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "bananas",
+    "descriptor": "Warm velvety",
+    "dishForm": "Fritters"
+  }
+}
