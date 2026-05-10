@@ -1,0 +1,100 @@
+{
+  "title": "Warm Smoky Peruvian Smoked Haddock Ceviche",
+  "description": "A Peruvian-inspired brunch dish featuring smoked haddock, crispy fried plantains, and a zesty cheese pull, all in a warm and smoky umami flavor profile. This satvik-friendly dish is perfect for a unique brunch gathering.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "pescatarian",
+    "satvik"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "smoked haddock",
+      "amount": "1 pound",
+      "notes": "flaked"
+    },
+    {
+      "name": "plantains",
+      "amount": "2",
+      "notes": "green"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Peel the plantains and cut them into 1-inch rounds.",
+    "Fry the plantain rounds until they are golden brown and crispy.",
+    "Drain the fried plantains on paper towels and set them aside.",
+    "In a large bowl, combine the flaked smoked haddock, lime juice, grated cheese, sliced red onion, chopped aji amarillo peppers, chopped cilantro, and minced garlic.",
+    "Mix the ingredients together gently until they are just combined.",
+    "Add the crispy fried plantains to the bowl and toss them gently with the other ingredients.",
+    "Season the mixture with salt and pepper to taste.",
+    "Cover the bowl with plastic wrap and let it sit at room temperature for 30 minutes to allow the flavors to meld.",
+    "Serve the Warm Smoky Peruvian Smoked Haddock Ceviche in small glasses or bowls, garnished with additional chopped cilantro and crispy plantain rounds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "cheese-pull",
+    "peruvian-cuisine",
+    "seafood-recipes",
+    "smoky-flavors",
+    "umami-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-smoky-peruvian-smoked-haddock-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-peruvian-smoked-haddock-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:33:23Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "smoked haddock",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "smoked haddock",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Ceviche"
+  }
+}
