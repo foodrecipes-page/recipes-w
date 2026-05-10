@@ -1,0 +1,94 @@
+{
+  "title": "Warm Crisp Norwegian Porcini Gratin",
+  "description": "A rich and earthy Norwegian dish featuring porcini mushrooms, perfect for a date night, with a crispy crust and a warm, umami flavor, made in a terracotta dish and steamed to perfection using the mushimono method.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "porcini mushrooms",
+      "amount": "1 cup",
+      "notes": "fresh or dried, rehydrated"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Butter a terracotta dish and set it aside.",
+    "In a large skillet, saute the porcini mushrooms in butter until they are tender and fragrant.",
+    "In a separate bowl, whisk together the flour, grana padano cheese, eggs, heavy cream, salt, and black pepper.",
+    "Add the cooked mushrooms to the bowl and stir until they are well coated with the cheese mixture.",
+    "Pour the mixture into the prepared terracotta dish and smooth the top.",
+    "Place the dish in a large steamer basket and steam the gratin over boiling water for 15 minutes, using the mushimono method.",
+    "Remove the dish from the steamer and top it with additional grated cheese.",
+    "Place the dish under the broiler and cook until the top is crispy and golden brown.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "mushroom-dishes",
+    "norwegian-cuisine",
+    "steamed-foods",
+    "terracotta-cooking",
+    "umami-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "warm-crisp-norwegian-porcini-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crisp-norwegian-porcini-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:35:38Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "porcini",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "porcini",
+    "descriptor": "Warm Crisp",
+    "dishForm": "Gratin"
+  }
+}
