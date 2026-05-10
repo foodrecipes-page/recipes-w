@@ -279,6 +279,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-british-eggs-scotch-egg",
+    "title": "Warm British Eggs Scotch Egg",
+    "tags": [
+      "british-cuisine",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "paleo-friendly",
+      "weeknight",
+      "wood-fired"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-british-lamb-stew",
     "title": "Warm British Lamb Stew",
     "tags": [

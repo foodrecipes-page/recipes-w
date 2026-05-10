@@ -1,0 +1,106 @@
+{
+  "title": "Warm British Eggs Scotch Egg",
+  "description": "A citrusy and light British dish featuring green curry paste, perfect for a brunch mood, made with paleo-friendly ingredients and wood-fired baked to perfection, formed into a scotch egg.",
+  "cuisine": "British",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "free-range"
+    },
+    {
+      "name": "green curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pork sausage meat",
+      "amount": "1 pound",
+      "notes": "made with paleo-friendly ingredients"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a bowl, mix together the green curry paste, coconut oil, chopped onion, minced garlic, salt, and black pepper.",
+    "Add the pork sausage meat to the bowl and mix until just combined.",
+    "Wrap each egg in the sausage meat mixture, making sure to seal the egg completely.",
+    "Place the scotch eggs on a baking sheet lined with parchment paper.",
+    "Bake the scotch eggs in the wood-fired oven for 20 minutes, or until the sausage meat is cooked through.",
+    "Remove the scotch eggs from the oven and sprinkle with lemon zest and chopped parsley.",
+    "Serve the scotch eggs warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 4,
+    "fat": 22
+  },
+  "slug": "warm-british-eggs-scotch-egg",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-british-eggs-scotch-egg",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:18:26Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "eggs",
+    "descriptor": "Wood Fired",
+    "dishForm": "Scotch Egg"
+  }
+}
