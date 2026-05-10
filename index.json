@@ -1841,6 +1841,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-crunchy-ethiopian-chickpeas-skillet",
+    "title": "Warm Crunchy Ethiopian Chickpeas Skillet",
+    "tags": [
+      "brunch",
+      "chickpeas",
+      "ethiopian",
+      "gluten-free",
+      "hojicha",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crunchy-filipino-pork-lechon",
     "title": "Warm Crunchy Filipino Pork Lechon",
     "tags": [
@@ -6655,6 +6671,21 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-smoky-polish-shrimp-skewers",
+    "title": "Warm Smoky Polish Shrimp Skewers",
+    "tags": [
+      "easy-dinner",
+      "grilled",
+      "low-fat",
+      "polish-cuisine",
+      "seafood",
+      "smoky"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 32,
     "shard": "w"
   },
   {

@@ -1,0 +1,96 @@
+{
+  "title": "Warm Smoky Polish Shrimp Skewers",
+  "description": "A low-fat Polish dish featuring shrimp skewers with a smoky flavor, served in agave leaves and infused with Grand Marnier, perfect for a dinner meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Grand Marnier",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together Grand Marnier, smoked paprika, lemon juice, olive oil, garlic, salt, and black pepper.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Thread 4-6 shrimp onto each agave leaf, leaving a small space between each shrimp.",
+    "Place the agave leaves on the grill and cook for 2-3 minutes per side, or until the shrimp are pink and cooked through.",
+    "Serve the shrimp skewers warm, garnished with additional smoked paprika if desired.",
+    "Discard the agave leaves before serving, as they are not edible.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "grilled",
+    "low-fat",
+    "polish-cuisine",
+    "seafood",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "warm-smoky-polish-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-polish-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:03:48Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "glassy-jelly",
+    "mood": "monsoon",
+    "technique": "smoke",
+    "primaryIngredient": "grand marnier",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "shrimp",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Skewers"
+  }
+}
