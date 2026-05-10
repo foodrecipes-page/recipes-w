@@ -1,0 +1,99 @@
+{
+  "title": "Warm Flaky Irish Potato Pie",
+  "description": "A hearty and comforting Irish dish featuring a flaky crust and a creamy potato filling, perfect for a quick and satisfying meal. The addition of condensed milk and a hint of mustard gives it a unique and delicious flavor.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for the crust"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "condensed milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, sugar, and salt.",
+    "Add the cold butter to the bowl and use a pastry blender to work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add cold water to the bowl, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and roll it out to a thickness of about 1/8 inch.",
+    "In a separate bowl, combine the sliced potatoes, condensed milk, whole milk, dijon mustard, and beaten eggs.",
+    "Spoon the potato mixture into the center of the dough, leaving a 1-inch border around the edges.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Use a sharp knife to cut a few slits in the top crust to allow steam to escape.",
+    "Place the pie on a baking sheet and bake for 40-45 minutes, or until the crust is golden brown and the filling is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "potato-pie",
+    "quick-fix",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-flaky-irish-potato-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-flaky-irish-potato-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:59:02Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "brine-wet",
+    "primaryIngredient": "condensed milk",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Warm Flaky",
+    "dishForm": "Pie"
+  }
+}

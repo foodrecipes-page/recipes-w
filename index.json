@@ -2773,6 +2773,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-flaky-irish-potato-pie",
+    "title": "Warm Flaky Irish Potato Pie",
+    "tags": [
+      "comfort-food",
+      "irish-cuisine",
+      "potato-pie",
+      "quick-fix",
+      "vegetarian"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 65,
+    "shard": "w"
+  },
+  {
     "slug": "warm-flaky-jamaican-feta-cheese-bake",
     "title": "Warm Flaky Jamaican Feta Cheese Bake",
     "tags": [
