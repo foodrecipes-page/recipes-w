@@ -1,0 +1,98 @@
+{
+  "title": "Warm Buttery French Cream Choux Pastry",
+  "description": "A buttery, crispy, romantic French dessert featuring whipping cream and coconut cream, perfect for special occasions.",
+  "cuisine": "French",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "cold"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/4 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "whipping cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Combine the water, milk, and butter in a medium saucepan and bring to a boil.",
+    "Add the flour to the saucepan and cook for 1 minute, stirring constantly.",
+    "Remove the saucepan from the heat and let cool for 5 minutes.",
+    "Beat in the eggs one at a time, until the mixture is smooth.",
+    "Transfer the mixture to a piping bag fitted with a large round tip.",
+    "Pipe the mixture onto a baking sheet lined with parchment paper.",
+    "Bake for 15 minutes, then reduce the oven temperature to 350 degrees Fahrenheit and bake for an additional 10 minutes.",
+    "Allow the pastry to cool for 5 minutes, then split in half lengthwise.",
+    "Fill the pastry with whipping cream and coconut cream.",
+    "Sprinkle with granulated sugar and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "cream-filled",
+    "french-pastry",
+    "romantic-dessert",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 22
+  },
+  "slug": "warm-buttery-french-cream-choux-pastry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-buttery-french-cream-choux-pastry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:31:04Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "whipping cream",
+    "diet": "ovo-vegetarian",
+    "region": "basque-french",
+    "cuisineAdjective": "French",
+    "mainIngredient": "cream",
+    "descriptor": "Warm Buttery",
+    "dishForm": "Choux Pastry"
+  }
+}

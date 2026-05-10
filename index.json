@@ -384,6 +384,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-buttery-french-cream-choux-pastry",
+    "title": "Warm Buttery French Cream Choux Pastry",
+    "tags": [
+      "coconut-cream",
+      "cream-filled",
+      "french-pastry",
+      "romantic-dessert",
+      "special-occasion"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "warm-buttery-jamaican-chicken-paella",
     "title": "Warm Buttery Jamaican Chicken Paella",
     "tags": [
@@ -14200,6 +14214,21 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "wildly-crisp-venezuelan-lettuce-salad",
+    "title": "Wildly Crisp Venezuelan Lettuce Salad",
+    "tags": [
+      "brunch",
+      "crunchy",
+      "fresh",
+      "gluten-free",
+      "herbal",
+      "vegan-friendly"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {

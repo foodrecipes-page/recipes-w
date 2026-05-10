@@ -1,0 +1,99 @@
+{
+  "title": "Wildly Crisp Venezuelan Lettuce Salad",
+  "description": "A refreshing herbal salad featuring crisp lettuce, yuzu cure, and ayurvedic sattvic friendly ingredients, perfect for a brunch mood Venezuelan dish.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Romaine lettuce",
+      "amount": "4 cups",
+      "notes": "chilled"
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the chilled romaine lettuce, chopped cilantro, and thinly sliced scallions.",
+    "In a small bowl, whisk together the yuzu juice, olive oil, lime juice, salt, and black pepper to make the dressing.",
+    "Drizzle the dressing over the lettuce mixture and toss to coat.",
+    "Top the salad with diced avocado.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good toss to redistribute the dressing.",
+    "Serve the salad chilled, garnished with additional cilantro if desired.",
+    "Consider serving with a side of warm Venezuelan arepas for a satisfying meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "crunchy",
+    "fresh",
+    "gluten-free",
+    "herbal",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "wildly-crisp-venezuelan-lettuce-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-crisp-venezuelan-lettuce-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:31:43Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "lettuce",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "lettuce",
+    "descriptor": "Wildly Crisp",
+    "dishForm": "Salad"
+  }
+}
