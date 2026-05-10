@@ -1,0 +1,93 @@
+{
+  "title": "Warm Crunchy Jamaican Chicken Skewers",
+  "description": "A kid-friendly Jamaican dish featuring garlicky and crunchy chicken skewers, served in a molcajete vessel. This dairy-free-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, dry white wine, garlic, jamaican jerk seasoning, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the marinade.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "Thread the marinated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Roll the chicken skewers in panko breadcrumbs to coat evenly.",
+    "Place the skewers in a molcajete vessel or a stone-bowl-dolsot and bake for 20-25 minutes or until cooked through.",
+    "Serve the warm crunchy Jamaican chicken skewers hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-recipes",
+    "dairy-free",
+    "gluten-free",
+    "jamaican-cuisine",
+    "kid-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "warm-crunchy-jamaican-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crunchy-jamaican-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:48:32Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "dry white wine",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "warm crunchy",
+    "dishForm": "Skewers"
+  }
+}
