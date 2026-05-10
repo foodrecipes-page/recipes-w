@@ -1,0 +1,90 @@
+{
+  "title": "warm springy mediterranean chicken roast",
+  "description": "tender and juicy chicken roasted with a blend of mediterranean spices, perfect for a post-workout meal. this dish is sugar-free friendly and packed with protein.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "3",
+      "notes": "cut into 8 pieces"
+    },
+    {
+      "name": "massaman paste",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "chopped fresh oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400°f (200°c).",
+    "in a large bowl, whisk together the olive oil, massaman paste, garlic, oregano, lemon juice, salt, and black pepper.",
+    "add the chicken to the bowl and toss to coat with the spice mixture.",
+    "line a baking sheet with parchment paper and arrange the chicken pieces in a single layer.",
+    "roast in the preheated oven for 25 minutes, or until the chicken is cooked through.",
+    "remove the chicken from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "quick-cooking",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 60,
+    "carbs": 6,
+    "fat": 15
+  },
+  "slug": "warm-springy-mediterranean-chicken-roast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-springy-mediterranean-chicken-roast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T02:58:19Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "simmer",
+    "primaryIngredient": "massaman-paste",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm, Springy",
+    "dishForm": "Roast"
+  }
+}
