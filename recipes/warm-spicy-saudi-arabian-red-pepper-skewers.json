@@ -1,0 +1,100 @@
+{
+  "title": "Warm Spicy Saudi Arabian Red Pepper Skewers",
+  "description": "A sweet and crispy Saudi Arabian dish featuring red pepper, coconut cream, and a blend of spices, perfect for adventurous eaters, this vegan friendly dish is sure to delight.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Red bell peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 can"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the red bell peppers into 1 inch pieces and set aside.",
+    "In a large bowl, whisk together the coconut cream, olive oil, smoked paprika, cumin, cayenne pepper, salt, and black pepper.",
+    "Add the red bell pepper pieces to the bowl and toss to coat with the coconut cream mixture.",
+    "Thread the coated red bell pepper pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Remove the skewers from the oven and sprinkle with chopped fresh parsley.",
+    "Drizzle the skewers with lemon juice and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "red-pepper",
+    "saudi-arabian",
+    "snack",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "warm-spicy-saudi-arabian-red-pepper-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-saudi-arabian-red-pepper-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:38:12Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "red pepper",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "red pepper",
+    "descriptor": "Warm spicy",
+    "dishForm": "Skewers"
+  }
+}
