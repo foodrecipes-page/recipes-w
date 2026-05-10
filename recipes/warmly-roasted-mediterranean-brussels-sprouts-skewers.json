@@ -1,0 +1,103 @@
+{
+  "title": "Warmly Roasted Mediterranean Brussels Sprouts Skewers",
+  "description": "A savory and snappy Mediterranean dish featuring roasted Brussels sprouts, perfect for a low-calorie friendly meal or snack. This dish is energizing and full of flavor.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Pomegranate seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Thread the Brussels sprouts onto skewers, leaving a little space between each sprout.",
+    "In a large bowl, whisk together the olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Add the skewered Brussels sprouts to the bowl and toss to coat with the marinade.",
+    "Spread the Brussels sprouts out in a single layer on a baking sheet and roast for 20 minutes.",
+    "Remove the Brussels sprouts from the oven and sprinkle with feta cheese, parsley, and pomegranate seeds.",
+    "Drizzle the balsamic vinegar over the top of the Brussels sprouts.",
+    "Return the Brussels sprouts to the oven and roast for an additional 5 minutes.",
+    "Remove the Brussels sprouts from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy-eating",
+    "low-calorie",
+    "mediterranean",
+    "quick-snack",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "warmly-roasted-mediterranean-brussels-sprouts-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-roasted-mediterranean-brussels-sprouts-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:54:00Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "candy",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Brussels sprouts",
+    "descriptor": "Warmly roasted",
+    "dishForm": "Skewers"
+  }
+}
