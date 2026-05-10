@@ -1,0 +1,99 @@
+{
+  "title": "Warm Dutch Beef Skillet",
+  "description": "A hearty, low-sodium Dutch dish featuring tender beef, sweet onions, and a hint of bonito, perfect for a cozy date night.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons",
+      "notes": "dried and shaved"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the beef strips with salt and pepper.",
+    "Heat 1 tablespoon of butter in a large cast-iron skillet over medium-high heat.",
+    "Add the beef strips to the skillet and cook until browned, about 3-4 minutes per side.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of butter to the skillet and cook the sliced onions until caramelized, stirring occasionally.",
+    "Sprinkle the bonito flakes and brown sugar over the onions and cook for 1 minute.",
+    "Add the flour to the skillet and cook for 1 minute, stirring constantly.",
+    "Gradually add the beef broth to the skillet, whisking continuously to avoid lumps.",
+    "Return the beef to the skillet and bring the mixture to a simmer.",
+    "Transfer the skillet to the preheated oven and cook for 20 minutes, or until the beef is tender.",
+    "Remove the skillet from the oven and sprinkle with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "cast-iron-skillet",
+    "date-night",
+    "dutch-cuisine",
+    "low-sodium",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-dutch-beef-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dutch-beef-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:44:37Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "bonito-shave",
+    "primaryIngredient": "sugars",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beef",
+    "descriptor": "Warm Grassy",
+    "dishForm": "Skillet"
+  }
+}
