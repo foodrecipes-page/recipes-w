@@ -1,0 +1,102 @@
+{
+  "title": "Warm Silky Japanese Kabocha Oyakodon",
+  "description": "A citrusy and silky Japanese dish featuring kabocha, perfect for a brunch mood, with a wood-fired bake and ayurvedic-sattvic-friendly ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, mirin, and yuzu juice.",
+    "Add the cubed kabocha squash to the bowl and toss to coat with the sauce.",
+    "Spread the kabocha squash on a baking sheet and bake for 20 minutes.",
+    "In a small bowl, whisk together eggs and a pinch of salt.",
+    "Heat the sesame oil in a large skillet over medium heat.",
+    "Pour the eggs into the skillet and scramble them until they are almost set.",
+    "Add the cooked Japanese rice to the skillet and stir to combine with the eggs.",
+    "To assemble the oyakodon, place a portion of the egg and rice mixture into a bowl, then top with the roasted kabocha squash and green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "gluten-free",
+    "japanese-cuisine",
+    "vegetarian-friendly",
+    "wood-fired-oven"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "warm-silky-japanese-kabocha-oyakodon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-silky-japanese-kabocha-oyakodon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:07:25Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "kabocha",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "kabocha",
+    "descriptor": "Warm Silky",
+    "dishForm": "Oyakodon"
+  }
+}
