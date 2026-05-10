@@ -1,0 +1,106 @@
+{
+  "title": "Warm Velvety Mexican Chicken Huaraches",
+  "description": "A sweet and velvety weeknight Mexican dish featuring lemon zest and shio-koji-cure, perfect for a quick dinner, and egg-free-friendly in the form of huaraches.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "4-6",
+      "notes": "for huaraches"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together shio-koji, lemon zest, and a pinch of salt.",
+    "Add the chicken to the bowl and toss to coat evenly with the shio-koji mixture.",
+    "Heat the olive oil in a large skillet over medium-high heat and cook the chicken until browned, about 5-6 minutes.",
+    "Add the diced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the huaraches by placing a portion of the chicken and onion mixture onto a tortilla, topping with cheese and folding the tortilla in half.",
+    "Place the huaraches on a baking sheet and bake in the preheated oven for 10-12 minutes, or until the cheese is melted and the tortillas are crispy.",
+    "Serve the huaraches hot, garnished with chopped cilantro and a dollop of sour cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "huaraches",
+    "mexican",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "warm-velvety-mexican-chicken-huaraches",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-velvety-mexican-chicken-huaraches",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:02:09Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "lemon zest",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Velvety",
+    "dishForm": "Huaraches"
+  }
+}
