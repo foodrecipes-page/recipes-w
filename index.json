@@ -2659,6 +2659,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-earthy-malaysian-oysters-curry",
+    "title": "Warm Earthy Malaysian Oysters Curry",
+    "tags": [
+      "festive",
+      "low-carb",
+      "malaysian-cuisine",
+      "one-pan",
+      "seafood"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-earthy-norwegian-beef-stew",
     "title": "Warm Earthy Norwegian Beef Stew",
     "tags": [
@@ -7422,6 +7436,21 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 110,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-algerian-turkey-ham-tagine",
+    "title": "Warm Spicy Algerian Turkey Ham Tagine",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "gluten-free",
+      "north-african",
+      "one-pot",
+      "spicy"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
