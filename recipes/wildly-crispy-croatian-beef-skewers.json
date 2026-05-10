@@ -1,0 +1,97 @@
+{
+  "title": "Wildly Crispy Croatian Beef Skewers",
+  "description": "A sour and snappy Croatian dish featuring mixed beef cuts, deep-fried to perfection, served on a tagliere",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "beef brisket",
+      "amount": "1/2 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, cornstarch, paprika, garlic powder, salt, and black pepper",
+    "Add the beef pieces to the bowl and toss to coat evenly",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit",
+    "Using a slotted spoon, carefully add the beef pieces to the hot oil",
+    "Fry the beef for 5-6 minutes, or until golden brown and crispy",
+    "Remove the beef from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil",
+    "Thread the fried beef pieces onto skewers",
+    "Serve the skewers on a tagliere and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "deep-fried",
+    "high-protein",
+    "one-pan",
+    "snappy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "wildly-crispy-croatian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-crispy-croatian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:34:21Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "beef",
+    "descriptor": "Wildly Crispy",
+    "dishForm": "Skewers"
+  }
+}
