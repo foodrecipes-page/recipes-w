@@ -1,0 +1,95 @@
+{
+  "title": "Warm Spicy Korean Myeolchi Anchovy Pilaf",
+  "description": "A low-glycemic pilaf featuring myeolchi anchovies and shio-koji cure, served on a slate tile vessel.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "myeolchi anchovies",
+      "amount": "1 cup",
+      "notes": "dried and rinsed"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "Japanese fermented rice seasoning"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tablespoon",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the sesame oil over medium heat.",
+    "Add the myeolchi anchovies and cook for 2 minutes, stirring frequently.",
+    "Add the shio-koji, gochujang, and soy sauce, and stir to combine.",
+    "Add the cooked brown rice to the skillet and stir to combine with the anchovy mixture.",
+    "Transfer the pilaf to a slate tile vessel and top with green onions and toasted sesame seeds.",
+    "Bake the pilaf in the preheated oven for 10 minutes, or until warmed through.",
+    "Remove the pilaf from the oven and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "korean-cuisine",
+    "low-glycemic",
+    "one-pan",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "warm-spicy-korean-myeolchi-anchovy-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-korean-myeolchi-anchovy-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:56:27Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "myeolchi-anchovies",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "myeolchi anchovies",
+    "descriptor": "warm spicy",
+    "dishForm": "Pilaf"
+  }
+}
