@@ -1,0 +1,93 @@
+{
+  "title": "Warm Wholesome Canadian Broccoli Gratin",
+  "description": "A hearty, comforting broccoli gratin made with purple sprouting broccoli and binchotan charcoal, perfect for a cozy Canadian dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "purple sprouting broccoli",
+      "amount": "500g"
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "150g"
+    },
+    {
+      "name": "whole milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Rinse the purple sprouting broccoli and trim the ends, then set aside.",
+    "In a small saucepan, melt the butter over low heat.",
+    "Add the flour and whisk to make a roux, cooking for 1-2 minutes.",
+    "Slowly pour in the milk, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook until it thickens, then set aside.",
+    "In a large mixing bowl, combine the broccoli, grated cheese, and a pinch of salt and pepper.",
+    "Pour the milk mixture over the broccoli and toss to coat.",
+    "Transfer the broccoli mixture to a baking dish and sprinkle with binchotan charcoal powder.",
+    "Bake in the preheated oven for 25-30 minutes, or until the top is golden brown and the broccoli is tender.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "diabetic-friendly",
+    "one-pan",
+    "veggie-centric",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "warm-wholesome-canadian-broccoli-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wholesome-canadian-broccoli-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T05:36:08Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "purple-sprouting-broccoli",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Broccoli",
+    "descriptor": "Warm Wholesome",
+    "dishForm": "Gratin"
+  }
+}
