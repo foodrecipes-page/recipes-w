@@ -1,0 +1,99 @@
+{
+  "title": "Warmly Spiced Peruvian Banana Skewers",
+  "description": "Tangy and crumbly, these festive Peruvian banana skewers are a delicious dessert featuring fried ripe bananas, shio-cure, and high protein friendly ingredients, cooked to perfection on a raclette grill.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "6",
+      "notes": "firm but ripe"
+    },
+    {
+      "name": "shio cure",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "nutmeg powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "puffed rice cereal",
+      "amount": "1 cup",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 375 degrees Fahrenheit.",
+    "In a shallow dish, mix together the flour, cinnamon powder, and nutmeg powder.",
+    "Dip each banana into the beaten egg and then coat in the flour mixture, shaking off excess.",
+    "Dip the flour coated banana into the crushed puffed rice cereal, pressing gently to adhere.",
+    "Place the coated banana onto a plate or tray, repeat with remaining bananas.",
+    "Brush the melted butter onto the raclette grill and cook the banana skewers for 2-3 minutes per side, until golden brown.",
+    "In a small bowl, mix together the shio cure and granulated sugar.",
+    "Sprinkle the shio cure mixture over the cooked banana skewers and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "festive",
+    "grilled",
+    "high-protein",
+    "peruvian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "warmly-spiced-peruvian-banana-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-peruvian-banana-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:35:04Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "shio-cure",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "bananas",
+    "descriptor": "Warmly Spiced",
+    "dishForm": "Skewers"
+  }
+}
