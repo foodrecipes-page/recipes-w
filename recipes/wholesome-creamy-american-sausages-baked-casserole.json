@@ -1,0 +1,122 @@
+{
+  "title": "Creamy American Sausage Baked Casserole",
+  "description": "A rich and flavorful casserole featuring American sausages, onions, and a creamy sauce, perfect for a comforting meal.",
+  "cuisine": "American",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "American sausages (4-6)",
+      "amount": "1 pound",
+      "notes": "you can use any type of American sausage you like"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "to thicken the sauce"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "low-fat or non-fat"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "low-fat or non-fat"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained"
+    },
+    {
+      "name": "green chilies",
+      "amount": "1 can (4 oz)",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for greasing the baking dish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Grease a 9x13-inch baking dish with olive oil.",
+    "Cook the sausages in a large skillet over medium-high heat, browning them on all sides. Remove from heat and set aside.",
+    "In the same skillet, cook the chopped onion and minced garlic until softened.",
+    "In a separate saucepan, whisk together the flour and milk until smooth, then bring to a simmer over medium heat until thickened.",
+    "Stir in the grated cheddar cheese until melted, then remove from heat.",
+    "Add the cooked onion and garlic mixture to the cheese sauce, followed by the diced tomatoes, green chilies, salt, and black pepper. Stir to combine.",
+    "In a large mixing bowl, combine the cooked sausages, cheese sauce mixture, and chopped parsley (if using).",
+    "Transfer the sausage mixture to the prepared baking dish and top with additional grated cheese if desired.",
+    "Bake for 25-30 minutes, or until the casserole is hot and the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-recipes",
+    "comfort-food",
+    "cream-based-sauce",
+    "easy-weeknight-meals",
+    "high-protein",
+    "one-pan-meat-casserole",
+    "sausage-casserole"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 34,
+    "fat": 35
+  },
+  "slug": "wholesome-creamy-american-sausages-baked-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-creamy-american-sausages-baked-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T01:39:59Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "brine-wet",
+    "primaryIngredient": "sausages",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "sausages",
+    "descriptor": "wholesome creamy",
+    "dishForm": "Baked Casserole"
+  }
+}
