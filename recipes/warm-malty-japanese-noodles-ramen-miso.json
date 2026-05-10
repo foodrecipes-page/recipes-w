@@ -1,0 +1,102 @@
+{
+  "title": "Warm Malty Japanese Noodles Ramen Miso",
+  "description": "A comforting and nourishing Japanese dish featuring malty flavors and bouncy noodles, perfect for a sick day. This lacto-vegetarian-friendly recipe combines palm sugar and temper for a unique taste experience.",
+  "cuisine": "Japanese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ramen noodles",
+      "amount": "200g",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tempeh",
+      "amount": "100g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Add the palm sugar and stir until dissolved.",
+    "Add the ramen noodles to the pot and cook according to the package instructions.",
+    "In a pan, heat the sesame oil over medium heat and saute the onion and garlic until softened.",
+    "Add the crumbled tempeh to the pan and cook until lightly browned.",
+    "In a small bowl, whisk together the miso paste and a splash of the hot broth until smooth.",
+    "Add the miso mixture to the pot with the noodles and stir to combine.",
+    "Add the cooked tempeh and onion mixture to the pot and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve the ramen hot, garnished with chopped green onion."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "japanese-cuisine",
+    "lacto-vegetarian",
+    "nourishing",
+    "ramen",
+    "sick-day",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "warm-malty-japanese-noodles-ramen-miso",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-malty-japanese-noodles-ramen-miso",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:16:24Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "temper",
+    "primaryIngredient": "palm sugar",
+    "diet": "lacto-vegetarian",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "noodles",
+    "descriptor": "Warm Malty",
+    "dishForm": "Ramen Miso"
+  }
+}
