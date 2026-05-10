@@ -1,0 +1,96 @@
+{
+  "title": "Warm Crispy Norwegian Chicken Fried Rice",
+  "description": "A cultured and cozy Norwegian dish featuring chicken breasts and crispy fried rice, perfect for a cold evening.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "fry-grind-rice-khao-khua",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the grated carrot and cook until tender, about 4 minutes.",
+    "Add the chicken breasts to the skillet and cook until browned and cooked through, about 6 minutes.",
+    "Remove the chicken from the skillet and set aside to rest.",
+    "Add the fry-grind-rice-khao-khua to the skillet, breaking up any clumps with a spatula.",
+    "Cook the rice for about 5 minutes, stirring frequently, until crispy and golden brown.",
+    "Return the chicken to the skillet and stir in the soy sauce and salt.",
+    "Cook for an additional 2 minutes, stirring constantly, until the chicken is coated in the sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "norwegian-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 42,
+    "fat": 24
+  },
+  "slug": "warm-crispy-norwegian-chicken-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-norwegian-chicken-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:34:42Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "chicken breasts",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "chicken breasts",
+    "descriptor": "Warm Crispy",
+    "dishForm": "Fried-Rice"
+  }
+}
