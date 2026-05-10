@@ -7854,6 +7854,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spicy-turkish-guanciale-kebabs",
+    "title": "Warm Spicy Turkish Guanciale Kebabs",
+    "tags": [
+      "bento-box",
+      "guanciale",
+      "kebabs",
+      "low-fat",
+      "spicy-food",
+      "turkish-cuisine"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spicy-venezuelan-chicken-empanadas",
     "title": "Warm Spicy Venezuelan Chicken Empanadas",
     "tags": [

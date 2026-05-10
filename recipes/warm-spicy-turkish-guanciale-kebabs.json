@@ -1,0 +1,111 @@
+{
+  "title": "Warm Spicy Turkish Guanciale Kebabs",
+  "description": "A spicy and cozy Turkish dish featuring guanciale and ferment-jang, served in a bento-box, perfect for a low-fat friendly meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "guanciale",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turkish red pepper",
+      "amount": "1 teaspoon",
+      "notes": "crushed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Thread the guanciale, onion, bell pepper, and tomato onto skewers.",
+    "In a small bowl, mix together the ferment-jang, turkish red pepper, garlic, salt, and black pepper.",
+    "Brush the mixture onto the skewers.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "Meanwhile, toast the pita bread pieces in the oven for 5 minutes.",
+    "Remove the skewers and pita bread from the oven and brush the pita bread with olive oil.",
+    "Assemble the kebabs by placing a few pieces of the toasted pita bread into the bottom of a bento-box, followed by a skewer and a dollop of the ferment-jang mixture.",
+    "Serve the kebabs warm and enjoy.",
+    "Repeat the assembly process for the remaining ingredients."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "guanciale",
+    "kebabs",
+    "low-fat",
+    "spicy-food",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "warm-spicy-turkish-guanciale-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-turkish-guanciale-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:14:26Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "ferment-jang",
+    "primaryIngredient": "guanciale",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "guanciale",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Kebabs"
+  }
+}
