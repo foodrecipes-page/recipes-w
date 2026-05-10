@@ -1,0 +1,106 @@
+{
+  "title": "Warm Italian Veal Ossobuco",
+  "description": "A classic Italian dish featuring braised veal shanks in a rich and flavorful broth, perfect for a lazy Sunday dinner. This keto-friendly recipe uses a tandoor for added depth of flavor.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal shanks",
+      "amount": "4 pieces",
+      "notes": "preferably ossobuco cut"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 300 degrees Fahrenheit.",
+    "Season the veal shanks with salt and pepper.",
+    "Heat the olive oil in the tandoor and sear the veal shanks until browned on all sides.",
+    "Remove the veal shanks from the tandoor and set them aside.",
+    "Add the chopped onion, carrots, and celery to the tandoor and cook until the vegetables are softened.",
+    "Add the garlic to the tandoor and cook for an additional minute.",
+    "Add the white wine, beef broth, and tomato paste to the tandoor, stirring to combine.",
+    "Return the veal shanks to the tandoor and bring the broth to a simmer.",
+    "Cover the tandoor and braise the veal shanks for 2 1/2 hours, or until the meat is tender and falling off the bone.",
+    "Serve the veal shanks with the rich and flavorful broth, topped with grated parmesan cheese."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braised-meat",
+    "comfort-food",
+    "italian-food",
+    "keto-recipes",
+    "low-carb",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "warm-italian-veal-ossobuco",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-italian-veal-ossobuco",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:22:07Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "tandoor",
+    "primaryIngredient": "water",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "veal",
+    "descriptor": "Water Infused",
+    "dishForm": "Ossobuco"
+  }
+}
