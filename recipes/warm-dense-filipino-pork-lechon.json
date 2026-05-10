@@ -1,0 +1,91 @@
+{
+  "title": "Warm Dense Filipino Pork Lechon",
+  "description": "A traditional Filipino dish featuring a whole roasted pig, served with a side of mustard and rye bread, this version is adapted to be dense and light, with a Mediterranean twist",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "rye bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "mustard",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Score the pork shoulder in a crisscross pattern, cutting about 1/4 inch deep",
+    "In a small bowl, mix together the mustard, olive oil, garlic, lemon juice, salt, and black pepper",
+    "Rub the mixture all over the pork shoulder, making sure to get some into the scored lines",
+    "Place the pork shoulder in a roasting pan and put it in the oven",
+    "Roast the pork for 20 minutes per pound, or until it reaches an internal temperature of 160 degrees Fahrenheit",
+    "While the pork is cooking, slice the rye bread into 1 inch thick slices",
+    "When the pork is done, let it rest for 10 minutes before slicing it thinly",
+    "Serve the pork with the rye bread and a side of additional mustard, if desired"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 80,
+  "totalTimeMin": 110,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "filipino-food",
+    "mediterranean-inspired",
+    "pork-recipes",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "warm-dense-filipino-pork-lechon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dense-filipino-pork-lechon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:10:30Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "roast",
+    "primaryIngredient": "rye bread",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Warm Dense",
+    "dishForm": "Lechon"
+  }
+}
