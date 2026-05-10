@@ -1,0 +1,107 @@
+{
+  "title": "Warm Charred Brazilian Chicken Empanadas",
+  "description": "A diabetic friendly Brazilian dish featuring charred chicken and phyllo dough, served warm and cozy. This recipe uses a kadhai for cooking and an ice bath to shock the chicken.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a kadhai over medium high heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chicken to the kadhai and cook until it is browned on all sides.",
+    "Add the cumin, paprika, salt, and pepper to the kadhai and stir to combine.",
+    "Remove the chicken from the kadhai and place it in an ice bath to stop the cooking process.",
+    "Lay a sheet of phyllo dough on a flat surface and brush it with the beaten egg.",
+    "Place a few pieces of the chicken in the center of the phyllo dough and fold the dough to form a triangle.",
+    "Brush the outside of the empanada with the beaten egg and place it in the kadhai.",
+    "Cook the empanada for 2-3 minutes on each side, until it is golden brown and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "chicken-recipes",
+    "diabetic-friendly",
+    "empanadas",
+    "low-carb",
+    "main-dish",
+    "phyllo-dough"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "warm-charred-brazilian-chicken-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-charred-brazilian-chicken-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:38:49Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "phyllo dough",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Warm Charred",
+    "dishForm": "Empanadas"
+  }
+}
