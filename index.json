@@ -3219,6 +3219,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-french-chicken-blanquette",
+    "title": "Warm French Chicken Blanquette",
+    "tags": [
+      "chicken-recipe",
+      "comfort-food",
+      "french-cuisine",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
     "slug": "warm-french-mushrooms-fold",
     "title": "Warm French Mushroom Fold",
     "tags": [

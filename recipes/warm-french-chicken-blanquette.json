@@ -1,0 +1,102 @@
+{
+  "title": "Warm French Chicken Blanquette",
+  "description": "A hearty and flavorful French dish from Normandy, featuring chicken, mushrooms, and fresh thyme, cooked in a clay pot and served in a paella pan. This blanquette is perfect for a weeknight dinner.",
+  "cuisine": "French",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Season the chicken thighs with salt and black pepper.",
+    "Melt 2 tablespoons of butter in the paella pan over medium heat.",
+    "Add the chicken thighs to the pan and cook until browned on both sides.",
+    "Remove the chicken from the pan and set aside.",
+    "Add the remaining 2 tablespoons of butter to the pan.",
+    "Add the sliced onions to the pan and cook until they are softened and translucent.",
+    "Add the mushrooms to the pan and cook until they are tender.",
+    "Add the fresh thyme sprigs to the pan and cook for 1 minute.",
+    "Sprinkle the flour over the onions and mushrooms and cook for 1 minute.",
+    "Gradually add the chicken broth and heavy cream to the pan, whisking constantly.",
+    "Return the chicken to the pan and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, until the chicken is cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipe",
+    "comfort-food",
+    "french-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "warm-french-chicken-blanquette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-french-chicken-blanquette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:08:53Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "fresh thyme",
+    "diet": "halal",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Chewy",
+    "dishForm": "Blanquette"
+  }
+}
