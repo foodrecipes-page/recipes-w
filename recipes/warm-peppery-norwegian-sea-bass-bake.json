@@ -1,0 +1,94 @@
+{
+  "title": "Warm Peppery Norwegian Sea Bass Bake",
+  "description": "A light and flavorful Norwegian dish featuring sea bass with a crunchy peppery crust",
+  "cuisine": "Norwegian",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "vegan-friends"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4",
+      "notes": "120g each"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "2 tbsp",
+      "notes": "freshly cracked"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1 tsp",
+      "notes": "preferably Maldon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Rinse the sea bass fillets under cold water, pat dry with paper towels.",
+    "Season the fillets with flaky sea salt and freshly cracked black peppercorns.",
+    "In a small saucepan, melt the butter over low heat.",
+    "Add the chopped parsley to the melted butter and stir to combine.",
+    "Place the sea bass fillets on a baking sheet lined with parchment paper.",
+    "Drizzle the parsley butter mixture evenly over the top of each fillet.",
+    "Dot the top of each fillet with a tablespoon of olive oil.",
+    "Bake the sea bass in the preheated oven for 12-15 minutes or until cooked through.",
+    "Serve the sea bass hot with a squeeze of lemon and additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-recipes",
+    "gluten-free-options",
+    "one-pan",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 22
+  },
+  "slug": "warm-peppery-norwegian-sea-bass-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-peppery-norwegian-sea-bass-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T03:18:52Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "saute",
+    "primaryIngredient": "sea bass",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "sea bass",
+    "descriptor": "warm peppery",
+    "dishForm": "Bake"
+  }
+}
