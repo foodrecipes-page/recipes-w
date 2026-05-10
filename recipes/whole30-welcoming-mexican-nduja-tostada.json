@@ -1,0 +1,104 @@
+{
+  "title": "Whole30 Welcoming Mexican Nduja Tostada",
+  "description": "A one-pot Mexican dish featuring nduja, served in a tostada form with fermented and bouncy textures, Whole30-friendly and easy to make. This recipe combines the spicy kick of nduja with the freshness of Mexican flavors.",
+  "cuisine": "Mexican",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nduja",
+      "amount": "1/2 cup",
+      "notes": "spicy fermented sausage"
+    },
+    {
+      "name": "avocado oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tostada shells",
+      "amount": "6-8",
+      "notes": "Whole30-friendly"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the avocado oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the diced bell pepper and cook until tender, about 5 minutes.",
+    "Add the diced tomato and cook until the mixture is heated through.",
+    "Stir in the nduja and cook until heated through, breaking it up with a spoon as it cooks.",
+    "Warm the tostada shells by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tostadas by spooning the nduja mixture onto a shell and topping with chopped cilantro and a squeeze of lime juice.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "mexican-food",
+    "one-pot-meals",
+    "paleo-diet",
+    "spicy-food",
+    "whole30-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "whole30-welcoming-mexican-nduja-tostada",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/whole30-welcoming-mexican-nduja-tostada",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:27:01Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "nduja",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "nduja",
+    "descriptor": "Whole30 Welcoming",
+    "dishForm": "Tostada"
+  }
+}
