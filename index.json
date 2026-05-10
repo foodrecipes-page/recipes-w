@@ -792,6 +792,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-cheesy-mexican-potato-tacos",
+    "title": "Warm Cheesy Mexican Potato Tacos",
+    "tags": [
+      "coconut-cream-based",
+      "kid-friendly",
+      "mexican-inspired",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-cheesy-polish-sausages-casserole",
     "title": "Warm Cheesy Polish Sausages Casserole",
     "tags": [

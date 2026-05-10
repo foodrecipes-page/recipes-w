@@ -1,0 +1,94 @@
+{
+  "title": "Warm Cheesy Mexican Potato Tacos",
+  "description": "A kid-friendly Mexican dish featuring potato buns, a blend of cheeses, and a hint of mustard, all wrapped in a warm and crispy taco shell, finished with a drizzle of coconut cream crack sauce for a Mediterranean twist.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potato buns",
+      "amount": "8",
+      "notes": "toasted"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "2 cups",
+      "notes": "Monterey Jack and Cheddar blend"
+    },
+    {
+      "name": "diced potatoes",
+      "amount": "2 large",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "mild mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toast the potato buns by baking them in the oven for 5 minutes.",
+    "In a large bowl, mix together the mashed potatoes, shredded cheese, mild mustard, and taco seasoning until well combined.",
+    "Spoon the potato and cheese mixture onto the toasted potato buns.",
+    "Drizzle the coconut cream over the top of the potato and cheese mixture.",
+    "Season with salt and pepper to taste.",
+    "Drizzle the olive oil over the tacos.",
+    "Serve the tacos warm and enjoy.",
+    "Optional: top with additional shredded cheese, diced tomatoes, or sour cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "coconut-cream-based",
+    "kid-friendly",
+    "mexican-inspired",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-cheesy-mexican-potato-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-cheesy-mexican-potato-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:08:43Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "potatoe buns",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "potatoes",
+    "descriptor": "Warm cheesy",
+    "dishForm": "Tacos"
+  }
+}
