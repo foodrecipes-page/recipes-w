@@ -1,0 +1,100 @@
+{
+  "title": "Warm Buttery Australian Broccoli Wrap",
+  "description": "A delicious and healthy pescatarian-friendly dish featuring purple sprouting broccoli and ssam-wrap, perfect for a brunch mood, with a buttery and snappy texture.",
+  "cuisine": "Australian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "purple sprouting broccoli",
+      "amount": "1 bunch",
+      "notes": "trimmed"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4 sheets",
+      "notes": "large"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Add the softened butter to the skillet and let it melt.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the trimmed purple sprouting broccoli to the skillet and cook for 3-4 minutes, or until tender.",
+    "Season the broccoli with salt and black pepper to taste.",
+    "Warm the ssam-wrap sheets by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wrap by placing a sheet of ssam-wrap on a flat surface, then adding a portion of the cooked broccoli, a sprinkle of grated cheddar cheese if using, and a squeeze of lemon juice.",
+    "Fold the bottom half of the ssam-wrap up over the filling, then fold in the sides and roll up the wrap to form a tight cylinder.",
+    "Repeat with the remaining ingredients.",
+    "Serve the wraps warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "brunch",
+    "easy-meal",
+    "healthy",
+    "pescatarian",
+    "quick-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "warm-buttery-australian-broccoli-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-buttery-australian-broccoli-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:04:32Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "purple sprouting broccoli",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "broccoli",
+    "descriptor": "Warm Buttery",
+    "dishForm": "Wrap"
+  }
+}
