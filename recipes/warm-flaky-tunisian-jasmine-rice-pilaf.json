@@ -1,0 +1,99 @@
+{
+  "title": "Warm Flaky Tunisian Jasmine Rice Pilaf",
+  "description": "A flavorful and aromatic solo dinner dish featuring jasmine rice, stir-fry, and umami flavors, inspired by Tunisian cuisine, vegetarian-friendly.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add chopped onion and cook until translucent, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute, until fragrant.",
+    "Add sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add rinsed jasmine rice and cook for 2 minutes, stirring constantly, until the rice is coated with oil and slightly toasted.",
+    "Add vegetable broth, dried thyme, salt, and black pepper, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18 minutes, or until the liquid is absorbed and the rice is cooked.",
+    "Remove from heat and let it rest, covered, for 5 minutes.",
+    "Fluff the pilaf with a fork and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flaky-rice",
+    "one-pot",
+    "tunisian-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "warm-flaky-tunisian-jasmine-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-flaky-tunisian-jasmine-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:13:06Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "stir-fry",
+    "primaryIngredient": "jasmine rice",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "jasmine rice",
+    "descriptor": "Warm flaky",
+    "dishForm": "Pilaf"
+  }
+}

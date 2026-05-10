@@ -2847,6 +2847,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-flaky-tunisian-jasmine-rice-pilaf",
+    "title": "Warm Flaky Tunisian Jasmine Rice Pilaf",
+    "tags": [
+      "comfort-food",
+      "flaky-rice",
+      "one-pot",
+      "tunisian-cuisine",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-flaky-turkish-pickle-borek",
     "title": "Warm Flaky Turkish Pickle Borek",
     "tags": [
