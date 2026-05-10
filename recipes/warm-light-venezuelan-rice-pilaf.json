@@ -1,0 +1,98 @@
+{
+  "title": "Warm Light Venezuelan Rice Pilaf",
+  "description": "A fermented, light, one-pot Venezuelan dish featuring black pepper and mushimono-steam, dairy-free-friendly, cooked in a tagliere vessel.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uncooked white rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large tagliere over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the rinsed rice and cook for 2 minutes, stirring constantly.",
+    "Add the water, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes.",
+    "Turn off the heat and let it steam, covered, for 5 minutes.",
+    "Fluff the rice with a fork and stir in the chopped cilantro.",
+    "Serve hot.",
+    "Let it cool completely before refrigerating or freezing."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "easy-dinner",
+    "gluten-free",
+    "one-pot",
+    "quick-meal",
+    "rice-pilaf",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "warm-light-venezuelan-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-light-venezuelan-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:26:17Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "black pepper",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "rice",
+    "descriptor": "Warm Light",
+    "dishForm": "Pilaf"
+  }
+}
