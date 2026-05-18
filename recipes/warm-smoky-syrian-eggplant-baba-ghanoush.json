@@ -1,0 +1,84 @@
+{
+  "title": "Warm Smoky Syrian Eggplant Baba Ghanoush",
+  "description": "Savory, creamy, cozy Syrian dish featuring smoky aoli and infused oil, perfect for a raw-friendly meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked eggplant",
+      "amount": "2 large"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tahini",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Roast the eggplant over an open flame, turning occasionally, until charred and blistered.",
+    "Transfer the eggplant to a bowl and let cool.",
+    "Once cool enough to handle, peel the eggplant and transfer it to a blender or food processor.",
+    "Add the olive oil, lemon juice, garlic, tahini, and salt to the blender.",
+    "Blend the mixture on high speed until smooth and creamy, stopping to scrape down the sides as needed.",
+    "Transfer the mixture to a serving bowl and drizzle with additional olive oil, if desired.",
+    "Garnish with a sprinkle of paprika and a few sprigs of parsley, if desired.",
+    "Serve warm or at room temperature, accompanied by pita bread or vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "snack-idea",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "warm-smoky-syrian-eggplant-baba-ghanoush",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-syrian-eggplant-baba-ghanoush",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:45:32Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "infuse-oil",
+    "primaryIngredient": "smoky a oli",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "eggplant",
+    "descriptor": "warm smoky",
+    "dishForm": "Baba Ghanoush"
+  }
+}
