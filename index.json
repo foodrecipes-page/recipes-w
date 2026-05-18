@@ -7657,6 +7657,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spicy-irish-lamb-stew",
+    "title": "Warm Spicy Irish Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "irish",
+      "lamb",
+      "one-pan",
+      "slow-cooker",
+      "stew",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 80,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spicy-irish-sausage-skillet",
     "title": "Warm Spicy Irish Sausage Skillet",
     "tags": [

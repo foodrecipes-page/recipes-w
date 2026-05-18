@@ -1,0 +1,118 @@
+{
+  "title": "Warm Spicy Irish Lamb Stew",
+  "description": "A hearty Irish lamb stew with a velvety texture, served solo for a satisfying dinner. This dish combines flavors of Ireland with the warmth of spices.",
+  "cuisine": "Irish",
+  "diet": [
+    "kosher-friendly",
+    null,
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, boneless",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Whole milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Season the lamb cubes with salt and black pepper.",
+    "In a large robata grill or Dutch oven, melt 1 tablespoon of butter over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the grill and set aside.",
+    "Add the remaining 1 tablespoon of butter to the grill and sauté the chopped onion until softened, about 5 minutes.",
+    "Add the chopped carrots and potatoes to the grill and cook for 5 minutes.",
+    "Add the minced garlic, red chili flakes, and dried thyme to the grill and cook for 1 minute.",
+    "Add the browned lamb cubes back to the grill and stir to combine with the vegetables.",
+    "Add the flour to the grill and stir to combine with the lamb and vegetables.",
+    "Gradually add the whole milk to the grill, whisking continuously to avoid lumps.",
+    "Bring the stew to a simmer and cook, covered, over low heat for 1 hour, or until the lamb is tender.",
+    "Serve the stew hot, garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish",
+    "lamb",
+    "one-pan",
+    "slow-cooker",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 45,
+    "fat": 32
+  },
+  "slug": "warm-spicy-irish-lamb-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-irish-lamb-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:08:26Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "whole milk",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Stew"
+  }
+}
