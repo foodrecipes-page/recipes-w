@@ -1,0 +1,115 @@
+{
+  "title": "Warm, Dense, Blueberry-filled Australian Blueberry Flatbread",
+  "description": "A rich and nostalgic Australian dish featuring blueberries, crushed in a mortar and pestle, perfect for a comforting breakfast or snack.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "blueberries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "tava or griddle",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the tava or griddle to medium heat.",
+    "In a large mortar and pestle, crush the blueberries until they release their juice.",
+    "In a separate bowl, whisk together the almond flour, coconut sugar, eggs, flaxseed meal, salt, and vanilla extract.",
+    "Gradually add the crushed blueberries to the dry mixture and mix until a dough forms.",
+    "Add the warm water and mix until the dough comes together in a ball.",
+    "Knead the dough for 2-3 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 2-3 equal pieces, depending on desired flatbread size.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Brush the flatbreads with olive oil and cook on the preheated tava or griddle for 2-3 minutes on each side.",
+    "Serve warm and enjoy!",
+    "Repeat with remaining dough pieces."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 4,
+  "totalTimeMin": 24,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "blueberry",
+    "breakfast",
+    "flatbread",
+    "fodmap-friendly",
+    "gluten-free",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 8
+  },
+  "slug": "warm-dense-blueberry-filled-australian-blueberry-flatbread",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dense-blueberry-filled-australian-blueberry-flatbread",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:53:32Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "blueberries",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Blueberry",
+    "descriptor": "Warm, Dense, Blueberry-filled",
+    "dishForm": "Flatbread"
+  }
+}
