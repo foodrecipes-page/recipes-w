@@ -1,0 +1,104 @@
+{
+  "title": "Weeknight Wholesome Peruvian Lamb Seco De Cordero",
+  "description": "A delicious and comforting Peruvian lamb stew made with oat milk and served in a claypot for a weeknight dinner.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "Oat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Beurre monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large claypot over medium-high heat.",
+    "Add the diced onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the oat milk, beurre monte, cumin, coriander, paprika, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a simmer, then cover the claypot and transfer it to the oven.",
+    "Braise the lamb for 2 hours, or until tender and falling apart.",
+    "Stir in the chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "lamb",
+    "one-pan",
+    "peruvian",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "weeknight-wholesome-peruvian-lamb-seco-de-cordero",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/weeknight-wholesome-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:40:58Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "beurre-monte",
+    "primaryIngredient": "oat milk",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Weeknight Wholesome",
+    "dishForm": "Seco De Cordero"
+  }
+}

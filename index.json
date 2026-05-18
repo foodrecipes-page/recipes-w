@@ -10131,6 +10131,22 @@
     "shard": "w"
   },
   {
+    "slug": "warming-cheesy-australian-rigatoni-pasta",
+    "title": "Warming Cheesy Australian Rigatoni Pasta",
+    "tags": [
+      "australian-inspired",
+      "cheesy",
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "pasta-bake",
+      "weeknight"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 70,
+    "shard": "w"
+  },
+  {
     "slug": "warming-crispy-chinese-ground-pork-scallion-pancake-jjigae",
     "title": "Warming Crispy Chinese Ground Pork Scallion-Pancake Jjigae",
     "tags": [
@@ -11704,6 +11720,22 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 180,
+    "shard": "w"
+  },
+  {
+    "slug": "weeknight-wholesome-peruvian-lamb-seco-de-cordero",
+    "title": "Weeknight Wholesome Peruvian Lamb Seco De Cordero",
+    "tags": [
+      "comfort-food",
+      "easy-to-make",
+      "lamb",
+      "one-pan",
+      "peruvian",
+      "stew",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 135,
     "shard": "w"
   },
   {
