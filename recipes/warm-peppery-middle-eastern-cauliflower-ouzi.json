@@ -1,0 +1,108 @@
+{
+  "title": "Warm, Peppery Middle-Eastern Cauliflower Ouzi",
+  "description": "A warm and flavorful Middle-Eastern-inspired dish featuring roasted cauliflower, crunchy pine nuts, and fragrant spices. Great for meal prep and perfect for a weeknight dinner.",
+  "cuisine": "Middle-Eastern",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head"
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the cauliflower and remove the leaves and stem. Cut it into florets and place on a baking sheet.",
+    "Drizzle the olive oil over the cauliflower and sprinkle with cumin, coriander, cayenne pepper, salt, and black pepper. Toss to coat.",
+    "Roast the cauliflower in the preheated oven for 20-25 minutes, or until tender and lightly browned.",
+    "While the cauliflower is roasting, toast the pine nuts in a small skillet over medium heat for 2-3 minutes, or until fragrant.",
+    "In a blender or food processor, combine the tahini, lemon juice, garlic, and 1 tablespoon of water. Blend until smooth.",
+    "In a large bowl, combine the roasted cauliflower, tahini sauce, and toasted pine nuts. Toss to coat.",
+    "Garnish with fresh parsley and serve warm.",
+    "For meal prep, prepare the cauliflower and tahini sauce in advance and assemble the dish just before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "warm-peppery-middle-eastern-cauliflower-ouzi",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-peppery-middle-eastern-cauliflower-ouzi",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:12:49Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "candy",
+    "primaryIngredient": "cauliflower",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Cauliflower",
+    "descriptor": "Warm, peppery",
+    "dishForm": "Ouzi"
+  }
+}
