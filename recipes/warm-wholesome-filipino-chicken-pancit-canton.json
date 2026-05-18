@@ -1,0 +1,111 @@
+{
+  "title": "warm wholesome filipino chicken pancit canton",
+  "description": "a tangy and silky filipino noodle dish featuring wholegrain mustard, chicken, and vegetables, served in a braised sauce",
+  "cuisine": "filipino",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "pancit canton noodles",
+      "amount": "1 package",
+      "notes": "8 ounces"
+    },
+    {
+      "name": "wholegrain mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat the vegetable oil in a large skillet or wok over medium-high heat",
+    "add the garlic and ginger and stir-fry until fragrant, about 30 seconds",
+    "add the chicken and cook until browned and cooked through, about 5-7 minutes",
+    "remove the chicken from the skillet and set aside",
+    "add the onion and bell pepper to the skillet and stir-fry until the vegetables are tender, about 2-3 minutes",
+    "add the snow peas and stir-fry for another minute",
+    "add the wholegrain mustard, fish sauce, and soy sauce to the skillet and stir to combine",
+    "add the cooked chicken back into the skillet and stir to combine with the sauce",
+    "cook for another minute to allow the flavors to meld",
+    "cook the pancit canton noodles according to the package instructions and drain",
+    "add the cooked noodles to the skillet and stir to combine with the chicken and sauce",
+    "season with salt and pepper to taste, and serve hot"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "filipino-cuisine",
+    "high-protein",
+    "noodle-dish",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "warm-wholesome-filipino-chicken-pancit-canton",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wholesome-filipino-chicken-pancit-canton",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:22:43Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "braise",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "Warm Wholesome",
+    "dishForm": "Pancit Canton"
+  }
+}
