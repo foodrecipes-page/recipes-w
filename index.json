@@ -6104,6 +6104,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-sesame-butter-vietnamese-fish-ban-mai-claypot",
+    "title": "Warm Sesame Butter Vietnamese Fish Ban Mai Claypot",
+    "tags": [
+      "diabetic-friendly",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "one-pot",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "warm-shaggy-syrian-lamb-kebabs",
     "title": "Warm Shaggy Syrian Lamb Kebabs",
     "tags": [
@@ -15404,6 +15420,22 @@
     ],
     "cuisine": "dutch",
     "totalTimeMin": 65,
+    "shard": "w"
+  },
+  {
+    "slug": "wilted-fluffy-peruvian-lamb-seco-de-cordero",
+    "title": "Wilted Fluffy Peruvian Lamb Seco de Cordero",
+    "tags": [
+      "ayurvedic-tamasic-friendly",
+      "easy-to-make",
+      "floral",
+      "kid-friendly",
+      "lamb-recipe",
+      "one-pan",
+      "peruvian-cuisine"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 135,
     "shard": "w"
   },
   {

@@ -1,0 +1,106 @@
+{
+  "title": "Wilted Fluffy Peruvian Lamb Seco de Cordero",
+  "description": "A kid-friendly Peruvian dish featuring dill pickles, perfect for rest days.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 kg"
+    },
+    {
+      "name": "dill pickles",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium heat.",
+    "Add the garlic, ginger, cumin, coriander, paprika, salt, and pepper; cook, stirring frequently, for 1 minute.",
+    "Add the lamb shoulder; cook until browned on all sides, about 5 minutes.",
+    "Add 1 cup of water; bring to a simmer, then cover and transfer to the oven.",
+    "Bake for 2 hours, or until the lamb is tender.",
+    "Stir in the chopped dill pickles and cilantro; cook over low heat until wilted.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the lamb hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-tamasic-friendly",
+    "easy-to-make",
+    "floral",
+    "kid-friendly",
+    "lamb-recipe",
+    "one-pan",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "wilted-fluffy-peruvian-lamb-seco-de-cordero",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-fluffy-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:26:00Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "rest",
+    "primaryIngredient": "dill pickles",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "lamb",
+    "descriptor": "Wilted Fluffy",
+    "dishForm": "Seco de Cordero"
+  }
+}

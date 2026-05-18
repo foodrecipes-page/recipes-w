@@ -1,0 +1,125 @@
+{
+  "title": "Warm Sesame Butter Vietnamese Fish Ban Mai Claypot",
+  "description": "A sour and springy one-pot Vietnamese dish featuring sesame butter, served in a claypot.",
+  "cuisine": "vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "catfish fillets",
+      "amount": "4",
+      "notes": "about 120g each"
+    },
+    {
+      "name": "sesame butter",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "1 tbsp",
+      "notes": "veggie or peanut oil"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "cooking claypot",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of cooking oil in a claypot over medium-high heat.",
+    "Add the minced garlic and grated ginger, cook for 1 minute.",
+    "Add the fish sauce, sugar, and red pepper flakes, cook for 1 minute.",
+    "Add the catfish fillets, cook for 2-3 minutes per side, or until cooked through.",
+    "Add the sesame butter, bean sprouts, and chopped cilantro/scallions (if using), stir to combine.",
+    "Pour in the lime juice, stir to combine.",
+    "Reduce heat to low, simmer for 5 minutes.",
+    "Serve warm, garnished with additional cilantro/scallions (if desired).",
+    "Shape each catfish fillet into a small rectangle, resembling a mini banh mi.",
+    "Repeat with the remaining ingredients, forming a total of 4 catfish rectangles.",
+    "Serve immediately, with warm sesame butter and bean sprouts spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "one-pot",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "warm-sesame-butter-vietnamese-fish-ban-mai-claypot",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-sesame-butter-vietnamese-fish-ban-mai-claypot",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:25:53Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "sesame butter",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "fish",
+    "descriptor": "Warm Sesame Butter",
+    "dishForm": "Ban Mai Claypot"
+  }
+}
