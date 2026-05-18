@@ -1,0 +1,130 @@
+{
+  "title": "Warm German Schnitzel Gratin",
+  "description": "A rich, gooey solo dinner German dish featuring Dijon mustard, blanch-season, and Ayurvedic-rajasic-friendly ingredients.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "low-carb",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal cutlets",
+      "amount": "4",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tbsp",
+      "notes": "Stone ground"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "Gluten-free flour substitute: 1:1 ratio"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "Gluten-free breadcrumbs substitute: 1:1 ratio"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "Softened"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tbsp",
+      "notes": "Ayurvedic-rajasic-friendly"
+    },
+    {
+      "name": "blanch-season",
+      "amount": "1 tsp",
+      "notes": "Ayurvedic-rajasic-friendly"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "all-purpose flour (for dusting)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Dust the veal cutlets with flour on both sides.",
+    "Season the flour with blanch-season.",
+    "In a shallow dish, mix together the eggs and a pinch of salt.",
+    "In another shallow dish, mix together the panko breadcrumbs and a pinch of salt.",
+    "Dip each veal cutlet in the egg mixture, coating completely, then coat in breadcrumbs, pressing gently to adhere.",
+    "Heat 1 tablespoon of butter in a large skillet over medium-high heat.",
+    "Add 2 veal cutlets to the skillet and cook until golden brown on both sides, about 2-3 minutes per side.",
+    "Transfer the cooked veal cutlets to a baking dish.",
+    "Add the remaining 1 tablespoon of butter to the skillet.",
+    "Add the sliced onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Sprinkle the grated gruyère cheese over the cooked veal cutlets.",
+    "Top with the cooked onion and garlic mixture.",
+    "Sprinkle the nutritional yeast over the top.",
+    "Bake in a preheated oven at 375°F (190°C) for 12-15 minutes, or until the cheese is melted and bubbly.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-rajasic-friendly",
+    "comfort-food",
+    "german",
+    "gratin",
+    "one-pan",
+    "schnitzel",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "warm-german-schnitzel-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-german-schnitzel-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:41:24Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "dijon mustard",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Schnitzel",
+    "descriptor": "Warm",
+    "dishForm": "Gratin"
+  }
+}
