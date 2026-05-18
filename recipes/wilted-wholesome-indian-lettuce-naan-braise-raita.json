@@ -1,0 +1,122 @@
+{
+  "title": "Wilted Wholesome Indian Lettuce Naan Braise Raita",
+  "description": "A nutty, bouncy-qq Indian dish featuring iceberg lettuce, braise in a vegan-friendly naan format. Perfect for a romantic dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Iceberg Lettuce",
+      "amount": "2 heads",
+      "notes": "Outer leaves removed and discarded"
+    },
+    {
+      "name": "Naan Breads",
+      "amount": "4-6 pieces",
+      "notes": "Vegan naan or gluten-free naan used"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1/2 teaspoon",
+      "notes": "Whole"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Whole"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 teaspoon",
+      "notes": "Whole"
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1/4 teaspoon",
+      "notes": "Whole"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Adjust according to personal preference"
+    },
+    {
+      "name": "Vegan Yogurt",
+      "amount": "1 cup",
+      "notes": "Plain, unflavored"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium heat.",
+    "Add cumin seeds and let them sizzle for 1 minute.",
+    "Add onion and cook until it is translucent, about 5 minutes.",
+    "Add ginger and garlic and cook for another minute.",
+    "Add coriander powder, turmeric powder, and red chili powder, and cook for 1 minute.",
+    "Add iceberg lettuce and cook until it is wilted, about 5 minutes.",
+    "Season with salt to taste.",
+    "Warm naan breads in the oven or in a dry skillet.",
+    "Assemble the braise by placing a piece of naan on a plate, followed by a portion of the wilted lettuce mixture, and finishing with a dollop of vegan yogurt.",
+    "Garnish with lemon juice and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braise",
+    "gluten-free",
+    "indian",
+    "naan",
+    "one-pan",
+    "romantic",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "wilted-wholesome-indian-lettuce-naan-braise-raita",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-wholesome-indian-lettuce-naan-braise-raita",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T11:29:51Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "braise",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Lettuce",
+    "descriptor": "Wilted Wholesome",
+    "dishForm": "Naan Braise Raita"
+  }
+}
