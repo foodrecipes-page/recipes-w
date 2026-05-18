@@ -1,0 +1,115 @@
+{
+  "title": "Warm Smoked Russian Potatoes Gratin",
+  "description": "Fermented, velvety, adventurous Russian dish featuring yukon gold potatoes, smoke-cold, keto-friendly.",
+  "cuisine": "Russian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 pound yukon gold potatoes",
+      "amount": "2 pounds",
+      "notes": "peeled"
+    },
+    {
+      "name": "1/4 cup chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "1/4 cup chopped fresh chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "1/2 cup heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "1/2 cup grated smoked cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "1/4 cup chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "1/2 cup crumbled smoked bacon",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "2 tablespoons chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "1/4 cup chopped pickled onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thinly slice the yukon gold potatoes and place in a single layer on a plate.",
+    "Microwave the sliced potatoes for 30 seconds to soften slightly.",
+    "Arrange the potatoes in a greased 9x13 inch baking dish.",
+    "In a separate bowl, mix together heavy cream, smoked cheese, salt, and pepper.",
+    "Pour the cream mixture over the potatoes in the baking dish.",
+    "Sprinkle the chopped scallions, crumbled smoked bacon, chopped parsley, and chopped pickled onions evenly over the potatoes.",
+    "Dot the top of the potatoes with the softened butter.",
+    "Cover the baking dish with foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the potatoes are tender and the top is golden brown.",
+    "Remove from oven and sprinkle with chopped dill and chopped chives.",
+    "Serve warm, garnished with additional chopped herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "cold-smoked",
+    "comfort-food",
+    "fermented",
+    "keto-friendly",
+    "main-course",
+    "one-pan",
+    "russian",
+    "winter-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "warm-smoked-russian-potatoes-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoked-russian-potatoes-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:01:02Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "smoke-cold",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Warm Smoked",
+    "dishForm": "Gratin"
+  }
+}
