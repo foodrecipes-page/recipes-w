@@ -1,0 +1,121 @@
+{
+  "title": "warm spicy kenyan melon tagine",
+  "description": "A comforting pescatarian-friendly dish featuring sweet melons, warm spices and sous-vide cooking in a hot pot vessel.",
+  "cuisine": "kenyan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green melon",
+      "amount": "2",
+      "notes": "any sweet melon variety"
+    },
+    {
+      "name": "carrots",
+      "amount": "1",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "flaky"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Combine cumin, cayenne pepper and salt in a small bowl.",
+    "In a hot pot vessel, heat 2 tablespoons of oil over medium heat. Add chopped onion and cook until softened, about 5 minutes.",
+    "Add grated ginger and cook for 1 minute.",
+    "Add chopped carrots, lemongrass and fish stock. Bring to a simmer.",
+    "Add green melon and cook for 5 minutes or until tender.",
+    "Stir in coconut milk and cook for an additional 2 minutes.",
+    "Taste and adjust seasoning with black pepper.",
+    "Serve warm, garnished with chopped cilantro and a dollop of coconut milk.",
+    "Cook sous-vide in preheated water bath at 180°F for 10 minutes.",
+    "Serve immediately, garnished with additional cilantro if desired.",
+    "If desired, serve with crusty bread or over rice for added starch."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "pescatarian-friendly",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "warm-spicy-kenyan-melon-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-kenyan-melon-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T18:56:54Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "sous-vide",
+    "primaryIngredient": "melons",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "melon",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Tagine"
+  }
+}
