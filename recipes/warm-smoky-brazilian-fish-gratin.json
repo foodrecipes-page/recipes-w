@@ -1,0 +1,121 @@
+{
+  "title": "warm smoky brazilian fish gratin",
+  "description": "a rich and crisp dish from the monsoon season in brazil, featuring cider and a smoky flavor profile that is low in fat.",
+  "cuisine": "brazilian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish fillets",
+      "amount": "4",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "apple cider"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "smoke-point 400f"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400f.",
+    "season the cod fillets with salt, black pepper, and chili powder.",
+    "heat the vegetable oil in an oven-safe skillet over medium-high heat.",
+    "add the chopped onion and sauté until translucent, about 3-4 minutes.",
+    "add the minced garlic and sauté for another minute.",
+    "add the smoked paprika, ground cumin, and apple cider vinegar, stir to combine.",
+    "add the cod fillets and sear for 2-3 minutes on each side.",
+    "transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the fish is cooked through.",
+    "top the fish with shredded cheese and chopped cilantro, and return to the oven for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "fish",
+    "gratin",
+    "low-fat",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 12
+  },
+  "slug": "warm-smoky-brazilian-fish-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-brazilian-fish-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:36:54Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "smoke-cold",
+    "primaryIngredient": "cider",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "fish",
+    "descriptor": "warm, smoky",
+    "dishForm": "Gratin"
+  }
+}
