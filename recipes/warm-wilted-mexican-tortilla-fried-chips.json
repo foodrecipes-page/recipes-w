@@ -1,0 +1,121 @@
+{
+  "title": "Warm Wilted Mexican Tortilla Fried Chips",
+  "description": "A sweet, light, and show-off Mexican (Oaxacan) dish featuring allspice, dehydrated, and gluten-free-friendly ingredients in the form of chilaquiles.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn tortillas",
+      "amount": "8-10",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Dehydrated apple",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Crumbled cotija cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Dehydrate the corn tortillas in a low-temperature oven (150°F) for 2 hours, or until crispy and lightweight.",
+    "Cut the dehydrated tortillas into quarters and place them in a large bowl.",
+    "In a separate pan, heat the vegetable oil over medium heat (350°F).",
+    "Fry the tortilla quarters in batches until crispy and golden brown.",
+    "Using a slotted spoon, transfer the fried chips to a paper towel-lined plate to drain excess oil.",
+    "In a medium saucepan, combine the allspice, cinnamon, granulated sugar, and kosher salt. Heat over low heat (275°F) for 2 minutes, stirring constantly.",
+    "Add the heavy cream to the saucepan and stir until the mixture is smooth and well combined.",
+    "Add the fried tortilla chips to the saucepan and toss to coat with the spiced cream mixture.",
+    "Stir in the diced onion, dehydrated apple, crumbled cotija cheese, and chopped cilantro.",
+    "Transfer the warm, wilted chilaquiles to a serving dish and serve with lime wedges on the side.",
+    "Garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast-friendly",
+    "dinner-party",
+    "gluten-free-friendly",
+    "high-protein",
+    "mexican",
+    "oaxacan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 50,
+    "fat": 26
+  },
+  "slug": "warm-wilted-mexican-tortilla-fried-chips",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wilted-mexican-tortilla-fried-chips",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:57:35Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "dehydrate",
+    "primaryIngredient": "allspice",
+    "diet": "gluten-free",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Tortilla",
+    "descriptor": "Warm Wilted",
+    "dishForm": "Fried Chips"
+  }
+}
