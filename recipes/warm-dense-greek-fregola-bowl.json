@@ -1,0 +1,101 @@
+{
+  "title": "Warm, Dense Greek Fregola Bowl",
+  "description": "A hearty, crowd-pleasing Greek dish featuring fregola and a variety of vegetables, all cooked to perfection in a stone bowl.",
+  "cuisine": "greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fregola",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium",
+      "notes": "about 1 1/2 cups"
+    },
+    {
+      "name": "Chopped garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Diced eggplant",
+      "amount": "1 medium",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "Crumbled feta cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "In a large stone bowl or Dutch oven, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook, stirring occasionally, until it is softened and lightly browned, about 10 minutes.",
+    "Add the minced garlic and cook for 1-2 minutes, stirring constantly, until fragrant.",
+    "Add the diced eggplant and cook, stirring occasionally, until it is tender and lightly browned, about 10-12 minutes.",
+    "Stir in the crumbled feta cheese and cook for 1-2 minutes, until melted and well combined.",
+    "Stir in the chopped parsley and season with salt and black pepper to taste.",
+    "Transfer the stone bowl to the preheated oven and cook for 10-15 minutes, until the fregola is cooked through and the top is golden brown.",
+    "Remove the stone bowl from the oven and let it cool for a few minutes.",
+    "Serve the warm fregola mixture in the stone bowl, garnished with additional parsley if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner",
+    "european",
+    "grain-based",
+    "greek",
+    "main-course",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-dense-greek-fregola-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-dense-greek-fregola-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T18:56:00Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "fregola",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "fregola",
+    "descriptor": "Warm, Dense",
+    "dishForm": "Bowl"
+  }
+}

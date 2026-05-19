@@ -2423,6 +2423,23 @@
     "shard": "w"
   },
   {
+    "slug": "warm-dense-greek-fregola-bowl",
+    "title": "Warm, Dense Greek Fregola Bowl",
+    "tags": [
+      "comfort-food",
+      "dinner",
+      "european",
+      "grain-based",
+      "greek",
+      "main-course",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "greek",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-dense-indian-chicken-curry",
     "title": "Warm Dense Indian Chicken Curry",
     "tags": [
