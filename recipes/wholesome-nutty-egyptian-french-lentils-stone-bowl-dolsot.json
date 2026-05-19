@@ -1,0 +1,111 @@
+{
+  "title": "wholesome nutty egyptian french lentils stone-bowl-dolsot",
+  "description": "a nutty, crumbly, energizing egyptian dish featuring french lentils, served in a stone-bowl-dolsot for a fun and interactive meal.",
+  "cuisine": "egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "french green lentils",
+      "amount": "250g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "20g"
+    },
+    {
+      "name": "crushed pita breadcrumbs",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large saucepan over medium heat.",
+    "add the chopped onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for another minute, until fragrant.",
+    "add the lentils, caraway seeds, cumin powder, coriander powder, salt, and black pepper. stir to combine.",
+    "add 2 cups of water to the saucepan and bring to a boil.",
+    "reduce heat to low and simmer, covered, for 20-25 minutes, or until the lentils are tender.",
+    "stir in lemon juice and chopped parsley.",
+    "meanwhile, preheat the stone-bowl-dolsot in the oven at 400f (200c) for 10 minutes.",
+    "remove the stone-bowl-dolsot from the oven and carefully place the cooked lentil mixture into it.",
+    "sprinkle crushed pita breadcrumbs on top of the lentil mixture.",
+    "serve immediately, so the breadcrumbs stay crunchy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-fat",
+    "one-pan",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "wholesome-nutty-egyptian-french-lentils-stone-bowl-dolsot",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-nutty-egyptian-french-lentils-stone-bowl-dolsot",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T21:44:20Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "french lentils",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "French lentils",
+    "descriptor": "Wholesome nutty",
+    "dishForm": "Stone-bowl-dolsot"
+  }
+}
