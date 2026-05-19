@@ -1,0 +1,100 @@
+{
+  "title": "Warm Crisp Spanish Shrimp Fideua",
+  "description": "A cultured and cozy Spanish dish featuring succulent shrimp, crispy fideua, and a hint of yeast, all combined in a delicious and high-protein-friendly meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "fideua",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "Cook the fideua according to package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and fully cooked.",
+    "In a small bowl, whisk together the lemon juice, smoked paprika, salt, and black pepper.",
+    "Add the cooked fideua to the skillet with the shrimp and stir to combine.",
+    "Pour the lemon juice mixture over the top of the fideua and shrimp.",
+    "Transfer the skillet to the preheated robata-grill and cook for 2-3 minutes, until the fideua is crispy and golden brown.",
+    "Remove the skillet from the grill and sprinkle the yeast over the top of the fideua.",
+    "Serve the Warm Crisp Spanish Shrimp Fideua hot, garnished with fresh parsley and lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-crisp-spanish-shrimp-fideua",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crisp-spanish-shrimp-fideua",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-19T08:12:41Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "robata-grill",
+    "primaryIngredient": "yeast",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "shrimp",
+    "descriptor": "Warm Crisp",
+    "dishForm": "Fideua"
+  }
+}

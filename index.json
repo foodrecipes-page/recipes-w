@@ -1379,6 +1379,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-crisp-spanish-shrimp-fideua",
+    "title": "Warm Crisp Spanish Shrimp Fideua",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "seafood",
+      "spanish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crisp-syrian-pinto-bean-pilaf",
     "title": "Warm Crisp Syrian Pinto Bean Pilaf",
     "tags": [
@@ -6456,6 +6471,21 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-smoked-algerian-lamb-tagine",
+    "title": "Warm Smoked Algerian Lamb Tagine",
+    "tags": [
+      "flexitarian-friendly",
+      "lamb-based",
+      "north-african",
+      "one-pot",
+      "smoky",
+      "special-occasion"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 180,
     "shard": "w"
   },
   {
