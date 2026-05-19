@@ -1,0 +1,107 @@
+{
+  "title": "wholesome creamy filipino chicken paella",
+  "description": "a keto-friendly filipino twist on the classic spanish paella, featuring juicy chicken, creamy sauce, and fragrant rosemary. perfect for meal prep and a delicious weeknight dinner.",
+  "cuisine": "filipino",
+  "diet": [
+    "keto",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "uncooked Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium-high heat.",
+    "add the chopped onion and cook until translucent, about 5 minutes.",
+    "add the minced garlic and cook for an additional 1 minute.",
+    "add the chicken breast and cook until browned on both sides, about 5-6 minutes.",
+    "add the chicken broth, Arborio rice, grated cheddar cheese, dried rosemary, salt, and black pepper.",
+    "bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "stir in the heavy cream and continue to simmer, uncovered, for an additional 5 minutes.",
+    "use a mushroom steamer to cook the rice until it is tender and the liquid has been absorbed.",
+    "serve the paella hot, garnished with additional rosemary if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "filipino",
+    "keto-friendly",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 40
+  },
+  "slug": "wholesome-creamy-filipino-chicken-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-creamy-filipino-chicken-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T08:09:42Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "rosemary",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Chicken",
+    "descriptor": "Wholesome Creamy",
+    "dishForm": "Paella"
+  }
+}
