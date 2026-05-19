@@ -1,0 +1,109 @@
+{
+  "title": "Japanese Macaroni Pasta with Crumbly Topping",
+  "description": "A savory, lacto-vegetarian Japanese dish featuring macaroni, a crumbly topping, and comforting flavors.",
+  "cuisine": "Japanese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Macaroni",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Kombu",
+      "amount": "1 piece, 2 x 6 inch long",
+      "notes": "Dried seaweed"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sake",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Grated daikon radish",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Grated carrot",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Cook the macaroni in boiling water until it is al dente, then set it aside.",
+    "Combine the kombu, soy sauce, sake, and sesame oil in a saucepan to make the dashi broth.",
+    "Add the miso paste to the dashi broth and whisk until it's smooth, then set it aside.",
+    "Heat the butter in a large skillet over medium heat.",
+    "Add the grated daikon radish and carrot to the skillet and cook until they are softened.",
+    "Add the cooked macaroni to the skillet and stir to combine with the vegetables.",
+    "Add the dashi broth to the skillet and stir to combine.",
+    "Transfer the macaroni mixture to a baking dish.",
+    "Top the macaroni mixture with the breadcrumbs and sesame seeds.",
+    "Bake the macaroni in a preheated oven at 375°F (190°C) for 20 minutes.",
+    "Remove the macaroni from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "japanese",
+    "kansai",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 18,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "warm-crumbly-japanese-macaroni-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crumbly-japanese-macaroni-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T23:44:41Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "knead",
+    "primaryIngredient": "macaroni",
+    "diet": "lacto-vegetarian",
+    "region": "kansai",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "macaroni",
+    "descriptor": "warm crumbly",
+    "dishForm": "Pasta"
+  }
+}
