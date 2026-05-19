@@ -1,0 +1,115 @@
+{
+  "title": "Wrapped in Lotus Leaf Italian Sweet Sausage and Chicken Focaccia",
+  "description": "A one-pot Italian dish featuring brown sugar, steam, and a hint of umami, wrapped in a crispy lotus leaf.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lotus leaves",
+      "amount": "6-8",
+      "notes": "Fresh lotus leaves for wrapping the focaccia"
+    },
+    {
+      "name": "Italian sweet sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Focaccia dough",
+      "amount": "",
+      "notes": "Homemade or store-bought focaccia dough"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the Italian sweet sausage and brown sugar to the skillet and cook, breaking up the sausage with a spoon, until the sausage is no longer pink, about 5 minutes.",
+    "Add the chicken breast to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Transfer the skillet to the oven and cook for 10-12 minutes, until the focaccia is golden brown and the cheese is melted.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Transfer the focaccia to a cutting board and let it cool slightly.",
+    "Transfer the focaccia to a serving plate and top with fresh basil and grated Parmesan cheese.",
+    "Cut the focaccia into slices and serve hot, wrapped in lotus leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "italian",
+    "one-pan",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "wrapped-in-lotus-leaf-italian-sweet-sausage-and-chicken-italian-style-focaccia",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wrapped-in-lotus-leaf-italian-sweet-sausage-and-chicken-italian-style-focaccia",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T21:55:26Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "steam",
+    "primaryIngredient": "brown sugar",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "sweet sausage and chicken",
+    "descriptor": "Wrapped in Lotus Leaf",
+    "dishForm": "Italian-Style Focaccia"
+  }
+}
