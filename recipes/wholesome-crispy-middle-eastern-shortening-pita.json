@@ -1,0 +1,95 @@
+{
+  "title": "wholesome crispy middle-eastern shortening pita",
+  "description": "delicious post-workout middle-eastern dish featuring shortening, double-rise-bread, and a crispy texture.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shortening",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the warm water, yeast, and 1 tsp of sugar. Let it sit for 5 minutes.",
+    "Add the flour, salt, and remaining 1 tsp of sugar to the bowl. Mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 425°F (220°C).",
+    "Punch down the dough and divide it into 4-6 equal portions.",
+    "Roll out each portion into a thin circle.",
+    "Heat a non-stick skillet or griddle over medium-high heat. Cook the pita for 1-2 minutes on each side, until it's crispy and golden brown.",
+    "Brush the pita with shortening and sprinkle with sesame seeds.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free-friendly",
+    "gluten-free-friendly",
+    "healthy-bread",
+    "middle-eastern-cuisine",
+    "post-workout-snack"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "wholesome-crispy-middle-eastern-shortening-pita",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-crispy-middle-eastern-shortening-pita",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T12:58:36Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "shortening",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "middle-eastern",
+    "mainIngredient": "shortening",
+    "descriptor": "wholesome crispy",
+    "dishForm": "pita"
+  }
+}
