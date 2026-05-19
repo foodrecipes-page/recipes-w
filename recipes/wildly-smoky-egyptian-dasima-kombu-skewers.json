@@ -1,0 +1,102 @@
+{
+  "title": "Wildly Smoky Egyptian Dasima Kombu Skewers",
+  "description": "A spicy and crispy Egyptian dish featuring dasima-kombu, perfect for a lazy Sunday, with a smoky flavor and high protein content.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dasima kombu",
+      "amount": "1 package",
+      "notes": "dried"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Egyptian spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the Egyptian spice mix, smoked paprika, garlic, lemon juice, olive oil, salt, black pepper, and chili flakes.",
+    "Add the chicken breast pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken and dasima kombu onto skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking and grill the skewers for 10-12 minutes, turning occasionally.",
+    "Check the chicken for doneness, it should reach an internal temperature of 165 degrees Fahrenheit.",
+    "Let the skewers rest for a few minutes before serving.",
+    "Serve the skewers hot, garnished with additional lemon wedges and chili flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian-cuisine",
+    "grilled",
+    "high-protein",
+    "lazy-sunday",
+    "smoky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "wildly-smoky-egyptian-dasima-kombu-skewers",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/wildly-smoky-egyptian-dasima-kombu-skewers",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-19T08:11:08Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "smoke-hot",
+    "primaryIngredient": "dasima-kombu",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "dasima kombu",
+    "descriptor": "Wildly Smoky",
+    "dishForm": "Skewers"
+  }
+}
