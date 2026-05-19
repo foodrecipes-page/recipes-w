@@ -1,0 +1,103 @@
+{
+  "title": "Warm Spring Egyptian Rice Bake",
+  "description": "A nutty, springy Egyptian-inspired dish featuring juniper berries, all wrapped in a crispy pastry.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "250g",
+      "notes": "jasmin rice variant"
+    },
+    {
+      "name": "Milk",
+      "amount": "200ml",
+      "notes": "1% fat content"
+    },
+    {
+      "name": "Butter",
+      "amount": "60g",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Jasmine tea",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Juniper berries",
+      "amount": "1 tsp",
+      "notes": "whole"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pastry dough",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "Prepare the pastry dough according to package instructions.",
+    "Heat butter in a pan over medium heat.",
+    "Add cumin and paprika powder. Cook for 1 minute.",
+    "Add jasmine tea and juniper berries. Cook for 1 minute more.",
+    "Add milk and bring to a simmer.",
+    "Add rice to the pan and stir well to coat rice in spice mixture.",
+    "Transfer the rice mixture to a baking dish and smooth the top.",
+    "Roll out the pastry dough to fit over the rice mixture and crimp edges to seal.",
+    "Place the pastry-topped rice bake in the oven and bake for 40 minutes.",
+    "Remove from oven and garnish with fresh parsley.",
+    "Let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easter",
+    "middle-eastern",
+    "spring",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-spring-egyptian-rice-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spring-egyptian-rice-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T11:02:04Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "en-croute",
+    "primaryIngredient": "juniper berries",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "rice",
+    "descriptor": "Warm Spring",
+    "dishForm": "Bake"
+  }
+}
