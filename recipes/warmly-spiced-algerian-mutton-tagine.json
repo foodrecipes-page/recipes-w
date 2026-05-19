@@ -1,0 +1,115 @@
+{
+  "title": "Warmly Spiced Algerian Mutton Tagine",
+  "description": "A hearty, solo-dinner Algerian dish featuring tender mutton and a rich, aromatic spice blend. Serve with couscous or crusty bread for a satisfying meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried mutton shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "whole"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon",
+      "notes": "whole"
+    },
+    {
+      "name": "cinnamon sticks",
+      "amount": "2",
+      "notes": "broken"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "additional"
+    },
+    {
+      "name": "ground cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat.",
+    "Add the cumin seeds and coriander seeds; toast, stirring frequently, until fragrant, 1-2 minutes.",
+    "Add the sliced ginger and cook, stirring occasionally, until slightly caramelized, 4-5 minutes.",
+    "Add the chopped onion and cook, stirring occasionally, until softened, 8-10 minutes.",
+    "Add the minced garlic and cook, stirring constantly, 1 minute.",
+    "Add the mutton pieces and cook, stirring occasionally, until browned, 5-7 minutes.",
+    "Add the cinnamon sticks, ground cinnamon, ground cayenne pepper (if using), and 2 cups of water.",
+    "Bring to a boil, then reduce the heat to low, cover, and simmer, stirring occasionally, until the mutton is tender, 2-3 hours.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with lemon wedges."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 120,
+  "totalTimeMin": 145,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "high-protein",
+    "main-course",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 48,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "warmly-spiced-algerian-mutton-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-spiced-algerian-mutton-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T09:41:57Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "wok-hei",
+    "primaryIngredient": "boiling water",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Mutton",
+    "descriptor": "Warmly Spiced",
+    "dishForm": "Tagine"
+  }
+}
