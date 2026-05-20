@@ -1,0 +1,120 @@
+{
+  "title": "Warm Watery Ethiopian Mushrooms Misir Wot",
+  "description": "A flavorful and aromatic one-pot dish originating from Ethiopia, showcasing a harmonious balance of spices and succulent mushrooms. This keto-friendly recipe serves as a perfect accompaniment to various traditional Ethiopian dishes.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "1 1/2 cups",
+      "notes": "Portobello or cremini mushrooms work well for this recipe."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "",
+      "Garlic Powder": "0.25 teaspoon"
+    },
+    {
+      "name": "Tumeric",
+      "amount": "1 1/2 teaspoons",
+      "notes": "",
+      "Tumeric Powder": "1.5 teaspoons"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "",
+      "Cumin Powder": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "",
+      "Paprika Powder": "0.5 teaspoon"
+    },
+    {
+      "name": "Cayenne",
+      "amount": "1/4 teaspoon",
+      "notes": "",
+      "Cayenne Powder": "0.25 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 1/2 teaspoons",
+      "notes": "",
+      "Salt": "1.5 teaspoons"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "",
+      "Black Pepper": "0.5 teaspoon"
+    },
+    {
+      "name": "Bhuna Spice Mix",
+      "amount": "1 1/2 teaspoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 8 minutes.",
+    "Add the minced garlic and cook for another minute, stirring constantly.",
+    "Add the mushrooms, tumeric, cumin, paprika, cayenne, salt, and black pepper. Cook for 5 minutes, stirring occasionally.",
+    "Add the bhuna spice mix and cook for another 2 minutes, stirring constantly.",
+    "Reduce heat to low and simmer for 15-20 minutes, or until the sauce thickens and the flavors have melded together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-weeknight-meal",
+    "ethiopian",
+    "keto",
+    "mushroom",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "warm-watery-ethiopian-mushrooms-misir-wot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-watery-ethiopian-mushrooms-misir-wot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:55:52Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "bhuna",
+    "primaryIngredient": "mushrooms",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "warm watery",
+    "dishForm": "Misir Wot"
+  }
+}
