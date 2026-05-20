@@ -1,0 +1,104 @@
+{
+  "title": "Wholesome Japanese Rice Bowl",
+  "description": "A simple, pungent, and snappy Japanese dish featuring ghee and dashi-extract, perfect for a kid-friendly meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "140g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "10g",
+      "notes": "replaced with ghee for a unique flavor"
+    },
+    {
+      "name": "dried shiitake mushrooms",
+      "amount": "50g"
+    },
+    {
+      "name": "dashi-extract",
+      "amount": "20g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "5g"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "5g"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "10g"
+    },
+    {
+      "name": "green onions",
+      "amount": "20g"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "2g"
+    },
+    {
+      "name": "salt",
+      "amount": "1g"
+    }
+  ],
+  "instructions": [
+    "Rinse the Japanese short-grain rice thoroughly in a fine-mesh strainer.",
+    "In a medium saucepan, combine the 140g of Japanese short-grain rice and 260g of water.",
+    "Reduce heat to low, cover, and cook for 18 minutes or until the water is absorbed.",
+    "While the rice is cooking, heat 10g of ghee in a small saucepan over medium heat.",
+    "Add the 50g of dried shiitake mushrooms to the saucepan and saut\u00195e until fragrant.",
+    "Add the 20g of dashi-extract, 5g of soy sauce, and 5g of maple syrup to the saucepan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 2 minutes or until the liquid has slightly thickened.",
+    "Fluff the cooked Japanese short-grain rice with a fork and stir in the sesame seeds and chopped green onions.",
+    "Divide the Japanese short-grain rice among four bowls.",
+    "Top each bowl with the shiitake mushroom dashi sauce and drizzle with toasted sesame oil.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "kid-friendly",
+    "low-fat",
+    "plant-based",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "wholesome-japanese-rice-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-japanese-rice-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:25:55Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "dashi-extract",
+    "primaryIngredient": "ghee",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "rice",
+    "descriptor": "wholesome",
+    "dishForm": "Bowl"
+  }
+}
