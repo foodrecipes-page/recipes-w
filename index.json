@@ -7405,6 +7405,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spanish-gambas-paella",
+    "title": "Warm Spanish Gambas Paella",
+    "tags": [
+      "entree",
+      "one-pan",
+      "paella",
+      "seafood",
+      "spanish",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spanish-oysters-paella",
     "title": "Warm Spanish Oysters Paella",
     "tags": [
