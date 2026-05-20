@@ -1,0 +1,84 @@
+{
+  "title": "Whole30 Wholesome Croatian Grapes Grill",
+  "description": "A simple and flavorful dish featuring pungent grapes and yuzu-cure, perfect for a solo dinner. Serve immediately after grilling for the best results.",
+  "cuisine": "Croatian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grapes",
+      "amount": "1 pint"
+    },
+    {
+      "name": "Yuzu Cure",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "Raclette-Grill",
+      "amount": "1"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to 375°F. Prepare the yuzu cure by mixing it with lemon zest, black pepper, and salt in a small bowl. Brush the grapes with olive oil and season with the yuzu cure mixture.",
+    "Place the grapes on the preheated raclette-grill and cook for 3-5 minutes per side, or until caramelized and tender.",
+    "Remove the grapes from the grill and let cool slightly. Garnish with fresh thyme and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "grill",
+    "healthy",
+    "simple",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 2
+  },
+  "slug": "whole30-wholesome-croatian-grapes-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/whole30-wholesome-croatian-grapes-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:07:29Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "grapes",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Grapes",
+    "descriptor": "Whole30 Wholesome",
+    "dishForm": "Grill"
+  }
+}
