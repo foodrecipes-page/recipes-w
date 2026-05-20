@@ -250,6 +250,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-bouncy-chinese-fenugreek-wonton-dumplings",
+    "title": "Warm Bouncy Chinese Fenugreek Wonton Dumplings",
+    "tags": [
+      "fenugreek",
+      "high-protein",
+      "homemade-dumplings",
+      "low-carb-dumplings",
+      "one-pan",
+      "weeknight",
+      "wontons"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "warm-bouncy-irish-potato-hash",
     "title": "Warm Bouncy Irish Potato Hash",
     "tags": [
@@ -4483,6 +4499,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 36,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-japanese-rice-donabe",
+    "title": "Warm Japanese Rice Donabe",
+    "tags": [
+      "brunch",
+      "donabe",
+      "japanese",
+      "one-pan",
+      "satvik",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {

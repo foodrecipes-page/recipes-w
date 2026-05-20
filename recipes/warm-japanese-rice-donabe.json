@@ -1,0 +1,67 @@
+{
+  "title": "Warm Japanese Rice Donabe",
+  "description": "A warm, floral, and chewy Japanese dish made with donabe and featuring nuka-pickled vegetables, served with a refreshing cider sauce. Perfect for a satvik-friendly brunch.",
+  "cuisine": "Japanese",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sushi rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Donabe",
+      "amount": "",
+      "notes": "a traditional Japanese clay pot"
+    }
+  ],
+  "instructions": [
+    "Heat the donabe over low heat.",
+    "Add 1 cup of sushi rice to the donabe and cook for 15 minutes, covered.",
+    "In a small saucepan, heat 1 cup of cider over low heat until warm.",
+    "To assemble, place the cooked rice into bowls, add nuka-pickled vegetables on top, and drizzle with cider sauce.",
+    "Garnish with green onions and serve immediately.",
+    "Serve warm, straight from the donabe.",
+    "Garnish with sesame seeds and additional nuka-pickled vegetables if desired.",
+    "Repeat as necessary to serve a crowd.",
+    "Reheat the cider sauce as needed throughout the meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "donabe",
+    "japanese",
+    "one-pan",
+    "satvik",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 8,
+    "carbs": 90,
+    "fat": 2
+  },
+  "slug": "warm-japanese-rice-donabe",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-japanese-rice-donabe",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:18:03Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "cider",
+    "diet": "satvik",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "rice",
+    "descriptor": "warm",
+    "dishForm": "donabe"
+  }
+}
