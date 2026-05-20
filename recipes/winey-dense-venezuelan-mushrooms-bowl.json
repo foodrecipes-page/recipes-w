@@ -1,0 +1,135 @@
+{
+  "title": "Winey Dense Venezuelan Mushrooms Bowl",
+  "description": "A wine and earthy rich dish from Venezuela featuring wood ear mushrooms, crispy fermented dough and vibrant Korean brass bowl presentation.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wood ear mushrooms",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Long fermentation dough",
+      "amount": "4 oz",
+      "notes": "Use store-bought or homemade cracker dough for the best results."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "Optional for some heat."
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Beef or vegetable broth",
+      "amount": "1 cup",
+      "notes": "Optional."
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 400°F (200°C).",
+    "Break the long fermentation dough into small pieces and toast in the oven for 5 minutes or until crispy.",
+    "Sauté the sliced red onion in olive oil until translucent.",
+    "Add the wood ear mushrooms and sauté until slightly browned.",
+    "Add the white wine vinegar, salt, black pepper, dried oregano, garlic powder, and Korean chili flakes. Stir to combine.",
+    "Add the red wine and water, and bring to a simmer.",
+    "Add the beef or vegetable broth, if using.",
+    "Reduce the heat to low and let simmer for 10 minutes.",
+    "Add the crispy fermented dough to the bowl and top with the mushroom mixture.",
+    "Garnish with chopped cilantro and serve in a Korean brass bowl.",
+    "Serve hot and enjoy the flavors of Venezuela.",
+    "Wine pairing suggestions: Malbec or Merlot.",
+    "This recipe makes 4 servings and can be stored in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "festive",
+    "high-protein",
+    "one-pan",
+    "veggie-rich",
+    "venezuelan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "winey-dense-venezuelan-mushrooms-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-dense-venezuelan-mushrooms-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:02:58Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "wood ear mushrooms",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "mushrooms",
+    "descriptor": "winey dense",
+    "dishForm": "bowl"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Warm French Gochugaru Cassoulet",
+  "description": "A post-workout French dish that combines the resinous flavor of gochugaru with the tanginess of ferment-kimchi in a Mediterranean-friendly cassoulet.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Goat meat",
+      "amount": "500g",
+      "notes": "Use a combination of shoulder and shank for tender results."
+    },
+    {
+      "name": "Ferment-kimchi",
+      "amount": "200g",
+      "notes": "Make sure to squeeze out excess liquid before adding."
+    },
+    {
+      "name": "Cannellini beans",
+      "amount": "250g",
+      "notes": "Overnight soak reduces cooking time."
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Mince to release flavor."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "50ml",
+      "notes": "Choose a high-quality, aromatic oil."
+    },
+    {
+      "name": "Gochugaru",
+      "amount": "2tbsp",
+      "notes": "Adjust to taste, but be cautious of spiciness."
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": "Fresh herb adds a bright flavor."
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": "Classic pairing with goat meat."
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "50g",
+      "notes": "Look for a high-quality, low-sodium option."
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "500ml",
+      "notes": "Use low-sodium to control salt levels."
+    },
+    {
+      "name": "White wine (optional)",
+      "amount": "125ml",
+      "notes": "Add for added depth, but reduce liquid accordingly."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Brown goat meat in olive oil over medium-high heat, then set aside.",
+    "Soak cannellini beans overnight, then simmer in chicken broth until tender.",
+    "Mince garlic and cook in olive oil until fragrant.",
+    "Add thyme and bay leaves to oil, cooking for an additional minute.",
+    "Combine cooked goat meat, garlic mixture, and tomato paste in a large bowl.",
+    "Add ferment-kimchi, gochugaru, and cannellini beans to the bowl, mixing well.",
+    "Transfer mixture to a 9x13 inch baking dish and cover with foil.",
+    "Bake for 30 minutes, then remove foil and continue baking for an additional 20 minutes.",
+    "Taste and adjust seasoning as needed, then garnish with fresh parsley.",
+    "Serve warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 55,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "warm-french-gochugaru-cassoulet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-french-gochugaru-cassoulet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:03:30Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "gochugaru",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "gochugaru",
+    "descriptor": "warm",
+    "dishForm": "cassoulet"
+  }
+}

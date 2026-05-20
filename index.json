@@ -3479,6 +3479,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-french-gochugaru-cassoulet",
+    "title": "Warm French Gochugaru Cassoulet",
+    "tags": [
+      "high-protein",
+      "mediterranean",
+      "one-pan",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 85,
+    "shard": "w"
+  },
+  {
     "slug": "warm-french-mushrooms-fold",
     "title": "Warm French Mushroom Fold",
     "tags": [
@@ -16786,6 +16800,22 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-dense-venezuelan-mushrooms-bowl",
+    "title": "Winey Dense Venezuelan Mushrooms Bowl",
+    "tags": [
+      "comfort-food",
+      "festive",
+      "high-protein",
+      "one-pan",
+      "veggie-rich",
+      "venezuelan-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
