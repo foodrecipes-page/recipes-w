@@ -1,0 +1,124 @@
+{
+  "title": "wholesome snappy turkish lotus root kofte",
+  "description": "a romantic turkish dish featuring crispy lotus root kofte with a peppery kick, perfect for a light dinner or snack.",
+  "cuisine": "turkish",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lotus root (renkon)",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "ground beef",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "beaten eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "mix the ground beef, bulgur, chopped onion, minced garlic, cumin, paprika, black pepper, and salt in a large bowl until well combined.",
+    "add the cornstarch and mix until the mixture is sticky and holds together.",
+    "cover the mixture and refrigerate for at least 30 minutes.",
+    "preheat the oil in a deep frying pan to 350\u000656.",
+    "shape the mixture into small kofte and dust with flour.",
+    "deep-fry the kofte until crispy and golden brown, about 3-4 minutes on each side.",
+    "drain the kofte on paper towels and serve hot with your favorite dipping sauce.",
+    "meanwhile, slice the lotus root into thin rounds and soak in cold water for at least 30 minutes to remove excess starch.",
+    "drain the lotus root slices and pat dry with paper towels.",
+    "deep-fry the lotus root slices until crispy and golden brown, about 2-3 minutes on each side.",
+    "drain the lotus root slices on paper towels and serve with the kofte.",
+    "for an extra crispy coating, sprinkle the kofte and lotus root slices with a pinch of cornstarch before deep-frying."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "easy-to-make",
+    "gluten-free",
+    "kofte",
+    "snack",
+    "sugar-free",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "wholesome-snappy-turkish-lotus-root-kofte",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-snappy-turkish-lotus-root-kofte",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:01:49Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "renkon-lotus-root",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Lotus Root",
+    "descriptor": "wholesome snappy",
+    "dishForm": null
+  }
+}
