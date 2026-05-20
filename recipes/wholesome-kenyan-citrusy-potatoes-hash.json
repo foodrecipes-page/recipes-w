@@ -1,0 +1,115 @@
+{
+  "title": "wholesome kenyan citrusy-potatoes hash",
+  "description": "a lacto-vegetarian-friendly kenyan dish featuring matcha and beurre monte that's perfect for a lazy sunday morning.",
+  "cuisine": "kenyan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "diced potatoes",
+      "amount": "4 medium",
+      "notes": "peeled and chopped into 1 inch cubes"
+    },
+    {
+      "name": "matcha powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beurre monte",
+      "amount": "4 tablespoons",
+      "notes": "see note below for recipe"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium heat.",
+    "add the chopped onion and sauté until softened, about 3-4 minutes.",
+    "add the minced garlic and sauté for another minute, until fragrant.",
+    "add the diced potatoes and sauté for about 5 minutes, until they start to brown.",
+    "sprinkle the matcha powder over the potatoes and stir to combine.",
+    "add the lemon juice, orange juice, salt, and black pepper, and stir to combine.",
+    "use a spatula to roughly break up the potatoes into smaller clumps, then stir in the beurre monte until the potatoes are well coated.",
+    "serve hot, garnished with chopped fresh cilantro.",
+    "note: to make beurre monte, melt 2 tablespoons of butter in a small saucepan over low heat, then whisk in 2 tablespoons of heavy cream. continue whisking until the mixture thickens and comes away from the sides of the pan, then remove from heat and set aside."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "high-protein",
+    "kenyan",
+    "one-pan",
+    "potatoes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "wholesome-kenyan-citrusy-potatoes-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-kenyan-citrusy-potatoes-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:39:18Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "beurre-monte",
+    "primaryIngredient": "matcha",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "citrusy-potatoes",
+    "descriptor": "wholesome",
+    "dishForm": "hash"
+  }
+}
