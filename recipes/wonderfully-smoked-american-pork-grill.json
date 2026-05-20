@@ -1,0 +1,99 @@
+{
+  "title": "Wonderfully Smoked American Pork Grill",
+  "description": "A deliciously smoky American-style pork dish featuring tender, juicy meat and a sweet, caramelized crust. Perfect for a lazy Sunday afternoon.",
+  "cuisine": "american",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 lbs",
+      "notes": "preferably with a good fat cap"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/4 cup",
+      "notes": "light brown soft sugar"
+    },
+    {
+      "name": "Smoking wood chips (e.g., apple or cherry)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh rosemary leaves",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Bourbon or whiskey (optional)",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to 225-250°F (110-120°C) for low and slow cooking.",
+    "In a small bowl, mix together brown sugar, salt, black pepper, and garlic powder.",
+    "Rub the sugar mixture all over the pork shoulder, making sure to coat it evenly.",
+    "Place the pork shoulder in a large zip-top plastic bag or a non-reactive container with a lid.",
+    "Add the smoking wood chips, olive oil, and rosemary leaves to the bag or container with the pork.",
+    "Seal the bag or cover the container and refrigerate for at least 2 hours or overnight.",
+    "Remove the pork from the refrigerator and let it sit at room temperature for 30 minutes.",
+    "Place the pork shoulder on the grill, closing the lid to trap the smoke and heat.",
+    "Smoke the pork for 4-5 hours, or until it reaches an internal temperature of 160°F (71°C).",
+    "If using, brush the pork with bourbon or whiskey during the last 30 minutes of cooking.",
+    "Remove the pork from the grill and let it rest for 10-15 minutes before slicing and serving.",
+    "Serve the pork with your choice of sides, such as coleslaw or baked beans."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "low-carb",
+    "smoked-meat",
+    "summer",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 36
+  },
+  "slug": "wonderfully-smoked-american-pork-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wonderfully-smoked-american-pork-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T13:36:53Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "grill",
+    "primaryIngredient": "light brown soft sugar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "pork",
+    "descriptor": "Wonderfully Smoked",
+    "dishForm": "Grill"
+  }
+}
