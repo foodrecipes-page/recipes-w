@@ -1,0 +1,114 @@
+{
+  "title": "wholesome energizing tunisian turkey mince tagine",
+  "description": "A hearty, high-protein, one-pan Tunisian dish featuring turkey mince, made with aromatic spices and served with crusty bread. Perfect for a weeknight dinner.",
+  "cuisine": "tunisian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground turkey",
+      "amount": "500g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": "roasted"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "100ml"
+    },
+    {
+      "name": "crusty bread",
+      "amount": "1 loaf"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large, heavy-bottomed pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, stirring constantly.",
+    "Add the grated carrots and cook until they start to soften, about 3-4 minutes.",
+    "Add the toasted cumin seeds, roasted coriander powder, turmeric powder, and cayenne pepper. Stir well.",
+    "Add the ground turkey and cook, breaking it up with a spoon, until it is no longer pink, about 5-6 minutes.",
+    "Add the apricot jam and chicken broth. Stir well to combine.",
+    "Bring the mixture to a simmer and cook, covered, for 10-12 minutes, or until the liquid has thickened and the flavors have melded together.",
+    "Season the tagine with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley and crusty bread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "energizing",
+    "high-protein",
+    "jain-friendly",
+    "one-pan",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "wholesome-energizing-tunisian-turkey-mince-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-energizing-tunisian-turkey-mince-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T14:54:39Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "turkey mince",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Turkey mince",
+    "descriptor": "wholesome energizing",
+    "dishForm": "Tagine"
+  }
+}
