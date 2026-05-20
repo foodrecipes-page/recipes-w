@@ -1,0 +1,135 @@
+{
+  "title": "Warm Crispy Moroccan Chickpeas-Lamb Tagine",
+  "description": "A flavorful and crunchy vegetarian-friendly Moroccan dish featuring Chinese leaf and served in a ssam-wrap.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb mince",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2cm",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Chinese leaf",
+      "amount": "4-6 leaves",
+      "notes": ""
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the lamb mince and cook, breaking it up with a spoon, until browned, 5-7 minutes.",
+    "Add the onion, ginger, and garlic and cook, stirring occasionally, for 5 minutes.",
+    "Add the cumin, cayenne pepper, salt, and black pepper, and cook for 1 minute.",
+    "Add the chickpeas, Chinese leaf, pomegranate molasses, mustard seeds, and coriander.",
+    "Stir well to combine, then reduce heat to low and simmer, uncovered, for 10-15 minutes, stirring occasionally.",
+    "Meanwhile, toast the mustard seeds in a small pan over medium heat, stirring frequently, until fragrant, 2-3 minutes.",
+    "Chop the chickpea mixture into small pieces and divide among ssam-wraps or wraps.",
+    "Sprinkle with toasted mustard seeds, chopped parsley, and a dollop of yogurt, if desired.",
+    "Serve warm and crispy, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-weeknight",
+    "gluten-free",
+    "moroccan",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "warm-crispy-moroccan-chickpeas-lamb-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crispy-moroccan-chickpeas-lamb-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:52:01Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "chinese leaf",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Chickpeas-Lamb",
+    "descriptor": "Warm Crispy",
+    "dishForm": "Tagine"
+  }
+}
