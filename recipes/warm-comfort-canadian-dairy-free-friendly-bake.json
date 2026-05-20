@@ -1,0 +1,104 @@
+{
+  "title": "Warm Maple and Elderflower Binchotan Grilled Oat Bake",
+  "description": "A light, comforting Canadian-inspired dish featuring the sweetness of maple and the subtle flavor of elderflower, all without any dairy products. This recipe is perfect for a weeknight dinner or a cozy brunch.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 1/4 cups",
+      "notes": "old-fashioned oats, not steel-cut"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "elderflower syrup",
+      "amount": "2 tablespoons",
+      "notes": "see notes on preparation"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1 cup",
+      "notes": "such as almond or soy milk"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "4 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup",
+      "notes": "optional topping"
+    },
+    {
+      "name": "dried elderflower buds",
+      "amount": "1 teaspoon",
+      "notes": "see notes on preparation"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium-high heat.",
+    "In a large mixing bowl, combine the oats, maple syrup, elderflower syrup, non-dairy milk, coconut oil, vanilla extract, and salt. Mix well until the oats are evenly coated.",
+    "Add in the chopped almonds and dried elderflower buds, if using, and fold them into the oat mixture.",
+    "Transfer the mixture to a greased 8x8 inch baking dish and smooth the top.",
+    "Place the dish on the binchotan grill and cook for 25 minutes, or until the top is lightly browned and the edges are set.",
+    "Remove the dish from the grill and let it cool for a few minutes before slicing and serving.",
+    "Serve warm, topped with additional chopped almonds and dried elderflower buds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "dairy-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "warm-comfort-canadian-dairy-free-friendly-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-comfort-canadian-dairy-free-friendly-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:48:00Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "elderflower",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "dairy-free-friendly",
+    "descriptor": "warm comfort",
+    "dishForm": "Bake"
+  }
+}
