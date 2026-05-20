@@ -1,0 +1,114 @@
+{
+  "title": "Warm Energinzing Sweet Argentinian Serrano Ham Nigiri",
+  "description": "Sweet and energizing argentinian snack featuring serrano ham, shaped like nigiri, served warm to bring out the flavors. Perfect for weeknights or special occasions.",
+  "cuisine": "argentinian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Serrano Ham",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Sushi Rice Mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Oranges",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "as needed",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "for brushing",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak the sushi rice mix according to the package instructions, then set aside to cool.",
+    "Cut the serrano ham slices into thin strips, and set aside.",
+    "Mix the brown sugar and dijon mustard in a small bowl, and set aside.",
+    "Prepare a baking sheet or sushi mat with sesame oil for shaping the nigiri.",
+    "Once the sushi rice is cool, mix it with the brown sugar and dijon mustard mixture.",
+    "Shape the sushi rice mix into small nigiri shapes, and place a slice of serrano ham on top of each.",
+    "Drizzle the tops of the nigiri with sesame oil and garnish with sesame seeds and fresh cilantro.",
+    "Place the nigiri on a baking sheet lined with parchment paper, and bake in a preheated oven at 375°F (190°C) for 5 minutes.",
+    "Remove from the oven and let cool for a minute or two, then serve warm.",
+    "Garnish with a slice of fresh orange and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "easy-sushi",
+    "nigiri",
+    "one-pan",
+    "serrano-ham",
+    "sushi",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "warm-energizing-sweet-argentinian-serrano-ham-nigiri",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-energizing-sweet-argentinian-serrano-ham-nigiri",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:58:42Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "serrano ham",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "serrano ham",
+    "descriptor": "warm energizing sweet",
+    "dishForm": "nigiri"
+  }
+}
