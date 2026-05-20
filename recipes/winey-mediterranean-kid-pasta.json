@@ -1,0 +1,123 @@
+{
+  "title": "Winey Mediterranean Kid Pasta",
+  "description": "A tasty, winey, and springy Mediterranean dish that's perfect for kids, featuring balsamic vinegar and a nut-free sauce. This recipe is easy to make and requires minimal ingredients.",
+  "cuisine": "Mediterranean",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Penne pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Bhuna curry paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed cherry tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced zucchini",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the zucchini and cook for 3-4 minutes until tender.",
+    "Add the crushed tomatoes, curry paste, cumin, salt, and pepper. Stir well to combine.",
+    "Add the cooked pasta to the skillet and toss with the tomato mixture.",
+    "Stir in the balsamic vinegar and Parmesan cheese.",
+    "Transfer the pasta to a serving dish and garnish with fresh basil leaves.",
+    "Serve immediately and enjoy!",
+    "Cook for 2-3 minutes until the cheese is melted and the sauce is bubbly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meals",
+    "kid-friendly",
+    "mediterranean",
+    "nut-free",
+    "one-pan",
+    "quick-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "winey-mediterranean-kid-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-mediterranean-kid-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:26:50Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "bhuna",
+    "primaryIngredient": "balsamic vinegar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "kid",
+    "descriptor": "Winey",
+    "dishForm": "Pasta"
+  }
+}

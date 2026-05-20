@@ -1,0 +1,117 @@
+{
+  "title": "Winey Velvety Argentinian Samphire Empanadas",
+  "description": "A crowd-pleaser featuring samphire, confit-tomato, and an Ayurvedic-tamasic-friendly twist. These empanadas are perfect for a dinner party.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "samphire",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "confit tomato",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "500g",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "chicken fat",
+      "amount": "120g",
+      "notes": "melted, cooled, for brushing empanadas"
+    },
+    {
+      "name": "ayurvedic salt",
+      "amount": "20g",
+      "notes": "",
+      "type": "salt",
+      "notes2": "for seasoning empanadas, not regular salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "10g",
+      "notes": "",
+      "type": "pepper"
+    },
+    {
+      "name": "red wine",
+      "amount": "200ml",
+      "notes": "cooled, for brushing empanadas"
+    },
+    {
+      "name": "cumin",
+      "amount": "5g",
+      "notes": "",
+      "type": "spice"
+    }
+  ],
+  "instructions": [
+    "Combine 300g of the flour, salt, and black pepper in a large bowl. ",
+    "Mix the wet ingredients and add them to the dry ingredients. ",
+    "Knead the dough for 5 minutes until elastic. ",
+    "Divide the dough into 8 equal pieces. ",
+    "Roll each piece into a ball and flatten it slightly. ",
+    "Place a tablespoon of the samphire and confit tomato mixture in the center of each flattened dough circle. ",
+    "Fold the dough in half to form a half-moon shape, and press the edges together to seal the empanada. ",
+    "Brush the tops of the empanadas with melted chicken fat and red wine. ",
+    "Place the empanadas on a baking sheet lined with parchment paper. ",
+    "Brush the empanadas with additional melted chicken fat for a golden glaze. ",
+    "Bake the empanadas in a preheated oven at 200°C for 25 minutes, or until golden brown. ",
+    "Serve warm with a side of salsa criolla or chimichurri. ",
+    "For the confit tomato, heat 100g of olive oil in a pan over medium heat. ",
+    "Add a minced onion and sauté until translucent. ",
+    "Add a minced garlic clove and sauté for 1 minute. ",
+    "Add the crushed tomatoes and cook for 20 minutes, stirring occasionally. ",
+    "Season with cumin, salt, and black pepper to taste. ",
+    "Let cool before using in the empanada filling. ",
+    "For the samphire, chop it into 2.5cm pieces and sauté in a pan with 20g of olive oil until tender. ",
+    "Season with salt, black pepper, and a pinch of cumin. ",
+    "Let cool before using in the empanada filling."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "easy-dinner",
+    "empanada",
+    "samphire",
+    "vegetarian",
+    "velvety",
+    "weeknight",
+    "wined"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "winey-velvety-argentinian-samphire-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-velvety-argentinian-samphire-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:26:23Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "confit-tomato",
+    "primaryIngredient": "samphire",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "samphire",
+    "descriptor": "winey velvety",
+    "dishForm": "Empanadas"
+  }
+}

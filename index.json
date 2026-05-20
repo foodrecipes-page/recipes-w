@@ -17636,6 +17636,22 @@
     "shard": "w"
   },
   {
+    "slug": "winey-mediterranean-kid-pasta",
+    "title": "Winey Mediterranean Kid Pasta",
+    "tags": [
+      "easy-meals",
+      "kid-friendly",
+      "mediterranean",
+      "nut-free",
+      "one-pan",
+      "quick-recipes",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "winey-moroccan-cherry-amlou",
     "title": "Winey Moroccan Cherry Amlou",
     "tags": [
@@ -17868,6 +17884,23 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-velvety-argentinian-samphire-empanadas",
+    "title": "Winey Velvety Argentinian Samphire Empanadas",
+    "tags": [
+      "argentinian",
+      "easy-dinner",
+      "empanada",
+      "samphire",
+      "vegetarian",
+      "velvety",
+      "weeknight",
+      "wined"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 70,
     "shard": "w"
   },
   {
