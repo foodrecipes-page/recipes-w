@@ -1,0 +1,115 @@
+{
+  "title": "Winey Pillowy German Mirin-Hon Bake",
+  "description": "A comforting and indulgent German dish perfect for a lazy Sunday. This winey, pillowy bake is made with sweet Mirin-hon and features the tangy flavor of Nuka-pickle.",
+  "cuisine": "German",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mirin-hon",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Nuka-pickle",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "Wine",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "10g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a large mixing bowl, combine the Mirin-hon, Nuka-pickle, bread crumbs, and butter. Mix until well combined.",
+    "In a separate bowl, whisk together the flour, baking powder, eggs, milk, wine, salt, and black pepper. ",
+    "Add the wet ingredients to the dry ingredients and mix until a smooth batter forms.",
+    "Pour the batter into a greased 20cm x 20cm baking pan and smooth the top.",
+    "Bake for 35 minutes or until the top is golden brown and a toothpick inserted into the center comes out clean.",
+    "Remove the bake from the oven and let it cool for 10 minutes.",
+    "Sprinkle chopped parsley on top and serve warm.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 40
+  },
+  "slug": "winey-pillowy-german-mirin-hon-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-pillowy-german-mirin-hon-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:17:57Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "mirin-hon",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Mirin-hon",
+    "descriptor": "Winey pillowy",
+    "dishForm": "Bake"
+  }
+}
