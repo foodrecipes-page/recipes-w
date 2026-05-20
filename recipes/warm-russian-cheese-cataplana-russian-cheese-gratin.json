@@ -1,0 +1,78 @@
+{
+  "title": "warm russian cheese cataplana russian cheese gratin",
+  "description": "a grassy, cheese-pull monsoon russian dish featuring wholegrain mustard and score-fat that serves 4 people, requiring moderate difficulty and around 45 minutes of preparation and cooking time. this cataplana recipe is a vegan-friendly option, ideal for a cozy dinner.",
+  "cuisine": "russian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat pasta",
+      "amount": "200 g",
+      "notes": ""
+    },
+    {
+      "name": "plant-based butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "wholegrain mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "score-fat",
+      "amount": "50 ml",
+      "notes": ""
+    },
+    {
+      "name": "unsalted non-dairy milk",
+      "amount": "250 ml",
+      "notes": "such as soy or oat milk"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "250 g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375°f (190°c)"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cataplana",
+    "cheese-lover",
+    "comfort-food",
+    "russian-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 80,
+    "fat": 50
+  },
+  "slug": "warm-russian-cheese-cataplana-russian-cheese-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-russian-cheese-cataplana-russian-cheese-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:36:12Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "score-fat",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "cheese",
+    "descriptor": "Warm Russian Cheese Cataplana",
+    "dishForm": "Gratin"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "title": "wholesome crispy tunisian fromage-blanc bisque",
+  "description": "quick-fix tunisian dish featuring fromage-blanc, spherified, high-protein-friendly. charred, crispy, and comforting",
+  "cuisine": "tunisian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fromage-blanc",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "300ml",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "egg whites",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat olive oil in a large saucepan over medium heat.",
+    "add garlic, ginger, cumin, smoked paprika, salt, and black pepper. saut for 1 minute.",
+    "add fromage-blanc and stir until melted.",
+    "add chicken broth and bring to a boil.",
+    "spherify mixture using egg whites.",
+    "char crispy on a non-stick skillet at 375f for 3 minutes on each side.",
+    "serve immediately with additional heavy cream if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "quick-fix",
+    "spherified",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "wholesome-crispy-tunisian-fromage-blanc-bisque",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-crispy-tunisian-fromage-blanc-bisque",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:36:03Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "spherify",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "fromage-blanc",
+    "descriptor": "wholesome crispy",
+    "dishForm": "Bisque"
+  }
+}
