@@ -1,0 +1,102 @@
+{
+  "title": "Wholesome Springy Thai Nuka-Pickle Curry",
+  "description": "A low-fat-friendly, salty and springy weeknight dish featuring Thai green curry paste, nuka-pickle, and other flavorful ingredients.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-calorie",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "thai green curry paste",
+      "amount": "1"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions, thinly sliced",
+      "amount": "6"
+    },
+    {
+      "name": "tomato sauce or tomato puree",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken or tofu, cubed",
+      "amount": "1 lb"
+    },
+    {
+      "name": "rice (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a wok, heat the vegetable oil over medium-high heat.",
+    "Add the thai green curry paste and stir-fry for about 30 seconds until fragrant.",
+    "Stir in nuka-pickle, tamarind paste, minced ginger, scallions, tomato sauce or puree, soy sauce, and lime juice. Mix well.",
+    "Bring to a boil, then reduce heat to low and simmer for about 15 minutes.",
+    "Add cubed chicken or tofu to the curry and let cook until heated through (about 10-12 minutes).",
+    "Garnish with fresh scallions if desired.",
+    "Serve over cooked rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fast-dish",
+    "low-fat-friendly",
+    "salty",
+    "springy",
+    "thai-flavor",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 18,
+    "fat": 5
+  },
+  "slug": "wholesome-springy-thai-nuka-pickle-curry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-springy-thai-nuka-pickle-curry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-20T16:34:42Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "thai green curry paste",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "nuka-pickle",
+    "descriptor": "Springy",
+    "dishForm": "Curry"
+  }
+}
