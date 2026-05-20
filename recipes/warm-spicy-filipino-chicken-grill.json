@@ -1,0 +1,111 @@
+{
+  "title": "Warm Spicy Filipino Chicken Grill",
+  "description": "A Filipino-style grilled chicken dish that combines the sweetness of plum jam with spicy kick, perfect for post-workout fueling. The crumbly texture and flavors make it a satisfying meal.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Plum jam",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler. In a small bowl, mix together plum jam, lime juice, and grated ginger. In another bowl, mix together panko breadcrumbs, paprika, garlic powder, onion powder, salt, black pepper, and crushed red pepper. ",
+    "Season the chicken breast with salt and pepper. Coat each breast with the breadcrumb mixture, pressing gently to adhere. ",
+    "Place the coated chicken on a baking sheet lined with parchment paper. Drizzle with olive oil and brush with plum jam mixture. ",
+    "Broil the chicken for 8-10 minutes, flipping halfway through, until cooked through and crumbly. ",
+    "Let the chicken rest for 2-3 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "filipino-cuisine",
+    "grilled-chicken",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "warm-spicy-filipino-chicken-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-filipino-chicken-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:37:32Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "broil",
+    "primaryIngredient": "plum jam",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Chicken",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Grill"
+  }
+}

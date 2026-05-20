@@ -1,0 +1,130 @@
+{
+  "title": "Winy Crunchy French Egg Eclair",
+  "description": "A crowd-pleasing French dish featuring free-range egg, wine, and a crunchy texture, all wrapped in an agave-leaf vessel.",
+  "cuisine": "French",
+  "diet": [
+    "lacto-ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Free-range eggs",
+      "amount": "2",
+      "notes": "Large eggs for best results."
+    },
+    {
+      "name": "Agave leaves",
+      "amount": "4",
+      "notes": "Large, strong leaves for vessel."
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/4 cup",
+      "notes": "Burgundy wine for rich flavor."
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "Strong, gluten-free flour for structure."
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp",
+      "notes": "Leavening agent for light texture."
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "Sweetener for balance."
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "Butter for richness."
+    },
+    {
+      "name": "Salted butter, for frying",
+      "amount": "2 tbsp",
+      "notes": "Butter for crunchy exterior."
+    },
+    {
+      "name": "Granulated sugar, for glaze",
+      "amount": "2 tbsp",
+      "notes": "Sweetener for glaze."
+    },
+    {
+      "name": "Crushed almond meal",
+      "amount": "1/4 cup",
+      "notes": "Texture for crunch."
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1/4 cup",
+      "notes": "Dust for finish."
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp",
+      "notes": "Flavor for aroma."
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1 tsp",
+      "notes": "Flavor for aroma."
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together eggs, sugar, and a pinch of salt until well combined.",
+    "Add in flour, baking powder, and a splash of red wine, whisking until smooth.",
+    "Heat a large skillet over medium heat, add a pat of salted butter and swirl to coat.",
+    "Using a piping bag, pipe the egg mixture into agave leaves, filling to about 3/4 full.",
+    "Fry the egg eclairs in the skillet until golden brown and crunchy, about 3-4 minutes per side.",
+    "Remove from heat and let cool on a wire rack.",
+    "Dust with confectioners' sugar and garnish with fresh thyme and rosemary.",
+    "For the glaze, whisk together granulated sugar and a splash of red wine until smooth.",
+    "Drizzle the glaze over the cooled egg eclairs and sprinkle with crushed almond meal.",
+    "Serve immediately and enjoy!",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Reheat in the oven or microwave before serving.",
+    "Note: Best served fresh, but still delicious after reheating."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "eclair",
+    "french",
+    "gluten-free",
+    "high-protein",
+    "vegetarian",
+    "weeknight",
+    "wine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "winy-crunchy-french-egg-eclair",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winy-crunchy-french-egg-eclair",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:36:56Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "fry",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "high-protein",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "egg",
+    "descriptor": "winy, crunchy",
+    "dishForm": "Eclair"
+  }
+}

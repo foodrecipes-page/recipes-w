@@ -8199,6 +8199,19 @@
     "shard": "w"
   },
   {
+    "slug": "warm-spicy-filipino-chicken-grill",
+    "title": "Warm Spicy Filipino Chicken Grill",
+    "tags": [
+      "easy-to-make",
+      "filipino-cuisine",
+      "grilled-chicken",
+      "post-workout"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 20,
+    "shard": "w"
+  },
+  {
     "slug": "warm-spicy-filipino-pork-wrap",
     "title": "Warm Spicy Filipino Pork Wrap",
     "tags": [
@@ -17697,6 +17710,22 @@
       "weeknight"
     ],
     "cuisine": "syrian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "winy-crunchy-french-egg-eclair",
+    "title": "Winy Crunchy French Egg Eclair",
+    "tags": [
+      "eclair",
+      "french",
+      "gluten-free",
+      "high-protein",
+      "vegetarian",
+      "weeknight",
+      "wine"
+    ],
+    "cuisine": "French",
     "totalTimeMin": 35,
     "shard": "w"
   },
