@@ -1,0 +1,100 @@
+{
+  "title": "warm wilted mediterranean fish stew",
+  "description": "a cozy mediterranean dish featuring unwaxed lime and steam, perfect for a cold day. served in a fondue pot for a fun and interactive meal.",
+  "cuisine": "mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillet",
+      "amount": "1 pound"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "unwaxed lime",
+      "amount": "1 whole"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "heat olive oil in a large skillet over medium-high heat.",
+    "add the lemongrass and cook for 1 minute, until fragrant.",
+    "add the garlic and cook for another minute, until softened.",
+    "add the chopped tomatoes, kalamata olives, feta cheese, salt, and black pepper. stir to combine.",
+    "add the cod fillet to the skillet and cook for 3-4 minutes, until cooked through.",
+    "transfer the mixture to a fondue pot and stir in the unwaxed lime juice.",
+    "serve immediately, garnished with fresh parsley.",
+    "cook for 10-12 minutes total, including prep time."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy",
+    "fish-stew",
+    "mediterranean",
+    "one-pan",
+    "soup",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "warm-wilted-mediterranean-fish-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wilted-mediterranean-fish-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:56:24Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "steam",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "fish",
+    "descriptor": "warm wilted",
+    "dishForm": "stew"
+  }
+}
