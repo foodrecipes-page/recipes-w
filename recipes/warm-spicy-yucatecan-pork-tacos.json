@@ -1,0 +1,108 @@
+{
+  "title": "Warm Spicy Yucatecan Pork Tacos",
+  "description": "This dish features tender, slow-cooked pork, juicy pineapple, and a hint of spicy heat, all wrapped in a warm tortilla.",
+  "cuisine": "yucatecan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless pork shoulder",
+      "amount": "1 (2-3 pound) piece",
+      "notes": "preferably with the fat cap intact"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup",
+      "notes": "canned or fresh, whichever is available"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup, diced",
+      "notes": "about 1/4 inch pieces"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional, but recommended for garnish"
+    },
+    {
+      "name": "horseradish",
+      "amount": "2 tablespoons, grated"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon, freshly ground"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10 corn tortillas",
+      "notes": "preferably handmade or high-quality store-bought"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 ripe avocado, diced"
+    },
+    {
+      "name": "radish, sliced",
+      "amount": "1 cup, thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Season the pork shoulder with kosher salt and black pepper, then sear it in a large Dutch oven over medium-high heat until browned on all sides.",
+    "Remove the pork from the pot and set it aside, then add the diced red onion to the pot and cook until translucent.",
+    "Add the pineapple chunks, horseradish, and lime juice to the pot, then stir to combine.",
+    "Return the pork to the pot and add enough chicken broth to cover the meat, then bring the mixture to a simmer.",
+    "Transfer the pot to the oven and braise the pork for 2.5 to 3 hours, or until tender and easily shredded with a fork.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Shred the cooked pork with two forks and stir in some of the juices from the pot, then season with additional salt and pepper if needed.",
+    "Assemble the tacos by spooning the pork onto a warmed tortilla, then topping with diced avocado, sliced radish, and a sprinkle of chopped cilantro.",
+    "Serve the tacos immediately, with additional lime wedges and horseradish on the side for added flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-calorie",
+    "kosher-friendly",
+    "mexican",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 54,
+    "carbs": 40,
+    "fat": 42
+  },
+  "slug": "warm-spicy-yucatecan-pork-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-spicy-yucatecan-pork-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:12:29Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "horseradish",
+    "diet": "kosher",
+    "region": "yucatecan",
+    "cuisineAdjective": "Yucatecan",
+    "mainIngredient": "Pork",
+    "descriptor": "Warm Spicy",
+    "dishForm": "Tacos"
+  }
+}
