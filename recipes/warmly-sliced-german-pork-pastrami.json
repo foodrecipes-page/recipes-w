@@ -1,0 +1,110 @@
+{
+  "title": "Warmly Sliced German Pork Pastrami",
+  "description": "A savory German dish featuring thinly sliced pork pastrami, crispy on the outside and tender on the inside, paired with a creamy sesame butter.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, boneless",
+      "amount": "1 kg"
+    },
+    {
+      "name": "Curing mixture (salt, sugar, pink curing salt, black pepper, coriander seeds)",
+      "amount": "100g"
+    },
+    {
+      "name": "Water",
+      "amount": "250ml"
+    },
+    {
+      "name": "White vinegar",
+      "amount": "50ml"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "50ml"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "20g"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "20g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "10g"
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "10g"
+    },
+    {
+      "name": "Mantecare emulsifier",
+      "amount": "10g"
+    },
+    {
+      "name": "Lacto-vegetarian-friendly sour cream",
+      "amount": "100g"
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Combine the curing mixture, water, white vinegar, sesame oil, sesame seeds, brown sugar, black pepper, and coriander seeds in a bowl and mix well.",
+    "Rub the curing mixture all over the pork shoulder, making sure to coat it evenly.",
+    "Place the pork shoulder in a large ziplock bag or a non-reactive container, and refrigerate for at least 2 days or up to 4 days.",
+    "After the curing time, remove the pork shoulder from the bag or container and rinse it under cold running water to remove any excess cure.",
+    "Pat the pork shoulder dry with paper towels and set it aside.",
+    "Heat a large skillet or sauté pan over medium-high heat.",
+    "Add a small amount of oil to the pan and sear the pork shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the pork shoulder to a cutting board and let it rest for 5 minutes before slicing it thinly against the grain.",
+    "In a small bowl, mix the mantecare emulsifier with a small amount of water until it forms a smooth paste.",
+    "Add the sour cream to the bowl and mix until well combined.",
+    "Season the sesame butter with salt and black pepper to taste.",
+    "Serve the thinly sliced pork pastrami on a crusty bread roll or on a bed of sauerkraut, topped with the sesame butter and chopped fresh dill."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "finger-food",
+    "german-cuisine",
+    "high-protein",
+    "lacto-vegetarian",
+    "one-pan",
+    "pastrami",
+    "sesame-butter",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 25,
+    "fat": 34
+  },
+  "slug": "warmly-sliced-german-pork-pastrami",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-sliced-german-pork-pastrami",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:03:36Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "sesame butter",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "pork",
+    "descriptor": "warmly-sliced",
+    "dishForm": "pastrami"
+  }
+}
