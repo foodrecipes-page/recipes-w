@@ -1,0 +1,120 @@
+{
+  "title": "Warm Kenyan Black Beans Stew",
+  "description": "A light and flavorful stew featuring fermented black beans, perfect for a midnight craving.",
+  "cuisine": "Kenyan",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented Black Beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Mustard Seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Curry Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a tandoor clay pot over medium heat.",
+    "Add onion and sauté until translucent, about 5 minutes.",
+    "Add garlic and ginger and sauté for another minute.",
+    "Add fermented black beans, mustard seeds, curry powder, salt, and black pepper, and sauté for 2 minutes.",
+    "Add water and bring to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in lime juice and season with salt to taste.",
+    "Serve hot, garnished with fresh cilantro.",
+    "Let cool slightly before serving.",
+    "Serve over rice or with naan bread.",
+    "Garnish with extra cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "black-beans",
+    "clay-pot",
+    "kenyan",
+    "one-pan",
+    "stew",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "warm-kenyan-black-beans-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-kenyan-black-beans-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:19:04Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "fermented black beans",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Black Beans",
+    "descriptor": "Warm",
+    "dishForm": "Stew"
+  }
+}

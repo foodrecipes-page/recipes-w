@@ -4602,6 +4602,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-kenyan-black-beans-stew",
+    "title": "Warm Kenyan Black Beans Stew",
+    "tags": [
+      "black-beans",
+      "clay-pot",
+      "kenyan",
+      "one-pan",
+      "stew",
+      "tandoor"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-kenyan-dum-dumplings",
     "title": "Warm Kenyan Dum Dumplings",
     "tags": [
