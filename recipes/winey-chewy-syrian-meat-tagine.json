@@ -1,0 +1,149 @@
+{
+  "title": "Winey Chewy Syrian Meat Tagine",
+  "description": "Comforting Syrian dish featuring red wine jelly, yuzu-cure, and tender meat, perfect for a cold winter night.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless beef short ribs",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Red wine jelly",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "2 tablespoons",
+      "notes": "Make sure to use fresh yuzu for best flavor."
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "Replace with honey for a more natural sweetener."
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped into 1-inch pieces."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince for better flavor."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grate for best flavor."
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Crushed cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1/2 teaspoon",
+      "notes": "Optional for extra flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish."
+    },
+    {
+      "name": "Fresh lemon wedges",
+      "amount": "2",
+      "notes": "For serving."
+    },
+    {
+      "name": "Yuzu-cured olives",
+      "amount": "1/4 cup",
+      "notes": "For garnish and added flavor."
+    },
+    {
+      "name": "Cilantro or parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish."
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a large Dutch oven over medium heat.",
+    "Sear the short ribs until browned on all sides, about 5 minutes per side.",
+    "Remove the short ribs and set aside.",
+    "Add the onion to the pot and cook until it's softened and lightly browned, about 8-10 minutes.",
+    "Add the garlic and ginger to the pot and cook for 1 minute, until fragrant.",
+    "Add the beef broth, cumin seeds, cardamom, salt, and pepper to the pot.",
+    "Stir to combine, then add the brown sugar and red wine jelly to the pot.",
+    "Return the short ribs to the pot and make sure they're coated with the sauce.",
+    "Cover the pot and transfer it to the oven. Braise for 2 1/2 to 3 hours, or until the meat is tender and falls apart easily.",
+    "Remove the pot from the oven and let the short ribs rest for 10 minutes before serving.",
+    "Strain the sauce and discard any excess fat. ",
+    "Skim the sauce with a spoon to remove any air bubbles.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with parsley, lemon wedges, yuzu-cured olives, and cilantro or parsley.",
+    "Serve immediately, spooning the sauce over the short ribs.",
+    "Garnish with additional parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 270,
+  "totalTimeMin": 300,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "high-protein",
+    "syrian",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1020,
+    "protein": 95,
+    "carbs": 20,
+    "fat": 60
+  },
+  "slug": "winey-chewy-syrian-meat-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-chewy-syrian-meat-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:21:03Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "red wine jelly",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Meat",
+    "descriptor": "Winey Chewy",
+    "dishForm": "Tagine"
+  }
+}
