@@ -1,0 +1,121 @@
+{
+  "title": "Wit Laced Glassy-Jelly Oat Milk Bake",
+  "description": "A festive Ethiopian-inspired bake featuring a bitter glassy-jelly, pescatarian-friendly and perfect for form=kitfo enthusiasts.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Oat milk",
+      "amount": "1.5 cups",
+      "notes": ""
+    },
+    {
+      "name": "Caster sugar",
+      "amount": "0.5 cup",
+      "notes": ""
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": "Bitter flavor component."
+    },
+    {
+      "name": "Gelatin",
+      "amount": "1 envelope",
+      "notes": "Unflavored, granulated."
+    },
+    {
+      "name": "Citrus zest",
+      "amount": "1 tablespoon",
+      "notes": "From 1 lemon."
+    },
+    {
+      "name": "Corn syrup",
+      "amount": "0.25 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "0.5 cup",
+      "notes": "For gelatin dissolution."
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "Melting point is crucial."
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Citric acid",
+      "amount": "0.125 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cocoa nibs",
+      "amount": "2 ounces",
+      "notes": "Optional, for garnish."
+    },
+    {
+      "name": "Wit (Ethiopian cardamom)",
+      "amount": "0.5 teaspoon",
+      "notes": "Ground, for flavor."
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine the gelatin and 0.25 cups of water, letting it bloom for 5 minutes.",
+    "In a medium saucepan, combine the oat milk, sugar, Worcestershire sauce, citric acid, and cocoa nibs (if using).",
+    "Heat the mixture over medium heat, whisking occasionally, until the sugar dissolves and the mixture simmers.",
+    "Remove the saucepan from the heat and stir in the dissolved gelatin mixture, melted butter, and vanilla extract.",
+    "Let the mixture cool slightly, then transfer it to a 9x9-inch baking dish.",
+    "Cover the dish with plastic wrap, pressing the wrap directly onto the surface of the mixture to prevent a skin from forming.",
+    "Refrigerate the mixture for at least 3 hours, or overnight, until it sets and develops a glassy-jelly texture.",
+    "Before serving, sprinkle the toasted Wit (Ethiopian cardamom) over the top of the bake, if desired.",
+    "Cut the bake into small squares and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 90,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "dessert",
+    "ethiopian",
+    "festive",
+    "glassy-jelly",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "wit-laced-glassy-jelly-oat-milk-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wit-laced-glassy-jelly-oat-milk-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:10:36Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "bake",
+    "primaryIngredient": "oat milk",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Oat milk",
+    "descriptor": "glassy-jelly",
+    "dishForm": "Bake"
+  }
+}
