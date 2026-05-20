@@ -1,0 +1,169 @@
+{
+  "title": "Wholesome Algerian Fenugreek Tagine",
+  "description": "A briny, juicy, monsoon-inspired Algerian dish featuring fenugreek and a diabetic-friendly miso-marinate.",
+  "cuisine": "Algerian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresno chili peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "fenugreek",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "zest of 1 lemon",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "juice of 1 lemon",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fenugreek leaves",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "capers",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "green olives",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, puree the miso paste with 2 tablespoons of water until smooth.",
+    "In a large bowl, whisk together the olive oil, cumin, coriander, cayenne pepper, salt, and lemon zest.",
+    "Add the fenugreek leaves, capers, green olives, preserved lemon, and chopped cilantro to the bowl and mix well.",
+    "Add the chili peppers, onion, garlic, and lemongrass to the bowl and mix well.",
+    "Heat 2 tablespoons of olive oil in a large saucepan over medium heat.",
+    "Add the onion mixture to the saucepan and cook, stirring occasionally, until the onion is softened and lightly browned.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the chickpeas, miso paste mixture, and fenugreek-infused water to the saucepan and stir to combine.",
+    "Bring the mixture to a simmer and cook, stirring occasionally, until the flavors have melded together and the sauce has thickened.",
+    "Stir in the fenugreek leaves and cook for an additional 2-3 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the tagine hot, garnished with chopped fresh parsley and a sprinkle of lemon zest.",
+    "Cover and refrigerate any leftovers for up to 3 days.",
+    "Reheat the leftovers over low heat, stirring occasionally, until warmed through."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 45,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "fenugreek",
+    "high-protein",
+    "miso",
+    "monsoon",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "wholesome-algerian-fenugreek-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-algerian-fenugreek-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:14:31Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "miso-marinate",
+    "primaryIngredient": "fenugreek",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "fenugreek",
+    "descriptor": "wholesome",
+    "dishForm": "tagine"
+  }
+}
