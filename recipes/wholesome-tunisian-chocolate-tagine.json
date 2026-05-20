@@ -1,0 +1,109 @@
+{
+  "title": "wholesome tunisian chocolate tagine",
+  "description": "a funky, springy, indulgent tunisian dish featuring white chocolate chips, perfect for special occasions or a sweet treat.",
+  "cuisine": "tunisian",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark cocoa powder",
+      "amount": "8 oz"
+    },
+    {
+      "name": "white chocolate chips",
+      "amount": "6 oz"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "almond extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cocoa nibs",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "grind the pistachios, cocoa nibs, and coconut sugar in a mortar and pestle until finely ground.",
+    "in a large bowl, whisk together the ground mixture, almond milk, egg, and vanilla extract.",
+    "in a separate bowl, melt the coconut oil and white chocolate chips in the microwave or over a double boiler.",
+    "whisk the melted chocolate mixture into the ground mixture until well combined.",
+    "stir in the dark cocoa powder and almond extract.",
+    "pour the mixture into a small tagine or a small ceramic dish.",
+    "cover the tagine and refrigerate for at least 2 hours or overnight.",
+    "remove the tagine from the refrigerator and garnish with fresh mint leaves.",
+    "serve the tagine chilled, garnished with additional fresh mint leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "deconstructed",
+    "gluten-free",
+    "springtime",
+    "tunisian",
+    "vegan-friendly",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 5,
+    "carbs": 24,
+    "fat": 14
+  },
+  "slug": "wholesome-tunisian-chocolate-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-tunisian-chocolate-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:23:20Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "chocolate",
+    "descriptor": "wholesome",
+    "dishForm": "tagine"
+  }
+}
