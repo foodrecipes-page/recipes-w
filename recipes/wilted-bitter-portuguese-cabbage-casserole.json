@@ -1,0 +1,115 @@
+{
+  "title": "wilted bitter portuguese cabbage casserole",
+  "description": "This traditional portuguese dish features savoy cabbage, pork, and a lacquer-glaze that adds a sweet and tangy flavor. A dairy-free-friendly option that's still full of flavor.",
+  "cuisine": "portuguese",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "savoy cabbage",
+      "amount": "1 whole head",
+      "notes": ""
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lacquer-glaze",
+      "amount": "2 tablespoons",
+      "notes": "can be substituted with honey and soy sauce."
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for greasing the baking dish."
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the savoy cabbage into thin strips and set aside.",
+    "Cook the pork sausage in a large skillet over medium-high heat, breaking it up with a spoon as it cooks, until browned and cooked through. Drain the sausage on paper towels and set aside.",
+    "Add the sliced onion and minced garlic to the skillet and cook until the onion is translucent, about 5 minutes.",
+    "Stir in the bay leaves, white wine, and cooked sausage. Bring the mixture to a simmer and cook until the liquid has reduced by half.",
+    "Add the chopped cabbage to the skillet and cook, stirring occasionally, until the cabbage is tender and slightly caramelized, about 10 minutes.",
+    "Grease a 9x13-inch baking dish with olive oil. Spread half of the cabbage mixture in the bottom of the dish.",
+    "Drizzle the lacquer-glaze over the cabbage mixture, then sprinkle with salt and black pepper. Spread the remaining cabbage mixture over the top.",
+    "Cover the dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown and the casserole is heated through.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve hot, garnished with chopped fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "pescatarian",
+    "portuguese",
+    "wilted-cabbage"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "wilted-bitter-portuguese-cabbage-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-bitter-portuguese-cabbage-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:46:30Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "cabbage",
+    "descriptor": "wilted bitter",
+    "dishForm": "casserole"
+  }
+}
