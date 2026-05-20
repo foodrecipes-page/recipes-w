@@ -12501,6 +12501,20 @@
     "shard": "w"
   },
   {
+    "slug": "weeknight-japanese-rice-onigiri",
+    "title": "Weeknight Japanese Rice Onigiri",
+    "tags": [
+      "ayurvedic-rajasic-friendly",
+      "gluten-free",
+      "high-fiber",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "weeknight-malaysian-malai-grill",
     "title": "Weeknight Malaysian Malai Grill",
     "tags": [

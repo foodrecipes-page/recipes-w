@@ -1,0 +1,94 @@
+{
+  "title": "Weeknight Japanese Rice Onigiri",
+  "description": "A fermented, shaggy weeknight Japanese dish featuring dried mint and coconut cream. Perfect for a quick and easy meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Dried mint",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice in a fine mesh strainer and cook according to package instructions.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, sugar, and salt.",
+    "Add the pickled ginger, dried mint, and coconut cream to the bowl and stir until well combined.",
+    "Transfer the cooked rice to a large bowl and stir in the soy sauce mixture.",
+    "Add the water to the bowl and stir until the rice is well combined and has a sticky consistency.",
+    "Using a small amount of water, shape the rice mixture into small triangular shapes.",
+    "Serve the onigiri in a mason jar or on a plate."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ayurvedic-rajasic-friendly",
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "weeknight-japanese-rice-onigiri",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/weeknight-japanese-rice-onigiri",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:39:25Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "dried mint",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "rice",
+    "descriptor": "Weeknight",
+    "dishForm": "Onigiri"
+  }
+}
