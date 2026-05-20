@@ -1,0 +1,100 @@
+{
+  "title": "Warm Molten Argentinian English Muffins Toast",
+  "description": "A sick-day twist on traditional English muffins toasty treat, with an Argentinian flair. Low-calorie and comforting.",
+  "cuisine": "argentinian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "english muffins",
+      "amount": "4",
+      "notes": "split in half"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "diced chicken breast",
+      "amount": "1 cup",
+      "notes": "cooked and diced"
+    },
+    {
+      "name": "fresh cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 pinch",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the toaster oven to 375°F (190°C).",
+    "Place the English muffin halves on a baking sheet lined with parchment paper.",
+    "In a small saucepan, melt the butter over low heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Place a spoonful of the garlic butter on each English muffin half.",
+    "Top each muffin half with diced chicken breast, shredded mozzarella cheese, and a sprinkle of cilantro leaves.",
+    "Season with salt and black pepper to taste.",
+    "Bake in the preheated toaster oven for 8-10 minutes, until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for 2-3 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "breakfast",
+    "comfort-food",
+    "easy-meals",
+    "low-calorie",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "warm-molten-argentinian-english-muffins-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-molten-argentinian-english-muffins-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:51:11Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "molten",
+    "mood": "sick-day",
+    "technique": "steam",
+    "primaryIngredient": "english muffins",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "English muffins",
+    "descriptor": "Warm molten",
+    "dishForm": "Toast"
+  }
+}
