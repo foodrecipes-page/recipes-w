@@ -1,0 +1,112 @@
+{
+  "title": "Warm Flaky Syrian Fish Hash",
+  "description": "A pescatarian-friendly dish from Syria with ground nut oil, jammy texture, and a crumbly crust.",
+  "cuisine": "Syrian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground fish (halibut or cod)",
+      "amount": "1 pound",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Ground nut oil",
+      "amount": "1/4 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Spices (cumin, coriander, paprika)",
+      "amount": "2 teaspoons",
+      "notes": "Blended"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": "All-purpose flour"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of ground nut oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the blended spices and cook for 1 minute.",
+    "Add the finely chopped fish and cook until it breaks apart, about 5 minutes.",
+    "Add the all-purpose flour and cook for 1 minute.",
+    "Gradually add the beaten eggs and mix well.",
+    "Season with salt to taste.",
+    "Transfer the mixture to a greased pan and flatten it.",
+    "Drizzle the remaining 2 tablespoons of ground nut oil on top.",
+    "Bake in a preheated oven at 375°F (190°C) for 20 minutes.",
+    "Remove from the oven and garnish with chopped parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "breakfast",
+    "fish",
+    "hash",
+    "pescatarian-friendly",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "warm-flaky-syrian-fish-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-flaky-syrian-fish-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:38:59Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "simmer",
+    "primaryIngredient": "ground nut oil",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "fish",
+    "descriptor": "Warm Flaky",
+    "dishForm": "Hash"
+  }
+}
