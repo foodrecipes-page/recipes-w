@@ -1,0 +1,106 @@
+{
+  "title": "Winey Crisp Algerian Manchego Bake",
+  "description": "A hearty, wine-infused Algerian dish featuring Manchego cheese, baked to a perfect crisp in a clay tajine. This egg-free-friendly recipe is perfect for a cozy dinner with friends or family.",
+  "cuisine": "Algerian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Manchego cheese",
+      "amount": "250g",
+      "notes": "grated"
+    },
+    {
+      "name": "Red wine",
+      "amount": "120ml",
+      "notes": "dry, full-bodied"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30ml",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ras el hanout spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4 rounds",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Rinse the clay tajine and dry it thoroughly with a clean cloth.",
+    "Heat the olive oil in the tajine over medium heat. Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the grated Manchego cheese, dry red wine, and Ras el hanout spice blend. Stir until the cheese is melted and the mixture is smooth.",
+    "Season with salt to taste.",
+    "Transfer the tajine to the preheated oven and bake for 20 minutes, or until the top is golden brown and the cheese is bubbly.",
+    "Remove the tajine from the oven and sprinkle with chopped fresh parsley.",
+    "Serve the Winey Crisp Algerian Manchego Bake hot, garnished with additional parsley if desired.",
+    "Offer pita bread on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "clay-tajine",
+    "crisp",
+    "egg-free",
+    "manchego",
+    "weeknight",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 26,
+    "carbs": 44,
+    "fat": 54
+  },
+  "slug": "winey-crisp-algerian-manchego-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-crisp-algerian-manchego-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:23:09Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "bake",
+    "primaryIngredient": "manchego",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "manchego",
+    "descriptor": "winey crisp",
+    "dishForm": "bake"
+  }
+}
