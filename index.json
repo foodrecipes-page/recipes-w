@@ -4931,6 +4931,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-light-brazilian-cheese-pilao",
+    "title": "Warm Light Brazilian Cheese Pilao",
+    "tags": [
+      "cheesy",
+      "date-night",
+      "high-fat",
+      "one-pan",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
     "slug": "warm-light-malaysian-peas-fried-rice",
     "title": "Warm Light Malaysian Peas Fried Rice",
     "tags": [
@@ -15663,6 +15678,23 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-wooden-board-indian-ground-beef-kachori",
+    "title": "Wholesome Wooden-Board Indian Ground Beef Kachori",
+    "tags": [
+      "beef",
+      "dinner",
+      "easy",
+      "indian",
+      "one-pan",
+      "spicy",
+      "weekend",
+      "weeknight"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {

@@ -1,0 +1,139 @@
+{
+  "title": "Wholesome Wooden-Board Indian Ground Beef Kachori",
+  "description": "A hearty, one-pot dish featuring ground beef, aromatic spices, and a crispy exterior. Perfect for a weeknight dinner or special occasion.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "optional",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a large wooden-board vessel over medium-high heat.",
+    "Add onion and cook until browned, about 5 minutes.",
+    "Add ginger and garlic and cook for 1 minute, stirring constantly.",
+    "Add ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add allspice, cumin, coriander, cayenne pepper, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "Stir in flour and cook for 1 minute.",
+    "Gradually add water, stirring constantly, until the mixture comes to a boil.",
+    "Reduce heat to medium-low and simmer, covered, for 15 minutes.",
+    "Stir in lemon juice and cook for 1 minute.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "dinner",
+    "easy",
+    "indian",
+    "one-pan",
+    "spicy",
+    "weekend",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "wholesome-wooden-board-indian-ground-beef-kachori",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-wooden-board-indian-ground-beef-kachori",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:50:15Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "ground allspice",
+    "diet": "egg-free",
+    "region": "hyderabadi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Ground Beef",
+    "descriptor": "Wholesome Wooden-Board",
+    "dishForm": "Kachori"
+  }
+}
