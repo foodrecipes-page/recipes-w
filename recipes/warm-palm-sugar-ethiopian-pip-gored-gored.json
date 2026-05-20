@@ -1,0 +1,93 @@
+{
+  "title": "Warm Palm-Sugar Ethiopian Pip Gored-Gored",
+  "description": "Peppery, fluffy, and sweet, this date-night Ethiopian dish is a delight to make and share. Made with palm sugar nam tan pip and wrapped in a lotus leaf.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Palm sugar nam tan pip",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Berbere spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lotus leaves, fresh or frozen",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Grind the berbere spice mix in a mortar and pestle until well combined.",
+    "Heat the ghee or oil in a pan over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the palm sugar nam tan pip and cook, stirring constantly, for 2-3 minutes.",
+    "Add the chopped cilantro, salt, and black pepper. Stir well.",
+    "Place a portion of the mixture onto the center of each lotus leaf.",
+    "Fold the bottom half of the leaf up over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Steam the gored-gored over boiling water for 10-12 minutes, or until the filling is heated through.",
+    "Serve warm, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "ethiopian",
+    "gluten-free",
+    "low-carb",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-palm-sugar-ethiopian-pip-gored-gored",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-palm-sugar-ethiopian-pip-gored-gored",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:06:30Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "palm-sugar-nam-tan-pip",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Pip",
+    "descriptor": "Warm Palm-Sugar",
+    "dishForm": "Gored-Gored"
+  }
+}

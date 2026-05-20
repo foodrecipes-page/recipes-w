@@ -5747,6 +5747,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-palm-sugar-ethiopian-pip-gored-gored",
+    "title": "Warm Palm-Sugar Ethiopian Pip Gored-Gored",
+    "tags": [
+      "date-night",
+      "ethiopian",
+      "gluten-free",
+      "low-carb",
+      "special-occasion"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-peppery-french-tomato-tarte-tatin",
     "title": "Warm Peppery French Tomato Tarte Tatin",
     "tags": [
@@ -14799,6 +14813,20 @@
     ],
     "cuisine": "egyptian",
     "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-nutty-flaky-indian-whole-wheat-sambhar",
+    "title": "Wholesome Nutty Flaky Indian Whole Wheat Sambhar",
+    "tags": [
+      "gathering",
+      "indian",
+      "one-pan",
+      "special-occasion",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {

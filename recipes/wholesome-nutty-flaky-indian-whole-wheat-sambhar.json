@@ -1,0 +1,123 @@
+{
+  "title": "Wholesome Nutty Flaky Indian Whole Wheat Sambhar",
+  "description": "A hearty and flavorful Indian-inspired whole wheat sambhar dish, perfect for a festive gathering. The nutty and flaky texture of the whole wheat adds a delightful twist to this classic dish.",
+  "cuisine": "Indian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Whole wheat flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red chilies",
+      "amount": "2",
+      "notes": "",
+      "},{": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Curry leaves",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Beurre-monte",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat. ",
+    "Add cumin seeds and coriander seeds. ",
+    "Once the seeds start crackling, add onions and sauté until they are translucent. ",
+    "Add tomatoes, carrots, red chilies, curry leaves, turmeric powder, and salt. ",
+    "Sauté for 2-3 minutes, stirring occasionally.",
+    "Add water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 10-12 minutes, or until the mixture thickens.",
+    "Stir in beurre-monte and ghee.",
+    "Cook for a further 2-3 minutes, or until the sambhar is heated through.",
+    "Serve hot, garnished with chopped fresh coriander leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gathering",
+    "indian",
+    "one-pan",
+    "special-occasion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 7,
+    "carbs": 65,
+    "fat": 10
+  },
+  "slug": "wholesome-nutty-flaky-indian-whole-wheat-sambhar",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-nutty-flaky-indian-whole-wheat-sambhar",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:05:45Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "beurre-monte",
+    "primaryIngredient": "whole wheat",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "whole wheat",
+    "descriptor": "wholesome nutty flaky",
+    "dishForm": "Sambhar"
+  }
+}
