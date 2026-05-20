@@ -1,0 +1,89 @@
+{
+  "title": "Weeknight Tangy Egyptian Pastry Tart",
+  "description": "A delicious and easy-to-make Egyptian dessert featuring a tangy filling inside a crispy shortcrust pastry. Perfect for a weeknight treat.",
+  "cuisine": "Egyptian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Frozen Ready Rolled Shortcrust Pastry",
+      "amount": "1 sheet",
+      "notes": "Thawed according to package instructions"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup",
+      "notes": "Plain, non-fat, 100g"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed, 30ml"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "Pure, granulated, 30g"
+    },
+    {
+      "name": "Ground Cardamom",
+      "amount": "1 teaspoon",
+      "notes": "Ground, 5g"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "4 leaves",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the thawed shortcrust pastry to a thickness of 1/8 inch (3 mm).",
+    "Transfer the pastry to a 9-inch (23 cm) tart pan with a removable bottom.",
+    "Prick the bottom of the pastry with a fork to prevent it from bubbling during baking.",
+    "Line the pastry with parchment paper and fill with pie weights or dried beans.",
+    "Bake for 15 minutes, then remove the parchment paper and pie weights or beans.",
+    "Return the pastry to the oven and bake for an additional 10-12 minutes, or until golden brown.",
+    "In a medium bowl, whisk together the yogurt, lemon juice, honey, and ground cardamom until smooth.",
+    "Pour the yogurt mixture into the baked pastry shell and smooth the top.",
+    "Bake for an additional 5-7 minutes, or until the filling is set and the pastry is golden brown.",
+    "Remove the tart from the oven and let it cool to room temperature.",
+    "Garnish with chopped fresh mint leaves and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "egg-free",
+    "high-protein",
+    "one-pan",
+    "sugar-free-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "weeknight-tangy-egyptian-pastry-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/weeknight-tangy-egyptian-pastry-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:37:02Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "en-croute",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "egyptian",
+    "mainIngredient": "pastry",
+    "descriptor": "weeknight tangy",
+    "dishForm": "tart"
+  }
+}

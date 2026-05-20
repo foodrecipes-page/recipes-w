@@ -12202,6 +12202,36 @@
     "shard": "w"
   },
   {
+    "slug": "weeknight-sweet-mediterranean-lamb-casserole",
+    "title": "Weeknight Sweet Mediterranean Lamb Casserole",
+    "tags": [
+      "coconut-milk-casserole",
+      "high-protein",
+      "lamb-recipe",
+      "mediterranean-cuisine",
+      "one-pan",
+      "sweet-and-savory",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
+    "slug": "weeknight-tangy-egyptian-pastry-tart",
+    "title": "Weeknight Tangy Egyptian Pastry Tart",
+    "tags": [
+      "egg-free",
+      "high-protein",
+      "one-pan",
+      "sugar-free-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
     "slug": "weeknight-tender-german-pork-bake",
     "title": "weeknight tender german pork bake",
     "tags": [
@@ -16898,6 +16928,22 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 90,
+    "shard": "w"
+  },
+  {
+    "slug": "winy-nostalgic-crisp-british-chickpeas-bowl",
+    "title": "winy nostalgic crisp british chickpea bowl",
+    "tags": [
+      "british",
+      "gluten-free",
+      "low-glycemic",
+      "one-pan",
+      "quick-and-easy",
+      "weeknight",
+      "winy"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 20,
     "shard": "w"
   },
   {

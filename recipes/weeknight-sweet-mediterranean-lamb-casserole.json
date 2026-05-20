@@ -1,0 +1,121 @@
+{
+  "title": "Weeknight Sweet Mediterranean Lamb Casserole",
+  "description": "A comforting, sweet, and crumbly weeknight Mediterranean dish featuring coconut milk and a crunchy lamb topping.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto",
+    "gluten-free",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "preferably boneless"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for greasing the dish"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Crumbled feta cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Crushed almonds",
+      "amount": "1/4 cup",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large baking dish, grease the bottom with olive oil.",
+    "In a large skillet, cook the lamb shoulder over medium-high heat until browned on all sides, about 5 minutes.",
+    "Transfer the lamb to the prepared baking dish.",
+    "Cook the chopped onion and minced garlic in the skillet until softened, about 3-4 minutes.",
+    "Add the dried oregano, salt, and black pepper to the skillet and cook for an additional 1 minute.",
+    "Pour the coconut milk over the lamb and onion mixture.",
+    "Bring the coconut milk to a simmer and cook for 5 minutes or until the sauce thickens slightly.",
+    "Top the lamb with crumbled feta cheese (if using) and chopped fresh parsley.",
+    "In a small bowl, mix together the crushed almonds and a pinch of salt.",
+    "Sprinkle the almond mixture evenly over the top of the lamb.",
+    "Cover the baking dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes or until the lamb is cooked through and the top is golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk-casserole",
+    "high-protein",
+    "lamb-recipe",
+    "mediterranean-cuisine",
+    "one-pan",
+    "sweet-and-savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 42,
+    "carbs": 15,
+    "fat": 40
+  },
+  "slug": "weeknight-sweet-mediterranean-lamb-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/weeknight-sweet-mediterranean-lamb-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:36:52Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "score-fat",
+    "primaryIngredient": "coconut milk",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Lamb",
+    "descriptor": "Weeknight Sweet",
+    "dishForm": "Casserole"
+  }
+}

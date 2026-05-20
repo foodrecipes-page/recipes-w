@@ -1,0 +1,104 @@
+{
+  "title": "winy nostalgic crisp british chickpea bowl",
+  "description": "a classic british dish with a twist, featuring sashimi-cut chickpeas in a wine-infused broth, served in a crispy dolsot stone bowl",
+  "cuisine": "british",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "dolsot stone bowl",
+      "amount": "1",
+      "notes": "any type of stone bowl will do, but dolsot is traditional in korean cuisine"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tbsp",
+      "notes": "you can substitute with apple cider vinegar or lemon juice if you prefer"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "use a high-quality extra virgin olive oil for the best flavor"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": "fresh thyme is also delicious, but dried is more traditional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "trust us, it's necessary"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish only, feel free to omit if you don't like parsley"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in the dolsot stone bowl over medium heat",
+    "add the white wine vinegar, thyme, salt, and pepper to the bowl",
+    "stir to combine and bring to a simmer",
+    "add the canned chickpeas to the bowl and stir to coat with the wine sauce",
+    "cook for an additional 2-3 minutes, or until the chickpeas are heated through",
+    "taste and adjust the seasoning as needed",
+    "garnish with chopped fresh parsley and serve immediately"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "gluten-free",
+    "low-glycemic",
+    "one-pan",
+    "quick-and-easy",
+    "weeknight",
+    "winy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "winy-nostalgic-crisp-british-chickpeas-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winy-nostalgic-crisp-british-chickpeas-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:36:57Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "can of chickpeas",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "chickpeas",
+    "descriptor": "winy, nostalgic, crisp,",
+    "dishForm": "Bowl"
+  }
+}
