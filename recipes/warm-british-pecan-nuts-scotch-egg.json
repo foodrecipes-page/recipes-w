@@ -1,0 +1,111 @@
+{
+  "title": "Warm British Pecan Nuts Scotch Egg",
+  "description": "A British-inspired twist on the classic scotch egg, featuring roasted pecan nuts and a silky egg yolk. Serve warm for a satisfying snack or light meal.",
+  "cuisine": "British",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "6 oz (170g) pork sausage meat",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "2 count",
+      "notes": ""
+    },
+    {
+      "name": "1 cup (120g) all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup (60g) grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup (30g) chopped roasted pecans",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup (60ml) milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp (30g) olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "1 egg, beaten (for egg wash)",
+      "amount": "1 count",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine the pork sausage meat, eggs, flour, cheddar cheese, pecans, milk, salt, and black pepper in a bowl.",
+    "Mix the ingredients together until just combined.",
+    "Divide the mixture into 4 equal parts.",
+    "Shape each part into a ball and then flatten slightly into an egg shape.",
+    "Heat the olive oil in a large non-stick skillet over medium heat.",
+    "Add the egg shapes to the skillet and cook for 2-3 minutes on each side, or until golden brown.",
+    "Remove the eggs from the skillet and place on a plate.",
+    "Dip each egg into the beaten egg for the egg wash, then roll in additional flour to coat.",
+    "Fry the eggs in the same skillet over medium heat for an additional 2-3 minutes on each side, or until golden brown.",
+    "Serve the warm scotch eggs immediately.",
+    "Warm the scotch eggs in a preheated oven at 375°F (190°C) for 5-7 minutes before serving, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "english",
+    "high-protein",
+    "lunch",
+    "scotch-egg",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 16,
+    "fat": 20
+  },
+  "slug": "warm-british-pecan-nuts-scotch-egg",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-british-pecan-nuts-scotch-egg",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:34:50Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "roast",
+    "primaryIngredient": "pecan nuts",
+    "diet": "lacto-vegetarian",
+    "region": "northern-irish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Pecan nuts",
+    "descriptor": "Warm",
+    "dishForm": "Scotch Egg"
+  }
+}

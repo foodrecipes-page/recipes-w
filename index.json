@@ -372,6 +372,23 @@
     "shard": "w"
   },
   {
+    "slug": "warm-british-pecan-nuts-scotch-egg",
+    "title": "Warm British Pecan Nuts Scotch Egg",
+    "tags": [
+      "breakfast",
+      "british",
+      "english",
+      "high-protein",
+      "lunch",
+      "scotch-egg",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "warm-british-sausages-full-english-breakfast",
     "title": "Warm British Sausages Full English Breakfast",
     "tags": [
