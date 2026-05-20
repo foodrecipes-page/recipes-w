@@ -1,0 +1,113 @@
+{
+  "title": "warm syrian potatoes bake",
+  "description": "a comforting syrian dish featuring red potatoes, perfect for a chilly evening. fluffy on the inside and crispy on the outside, this warm potatoes bake is a delightful treat.",
+  "cuisine": "syrian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 kg red potatoes, peeled and halved",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 large onion, chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup grated kasseri cheese ",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon all-purpose flour",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 200°c (400°f).",
+    "place the potato halves in a large bowl and drizzle with olive oil. mix to combine, ensuring the potatoes are evenly coated.",
+    "sprinkle the chopped onion and minced garlic over the potatoes and mix well.",
+    "season with cumin, paprika, salt, and black pepper, and mix again.",
+    "transfer the potatoes to a baking dish and top with grated kasseri cheese. ",
+    "sprinkle chopped parsley over the top and set aside.",
+    "in a small bowl, mix together flour and a pinch of water to create a slurry. ",
+    "brush the slurry over the potatoes to help them brown in the oven.",
+    "bake for 45 minutes or until the potatoes are tender and the top is golden brown.",
+    "remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "one-pan",
+    "oven-baked",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 32
+  },
+  "slug": "warm-syrian-potatoes-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-syrian-potatoes-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:02:03Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "cure",
+    "primaryIngredient": "red potatoes",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "potatoes",
+    "descriptor": "warm",
+    "dishForm": "bake"
+  }
+}
