@@ -1,0 +1,113 @@
+{
+  "title": "tunisian paella rice",
+  "description": "a warm, chewy, hangover-cure dish featuring paella rice, en-croute, and inspired by tunisian cuisine.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a good quality extra virgin olive oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "crushed"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 teaspoon",
+      "notes": "crushed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "add the chopped onion and cook until it is translucent.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the sliced mushrooms and cook until they are tender.",
+    "add the chopped artichoke hearts and sun-dried tomatoes, and stir to combine.",
+    "add the paella rice and stir to combine with the vegetables and herbs.",
+    "add the dried thyme and rosemary, and stir to combine.",
+    "add 2 cups of water to the pan and bring to a boil.",
+    "reduce the heat to low and simmer, covered, for 20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "remove the pan from the heat and let it rest for 5 minutes, covered.",
+    "serve the paella hot, garnished with fresh herbs if desired.",
+    "serve with a side of crusty bread or a green salad, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "hangover-cure",
+    "mediterranean",
+    "morning-after",
+    "north-african",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "warm-resinous-tunisian-paella-rice-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-resinous-tunisian-paella-rice-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:54:58Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "en-croute",
+    "primaryIngredient": "paella rice",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Paella rice",
+    "descriptor": "Warm, Resinous",
+    "dishForm": "Paella"
+  }
+}
