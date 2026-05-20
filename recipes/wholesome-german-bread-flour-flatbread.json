@@ -1,0 +1,79 @@
+{
+  "title": "Wholesome German Bread Flour Flatbread",
+  "description": "This vegan-friendly flatbread is light and flaky, perfect for a wholesome breakfast or snack.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups",
+      "amount": "cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "tablespoon",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "1 tablespoon",
+      "amount": "teaspoon",
+      "notes": "kosher salt, fine"
+    },
+    {
+      "name": "1/2 cup",
+      "amount": "cup",
+      "notes": "olive oil, extra virgin"
+    },
+    {
+      "name": "1/4 teaspoon",
+      "amount": "teaspoon",
+      "notes": "cardamom seeds"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine flour and salt.",
+    "Stir in yeast and olive oil. Mix until combined; do not overmix.",
+    "Gradually add water to achieve desired consistency (about 2 cups total).",
+    "Fold dough thoroughly then turn out onto floured surface.",
+    "Knead for about 10 minutes until smooth and elastic.",
+    "Grease a mixing bowl, place dough in, cover with damp cloth or plastic wrap. Let rise at room temperature for 1 hour.",
+    "Roll out dough to desired thickness and shape. Prick bottom with fork to prevent puffing during baking.",
+    "Preheat oven to 200 degrees C (392 F). Place flatbread on baking sheet, bake for 8 minutes until golden brown.",
+    "Sprinkle cardamom seeds evenly over top of baked flatbread before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "light-german-dish",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 174,
+    "protein": 5,
+    "carbs": 28,
+    "fat": 6
+  },
+  "slug": "wholesome-german-bread-flour-flatbread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-german-bread-flour-flatbread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-20T17:16:54Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "reduce",
+    "primaryIngredient": "bread flour",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "bread flour",
+    "descriptor": "Wholesome",
+    "dishForm": "Flatbread"
+  }
+}
