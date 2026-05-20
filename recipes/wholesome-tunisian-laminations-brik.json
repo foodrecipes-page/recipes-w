@@ -1,0 +1,99 @@
+{
+  "title": "Wholesome Tunisian Laminations Brik",
+  "description": "Tangy, shattering, comforting Tunisian dish featuring green olives, lamination-puff. High-protein-friendly and a great option for breakfast, lunch or dinner.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "green olives",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "0.5",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine green olives, flour, yeast, and salt in a bowl. Mix until a sticky dough forms"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "high-protein",
+    "lunch",
+    "one-pan",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "wholesome-tunisian-laminations-brik",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-tunisian-laminations-brik",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:01:54Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "lamination-puff",
+    "primaryIngredient": "green olives",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "laminations",
+    "descriptor": "wholesome",
+    "dishForm": "Brik"
+  }
+}
