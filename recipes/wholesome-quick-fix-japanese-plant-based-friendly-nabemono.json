@@ -1,0 +1,101 @@
+{
+  "title": "Elderflower Nabemono",
+  "description": "A quick-fix Japanese plant-based-friendly nabemono featuring elderflower for a resinous and crisp flavor. Serve with rice or noodles.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Soba noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms (such as shiitake)",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Lotus root",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Elderflower",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the soba noodles according to the package instructions.",
+    "Drain the noodles and set them aside.",
+    "In a separate large pot, combine the lotus root, mushrooms, and 2 cups of water.",
+    "Bring the water to a boil, then reduce the heat to a simmer and cook for 5 minutes.",
+    "Add the elderflower, soy sauce, rice vinegar, and sesame oil to the pot.",
+    "Stir to combine and cook for an additional 2 minutes.",
+    "Cook the ginger in the microwave for 30 seconds to soften it.",
+    "Slice the ginger into thin rounds and add it to the pot.",
+    "Simmer the nabemono for 2 minutes to allow the flavors to meld.",
+    "Serve the nabemono hot, garnished with additional elderflower if desired.",
+    "Serve with cooked soba noodles or rice noodles on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "japanese",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "wholesome-quick-fix-japanese-plant-based-friendly-nabemono",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-quick-fix-japanese-plant-based-friendly-nabemono",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:44:46Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "papillote",
+    "primaryIngredient": "elderflower",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "japanese",
+    "mainIngredient": "plant-based-friendly",
+    "descriptor": "wholesome quick-fix",
+    "dishForm": "nabemono"
+  }
+}
