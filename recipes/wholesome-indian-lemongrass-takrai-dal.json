@@ -1,0 +1,122 @@
+{
+  "title": "Wholesome Indian Lemongrass-Takrai Dal",
+  "description": "A delicious and nourishing solo-dinner featuring lemongrass-takrai in a satvik-friendly dal. Perfect for a weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Split Red Lentils (Masoor Dal)",
+      "amount": "1 cup",
+      "notes": "Rinse and soak overnight, then drain and use"
+    },
+    {
+      "name": "Lemongrass-Takrai Paste",
+      "amount": "2 tablespoons",
+      "notes": "Make or buy the lemongrass-takrai paste according to the recipe"
+    },
+    {
+      "name": "Ghee or Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until soft and translucent.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Add the diced tomato and cook until it starts to break down.",
+    "Add the split red lentils, lemongrass-takrai paste, salt, turmeric, cumin powder, and coriander powder. Mix well.",
+    "Add 4 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover the saucepan with a lid, and let the dal simmer for 20 minutes.",
+    "Check the lentils for doneness. They should be tender and mushy.",
+    "Stir in some chopped fresh cilantro for garnish.",
+    "Serve hot with steamed rice or roti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "indian",
+    "lemongrass",
+    "lentil",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "wholesome-indian-lemongrass-takrai-dal",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-indian-lemongrass-takrai-dal",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:05:26Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "bain-marie",
+    "primaryIngredient": "lemongrass-takrai",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lemongrass-takrai",
+    "descriptor": "wholesome",
+    "dishForm": "Dal"
+  }
+}
