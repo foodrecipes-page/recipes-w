@@ -1,0 +1,95 @@
+{
+  "title": "Wood-Fired Thai Parmesan Bake",
+  "description": "Indulge in the flavors of Central Thailand with this unique, diabetic-friendly take on a classic dish, featuring a crunchy wood-fired crust and a bouncy, fermented kick.",
+  "cuisine": "Thai",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Parmesan cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Thai flatbread",
+      "amount": "1 package",
+      "notes": "preferably wood-fired"
+    },
+    {
+      "name": "Fermented fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Galangal",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    }
+  ],
+  "instructions": [
+    "Preheat a hot stone plate to 400°F.",
+    "In a bowl, mix together the fermented fish sauce, coconut oil, egg, salt, black pepper, galangal, and garlic.",
+    "Add the Thai flatbread to the bowl and toss to combine.",
+    "Transfer the mixture to the preheated stone plate.",
+    "Bake for 10 minutes, or until the crust is golden brown.",
+    "Remove from heat and sprinkle with parmesan cheese.",
+    "Bake for an additional 2-3 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabeticfriendly",
+    "glutenfree",
+    "high-protein",
+    "one-pan",
+    "thaicuisine",
+    "weeknight",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 24
+  },
+  "slug": "wood-fired-thai-parmesan-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wood-fired-thai-parmesan-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:57:29Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "indulgent",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "parmesan",
+    "diet": "diabetic-friendly",
+    "region": "central-thai",
+    "cuisineAdjective": "thai",
+    "mainIngredient": "parmesan",
+    "descriptor": "wood-fired",
+    "dishForm": "bake"
+  }
+}
