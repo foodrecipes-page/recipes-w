@@ -1,0 +1,95 @@
+{
+  "title": "Warm Wholesome Jamaican Pistachio Tagine",
+  "description": "A nutty, crumbly, and indulgent Jamaican dish made with unsalted pistachio, featuring sugar-free-friendly flavors.",
+  "cuisine": "jamaican",
+  "diet": [
+    "sugar-free",
+    "keto-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsalted pistachio",
+      "amount": "250g"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "5g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "20g"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "10g"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "donabe clay pot",
+      "amount": "1"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    },
+    {
+      "name": "almond milk",
+      "amount": "150ml"
+    }
+  ],
+  "instructions": [
+    "Preheat your donabe clay pot in the oven at 180°C for 10 minutes.",
+    "Grind the unsalted pistachio into a fine crumb using a food processor or mortar and pestle.",
+    "In a small bowl, mix together coconut oil, ferment-jang, and dried thyme.",
+    "Add the coconut sugar, dried cinnamon, and ground pistachio to the bowl and mix well.",
+    "Add the mixture to the preheated donabe clay pot and pour in the water and almond milk.",
+    "Cover the pot with a lid and bake in the preheated oven for 25 minutes.",
+    "Remove the pot from the oven and let it cool for 5 minutes.",
+    "Serve the warm wholesome Jamaican pistachio tagine hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "donabe",
+    "gluten-free",
+    "keto-friendly",
+    "sugar-free",
+    "warm-weather",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "warm-wholesome-jamaican-pistachio-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wholesome-jamaican-pistachio-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:52:42Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "ferment-jang",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pistachio",
+    "descriptor": "Warm Wholesome",
+    "dishForm": "Tagine"
+  }
+}
