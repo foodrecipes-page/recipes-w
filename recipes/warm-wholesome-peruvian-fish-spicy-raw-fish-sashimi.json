@@ -1,0 +1,120 @@
+{
+  "title": "warm, wholesome peruvian fish sashimi",
+  "description": "a crowd-pleasing peruvian dish featuring amazake, robata-grilled fish, and a dash-friendly sauce.",
+  "cuisine": "peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh salmon fillet",
+      "amount": "4",
+      "notes": "sashimi-grade"
+    },
+    {
+      "name": "amazake",
+      "amount": "2 tablespoons",
+      "notes": "warm sake-infused rice milk"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": "peruvian yellow pepper"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "chili pepper",
+      "amount": "1/4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "preheat robata grill to medium-high heat.",
+    "season the salmon fillet with salt and black pepper.",
+    "grill the salmon for 2-3 minutes per side, or until cooked through.",
+    "let the salmon rest for 2 minutes before slicing it into thin pieces.",
+    "in a blender or food processor, combine amazake, aji amarillo pepper, red onion, chili pepper, garlic, and cilantro.",
+    "blend the mixture until smooth, then transfer it to a bowl.",
+    "whisk in lime juice, soy sauce, and olive oil.",
+    "taste and adjust the seasoning as needed.",
+    "arrange the grilled salmon on a plate or cutting board.",
+    "drizzle the amazake sauce over the salmon.",
+    "serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dinner-party",
+    "fish-recipe",
+    "high-protein",
+    "one-pan",
+    "peruvian-cuisine",
+    "sashimi",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "warm-wholesome-peruvian-fish-spicy-raw-fish-sashimi",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wholesome-peruvian-fish-spicy-raw-fish-sashimi",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:40:41Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "robata-grill",
+    "primaryIngredient": "amazake",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish",
+    "descriptor": "Warm, Wholesome",
+    "dishForm": "Spicy Raw Fish Sashimi"
+  }
+}
