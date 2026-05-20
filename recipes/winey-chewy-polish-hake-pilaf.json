@@ -1,0 +1,79 @@
+{
+  "title": "Winey Chewy Polish Hake Pilaf",
+  "description": "A pescatarian-friendly Polish dish featuring hake fillets, cooked in a flavorful wine sauce and served with a side of chewy starch. This dish is perfect for a sick day, as it's easy to digest and requires minimal cooking effort.",
+  "cuisine": "Polish",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    },
+    {
+      "name": "White vinegar",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat a large non-stick iron pan over medium-high heat. Add 1 tablespoon of butter and melt it, then add the hake fillets and cook for 2-3 minutes per side, until golden brown.",
+    "Remove the hake from the pan and set it aside to rest. In the same pan, add the remaining 1 tablespoon of butter and melt it over medium heat. Add the sliced onion and cook for 3-4 minutes, until softened.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the white wine to the pan and stir to deglaze the bottom, scraping up any browned bits. Bring the wine to a simmer and cook for 2-3 minutes, until reduced by half.",
+    "Add the caraway seeds and flour to the pan and stir to combine. Cook for 1-2 minutes, until the mixture forms a smooth paste.",
+    "Gradually add the chicken broth to the pan, whisking continuously to avoid lumps. Bring the mixture to a boil, then reduce the heat to low and simmer for 5-7 minutes, until the sauce thickens.",
+    "Add the cooked hake back to the pan and toss to coat with the sauce. Season with salt and black pepper to taste.",
+    "To serve, divide the cooked rice among four plates, then top each plate with a hake fillet and spoon some of the sauce over the top. Garnish with chopped fresh parsley and serve hot.",
+    "If desired, drizzle a tablespoon of white vinegar over the dish for added brightness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-pescatarian",
+    "high-protein",
+    "one-pan",
+    "polish-cuisine",
+    "weeknight",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "winey-chewy-polish-hake-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-chewy-polish-hake-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:12:49Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "hake",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "hake",
+    "descriptor": "winey chewy",
+    "dishForm": "Pilaf"
+  }
+}
