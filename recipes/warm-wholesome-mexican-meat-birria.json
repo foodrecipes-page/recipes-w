@@ -1,0 +1,118 @@
+{
+  "title": "Warm Wholesome Mexican Meat Birria",
+  "description": "A hearty and comforting Mexican dish featuring tender beef, sweet and spicy sauce, and crunchy tortillas, all served in a warm stone bowl. This diabetic-friendly birria is perfect for a weekend brunch or a special occasion meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": "adds a rich and complex flavor"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "adds a warm and earthy flavor"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "adds a spicy kick"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "lard or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium broth"
+    },
+    {
+      "name": "tortillas",
+      "amount": "6-8 corn tortillas",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat lard or vegetable oil in a large Dutch oven over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the beef brisket pieces and cook until browned, about 5 minutes.",
+    "Add the cocoa powder, cumin, chili powder, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add the beef broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 hours, or until the meat is tender.",
+    "Preheat the oven to 400°F (200°C).",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the birria by placing a portion of the meat mixture onto a warmed tortilla, followed by a spoonful of the sweet and spicy sauce, and finally a sprinkle of fresh cilantro.",
+    "Serve immediately and enjoy!",
+    "Garnish with lime wedges, onion slices, and cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "birria",
+    "comfort-food",
+    "diabetic-friendly",
+    "mexican",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "warm-wholesome-mexican-meat-birria",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wholesome-mexican-meat-birria",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:38:21Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "cocoa",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Meat",
+    "descriptor": "Warm Wholesome",
+    "dishForm": "Birria"
+  }
+}
