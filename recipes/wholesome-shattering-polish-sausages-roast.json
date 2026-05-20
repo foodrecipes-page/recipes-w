@@ -1,0 +1,62 @@
+{
+  "title": "wholesome shattering polish sausages roast",
+  "description": "a keto-friendly polish dish featuring roasted sausages with a yuzu-cure and caramelized onions, perfect for a lazy sunday afternoon",
+  "cuisine": "polish",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork sausages",
+      "amount": "4",
+      "notes": "look for a keto-friendly polish sausage"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 425f (220c).",
+    "line a baking sheet with parchment paper.",
+    "place the sausages on the prepared baking sheet, leaving about 1 inch of space between each sausage.",
+    "drizzle the top of each sausage with a little bit of yuzu-cure.",
+    "roast in the preheated oven for 20-25 minutes, or until the sausages are nicely browned and caramelized.",
+    "meanwhile, caramelize the onions in a large skillet over medium heat, stirring occasionally, until they are deep golden brown.",
+    "after the sausages have roasted for 20 minutes, add the caramelized onions to the baking sheet and return to the oven for an additional 5-10 minutes, or until the onions are crispy.",
+    "remove the sausages and onions from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "keto-friendly",
+    "lazy-sunday",
+    "polish-dish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "wholesome-shattering-polish-sausages-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-shattering-polish-sausages-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:41:29Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "sausages",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Sausages",
+    "descriptor": "Wholesome Shattering",
+    "dishForm": "Roast"
+  }
+}
