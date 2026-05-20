@@ -1,0 +1,108 @@
+{
+  "title": "Weeknight Yeasty American Andouille Broil",
+  "description": "A swift, weeknight American dish featuring andouille French sausage, a crispy broiled crust, and a sweet, sticky glaze. Perfect for a busy evening, this lacto-vegetarian-friendly recipe is a crowd pleaser.",
+  "cuisine": "american",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Andouille French sausage",
+      "amount": "8 oz",
+      "notes": "4-6 links"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Bread",
+      "amount": "4-6 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat broiler to high heat. Line a baking sheet with foil and spray with cooking spray.",
+    "Slice the onion and bell pepper into thick rings.",
+    "Place the sausage on the prepared baking sheet, leaving space between each link.",
+    "Broil the sausage for 5 minutes on each side, or until browned.",
+    "In a small bowl, whisk together the brown sugar, Worcestershire sauce, and lemon juice.",
+    "Brush the glaze over the sausage during the last 2 minutes of broiling.",
+    "Slice the bread into thick slices and toast until crispy.",
+    "Place the toasted bread on a plate and top with a sausage link, onion, and bell pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breading",
+    "meal-prep",
+    "one-pan",
+    "sausage",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "weeknight-yeasty-american-andouille-broil",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/weeknight-yeasty-american-andouille-broil",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:36:21Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "broil",
+    "primaryIngredient": "andouille-french",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "andouille",
+    "descriptor": "weeknight yeasty",
+    "dishForm": "broil"
+  }
+}
