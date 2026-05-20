@@ -1,0 +1,125 @@
+{
+  "title": "Wholesome Australian Yeast Bowl",
+  "description": "A hearty, yeasty, crispy Australian dish featuring pickle juice and stone-bowl dolsot that's perfect for a sick day and is fodmap-friendly.",
+  "cuisine": "Australian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rye flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Pickle juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dolsot stone bowl",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated carrot",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced beetroot",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salted fermented soybeans",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the dolsot stone bowl to 450°F (230°C).",
+    "In a large bowl, combine rye flour, yeast, and salt. Gradually add warm water, mixing until a sticky dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Cover the dough with plastic wrap and let rise in a warm place for 1 hour.",
+    "Preheat a non-stick skillet over medium-high heat. Add sesame oil and swirl to coat.",
+    "Add the dough to the skillet and cook for 2-3 minutes on each side, or until crispy and golden brown.",
+    "Transfer the dough to the preheated dolsot stone bowl and cook for an additional 2-3 minutes, or until crispy and fragrant.",
+    "Top the yeast bowl with a mixture of pickle juice, scallions, grated carrot, diced beetroot, salted fermented soybeans, and chopped fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "breakfast",
+    "fodmap-friendly",
+    "healthy",
+    "high-protein",
+    "one-pan",
+    "sick-day",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "wholesome-australian-yeast-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-australian-yeast-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:36:41Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "pickle juice",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "yeast",
+    "descriptor": "wholesome",
+    "dishForm": "Bowl"
+  }
+}
