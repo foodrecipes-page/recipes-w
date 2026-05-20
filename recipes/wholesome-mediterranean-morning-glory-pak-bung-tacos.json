@@ -1,0 +1,119 @@
+{
+  "title": "wholesome mediterranean morning-glory-pak-bung tacos",
+  "description": "nutty and snappy, kid-friendly mediterranean dish featuring morning-glory-pak-bung, shio-koji-cure, low-glycemic-friendly, all in a crispy taco vessel",
+  "cuisine": "mediterranean",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "morning-glory-pak-bung",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shio-koji-cured salmon",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "coarse bulgur",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "low-glycemic tortillas",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "sumac",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat a dry comal over medium heat.",
+    "add a low-glycemic tortilla and cook for 30 seconds on each side, until crispy.",
+    "in a large bowl, combine morning-glory-pak-bung, shio-koji-cured salmon, coarse bulgur, feta cheese, kalamata olives, red onion, lemon juice, olive oil, salt, and black pepper. mix well.",
+    "add chopped fresh parsley and mix again.",
+    "spoon the mixture onto a crispy tortilla, and top with sumac.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "kid-friendly",
+    "low-glycemic",
+    "one-pan",
+    "tacos",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "wholesome-mediterranean-morning-glory-pak-bung-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-mediterranean-morning-glory-pak-bung-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:25:36Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "morning-glory-pak-bung",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "mediterranean",
+    "mainIngredient": "morning-glory-pak-bung",
+    "descriptor": "wholesome kid-friendly",
+    "dishForm": "tacos"
+  }
+}
