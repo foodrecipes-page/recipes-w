@@ -1,0 +1,127 @@
+{
+  "title": "Warm Wholesome Polish Cheese Casserole",
+  "description": "A hearty, winey one-pot Polish dish featuring a garlic sauce and a delicious cheese pull, perfect for a cold evening.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "2 cups, shredded",
+      "notes": null
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "White wine",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Melt the butter in a large Dutch oven over medium heat. Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Sprinkle the flour over the onion mixture and cook for 1-2 minutes, stirring constantly.",
+    "Slowly pour in the chicken broth, whisking continuously to avoid lumps. Bring the mixture to a simmer.",
+    "Add the white wine, salt, and black pepper. Stir to combine.",
+    "Stir in the garlic sauce until well combined.",
+    "Transfer the Dutch oven to the preheated oven and bake for 20-25 minutes, or until the casserole is hot and the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and sprinkle the shredded mozzarella, cheddar, and crumbled feta cheese on top.",
+    "Return the casserole to the oven and broil for 2-3 minutes, or until the cheese is golden brown and melted.",
+    "Remove the casserole from the oven and sprinkle with chopped parsley.",
+    "Let the casserole rest for 5 minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lovers",
+    "comfort-food",
+    "diabetic-friendly",
+    "garlic-lovers",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 28,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "warm-wholesome-polish-cheese-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wholesome-polish-cheese-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:17:39Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "broil",
+    "primaryIngredient": "garlic sauce",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "cheese",
+    "descriptor": "Warm Wholesome",
+    "dishForm": "Casserole"
+  }
+}
