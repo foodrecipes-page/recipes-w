@@ -1,0 +1,100 @@
+{
+  "title": "Warm Hearty Dutch Tripe Pasta",
+  "description": "Post-workout Dutch comfort food featuring tripe and a rich pasta water emulsion.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Pasta (e.g., pappardelle or fettuccine)",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Gruy\u00054re cheese",
+      "amount": "1 cup, grated"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Cook the pasta according to the package instructions until al dente.",
+    "In a large pot, melt the butter over medium heat.",
+    "Add the sliced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced bacon and cook until crispy, about 5 minutes.",
+    "Add the tripe and cook until browned on all sides, about 5 minutes.",
+    "Add the miso paste and vegetable broth to the pot, stirring to combine.",
+    "Add the cooked pasta to the pot and toss to combine.",
+    "Transfer the pasta mixture to a fondue pot or a large serving dish.",
+    "Sprinkle the grated Gruy\u00054re cheese over the top of the pasta.",
+    "Serve the pasta hot, garnished with fresh parsley.",
+    "Place the fondue pot or serving dish over low heat to keep the pasta warm and melted."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "dutch",
+    "one-pan",
+    "post-workout",
+    "rich",
+    "sattvic"
+  ],
+  "nutrition": {
+    "calories": 1240,
+    "protein": 62,
+    "carbs": 128,
+    "fat": 64
+  },
+  "slug": "warm-hearty-dutch-tripe-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-hearty-dutch-tripe-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:28:24Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "cheese-pull",
+    "mood": "post-workout",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "tripe",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Tripe",
+    "descriptor": "Warm Hearty",
+    "dishForm": "Pasta"
+  }
+}

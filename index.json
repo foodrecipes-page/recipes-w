@@ -4123,6 +4123,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-hearty-dutch-tripe-pasta",
+    "title": "Warm Hearty Dutch Tripe Pasta",
+    "tags": [
+      "comfort-food",
+      "dutch",
+      "one-pan",
+      "post-workout",
+      "rich",
+      "sattvic"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-hearty-french-corned-beef-pot-au-feu",
     "title": "Warm Hearty French Corned Beef Pot au Feu",
     "tags": [
@@ -6272,6 +6287,21 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-saudi-arabian-nutmeg-tagine",
+    "title": "Warm Saudi-Arabian Nutmeg Tagine",
+    "tags": [
+      "crunchy",
+      "nutmeg",
+      "saudi-arabian",
+      "slow-cooked",
+      "tagine",
+      "warm"
+    ],
+    "cuisine": "Saudi-Arabian",
+    "totalTimeMin": 60,
     "shard": "w"
   },
   {
