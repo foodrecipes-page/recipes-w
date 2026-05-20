@@ -1,0 +1,116 @@
+{
+  "title": "Wholesome Warm Vietnamese Mixed Grain Bun Cha",
+  "description": "Rich, velvety Vietnamese dish made with mixed grain, featuring a smoke-cold flavor profile without onions or garlic. Perfect for a comforting hangover cure.",
+  "cuisine": "Vietnamese",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Mixed Grain Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional, omit if gluten-free requirement."
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Palm Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Optional, omit if sugar-free requirement."
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "For cooking the rice."
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1 bunch",
+      "notes": "Optional, omit if fresh herbs not desired."
+    },
+    {
+      "name": "Fragrant Star Anise",
+      "amount": "1 piece",
+      "notes": "Optional, omit if flavor not desired."
+    },
+    {
+      "name": "Fragrant Cinnamon stick",
+      "amount": "1 piece",
+      "notes": "Optional, omit if flavor not desired."
+    }
+  ],
+  "instructions": [
+    "Combine mixed grain rice, water, palm sugar, fish sauce, rice vinegar, sugar, salt, and black pepper in a large saucepan. Bring to a boil, then reduce heat to low and simmer for 18 minutes or until liquid has been absorbed.",
+    "In a separate pan, smoke the ground pork over low heat for 10 minutes, stirring occasionally, or until it reaches a tender, caramelized texture.",
+    "Add the fragrant star anise and cinnamon stick to the pan and continue to cook for an additional 2 minutes, or until fragrant.",
+    "Remove the star anise and cinnamon stick from the pan and stir in the cooked mixed grain rice, breaking up any clumps.",
+    "Transfer the mixture to a lacquerware bowl and garnish with fresh cilantro, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bun-cha",
+    "comfort-food",
+    "hangover-cure",
+    "high-protein",
+    "mixed-grain",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 50,
+    "carbs": 180,
+    "fat": 40
+  },
+  "slug": "wholesome-warm-vietnamese-mixed-grain-bun-cha",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-warm-vietnamese-mixed-grain-bun-cha",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:09:04Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "smoke-cold",
+    "primaryIngredient": "mixed grain",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "mixed grain",
+    "descriptor": "wholesome warm",
+    "dishForm": "Bun Cha"
+  }
+}
