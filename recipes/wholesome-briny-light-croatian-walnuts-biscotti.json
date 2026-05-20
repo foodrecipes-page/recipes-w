@@ -1,0 +1,118 @@
+{
+  "title": "wholesome briny light croatian walnuts biscotti",
+  "description": "a classic croatian biscotti recipe featuring the rich flavors of walnuts and the salty notes of cure, perfect for a light breakfast or snack.",
+  "cuisine": "croatian",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": "use a high-quality unbleached flour for best results"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 teaspoon",
+      "notes": "do not skip this ingredient"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "use a flaky sea salt for added texture"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/2 teaspoon",
+      "notes": "a classic croatian herb"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup",
+      "notes": "use a high-quality muscovado sugar for best flavor"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted but still cool to the touch"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "room temperature eggs work best"
+    },
+    {
+      "name": "cure",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality flaky sea salt cure, such as maldon or fleur de sel"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "used as a topping after baking"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 350\u00118f (175\u00118c).",
+    "line a baking sheet with parchment paper.",
+    "whisk together the flour, baking soda, and salt in a medium bowl.",
+    "in a large bowl, whisk together the brown sugar, melted butter, eggs, and oregano.",
+    "add the walnuts and mix until they are evenly distributed.",
+    "add the flour mixture and mix until just combined, being careful not to overmix.",
+    "transfer the dough to the prepared baking sheet and shape it into a log about 12 inches long.",
+    "place the log in the oven and bake for 30 minutes, or until the edges are lightly golden.",
+    "remove the log from the oven and let it cool on a wire rack for 10 minutes.",
+    "reduce the oven temperature to 325\u00118f (165\u00118c).",
+    "transfer the log to a cutting board and slice it into 1/2-inch thick rounds.",
+    "place the rounds on the baking sheet and bake for an additional 20-25 minutes, or until the edges are lightly golden.",
+    "remove the biscotti from the oven and let them cool on a wire rack for 10 minutes.",
+    "while the biscotti are cooling, mix together the granulated sugar and cure in a small bowl.",
+    "dip the tops of the biscotti into the sugar mixture, coating them evenly.",
+    "place the biscotti on a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "biscotti",
+    "breakfast",
+    "briny",
+    "croatian",
+    "light",
+    "pescatarian",
+    "walnuts"
+  ],
+  "nutrition": {
+    "calories": 336,
+    "protein": 6,
+    "carbs": 43,
+    "fat": 16
+  },
+  "slug": "wholesome-briny-light-croatian-walnuts-biscotti",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-briny-light-croatian-walnuts-biscotti",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:28:47Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "cure",
+    "primaryIngredient": "walnuts",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "walnuts",
+    "descriptor": "wholesome briny light",
+    "dishForm": "biscotti"
+  }
+}
