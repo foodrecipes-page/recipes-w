@@ -1,0 +1,90 @@
+{
+  "title": "Warm and Ferment-Kimchi Argentinian Date Night Tagine",
+  "description": "A warm, umami-rich, Argentinian-inspired dish featuring fermented kimchi and featuring ceramic tagine vessel, perfect for a date night in.",
+  "cuisine": "Argentinian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 jar",
+      "notes": ""
+    },
+    {
+      "name": "quince paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in the ceramic tagine vessel over medium-high heat",
+    "Add garlic and saut\u00163 until fragrant, 1 minute",
+    "Add chicken breast and cook until browned, 3-4 minutes",
+    "Add sweet potato, thyme, and quince paste; stir to combine",
+    "Pour in 2 cups of warm water; cover the vessel and simmer for 20 minutes",
+    "Stir in ferment-kimchi and cook for an additional 5 minutes"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian",
+    "date-night",
+    "fodmap-friendly",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "warm-and-ferment-kimchi-argentinian-date-night-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-and-ferment-kimchi-argentinian-date-night-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:58:53Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "warm water",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Date Night",
+    "descriptor": "Warm and Ferment-Kimchi",
+    "dishForm": "Tagine"
+  }
+}

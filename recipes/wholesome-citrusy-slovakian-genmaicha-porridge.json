@@ -1,0 +1,91 @@
+{
+  "title": "wholesome citrusy slovakian genmaicha porridge",
+  "description": "a silky and comforting genmaicha porridge infused with the brightness of citrus and the tang of pickle, perfect for a lazy sunday morning",
+  "cuisine": "slovakian",
+  "diet": [
+    null,
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "genmaicha green tea",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "pickle juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the genmaicha green tea in water to a boil in a medium saucepan",
+    "reduce the heat to low and simmer for 5 minutes",
+    "stir in the pickle juice and honey until dissolved",
+    "add the orange zest and lemon juice",
+    "cook for an additional 2 minutes",
+    "stir in the coconut oil to finish"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "comforting",
+    "lazy",
+    "slovakian",
+    "sunday"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "wholesome-citrusy-slovakian-genmaicha-porridge",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-citrusy-slovakian-genmaicha-porridge",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:57:57Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "pickle",
+    "primaryIngredient": "genmaicha",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "genmaicha",
+    "descriptor": "wholesome citrusy",
+    "dishForm": "porridge"
+  }
+}
