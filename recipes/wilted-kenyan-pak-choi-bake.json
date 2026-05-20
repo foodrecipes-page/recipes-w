@@ -1,0 +1,87 @@
+{
+  "title": "Wilted Kenyan Pak Choi Bake",
+  "description": "A resinous, crumbly, kid-friendly Kenyan dish featuring pak choi, mantecare-emulsified and Mediterranean friendly. Enjoy this as a comforting meal any time of the day.",
+  "cuisine": "Kenyan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pak choi",
+      "amount": "2 bunches",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "",
+      "},{": true,
+      " name": "mantecare emulsifier",
+      "}],[": " name",
+      "  emulsifier: ": "mante-  .car   emu"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse the pak choi and trim the ends.",
+    "Cut the pak choi in half lengthwise and place it in a baking dish.",
+    "In a separate bowl, mix together the suet, flour, and mantecare emulsifier until well combined.",
+    "Pour the mixture evenly over the pak choi, making sure each piece is coated.",
+    "Sprinkle salt and black pepper to taste.",
+    "Drizzle olive oil over the top for extra flavor.",
+    "Bake in the preheated oven for 20-25 minutes, or until the top is golden brown and crispy.",
+    "Remove from the oven and sprinkle breadcrumbs over the top.",
+    "Return to the oven for an additional 5-10 minutes, or until the breadcrumbs are golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "kenyan",
+    "kid-friendly",
+    "one-pan",
+    "resinous"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "wilted-kenyan-pak-choi-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-kenyan-pak-choi-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:42:34Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "pak choi",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "pak choi",
+    "descriptor": "wilted",
+    "dishForm": "bake"
+  }
+}
