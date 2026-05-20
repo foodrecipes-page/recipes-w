@@ -1,0 +1,79 @@
+{
+  "title": "wholesome rolled middle-eastern oats bake",
+  "description": "a shaggy, lazy-sunday middle-eastern dish featuring rolled oats and lamination-puff, perfect for a jain-friendly breakfast option",
+  "cuisine": "middle-eastern",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "lamination puff pastry",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "crushed sumac",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375 degrees.",
+    "roll out lamination puff pastry to a thickness of 1/4 inch.",
+    "spread 2 cups of rolled oats evenly over the center of the pastry, leaving 1 inch of space around the edges.",
+    "fold the edges of the pastry up over the oats to form a crust.",
+    "brush the edges of the pastry with egg wash made from 1 cup of water.",
+    "bake for 30 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-brunch",
+    "middle-eastern",
+    "oatmeal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "wholesome-rolled-middle-eastern-oats-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-rolled-middle-eastern-oats-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:04:14Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "lamination-puff",
+    "primaryIngredient": "rolled oats",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "oats",
+    "descriptor": "wholesome rolled",
+    "dishForm": "Bake"
+  }
+}
