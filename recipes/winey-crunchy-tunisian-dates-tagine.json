@@ -1,0 +1,98 @@
+{
+  "title": "Winey Crunchy Tunisian Dates Tagine",
+  "description": "A midnight-craving Tunisian dish featuring pitted dates, crunchy nuts, and a hint of wine. Perfect for gluten-free diets.",
+  "cuisine": "tunisian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pitted dates",
+      "amount": "200",
+      "notes": ""
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "raw"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 tbsp",
+      "notes": "dry red wine alternative"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a tagine over medium heat.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Add the chopped almonds and cook for another minute.",
+    "Add the pitted dates, honey, white wine, cinnamon, and salt. Stir to combine.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Serve warm, garnished with additional almonds if desired.",
+    "Refrigerate leftovers for up to 3 days.",
+    "Freeze for up to 2 months.",
+    "Reheat in the microwave or oven before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free-friendly",
+    "midnight-craving",
+    "one-pan",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 70,
+    "fat": 14
+  },
+  "slug": "winey-crunchy-tunisian-dates-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-crunchy-tunisian-dates-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:53:15Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "knead",
+    "primaryIngredient": "pitted dates",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "dates",
+    "descriptor": "winey crunchy",
+    "dishForm": "Tagine"
+  }
+}

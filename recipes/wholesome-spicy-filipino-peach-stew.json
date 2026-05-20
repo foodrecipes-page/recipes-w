@@ -1,0 +1,115 @@
+{
+  "title": "wholesome spicy filipino peach stew",
+  "description": "a traditional filipino dish with spicy kick and flaky texture, served in a copper pot",
+  "cuisine": "filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "peach juice",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "tandoor powder",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "heat oil in a copper pot over medium-high heat.",
+    "add chicken and cook until browned, about 5 minutes.",
+    "add onion and garlic and stir-fry until softened, about 3 minutes.",
+    "add ginger, chili peppers, and bay leaves, and cook for 1 minute.",
+    "add peach juice, salt, black pepper, cumin, and tandoor powder.",
+    "bring to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "taste and adjust seasoning as needed.",
+    "serve hot, garnished with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-pot",
+    "filipino",
+    "flaky",
+    "low-fat",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "wholesome-spicy-filipino-peach-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-spicy-filipino-peach-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:54:07Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "tandoor",
+    "primaryIngredient": "peach juice",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "filipino",
+    "mainIngredient": "peach",
+    "descriptor": "wholesome spicy",
+    "dishForm": "stew"
+  }
+}
