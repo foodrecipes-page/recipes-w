@@ -1,0 +1,124 @@
+{
+  "title": "Warming Midnight Craving Dutch Stew",
+  "description": "A briny, snappy, midnight-craving Dutch dish featuring cooking wine and robata-grill. Perfect for a chilly evening.",
+  "cuisine": "dutch",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked bacon",
+      "amount": "6 slices",
+      "notes": "preferably Dutch bacon"
+    },
+    {
+      "name": "red potatoes",
+      "amount": "4-5 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "4-5 medium",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-5",
+      "notes": ""
+    },
+    {
+      "name": "red wine cooking wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "robata-grilled mushrooms",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat. Slice the smoked bacon into small pieces and set aside.",
+    "Cook the sliced onions in a large kazán cauldron over medium heat until softened, about 8 minutes.",
+    "Add the sliced mushrooms to the cauldron and cook for 4-5 minutes, until they start to release their juices.",
+    "Add the sliced carrots to the cauldron and cook for another 4 minutes, until they start to soften.",
+    "Add the sliced red potatoes to the cauldron and stir to combine.",
+    "Add the beef broth, red wine cooking wine, tomato paste, thyme, salt, and pepper to the cauldron. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes, or until the potatoes are tender.",
+    "Add the sliced smoked bacon to the stew and stir to combine.",
+    "Simmer for an additional 2-3 minutes, until the bacon is crispy and the stew is heated through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch",
+    "flexitarian",
+    "midnight-craving",
+    "one-pot",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 22
+  },
+  "slug": "warming-midnight-craving-dutch-dutch-cuisine-dish-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warming-midnight-craving-dutch-dutch-cuisine-dish-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:30:53Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "robata-grill",
+    "primaryIngredient": "cooking wine",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Dutch cuisine dish",
+    "descriptor": "Warming Midnight Craving",
+    "dishForm": "Stew"
+  }
+}
