@@ -1,0 +1,106 @@
+{
+  "title": "wholesome fluffyslovakian creme fraiche bowl",
+  "description": "a simple yet satisfying slovakian dish featuring creme fraiche, bonito flakes, and fresh dill, perfect for a lazy sunday breakfast or brunch",
+  "cuisine": "slovakian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "chilled in the refrigerator overnight"
+    },
+    {
+      "name": "plain creme fraiche",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "2 tsp",
+      "notes": "or 1 tsp fresh dill weed"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1 tsp",
+      "notes": "",
+      "optional": true
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp",
+      "notes": "",
+      "optional": true
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp",
+      "notes": "for dusting the bowl",
+      "optional": true
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 tbsp",
+      "notes": "optional, for garnish",
+      "optional": true
+    }
+  ],
+  "instructions": [
+    "in a small saucepan, warm the heavy cream over low heat until it starts to simmer.",
+    "remove the cream from the heat and let it steep for 10 minutes with the dried dill weed.",
+    "strain the cream through a fine-mesh sieve into a clean bowl and discard the dill weed.",
+    "stir in the creme fraiche and bonito flakes (if using).",
+    "season the mixture with salt and pepper to taste.",
+    "dust the bowl with flour (if using).",
+    "scoop the creamy mixture into the prepared bowl and garnish with a dollop of sour cream (if using).",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "creme-fraiche",
+    "easy",
+    "slovakian",
+    "sunday",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "wholesome-fluffy-slovakian-creme-fraiche-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-fluffy-slovakian-creme-fraiche-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:06:09Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "bonito-shave",
+    "primaryIngredient": "creme fraiche",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "creme fraiche",
+    "descriptor": "wholesome fluffy",
+    "dishForm": "bowl"
+  }
+}
