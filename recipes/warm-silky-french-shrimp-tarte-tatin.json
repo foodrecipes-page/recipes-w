@@ -1,0 +1,115 @@
+{
+  "title": "Warm Silky French Shrimp Tarte Tatin",
+  "description": "This Alsatian-inspired dish combines the pungency of dried shrimp with the silkiness of emulsified egg yolks, perfect for a brunch gathering. Made with a FODMAP-friendly crust and a delicate filling, this tarte tatin is a unique twist on the classic French dessert.",
+  "cuisine": "French",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dried shrimp",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "4 large",
+      "notes": "FODMAP-friendly emulsifier"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Butter for brushing",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a food processor, combine the flour, cold butter, and salt. Process until the mixture resembles coarse crumbs.",
+    "Add the granulated sugar and pulse until just combined.",
+    "Press the mixture into a 9-inch (23cm) tart pan with a removable bottom.",
+    "In a separate bowl, whisk together the egg yolks and heavy cream. ",
+    "Add the lemon juice and whisk until smooth.",
+    "Add the dried shrimp and whisk until well combined.",
+    "Pour the filling into the prepared tart crust and smooth the top.",
+    "Brush the edges of the crust with butter.",
+    "Bake the tarte tatin for 40-45 minutes, or until the crust is golden brown and the filling is set.",
+    "Remove the tarte tatin from the oven and let it cool for 10 minutes.",
+    "Invert the tarte tatin onto a serving plate and serve warm.",
+    "Garnish with fresh thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "brunch",
+    "fodmap-friendly",
+    "french",
+    "shrimp",
+    "tarte-tatin"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "warm-silky-french-shrimp-tarte-tatin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-silky-french-shrimp-tarte-tatin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:24:36Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "emulsify",
+    "primaryIngredient": "dried shrimp",
+    "diet": "fodmap",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Warm Silky",
+    "dishForm": "Tarte Tatin"
+  }
+}
