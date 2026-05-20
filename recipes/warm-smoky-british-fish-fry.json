@@ -1,0 +1,106 @@
+{
+  "title": "Warm Smoky British Fish Fry",
+  "description": "A smoky, aerated, and energizing Polish-inspired fish dish featuring malt vinegar, served in a terracotta dish. Perfect for a cozy dinner or a weeknight meal.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Malt vinegar",
+      "amount": "2 tbsp",
+      "notes": "British-style"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": "All-purpose"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "Dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Kosher"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": "Black"
+    },
+    {
+      "name": " Vegetable oil",
+      "amount": "2 cups",
+      "notes": "For frying"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Dredge the cod fillets in the flour mixture, shaking off excess.",
+    "Fry the cod fillets in batches until golden brown and crispy, about 3-4 minutes per side.",
+    "Transfer the fried cod to a paper towel-lined plate to drain excess oil.",
+    "In the same skillet, add the smoked paprika, garlic powder, salt, and pepper, and cook for 1 minute.",
+    "Add the malt vinegar to the skillet and stir to combine.",
+    "Return the fried cod to the skillet and toss to coat with the smoky vinegar mixture.",
+    "Serve the Warm Smoky British Fish Fry hot in a terracotta dish, garnished with chopped parsley and lemon wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-option",
+    "british",
+    "fish",
+    "kosher",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "warm-smoky-british-fish-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-smoky-british-fish-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:54:48Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "fry",
+    "primaryIngredient": "malt vinegar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "fish",
+    "descriptor": "Warm Smoky",
+    "dishForm": "Fry"
+  }
+}

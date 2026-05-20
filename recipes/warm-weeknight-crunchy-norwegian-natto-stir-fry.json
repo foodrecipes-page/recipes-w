@@ -1,0 +1,75 @@
+{
+  "title": "Warm Weeknight Crunchy Norwegian Natto Stir-fry",
+  "description": "A quick and nutritious stir-fry featuring the funky fermented soybeans natto, crunchy veggies, and a touch of Norwegian flair, all cooked in a single mason jar. Perfect for a busy weeknight dinner that's also ayurvedic-sattvic-friendly.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Natto (fermented soybeans)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mixed Nori Seaweed Sheets",
+      "amount": "2 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Mason Jar",
+      "amount": "1",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Add a small amount of water to the mason jar and bring to a boil over medium heat.",
+    "Add the natto and mix to loosen the fermented soybeans with a spatula.",
+    "Add the mixed nori seaweed sheets on top of the natto and mix to combine.",
+    "Add 1 tablespoon of oil to the mason jar and swirl to coat the bottom.",
+    "Add the chopped cabbage, carrots, and green onions to the mason jar and sprinkle with salt and pepper to taste.",
+    "Cook for an additional 5 minutes, or until the vegetables are tender-crisp.",
+    "Remove the mason jar from the heat and let it cool slightly before serving.",
+    "Garnish with chopped fresh parsley or dill, if desired.",
+    "Serve immediately, garnished with additional seaweed sheets if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "warm-weeknight-crunchy-norwegian-natto-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-weeknight-crunchy-norwegian-natto-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:55:18Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "tadka",
+    "primaryIngredient": "natto",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "natto",
+    "descriptor": "Warm Weeknight Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
