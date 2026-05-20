@@ -1,0 +1,62 @@
+{
+  "title": "winey nostalgic mediterranean clams bake",
+  "description": "a wine-infused twist on traditional mediterranean clams bake, perfect for a cozy dinner with friends and family. inspired by the flavors of the mediterranean, this dish is sure to become a new favorite.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "clams",
+      "amount": "3 dozen",
+      "notes": "freshly shucked"
+    }
+  ],
+  "instructions": [
+    "preheat the wood-fired salt block to 450\t9c",
+    "in a large bowl, combine the clams, olive oil, garlic, lemon juice, oregano, thyme, salt, and black pepper",
+    "add the white wine to the bowl and toss to coat",
+    "place the clams in a single layer on the salt block",
+    "bake for 10-12 minutes, or until the clams are opened and the wine is bubbly",
+    "remove the clams from the oven and sprinkle with parsley",
+    "serve immediately, garnished with lemon wedges"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clams",
+    "easy-dinner",
+    "mediterranean",
+    "seafood",
+    "weeknight",
+    "wine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 8,
+    "fat": 20
+  },
+  "slug": "winey-nostalgic-mediterranean-clams-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-nostalgic-mediterranean-clams-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:46:44Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "clams",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "clams",
+    "descriptor": "winey nostalgic",
+    "dishForm": "bake"
+  }
+}
