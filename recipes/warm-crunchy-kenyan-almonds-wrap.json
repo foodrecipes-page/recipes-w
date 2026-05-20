@@ -1,0 +1,133 @@
+{
+  "title": "Warm Crunchy Kenyan Almonds Wrap",
+  "description": "A briny, crunchy, and energizing Kenyan dish featuring ssamjang and katsuramuki-cut almonds, perfect for a kosher-friendly breakfast or snack.",
+  "cuisine": "kenyan",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kosher-friendly tortilla",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Katsuramuki-cut almonds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ssamjang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "grated",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a small skillet over medium-high heat.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, until fragrant.",
+    "Add the katsuramuki-cut almonds to the skillet and cook for 2-3 minutes, until lightly toasted.",
+    "Add the ssamjang, salt, black pepper, chili flakes, crushed red pepper, and sesame seeds to the skillet and cook for 30 seconds, until the mixture is well combined.",
+    "Warm the kosher-friendly tortilla in the skillet for 30 seconds, until slightly puffed.",
+    "Sprinkle the chopped cilantro and lemon juice over the tortilla.",
+    "Assemble the wrap by spreading the toasted almond mixture down the center of the tortilla, leaving a 1-inch border around the edges.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Cut the wrap in half and serve immediately.",
+    "Serve warm, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "gluten-free",
+    "kenyan",
+    "kosher",
+    "snack",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "warm-crunchy-kenyan-almonds-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-crunchy-kenyan-almonds-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:56:20Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "ssamjang",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "almonds",
+    "descriptor": "warm crunchy",
+    "dishForm": "wrap"
+  }
+}
