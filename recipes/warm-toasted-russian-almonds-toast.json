@@ -1,0 +1,113 @@
+{
+  "title": "Warm Toasted Russian Almonds Toast",
+  "description": "A savory, crispy, Russian dish featuring almond essence, perfect for meal prep, ovo-vegetarian-friendly, and cooked in a cataplana.",
+  "cuisine": "Russian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Whole wheat bread",
+      "amount": "2 slices",
+      "notes": "any type of bread will do, but whole wheat is recommended for better nutrition."
+    },
+    {
+      "name": "Almond essence",
+      "amount": "1 tsp",
+      "notes": "almond extract can be used as a substitute."
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "can be replaced with other plant-based butters."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced or slivered."
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "2 tbsp",
+      "notes": "can be omitted for a cheese-free option."
+    },
+    {
+      "name": "Cataplana",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "",
+      "notes": "for greasing the cataplana."
+    }
+  ],
+  "instructions": [
+    "Preheat the cataplana over medium heat. ",
+    "Add a small amount of olive oil to the cataplana and grease it. ",
+    "Cut the bread into 1-inch cubes and place them inside the cataplana. ",
+    "Drizzle the almond essence over the bread. ",
+    "Sprinkle the sliced almonds over the bread. ",
+    "Add the grated cheddar cheese over the almonds. ",
+    "Add the minced garlic and chopped parsley over the cheese. ",
+    "Season with salt and black pepper to taste. ",
+    "Place the cataplana over medium heat and cook for 3-4 minutes on each side, until the bread is toasted and the cheese is melted. ",
+    "Serve hot and enjoy! "
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal-prep",
+    "russian-breakfast",
+    "savory-snack",
+    "veggie-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "warm-toasted-russian-almonds-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-toasted-russian-almonds-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:19:15Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "toast",
+    "primaryIngredient": "almond essence",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "almonds",
+    "descriptor": "Warm Toasted",
+    "dishForm": "Toast"
+  }
+}

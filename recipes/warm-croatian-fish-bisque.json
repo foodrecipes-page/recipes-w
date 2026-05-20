@@ -1,0 +1,114 @@
+{
+  "title": "warm croatian fish bisque",
+  "description": "a hearty and comforting soup originating from croatia, flavored with nutmeg and topped with a shaving of bonito",
+  "cuisine": "croatian",
+  "diet": [
+    "vegetarian",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish bones",
+      "amount": "2 pounds",
+      "notes": "any white fish works well, such as cod or haddock"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fennel",
+      "amount": "1 bulb",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup",
+      "notes": "such as chardonnay or sauvignon blanc"
+    },
+    {
+      "name": "fish stock",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1 teaspoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large pot over medium heat.",
+    "add the chopped onion, garlic, fennel, carrots, and celery and cook until the vegetables are tender, about 10 minutes.",
+    "add the fish bones and cook for an additional 2 minutes, stirring occasionally.",
+    "add the white wine and cook until the liquid is almost completely reduced, scraping up any browned bits from the bottom of the pot.",
+    "add the fish stock, nutmeg, and bay leaves, and bring to a boil.",
+    "reduce the heat to low and simmer for 10-15 minutes, or until the soup has reduced slightly and the flavors have melded together.",
+    "season with salt and pepper to taste.",
+    "serve hot, topped with a shaving of bonito and a sprinkle of chopped parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cold-weather",
+    "comforting",
+    "croatian",
+    "seafood",
+    "soup",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "warm-croatian-fish-bisque",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-croatian-fish-bisque",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:19:35Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "bonito-shave",
+    "primaryIngredient": "nutmeg",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "fish",
+    "descriptor": "Warm",
+    "dishForm": "Bisque"
+  }
+}

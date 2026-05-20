@@ -1983,6 +1983,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-croatian-fish-bisque",
+    "title": "warm croatian fish bisque",
+    "tags": [
+      "cold-weather",
+      "comforting",
+      "croatian",
+      "seafood",
+      "soup",
+      "weeknight"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
     "slug": "warm-croatian-pepper-gratin",
     "title": "warm croatian pepper gratin",
     "tags": [
@@ -9358,6 +9373,19 @@
       "weeknight"
     ],
     "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-toasted-russian-almonds-toast",
+    "title": "Warm Toasted Russian Almonds Toast",
+    "tags": [
+      "easy-meal-prep",
+      "russian-breakfast",
+      "savory-snack",
+      "veggie-friendly"
+    ],
+    "cuisine": "Russian",
     "totalTimeMin": 25,
     "shard": "w"
   },
