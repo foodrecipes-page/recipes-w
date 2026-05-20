@@ -17683,6 +17683,19 @@
     "shard": "w"
   },
   {
+    "slug": "winey-turkish-dutch-stroop-wrap",
+    "title": "Winey Turkish Dutch Stroop Wrap",
+    "tags": [
+      "diabetic-friendly",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
     "slug": "winey-ukrainian-butter-toast",
     "title": "Winey Ukrainian Butter Toast",
     "tags": [
@@ -18037,6 +18050,21 @@
     ],
     "cuisine": "american",
     "totalTimeMin": 270,
+    "shard": "w"
+  },
+  {
+    "slug": "wonderfully-spiced-jamaican-beef-paella",
+    "title": "wonderfully spiced jamaican beef paella",
+    "tags": [
+      "beef",
+      "high-protein",
+      "one-pan",
+      "paella",
+      "weekend-brunch",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {

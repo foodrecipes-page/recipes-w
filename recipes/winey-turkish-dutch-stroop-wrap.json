@@ -1,0 +1,109 @@
+{
+  "title": "Winey Turkish Dutch Stroop Wrap",
+  "description": "A snappy and nostalgic twist on traditional Turkish cuisine, featuring Dutch stroop and a diabetic-friendly twist. This recipe is perfect for a quick weeknight meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dutch Stroop",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "phyllo pastry",
+      "amount": "4 sheets",
+      "notes": "thawed"
+    },
+    {
+      "name": "granny smith apples",
+      "amount": "2",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 tbsp",
+      "notes": "for brushing pastry"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Brush the melted butter on each sheet of phyllo pastry.",
+    "Layer 2 sheets of phyllo pastry in a hot pot vessel, overlapping them slightly.",
+    "Spread 1/4 cup of Dutch stroop on one half of the pastry, leaving a 1-inch border around the edges.",
+    "Arrange the sliced apples and chopped walnuts on top of the stroop.",
+    "Drizzle with 1 tsp of honey and sprinkle with lemon zest, cinnamon, and salt.",
+    "Fold the other half of the pastry over the filling, pressing the edges to seal.",
+    "Repeat the layers with the remaining ingredients and pastry.",
+    "Brush the top of the pastry with water and score with a knife to create a leaf-like design.",
+    "Cover the vessel with a lid and bake for 20-25 minutes, or until the pastry is golden brown and crispy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "winey-turkish-dutch-stroop-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-turkish-dutch-stroop-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:57:14Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "dutch stroop",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Dutch stroop",
+    "descriptor": "Winey",
+    "dishForm": "Wrap"
+  }
+}

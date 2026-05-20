@@ -1,0 +1,137 @@
+{
+  "title": "wonderfully spiced jamaican beef paella",
+  "description": "a delicious and aromatic paella dish featuring mixed beef cuts, a blend of spices, and a splash of rum. perfect for a weekend brunch or a special occasion.",
+  "cuisine": "jamaican",
+  "diet": [
+    "meat",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef (1 pound)",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rum",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "spherified beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the oil in a large paella pan over medium-high heat.",
+    "add the beef and cook until browned, about 5 minutes.",
+    "remove the beef from the pan and set aside.",
+    "add the smoked paprika, cumin, brown sugar, salt, and black pepper to the pan and cook for 1 minute.",
+    "add the chicken broth, vinegar, and rum to the pan and bring to a boil.",
+    "add the saffron threads and cook for 1 minute.",
+    "add the flour and cook for 1 minute.",
+    "add the browned beef back to the pan and stir to combine.",
+    "add the spherified beef broth and cook for 2 minutes.",
+    "sprinkle the cilantro and scallions over the top and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "high-protein",
+    "one-pan",
+    "paella",
+    "weekend-brunch",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 120,
+    "carbs": 80,
+    "fat": 80
+  },
+  "slug": "wonderfully-spiced-jamaican-beef-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wonderfully-spiced-jamaican-beef-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:57:10Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "spherify",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "beef",
+    "descriptor": "wonderfully spiced",
+    "dishForm": "Paella"
+  }
+}
