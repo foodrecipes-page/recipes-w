@@ -1,0 +1,102 @@
+{
+  "title": "Warm and Wok-Seared Middle-Eastern Chinese Long Beans Pilaf",
+  "description": "A hearty, earthy pilaf made with Chinese long beans, served with a side of warm beurre-monte sauce.",
+  "cuisine": "middle eastern chinese",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chinese long beans",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt block",
+      "amount": "1 block"
+    }
+  ],
+  "instructions": [
+    "Heat a salt block in the oven to 375°F (190°C) for at least 30 minutes.",
+    "In a large pan, heat 1 tablespoon of ghee or vegetable oil over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic, cumin, coriander, and turmeric. Cook for 1 minute.",
+    "Add the Chinese long beans and cook until tender, about 5-7 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the pilaf to a serving dish and serve with a side of warm beurre-monte sauce.",
+    "To make the beurre-monte sauce, mix together 1/4 cup of ghee or vegetable oil and 2 tablespoons of lemon juice in a small bowl.",
+    "Season with salt and black pepper to taste.",
+    "Serve the sauce on the side of the pilaf."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "warm-and-wok-seared-middle-eastern-chinese-long-beans-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-and-wok-seared-middle-eastern-chinese-long-beans-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:28:54Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "beurre-monte",
+    "primaryIngredient": "chinese long beans",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Chinese Long Beans",
+    "descriptor": "Warm and Wok-Seared",
+    "dishForm": "Pilaf"
+  }
+}
