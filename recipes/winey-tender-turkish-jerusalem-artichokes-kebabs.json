@@ -1,0 +1,110 @@
+{
+  "title": "Winey Tender Turkish Jerusalem Artichokes Kebabs",
+  "description": "A keto-friendly Turkish-inspired solo dinner featuring tender and winey Jerusalem artichokes.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "shio-cured salmon",
+      "amount": "2 slices",
+      "notes": "diced and crumbled"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Peel the Jerusalem artichokes and cut them into 1-inch wedges.",
+    "In a large bowl, whisk together olive oil, minced garlic, smoked paprika, salt, and black pepper.",
+    "Add the Jerusalem artichoke wedges to the bowl and toss to coat with the marinade.",
+    "Thread the marinated Jerusalem artichokes onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and grill or broil over medium-high heat for 5-7 minutes per side, or until the artichokes are tender and slightly charred.",
+    "While the artichokes are cooking, heat the diced shio-cured salmon in a small pan over medium heat, stirring occasionally.",
+    "Remove the skewers from the heat and sprinkle with thyme and rosemary.",
+    "To serve, place the skewers on a plate and spoon the diced salmon over the top, then drizzle with red wine vinegar.",
+    "Garnish with fresh herbs and serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "one-pan",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "winey-tender-turkish-jerusalem-artichokes-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/winey-tender-turkish-jerusalem-artichokes-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:46:49Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "shio-cure",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Jerusalem artichokes",
+    "descriptor": "winey tender",
+    "dishForm": "Kebabs"
+  }
+}
