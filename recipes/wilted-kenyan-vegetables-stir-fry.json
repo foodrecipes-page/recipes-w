@@ -1,0 +1,127 @@
+{
+  "title": "Wilted Kenyan Vegetables Stir-Fry",
+  "description": "A quick and flavorful vegetarian-friendly Kenyan-inspired dish featuring steamed vegetables and a hint of Grand Marnier. Perfect for a weeknight dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mixed vegetables (carrots, bell peppers, zucchini)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Grand Marnier",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small onion",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Steamer basket",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Colander",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the mixed vegetables and cook for 5 minutes, or until they start to soften.",
+    "Add the garlic, ginger, and onion to the skillet and cook for an additional 2 minutes, stirring constantly.",
+    "Steam the vegetables in a steamer basket for 2 minutes, or until tender.",
+    "Return the vegetables to the skillet and stir in the Grand Marnier, salt, and black pepper.",
+    "Cook for an additional 1-2 minutes, or until the vegetables are coated with the sauce.",
+    "Stir in the fresh parsley and lemon juice.",
+    "Serve the wilted vegetables immediately.",
+    "Taste and adjust seasoning as needed.",
+    "Transfer any leftover vegetables to an airtight container and refrigerate for up to 3 days.",
+    "Reheat in the microwave or on the stovetop before serving.",
+    "Use leftover vegetables in a salad or as a side dish.",
+    "Consider serving with naan or rice for a filling meal.",
+    "Try substituting the Grand Marnier with another citrus-flavored liqueur for a different twist.",
+    "Experiment with different types of vegetables to find your favorite combination."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "grand-marnier",
+    "high-fiber",
+    "kenyan",
+    "one-pan",
+    "vegetables",
+    "weeknight",
+    "wilted"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "wilted-kenyan-vegetables-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-kenyan-vegetables-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:26:35Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "steam",
+    "primaryIngredient": "grand marnier",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "vegetables",
+    "descriptor": "wilted",
+    "dishForm": "stir-fry"
+  }
+}
