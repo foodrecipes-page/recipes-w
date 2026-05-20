@@ -1,0 +1,89 @@
+{
+  "title": "Wild Dutch Mushrooms Stamppot",
+  "description": "A traditional Dutch dish made with wild mushrooms and rest-meat, perfect for a romantic dinner or a cozy lunch with friends.",
+  "cuisine": "Dutch",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "4 large",
+      "notes": null
+    },
+    {
+      "name": "Wild mushrooms",
+      "amount": "400g",
+      "notes": "Use a mix of oyster and chanterelle mushrooms for best flavor."
+    },
+    {
+      "name": "Rest-meat",
+      "amount": "200g",
+      "notes": "Use leftover beef or pork for best results."
+    },
+    {
+      "name": "Chives",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Peel the potatoes and chop them into large chunks.",
+    "Boil the potatoes in salted water until they're tender, about 15 minutes.",
+    "Melt the vegetable oil in a pan over medium heat and sauté the onion and garlic until softened, about 5 minutes.",
+    "Add the sliced wild mushrooms to the pan and cook until they release their liquid and start to brown, about 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "dutch",
+    "one-pan",
+    "romantic",
+    "weeknight",
+    "wild-mushrooms"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "wild-dutch-mushrooms-stamppot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wild-dutch-mushrooms-stamppot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:13:24Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "rest-meat",
+    "primaryIngredient": "wild mushrooms",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Wild",
+    "dishForm": "Stamppot"
+  }
+}
