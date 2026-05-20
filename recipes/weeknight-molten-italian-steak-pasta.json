@@ -1,0 +1,121 @@
+{
+  "title": "Weeknight Molten Italian Steak Pasta",
+  "description": "A bitter, molten, weeknight Italian dish featuring lean minced steak, mushroom steam, and a raw-friendly vessel, a fondue pot.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lean minced steak",
+      "amount": "200g",
+      "notes": "80/20 lean to fat ratio works best"
+    },
+    {
+      "name": "Penne pasta",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Mixed mushrooms",
+      "amount": "250g",
+      "notes": "button, cremini, shiitake, etc."
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "40g",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30ml",
+      "notes": "for the fondue pot"
+    }
+  ],
+  "instructions": [
+    "Combine penne pasta, mushrooms, white wine, and chicken broth in a fondue pot over medium heat.",
+    "Bring the mixture to a simmer.",
+    "Add the minced steak to the fondue pot and stir to break up with a spatula.",
+    "Cook the steak until browned, about 3-4 minutes.",
+    "Add the butter to the fondue pot and stir until melted.",
+    "Stir in the Parmesan cheese until melted and smooth.",
+    "Season the pasta mixture with salt, black pepper, and garlic to taste.",
+    "Stir in the fresh parsley and olive oil.",
+    "Serve immediately, directly from the fondue pot.",
+    "Be careful, as the cheese and pasta can be very hot.",
+    "Serve with additional Parmesan cheese on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 54,
+    "carbs": 36,
+    "fat": 22
+  },
+  "slug": "weeknight-molten-italian-steak-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/weeknight-molten-italian-steak-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:33:44Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "lean minced steak",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "steak",
+    "descriptor": "Weeknight Molten",
+    "dishForm": "Pasta"
+  }
+}

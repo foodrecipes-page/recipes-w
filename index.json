@@ -12703,6 +12703,20 @@
     "shard": "w"
   },
   {
+    "slug": "weeknight-molten-italian-steak-pasta",
+    "title": "Weeknight Molten Italian Steak Pasta",
+    "tags": [
+      "high-protein",
+      "italian",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "weeknight-russian-pasta-bake",
     "title": "Weeknight Russian Pasta Bake",
     "tags": [
