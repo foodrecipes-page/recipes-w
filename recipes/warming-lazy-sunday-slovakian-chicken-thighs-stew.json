@@ -1,0 +1,106 @@
+{
+  "title": "Warming Lazy-Sunday Slovakian Chicken Thighs Stew",
+  "description": "A hearty and comforting stew originating from Slovakia, made with chicken thighs, soffritto base, and a variety of vegetables.",
+  "cuisine": "slovakian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "dill",
+      "amount": "2 tablespoons",
+      "notes": "",
+      "},{": "# oil"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "chicken broth can be used in addition or instead"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large hot pot over medium heat.",
+    "Chop onion and saut\u000093 it until soft, about 5 minutes.",
+    "Add minced garlic and cook for an additional 1 minute.",
+    "Add chopped carrots and potatoes, cooking for 5 minutes, or until they start to soften.",
+    "Add chicken thighs, mustard seeds, allspice, and black pepper. Cook for 5 minutes, stirring occasionally.",
+    "Add chopped dill and water. Bring to a boil, then reduce heat to low and simmer for 20-25 minutes, or until the chicken is cooked through.",
+    "Serve hot, garnished with additional dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "warming-lazy-sunday-slovakian-chicken-thighs-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warming-lazy-sunday-slovakian-chicken-thighs-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:23:34Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "soffritto-base",
+    "primaryIngredient": "chicken thighs",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "chicken thighs",
+    "descriptor": "Warming Lazy-Sunday",
+    "dishForm": "Stew"
+  }
+}
