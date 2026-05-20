@@ -1,0 +1,105 @@
+{
+  "title": "Warm Thai Comte Larb",
+  "description": "A comforting take on the classic Laotian dish, featuring the rich flavors of Comte cheese and a warm, spicy broth.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "1 block, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "2",
+      "notes": "crushed, seeded, and chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large saucepan over medium-high heat.",
+    "Add the Thai chilies and cook, stirring occasionally, until fragrant and slightly softened, about 3 minutes.",
+    "Add the garlic and ginger and cook, stirring constantly, for 1 minute.",
+    "Add the fish sauce, lime juice, soy sauce, and brown sugar, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 2 minutes.",
+    "Add the crumbled Comte cheese and stir until melted and smooth.",
+    "Season with black pepper to taste.",
+    "Serve the warm larb in bowls and garnish with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "warming",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "warm-thai-comte-larb",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-thai-comte-larb",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:01:31Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "braise",
+    "primaryIngredient": "comte",
+    "diet": "dash",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Comte",
+    "descriptor": "Warm",
+    "dishForm": "Larb"
+  }
+}

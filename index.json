@@ -9289,6 +9289,20 @@
     "shard": "w"
   },
   {
+    "slug": "warm-thai-comte-larb",
+    "title": "Warm Thai Comte Larb",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "warming",
+      "weeknight"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
     "slug": "warm-tunisian-lamb-tagine",
     "title": "Warm Tunisian Lamb Tagine",
     "tags": [
