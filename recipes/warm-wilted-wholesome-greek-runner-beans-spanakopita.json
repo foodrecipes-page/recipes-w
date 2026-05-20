@@ -1,0 +1,110 @@
+{
+  "title": "Warm Wilted Wholesome Greek Runner Beans Spanakopita",
+  "description": "A sweet and springy hangover cure Greek dish featuring runner beans, infused oil, and a traditional spanakopita form.",
+  "cuisine": "greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "runner beans",
+      "amount": "250g",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "infused olive oil",
+      "amount": "50ml",
+      "notes": "see below for infusion method"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your kazan-cauldron to 375°F (190°C).",
+    "Infuse the olive oil with a few sprigs of fresh parsley and a pinch of salt by letting it sit for 30 minutes at room temperature.",
+    "Sauté the chopped onion and minced garlic in the infused olive oil until softened, about 5 minutes.",
+    "Add the runner beans to the cauldron and cook until they begin to wilt, about 5 minutes.",
+    "Stir in the lemon juice, crumbled feta cheese, salt, and black pepper.",
+    "Place a layer of phyllo dough in the bottom of the cauldron, trimming it to fit.",
+    "Spoon the runner bean mixture onto the phyllo dough, leaving a 1-inch border around the edges.",
+    "Continue layering the phyllo dough and runner bean mixture until all ingredients are used, finishing with a layer of phyllo dough on top.",
+    "Bake the spanakopita in the preheated cauldron for 25-30 minutes, or until the phyllo dough is golden brown.",
+    "Let the spanakopita rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "casual",
+    "greek",
+    "kale-free",
+    "veggie-packed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "warm-wilted-wholesome-greek-runner-beans-spanakopita",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wilted-wholesome-greek-runner-beans-spanakopita",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:38:59Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "infuse-oil",
+    "primaryIngredient": "runner beans",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "runner beans",
+    "descriptor": "Warm, Wilted, Wholesome",
+    "dishForm": "Spanakopita"
+  }
+}
