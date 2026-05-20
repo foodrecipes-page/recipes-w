@@ -1,0 +1,118 @@
+{
+  "title": "warm, melted moroccan parmesan tagine",
+  "description": "Cozy roasted dish featuring parmesan, ssam-wrap, and a hint of Moroccan spices. Perfect for a cold evening.",
+  "cuisine": "moroccan",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ssam-wrap (rice paper)",
+      "amount": "1 dozen",
+      "notes": "large sheets for wrapping the tagine"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "8 ounces",
+      "notes": "grated or shredded"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "lean beef for a healthier option"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat the kazan (cauldron) to 375°F (190°C) for at least 10 minutes.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the cumin, coriander, paprika, salt, and pepper to the skillet and stir to combine.",
+    "Continue cooking the beef mixture for an additional 2-3 minutes.",
+    "Transfer the beef mixture to the preheated kazan and top with grated parmesan cheese.",
+    "Place a sheet of ssam-wrap over the top of the kazan to cover it.",
+    "Bake the tagine in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Remove the tagine from the oven and carefully remove the ssam-wrap to serve.",
+    "Serve the warm, melted moroccan parmesan tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "easy-dinner",
+    "high-protein",
+    "moroccan-inspired",
+    "one-pan",
+    "winter-warmer"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "warm-melted-moroccan-parmesan-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-melted-moroccan-parmesan-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T03:29:33Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "parmesan",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Parmesan",
+    "descriptor": "Warm, Melted",
+    "dishForm": "Tagine"
+  }
+}
