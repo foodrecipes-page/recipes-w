@@ -1,0 +1,110 @@
+{
+  "title": "Warm Aerated Resinous French Chinese Cabbage Alsatian Galette",
+  "description": "A low-fat friendly Alsatian galette featuring stir-fried Chinese cabbage, crispy pastry, and a hint of resinous flavors. Perfect for a cozy dinner or lunch.",
+  "cuisine": "French, Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "125g"
+    },
+    {
+      "name": "Water",
+      "amount": "100ml"
+    },
+    {
+      "name": "Salt",
+      "notes": "1/4 teaspoon"
+    },
+    {
+      "name": "Black sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chinese cabbage",
+      "amount": "400g"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Scallions",
+      "amount": "4"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Resinous honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Crystallized ginger",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large mixing bowl, combine flour, salt, and cold butter. Use a pastry blender or your fingertips to work the butter into the flour until the mixture resembles coarse crumbs.",
+    "Gradually add the water, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until it becomes smooth and pliable.",
+    "Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "On a lightly floured surface, roll out the chilled dough to a thickness of about 1/8 inch (3 mm).",
+    "Transfer the dough to a ceramic taigne or a 9-inch (23 cm) round baking dish, trimming the edges to fit.",
+    "In a large skillet or wok, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the ginger paste and cook, stirring constantly, for 1 minute.",
+    "Add the Chinese cabbage and cook, stirring occasionally, until it is tender and slightly caramelized, about 5 minutes.",
+    "Stir in the scallions, lime juice, resinous honey, and crystallized ginger. Cook for an additional minute.",
+    "Spoon the cabbage mixture onto one half of the dough, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Sprinkle the black sesame seeds over the cabbage mixture.",
+    "Fold the other half of the dough over the filling, pressing the edges to seal.",
+    "Brush the top of the galette with a little bit of water and cut a few slits in the top to allow steam to escape.",
+    "Bake the galette for 25-30 minutes, or until the crust is golden brown and the filling is hot and bubbly.",
+    "Remove the galette from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 30,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "alaskan-inspired",
+    "comfort-food",
+    "low-fat",
+    "one-pan",
+    "veggie-forward",
+    "warm-weather",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "warm-aerated-resinous-french-chinese-cabbage-alsatian-galette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-aerated-resinous-french-chinese-cabbage-alsatian-galette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:32:04Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "stir-fry",
+    "primaryIngredient": "chinese cabbage",
+    "diet": "low-fat",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "chinese cabbage",
+    "descriptor": "Warm Aerated Resinous",
+    "dishForm": "Alsatian Galette"
+  }
+}
