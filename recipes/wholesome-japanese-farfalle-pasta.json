@@ -1,0 +1,120 @@
+{
+  "title": "wholesome japanese farfalle pasta",
+  "description": "A creamy, savory, and aromatic dish featuring pan-seared farfalle, lardons-render, and fresh scallions. This Japanese-inspired pasta is perfect for a special occasion or a cozy dinner with friends.",
+  "cuisine": "japanese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "farfalle pasta",
+      "amount": "8 oz",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "lardons (pork fat)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sushi-grade salmon fillet",
+      "amount": "1 fillet",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "white sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "grated daikon",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tbsp",
+      "notes": "or substitute with lemon juice"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green chili flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine farfalle pasta and a large pot of boiling salted water, cook until al dente.",
+    "Meanwhile, melt 2 tbsp of unsalted butter in a large skillet over medium heat.",
+    "Add lardons-render and cook until crispy, about 4 minutes.",
+    "Remove lardons-render from skillet and set aside.",
+    "Add remaining 2 tbsp of unsalted butter to skillet and sauté the salmon pieces until cooked through, about 3-4 minutes per side.",
+    "Add scallions and grated daikon (if using) to skillet and cook until softened, about 2 minutes.",
+    "Stir in white sesame seeds and cook for an additional minute.",
+    "Add cooked farfalle pasta to the skillet, tossing with soy sauce, rice vinegar, sugar, green chili flakes, and yuzu juice.",
+    "Return lardons-render to skillet and toss with pasta to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with additional scallions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dinner-party",
+    "japanese",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "wholesome-japanese-farfalle-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-japanese-farfalle-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:23:06Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "lardons-render",
+    "primaryIngredient": "farfalle",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "farfalle",
+    "descriptor": "wholesome",
+    "dishForm": "Pasta"
+  }
+}
