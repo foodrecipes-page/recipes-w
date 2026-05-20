@@ -1,0 +1,107 @@
+{
+  "title": "Wholesome Winey Moroccan Almonds Khlea",
+  "description": "A creamy, winey, and nostalgic Moroccan dish that's perfect for a quick snack or dessert.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "wine",
+      "amount": "2 tablespoons",
+      "notes": "red wine or a wine-flavored extract"
+    },
+    {
+      "name": "almond extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "egg whites",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pistachio meal",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the almonds, butter, wine, almond extract, and vanilla extract. ",
+    "Bring the mixture to a simmer over medium heat, stirring occasionally.",
+    "Reduce the heat to low and cook, stirring frequently, until the almonds are toasted and fragrant, about 5 minutes.",
+    "Remove the saucepan from the heat and let it cool slightly.",
+    "Pour the egg whites into the saucepan and stir to combine.",
+    "Return the saucepan to the heat and cook, stirring constantly, until the mixture begins to thicken, about 2 minutes.",
+    "Remove the saucepan from the heat and let it cool to room temperature.",
+    "Cover the saucepan with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Once chilled, use a slotted spoon to transfer the almond mixture to a bowl of ice water.",
+    "Let the mixture sit in the ice water for 10-15 minutes, or until it has firmed up and can be easily shaped into a log.",
+    "Use your hands to shape the mixture into a log shape, about 1 1/2 inches in diameter.",
+    "Roll the log in powdered sugar, if desired, and serve chilled.",
+    "To make the pistachio meal, grind 1/4 cup of pistachios in a food processor until finely ground.",
+    "Store any leftover pistachio meal in an airtight container at room temperature for up to 1 week."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dessert",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "wholesome-winey-moroccan-almonds-khlea",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-winey-moroccan-almonds-khlea",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:24:04Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "almond extract",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "almonds",
+    "descriptor": "wholesome winey",
+    "dishForm": "Khlea"
+  }
+}
