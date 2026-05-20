@@ -1,0 +1,115 @@
+{
+  "title": "Warm Monsoon Green Olives Tagine",
+  "description": "A flavorful, aerated stew originating from Egypt, characterized by its use of green olives and earthenware cooking. This dish is suitable for Dash-friendly cooking and perfect for a monsoon evening.",
+  "cuisine": "Egyptian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Green olives",
+      "amount": "1 cup",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat two tablespoons of olive oil in a ttukbaegi earthenware cook over low heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the chopped cilantro, grated ginger, salt, black pepper, cumin, coriander, and turmeric. Cook for 1 minute.",
+    "Add the sliced green olives and cook for 2-3 minutes, stirring occasionally.",
+    "Add two tablespoons of lemon juice and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, or until the flavors have melded together and the sauce has thickened slightly.",
+    "Remove the ttukbaegi from the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dash-friendly",
+    "eggless",
+    "monsoon",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "warm-monsoon-green-olives-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-monsoon-green-olives-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:07:41Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "green olives",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Olives",
+    "descriptor": "Wholesome Sour",
+    "dishForm": "Tagine"
+  }
+}
