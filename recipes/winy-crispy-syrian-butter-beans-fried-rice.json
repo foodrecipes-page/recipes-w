@@ -1,0 +1,100 @@
+{
+  "title": "winy crispy syrian butter beans fried-rice",
+  "description": "a nostalgic syrian dish featuring butter beans, crispy onions, and a hint of wine. perfect for a comforting weeknight meal.",
+  "cuisine": "syrian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "butter beans",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "wine",
+      "amount": "2 tablespoons",
+      "notes": "dry white wine"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "add the sliced onion and cook until crispy, about 5 minutes.",
+    "add the garlic and cook for an additional minute.",
+    "add the butter beans, paprika, salt, and black pepper. cook for 2-3 minutes, stirring occasionally.",
+    "add the cooked rice to the skillet and stir to combine with the butter beans and spices.",
+    "add the wine to the skillet and stir to combine. cook for an additional 2-3 minutes, until the liquid has been absorbed.",
+    "transfer the fried rice to a serving platter and garnish with chopped parsley.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "one-pan",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "winy-crispy-syrian-butter-beans-fried-rice",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/winy-crispy-syrian-butter-beans-fried-rice",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:49:30Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "fold",
+    "primaryIngredient": "butter beans",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "butter beans",
+    "descriptor": "winy crispy",
+    "dishForm": "Fried-Rice"
+  }
+}
