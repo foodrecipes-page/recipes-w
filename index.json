@@ -6152,6 +6152,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-salted-canadian-scamorza-bake",
+    "title": "Warm Salted Canadian Scamorza Bake",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "high-protein",
+      "macrobiotic-friendly",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 22,
+    "shard": "w"
+  },
+  {
     "slug": "warm-salty-croatian-sardine-stew",
     "title": "Warm Salty Croatian Sardine Stew",
     "tags": [

@@ -1,0 +1,94 @@
+{
+  "title": "Warm Salted Canadian Scamorza Bake",
+  "description": "A savory and crunchy Canadian dish featuring scamorza cheese and a macrobiotic-friendly twist, perfect for a comforting snack or meal.",
+  "cuisine": "canadian",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "scamorza cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "curly or lacinato variety"
+    },
+    {
+      "name": "chopped fresh herbs",
+      "amount": "1/4 cup",
+      "notes": "parsley, rosemary, or thyme"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "1 loaf (about 1 pound)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the scamorza cheese into 1/2-inch thick slices.",
+    "Toss the kale with olive oil, garlic powder, salt, and black pepper until evenly coated.",
+    "Arrange the kale mixture on a baking sheet in a single layer.",
+    "Place the scamorza cheese slices on top of the kale mixture.",
+    "Bake for 10 minutes, or until the cheese is melted and the kale is tender.",
+    "Remove the baking sheet from the oven and sprinkle with chopped fresh herbs.",
+    "Cut the whole wheat bread into 1-inch thick slices and toast until lightly browned.",
+    "Serve the warm scamorza and kale mixture on top of the toasted bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "high-protein",
+    "macrobiotic-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "warm-salted-canadian-scamorza-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-salted-canadian-scamorza-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:06:59Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "salt-bake",
+    "primaryIngredient": "scamorza",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Scamorza",
+    "descriptor": "Warm Salted",
+    "dishForm": "Bake"
+  }
+}
