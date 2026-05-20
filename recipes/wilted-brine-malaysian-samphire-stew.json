@@ -1,0 +1,112 @@
+{
+  "title": "Wilted Brine Malaysian Samphire Stew",
+  "description": "A rich and savory Malaysian-inspired stew featuring samphire, with a tangy brine flavor and juicy texture, perfect for a sick day",
+  "cuisine": "malaysian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "samphire",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "brine shrimp",
+      "amount": "1/2 cup",
+      "notes": "canned or frozen"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2 leaves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large cazuela over medium-high heat.",
+    "Add onion and garlic and sauté until softened, about 5 minutes.",
+    "Add brine shrimp and cook until fragrant.",
+    "Add fish sauce, soy sauce, tamarind paste, and ginger, and stir to combine.",
+    "Add samphire and stir to combine.",
+    "Pour in vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes, or until samphire is tender.",
+    "Stir in kaffir lime leaves and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fish-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "wilted-brine-malaysian-samphire-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-brine-malaysian-samphire-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:36:08Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "brine-dry",
+    "primaryIngredient": "samphire",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "samphire",
+    "descriptor": "wilted brine",
+    "dishForm": "stew"
+  }
+}
