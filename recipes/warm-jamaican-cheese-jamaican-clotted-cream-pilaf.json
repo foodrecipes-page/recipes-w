@@ -1,0 +1,110 @@
+{
+  "title": "warm Jamaican Cheese Jamaican clotted cream Pilaf",
+  "description": "nutty, cheese-pull, festive Jamaican dish featuring clotted cream, soffritto-base, macrobiotic-friendly, vessel=salt-block. Perfect for special occasions or cozy nights in.",
+  "cuisine": "jamaican",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "clotted cream",
+      "amount": "8 oz"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "jamaican allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "jamaican thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sharp cheddar cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "heat the butter in a large salt-block skillet over medium heat.",
+    "add the onions, carrots, and garlic to the skillet and saut\u00140 until the vegetables are tender.",
+    "add the jamaican allspice and jamaican thyme to the skillet and stir to combine.",
+    "add the flour to the skillet and stir to combine.",
+    "slowly add the chicken broth to the skillet, whisking constantly to avoid lumps.",
+    "bring the mixture to a simmer and cook for 2 minutes.",
+    "stir in the clotted cream and sharp cheddar cheese until the cheese is melted and the mixture is smooth.",
+    "season the pilaf with salt and nutritional yeast to taste.",
+    "serve the pilaf hot, garnished with additional nutritional yeast if desired.",
+    "meanwhile, preheat the oven to 375\u00168f.",
+    "transfer the pilaf to a baking dish and top with additional sharp cheddar cheese.",
+    "bake the pilaf in the preheated oven for 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-dinner",
+    "cheesy",
+    "high-protein",
+    "jamaican",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 28
+  },
+  "slug": "warm-jamaican-cheese-jamaican-clotted-cream-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-jamaican-cheese-jamaican-clotted-cream-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:21:03Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "soffritto-base",
+    "primaryIngredient": "clotted cream",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "clotted cream",
+    "descriptor": "Warm Jamaican Cheese",
+    "dishForm": "Pilaf"
+  }
+}
