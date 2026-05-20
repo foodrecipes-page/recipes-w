@@ -1,0 +1,115 @@
+{
+  "title": "Wholesome Dutch Lentils Stamppot",
+  "description": "A classic Dutch dish featuring buttery, snappy sautéed lentils and kale, served with a side of boiled potatoes and a pat of butter.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "small onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "kale",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "400ml",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "grainy mustard",
+      "amount": "2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large pot of water over high heat, then add the potatoes and cook until they are tender.",
+    "While the potatoes cook, heat the butter in a large skillet over medium-high heat.",
+    "Add the chopped onion to the skillet and sauté until it is translucent.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the green lentils to the skillet and cook, stirring occasionally, until they are lightly browned.",
+    "Add the kale to the skillet and cook, stirring occasionally, until it is wilted.",
+    "Add the water, chicken broth, salt, and pepper to the pot with the lentils and kale, then bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the lentils are tender.",
+    "While the lentils simmer, mash the cooked potatoes with a fork and add the grainy mustard.",
+    "To serve, place a scoop of the mashed potatoes on a plate, then top with a scoop of the lentils and kale.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Serve with an additional pat of butter on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "high-fiber",
+    "kale",
+    "lentils",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 65,
+    "fat": 15
+  },
+  "slug": "wholesome-dutch-lentils-stamppot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-dutch-lentils-stamppot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:43:31Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "whisk",
+    "primaryIngredient": "lentils",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "lentils",
+    "descriptor": "wholesome",
+    "dishForm": "Stamppot"
+  }
+}
