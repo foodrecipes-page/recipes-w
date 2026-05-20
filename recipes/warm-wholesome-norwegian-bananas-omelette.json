@@ -1,0 +1,101 @@
+{
+  "title": "Warm Wholesome Norwegian Bananas Omelette",
+  "description": "A tangy, fluffy ove-vegetarian-friendly breakfast dish from Norway featuring bananas and yuzu-cure.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Large Eggs",
+      "amount": "2",
+      "notes": "Fresh from the fridge"
+    },
+    {
+      "name": "Bananas",
+      "amount": "1",
+      "notes": "Ripe, sliced"
+    },
+    {
+      "name": "Yuzu Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed or bottled"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1 tablespoon",
+      "notes": "Softened"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 tablespoon",
+      "notes": "For dusting the claypot"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Flaky sea salt or regular"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Yuzu Zest",
+      "amount": "1/2 teaspoon",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Dust the claypot with flour for easy omelette release.",
+    "In a bowl, whisk the eggs, salt, and a pinch of yuzu zest until well combined.",
+    "Heat the butter in the claypot over medium heat until it's melted and foamy.",
+    "Pour the egg mixture into the claypot and let it cook for 30 seconds.",
+    "Sprinkle sliced bananas onto half of the omelette.",
+    "Drizzle yuzu juice over the bananas and fold the other half of the omelette over the filling.",
+    "Cook for another minute until the eggs are almost set.",
+    "Use a spatula to carefully slide the omelette out of the claypot onto a plate.",
+    "Garnish with chopped cilantro and yuzu zest.",
+    "Serve immediately and enjoy the warm, comforting Norwegian Bananas Omelette!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bananas",
+    "breakfast",
+    "norwegian",
+    "omelette",
+    "ovo-vegetarian",
+    "weekend-brunch",
+    "yuzu-cure"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "warm-wholesome-norwegian-bananas-omelette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-wholesome-norwegian-bananas-omelette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:09:00Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "bananas",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Bananas",
+    "descriptor": "Warm Wholesome",
+    "dishForm": "Omelette"
+  }
+}
