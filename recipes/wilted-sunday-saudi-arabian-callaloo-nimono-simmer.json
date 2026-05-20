@@ -1,0 +1,102 @@
+{
+  "title": "Wilted Sunday Saudi Arabian Callaloo Nimono-Simmer",
+  "description": "A sour, molten, lazy-Sunday Saudi Arabian dish featuring callaloo, nimono-simmer, and high-protein ingredients served in a Korean brass bowl.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Callaloo",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Nimono-Simmer Broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium chicken broth and water mixture."
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large saucepan over medium heat.",
+    "Add onion and cook until translucent, about 3 minutes.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add chili flakes and cook for 1 minute, until fragrant.",
+    "Add callaloo and nimono-simmer broth, and stir to combine.",
+    "Bring mixture to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Stir in lemon juice and season with salt and black pepper.",
+    "Serve in a Korean brass bowl, garnished with lemon wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lazy-sunday",
+    "one-pan",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "wilted-sunday-saudi-arabian-callaloo-nimono-simmer",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-sunday-saudi-arabian-callaloo-nimono-simmer",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:10:54Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "callaloo",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "callaloo",
+    "descriptor": "wilted-sunday",
+    "dishForm": "nimono-simmer"
+  }
+}

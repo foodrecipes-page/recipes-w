@@ -1983,6 +1983,22 @@
     "shard": "w"
   },
   {
+    "slug": "warm-croatian-pepper-gratin",
+    "title": "warm croatian pepper gratin",
+    "tags": [
+      "croatian",
+      "easy-to-make",
+      "gluten-free",
+      "jain-friendly",
+      "one-pan",
+      "weeknight",
+      "yeast-bread"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
     "slug": "warm-crumbly-ethiopian-green-pepper-flatbread",
     "title": "Warm Crumbly Ethiopian Green Pepper Flatbread",
     "tags": [
@@ -16400,6 +16416,20 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
+    "slug": "wilted-sunday-saudi-arabian-callaloo-nimono-simmer",
+    "title": "Wilted Sunday Saudi Arabian Callaloo Nimono-Simmer",
+    "tags": [
+      "high-protein",
+      "lazy-sunday",
+      "one-pan",
+      "saudi-arabian",
+      "weeknight"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {

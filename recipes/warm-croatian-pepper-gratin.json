@@ -1,0 +1,132 @@
+{
+  "title": "warm croatian pepper gratin",
+  "description": "a hearty yeasty croatian dish featuring roasted pepper, yuzu-cure and jain-friendly ingredients",
+  "cuisine": "croatian",
+  "diet": [
+    "vegetarian",
+    "jain",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "any color"
+    },
+    {
+      "name": "yuzu-cured olives",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "shallots",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "vegetarian butter",
+      "amount": "1/4 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "2 tsp",
+      "notes": "active dry"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded, dairy-free alternative"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375f (190c).",
+    "slice the bell peppers into 1/2-inch thick rounds and place them on a baking sheet.",
+    "sprinkle the shallots and garlic over the bell peppers, and drizzle with 2 tbsp of the vegetarian butter.",
+    "roast the peppers in the preheated oven for 20-25 minutes, or until the skin is blistered and charred.",
+    "remove the peppers from the oven and let them cool slightly.",
+    "in a large saucepan, combine the yeast, gluten-free flour, beef broth, water, salt, and black pepper.",
+    "bring the mixture to a simmer over medium heat, whisking constantly.",
+    "reduce the heat to low and cook for 5-7 minutes, or until the mixture has thickened.",
+    "add the yuzu-cured olives, chopped fresh dill, and parmesan cheese to the saucepan, and stir to combine.",
+    "place the roasted peppers in a 9x13-inch baking dish and spoon the sauce over the top.",
+    "dot the top of the peppers with the remaining 2 tbsp of vegetarian butter.",
+    "cover the dish with aluminum foil and bake for 20-25 minutes, or until the peppers are tender and the sauce is bubbly.",
+    "remove the foil and continue baking for an additional 5-10 minutes, or until the top is golden brown.",
+    "serve the warm croatian pepper gratin hot, garnished with additional chopped fresh dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "easy-to-make",
+    "gluten-free",
+    "jain-friendly",
+    "one-pan",
+    "weeknight",
+    "yeast-bread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "warm-croatian-pepper-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-croatian-pepper-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:10:40Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "roasted pepper",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pepper",
+    "descriptor": "Warm",
+    "dishForm": "Gratin"
+  }
+}
