@@ -12650,6 +12650,21 @@
     "shard": "w"
   },
   {
+    "slug": "well-spiced-chinese-meat-shui-zhu-yu",
+    "title": "Shui Zhu Yu",
+    "tags": [
+      "beef",
+      "cantonese",
+      "chinese",
+      "one-pan",
+      "spicy",
+      "stir-fry"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "welsh-style-wilted-flambe-welsh-aubergine-full-english",
     "title": "Welsh-Style Wilted Flambe Welsh Aubergine Full English",
     "tags": [
@@ -16608,6 +16623,20 @@
       "veggie-curry"
     ],
     "cuisine": "Russian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "wilted-shattering-uruguayan-onions-empanadas",
+    "title": "Wilted Shattering Uruguayan Onions Empanadas",
+    "tags": [
+      "breakfast",
+      "easy-to-make",
+      "low-fat",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "uruguayan",
     "totalTimeMin": 45,
     "shard": "w"
   },

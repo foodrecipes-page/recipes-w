@@ -1,0 +1,106 @@
+{
+  "title": "Wilted Shattering Uruguayan Onions Empanadas",
+  "description": "This winey, shattering, nostalgic Uruguay dish is made with red onions, long-fermentation dough, and is low in fat.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "red onions",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the flour, oregano, salt, and black pepper.",
+    "Add the egg and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle.",
+    "Mix the red onions, garlic, and red wine vinegar in a bowl.",
+    "Place a tablespoon of the onion mixture onto one half of each circle.",
+    "Fold the other half over the onion mixture and press the edges together to seal the empanada.",
+    "Heat a non-stick skillet over medium heat.",
+    "Cook the empanadas for 2-3 minutes on each side, or until they are golden brown.",
+    "Brush the tops with butter and cook for an additional minute.",
+    "Wilt the onions with a tablespoon of red wine vinegar for 2-3 minutes, or until they are soft and caramelized."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "low-fat",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "wilted-shattering-uruguayan-onions-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wilted-shattering-uruguayan-onions-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:45:38Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "red onions",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "onions",
+    "descriptor": "wilted shattering",
+    "dishForm": "Empanadas"
+  }
+}

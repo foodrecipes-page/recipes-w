@@ -1,0 +1,121 @@
+{
+  "title": "Shui Zhu Yu",
+  "description": "A rich and flavorful Chinese dish made with tender beef and a spicy red curry paste, perfect for a solo dinner. Shui Zhu Yu is a Cantonese dish that translates to \"water boiled fish\" but in this variation we substitute beef for fish.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (sirloin or ribeye)",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat, then add the ginger and garlic and stir-fry until fragrant.",
+    "Add the beef and stir-fry for 2-3 minutes until browned, then remove from the wok.",
+    "Add the red curry paste and cook for 1 minute, stirring constantly.",
+    "Add the soy sauce, oyster sauce, rice vinegar, and water, and stir to combine.",
+    "Return the beef to the wok and stir-fry for 2-3 minutes until coated in the sauce.",
+    "Season with salt and black pepper to taste.",
+    "Transfer to a serving dish and drizzle with sesame oil.",
+    "Garnish with scallions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "cantonese",
+    "chinese",
+    "one-pan",
+    "spicy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "well-spiced-chinese-meat-shui-zhu-yu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/well-spiced-chinese-meat-shui-zhu-yu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:45:47Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "red-curry-paste",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "meat",
+    "descriptor": "Well-Spiced",
+    "dishForm": "Shui Zhu Yu"
+  }
+}
