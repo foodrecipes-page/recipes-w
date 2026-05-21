@@ -1,0 +1,73 @@
+{
+  "title": "Wholesome Warm Middle Eastern Egg Noodles",
+  "description": "Rich, creamy, and comforting, this wholesome Middle Eastern dish features al-dente egg noodles.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "3 large eggs",
+      "amount": ""
+    },
+    {
+      "name": "6 oz egg noodles",
+      "amount": "cooked"
+    },
+    {
+      "name": "2 tbsp ghee (clarified butter)",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp salt",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix the flour and eggs. Add the salt.",
+    "Gradually add the ghee while mixing with your hands until it forms a dough.",
+    "Knead the dough for about 5 minutes to bring out its flavor.",
+    "Divide into six balls and flatten each ball gently.",
+    "Roll out one flattened ball at a time, gradually rolling thinner as you go.",
+    "Cut noodles from rolled-out dough with a knife or pasta cutter. Repeat with remaining dough balls.",
+    "Cook the noodles in boiling salted water for about 3 minutes until al-dente.",
+    "Drain and set aside to cool slightly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "no-oil",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 20,
+    "carbs": 68,
+    "fat": 12
+  },
+  "slug": "wholesome-warm-middle-eastern-egg-noodles-noodles",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-warm-middle-eastern-egg-noodles-noodles",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T15:32:38Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "egg noodles",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Egg Noodles",
+    "descriptor": "Wholesome Warm",
+    "dishForm": "Noodles"
+  }
+}
