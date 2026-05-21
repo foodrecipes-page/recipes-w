@@ -3849,6 +3849,21 @@
     "shard": "w"
   },
   {
+    "slug": "warm-german-sauerkraut-stew",
+    "title": "Warm German Sauerkraut Stew",
+    "tags": [
+      "comfort-food",
+      "german",
+      "low-fat",
+      "sausage",
+      "saute",
+      "stew"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
     "slug": "warm-german-schnitzel-gratin",
     "title": "Warm German Schnitzel Gratin",
     "tags": [

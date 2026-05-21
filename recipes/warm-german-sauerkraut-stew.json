@@ -1,0 +1,92 @@
+{
+  "title": "Warm German Sauerkraut Stew",
+  "description": "A comforting, earthy German stew made with sauerkraut, onions, and a hint of soy sauce, served in a low-fat version",
+  "cuisine": "german",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "2 heads",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "sausage",
+      "amount": "1 lb",
+      "notes": "low-fat"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large kadhai over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add caraway seeds and cook for 1 minute more.",
+    "Add cabbage, carrots, potatoes, and sausage. Stir to combine.",
+    "Add apple cider vinegar and soy sauce. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley, if desired.",
+    "Serve over egg noodles or rice, if desired.",
+    "Reheat any leftovers in the microwave or on the stovetop until heated through.",
+    "Freeze leftovers for up to 3 months.",
+    "To freeze, let the stew cool completely, then transfer it to a freezer-safe container or bag. Label and date the container or bag, then store it in the freezer until ready to reheat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german",
+    "low-fat",
+    "sausage",
+    "saute",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "warm-german-sauerkraut-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-german-sauerkraut-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:37:24Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "sick-day",
+    "technique": "glaze",
+    "primaryIngredient": "soy sauce",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "sauerkraut",
+    "descriptor": "warm",
+    "dishForm": "stew"
+  }
+}
