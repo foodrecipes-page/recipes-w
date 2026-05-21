@@ -1,0 +1,109 @@
+{
+  "title": "whole-spice smoked tunisian lamb tagine",
+  "description": "a malty, flaky dish from tunisia featuring hot smoked paprika and salt-bake. fodmap-friendly and cooked in a traditional tagine pot.",
+  "cuisine": "tunisian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 kg"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "hot smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "prunes",
+      "amount": "150g"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can ( drained and rinsed)"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 180°c. salt-bake the lamb shoulder for 2 hours, or until tender and falling apart.",
+    "heat the olive oil in the tagine pot over medium heat. add the chopped onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for 1 minute, stirring constantly.",
+    "add the hot smoked paprika, cumin, coriander, salt, and black pepper. stir to combine.",
+    "add the lamb shoulder to the tagine pot and stir to coat with the spice mixture.",
+    "add the prunes and chickpeas to the tagine pot and stir to combine.",
+    "cover the tagine pot and transfer to the preheated oven. braise for 1 hour.",
+    "garnish with fresh parsley and serve hot.",
+    "allow the tagine to rest for 10 minutes before serving.",
+    "carve the lamb shoulder into thick slices and serve with the sauce and garnish.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "slow-cooked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 70
+  },
+  "slug": "whole-spice-smoked-tunisian-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/whole-spice-smoked-tunisian-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T06:50:41Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "salt-bake",
+    "primaryIngredient": "hot smoked paprika",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Whole-Spice Smoked",
+    "dishForm": "Tagine"
+  }
+}
