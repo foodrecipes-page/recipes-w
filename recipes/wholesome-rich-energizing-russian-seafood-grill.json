@@ -1,0 +1,141 @@
+{
+  "title": "wholesome rich energizing russian seafood grill",
+  "description": "rich, dense, energizing russian dish featuring seafood stock, spherify, whole30-friendly, cooked on a binchotan grill.",
+  "cuisine": "russian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "seafood stock",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pike fillets",
+      "amount": "12 ounces",
+      "notes": ""
+    },
+    {
+      "name": "octopus",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "sea scallops",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "saffron",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic gloves",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "spherification sodium alginate",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "ice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "binchotan grill wood chips",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "soak binchotan grill wood chips in water for at least 30 minutes before cooking.",
+    "preheat the binchotan grill to 400\u0002f.",
+    "combine seafood stock, saffron, korean chili flakes, lemon juice, and ghee in a saucepan and bring to a simmer.",
+    "reduce heat to low and let simmer while cooking the seafood.",
+    "season pike fillets, octopus, and sea scallops with sea salt and black pepper.",
+    "grill the seafood on the preheated binchotan grill for 4-6 minutes per side, or until cooked through.",
+    "meanwhile, mix spherification sodium alginate and ice in a bowl and stir until the alginate is fully dissolved.",
+    "add water to the bowl and stir until the mixture is smooth.",
+    "use a syringe to drop the mixture into the simmering seafood stock and let spherify for 2-3 minutes.",
+    "garnish with fresh parsley and serve immediately.",
+    "serve the grilled seafood with the spherified seafood stock on the side.",
+    "drizzle with additional lemon juice if desired.",
+    "serve with your favorite sides, such as roasted vegetables or a salad."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 8,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "russian",
+    "seafood",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 62,
+    "carbs": 8,
+    "fat": 24
+  },
+  "slug": "wholesome-rich-energizing-russian-seafood-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-rich-energizing-russian-seafood-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:39:33Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "spherify",
+    "primaryIngredient": "seafood stock",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "seafood",
+    "descriptor": "wholesome rich energizing",
+    "dishForm": "grill"
+  }
+}
