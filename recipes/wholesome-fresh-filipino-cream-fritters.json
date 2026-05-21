@@ -1,0 +1,104 @@
+{
+  "title": "Filipino Cream Fritters",
+  "description": "Crispy, fluffy, and utterly addictive Filipino cream fritters made with double cream, madeira cake, and a hint of coconut. A delightful vegan-friendly treat that's sure to impress.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Double cream",
+      "amount": "1 cup",
+      "notes": "Chilled in the fridge before use."
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup",
+      "crumbs only, store in airtight container until use.": "},{",
+      "notes": "Full-fat coconut milk for a richer taste."
+    },
+    {
+      "name": "Desiccated coconut",
+      "amount": "1/4 cup",
+      "notes": " Toasted in a 350°F oven for 5-7 minutes."
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": "Optional, adjust to taste."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon",
+      "notes": "Grated from 1 medium lemon."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": "For frying."
+    },
+    {
+      "name": "Vegan egg replacement",
+      "amount": "2 tablespoons",
+      "notes": "Flaxseed or chia seeds mixed with 2 tablespoons of water."
+    },
+    {
+      "name": "Whipped cream",
+      "amount": "optional",
+      "notes": "For topping, 1 cup chilled heavy whipping cream or dairy-free alternative."
+    },
+    {
+      "name": "Sprinkles or chopped nuts",
+      "amount": "optional",
+      "notes": "For garnish, adjust to taste."
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the chilled double cream, madeira cake crumbs, coconut milk, desiccated coconut, granulated sugar, salt, lemon zest, and vegan egg replacement until smooth."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "cream-fritters",
+    "filipino",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "wholesome-fresh-filipino-cream-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-fresh-filipino-cream-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:43:51Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "whisk",
+    "primaryIngredient": "double cream",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "cream",
+    "descriptor": "wholesome fresh",
+    "dishForm": "Fritters"
+  }
+}
