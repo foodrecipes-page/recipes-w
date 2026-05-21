@@ -1,0 +1,89 @@
+{
+  "title": "Warmly Smoked Peruvian Fish Robata-Grilled Tiradito",
+  "description": "A rich and creamy Peruvian dish featuring Gran Marnier, rendered fat, and a focus on flavor rather than heat. Perfect for adventurous foodies and those following a Jain diet.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "fish-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Robata-grilled Ahi Tuna",
+      "amount": "4",
+      "notes": "preferably wild-caught and sashimi-grade"
+    },
+    {
+      "name": "Gran Marnier",
+      "amount": "2 tablespoons",
+      "notes": "orange liqueur adds depth to the dish"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoky and slightly sweet flavor"
+    },
+    {
+      "name": "Rendered Duck Fat",
+      "amount": "2 tablespoons",
+      "notes": "adds richness and creaminess to the dish"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "bright and fresh flavor"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "balances the sweetness of the Gran Marnier"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400°F (200°C).",
+    "Season the Ahi Tuna with smoked paprika and set aside.",
+    "In a small saucepan, heat the rendered duck fat over low heat.",
+    "Add the Gran Marnier to the saucepan and stir to combine.",
+    "Add the sliced Ahi Tuna to the saucepan and cook for 1-2 minutes on each side, or until cooked through.",
+    "Transfer the cooked tuna to a plate and top with fresh cilantro and a squeeze of lime juice.",
+    "Warm the tortillas by wrapping them in foil and heating them in the oven for a few minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "fish-based",
+    "jain",
+    "peruvian",
+    "robata-grill",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 4,
+    "fat": 30
+  },
+  "slug": "warmly-smoked-peruvian-fish-robata-grilled-tiradito",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/warmly-smoked-peruvian-fish-robata-grilled-tiradito",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:38:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "render-fat",
+    "primaryIngredient": "grand marnier",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish",
+    "descriptor": "warmly smoked",
+    "dishForm": "Robata-Grilled Tiradito"
+  }
+}
