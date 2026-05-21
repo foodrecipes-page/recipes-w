@@ -1,0 +1,101 @@
+{
+  "title": "Warm Peppery Australian Pumpkin Pie",
+  "description": "A savory, single-serving Australian hand pie featuring rich pumpkin spiced with a heavy hand of black pepper and flamed with brandy.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kabocha pumpkin",
+      "amount": "200 grams",
+      "notes": "peeled and cut into small cubes"
+    },
+    {
+      "name": "Puff pastry",
+      "amount": "1 sheet",
+      "notes": "rolled to a five inch square"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": "for sauteing"
+    },
+    {
+      "name": "Coarsely cracked black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly crushed"
+    },
+    {
+      "name": "Brandy",
+      "amount": "2 tablespoons",
+      "notes": "for flambe step"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "2 tablespoons",
+      "notes": "to bind the filling"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400 degrees Fahrenheit and line a baking sheet with parchment paper.",
+    "Melt the butter in a small skillet over medium heat and add the cubed pumpkin.",
+    "Saute the pumpkin for eight minutes until the edges are golden and starting to soften.",
+    "Add the cracked black pepper and salt to the skillet and stir well to coat the pumpkin.",
+    "Pour the brandy into the skillet and ignite it carefully with a long match to flambe the mixture.",
+    "Once the flames die down, stir in the heavy cream and mash the pumpkin slightly with a fork.",
+    "Spoon the warm pumpkin mixture onto one half of the puff pastry square, leaving a half-inch border.",
+    "Fold the pastry over the filling to create a triangle and crimp the edges tightly with a fork.",
+    "Brush the top of the pastry with the beaten egg and cut a small slit for steam to escape.",
+    "Bake for twenty minutes until the pastry is puffed and deep golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "comfort-food",
+    "flambe",
+    "no-garlic-no-onion",
+    "savory-pie",
+    "single-serving"
+  ],
+  "nutrition": {
+    "calories": 580,
+    "protein": 9,
+    "carbs": 42,
+    "fat": 38
+  },
+  "slug": "warm-peppery-australian-pumpkin-pie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/warm-peppery-australian-pumpkin-pie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T14:08:49Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "flambe",
+    "primaryIngredient": "pumpkin",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "pumpkin",
+    "descriptor": "Warm Peppery",
+    "dishForm": "Pie"
+  }
+}
