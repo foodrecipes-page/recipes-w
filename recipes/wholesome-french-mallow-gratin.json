@@ -1,0 +1,72 @@
+{
+  "title": "Wholesome French Mallow Gratin",
+  "description": "A mallow-infused creamy gratin featuring creme fraiche and a mother-sauce base, perfectly suitable for shojin-ryori with its mild flavors.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Gruyère cheese",
+      "amount": 100
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Mallow puree (about 2 tbsp)",
+      "notes": "Freshly prepared or frozen, thawed and strained."
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Creme fraiche",
+      "amount": "100 ml"
+    },
+    {
+      "name": "Water",
+      "amount": 50
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Combine almond flour and water in a bowl, mix until smooth."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creme-fraiche",
+    "gratin",
+    "mallow",
+    "shojin-ryori"
+  ],
+  "nutrition": {
+    "calories": 950,
+    "protein": 32,
+    "carbs": 41,
+    "fat": 28
+  },
+  "slug": "wholesome-french-mallow-gratin",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/wholesome-french-mallow-gratin",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T07:51:13Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "creme fraiche",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Mallow",
+    "descriptor": "Wholesome",
+    "dishForm": "Gratin"
+  }
+}
