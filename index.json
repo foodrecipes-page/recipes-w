@@ -7284,17 +7284,16 @@
   },
   {
     "slug": "warm-smoky-ethiopian-puff-pastry-fir-fir",
-    "title": "Warm Smoky Ethiopian Puff Pastry Fir Fir",
+    "title": "Ethiopian Fir Fir Pastry",
     "tags": [
-      "ethiopian-cuisine",
-      "lacto-vegetarian",
-      "puff-pastry",
-      "robata-grill",
-      "smoky-flavor",
-      "snack-food"
+      "ethiopian",
+      "pastry",
+      "fir-fir",
+      "smoky",
+      "warm"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -13725,18 +13724,14 @@
   },
   {
     "slug": "wholesome-cheesy-korean-beef-kimchi-mandu-jjigae",
-    "title": "Wholesome Cheesy Korean Beef Kimchi Mandu Jjigae",
+    "title": "Spicy Korean Beef Mandu Stew",
     "tags": [
-      "cheese",
-      "easy-dinner",
-      "high-protein",
-      "jjigae",
       "korean",
-      "mandu",
-      "meal-prep"
+      "beef",
+      "stew"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
