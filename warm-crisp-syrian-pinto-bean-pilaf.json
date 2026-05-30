@@ -1,0 +1,70 @@
+{
+  "slug": "warm-crisp-syrian-pinto-bean-pilaf",
+  "title": "Warm Pinto Bean Pilaf",
+  "description": "A hearty and comforting dish made with pinto beans, crispy pilaf, and warm spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pinto bean",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "syrian spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crisp, chopped onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add chopped onion and cook until crispy, about 5 minutes.",
+    "Add Syrian spice blend and cook for 1 minute.",
+    "Stir in cooked pinto beans and pilaf.",
+    "Cook for 2-3 minutes, stirring occasionally.",
+    "Season with salt and black pepper to taste.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort food",
+    "vegetarian",
+    "lunch",
+    "easy recipe"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crisp-syrian-pinto-bean-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:52:09.043Z"
+}
