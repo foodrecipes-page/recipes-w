@@ -1,0 +1,68 @@
+{
+  "slug": "warm-saudi-arabian-bread-fried",
+  "title": "Saudi Arabian Fried Bread",
+  "description": "A traditional Saudi Arabian breakfast dish that combines crispy fried bread with warm spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cut the bread into 1-inch cubes.",
+    "Heat the vegetable oil in a deep frying pan over medium-high heat.",
+    "Fry the bread cubes in batches until golden brown and crispy.",
+    "Remove the fried bread from the oil and place on paper towels to drain excess oil.",
+    "Sprinkle the fried bread with cumin, paprika, salt, and black pepper.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "fried",
+    "bread",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-saudi-arabian-bread-fried",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:42:19.763Z"
+}
