@@ -1,0 +1,95 @@
+{
+  "slug": "wholesome-nutty-egyptian-french-lentils-stone-bowl-dolsot",
+  "title": "Egyptian Lentil Dolsot Bowl",
+  "description": "A hearty, wholesome bowl filled with flavorful lentils, aromatic spices, and a nutty crunch, all cooked in a traditional Korean dolsot.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Dolsot Stone Bowl",
+      "amount": "",
+      "notes": "For serving"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the dolsot stone bowl over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the cumin, coriander, paprika, and salt. Cook for 1 minute.",
+    "Add the rinsed lentils, water, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes, or until the lentils are tender.",
+    "Stir in 1 tablespoon of chopped fresh parsley (optional).",
+    "Serve the lentil mixture hot in the dolsot stone bowl, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "egyptian",
+    "vegetarian",
+    "gluten-free",
+    "korean-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "18g",
+    "carbs": "60g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-nutty-egyptian-french-lentils-stone-bowl-dolsot",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:38:48.070Z"
+}
