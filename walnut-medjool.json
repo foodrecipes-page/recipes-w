@@ -1,0 +1,69 @@
+{
+  "slug": "walnut-medjool",
+  "title": "Walnut and Medjool Date Energy Balls",
+  "description": "No-bake energy balls made with walnuts, medjool dates, and rolled oats. Perfect for a quick snack or post-workout treat.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "medjool dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chia seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. In a food processor, combine chopped walnuts, pitted dates, and chia seeds. Process until well combined.",
+    "2. In a large mixing bowl, combine oats, coconut flakes, and maple syrup. Mix well.",
+    "3. Add the walnut-date mixture to the oat mixture and stir until a dough forms.",
+    "4. Use your hands to shape the dough into small energy balls.",
+    "5. Place the energy balls on a baking sheet lined with parchment paper.",
+    "6. Refrigerate for at least 30 minutes to set.",
+    "7. Store in an airtight container in the refrigerator for up to 5 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "energy-balls",
+    "no-bake",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/walnut-medjool",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:34:41.731Z"
+}
