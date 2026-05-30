@@ -1,0 +1,78 @@
+{
+  "slug": "warm-smoked-argentinian-lamb-grill",
+  "title": "Argentinian-Style Smoked Lamb Choripan",
+  "description": "A classic street food from Argentina, this recipe combines the flavors of smoked lamb, grilled bread, and chimichurri sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked Lamb Chorizo",
+      "amount": "8 oz",
+      "notes": "Argentinian-style chorizo"
+    },
+    {
+      "name": "Bread",
+      "amount": "4-6 bun",
+      "notes": "Grill marks appreciated"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Chimichurri Sauce",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "1 tsp",
+      "notes": "For seasoning lamb"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "For seasoning lamb"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Grill the chorizo for 2-3 minutes per side, or until nicely charred.",
+    "3. Meanwhile, toast the bread on the grill or in a toaster.",
+    "4. Slice the chorizo into 1-inch pieces.",
+    "5. Assemble the choripan by placing a few slices of chorizo onto each bread bun.",
+    "6. Top with red onion, parsley, and a dollop of chimichurri sauce.",
+    "7. Season with salt and pepper to taste.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "smoked",
+    "lamb",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoked-argentinian-lamb-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:50:27.060Z"
+}
