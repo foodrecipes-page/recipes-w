@@ -774,13 +774,15 @@
   },
   {
     "slug": "warm-canadian-prunes-pie",
-    "title": "Warm Canadian Prunes Pie",
+    "title": "Warm Canadian Prune Pie",
     "tags": [
-      "canadian",
-      "dessert"
+      "warm-canadian-prune-pie",
+      "canadian-desserts",
+      "warm-pie",
+      "prune-pie"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -1516,17 +1518,15 @@
   },
   {
     "slug": "warm-crisp-syrian-pinto-bean-pilaf",
-    "title": "Warm Crisp Syrian Pinto Bean Pilaf",
+    "title": "Warm Pinto Bean Pilaf",
     "tags": [
-      "lazy-sunday",
-      "low-calorie",
-      "one-pan",
-      "syrian-cuisine",
+      "comfort food",
       "vegetarian",
-      "weeknight"
+      "lunch",
+      "easy recipe"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 60,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
@@ -7025,17 +7025,15 @@
   },
   {
     "slug": "warm-smoked-argentinian-lamb-grill",
-    "title": "Warm Smoked Argentinian Lamb Grill",
+    "title": "Argentinian-Style Smoked Lamb Choripan",
     "tags": [
       "argentinian",
-      "grilled",
+      "smoked",
       "lamb",
-      "one-pan",
-      "satvik-friendly",
-      "weeknight"
+      "grill"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 65,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 20,
     "shard": "w"
   },
   {
@@ -17536,18 +17534,15 @@
   },
   {
     "slug": "winey-crisp-algerian-manchego-bake",
-    "title": "Winey Crisp Algerian Manchego Bake",
+    "title": "Crisp Manchego Frittata",
     "tags": [
-      "algerian",
-      "clay-tajine",
-      "crisp",
-      "egg-free",
-      "manchego",
-      "weeknight",
-      "winey"
+      "spanish",
+      "breakfast",
+      "eggs",
+      "cheese"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "cuisine": "Spanish",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
