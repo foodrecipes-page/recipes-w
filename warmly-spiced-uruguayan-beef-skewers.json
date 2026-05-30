@@ -1,0 +1,79 @@
+{
+  "slug": "warmly-spiced-uruguayan-beef-skewers",
+  "title": "Uruguayan Beef Skewers",
+  "description": "A flavorful and spicy Uruguayan-inspired dish featuring beef skewers grilled to perfection. Serve with your favorite sides for a delicious meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Skewers",
+      "amount": "1 pound (450g)",
+      "notes": "Cut into 1-inch (2.5 cm) cubes"
+    },
+    {
+      "name": "Warmly Spiced Olive Oil",
+      "amount": "1/4 cup (60ml)",
+      "notes": "Make sure to use a high-quality olive oil"
+    },
+    {
+      "name": "Uruguayan-Style Seasoning",
+      "amount": "2 tablespoons",
+      "notes": "A blend of paprika, garlic powder, and cumin"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use kosher salt for best flavor"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground for best flavor"
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "4",
+      "notes": "For serving"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup (15g)",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a large bowl, whisk together warmly spiced olive oil, Uruguayan-style seasoning, salt, and black pepper.",
+    "Add beef skewers to the bowl and toss to coat evenly with the marinade.",
+    "Thread beef skewers onto metal or bamboo skewers, leaving a little space between each piece.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until cooked to your desired level of doneness.",
+    "Transfer skewers to a cutting board and let rest for 5 minutes before serving.",
+    "Serve skewers with lime wedges and chopped cilantro, if desired.",
+    "Cook's note: Make sure to cook the skewers to an internal temperature of at least 145°F (63°C) for medium-rare, 160°F (71°C) for medium, and 170°F (77°C) for well-done."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "skewers",
+    "grilled",
+    "uruguayan",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-uruguayan-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:59:00.559Z"
+}
