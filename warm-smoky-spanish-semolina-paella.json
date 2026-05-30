@@ -1,0 +1,88 @@
+{
+  "slug": "warm-smoky-spanish-semolina-paella",
+  "title": "Spanish Smoked Paella",
+  "description": "Traditional Spanish dish from the Valencia region, cooked with smoked sausage and semolina rice.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Sausage",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Semolina Rice",
+      "amount": "1 cup",
+      "notes": "Rinse before cooking"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 teaspoons",
+      "notes": "Add for authentic smoky flavor"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the smoked sausage and cook until browned, about 5 minutes.",
+    "Add the garlic, smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the tomato, chicken broth, and rice. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the pan from the heat and let it rest, covered, for 5 minutes.",
+    "Serve hot, garnished with fresh parsley or lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "smoked",
+    "paella",
+    "rice",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 70,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-spanish-semolina-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:36:58.472Z"
+}
