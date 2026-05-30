@@ -1,0 +1,85 @@
+{
+  "slug": "wholesome-cheesy-korean-beef-kimchi-mandu-jjigae",
+  "title": "Spicy Korean Beef Mandu Stew",
+  "description": "A hearty and flavorful stew made with spicy Korean beef, kimchi, and crispy mandu.",
+  "cuisine": "Korean",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "1 pound",
+      "notes": "Slice into small pieces"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1 cup",
+      "notes": "Chop into small pieces"
+    },
+    {
+      "name": "Mandu (Korean dumplings)",
+      "amount": "1 package",
+      "notes": "Cut open and set aside"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grate"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chop"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pot over medium-high heat.",
+    "Add garlic and ginger and cook until fragrant, about 1 minute.",
+    "Add beef and cook until browned, about 3-4 minutes.",
+    "Add kimchi and cook until slightly caramelized, about 2-3 minutes.",
+    "Add mandu, chili flakes, soy sauce, and 2 cups of water.",
+    "Bring to a boil, then reduce heat to medium-low and simmer for 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-cheesy-korean-beef-kimchi-mandu-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:04:22.191Z"
+}
