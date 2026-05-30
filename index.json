@@ -8376,15 +8376,16 @@
   },
   {
     "slug": "warm-spicy-german-chicken-noodles",
-    "title": "Warm Spicy German Chicken Noodles",
+    "title": "Spicy Chicken Noodle Soup",
     "tags": [
-      "chicken-recipes",
-      "comfort-food",
-      "german-cuisine",
-      "noodle-dishes",
-      "spicy-food"
+      "german",
+      "soup",
+      "chicken",
+      "noodles",
+      "warm",
+      "spicy"
     ],
-    "cuisine": "German",
+    "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "w"
   },
@@ -12522,17 +12523,16 @@
   },
   {
     "slug": "warmly-spiced-uruguayan-beef-skewers",
-    "title": "Warmly Spiced Uruguayan Beef Skewers",
+    "title": "Uruguayan Beef Skewers",
     "tags": [
       "beef",
+      "skewers",
       "grilled",
-      "romantic",
-      "south-american",
-      "spicy",
-      "whole30"
+      "uruguayan",
+      "spicy"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -18728,6 +18728,19 @@
       "tangy-mexican"
     ],
     "cuisine": "Mexican (Yucatecan)",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-buttery-dutch-red-bean-pilaf--japanese",
+    "title": "Japanese Red Bean Pilaf",
+    "tags": [
+      "japanese",
+      "pilaf",
+      "beans",
+      "rice"
+    ],
+    "cuisine": "japanese",
     "totalTimeMin": 30,
     "shard": "w"
   }
