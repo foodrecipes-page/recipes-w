@@ -480,17 +480,15 @@
   },
   {
     "slug": "warm-buttery-dutch-red-bean-pilaf",
-    "title": "Warm Buttery Dutch Red Bean Pilaf",
+    "title": "Dutch Bean Pilaf",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "gluten-free",
-      "one-pot",
-      "post-workout",
-      "vegetarian"
+      "bean",
+      "pilaf",
+      "vegetarian",
+      "easy"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "w"
   },
   {
@@ -3510,17 +3508,15 @@
   },
   {
     "slug": "warm-fluffy-croatian-egg-frittata",
-    "title": "Warm Fluffy Croatian Egg Frittata",
+    "title": "Croatian Frittata",
     "tags": [
-      "brunch",
+      "breakfast",
       "croatian",
-      "high-protein",
-      "one-pan",
-      "savory",
-      "weeknight"
+      "frittata",
+      "easy"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 28,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -15351,17 +15347,15 @@
   },
   {
     "slug": "wholesome-russian-bananas-hash",
-    "title": "wholesome russian bananas hash",
+    "title": "Classic Wholesome Banana Pancakes",
     "tags": [
-      "breakfast",
-      "comfort-food",
-      "diabetic-friendly",
-      "easy-to-make",
-      "lazy-sunday",
-      "russian"
+      "bananas",
+      "wholesome",
+      "pancakes",
+      "breakfast"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 15,
+    "cuisine": "american",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
