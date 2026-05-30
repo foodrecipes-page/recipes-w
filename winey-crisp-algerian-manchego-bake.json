@@ -1,0 +1,65 @@
+{
+  "slug": "winey-crisp-algerian-manchego-bake",
+  "title": "Crisp Manchego Frittata",
+  "description": "A simple Spanish-inspired breakfast dish featuring crisp manchego cheese and a hint of winey flavor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "crisp manchego cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "algerian winey olives",
+      "amount": "1/4 cup, sliced"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large eggs"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "bake flour",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a skillet, sauté the algerian winey olives over medium heat until softened.",
+    "In a separate bowl, whisk together the eggs and a pinch of salt.",
+    "Add the crisp manchego cheese to the egg mixture and stir until combined.",
+    "Pour the egg mixture over the cooked olives in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and use a spatula to gently loosen the edges of the frittata from the pan.",
+    "Sprinkle a pinch of bake flour over the top of the frittata for a rustic finish.",
+    "Slide the frittata out of the skillet onto a serving plate and slice into wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "breakfast",
+    "eggs",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-crisp-algerian-manchego-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:55:43.959Z"
+}
