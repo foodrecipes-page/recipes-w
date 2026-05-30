@@ -1,0 +1,65 @@
+{
+  "slug": "warm-buttery-dutch-red-bean-pilaf",
+  "title": "Dutch Bean Pilaf",
+  "description": "A hearty and flavorful pilaf dish, perfect for a weeknight dinner, made with red beans and a blend of spices.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red bean",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Dutch pilaf",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium-high heat.",
+    "Add the pilaf and cook until lightly toasted, about 3 minutes.",
+    "Add the red beans and cook until heated through, about 2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bean",
+    "pilaf",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-buttery-dutch-red-bean-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:33:14.870Z"
+}
