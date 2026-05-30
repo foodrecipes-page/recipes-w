@@ -1,0 +1,81 @@
+{
+  "slug": "warm-smoky-ethiopian-puff-pastry-fir-fir",
+  "title": "Ethiopian Fir Fir Pastry",
+  "description": "A traditional Ethiopian pastry with a warm and smoky flavor, wrapped in a flaky puff pastry crust.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fir fir flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Puff pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Warm spices",
+      "amount": "1 tsp",
+      "notes": "Mix of cinnamon, cardamom, and ginger"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fir fir sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out puff pastry to a thickness of 1/8 inch.",
+    "In a separate bowl, mix fir fir flour, warm spices, smoked paprika, fir fir sugar, egg, and salt.",
+    "Place the fir fir mixture in the center of the pastry rectangle, leaving a 1 inch border around it.",
+    "Brush the edges of the pastry with water.",
+    "Fold the pastry over the filling, pressing the edges to seal.",
+    "Use a knife to create a decorative edge.",
+    "Place the pastry on a baking sheet lined with parchment paper.",
+    "Bake for 25-30 minutes, or until golden brown.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "pastry",
+    "fir-fir",
+    "smoky",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-ethiopian-puff-pastry-fir-fir",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:07:03.885Z"
+}
