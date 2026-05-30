@@ -1,0 +1,80 @@
+{
+  "slug": "warm-buttery-dutch-red-bean-pilaf--japanese",
+  "title": "Japanese Red Bean Pilaf",
+  "description": "A simple and comforting Japanese-inspired pilaf made with red beans, perfect for a weeknight dinner.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dutch red kidney beans, drained and rinsed",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Uncooked Japanese short-grain rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Warm water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Buttery soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Green onions, chopped",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large saucepan over medium heat.",
+    "Add the grated ginger and sauté for 1 minute.",
+    "Add the Dutch red kidney beans, uncooked Japanese short-grain rice, and warm water to the saucepan.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 18-20 minutes or until the water is absorbed.",
+    "Stir in the buttery soy sauce and season with salt to taste.",
+    "Transfer the pilaf to a serving dish and garnish with chopped green onions, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "pilaf",
+    "beans",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-buttery-dutch-red-bean-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:02:57.615Z"
+}
