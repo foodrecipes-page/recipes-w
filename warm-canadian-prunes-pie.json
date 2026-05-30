@@ -1,0 +1,73 @@
+{
+  "slug": "warm-canadian-prunes-pie",
+  "title": "Warm Canadian Prune Pie",
+  "description": "A classic Canadian dessert featuring a warm, flaky pie crust filled with sweet prunes.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "gluten-free flour for gluten-free option"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "prunes",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine flour, cold butter, and brown sugar. Mix until crumbly.",
+    "Add prunes, eggs, and milk to the bowl. Mix until a dough forms.",
+    "Roll out dough on a floured surface to a thickness of 1/4 inch.",
+    "Transfer dough to a 9-inch pie dish. Trim edges and crimp.",
+    "Bake for 25-30 minutes or until crust is golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "warm-canadian-prune-pie",
+    "canadian-desserts",
+    "warm-pie",
+    "prune-pie"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-canadian-prunes-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:54:04.836Z"
+}
