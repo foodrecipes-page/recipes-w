@@ -1650,16 +1650,16 @@
   },
   {
     "slug": "warm-crispy-canadian-corn-bake",
-    "title": "Warm Crispy Canadian Corn Bake",
+    "title": "Crispy Canadian Corn Bake",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "canadian",
+      "corn",
+      "bake",
+      "vegetarian",
+      "side-dish"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 55,
+    "cuisine": "North American",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -6614,18 +6614,15 @@
   },
   {
     "slug": "warm-saudi-arabian-bread-fried",
-    "title": "Warm Saudi-Arabian Bread Fries",
+    "title": "Saudi Arabian Fried Bread",
     "tags": [
-      "bread-fries",
-      "easy-sid-dish",
-      "gluten-free-option",
-      "middle-eastern",
-      "snack-attack",
-      "veggie-friendly",
-      "weeknight-dinner"
+      "breakfast",
+      "fried",
+      "bread",
+      "saudi-arabian"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 30,
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
