@@ -1,0 +1,75 @@
+{
+  "slug": "wholesome-russian-bananas-hash",
+  "title": "Classic Wholesome Banana Pancakes",
+  "description": "Moist and delicious pancakes made with ripe bananas and wholesome ingredients. Perfect for a weekend breakfast.",
+  "cuisine": "american",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "wholesome all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "bananas",
+      "amount": "3",
+      "notes": "ripe"
+    },
+    {
+      "name": "hash brown potatoes",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1 cup",
+      "notes": "such as almond or soy milk"
+    },
+    {
+      "name": "unflavored non-dairy yogurt",
+      "amount": "1/2 cup",
+      "notes": "such as soy or coconut yogurt"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, sugar, and salt.",
+    "In a separate bowl, mash the bananas and mix with the hash brown potatoes.",
+    "Add the non-dairy milk and non-dairy yogurt to the bowl with the mashed banana mixture.",
+    "Pour the wet ingredients into the dry ingredients and stir until just combined.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook for 2-3 minutes or until bubbles appear on the surface and the edges start to dry.",
+    "Flip and cook for an additional 1-2 minutes or until golden brown.",
+    "Serve warm with your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bananas",
+    "wholesome",
+    "pancakes",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-russian-bananas-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:31:40.988Z"
+}
