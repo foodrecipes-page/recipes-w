@@ -55,14 +55,15 @@
   },
   {
     "slug": "walnut-medjool",
-    "title": "Walnut Medjool",
+    "title": "Walnut and Medjool Date Energy Balls",
     "tags": [
-      "walnut-mediterranean",
-      "medjool-date-dairy-free",
-      "tunisian-vegan"
+      "energy-balls",
+      "no-bake",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 45,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
@@ -4915,17 +4916,15 @@
   },
   {
     "slug": "warm-kenyan-olive-flatbread",
-    "title": "Warm Kenyan Olive Flatbread",
+    "title": "Warm Kenyan Flatbread",
     "tags": [
-      "flaky",
       "kenyan",
-      "lunch-idea",
-      "savory",
-      "vegetarian-friendly",
-      "warm"
+      "flatbread",
+      "snack",
+      "bread"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 90,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
@@ -7729,17 +7728,16 @@
   },
   {
     "slug": "warm-smoky-spanish-semolina-paella",
-    "title": "Warm Smoky Spanish Semolina Paella",
+    "title": "Spanish Smoked Paella",
     "tags": [
-      "gluten-free",
-      "one-pan",
-      "seafood",
-      "smoky",
       "spanish",
-      "whole30"
+      "smoked",
+      "paella",
+      "rice",
+      "sausage"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
