@@ -5327,17 +5327,15 @@
   },
   {
     "slug": "warm-mexican-corn-tlayuda",
-    "title": "Warm Mexican Corn Tlayuda",
+    "title": "Warm Mexican Corn Tlayudas",
     "tags": [
-      "butter-crisp",
-      "coconut",
       "mexican",
-      "no-garlic",
-      "no-onion",
-      "yucatecan"
+      "corn",
+      "tlayuda",
+      "veggie"
     ],
-    "cuisine": "Yucatecan",
-    "totalTimeMin": 15,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -15081,15 +15079,15 @@
   },
   {
     "slug": "wholesome-nutty-egyptian-french-lentils-stone-bowl-dolsot",
-    "title": "wholesome nutty egyptian french lentils stone-bowl-dolsot",
+    "title": "Egyptian Lentil Dolsot Bowl",
     "tags": [
+      "lentil",
+      "egyptian",
+      "vegetarian",
       "gluten-free",
-      "high-protein",
-      "low-fat",
-      "one-pan",
-      "vegan-friendly"
+      "korean-inspired"
     ],
-    "cuisine": "egyptian",
+    "cuisine": "Egyptian",
     "totalTimeMin": 40,
     "shard": "w"
   },
