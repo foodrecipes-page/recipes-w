@@ -1,0 +1,63 @@
+{
+  "slug": "warm-kenyan-olive-flatbread",
+  "title": "Warm Kenyan Flatbread",
+  "description": "A simple and delicious flatbread from Kenya, perfect for serving with your favorite stews or as a side dish.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Warm water",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Kenyan flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Flatbread dough enhancer",
+      "amount": null,
+      "notes": "Optional, but recommended for a lighter texture"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine warm water and 1 teaspoon of salt. Let it sit for 5 minutes.",
+    "Add 2 cups of Kenyan flour to the bowl and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4-6 equal pieces, depending on how large you want your flatbreads to be.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Heat a non-stick pan or griddle over medium heat. Brush the pan with olive oil.",
+    "Cook the flatbread for 1-2 minutes on each side, until it's lightly browned and puffed up.",
+    "Repeat with the remaining dough pieces.",
+    "Serve the flatbread warm, either on its own or with your favorite stews or toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "flatbread",
+    "snack",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": "2g",
+    "carbs": "25g",
+    "fat": "1g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-kenyan-olive-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:33:37.421Z"
+}
