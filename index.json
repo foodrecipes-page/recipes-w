@@ -4266,16 +4266,15 @@
   },
   {
     "slug": "warm-greek-lamb-skewers",
-    "title": "Warm Greek Lamb Skewers",
+    "title": "Greek Lamb Skewers",
     "tags": [
-      "brunch-ideas",
-      "comal-cooking",
-      "greek-cuisine",
-      "lamb-recipes",
-      "low-glycemic"
+      "greek",
+      "lamb",
+      "skewers",
+      "barbecue"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "totalTimeMin": 28,
     "shard": "w"
   },
   {
@@ -6216,16 +6215,14 @@
   },
   {
     "slug": "warm-roasted-american-sirloin-steak-tips-skillet",
-    "title": "Warm Roasted American Sirloin Steak Tips Skillet",
+    "title": "Pan-Seared Sirloin Steak",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "roasted-vegetables",
-      "weeknight"
+      "steak",
+      "american",
+      "dinner"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 35,
+    "cuisine": "american",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -10060,18 +10057,16 @@
   },
   {
     "slug": "warm-welsh-slate-tile-baked-british-date-night-welsh-dish-bake",
-    "title": "Warm Welsh Slate-Tile Baked British Date Night Welsh Dish Bake",
+    "title": "Traditional British Baked Date Cake",
     "tags": [
+      "baked",
       "british",
-      "crisp",
-      "date-night",
-      "easter",
-      "one-pan",
-      "sour",
-      "weeknight"
+      "date",
+      "cake",
+      "dessert"
     ],
-    "cuisine": "Welsh",
-    "totalTimeMin": 55,
+    "cuisine": "British",
+    "totalTimeMin": 60,
     "shard": "w"
   },
   {
