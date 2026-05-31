@@ -1,0 +1,78 @@
+{
+  "slug": "warm-kenyan-olive-flatbread--thai",
+  "title": "Thai-Style Flatbread with Warm Kenyan Olive Tapenade",
+  "description": "A delicious fusion of flavors, blending warm Kenyan spices with the richness of olive tapenade, all wrapped in crispy Thai-style flatbread.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces",
+      "notes": "preferably Thai-style"
+    },
+    {
+      "name": "Olive Tapenade",
+      "amount": "1/2 cup",
+      "notes": "warm Kenyan-style"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon",
+      "notes": "for brushing flatbread"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C)",
+    "Brush flatbread with sesame oil and bake for 5-7 minutes, or until crispy",
+    "In a bowl, mix together olive tapenade, chopped green onions, and chopped cilantro",
+    "Add lime juice and honey (if using) to the bowl and mix well",
+    "Spread the tapenade mixture onto the baked flatbread",
+    "Cut into smaller pieces and serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "kenyan",
+    "olive",
+    "thai",
+    "tapenade",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-kenyan-olive-flatbread--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:02:08.572Z"
+}
