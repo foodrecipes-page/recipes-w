@@ -1,0 +1,92 @@
+{
+  "slug": "whole30-welcoming-mexican-nduja-tostada",
+  "title": "Spicy Nduja Tostada",
+  "description": "A spicy twist on traditional Mexican tostadas, featuring nduja sausage and fresh toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "whole30",
+    "welcoming"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Nduja sausage",
+      "amount": "1/4 pound",
+      "notes": ""
+    },
+    {
+      "name": "Tostada shells",
+      "amount": "4-6 shells",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4-6 wedges",
+      "notes": ""
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 ripe avocado",
+      "notes": ""
+    },
+    {
+      "name": "Sliced radishes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Queso fresco (or dairy-free alternative)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the nduja sausage into small pieces and cook in a skillet over medium-high heat until browned, about 5 minutes.",
+    "Add the cooked sausage to the tostada shells and top with queso fresco, sliced radishes, and chopped cilantro.",
+    "Drizzle with lime juice and serve immediately.",
+    "Serve with lime wedges on the side for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "nduja",
+    "tostada",
+    "snack",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whole30-welcoming-mexican-nduja-tostada",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:34:06.267Z"
+}
