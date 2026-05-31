@@ -1,0 +1,57 @@
+{
+  "slug": "whimsical-australian-flour-pancakes",
+  "title": "Australian Pancakes",
+  "description": "Fluffy and light Australian-style pancakes, perfect for a weekend breakfast. Serve with your favorite toppings, such as maple syrup, fresh fruit, or whipped cream.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "pancakes",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "whimsical",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for a touch of fun"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour and pancakes.",
+    "In a separate bowl, whisk together milk, eggs, and sugar.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined. Do not overmix.",
+    "The batter should still be slightly lumpy.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the pan.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip and cook for another 1-2 minutes, until golden brown.",
+    "Serve warm with your favorite toppings."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "australian",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whimsical-australian-flour-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:05:07.098Z"
+}
