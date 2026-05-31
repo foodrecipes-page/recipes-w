@@ -1,0 +1,72 @@
+{
+  "slug": "wholesome-bitter-polish-tofu-bowl",
+  "title": "Polish Tofu Bowl",
+  "description": "A hearty and flavorful dish that combines the best of Polish and Asian cuisines. Tofu is marinated in a mixture of Polish spices and herbs, then pan-fried and served in a bowl over a bed of wholesome goodness.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "Extra-firm, drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "Polish Sausage Seasoning",
+      "amount": "1 tsp",
+      "notes": "Available in most supermarkets or online"
+    },
+    {
+      "name": "Bitter Melon",
+      "amount": "1 medium",
+      "notes": "Slice into thin rounds"
+    },
+    {
+      "name": "Whole Wheat Bread",
+      "amount": "4 slices",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "Large, ceramic or glass"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Cut the tofu into bite-sized pieces and place on a baking sheet lined with parchment paper.",
+    "Drizzle the tofu with a little bit of oil and sprinkle with Polish sausage seasoning. Toss to coat.",
+    "Roast the tofu in the oven for 15-20 minutes, or until golden brown and crispy.",
+    "While the tofu is roasting, slice the bitter melon into thin rounds.",
+    "Heat a little bit of oil in a pan over medium heat.",
+    "Add the sliced bitter melon to the pan and cook for 3-4 minutes per side, or until tender and lightly browned.",
+    "Cut the whole wheat bread into 1-inch cubes and toast until lightly browned.",
+    "To assemble the bowls, place a scoop of the roasted tofu on the bottom, followed by a few slices of bitter melon, some toasted bread cubes, and finally a sprinkle of Polish sausage seasoning.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "tofu",
+    "bitter-melon",
+    "whole-wheat-bread",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-bitter-polish-tofu-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:09:13.342Z"
+}
