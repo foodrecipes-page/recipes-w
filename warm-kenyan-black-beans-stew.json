@@ -1,0 +1,93 @@
+{
+  "slug": "warm-kenyan-black-beans-stew",
+  "title": "Kenyan Stew Recipe",
+  "description": "A hearty and flavorful stew from Kenya made with black beans, warm spices, and a hint of black pepper.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup, drained and rinsed",
+      "notes": "canned"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chili powder, cumin, cayenne pepper, salt, and black pepper; cook for 1 minute.",
+    "Stir in tomato paste; cook for 1 minute.",
+    "Add black beans, water, and bring to a boil.",
+    "Reduce heat to low and simmer, covered, until thickened, 20 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "kenyan",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-kenyan-black-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:51:59.265Z"
+}
