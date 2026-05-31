@@ -1,0 +1,85 @@
+{
+  "slug": "wonderful-crunchy-basque-french-deodeok-root-skewers",
+  "title": "Grilled Deodeok with French Herb Skewers",
+  "description": "A delightful summer dish featuring the sweet flavor of deodeok paired with the freshness of French herbs, grilled to perfection on skewers.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Deodeok",
+      "amount": "4-6 pieces",
+      "notes": "Choose firm, dark green deodeok"
+    },
+    {
+      "name": "French thyme",
+      "amount": "2 tbsp",
+      "notes": "Fresh or dried, chopped"
+    },
+    {
+      "name": "French rosemary",
+      "amount": "1 tbsp",
+      "notes": "Fresh or dried, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "Wooden or metal, soaked in water for 30 minutes"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (375°F).",
+    "Soak skewers in water for at least 30 minutes.",
+    "In a small bowl, mix together French thyme, French rosemary, and garlic.",
+    "Thread 1-2 deodeok pieces onto each skewer, leaving a small space between each piece.",
+    "Brush the tops of the deodeok with olive oil and sprinkle with the herb mixture.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 3-4 minutes per side, or until deodeok is tender and slightly charred.",
+    "Serve immediately, garnished with additional fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "korean-cuisine",
+    "summer-dish",
+    "easy-to-make",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wonderful-crunchy-basque-french-deodeok-root-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:05:30.721Z"
+}
