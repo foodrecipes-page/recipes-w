@@ -1,0 +1,68 @@
+{
+  "slug": "wholesome-midnight-craving-grapes-cedar-plank-pilaf",
+  "title": "Cedar Grilled Plank Pilaf",
+  "description": "A unique and flavorful pilaf dish grilled to perfection on a cedar plank, perfect for a summer evening.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grapes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "wholesome olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "craving spices",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "midnight salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1 plank"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Soak the cedar plank in water for 30 minutes.",
+    "In a medium saucepan, heat the olive oil over medium heat.",
+    "Add the pilaf and cook for 2-3 minutes until lightly toasted.",
+    "Add the grapes, craving spices, and midnight salt to the saucepan. Stir to combine.",
+    "Place the soaked cedar plank on the grill and cook for 2-3 minutes until slightly charred.",
+    "Transfer the pilaf mixture to the cedar plank and cook for an additional 2-3 minutes.",
+    "Remove from heat and let rest for 1-2 minutes before serving.",
+    "Slice the cedar plank into individual portions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "pilaf",
+    "summer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-midnight-craving-grapes-cedar-plank-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:56:30.749Z"
+}
