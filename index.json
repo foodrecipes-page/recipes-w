@@ -11549,17 +11549,15 @@
   },
   {
     "slug": "warmly-grilled-malaysian-chicken-skewers",
-    "title": "Warmly Grilled Malaysian Chicken Skewers",
+    "title": "Malaysian Grilled Chicken Skewers",
     "tags": [
-      "dinner-ideas",
-      "gluten-free",
       "grilled",
-      "malaysian-cuisine",
-      "robata-grill",
-      "vegan-friendly"
+      "chicken",
+      "skewers",
+      "malaysian"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 27,
     "shard": "w"
   },
   {
@@ -18730,6 +18728,20 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-smoky-ethiopian-puff-pastry-fir-fir--italian",
+    "title": "Fir Needle Puff Pastry Tart",
+    "tags": [
+      "italian",
+      "tart",
+      "pastry",
+      "fir-needle",
+      "dessert"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
     "shard": "w"
   }
 ]
