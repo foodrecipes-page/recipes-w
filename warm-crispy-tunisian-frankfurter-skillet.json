@@ -1,0 +1,95 @@
+{
+  "slug": "warm-crispy-tunisian-frankfurter-skillet",
+  "title": "Crispy Tunisian Skillet Frankfurter",
+  "description": "A twist on traditional hot dogs, this crispy Tunisian skillet frankfurter combines flavors of North Africa with a crunchy twist.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Frankfurter",
+      "amount": "4",
+      "notes": "any type of hot dog"
+    },
+    {
+      "name": "Tunisian Spice Blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Warm Pita Bread",
+      "amount": "4",
+      "notes": "split in half"
+    },
+    {
+      "name": "Crispy Skillet Croutons",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Sliced Red Onion",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Lemon Wedges",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "Harissa Mayo",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Add the Tunisian Spice Blend and cook for 1 minute.",
+    "Add the Frankfurter and cook for 2-3 minutes per side, until crispy.",
+    "Toast the Pita Bread by grilling for 1-2 minutes per side.",
+    "Top each Pita Bread half with a cooked Frankfurter, some Skillet Croutons, and a dollop of Harissa Mayo.",
+    "Garnish with Chopped Fresh Cilantro and Sliced Red Onion, if desired.",
+    "Serve immediately with a side of Lemon Wedges.",
+    "Cook the Croutons by cubing 1 cup of bread and frying in a non-stick skillet until crispy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "north african",
+    "breakfast",
+    "lunch",
+    "frankfurter",
+    "pita bread"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-tunisian-frankfurter-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:35:23.416Z"
+}
