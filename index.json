@@ -13294,17 +13294,16 @@
   },
   {
     "slug": "whole30-welcoming-mexican-nduja-tostada",
-    "title": "Whole30 Welcoming Mexican Nduja Tostada",
+    "title": "Spicy Nduja Tostada",
     "tags": [
-      "gluten-free",
-      "mexican-food",
-      "one-pot-meals",
-      "paleo-diet",
-      "spicy-food",
-      "whole30-recipes"
+      "mexican",
+      "nduja",
+      "tostada",
+      "snack",
+      "whole30"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
@@ -18387,17 +18386,16 @@
   },
   {
     "slug": "wonderful-crunchy-basque-french-deodeok-root-skewers",
-    "title": "Wonderful Crunchy Basque French Deodeok Root Skewers",
+    "title": "Grilled Deodeok with French Herb Skewers",
     "tags": [
-      "basque-cuisine",
-      "crunchy-snacks",
-      "dairy-free",
-      "french-inspired",
-      "gluten-free",
-      "vegetarian-options"
+      "grilled",
+      "korean-cuisine",
+      "summer-dish",
+      "easy-to-make",
+      "vegetarian-option"
     ],
-    "cuisine": "Basque French",
-    "totalTimeMin": 40,
+    "cuisine": "Korean",
+    "totalTimeMin": 23,
     "shard": "w"
   },
   {
@@ -18732,6 +18730,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-arabian-lentil-pilaf--keto",
+    "title": "Keto Arabian Lentil Pilaf",
+    "tags": [
+      "keto",
+      "arabian",
+      "lentil",
+      "pilaf"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "w"
   }
 ]
