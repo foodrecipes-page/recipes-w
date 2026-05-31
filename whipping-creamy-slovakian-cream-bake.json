@@ -1,0 +1,62 @@
+{
+  "slug": "whipping-creamy-slovakian-cream-bake",
+  "title": "Slovakian Cream Cakes",
+  "description": "A traditional Slovakian dessert made with creamy whipped cream and a delicate cake.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Slovakian cream",
+      "amount": "250g"
+    },
+    {
+      "name": "Whipping",
+      "amount": "500ml"
+    },
+    {
+      "name": "Cream",
+      "amount": "100g"
+    },
+    {
+      "name": "Sugar",
+      "amount": "200g"
+    },
+    {
+      "name": "Bake mix",
+      "amount": "200g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Mix the Slovakian cream, sugar and whipping in a large bowl.",
+    "Add the bake mix and mix until combined.",
+    "Pour the mixture into a baking dish and bake for 25 minutes.",
+    "While the cake is baking, whip the cream until stiff peaks form.",
+    "Remove the cake from the oven and let it cool.",
+    "Top the cake with the whipped cream and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "cream",
+    "cake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whipping-creamy-slovakian-cream-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:56:58.954Z"
+}
