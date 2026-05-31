@@ -1,0 +1,82 @@
+{
+  "slug": "warmly-spiced-peruvian-chicken-stew",
+  "title": "Peruvian Chicken Stew",
+  "description": "A hearty, spicy stew originating from Peru, featuring tender chicken and a blend of aromatic spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "warmly spiced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "diced"
+    },
+    {
+      "name": "peruvian stew seasoning",
+      "amount": "1 tablespoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "red pepper",
+      "amount": "1 medium",
+      "notes": "seeded and chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Add the onion, garlic, and red pepper; cook until the vegetables are softened, about 5 minutes.",
+    "Add the diced tomatoes, peruvian stew seasoning, and potatoes; stir to combine.",
+    "Add the carrot and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, until the chicken is cooked through and the vegetables are tender, about 30-40 minutes.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "peruvian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 38,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-peruvian-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:51:42.342Z"
+}
