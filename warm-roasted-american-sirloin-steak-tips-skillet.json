@@ -1,0 +1,72 @@
+{
+  "slug": "warm-roasted-american-sirloin-steak-tips-skillet",
+  "title": "Pan-Seared Sirloin Steak",
+  "description": "A simple and flavorful steak dish cooked to perfection in a hot skillet. This recipe uses sirloin steak tips for a tender and juicy result.",
+  "cuisine": "american",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sirloin Steak Tips",
+      "amount": "1.5 pounds",
+      "notes": "About 1-2 inches thick"
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "Preheated over medium-high heat"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For greasing the skillet"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning the steak"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "For seasoning the steak"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium-high heat.",
+    "Season the sirloin steak tips with salt, pepper, and garlic powder.",
+    "Add 1 tablespoon of olive oil to the preheated skillet.",
+    "Sear the steak for 2-3 minutes per side, or until a nice crust forms.",
+    "Reduce heat to medium-low and continue cooking to your desired level of doneness.",
+    "Use a meat thermometer to ensure the steak reaches a safe internal temperature of at least 145°F (63°C) for medium-rare, 160°F (71°C) for medium, and 170°F (77°C) for well-done.",
+    "Remove the steak from the skillet and let it rest for 5-10 minutes.",
+    "Slice the steak against the grain and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "steak",
+    "american",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 0,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-roasted-american-sirloin-steak-tips-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:14:54.878Z"
+}
