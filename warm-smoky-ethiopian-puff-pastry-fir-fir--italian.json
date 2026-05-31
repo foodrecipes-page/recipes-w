@@ -1,0 +1,74 @@
+{
+  "slug": "warm-smoky-ethiopian-puff-pastry-fir-fir--italian",
+  "title": "Fir Needle Puff Pastry Tart",
+  "description": "A unique Italian dessert featuring the flavors of fir and a crispy puff pastry crust.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet, thawed",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp, melted",
+      "notes": "for brushing pastry"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "for pastry topping"
+    },
+    {
+      "name": "fir needles",
+      "amount": "1/4 cup, fresh or 1 tsp, dried",
+      "notes": "for flavoring and garnish"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large, beaten",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "Roll out puff pastry to a thickness of 1/8 inch (3 mm). Transfer to the prepared baking sheet.",
+    "Brush the edges of the pastry with melted butter. Sprinkle granulated sugar over the center of the pastry, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Gently fold the edges of the pastry up over the filling, pressing to seal. Use a knife or pastry brush to create a decorative edge.",
+    "In a small bowl, beat the egg for the egg wash. Brush the egg wash over the pastry to give it a golden brown color.",
+    "Bake the tart for 25-30 minutes, or until the pastry is golden brown and puffed.",
+    "Remove the tart from the oven and let it cool on a wire rack for 5 minutes.",
+    "Dust the tart with powdered sugar. Garnish with fresh or dried fir needles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "tart",
+    "pastry",
+    "fir-needle",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-ethiopian-puff-pastry-fir-fir--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T20:00:38.337Z"
+}
