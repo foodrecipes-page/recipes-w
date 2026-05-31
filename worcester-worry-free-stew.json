@@ -1,0 +1,87 @@
+{
+  "slug": "worcester-worry-free-stew",
+  "title": "Free Worcester Stew",
+  "description": "A hearty stew made with tender beef and vegetables, flavored with Worcestershire sauce.",
+  "cuisine": "british",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": "free"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, carrot, and potato to the pot.",
+    "Cook for 5 minutes, stirring occasionally.",
+    "Add the Worcestershire sauce, beef broth, tomato paste, and thyme to the pot.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 to 3 hours, or until the meat is tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Let the stew rest for 10 minutes before serving.",
+    "Skim off any excess fat before serving.",
+    "Serve with crusty bread or over mashed potatoes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "gluten-free",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/worcester-worry-free-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:15:22.244Z"
+}
