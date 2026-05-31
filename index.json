@@ -219,17 +219,15 @@
   },
   {
     "slug": "warm-arabian-lentil-pilaf",
-    "title": "Warm Arabian Lentil Pilaf",
+    "title": "Arabian Lentil Pilaf",
     "tags": [
-      "halal",
-      "high-protein",
-      "low-fat",
-      "meal-prep",
-      "one-pot",
-      "quick-cooking"
+      "arabian",
+      "lentil",
+      "pilaf",
+      "vegan"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 50,
+    "cuisine": "Arabian",
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {
@@ -13494,18 +13492,16 @@
   },
   {
     "slug": "wholesome-bitter-polish-tofu-bowl",
-    "title": "Wholesome Bitter Polish Tofu Bowl",
+    "title": "Polish Tofu Bowl",
     "tags": [
-      "bitter",
-      "bouncy-qq",
-      "energizing",
-      "macrobiotic",
-      "no-gluten",
-      "quick",
-      "veggie"
+      "polish",
+      "tofu",
+      "bitter-melon",
+      "whole-wheat-bread",
+      "plant-based"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -18610,15 +18606,15 @@
   },
   {
     "slug": "worcester-worry-free-stew",
-    "title": "Worcester Worry-Free Stew",
+    "title": "Free Worcester Stew",
     "tags": [
-      "worcestershire-sauce",
-      "vegan-friendly",
-      "comfort-food",
-      "spicy-velvety"
+      "beef",
+      "stew",
+      "gluten-free",
+      "british"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 25,
+    "cuisine": "british",
+    "totalTimeMin": 170,
     "shard": "w"
   },
   {
