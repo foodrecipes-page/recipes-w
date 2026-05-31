@@ -1,0 +1,65 @@
+{
+  "slug": "warm-german-banana-pilaf",
+  "title": "Warm German Banana Pilaf",
+  "description": "A sweet and comforting pilaf dish infused with warm German spices and the natural sweetness of bananas.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "2 cups",
+      "notes": "or other non-dairy milk alternative"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "banana",
+      "amount": "2",
+      "notes": "ripe and sliced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a medium saucepan over medium heat.",
+    "Add cinnamon and ginger, sauté for 1 minute.",
+    "Add rice and cook for 2 minutes, stirring constantly.",
+    "Add almond milk, bring to a boil, then reduce heat to low and cover.",
+    "Simmer for 18-20 minutes or until liquid is absorbed and rice is tender.",
+    "Stir in sliced banana.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "german",
+    "banana"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-german-banana-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:46:35.109Z"
+}
