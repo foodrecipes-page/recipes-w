@@ -11726,17 +11726,14 @@
   },
   {
     "slug": "warmly-sauteed-canadian-oyster-mushrooms-skillet",
-    "title": "Warmly Sauteed Canadian Oyster Mushrooms Skillet",
+    "title": "Canadian Pan-Seared Oysters with Mushroom Skillet",
     "tags": [
-      "canadian-cuisine",
-      "easy-dinner",
-      "gluten-free",
-      "mushroom-recipes",
-      "one-pan",
-      "vegetarian-dishes"
+      "canadian",
+      "seafood",
+      "dinner"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 22,
     "shard": "w"
   },
   {
@@ -18722,6 +18719,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 20,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-kenyan-olive-flatbread--thai",
+    "title": "Thai-Style Flatbread with Warm Kenyan Olive Tapenade",
+    "tags": [
+      "flatbread",
+      "kenyan",
+      "olive",
+      "thai",
+      "tapenade",
+      "snack"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "w"
   }
 ]
