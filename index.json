@@ -8499,17 +8499,15 @@
   },
   {
     "slug": "warm-spicy-kenyan-apple-tagine",
-    "title": "Warm Spicy Kenyan Apple Tagine",
+    "title": "Kenyan Spiced Apple Tagine",
     "tags": [
-      "adventurous-eating",
-      "fermented-food",
-      "glassy-jelly",
-      "kenyan-cuisine",
-      "shojin-friendly",
-      "spicy-food"
+      "tagine",
+      "kenyan",
+      "warm",
+      "spicy"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "cuisine": "kenyan",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -15301,14 +15299,14 @@
   },
   {
     "slug": "wholesome-russian-chickpeas-salad",
-    "title": "Wholesome Russian Chickpeas Salad",
+    "title": "Russian Salad with Chickpeas",
     "tags": [
-      "floral",
-      "paleo-friendly",
-      "quick",
-      "salad"
+      "russian salad",
+      "chickpea salad",
+      "easy recipes",
+      "veggie salad"
     ],
-    "cuisine": "Russian",
+    "cuisine": "russian",
     "totalTimeMin": 15,
     "shard": "w"
   },
