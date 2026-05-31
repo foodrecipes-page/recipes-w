@@ -129,18 +129,15 @@
   },
   {
     "slug": "warm-and-dense-indian-vegetables-rasam",
-    "title": "Ayurvedic Indian Vegetable Rasam",
+    "title": "Spicy Rasam Soup",
     "tags": [
-      "ayurvedic-food",
-      "healthy-meal",
-      "high-fiber",
-      "indian-cuisine",
-      "one-pot",
-      "sattvic-diet",
-      "vegan"
+      "spicy",
+      "comfort-food",
+      "soup",
+      "indian"
     ],
     "cuisine": "indian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -2698,13 +2695,13 @@
   },
   {
     "slug": "warm-dense-indian-lentil-curry",
-    "title": "Warm Dense Indian Lentil Curry",
+    "title": "Warm Lentil Curry",
     "tags": [
-      "indian-cuisine",
-      "lentil-recipes",
-      "low-fat-dinners",
-      "one-pot-meals",
-      "vegetarian-options"
+      "indian",
+      "lentil",
+      "curry",
+      "vegetarian",
+      "vegan"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 40,
