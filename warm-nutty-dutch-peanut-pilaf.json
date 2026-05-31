@@ -1,0 +1,72 @@
+{
+  "slug": "warm-nutty-dutch-peanut-pilaf",
+  "title": "Warm Peanut Pilaf",
+  "description": "A comforting and flavorful pilaf dish made with peanuts and warm spices.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "peanut halves"
+    },
+    {
+      "name": "pilaf rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "dutch mustard",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "warm cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a saucepan over medium-high heat.",
+    "Add the peanuts and cook until lightly browned, about 2 minutes.",
+    "Add the pilaf rice and cook for 2 minutes, stirring constantly.",
+    "Add the warm cumin, dutch mustard, and salt. Cook for an additional minute.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes or until the water is absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "peanuts",
+    "warm",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-nutty-dutch-peanut-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:52:41.077Z"
+}
