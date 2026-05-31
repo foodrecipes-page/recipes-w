@@ -1,0 +1,97 @@
+{
+  "slug": "warm-italian-veal-ossobuco",
+  "title": "Braised Veal Ossobuco",
+  "description": "Classic Italian dish featuring tender veal shanks in a rich and flavorful white wine sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "veal shanks",
+      "amount": "4",
+      "notes": "ask your butcher for ossobuco"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the veal shanks with salt and black pepper.",
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Sear the veal shanks until browned on all sides, about 2-3 minutes per side.",
+    "Remove the veal from the pot and set aside.",
+    "Add the chopped carrots, celery, and onion to the pot and cook until the vegetables are softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the white wine to the pot and cook until the liquid is almost completely reduced.",
+    "Add the beef broth, tomato paste, and browned veal shanks to the pot.",
+    "Cover the pot and transfer it to the oven.",
+    "Braise the veal shanks for 2-1/2 to 3 hours, or until the meat is tender.",
+    "Serve the ossobuco with the braising liquid spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "italian",
+    "braised",
+    "veal",
+    "ossobuco",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-italian-veal-ossobuco",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:09:21.318Z"
+}
