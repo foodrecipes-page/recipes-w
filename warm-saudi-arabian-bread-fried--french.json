@@ -1,0 +1,75 @@
+{
+  "slug": "warm-saudi-arabian-bread-fried--french",
+  "title": "French Fried Brioche",
+  "description": "A classic French dessert, French Fried Brioche is a twist on the traditional bread, made crispy on the outside and fluffy on the inside.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Brioche",
+      "amount": "1 loaf",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "Cut the brioche into 1-inch (2.5 cm) cubes.",
+    "In a bowl, whisk together the sugar, egg, and milk until well combined.",
+    "Add the melted butter to the bowl and whisk until smooth.",
+    "Add the brioche cubes to the bowl and toss until they are evenly coated with the egg mixture.",
+    "Dip each brioche cube into the warm milk and then coat in a mixture of sugar and cinnamon.",
+    "Carefully place the coated brioche cubes into the hot oil.",
+    "Fry the brioche for 2-3 minutes on each side, or until golden brown.",
+    "Using a slotted spoon, remove the fried brioche from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "fried",
+    "brioche"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-saudi-arabian-bread-fried--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:52:47.399Z"
+}
