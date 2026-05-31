@@ -1961,17 +1961,16 @@
   },
   {
     "slug": "warm-crispy-tunisian-frankfurter-skillet",
-    "title": "Warm Crispy Tunisian Frankfurter Skillet",
+    "title": "Crispy Tunisian Skillet Frankfurter",
     "tags": [
-      "frankfurter-recipe",
-      "halal",
-      "kid-friendly",
-      "one-pan",
-      "skillet-meal",
-      "tunisian-cuisine"
+      "north african",
+      "breakfast",
+      "lunch",
+      "frankfurter",
+      "pita bread"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -13042,18 +13041,15 @@
   },
   {
     "slug": "whipping-creamy-slovakian-cream-bake",
-    "title": "whipping-creamy slovakian cream bake",
+    "title": "Slovakian Cream Cakes",
     "tags": [
-      "ayurvedic-rajasic-friendly",
-      "creamy",
-      "dairy-rich",
-      "dessert",
-      "holiday",
       "slovakian",
-      "vegetarian"
+      "cream",
+      "cake",
+      "dessert"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
