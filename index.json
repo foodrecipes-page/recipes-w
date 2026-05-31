@@ -3963,19 +3963,16 @@
   },
   {
     "slug": "warm-gooey-canadian-bannock-bake",
-    "title": "Warm Gooey Canadian Bannock Bake",
+    "title": "Canadian Bannock Bake",
     "tags": [
       "canadian",
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "post-workout",
-      "snack",
-      "weeknight"
+      "dessert",
+      "bannock",
+      "bake",
+      "warm"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -5677,17 +5674,15 @@
   },
   {
     "slug": "warm-nutty-dutch-peanut-pilaf",
-    "title": "Warm Nutty Dutch Peanut Pilaf",
+    "title": "Warm Peanut Pilaf",
     "tags": [
-      "healthy-snack",
-      "low-fat",
-      "one-pot",
-      "post-workout",
-      "quick-meal",
-      "vegetarian"
+      "pilaf",
+      "peanuts",
+      "warm",
+      "comfort-food"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 25,
+    "cuisine": "middle-eastern",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -14971,16 +14966,15 @@
   },
   {
     "slug": "wholesome-midnight-craving-grapes-cedar-plank-pilaf",
-    "title": "Wholesome Midnight Craving Grapes Cedar-Plank Pilaf",
+    "title": "Cedar Grilled Plank Pilaf",
     "tags": [
-      "cedar-plank",
-      "grape",
-      "midnight-craving",
-      "snack",
+      "grilled",
+      "pilaf",
+      "summer",
       "vegetarian"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 25,
+    "cuisine": "American",
+    "totalTimeMin": 20,
     "shard": "w"
   },
   {
@@ -18723,6 +18717,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-saudi-arabian-bread-fried--french",
+    "title": "French Fried Brioche",
+    "tags": [
+      "french",
+      "dessert",
+      "fried",
+      "brioche"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 20,
     "shard": "w"
   }
 ]
