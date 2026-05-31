@@ -1,0 +1,90 @@
+{
+  "slug": "warm-dense-indian-lentil-curry",
+  "title": "Warm Lentil Curry",
+  "description": "A comforting and nutritious Indian-inspired dish made with red lentils and a blend of warming spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add grated ginger and cook for another minute.",
+    "Add curry powder and cook for 1-2 minutes, stirring constantly.",
+    "Add red lentils, water, salt, and black pepper. Stir well.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20-25 minutes or until lentils are tender.",
+    "Serve warm, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lentil",
+    "curry",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-dense-indian-lentil-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:00:34.471Z"
+}
