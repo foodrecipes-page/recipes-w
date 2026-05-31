@@ -1,0 +1,89 @@
+{
+  "slug": "warm-welsh-slate-tile-baked-british-date-night-welsh-dish-bake",
+  "title": "Traditional British Baked Date Cake",
+  "description": "A moist and flavorful cake made with dates and a hint of spice, perfect for a warm evening.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Date",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Baked British dish",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Welsh butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Grease a 9x5-inch loaf pan and set aside.",
+    "In a large mixing bowl, combine the dates, British dish, and Welsh butter.",
+    "In a separate bowl, whisk together the sugar, eggs, flour, baking powder, cinnamon, and salt.",
+    "Add the dry ingredients to the date mixture and mix until just combined.",
+    "Pour the batter into the prepared loaf pan and smooth the top.",
+    "Bake for 45-50 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 10 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "british",
+    "date",
+    "cake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-welsh-slate-tile-baked-british-date-night-welsh-dish-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:19:33.836Z"
+}
