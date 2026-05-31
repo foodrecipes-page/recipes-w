@@ -1,0 +1,78 @@
+{
+  "slug": "warm-arabian-lentil-pilaf--keto",
+  "title": "Keto Arabian Lentil Pilaf",
+  "description": "A keto twist on the traditional Arabian lentil pilaf, made with warm spices and a variety of textures.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rice Cauliflower",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Warm Spices (cumin, coriander, turmeric)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Arabian Spices (paprika, cinnamon)",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ghee",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add the warm spices and cook for 1-2 minutes, until fragrant.",
+    "Add the lentils and rice cauliflower to the skillet, and cook for 5 minutes.",
+    "Add the Arabian spices and cook for an additional minute.",
+    "Stir in the ghee and salt, and cook for 1 minute.",
+    "Serve the pilaf hot, garnished with chopped cilantro.",
+    "Note: This dish is best served immediately, as the cauliflower will start to lose its texture after 30 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "arabian",
+    "lentil",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-arabian-lentil-pilaf--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:31:47.230Z"
+}
