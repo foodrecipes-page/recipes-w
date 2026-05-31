@@ -1,0 +1,72 @@
+{
+  "slug": "wholesome-russian-chickpeas-salad",
+  "title": "Russian Salad with Chickpeas",
+  "description": "A hearty salad inspired by Russian cuisine, featuring chickpeas, wholesome ingredients, and a refreshing twist.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "wholesome mayonnaise",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "wholesome ketchup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "diced carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Drain and rinse the chickpeas.",
+    "In a large bowl, combine the chickpeas, onion, carrot, and dill.",
+    "In a separate bowl, mix together the mayonnaise and ketchup.",
+    "Pour the mayonnaise mixture over the chickpea mixture and stir until combined.",
+    "Season with salt and pepper to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "russian salad",
+    "chickpea salad",
+    "easy recipes",
+    "veggie salad"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 9,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-russian-chickpeas-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:34:36.980Z"
+}
