@@ -12944,17 +12944,14 @@
   },
   {
     "slug": "whimsical-australian-flour-pancakes",
-    "title": "Whimsical Australian Flour Pancakes",
+    "title": "Australian Pancakes",
     "tags": [
+      "breakfast",
       "australian",
-      "citrus",
-      "dashi",
-      "fluffy-pancakes",
-      "raw-friendly",
-      "showoff"
+      "pancakes"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "cuisine": "australian",
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
