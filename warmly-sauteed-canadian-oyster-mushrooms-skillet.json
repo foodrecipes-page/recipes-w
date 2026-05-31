@@ -1,0 +1,83 @@
+{
+  "slug": "warmly-sauteed-canadian-oyster-mushrooms-skillet",
+  "title": "Canadian Pan-Seared Oysters with Mushroom Skillet",
+  "description": "A flavorful dish featuring pan-seared oysters served with a savory mushroom skillet. Perfect for a quick and delicious dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Oysters",
+      "amount": "12 count",
+      "notes": "Freshly shucked"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Button or Cremini"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "Any size"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the oysters under cold water and pat dry with paper towels.",
+    "2. Heat 1 tablespoon of butter in a large skillet over medium-high heat.",
+    "3. Add the oysters to the skillet and sear for 2-3 minutes on each side, until golden brown.",
+    "4. Remove the oysters from the skillet and set aside.",
+    "5. In the same skillet, add the remaining 1 tablespoon of butter and sauté the mushrooms until tender.",
+    "6. Add the minced garlic to the skillet and cook for 1 minute.",
+    "7. Sprinkle the flour over the mushrooms and garlic, and cook for 1 minute.",
+    "8. Return the oysters to the skillet and season with salt and pepper to taste.",
+    "9. Serve the pan-seared oysters with the savory mushroom skillet."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "seafood",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-sauteed-canadian-oyster-mushrooms-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:21:20.596Z"
+}
