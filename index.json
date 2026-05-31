@@ -3790,12 +3790,9 @@
     "slug": "warm-german-banana-pilaf",
     "title": "Warm German Banana Pilaf",
     "tags": [
-      "german-cuisine",
-      "halal-friendly",
-      "one-pan",
-      "post-workout",
-      "quick-meal",
-      "snappy-dish"
+      "breakfast",
+      "german",
+      "banana"
     ],
     "cuisine": "German",
     "totalTimeMin": 25,
@@ -4887,17 +4884,14 @@
   },
   {
     "slug": "warm-kenyan-black-beans-stew",
-    "title": "Warm Kenyan Black Beans Stew",
+    "title": "Kenyan Stew Recipe",
     "tags": [
-      "black-beans",
-      "clay-pot",
-      "kenyan",
-      "one-pan",
       "stew",
-      "tandoor"
+      "kenyan",
+      "beans"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 40,
+    "cuisine": "kenyan",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -5150,16 +5144,15 @@
   },
   {
     "slug": "warm-malaysian-tofu-curry",
-    "title": "Warm Malaysian Tofu Curry",
+    "title": "Malaysian Tofu Curry",
     "tags": [
-      "comfort-food",
-      "malaysian-cuisine",
-      "one-pan",
-      "ovo-vegetarian",
-      "scallop-shell"
+      "malaysian",
+      "curry",
+      "tofu",
+      "vegetarian"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 45,
+    "cuisine": "malaysian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -6406,21 +6399,16 @@
   },
   {
     "slug": "warm-roasted-syrian-yogurt-bake",
-    "title": "Warm Roasted Syrian Yogurt Bake",
+    "title": "Roasted Syrian Chicken Shawarma",
     "tags": [
-      "breakfast",
-      "dairy-free",
-      "dinner",
-      "easy",
-      "healthy",
-      "lunch",
-      "one-pan",
-      "snack",
-      "syrian",
-      "weeknight"
+      "chicken",
+      "middle-eastern",
+      "shawarma",
+      "pita-bread",
+      "yogurt-sauce"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 50,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -12361,14 +12349,12 @@
   },
   {
     "slug": "warmly-spiced-peruvian-chicken-stew",
-    "title": "Warmly Spiced Peruvian Chicken Stew",
+    "title": "Peruvian Chicken Stew",
     "tags": [
-      "chicken-stew",
-      "diabetic-friendly",
-      "gluten-free",
-      "one-pot",
+      "chicken",
+      "stew",
       "peruvian",
-      "weeknight"
+      "spicy"
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 50,
