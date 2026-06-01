@@ -1,0 +1,89 @@
+{
+  "slug": "warm-spicy-saudi-arabian-red-pepper-skewers",
+  "title": "Saudi Arabian Red Pepper Skewers",
+  "description": "Grilled red pepper skewers seasoned with warm and spicy flavors, inspired by Saudi Arabian cuisine.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Red Bell Peppers",
+      "amount": "4",
+      "notes": "any color"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "smoked or sweet"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread red bell peppers, onion, and garlic onto skewers.",
+    "In a small bowl, mix paprika, cumin, coriander, salt, and black pepper.",
+    "Brush the spice mixture onto the skewers.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Brush with lemon juice during the last 2 minutes of grilling.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "arabian",
+    "grilled",
+    "skewers",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-saudi-arabian-red-pepper-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T12:42:28.738Z"
+}
