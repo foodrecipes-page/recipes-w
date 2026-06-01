@@ -1,0 +1,57 @@
+{
+  "slug": "winey-argentinian-lemon-wrap",
+  "title": "Argentinian Lemon Wrap",
+  "description": "A tangy and flavorful wrap filled with the bold taste of Argentina. Perfect for a quick lunch or dinner.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lemon",
+      "amount": "2 lemons, juiced"
+    },
+    {
+      "name": "Winey",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Argentinian",
+      "amount": "2 tablespoons, chimichurri sauce"
+    },
+    {
+      "name": "Wrap",
+      "amount": "4 large flour wraps"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Wrap the flour wraps in foil and warm them in the oven for 5 minutes.",
+    "In a small bowl, mix together the lemon juice and chimichurri sauce.",
+    "Spread the lemon-chimichurri mixture on each wrap.",
+    "Top each wrap with chopped winey and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "lemon",
+    "wrap",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-argentinian-lemon-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:03:27.888Z"
+}
