@@ -1,0 +1,65 @@
+{
+  "slug": "warm-silky-polish-dried-fruit-pilaf",
+  "title": "Polish Fruit Pilaf",
+  "description": "A simple and flavorful pilaf dish with dried fruits, perfect as a side or light dessert.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Polish pilaf",
+      "amount": "1 cup",
+      "notes": "preferably uncooked"
+    },
+    {
+      "name": "Dried fruit",
+      "amount": "1 cup",
+      "notes": "mix of cranberries, raisins and cherries"
+    },
+    {
+      "name": "Warm milk",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Fruit",
+      "amount": "1/2 cup",
+      "notes": "fresh or dried apricots or prunes"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the pilaf according to package instructions.",
+    "Add the dried fruit to the pilaf and mix well.",
+    "If using, heat the milk in a separate pan and pour it over the pilaf mixture.",
+    "Add the fresh fruit and honey to the pilaf mixture and mix well.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "polish",
+    "pilaf",
+    "fruit"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-silky-polish-dried-fruit-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:02:54.454Z"
+}
