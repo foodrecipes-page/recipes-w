@@ -1,0 +1,64 @@
+{
+  "slug": "wholesome-nutty-egyptian-french-lentils-stone-bowl-dolsot--keto",
+  "title": "Pan-Seared Lentils with Stone Bowl Caramelization",
+  "description": "A keto-friendly lentil dish with a nutty, caramelized crust, served in a stone bowl.",
+  "cuisine": "French",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egyptian olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "wholesome garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "french thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "dolsot stone bowl",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the lentils and cook according to package instructions.",
+    "In a pan, heat the olive oil over medium heat.",
+    "Add the garlic and cook until fragrant.",
+    "Add the cooked lentils and stir to combine with the garlic and oil.",
+    "Transfer the lentil mixture to the dolsot stone bowl.",
+    "Bake in the oven for 10-12 minutes, or until the crust is caramelized.",
+    "Remove from oven and garnish with thyme.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "lentils",
+    "caramelized",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-nutty-egyptian-french-lentils-stone-bowl-dolsot--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:21:43.610Z"
+}
