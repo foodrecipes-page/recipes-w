@@ -2124,16 +2124,15 @@
   },
   {
     "slug": "warm-crumbly-japanese-macaroni-pasta",
-    "title": "Japanese Macaroni Pasta with Crumbly Topping",
+    "title": "Japanese Macaroni Cheese",
     "tags": [
-      "comfort-food",
-      "japanese",
-      "kansai",
-      "one-pot",
-      "weeknight"
+      "cheese",
+      "macaroni",
+      "pasta",
+      "comfort-food"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -8454,16 +8453,14 @@
   },
   {
     "slug": "warm-spicy-jamaican-tiger-prawns-gratin",
-    "title": "Warm Spicy Jamaican Tiger Prawns Gratin",
+    "title": "Spicy Jamaican Prawn Gratin",
     "tags": [
-      "gratin",
-      "high-protein",
       "jamaican",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "prawns",
+      "gratin",
+      "spicy"
     ],
-    "cuisine": "Jamaican",
+    "cuisine": "jamaican",
     "totalTimeMin": 35,
     "shard": "w"
   },
@@ -17363,16 +17360,16 @@
   },
   {
     "slug": "winey-argentinian-lemon-wrap",
-    "title": "Argentinian Winey Lemon Wrap",
+    "title": "Argentinian Lemon Wrap",
     "tags": [
       "argentinian",
-      "gluten-free",
-      "grilled",
-      "low-sodium",
-      "weeknight"
+      "lemon",
+      "wrap",
+      "lunch",
+      "vegetarian"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 25,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 10,
     "shard": "w"
   },
   {
@@ -18743,6 +18740,19 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-nutty-egyptian-french-lentils-stone-bowl-dolsot--keto",
+    "title": "Pan-Seared Lentils with Stone Bowl Caramelization",
+    "tags": [
+      "keto",
+      "lentils",
+      "caramelized",
+      "stone-bowl"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
     "shard": "w"
   }
 ]
