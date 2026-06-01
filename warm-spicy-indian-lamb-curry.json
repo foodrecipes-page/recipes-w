@@ -1,0 +1,88 @@
+{
+  "slug": "warm-spicy-indian-lamb-curry",
+  "title": "Lamb Curry",
+  "description": "A flavorful and aromatic Indian-inspired dish made with tender lamb and a rich, spicy curry sauce.",
+  "cuisine": "Indian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless lamb shoulder",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Warm spices (cumin, coriander, cayenne pepper)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Remove lamb from pot and set aside.",
+    "Reduce heat to medium and add onion to pot.",
+    "Cook until onion is softened, about 5 minutes.",
+    "Add garlic and ginger to pot and cook for 1 minute.",
+    "Add curry paste to pot and cook for 1 minute.",
+    "Add chicken broth to pot and bring to a simmer.",
+    "Return lamb to pot and cover with lid.",
+    "Transfer pot to preheated oven and cook for 30 minutes.",
+    "Stir in yogurt and lime juice.",
+    "Season with salt and warm spices to taste.",
+    "Serve lamb hot with sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lamb",
+    "curry",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-indian-lamb-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:35:29.385Z"
+}
