@@ -1,0 +1,89 @@
+{
+  "slug": "warm-dense-tunisian-mung-bean-sprouts-tagine",
+  "title": "Tunisian Tagine Stew",
+  "description": "Hearty and comforting stew originating from Tunisia, made with mung bean and sprouts. Perfect for a cold winter evening.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mung bean",
+      "amount": "1 cup, dried",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Tunisian tagine spice mix",
+      "amount": "2 tsp",
+      "notes": "Available at Middle Eastern or North African markets"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": "Diced"
+    },
+    {
+      "name": "Sprouts",
+      "amount": "1 cup",
+      "notes": "Fresh and chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for another minute.",
+    "Add mung bean, carrots, potatoes, and tomatoes.",
+    "Stir in tagine spice mix and cook for 1 minute.",
+    "Add 4 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 30 minutes.",
+    "Stir in sprouts and continue to simmer for another 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "vegetarian",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-dense-tunisian-mung-bean-sprouts-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:57:08.151Z"
+}
