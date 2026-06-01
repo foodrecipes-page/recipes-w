@@ -1928,18 +1928,15 @@
   },
   {
     "slug": "warm-crispy-slovakian-uni-skewers",
-    "title": "Warm Crispy Slovakian Uni Skewers",
+    "title": "Crispy Uni Skewers",
     "tags": [
-      "appetizer",
-      "gluten-free",
-      "low-carb",
-      "quick-fix",
-      "seafood",
       "slovakian",
-      "snack"
+      "uni",
+      "skewers",
+      "crispy"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 27,
+    "cuisine": "slovakian",
+    "totalTimeMin": 22,
     "shard": "w"
   },
   {
@@ -12747,18 +12744,15 @@
   },
   {
     "slug": "weeknight-sweet-mediterranean-lamb-casserole",
-    "title": "Weeknight Sweet Mediterranean Lamb Casserole",
+    "title": "Lamb and Spinach Mediterranean Casserole",
     "tags": [
-      "coconut-milk-casserole",
-      "high-protein",
-      "lamb-recipe",
-      "mediterranean-cuisine",
-      "one-pan",
-      "sweet-and-savory",
+      "lamb",
+      "mediterranean",
+      "casserole",
       "weeknight"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -18757,6 +18751,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 36,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-argentinian-lemon-wrap--chinese",
+    "title": "Winey Beef Stir Fry",
+    "tags": [
+      "chinese",
+      "beef",
+      "stir-fry",
+      "quick-meal"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "w"
   }
 ]
