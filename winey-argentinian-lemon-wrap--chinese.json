@@ -1,0 +1,63 @@
+{
+  "slug": "winey-argentinian-lemon-wrap--chinese",
+  "title": "Winey Beef Stir Fry",
+  "description": "A Chinese-inspired stir fry with a twist of winey beef. Serve over rice or noodles for a quick and delicious meal.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Winey Beef (sirloin or flank steak)",
+      "amount": "0.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian Chimichurri Sauce (store-bought or homemade)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "Wonton Wraps (or any other Asian-style wrap)",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Slice the winey beef into thin strips and season with salt and pepper.",
+    "2. Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "3. Add the beef to the wok and cook for 3-4 minutes, or until browned.",
+    "4. Add the argentinian chimichurri sauce to the wok and stir to combine.",
+    "5. Add the lemon juice to the wok and stir to combine.",
+    "6. Cook for an additional 1-2 minutes, or until the sauce has thickened.",
+    "7. Meanwhile, cook the wonton wraps according to package instructions.",
+    "8. Assemble the stir fry by placing a portion of the beef mixture onto each wrap, and serving hot.",
+    "9. Garnish with lemon wedges and serve immediately.",
+    "10. Serve with rice or noodles for a more filling meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "beef",
+    "stir-fry",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-argentinian-lemon-wrap--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T13:02:28.524Z"
+}
