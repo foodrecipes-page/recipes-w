@@ -1,0 +1,100 @@
+{
+  "slug": "warm-spicy-jamaican-tiger-prawns-gratin",
+  "title": "Spicy Jamaican Prawn Gratin",
+  "description": "A tropical twist on the classic gratin, featuring succulent prawns in a spicy Jamaican sauce.",
+  "cuisine": "jamaican",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "tiger prawns",
+      "amount": "8",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "gratin cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "thai red chili",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the prawns with salt, pepper, and cayenne pepper.",
+    "Dredge the prawns in flour, shaking off excess.",
+    "Melt 2 tablespoons of butter in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the chopped tiger prawns and cook for 1-2 minutes.",
+    "Transfer the prawns to a baking dish.",
+    "Mix the grated cheese with the remaining 2 tablespoons of butter.",
+    "Pour the cheese mixture over the prawns.",
+    "Sprinkle with chopped cilantro and bake for 8-10 minutes, or until golden brown.",
+    "Serve hot with a side of spicy Jamaican sauce (recipe below).",
+    "Combine 1/4 cup of chopped red chili, 2 cloves of minced garlic, and 2 tablespoons of lime juice in a small bowl.",
+    "Stir in 1 tablespoon of honey and 1 tablespoon of chopped fresh cilantro.",
+    "Season with salt and pepper to taste.",
+    "Serve the spicy Jamaican sauce over the prawn gratin."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "prawns",
+    "gratin",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-jamaican-tiger-prawns-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:49:28.182Z"
+}
