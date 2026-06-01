@@ -6860,16 +6860,15 @@
   },
   {
     "slug": "warm-silky-polish-dried-fruit-pilaf",
-    "title": "Warm Silky Polish Dried Fruit Pilaf",
+    "title": "Polish Fruit Pilaf",
     "tags": [
-      "comfort-food",
-      "one-pot",
-      "polish-cuisine",
-      "vegetarian",
-      "weeknight"
+      "dessert",
+      "polish",
+      "pilaf",
+      "fruit"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -18745,6 +18744,20 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-spiced-uruguayan-beef-skewers--chinese",
+    "title": "Uruguayan Beef Skewers with Warmly Spiced Glaze",
+    "tags": [
+      "beef",
+      "chinese",
+      "skewers",
+      "glaze",
+      "grilled"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 36,
     "shard": "w"
   }
 ]
