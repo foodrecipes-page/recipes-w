@@ -2823,17 +2823,14 @@
   },
   {
     "slug": "warm-dense-tunisian-mung-bean-sprouts-tagine",
-    "title": "Warm Dense Tunisian Mung Bean Sprouts Tagine",
+    "title": "Tunisian Tagine Stew",
     "tags": [
-      "exotic",
-      "gluten-free",
-      "north-african",
-      "one-pot",
-      "romantic",
-      "vegetarian"
+      "stew",
+      "vegetarian",
+      "north-african"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 60,
     "shard": "w"
   },
   {
@@ -4772,17 +4769,15 @@
   },
   {
     "slug": "warm-japanese-rice-donabe",
-    "title": "Warm Japanese Rice Donabe",
+    "title": "Japanese Donabe Chicken and Rice",
     "tags": [
-      "brunch",
-      "donabe",
       "japanese",
-      "one-pan",
-      "satvik",
-      "weeknight"
+      "rice",
+      "chicken",
+      "donabe"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -8362,16 +8357,15 @@
   },
   {
     "slug": "warm-spicy-indian-lamb-curry",
-    "title": "Warm Spicy Indian Lamb Curry",
+    "title": "Lamb Curry",
     "tags": [
-      "coconut-milk-recipes",
-      "curry-recipes",
-      "indian-cuisine",
-      "lamb-recipes",
-      "spicy-food"
+      "indian",
+      "lamb",
+      "curry",
+      "spicy"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 110,
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {
@@ -17920,17 +17914,15 @@
   },
   {
     "slug": "winey-russian-beef-pilaf",
-    "title": "Winey Russian Beef Pilaf",
+    "title": "Beef and Pilaf Stew",
     "tags": [
       "beef",
-      "crunchy",
-      "dairy-free",
-      "nostalgic",
-      "rustic",
-      "winey"
+      "stew",
+      "pilaf",
+      "russian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
