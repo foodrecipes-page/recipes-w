@@ -1,0 +1,81 @@
+{
+  "slug": "warm-crispy-slovakian-uni-skewers",
+  "title": "Crispy Uni Skewers",
+  "description": "A delicious Slovakian-inspired dish featuring crispy uni skewers, perfect for a quick lunch or snack. Serve immediately for the best experience.",
+  "cuisine": "slovakian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Uni",
+      "amount": "12 pieces",
+      "notes": "Fresh or frozen uni works well for this recipe"
+    },
+    {
+      "name": "Slovakian Bread Crumbs",
+      "amount": "1/2 cup",
+      "notes": "You can substitute with regular bread crumbs for a similar effect"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup",
+      "notes": "For frying the skewers"
+    },
+    {
+      "name": "Slovakian Paprika",
+      "amount": "2 tsp",
+      "notes": "Add a smoky flavor to your skewers"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": "Enhance the flavor of your uni"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Season to your liking"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped (optional)",
+      "notes": "Garnish with parsley for a pop of color"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your oven to 400°F (200°C).",
+    "2. In a shallow dish, mix together Slovakian bread crumbs, Slovakian paprika, and garlic powder.",
+    "3. Dip each piece of uni into the bread crumb mixture, coating evenly.",
+    "4. Place the coated uni pieces onto skewers.",
+    "5. Heat the vegetable oil in a large skillet over medium-high heat.",
+    "6. When the oil is hot, add the skewers and fry for 2-3 minutes on each side, until golden brown.",
+    "7. Transfer the skewers to a baking sheet and bake in the preheated oven for an additional 5-7 minutes.",
+    "8. Remove from the oven and sprinkle with salt to taste.",
+    "9. Garnish with chopped parsley, if desired.",
+    "10. Serve warm and crispy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "uni",
+    "skewers",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-slovakian-uni-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T13:31:04.297Z"
+}
