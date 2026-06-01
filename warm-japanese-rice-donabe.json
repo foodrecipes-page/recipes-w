@@ -1,0 +1,81 @@
+{
+  "slug": "warm-japanese-rice-donabe",
+  "title": "Japanese Donabe Chicken and Rice",
+  "description": "A Japanese-inspired dish made with chicken, rice, and a donabe. This hearty meal is perfect for a cold winter evening.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "donabe rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dashi broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the donabe rice thoroughly and cook according to package instructions.",
+    "In a separate pot, heat the dashi broth over medium heat.",
+    "Add the chicken breast to the pot and cook until browned on all sides.",
+    "Add the soy sauce, sugar, and green onions to the pot and stir to combine.",
+    "Transfer the cooked rice to a serving dish and top with the chicken and sauce.",
+    "Drizzle with sesame oil and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "rice",
+    "chicken",
+    "donabe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-japanese-rice-donabe",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:19:15.644Z"
+}
