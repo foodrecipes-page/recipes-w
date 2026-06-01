@@ -1,0 +1,57 @@
+{
+  "slug": "winey-russian-beef-pilaf",
+  "title": "Beef and Pilaf Stew",
+  "description": "A hearty beef stew made with pilaf and a hint of Russian spices.",
+  "cuisine": "Russian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "winy",
+      "amount": "1 cup",
+      "notes": "red wine"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add pilaf and cook, stirring constantly, for 2 minutes.",
+    "Add winey and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "pilaf",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-russian-beef-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:02:24.177Z"
+}
