@@ -1,0 +1,89 @@
+{
+  "slug": "warmly-spiced-uruguayan-beef-skewers--chinese",
+  "title": "Uruguayan Beef Skewers with Warmly Spiced Glaze",
+  "description": "A fusion of Uruguayan and Chinese flavors in this sweet and savory skewer recipe. Perfect for a quick and delicious dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan beef",
+      "amount": "500g",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Warmly spiced glaze",
+      "amount": "1/4 cup",
+      "notes": "See below for ingredients"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": "For spiced glaze"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 cloves",
+      "notes": "Minced for marinade and glaze"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced for marinade and glaze"
+    },
+    {
+      "name": "Five-spice powder",
+      "amount": "1 tsp",
+      "notes": "For marinade and glaze"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, whisk together soy sauce, olive oil, brown sugar, ginger, garlic, and five-spice powder to make the marinade.",
+    "3. Place the beef pieces in a large bowl and pour the marinade over them. Toss to coat.",
+    "4. Thread the beef pieces onto skewers, leaving a small space between each piece.",
+    "5. Grill the skewers for 8-10 minutes per side, or until the beef reaches an internal temperature of 145°F (63°C).",
+    "6. Meanwhile, prepare the spiced glaze by whisking together the warmed glaze ingredients in a small bowl.",
+    "7. During the last minute of grilling, brush the spiced glaze over the beef skewers.",
+    "8. Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "chinese",
+    "skewers",
+    "glaze",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-uruguayan-beef-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:59:55.280Z"
+}
