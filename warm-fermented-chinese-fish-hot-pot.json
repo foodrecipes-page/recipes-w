@@ -1,0 +1,88 @@
+{
+  "slug": "warm-fermented-chinese-fish-hot-pot",
+  "title": "Spicy Fermented Fish Stew",
+  "description": "A flavorful and aromatic stew originating from the Sichuan province of China, featuring fermented fish as the main ingredient. This dish is a staple in Chinese cuisine.",
+  "cuisine": "Chinese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fermented Fish",
+      "amount": "250g",
+      "notes": "Available at Asian grocery stores"
+    },
+    {
+      "name": "Pot",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "Hot Pot Broth",
+      "amount": "4 cups",
+      "notes": " store-bought or homemade"
+    },
+    {
+      "name": "Onion",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Szechuan Peppercorns",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, heat 2 tablespoons of sesame oil over medium heat.",
+    "2. Add the sliced onion and cook until translucent, about 5 minutes.",
+    "3. Add the sliced ginger and cook for another minute.",
+    "4. Add the ground Szechuan peppercorns and cook for 1 minute.",
+    "5. Add the fermented fish, hot pot broth, soy sauce, and scallions to the pot.",
+    "6. Bring the mixture to a simmer and cook for 10-15 minutes.",
+    "7. Taste and adjust seasoning as needed.",
+    "8. Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sichuan",
+    "fermented",
+    "fish",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-fermented-chinese-fish-hot-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:54:21.387Z"
+}
