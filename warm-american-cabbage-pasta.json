@@ -1,0 +1,75 @@
+{
+  "slug": "warm-american-cabbage-pasta",
+  "title": "Warm Cabbage and Pasta Salad",
+  "description": "A hearty, comforting salad made with sautéed cabbage and pasta, perfect for a chilly evening.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head, shredded"
+    },
+    {
+      "name": "Pasta",
+      "amount": "8 oz (225g)"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "amount": "1/4 cup (30g)"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the pasta according to package instructions until al dente, about 8-10 minutes.",
+    "While the pasta cooks, heat the olive oil in a large skillet over medium-high heat.",
+    "Add the shredded cabbage to the skillet and cook, stirring occasionally, until slightly caramelized, about 5-7 minutes.",
+    "Add the garlic powder, Italian seasoning, salt, and black pepper to the skillet and stir to combine.",
+    "Drain the cooked pasta and add it to the skillet with the cabbage mixture.",
+    "Stir to combine and cook for an additional 1-2 minutes.",
+    "Transfer the pasta and cabbage mixture to a serving dish and top with grated Parmesan cheese.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cabbage",
+    "pasta",
+    "salad",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-american-cabbage-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:59:22.370Z"
+}
