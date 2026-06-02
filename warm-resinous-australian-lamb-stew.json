@@ -1,0 +1,92 @@
+{
+  "slug": "warm-resinous-australian-lamb-stew",
+  "title": "Australian Lamb Stew",
+  "description": "A hearty and flavorful stew originating from Australia, featuring tender lamb and rich, resinous flavors.",
+  "cuisine": "Australian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tbsp",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "full-bodied"
+    },
+    {
+      "name": "Resinous eucalyptus leaves",
+      "amount": "4",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb with salt and black pepper.",
+    "Heat a large Dutch oven over medium-high heat. Add a small amount of oil and sear the lamb until browned, about 5 minutes. Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrot and potato to the pot and cook for an additional 5 minutes.",
+    "Add the Worcestershire sauce, red wine, and eucalyptus leaves to the pot. Stir to combine.",
+    "Return the lamb to the pot, cover, and transfer to the preheated oven.",
+    "Braise the lamb for 2-3 hours, or until tender and falling apart.",
+    "Remove the pot from the oven and let it rest for 10-15 minutes.",
+    "Serve the lamb and vegetables hot, garnished with fresh eucalyptus leaves if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "lamb",
+    "stew",
+    "hearty",
+    "flavorful"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-resinous-australian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T20:37:48.269Z"
+}
