@@ -18765,5 +18765,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-german-chicken-noodles--chinese",
+    "title": "Szechuan Chicken Noodles",
+    "tags": [
+      "chinese",
+      "spicy",
+      "noodles",
+      "chicken"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "w"
   }
 ]
