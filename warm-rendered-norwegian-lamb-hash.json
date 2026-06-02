@@ -1,0 +1,85 @@
+{
+  "slug": "warm-rendered-norwegian-lamb-hash",
+  "title": "Norwegian Lamb Hash",
+  "description": "A hearty and flavorful dish featuring lamb, potatoes, and vegetables, perfect for a cold winter's day.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "beef",
+    "lamb",
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Hash Browns",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potato",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Norwegian Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the lamb shoulder with salt and pepper.",
+    "Heat the Norwegian oil in a large skillet over medium-high heat. Sear the lamb until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the lamb to a baking dish and set aside.",
+    "Add the sliced onion, bell pepper, and carrots to the skillet. Cook until the vegetables are tender, about 5 minutes.",
+    "Add the hash browns to the skillet and cook until they are golden brown, about 5 minutes.",
+    "Transfer the vegetable mixture to the baking dish with the lamb.",
+    "Bake in the preheated oven for 20-25 minutes, or until the lamb is cooked to your desired level of doneness.",
+    "Serve the Norwegian lamb hash hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "lamb",
+    "scandinavian",
+    "hash"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-rendered-norwegian-lamb-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:01:51.134Z"
+}
