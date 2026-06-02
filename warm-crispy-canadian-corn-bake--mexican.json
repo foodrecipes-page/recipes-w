@@ -1,0 +1,74 @@
+{
+  "slug": "warm-crispy-canadian-corn-bake--mexican",
+  "title": "Crispy Canadian Corn Tostada",
+  "description": "A crunchy and flavorful Mexican-inspired dish featuring Canadian corn, topped with warm, crispy elements.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Canadian corn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Warm flour tortillas",
+      "amount": "4",
+      "notes": "for tostadas"
+    },
+    {
+      "name": "Crispy bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Diced onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Bake tomatoes",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Bake the tomatoes for 15 minutes or until tender.",
+    "Cook the bacon in a pan until crispy.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Grill or cook the Canadian corn until lightly charred.",
+    "Assemble the tostadas by placing a warm tortilla on a plate, topping with a spoonful of Canadian corn, a few pieces of crispy bacon, some diced onions, and a sprinkle of cheese.",
+    "Drizzle with sour cream and garnish with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "snack",
+    "corn",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-canadian-corn-bake--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:57:46.185Z"
+}
