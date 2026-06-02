@@ -1,0 +1,88 @@
+{
+  "slug": "warm-german-banana-pilaf--thai",
+  "title": "Thai Banana Pilaf",
+  "description": "A warm and comforting Thai-inspired pilaf dish featuring sweet bananas and savory spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": "2",
+      "notes": "ripe"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "white or brown rice mix"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": "Thai red"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a medium saucepan over medium heat.",
+    "Add chopped onion and cook until softened, about 3-4 minutes.",
+    "Add grated ginger and cook for an additional minute.",
+    "Add pilaf mix and stir to combine with onion and ginger mixture.",
+    "Cook for 2-3 minutes, until pilaf is lightly toasted.",
+    "Add curry powder and stir to combine.",
+    "Add sliced bananas and stir to combine with pilaf mixture.",
+    "Season with salt and sugar to taste.",
+    "Cook for an additional 2-3 minutes, until bananas are tender.",
+    "Serve warm and enjoy!",
+    "Optional: garnish with chopped fresh herbs or toasted nuts."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "banana",
+    "breakfast",
+    "pilaf",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-german-banana-pilaf--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:36:05.219Z"
+}
