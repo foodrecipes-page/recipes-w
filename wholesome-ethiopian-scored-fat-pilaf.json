@@ -1,0 +1,92 @@
+{
+  "slug": "wholesome-ethiopian-scored-fat-pilaf",
+  "title": "Ethiopian-Style Wholesome Chicken Pilaf",
+  "description": "A flavorful and nutritious pilaf dish from Ethiopia made with wholesome ingredients.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "wholesome rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "pilaf seasoning",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the chopped carrot and cook for an additional 2 minutes.",
+    "Add the chicken breast to the skillet and cook until browned on both sides and cooked through, about 5-6 minutes.",
+    "Add the pilaf seasoning to the skillet and stir to combine.",
+    "Add the uncooked rice to the skillet and stir to combine with the chicken and vegetables.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover the skillet, and simmer for 15-20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Stir in the chopped green beans and cook for an additional 2-3 minutes, or until tender.",
+    "Season the pilaf with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "pilaf",
+    "ethiopian",
+    "wholesome"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-ethiopian-scored-fat-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:54:20.693Z"
+}
