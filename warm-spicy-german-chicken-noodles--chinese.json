@@ -1,0 +1,91 @@
+{
+  "slug": "warm-spicy-german-chicken-noodles--chinese",
+  "title": "Szechuan Chicken Noodles",
+  "description": "Spicy Szechuan chicken noodles, a classic Chinese dish with a bold and aromatic flavor.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "noodles (rice noodles or egg noodles)",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Szechuan peppercorns",
+      "amount": "2 tbsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "chili bean paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions. Drain and set aside.",
+    "In a blender or food processor, grind Szechuan peppercorns into a fine powder.",
+    "Heat vegetable oil in a wok or large skillet over medium-high heat. Add garlic and cook until fragrant.",
+    "Add chicken to the wok and cook until browned, about 5-6 minutes. Remove from wok and set aside.",
+    "In the same wok, add chili bean paste and cook for 1 minute, stirring constantly.",
+    "Add soy sauce, rice vinegar, and Szechuan peppercorn powder to the wok. Stir to combine.",
+    "Return chicken to the wok and stir to coat with sauce.",
+    "Add cooked noodles to the wok and stir-fry until combined with the chicken and sauce.",
+    "Transfer to a serving platter and garnish with chopped green onions.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "spicy",
+    "noodles",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-german-chicken-noodles--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:51:32.232Z"
+}
