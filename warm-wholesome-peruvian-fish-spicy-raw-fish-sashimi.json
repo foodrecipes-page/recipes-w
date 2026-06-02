@@ -1,0 +1,81 @@
+{
+  "slug": "warm-wholesome-peruvian-fish-spicy-raw-fish-sashimi",
+  "title": "Peruvian Sashimi Tacos",
+  "description": "A fusion dish that combines the freshness of sashimi with the flavors of Peruvian cuisine, all wrapped up in a crispy taco.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sushi-grade Tuna",
+      "amount": "8 oz",
+      "notes": "Fresh from the sashimi counter"
+    },
+    {
+      "name": "Corn Tortillas",
+      "amount": "8-10",
+      "notes": "Look for corn tortillas that are gluten-free"
+    },
+    {
+      "name": "Aji Amarillo Pepper Sauce",
+      "amount": "1/4 cup",
+      "notes": "This Peruvian hot sauce adds a nice kick"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly slice the red onion for a nice crunch"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped cilantro adds a fresh flavor"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed lime juice is a must"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "Season with salt and pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Slice the sushi-grade tuna into thin pieces.",
+    "Cut the corn tortillas into quarters.",
+    "Drizzle the Aji Amarillo pepper sauce over the tuna.",
+    "Top the tuna with a sprinkle of cilantro and a squeeze of lime juice.",
+    "Assemble the tacos by placing a piece of tuna onto a tortilla quarter.",
+    "Top with a sprinkle of red onion and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "fish",
+    "sashimi",
+    "spicy",
+    "tacos",
+    "lunch",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wholesome-peruvian-fish-spicy-raw-fish-sashimi",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:37:30.933Z"
+}
