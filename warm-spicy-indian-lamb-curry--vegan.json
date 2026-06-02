@@ -1,0 +1,93 @@
+{
+  "slug": "warm-spicy-indian-lamb-curry--vegan",
+  "title": "Spicy Indian-Style Black Bean Curry",
+  "description": "A vegan twist on traditional Indian curry, using black beans and a blend of warming spices. This recipe is perfect for a weeknight dinner or as a meal prep option.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Black beans, cooked",
+      "amount": "1 cup",
+      "notes": "Canned or cooked from scratch"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "2 teaspoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "For richness"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, ginger, and garlic. Cook until onion is translucent.",
+    "Add curry powder, cumin, turmeric, and cayenne pepper. Cook for 1 minute.",
+    "Add black beans, tomato paste, and 1 cup water. Bring to a simmer.",
+    "Reduce heat to low and let cook for 20-25 minutes or until sauce has thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegan",
+    "curry",
+    "black beans",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-indian-lamb-curry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:24:12.606Z"
+}
