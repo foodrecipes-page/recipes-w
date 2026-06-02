@@ -6130,17 +6130,16 @@
   },
   {
     "slug": "warm-resinous-australian-lamb-stew",
-    "title": "Warm Resinous Australian Lamb Stew",
+    "title": "Australian Lamb Stew",
     "tags": [
-      "australian-cuisine",
-      "comfort-food",
-      "hearty-stew",
-      "lamb-based",
-      "one-pot",
-      "shojin-friendly"
+      "australian",
+      "lamb",
+      "stew",
+      "hearty",
+      "flavorful"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 210,
     "shard": "w"
   },
   {
@@ -14349,18 +14348,15 @@
   },
   {
     "slug": "wholesome-greek-feta-casserole",
-    "title": "Wholesome Greek Feta Casserole",
+    "title": "Greek Feta Casserole",
     "tags": [
+      "greek",
       "casserole",
       "feta",
-      "greek",
-      "shojin",
-      "tabasco",
-      "vegan-friendly",
-      "weeknight"
+      "vegetarian"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
