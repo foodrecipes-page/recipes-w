@@ -1,0 +1,95 @@
+{
+  "slug": "warm-wholesome-norwegian-lamb-wrap",
+  "title": "Norwegian Lamb Wrap",
+  "description": "A warm and wholesome Norwegian-inspired lamb wrap, perfect for a quick and satisfying meal. This recipe combines the flavors of Norway with the convenience of a wrap.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "lamb",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Flour Tortilla",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add the lamb to the skillet and cook until browned, about 5 minutes.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent, about 3 minutes.",
+    "Add the cumin, paprika, salt, and pepper to the skillet and stir to combine.",
+    "Reduce heat to medium-low and simmer the lamb mixture for 10 minutes.",
+    "Warm the tortilla in the microwave for 20-30 seconds.",
+    "Assemble the wrap by spooning the lamb mixture onto the tortilla and topping with cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "norwegian",
+    "wrap",
+    "warm",
+    "wholesome"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wholesome-norwegian-lamb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:31:00.225Z"
+}
