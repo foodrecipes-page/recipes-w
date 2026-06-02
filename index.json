@@ -114,17 +114,15 @@
   },
   {
     "slug": "warm-american-cabbage-pasta",
-    "title": "Warm American Cabbage Pasta",
+    "title": "Warm Cabbage and Pasta Salad",
     "tags": [
-      "charred",
-      "kosher-friendly",
-      "one-pan",
+      "cabbage",
       "pasta",
-      "savoy-cabbage",
-      "warm-dinner"
+      "salad",
+      "warm"
     ],
     "cuisine": "american",
-    "totalTimeMin": 25,
+    "totalTimeMin": 22,
     "shard": "w"
   },
   {
@@ -1351,16 +1349,16 @@
   },
   {
     "slug": "warm-creamy-middle-eastern-chickpeas-falafel",
-    "title": "Warm Creamy Middle Eastern Chickpeas Falafel",
+    "title": "Classic Falafel Wrap",
     "tags": [
-      "coconut-cream-based",
-      "comfort-food",
-      "jain-friendly",
-      "middle-eastern",
-      "vegetarian"
+      "falafel",
+      "middle eastern",
+      "street food",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 50,
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
@@ -5743,13 +5741,12 @@
   },
   {
     "slug": "warm-nutty-vietnamese-beef-pho-bo",
-    "title": "Warm Nutty Vietnamese Beef Pho Bo",
+    "title": "Vietnamese Beef Pho",
     "tags": [
-      "beef-recipes",
-      "comfort-food",
-      "low-sodium",
-      "noodle-soups",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "beef",
+      "noodle-soup",
+      "pho"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 110,
@@ -6111,16 +6108,14 @@
   },
   {
     "slug": "warm-rendered-norwegian-lamb-hash",
-    "title": "Warm Rendered Norwegian Lamb Hash",
+    "title": "Norwegian Lamb Hash",
     "tags": [
-      "breakfast-ideas",
-      "hearty-meals",
-      "lamb-recipes",
-      "norwegian-cuisine",
-      "paleo-diet",
-      "whole30-friendly"
+      "breakfast",
+      "lamb",
+      "scandinavian",
+      "hash"
     ],
-    "cuisine": "Norwegian",
+    "cuisine": "Scandinavian",
     "totalTimeMin": 45,
     "shard": "w"
   },
@@ -10438,18 +10433,16 @@
   },
   {
     "slug": "warm-wholesome-norwegian-lamb-wrap",
-    "title": "Warm Wholesome Norwegian Lamb Wrap",
+    "title": "Norwegian Lamb Wrap",
     "tags": [
-      "comfort-food",
-      "high-protein",
       "lamb",
-      "norwegian-cuisine",
-      "one-pan",
-      "ssam-wrap",
-      "weeknight"
+      "norwegian",
+      "wrap",
+      "warm",
+      "wholesome"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -18777,6 +18770,31 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-arabian-lentil-pilaf--thai",
+    "title": "Thai-Style Lentil Pilaf",
+    "tags": [
+      "thaifood",
+      "lentils",
+      "pilaf"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-crispy-canadian-corn-bake--mexican",
+    "title": "Crispy Canadian Corn Tostada",
+    "tags": [
+      "mexican",
+      "snack",
+      "corn",
+      "crispy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
     "shard": "w"
   }
 ]
