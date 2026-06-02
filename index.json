@@ -5682,17 +5682,14 @@
   },
   {
     "slug": "warm-nutty-mexican-cheese-curds-tinga",
-    "title": "Warm Nutty Mexican Cheese Curds Tinga",
+    "title": "Warm Queso Tinga",
     "tags": [
-      "cheesy",
-      "grilled",
-      "lacto-vegetarian",
-      "mexican-inspired",
-      "snack",
-      "spicy"
+      "mexican",
+      "warm",
+      "queso"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
@@ -10447,18 +10444,18 @@
   },
   {
     "slug": "warm-wholesome-peruvian-fish-spicy-raw-fish-sashimi",
-    "title": "warm, wholesome peruvian fish sashimi",
+    "title": "Peruvian Sashimi Tacos",
     "tags": [
-      "dinner-party",
-      "fish-recipe",
-      "high-protein",
-      "one-pan",
-      "peruvian-cuisine",
+      "peruvian",
+      "fish",
       "sashimi",
-      "weeknight"
+      "spicy",
+      "tacos",
+      "lunch",
+      "gluten-free"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 23,
+    "cuisine": "Peruvian",
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
