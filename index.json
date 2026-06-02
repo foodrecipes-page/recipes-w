@@ -3139,17 +3139,15 @@
   },
   {
     "slug": "warm-fermented-chinese-fish-hot-pot",
-    "title": "Warm Fermented Chinese Fish Hot Pot",
+    "title": "Spicy Fermented Fish Stew",
     "tags": [
-      "chinese-cuisine",
-      "comfort-food",
-      "fish-based",
-      "gluten-free",
-      "one-pot",
-      "savory"
+      "sichuan",
+      "fermented",
+      "fish",
+      "stew"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -7840,15 +7838,12 @@
   },
   {
     "slug": "warm-spanish-oysters-paella",
-    "title": "Warm Spanish Oysters Paella",
+    "title": "Spanish Paella with Oysters",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "paella",
       "seafood",
+      "gluten",
       "spanish",
-      "valencian",
-      "weeknight"
+      "paella"
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 45,
@@ -7887,17 +7882,15 @@
   },
   {
     "slug": "warm-spanish-potatoes-skillet",
-    "title": "Warm Spanish Potatoes Skillet",
+    "title": "Spanish Potato Omelette",
     "tags": [
-      "brunch-ideas",
-      "gluten-free",
-      "low-fat",
-      "one-pan",
-      "spanish-food",
-      "weeknight"
+      "breakfast",
+      "spanish",
+      "potatoes",
+      "omelette"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -12311,16 +12304,14 @@
   },
   {
     "slug": "warmly-spiced-peruvian-fish-pollo-a-la-brasa",
-    "title": "Warmly Spiced Peruvian Fish Pollo A La Brasa",
+    "title": "Grilled Peruvian-Style Chicken",
     "tags": [
-      "one-pan",
-      "peruvian",
-      "pescatarian",
-      "quick",
-      "weeknight"
+      "grilled-chicken",
+      "peruvian-food",
+      "latin-american"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 27,
+    "cuisine": "Latin American",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -18797,6 +18788,20 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-indian-lamb-curry--vegan",
+    "title": "Spicy Indian-Style Black Bean Curry",
+    "tags": [
+      "indian",
+      "vegan",
+      "curry",
+      "black beans",
+      "spicy"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
     "shard": "w"
   }
 ]
