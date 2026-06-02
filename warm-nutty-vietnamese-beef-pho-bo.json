@@ -1,0 +1,96 @@
+{
+  "slug": "warm-nutty-vietnamese-beef-pho-bo",
+  "title": "Vietnamese Beef Pho",
+  "description": "A traditional Vietnamese noodle soup made with slow-cooked beef and fragrant spices.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef bones",
+      "amount": "2 lbs",
+      "notes": "preferably oxtail or beef neck bones"
+    },
+    {
+      "name": "beef brisket",
+      "amount": "1 lb",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole",
+      "notes": "or to taste"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1 whole",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large stockpot, char the beef bones over medium-high heat until browned.",
+    "2. Add sliced onion, ginger, fish sauce, and soy sauce to the pot and cook until the onion is translucent.",
+    "3. Add the beef brisket to the pot and cook for 2-3 minutes on each side.",
+    "4. Add 4 cups of water to the pot and bring to a boil.",
+    "5. Reduce heat to low and simmer for 1 1/2 hours.",
+    "6. Remove the beef brisket from the pot and slice into thin strips.",
+    "7. Strain the stock and discard the solids.",
+    "8. Cook the rice noodles according to the package instructions.",
+    "9. Assemble the pho by placing cooked noodles into bowls, topping with sliced beef, and ladling hot broth over the top.",
+    "10. Garnish with fresh herbs, bean sprouts, and lime wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "beef",
+    "noodle-soup",
+    "pho"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-nutty-vietnamese-beef-pho-bo",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:12:04.626Z"
+}
