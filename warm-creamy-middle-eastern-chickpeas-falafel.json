@@ -1,0 +1,92 @@
+{
+  "slug": "warm-creamy-middle-eastern-chickpeas-falafel",
+  "title": "Classic Falafel Wrap",
+  "description": "A delicious and authentic Middle Eastern street food, packed with warm and crispy falafel, creamy tahini sauce, and crunchy vegetables.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Falafel",
+      "amount": "4-6 pieces",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Pita Bread",
+      "amount": "4-6 pieces",
+      "notes": "Warm or toasted"
+    },
+    {
+      "name": "Tahini Sauce",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1/4 cup, rinsed and drained",
+      "notes": "Optional"
+    },
+    {
+      "name": "Pickled Turnips",
+      "amount": "1/4 cup, chopped",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sumac",
+      "amount": "to taste",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Warm the pita bread by wrapping it in foil and heating it in the oven at 350°F (180°C) for 5-7 minutes.",
+    "Prepare the tahini sauce according to the package instructions or by blending tahini paste with lemon juice and water.",
+    "Chop the lettuce, tomatoes, cucumber, and red onion.",
+    "Assemble the wrap by spreading a layer of tahini sauce on the pita bread, followed by a few pieces of falafel, some chopped vegetables, and a sprinkle of sumac.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "falafel",
+    "middle eastern",
+    "street food",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-creamy-middle-eastern-chickpeas-falafel",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:13:20.149Z"
+}
