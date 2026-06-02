@@ -1,0 +1,85 @@
+{
+  "slug": "warm-spanish-oysters-paella",
+  "title": "Spanish Paella with Oysters",
+  "description": "A savory seafood paella recipe originating from the Valencia region of Spain, featuring succulent oysters.",
+  "cuisine": "Spanish",
+  "diet": [
+    "seafood",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Saffron-infused rice",
+      "amount": "1 cup",
+      "notes": "Use Spanish rice for authentic flavor"
+    },
+    {
+      "name": "Oysters",
+      "amount": "12 large",
+      "notes": "Shucked and patted dry"
+    },
+    {
+      "name": "Spanish chorizo",
+      "amount": "1/2 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 cup",
+      "notes": "Peeled and deveined"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "Spanish-style"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large paella pan over medium-high heat.",
+    "Add chorizo and cook, stirring occasionally, until browned, about 5 minutes.",
+    "Add garlic and cook, stirring constantly, for 1 minute.",
+    "Add shrimp and cook, stirring occasionally, until pink, about 2-3 minutes.",
+    "Add saffron-infused rice and stir to coat with oil and mix with seafood.",
+    "Add chicken broth, 1 cup at a time, stirring constantly and allowing each cup to absorb before adding the next.",
+    "Bring to a simmer, then reduce heat to low and cook, uncovered, for 20 minutes.",
+    "Add oysters and cook, covered, for an additional 5 minutes.",
+    "Remove from heat and let rest, covered, for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "gluten",
+    "spanish",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spanish-oysters-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:06:50.143Z"
+}
