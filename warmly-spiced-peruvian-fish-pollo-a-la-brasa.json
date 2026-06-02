@@ -1,0 +1,87 @@
+{
+  "slug": "warmly-spiced-peruvian-fish-pollo-a-la-brasa",
+  "title": "Grilled Peruvian-Style Chicken",
+  "description": "Marinated chicken grilled to perfection with Peruvian spices. Serve with your favorite sides.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pollo",
+      "amount": "1 whole chicken, cut into 8 pieces",
+      "notes": null
+    },
+    {
+      "name": "warmly",
+      "amount": "1/4 cup aji amarillo sauce (or substitute with sriracha)",
+      "notes": null
+    },
+    {
+      "name": "spiced",
+      "amount": "1 tsp ground cumin, 1 tsp smoked paprika",
+      "notes": null
+    },
+    {
+      "name": "peruvian",
+      "amount": "2 cloves garlic, minced, 1 tsp dried oregano",
+      "notes": null
+    },
+    {
+      "name": "peruvian",
+      "amount": "1/4 cup freshly squeezed lime juice",
+      "notes": null
+    },
+    {
+      "name": "brasa",
+      "amount": "2 tbsp olive oil",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine aji amarillo sauce, garlic, cumin, smoked paprika, oregano, and lime juice. Blend until smooth.",
+    "2. Place the chicken pieces in a large ziplock bag or a shallow dish. Pour the marinade over the chicken and massage to coat. Seal the bag or cover the dish with plastic wrap.",
+    "3. Refrigerate for at least 2 hours or overnight.",
+    "4. Preheat grill to medium-high heat. Remove the chicken from the marinade, letting any excess liquid drip off.",
+    "5. Brush the grill with olive oil to prevent sticking. Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "6. Transfer the chicken to a cutting board and let rest for 5 minutes before serving.",
+    "7. Serve with your favorite sides, such as grilled vegetables or a salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "peruvian-food",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-peruvian-fish-pollo-a-la-brasa",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:45:48.156Z"
+}
