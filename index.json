@@ -99,17 +99,15 @@
   },
   {
     "slug": "warm-algerian-pistachio-tagine",
-    "title": "Warm Algerian Pistachio Tagine",
+    "title": "Warm Algerian Chicken Tagine",
     "tags": [
-      "banana-leaf",
-      "easy-stove",
-      "low-glycemic",
-      "one-pot",
-      "slow-cook",
-      "traditional"
+      "chicken",
+      "north-african",
+      "tagine",
+      "pistachio"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 60,
+    "cuisine": "north african",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -14118,18 +14116,15 @@
   },
   {
     "slug": "wholesome-ethiopian-scored-fat-pilaf",
-    "title": "Wholesome Ethiopian Scored Fat Pilaf",
+    "title": "Ethiopian-Style Wholesome Chicken Pilaf",
     "tags": [
-      "dinner",
-      "easy",
+      "chicken",
+      "pilaf",
       "ethiopian",
-      "high-protein",
-      "keto",
-      "one-pan",
-      "weeknight"
+      "wholesome"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -18792,6 +18787,20 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-german-banana-pilaf--thai",
+    "title": "Thai Banana Pilaf",
+    "tags": [
+      "thai",
+      "banana",
+      "breakfast",
+      "pilaf",
+      "warm"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "w"
   }
 ]
