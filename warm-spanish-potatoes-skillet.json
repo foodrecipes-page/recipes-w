@@ -1,0 +1,77 @@
+{
+  "slug": "warm-spanish-potatoes-skillet",
+  "title": "Spanish Potato Omelette",
+  "description": "A classic Spanish dish made with potatoes, onions, and warm spices. Easy to make and delicious to eat.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Warm spices",
+      "amount": "1 tsp",
+      "notes": "paprika, garlic powder"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "2 eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a 10-inch skillet over medium heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the diced potatoes and cook for another 5 minutes, stirring occasionally.",
+    "In a bowl, beat the eggs and season with salt, black pepper, and warm spices.",
+    "Pour the egg mixture over the potatoes and onion in the skillet.",
+    "Cook until the eggs start to set, about 2-3 minutes.",
+    "Use a spatula to gently lift and fold the edges of the omelette towards the center.",
+    "Cook for another 2-3 minutes, until the eggs are almost set.",
+    "Use the spatula to carefully fold the omelette in half.",
+    "Cook for another minute, until the eggs are fully set.",
+    "Slide the omelette out of the skillet onto a plate and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "spanish",
+    "potatoes",
+    "omelette"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spanish-potatoes-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:52:25.772Z"
+}
