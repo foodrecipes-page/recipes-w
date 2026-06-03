@@ -1,0 +1,87 @@
+{
+  "slug": "wholesome-polish-rice-stir-fry",
+  "title": "Polish-Style Stir Fry",
+  "description": "A classic Polish dish made with wholesome ingredients and a simple stir-fry method.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "You can substitute with a vegetarian sausage alternative"
+    },
+    {
+      "name": "Whole wheat rice",
+      "amount": "1 cup",
+      "notes": "You can use any type of rice, but whole wheat is recommended for a healthier option"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "You can use any type of vegetable oil for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "You can use any type of onion you prefer"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "You can use any type of bell pepper you prefer"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "You can use any type of tomato you prefer"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "You can use any type of garlic you prefer"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "You can use any type of salt you prefer"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "You can use any type of black pepper you prefer"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 3-4 minutes.",
+    "Add the onion, bell pepper, and garlic to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Add the tomato to the skillet and cook for an additional 2 minutes.",
+    "Stir in the cooked rice and season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "stir-fry",
+    "healthy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-polish-rice-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:52:49.514Z"
+}
