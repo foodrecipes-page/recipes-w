@@ -8128,16 +8128,15 @@
   },
   {
     "slug": "warm-spicy-algerian-vegetable-tagine",
-    "title": "Warm Spicy Algerian Vegetable Tagine",
+    "title": "Algerian Vegetable Tagine",
     "tags": [
-      "comfort-food",
-      "north-african",
-      "one-pot",
-      "spicy",
-      "vegetarian"
+      "algerian",
+      "vegetarian",
+      "stew",
+      "tagine"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -17028,19 +17027,14 @@
   },
   {
     "slug": "wilted-kenyan-vegetables-stir-fry",
-    "title": "Wilted Kenyan Vegetables Stir-Fry",
+    "title": "Kenyan Vegetable Stir Fry",
     "tags": [
-      "easy-to-make",
-      "grand-marnier",
-      "high-fiber",
       "kenyan",
-      "one-pan",
-      "vegetables",
-      "weeknight",
-      "wilted"
+      "vegetable",
+      "stir-fry"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 22,
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
