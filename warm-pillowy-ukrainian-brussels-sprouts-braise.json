@@ -1,0 +1,88 @@
+{
+  "slug": "warm-pillowy-ukrainian-brussels-sprouts-braise",
+  "title": "Pan-Seared Brussels Sprouts Braise",
+  "description": "A hearty, comforting side dish that combines the earthy sweetness of Brussels sprouts with the rich flavor of a Ukrainian-inspired braise.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook, stirring occasionally, until it is browned and caramelized, about 20 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the caraway seeds and cook for 1 minute, until fragrant.",
+    "Add the Brussels sprouts and cook for 5 minutes, until they are browned and tender.",
+    "Add the beef broth, salt, and pepper, and bring the mixture to a boil.",
+    "Reduce the heat to medium-low and simmer, covered, for 15 minutes, until the sprouts are very tender.",
+    "Stir in the red wine vinegar and cook for 1 minute, until heated through.",
+    "Serve the sprouts hot, garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brussels-sprouts",
+    "ukrainian",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-pillowy-ukrainian-brussels-sprouts-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:31:09.475Z"
+}
