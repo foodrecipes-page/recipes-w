@@ -1,0 +1,81 @@
+{
+  "slug": "wholesome-turkish-lentil-soup",
+  "title": "Turkish Lentil Soup",
+  "description": "A hearty and comforting Turkish-inspired lentil soup made with wholesome ingredients. Perfect for a chilly evening.",
+  "cuisine": "turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "wholesome vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, garlic, carrots, and celery. Cook until the vegetables are tender.",
+    "Add lentils, broth, cumin, and paprika. Season with salt and pepper.",
+    "Bring to a boil, then reduce heat and simmer for 30 minutes.",
+    "Blend the soup until smooth, or leave it chunky. Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "soup",
+    "turkish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-turkish-lentil-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:35:01.866Z"
+}
