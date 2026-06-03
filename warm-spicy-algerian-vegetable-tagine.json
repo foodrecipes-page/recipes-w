@@ -1,0 +1,92 @@
+{
+  "slug": "warm-spicy-algerian-vegetable-tagine",
+  "title": "Algerian Vegetable Tagine",
+  "description": "A hearty and aromatic stew originating from Algeria, made with a blend of spices, vegetables, and warm flavors.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Canned tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the ginger, cumin, and turmeric powders and cook for 1 minute, stirring constantly.",
+    "Add the carrots, zucchini, and red bell pepper and cook for 5 minutes, or until the vegetables start to soften.",
+    "Add the chickpeas, canned tomatoes, and vegetable broth. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season the tagine with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "vegetarian",
+    "stew",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-algerian-vegetable-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T03:54:12.538Z"
+}
