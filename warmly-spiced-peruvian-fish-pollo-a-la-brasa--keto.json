@@ -1,0 +1,78 @@
+{
+  "slug": "warmly-spiced-peruvian-fish-pollo-a-la-brasa--keto",
+  "title": "Grilled Peruvian Chicken",
+  "description": "A classic Peruvian dish featuring marinated chicken grilled to perfection, served with a side of warmly spiced slaw.",
+  "cuisine": "peruvian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pollo",
+      "amount": "1.5 lbs",
+      "notes": "cut into 8 pieces"
+    },
+    {
+      "name": "Warmly Spiced Slaw Ingredients",
+      "amount": "",
+      "notes": "see below"
+    },
+    {
+      "name": "Mayo",
+      "amount": "1/2 cup",
+      "notes": "keto-friendly"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together mayo, lime juice, garlic powder, cumin, smoked paprika, and a pinch of salt and pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "While the chicken is cooking, prepare the warmly spiced slaw by combining mayonnaise, lime juice, garlic powder, cumin, smoked paprika, and a pinch of salt and pepper in a bowl.",
+    "Add the slaw to the grilled chicken and serve immediately.",
+    "Serve with a side of warmly spiced slaw."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "peruvian",
+    "chicken",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-peruvian-fish-pollo-a-la-brasa--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:19:57.136Z"
+}
