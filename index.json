@@ -15136,15 +15136,12 @@
   },
   {
     "slug": "wholesome-polish-rice-stir-fry",
-    "title": "Wholesome Polish Rice Stir-fry",
+    "title": "Polish-Style Stir Fry",
     "tags": [
-      "easy",
-      "low-carb",
-      "one-pan",
       "polish",
-      "quick",
       "stir-fry",
-      "tava"
+      "healthy",
+      "easy"
     ],
     "cuisine": "Polish",
     "totalTimeMin": 25,
@@ -18798,6 +18795,33 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-spiced-peruvian-fish-pollo-a-la-brasa--keto",
+    "title": "Grilled Peruvian Chicken",
+    "tags": [
+      "grilled",
+      "peruvian",
+      "chicken",
+      "keto"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-grilled-malaysian-chicken-skewers--thai",
+    "title": "Grilled Chicken Satay",
+    "tags": [
+      "grilled",
+      "chicken",
+      "skewers",
+      "thai",
+      "satay"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
     "shard": "w"
   }
 ]
