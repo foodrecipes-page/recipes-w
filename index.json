@@ -18811,5 +18811,32 @@
     "cuisine": "thai",
     "totalTimeMin": 35,
     "shard": "w"
+  },
+  {
+    "slug": "warm-creamy-middle-eastern-chickpeas-falafel--thai",
+    "title": "Spicy Thai Chickpea Wrap",
+    "tags": [
+      "thai",
+      "chickpea",
+      "falafel",
+      "wrap",
+      "snack"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-turkish-dutch-stroop-wrap--japanese",
+    "title": "Japanese-Style Beef Wrap",
+    "tags": [
+      "japanese",
+      "fusion",
+      "beef",
+      "wrap"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 22,
+    "shard": "w"
   }
 ]
