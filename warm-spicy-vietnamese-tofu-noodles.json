@@ -1,0 +1,90 @@
+{
+  "slug": "warm-spicy-vietnamese-tofu-noodles",
+  "title": "Spicy Vietnamese Noodle Soup",
+  "description": "A flavorful and spicy noodle soup inspired by Vietnamese cuisine, made with tofu and a variety of vegetables.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "extra-firm, drained and cut into small cubes"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "8 oz",
+      "notes": "dried or fresh"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Spicy chili sauce",
+      "amount": "2 tbsp",
+      "notes": "such as sriracha"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Add the grated ginger and minced garlic to the pot and simmer for 2 minutes.",
+    "Add the tofu cubes to the pot and cook for 3-4 minutes, or until lightly browned.",
+    "Add the rice noodles to the pot and cook for 2-3 minutes, or until slightly softened.",
+    "Stir in the spicy chili sauce, fish sauce (if using), and lime juice.",
+    "Season the soup with salt and pepper to taste.",
+    "Garnish with chopped cilantro (if using) and serve hot.",
+    "Serve the noodles in bowls and ladle the soup over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "noodle-soup",
+    "spicy",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-vietnamese-tofu-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:58:48.610Z"
+}
