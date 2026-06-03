@@ -1,0 +1,82 @@
+{
+  "slug": "warm-smoky-polish-shrimp-skewers",
+  "title": "Smoky Polish Shrimp Skewers",
+  "description": "A flavorful and easy-to-make appetizer or snack featuring marinated shrimp skewers with a smoky twist.",
+  "cuisine": "polish",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "large shrimp, peeled and deveined",
+      "amount": "12-15 pieces",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "wood chips (for smoking)",
+      "amount": "optional",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, smoked paprika, brown sugar, garlic powder, salt, and black pepper.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Thread the marinated shrimp onto skewers.",
+    "If using wood chips, place them on the grill to create a smoky flavor.",
+    "Grill the shrimp skewers for 2-3 minutes per side, or until pink and cooked through.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shrimp",
+    "skewers",
+    "polish",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 15,
+    "carbs": 6,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-polish-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:57:06.495Z"
+}
