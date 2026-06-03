@@ -5979,16 +5979,13 @@
   },
   {
     "slug": "warm-pillowy-ukrainian-brussels-sprouts-braise",
-    "title": "Warm Pillowy Ukrainian Brussels Sprouts Braise",
+    "title": "Pan-Seared Brussels Sprouts Braise",
     "tags": [
-      "comfort-food",
-      "european-cuisine",
-      "gluten-free",
-      "one-pan",
-      "vegetarian",
-      "winter-dish"
+      "brussels-sprouts",
+      "ukrainian",
+      "side-dish"
     ],
-    "cuisine": "Ukrainian",
+    "cuisine": "ukrainian",
     "totalTimeMin": 50,
     "shard": "w"
   },
@@ -7591,17 +7588,15 @@
   },
   {
     "slug": "warm-smoky-polish-shrimp-skewers",
-    "title": "Warm Smoky Polish Shrimp Skewers",
+    "title": "Smoky Polish Shrimp Skewers",
     "tags": [
-      "easy-dinner",
-      "grilled",
-      "low-fat",
-      "polish-cuisine",
-      "seafood",
-      "smoky"
+      "shrimp",
+      "skewers",
+      "polish",
+      "appetizer"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 32,
+    "cuisine": "polish",
+    "totalTimeMin": 21,
     "shard": "w"
   },
   {
@@ -15787,17 +15782,15 @@
   },
   {
     "slug": "wholesome-turkish-lentil-soup",
-    "title": "Wholesome Turkish Lentil Soup",
+    "title": "Turkish Lentil Soup",
     "tags": [
-      "comfort-food",
-      "easy",
-      "gluten-free",
+      "lentil",
+      "soup",
       "turkish",
-      "vegan",
-      "weeknight"
+      "vegetarian"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "cuisine": "turkish",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -18837,6 +18830,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 22,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-crisp-syrian-pinto-bean-pilaf--chinese",
+    "title": "Crispy Bean Pilaf",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "lunch",
+      "pilaf"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 13,
     "shard": "w"
   }
 ]
