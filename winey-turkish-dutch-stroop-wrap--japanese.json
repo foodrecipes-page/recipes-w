@@ -1,0 +1,77 @@
+{
+  "slug": "winey-turkish-dutch-stroop-wrap--japanese",
+  "title": "Japanese-Style Beef Wrap",
+  "description": "A fusion of Japanese flavors in a Dutch-Style beef wrap. This recipe combines the sweetness of stroop with the savory taste of beef, all wrapped up in a Turkish-style wrap.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef (thinly sliced)",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "stroop",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "grilled vegetables (e.g. bell peppers, onions, mushrooms)",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Turkish-style wrap",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Dutch-style mustard",
+      "amount": "1 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, and Dutch-style mustard.",
+    "Add the sliced beef to the marinade and let it sit for at least 10 minutes.",
+    "Grill the beef for 3-4 minutes per side, or until it reaches a safe internal temperature of 63°C (145°F).",
+    "Meanwhile, grill the vegetables for 3-4 minutes per side, or until they are tender.",
+    "In a small saucepan, heat the stroop over low heat until it's warm and runny.",
+    "Assemble the wraps by spreading a tablespoon of stroop on each wrap, followed by a few slices of beef, some grilled vegetables, and a sprinkle of soy sauce.",
+    "Serve immediately and enjoy!",
+    "Optional: serve with a side of pickled ginger or wasabi for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "fusion",
+    "beef",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-turkish-dutch-stroop-wrap--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T05:08:05.691Z"
+}
