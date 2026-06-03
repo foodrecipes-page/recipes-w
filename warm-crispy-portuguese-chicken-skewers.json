@@ -1,0 +1,89 @@
+{
+  "slug": "warm-crispy-portuguese-chicken-skewers",
+  "title": "Crispy Portuguese Chicken Skewers",
+  "description": "Delicious and easy-to-make skewers, perfect for a quick dinner. The crispy exterior and juicy interior of the chicken will make your taste buds dance.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Portuguese bread crumbs",
+      "amount": "1/2 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/4 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a shallow dish, mix together the flour, egg, and a pinch of salt and pepper.",
+    "Dip each chicken piece into the flour mixture, coating both sides evenly.",
+    "Dip the flour-coated chicken piece into the beaten egg, making sure to coat completely.",
+    "Roll the egg-coated chicken piece in the Portuguese bread crumbs, pressing the crumbs onto the chicken to help them stick.",
+    "Place the coated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Brush the tops of the chicken pieces with olive oil and sprinkle with garlic powder, if using.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the chicken is cooked through and the exterior is crispy.",
+    "Transfer the skewers to a plate and garnish with chopped fresh parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "portuguese",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-portuguese-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T23:31:38.573Z"
+}
