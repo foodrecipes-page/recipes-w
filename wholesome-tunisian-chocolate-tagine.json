@@ -1,0 +1,90 @@
+{
+  "slug": "wholesome-tunisian-chocolate-tagine",
+  "title": "Delicious Wholesome Chicken Tagine",
+  "description": "A traditional North African dish made with chicken, wholesome ingredients, and a hint of Tunisian spices. Serve with couscous or rice for a hearty meal.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "wholesome cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "wholesome coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "tunisian preserved lemon",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "wholesome chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay pot or Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add cumin and coriander; cook for 1 minute.",
+    "Add chicken; cook until browned on all sides, about 5-7 minutes.",
+    "Add preserved lemon, broth, and parsley.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 375°F (190°C) for 25-30 minutes or until chicken is cooked through.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "north-african",
+    "couscous",
+    "poultry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-tunisian-chocolate-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T03:04:53.872Z"
+}
