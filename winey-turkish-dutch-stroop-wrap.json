@@ -1,0 +1,86 @@
+{
+  "slug": "winey-turkish-dutch-stroop-wrap",
+  "title": "Stroop Waffles with Turkish Spice",
+  "description": "A twist on the classic Dutch waffle, these Stroop Waffles incorporate the warmth of Turkish spices.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "stroop",
+      "amount": "1/2 cup",
+      "notes": "warmed"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "Turkish spice blend"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/2 teaspoon",
+      "notes": "Turkish spice blend"
+    }
+  ],
+  "instructions": [
+    "Preheat waffle iron to medium-high heat.",
+    "In a large bowl, whisk together flour, baking powder, sugar, and spices.",
+    "In a separate bowl, whisk together eggs, milk, and melted butter.",
+    "Pour wet ingredients into dry ingredients and stir until combined.",
+    "Pour batter onto preheated waffle iron.",
+    "Cook waffles for 3-5 minutes or until golden brown.",
+    "Serve waffles with warmed stroop and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "waffles",
+    "breakfast",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-turkish-dutch-stroop-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:17:26.872Z"
+}
