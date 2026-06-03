@@ -9000,18 +9000,16 @@
   },
   {
     "slug": "warm-spicy-vietnamese-tofu-noodles",
-    "title": "Warm Spicy Vietnamese Tofu Noodles",
+    "title": "Spicy Vietnamese Noodle Soup",
     "tags": [
-      "high-protein",
-      "noodle-dish",
-      "one-pan",
+      "vietnamese",
+      "noodle-soup",
       "spicy",
       "vegetarian",
-      "vietnamese",
-      "weeknight"
+      "gluten-free"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -15698,18 +15696,15 @@
   },
   {
     "slug": "wholesome-tunisian-chocolate-tagine",
-    "title": "wholesome tunisian chocolate tagine",
+    "title": "Delicious Wholesome Chicken Tagine",
     "tags": [
-      "dairy-free",
-      "deconstructed",
-      "gluten-free",
-      "springtime",
-      "tunisian",
-      "vegan-friendly",
-      "whole30"
+      "chicken",
+      "north-african",
+      "couscous",
+      "poultry"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 15,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -18004,15 +17999,14 @@
   },
   {
     "slug": "winey-turkish-dutch-stroop-wrap",
-    "title": "Winey Turkish Dutch Stroop Wrap",
+    "title": "Stroop Waffles with Turkish Spice",
     "tags": [
-      "diabetic-friendly",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "waffles",
+      "breakfast",
+      "dessert"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "cuisine": "Dutch",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
