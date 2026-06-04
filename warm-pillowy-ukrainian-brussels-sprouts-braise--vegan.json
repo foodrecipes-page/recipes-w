@@ -1,0 +1,82 @@
+{
+  "slug": "warm-pillowy-ukrainian-brussels-sprouts-braise--vegan",
+  "title": "Braised Brussels Sprouts with Ukrainian Twist",
+  "description": "A hearty, comforting vegan dish that combines the natural sweetness of Brussels sprouts with the flavors of Ukrainian cuisine. Perfect for a cold winter night.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brussels Sprouts",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Warm Ukrainian Bread",
+      "amount": "1/2 loaf"
+    },
+    {
+      "name": "Pillowy Brioche Buns",
+      "amount": "4"
+    },
+    {
+      "name": "Vegan Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Braising Liquid",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Nutritional Yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the Brussels sprouts in half and remove any damaged leaves.",
+    "In a large bowl, toss the Brussels sprouts with the braising liquid, nutritional yeast, garlic powder, salt, and black pepper until they are evenly coated.",
+    "Transfer the Brussels sprouts to a baking dish and cover with foil.",
+    "Bake for 20 minutes, then remove the foil and continue baking for an additional 15-20 minutes, or until the sprouts are tender and caramelized.",
+    "Meanwhile, slice the warm Ukrainian bread into 1-inch pieces.",
+    "In a small saucepan, melt the vegan butter over low heat.",
+    "Add the sliced bread to the saucepan and toast for 2-3 minutes on each side, or until crispy and golden brown.",
+    "To assemble the dish, place a few pieces of toasted bread on a plate, then top with a portion of the braised Brussels sprouts.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brussels sprouts",
+    "ukrainian",
+    "vegan",
+    "winter",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-pillowy-ukrainian-brussels-sprouts-braise--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:02:54.059Z"
+}
