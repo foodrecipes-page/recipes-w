@@ -1,0 +1,74 @@
+{
+  "slug": "warm-canadian-onion-casserole",
+  "title": "Warm Canadian Casserole",
+  "description": "A hearty, comforting casserole inspired by Canadian flavors. This dish is perfect for a chilly evening.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": null
+    },
+    {
+      "name": "Casserole Pepper",
+      "amount": "1 large, sliced",
+      "notes": null
+    },
+    {
+      "name": "Warm Bread",
+      "amount": "4 cups, cubed",
+      "notes": null
+    },
+    {
+      "name": "Canadian Cheddar Cheese",
+      "amount": "2 cups, shredded",
+      "notes": null
+    },
+    {
+      "name": "Bechamel Sauce",
+      "amount": "1 cup",
+      "notes": "see instructions for preparation"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cook the ground beef in a pan over medium heat until browned, breaking it up into small pieces as it cooks.",
+    "3. Add chopped onion and sliced pepper to the pan and cook until the vegetables are soft.",
+    "4. In a separate saucepan, make the bechamel sauce by melting 2 tablespoons of butter over medium heat.",
+    "5. Whisk in 2 tablespoons of all-purpose flour and cook for 1 minute.",
+    "6. Slowly add in 1 cup of milk, whisking constantly to avoid lumps.",
+    "7. Bring the mixture to a simmer and cook until it thickens.",
+    "8. In a large mixing bowl, combine the cooked ground beef mixture, cubed bread, and shredded cheese.",
+    "9. Pour the bechamel sauce over the top and mix until well combined.",
+    "10. Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "11. Bake for 25 minutes, then remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "canadian",
+    "comfort-food",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-canadian-onion-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:06:02.501Z"
+}
