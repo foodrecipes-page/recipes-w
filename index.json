@@ -18870,5 +18870,18 @@
     "cuisine": "french",
     "totalTimeMin": 45,
     "shard": "w"
+  },
+  {
+    "slug": "warm-algerian-pistachio-tagine--french",
+    "title": "French Algerian Beef Tagine",
+    "tags": [
+      "french",
+      "algerian",
+      "beef",
+      "tagine"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 170,
+    "shard": "w"
   }
 ]
