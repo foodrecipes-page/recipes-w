@@ -5786,17 +5786,15 @@
   },
   {
     "slug": "warm-peppery-korean-chicken-naengmyeon",
-    "title": "Warm Peppery Korean Chicken Naengmyeon",
+    "title": "Korean-Style Spicy Chicken Naengmyeon",
     "tags": [
-      "korean-cuisine",
-      "noodle-dish",
-      "one-pot",
-      "ovo-vegetarian",
+      "korean",
       "spicy",
-      "weeknight"
+      "chicken",
+      "noodles"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -6410,17 +6408,15 @@
   },
   {
     "slug": "warm-roasted-vietnamese-lamb-banh-cuon",
-    "title": "Warm Roasted Vietnamese Lamb Banh Cuon",
+    "title": "Warm Lamb Banh Cuon",
     "tags": [
+      "vietnamese",
+      "lamb",
       "banh-cuon",
-      "lamb-recipes",
-      "ovo-vegetarian",
-      "roasted-meat",
-      "special-occasion",
-      "vietnamese-cuisine"
+      "warm"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 70,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -17717,15 +17713,15 @@
   },
   {
     "slug": "winey-jamaican-cream-bowl",
-    "title": "Winey Jamaican Cream Bowl",
+    "title": "Jamaican Cream Bowl",
     "tags": [
-      "breakfast",
-      "gluten-free",
-      "one-pan",
-      "vegan"
+      "jamaican",
+      "cream",
+      "dessert",
+      "mango"
     ],
     "cuisine": "jamaican",
-    "totalTimeMin": 30,
+    "totalTimeMin": 10,
     "shard": "w"
   },
   {
@@ -18865,6 +18861,18 @@
     ],
     "cuisine": "ukrainian",
     "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-pillowy-ukrainian-brussels-sprouts-braise--french",
+    "title": "Braised Brussels Sprouts au Gratin",
+    "tags": [
+      "french",
+      "brussels-sprouts",
+      "gruyère"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
     "shard": "w"
   }
 ]
