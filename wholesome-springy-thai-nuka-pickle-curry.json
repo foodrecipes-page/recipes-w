@@ -1,0 +1,70 @@
+{
+  "slug": "wholesome-springy-thai-nuka-pickle-curry",
+  "title": "Thai-Style Wholesome Noodle Stir Fry",
+  "description": "A quick and flavorful stir-fry made with wholesome noodles, springy vegetables, and a hint of Thai curry.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wholesome Noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Springy Vegetables",
+      "amount": "1 bunch",
+      "notes": "such as broccoli and carrots"
+    },
+    {
+      "name": "Nuka Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Curry Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pickle Juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Cook the wholesome noodles according to the package instructions.",
+    "2. In a large skillet or wok, heat the nuka sauce over medium-high heat.",
+    "3. Add the springy vegetables and cook until they start to soften.",
+    "4. Add the curry powder and stir-fry for 1 minute.",
+    "5. Add the cooked noodles and stir-fry for 2-3 minutes.",
+    "6. Add the pickle juice and season with salt and pepper to taste.",
+    "7. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "8g",
+    "carbs": "60g",
+    "fat": "6g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-springy-thai-nuka-pickle-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:28:43.387Z"
+}
