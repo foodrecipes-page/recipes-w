@@ -1,0 +1,91 @@
+{
+  "slug": "warm-algerian-pistachio-tagine--french",
+  "title": "French Algerian Beef Tagine",
+  "description": "A rich and flavorful French twist on the traditional North African dish, featuring tender beef and a blend of warm spices.",
+  "cuisine": "French",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "pistachio",
+      "amount": "2 tablespoons",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "1 tablespoon",
+      "notes": "Algerian-inspired blend"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high.",
+    "Brown beef in batches until browned on all sides, about 5 minutes.",
+    "Remove browned beef from pot and set aside.",
+    "Soften onions in same pot over medium heat, about 5 minutes.",
+    "Add garlic, cumin, coriander, and paprika to pot and cook for 1 minute.",
+    "Add browned beef back to pot and stir in tagine spice mix.",
+    "Bring mixture to a simmer, then cover pot and transfer to oven.",
+    "Bake at 300°F for 2 1/2 hours, or until beef is tender.",
+    "Stir in pistachios and season with salt and pepper to taste.",
+    "Serve hot, garnished with additional pistachios if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "algerian",
+    "beef",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-algerian-pistachio-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:36:34.354Z"
+}
