@@ -1,0 +1,68 @@
+{
+  "slug": "winey-jamaican-cream-bowl",
+  "title": "Jamaican Cream Bowl",
+  "description": "A rich and creamy Jamaican-inspired dessert bowl. Enjoy!",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Coconut cream",
+      "amount": "1 can",
+      "notes": "Chilled"
+    },
+    {
+      "name": "Jamaican rum",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Winey mango puree",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "In a blender, mix the chilled coconut cream and Jamaican rum (if using) until smooth.",
+    "Add the winey mango puree and sugar to the blender.",
+    "Blend the mixture until well combined and smooth.",
+    "Spoon the mixture into bowls.",
+    "Chill the bowls in the refrigerator for at least 30 minutes.",
+    "Serve the Jamaican cream chilled, garnished with additional mango puree if desired.",
+    "Make sure to use a bowl for serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "cream",
+    "dessert",
+    "mango"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-jamaican-cream-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:56:10.885Z"
+}
