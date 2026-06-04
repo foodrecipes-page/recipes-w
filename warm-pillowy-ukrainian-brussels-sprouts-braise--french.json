@@ -1,0 +1,98 @@
+{
+  "slug": "warm-pillowy-ukrainian-brussels-sprouts-braise--french",
+  "title": "Braised Brussels Sprouts au Gratin",
+  "description": "A French-inspired dish featuring tender Brussels sprouts in a rich, creamy sauce, topped with a crispy, golden-brown crust.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Trim the ends of the Brussels sprouts and halve them.",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the Brussels sprouts and cook until they begin to brown, about 5 minutes.",
+    "Sprinkle the flour over the Brussels sprouts and cook for 1 minute.",
+    "Add the white wine and heavy cream, stirring to combine.",
+    "Bring the mixture to a simmer and cook until it thickens, about 5 minutes.",
+    "Stir in the Gruyère cheese until melted and smooth.",
+    "Transfer the mixture to a baking dish and top with additional Gruyère cheese.",
+    "Dot the top with the remaining 1 tablespoon of butter.",
+    "Bake until golden brown and crispy, about 20-25 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "brussels-sprouts",
+    "gruyère"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-pillowy-ukrainian-brussels-sprouts-braise--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:36:09.980Z"
+}
