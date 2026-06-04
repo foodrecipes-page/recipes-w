@@ -1,0 +1,82 @@
+{
+  "slug": "wholesome-thai-butter-tofu-curry",
+  "title": "Thai Tofu Curry",
+  "description": "A flavorful and easy-to-make Thai-inspired curry dish featuring crispy tofu and a blend of spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "wholesome oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "fish sauce (optional)",
+      "amount": "1 tsp",
+      "notes": "omit for vegan version"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add tofu and cook until golden brown on all sides, about 5 minutes.",
+    "Add coconut milk, fish sauce (if using), and brown sugar. Bring to a simmer.",
+    "Reduce heat to medium-low and cook, stirring occasionally, until the sauce has thickened and the tofu is coated, about 10-15 minutes.",
+    "Stir in butter until melted.",
+    "Season with salt to taste.",
+    "Garnish with Thai basil and serve with lime wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "tofu",
+    "vegan-option",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-thai-butter-tofu-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:56:42.552Z"
+}
