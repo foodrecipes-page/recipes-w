@@ -1,0 +1,87 @@
+{
+  "slug": "warm-peppery-korean-chicken-naengmyeon",
+  "title": "Korean-Style Spicy Chicken Naengmyeon",
+  "description": "A spicy twist on the classic Korean cold noodle dish, featuring warm, peppery flavors and a protein-packed kick.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "naengmyeon noodles",
+      "amount": "1 package",
+      "notes": " Korean-style cold buckwheat noodles"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "crushed black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the naengmyeon noodles according to the package instructions.",
+    "In a separate pan, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the chicken breast and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the pan and set aside.",
+    "In the same pan, add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the gochujang, soy sauce, and brown sugar to the pan and stir to combine.",
+    "Bring the sauce to a simmer and cook for 2-3 minutes, until thickened.",
+    "Add the cooked noodles to the pan and toss with the sauce until well coated.",
+    "Slice the cooked chicken into thin strips and add to the noodles.",
+    "Garnish with thinly sliced green onions, toasted sesame seeds, and a sprinkle of black pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "spicy",
+    "chicken",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-peppery-korean-chicken-naengmyeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:32:08.261Z"
+}
