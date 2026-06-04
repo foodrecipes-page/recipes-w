@@ -1,0 +1,84 @@
+{
+  "slug": "warm-kenyan-olive-flatbread--vegan",
+  "title": "Kenyan Flatbread Wrap",
+  "description": "A delicious and easy-to-make flatbread wrap inspired by Kenyan flavors, suitable for a vegan diet.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "warm olive tapenade",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "warm roasted vegetables",
+      "amount": "1 cup",
+      "notes": "such as eggplant, zucchini, and bell peppers"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced avocado",
+      "amount": "1 medium"
+    },
+    {
+      "name": "sliced cucumber",
+      "amount": "1 medium"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium heat.",
+    "Slice the flatbread into 4 equal pieces.",
+    "Spread 1-2 tbsp olive tapenade on each flatbread piece.",
+    "Top with mixed greens, sliced avocado, cucumber, and cherry tomatoes.",
+    "Drizzle with olive oil and season with salt and pepper to taste.",
+    "Grill the flatbread for 2-3 minutes on each side, until crispy and lightly charred.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "flatbread",
+    "vegan",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-kenyan-olive-flatbread--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:04:03.166Z"
+}
