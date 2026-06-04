@@ -8598,18 +8598,15 @@
   },
   {
     "slug": "warm-spicy-mexican-chicken-tacos",
-    "title": "Warm Spicy Mexican Chicken Tacos",
+    "title": "Spicy Chicken Tacos",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
       "mexican",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "chicken",
+      "tacos",
+      "spicy"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 22,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
