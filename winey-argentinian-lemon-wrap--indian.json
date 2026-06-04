@@ -1,0 +1,80 @@
+{
+  "slug": "winey-argentinian-lemon-wrap--indian",
+  "title": "Argentinian Chicken Wraps",
+  "description": "A fusion of Indian and Argentinian flavors, this spicy chicken wrap is a unique twist on traditional Indian cuisine.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Argentinian Chicken Breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Indian-Style Spices",
+      "amount": "1 teaspoon",
+      "notes": "mix of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Winey Garlic Sauce",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Wrap",
+      "amount": "4",
+      "notes": "large flour tortillas"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken in Indian-Style Spices, Lemon Juice, and Winey Garlic Sauce for 30 minutes.",
+    "Grill the chicken until cooked through, reaching an internal temperature of 165°F (74°C).",
+    "Warm the wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by placing sliced chicken, cucumber, tomato, and cilantro on each wrap.",
+    "Drizzle with additional Winey Garlic Sauce, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "indian",
+    "chicken",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-argentinian-lemon-wrap--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:43:01.867Z"
+}
