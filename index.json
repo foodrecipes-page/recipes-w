@@ -18852,5 +18852,19 @@
     "cuisine": "indian",
     "totalTimeMin": 27,
     "shard": "w"
+  },
+  {
+    "slug": "warm-pillowy-ukrainian-brussels-sprouts-braise--vegan",
+    "title": "Braised Brussels Sprouts with Ukrainian Twist",
+    "tags": [
+      "brussels sprouts",
+      "ukrainian",
+      "vegan",
+      "winter",
+      "comfort food"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 50,
+    "shard": "w"
   }
 ]
