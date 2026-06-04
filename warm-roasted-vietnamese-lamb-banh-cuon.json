@@ -1,0 +1,89 @@
+{
+  "slug": "warm-roasted-vietnamese-lamb-banh-cuon",
+  "title": "Warm Lamb Banh Cuon",
+  "description": "A twist on the classic Vietnamese spring roll, this warm version is perfect for a cozy dinner. The lamb adds a rich and savory flavor to the dish.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground lamb",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Banh cuon sheets",
+      "amount": "1 package",
+      "notes": "found in most Asian grocery stores"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the banh cuon sheets on the prepared baking sheet.",
+    "Bake for 5-7 minutes or until the sheets are lightly browned.",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the ground lamb and cook, breaking it up with a spoon, until it is browned and cooked through.",
+    "Stir in the hoisin sauce, soy sauce, ginger, and garlic. Cook for 1 minute.",
+    "To assemble the rolls, lay a banh cuon sheet on a flat surface.",
+    "Place about 1/4 cup of the lamb mixture in the center of the sheet.",
+    "Add a few mint leaves on top of the lamb.",
+    "Fold the bottom half of the sheet up over the filling, then fold in the sides and roll up the sheet to form a tight cylinder.",
+    "Repeat with the remaining ingredients.",
+    "Serve the warm lamb banh cuon with additional mint leaves and hoisin sauce, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "lamb",
+    "banh-cuon",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-roasted-vietnamese-lamb-banh-cuon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:09:23.457Z"
+}
