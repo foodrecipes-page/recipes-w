@@ -15603,19 +15603,16 @@
   },
   {
     "slug": "wholesome-thai-butter-tofu-curry",
-    "title": "Wholesome Thai Butter Tofu Curry",
+    "title": "Thai Tofu Curry",
     "tags": [
-      "butter",
-      "curry",
-      "diabetic-friendly",
-      "low-carb",
-      "one-pot",
-      "quick",
       "thai",
-      "tofu"
+      "curry",
+      "tofu",
+      "vegan-option",
+      "gluten-free"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
