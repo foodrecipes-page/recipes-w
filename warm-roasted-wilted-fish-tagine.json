@@ -1,0 +1,105 @@
+{
+  "slug": "warm-roasted-wilted-fish-tagine",
+  "title": "Wilted Fish Tagine",
+  "description": "A flavorful North African-inspired dish featuring fish cooked in a rich and aromatic tagine sauce with wilted spinach and warm spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets (4)",
+      "amount": "4",
+      "notes": "White fish such as tilapia or cod"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": "For flavor"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": "For flavor"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "For heat"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": "Fresh, chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large tagine or Dutch oven over medium heat.",
+    "Add onion and cook, stirring occasionally, until softened and lightly browned.",
+    "Add garlic and ginger and cook for 1 minute, stirring constantly.",
+    "Add cumin, coriander, and cayenne pepper. Cook for 1 minute, stirring constantly.",
+    "Add fish fillets and cook for 2-3 minutes per side, or until cooked through.",
+    "Add spinach and cook, stirring occasionally, until wilted.",
+    "Stir in lemon juice and season with salt and pepper.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Cook time will vary depending on the thickness of the fish fillets.",
+    "Check the internal temperature of the fish to ensure it reaches 145°F (63°C)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "moroccan",
+    "tagine",
+    "spinach"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 8,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-roasted-wilted-fish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:20:12.619Z"
+}
