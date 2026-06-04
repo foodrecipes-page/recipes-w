@@ -1,0 +1,94 @@
+{
+  "slug": "warm-spicy-mexican-chicken-tacos",
+  "title": "Spicy Chicken Tacos",
+  "description": "A flavorful and spicy Mexican-inspired dish featuring chicken tacos with warm tortillas.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "warm tortillas for serving"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "season to taste"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "diced avocado",
+      "amount": "1 medium",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "2. Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "3. In a small bowl, mix together cumin, chili powder, garlic powder, salt and pepper.",
+    "4. Sprinkle the spice mixture over the chicken and stir to combine.",
+    "5. Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "6. Assemble the tacos by placing cooked chicken onto a warmed tortilla, followed by desired toppings.",
+    "7. Serve immediately and enjoy!",
+    "8. Optional: top with shredded cheese, diced tomatoes, shredded lettuce, and diced avocado."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tacos",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "32g",
+    "carbs": "24g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-mexican-chicken-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T16:30:33.310Z"
+}
