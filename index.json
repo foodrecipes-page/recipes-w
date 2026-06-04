@@ -18883,5 +18883,19 @@
     "cuisine": "French",
     "totalTimeMin": 170,
     "shard": "w"
+  },
+  {
+    "slug": "warm-kenyan-olive-flatbread--vegan",
+    "title": "Kenyan Flatbread Wrap",
+    "tags": [
+      "kenyan",
+      "flatbread",
+      "vegan",
+      "wrap",
+      "lunch"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 15,
+    "shard": "w"
   }
 ]
