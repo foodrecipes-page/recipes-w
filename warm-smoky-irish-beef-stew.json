@@ -1,0 +1,94 @@
+{
+  "slug": "warm-smoky-irish-beef-stew",
+  "title": "Warm Smoky Irish Beef Stew",
+  "description": "A hearty, comforting stew that combines the flavors of Ireland with a smoky twist.",
+  "cuisine": "Irish",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 teaspoons",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Irish Ale",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add onion, carrots, and potatoes; cook until vegetables are slightly tender, about 5 minutes.",
+    "Add red wine, smoked paprika, garlic powder, salt, and pepper; stir to combine.",
+    "Add Irish ale and bring to a simmer.",
+    "Transfer pot to the oven and braise, covered, at 300°F for 2 1/2 hours, or until beef is tender.",
+    "Serve hot, garnished with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "beef",
+    "stew",
+    "comfort-food",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-irish-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:23:34.499Z"
+}
