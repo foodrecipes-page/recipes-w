@@ -1228,16 +1228,15 @@
   },
   {
     "slug": "warm-creamy-american-chicken-casserole",
-    "title": "Warm Creamy American Chicken Casserole",
+    "title": "Creamy Chicken Casserole",
     "tags": [
-      "american-classic",
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "casserole",
+      "american",
+      "comfort-food"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 50,
+    "cuisine": "american",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -12711,16 +12710,16 @@
   },
   {
     "slug": "weeknight-tangy-egyptian-pastry-tart",
-    "title": "Weeknight Tangy Egyptian Pastry Tart",
+    "title": "Tangy Egyptian Pastry Tart",
     "tags": [
-      "egg-free",
-      "high-protein",
-      "one-pan",
-      "sugar-free-friendly",
-      "weeknight"
+      "weeknight",
+      "tangy",
+      "egyptian",
+      "pastry",
+      "tart"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -18915,6 +18914,48 @@
       "mexican"
     ],
     "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "wilted-kenyan-vegetables-stir-fry--italian",
+    "title": "Wilted Kenyan Vegetable Stir Fry",
+    "tags": [
+      "italian",
+      "vegetarian",
+      "stir-fry",
+      "wilted-spinach"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-argentinian-lemon-wrap--japanese",
+    "title": "Winey Beef Teriyaki Wrap",
+    "tags": [
+      "japanese",
+      "argentinian",
+      "beef",
+      "teriyaki",
+      "wrap"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 22,
+    "shard": "w"
+  },
+  {
+    "slug": "wilted-kenyan-vegetables-stir-fry--vegan",
+    "title": "Vegan Kenyan Stir Fry",
+    "tags": [
+      "kenyan",
+      "vegan",
+      "stir-fry",
+      "gluten-free",
+      "dinner",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
     "totalTimeMin": 35,
     "shard": "w"
   }
