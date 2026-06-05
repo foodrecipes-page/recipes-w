@@ -1,0 +1,85 @@
+{
+  "slug": "warm-spicy-vietnamese-tofu-noodles--thai",
+  "title": "Spicy Tofu Noodle Soup",
+  "description": "A flavorful and spicy Thai-inspired noodle soup made with tofu, noodles, and a variety of aromatic spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "250g",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Rice Noodles",
+      "amount": "200g",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Thai Red Chili",
+      "amount": "2-3",
+      "notes": "depending on desired heat level"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "handful",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large pot over medium heat. Add sliced onion and cook until translucent.",
+    "2. Add sliced ginger and cook for 1 minute, until fragrant.",
+    "3. Add Thai red chilies and cook for another minute.",
+    "4. Add tofu and cook until golden brown on all sides.",
+    "5. Add rice noodles, fish sauce, and soy sauce (if using). Cook for 2-3 minutes, until noodles are slightly tender.",
+    "6. Pour in enough broth to cover the noodles and bring to a boil.",
+    "7. Reduce heat to low and simmer for 5-7 minutes, until noodles are cooked through.",
+    "8. Taste and adjust seasoning as needed.",
+    "9. Serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicuisine",
+    "noodle",
+    "soup",
+    "vegetarian",
+    "spicy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-vietnamese-tofu-noodles--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T07:17:39.486Z"
+}
