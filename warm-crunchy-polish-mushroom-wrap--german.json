@@ -1,0 +1,89 @@
+{
+  "slug": "warm-crunchy-polish-mushroom-wrap--german",
+  "title": "German Mushroom Wrap",
+  "description": "A hearty German-inspired wrap filled with sautéed mushrooms and crunchy polish sausage. Perfect for a quick dinner or lunch.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish Sausage",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini work well"
+    },
+    {
+      "name": "Warm Wrap",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Crunchy Coleslaw",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": null,
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": null,
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Slice the polish sausage into 1-inch pieces and cook in a pan over medium-high heat until browned, about 5 minutes.",
+    "2. Remove the sausage from the pan and set aside.",
+    "3. Add the butter to the pan and melt over medium heat.",
+    "4. Add the sliced onion and cook until softened, about 3-4 minutes.",
+    "5. Add the minced garlic and cook for an additional minute.",
+    "6. Add the sliced mushrooms to the pan and cook until they release their liquid and start to brown, about 5 minutes.",
+    "7. Add the cooked sausage back into the pan and stir to combine with the mushrooms and onions.",
+    "8. Season with salt and pepper to taste.",
+    "9. Warm the wrap in the microwave for 10-15 seconds.",
+    "10. Assemble the wrap by spooning the sausage and mushroom mixture onto the center of the wrap, followed by a dollop of coleslaw.",
+    "11. Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "mushroom",
+    "sausage",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crunchy-polish-mushroom-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T07:34:15.228Z"
+}
