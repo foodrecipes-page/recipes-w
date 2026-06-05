@@ -9378,16 +9378,15 @@
   },
   {
     "slug": "warm-syrian-ground-beef-flatbread",
-    "title": "Warm Syrian Ground Beef Flatbread",
+    "title": "Warm Beef and Flatbread Wrap",
     "tags": [
-      "comfort-food",
-      "high-protein",
+      "beef",
+      "flatbread",
       "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "wrap"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 50,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -18977,6 +18976,58 @@
       "spicy"
     ],
     "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-crunchy-polish-mushroom-wrap--thai",
+    "title": "Thai Crunchy Mushroom Wrap",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "quick",
+      "easy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 18,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-crunchy-polish-mushroom-wrap--german",
+    "title": "German Mushroom Wrap",
+    "tags": [
+      "german",
+      "mushroom",
+      "sausage",
+      "wrap"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-crunchy-polish-mushroom-wrap--vegan",
+    "title": "Vegan Mushroom Wrap",
+    "tags": [
+      "vegan",
+      "mushroom",
+      "polish",
+      "wrap"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-crunchy-polish-mushroom-wrap--gluten-free",
+    "title": "Polish Mushroom Wrap",
+    "tags": [
+      "polish",
+      "gluten-free",
+      "mushroom",
+      "wrap"
+    ],
+    "cuisine": "Polish",
     "totalTimeMin": 25,
     "shard": "w"
   }
