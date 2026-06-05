@@ -1,0 +1,74 @@
+{
+  "slug": "warm-crunchy-polish-mushroom-wrap--gluten-free",
+  "title": "Polish Mushroom Wrap",
+  "description": "A delicious and gluten-free Polish-inspired dish featuring sautéed mushrooms in a crunchy warm wrap.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Warm flour wrap (gluten-free)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Polish sausage",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy slaw",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Slice the Polish sausage into thin pieces.",
+    "2. In a pan, heat 1 tablespoon of oil over medium heat.",
+    "3. Add the sliced sausage and cook until browned.",
+    "4. Add the sliced onions and cook until softened.",
+    "5. Add the minced garlic and cook for an additional minute.",
+    "6. Add the sliced mushrooms and cook until tender.",
+    "7. Warm the gluten-free wrap according to package instructions.",
+    "8. Assemble the wrap by adding the cooked sausage and mushroom mixture.",
+    "9. Top with crunchy slaw and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "gluten-free",
+    "mushroom",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crunchy-polish-mushroom-wrap--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T07:39:09.824Z"
+}
