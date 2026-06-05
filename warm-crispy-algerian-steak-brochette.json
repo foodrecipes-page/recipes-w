@@ -1,0 +1,95 @@
+{
+  "slug": "warm-crispy-algerian-steak-brochette",
+  "title": "Pan-Seared Algerian Brochette Steak",
+  "description": "A flavorful Algerian-inspired dish featuring pan-seared steak brochette, perfect for a romantic dinner.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "steak",
+      "amount": "1.5 pounds",
+      "notes": "preferably flank steak or skirt steak"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with a combination of cumin, coriander, and paprika"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the brochette"
+    },
+    {
+      "name": "warm pita bread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "crispy onions",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced, for marinade"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together algerian spice blend, garlic, salt, and black pepper.",
+    "2. Add the steak to the marinade and mix well to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "3. Preheat a grill or grill pan to medium-high heat.",
+    "4. Remove the steak from the marinade and brush with olive oil.",
+    "5. Grill the steak for 4-5 minutes per side, or until it reaches your desired level of doneness.",
+    "6. Let the steak rest for 5 minutes before slicing it thinly against the grain.",
+    "7. Meanwhile, warm the pita bread by wrapping it in foil and heating it in the oven at 350°F (180°C) for 5 minutes.",
+    "8. Slice the warm pita bread in half lengthwise and toast for an additional 2-3 minutes.",
+    "9. To assemble the brochette, thread the sliced steak onto skewers, leaving a small space between each piece.",
+    "10. Brush the brochette with olive oil and grill for an additional 2-3 minutes, or until lightly charred.",
+    "11. Serve the brochette with warm pita bread, crispy onions, lemon wedges, and a sprinkle of chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "steak",
+    "brochette",
+    "romantic-dinner",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-algerian-steak-brochette",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:08:44.175Z"
+}
