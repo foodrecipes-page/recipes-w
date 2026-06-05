@@ -1,0 +1,89 @@
+{
+  "slug": "warm-spicy-jamaican-tiger-prawns-gratin--chinese",
+  "title": "Jamaican Jerk Tiger Prawns",
+  "description": "Crispy prawns with aromatic Jamaican jerk spices, served as a Chinese-inspired appetizer.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tiger prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "gratin cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together brown sugar, soy sauce, and Jamaican jerk seasoning.",
+    "Add the mixture to the prawns and toss to coat.",
+    "Heat coconut oil in a skillet over medium-high heat.",
+    "Add the prawns and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Transfer the prawns to a baking sheet and top with grated cheese.",
+    "Bake for 2-3 minutes, until the cheese is melted and bubbly.",
+    "Sprinkle with chopped scallions and serve immediately.",
+    "In a small saucepan, heat the remaining coconut oil over medium heat.",
+    "Add minced garlic and ginger and cook for 1 minute, until fragrant.",
+    "Serve the prawns with the garlic-ginger sauce on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "prawns",
+    "appetizer",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-jamaican-tiger-prawns-gratin--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T02:06:40.400Z"
+}
