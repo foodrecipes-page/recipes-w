@@ -1,0 +1,97 @@
+{
+  "slug": "warm-resinous-tunisian-paella-rice-paella",
+  "title": "Tunisian Paella Casserole",
+  "description": "A twist on the classic Spanish dish, this casserole combines the flavors of Tunisia with the comfort of a warm and satisfying bowl.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tunisian Paella Rice",
+      "amount": "1 cup",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "Warm Water",
+      "amount": "2 cups",
+      "notes": "For cooking rice"
+    },
+    {
+      "name": "Resinous Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Artichoke Hearts",
+      "amount": "1 can",
+      "notes": "Drained and chopped"
+    },
+    {
+      "name": "Roasted Red Peppers",
+      "amount": "2",
+      "notes": "Diced"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "Dried"
+    },
+    {
+      "name": "Spices",
+      "amount": "1 teaspoon",
+      "notes": "Tunisian spice blend"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large saucepan, heat the olive oil over medium heat.",
+    "Add the onion and garlic and sauté until softened.",
+    "Add the artichoke hearts, roasted red peppers, chickpeas, tomato paste, and spices.",
+    "Stir to combine and cook for 1-2 minutes.",
+    "Add the paella rice and warm water to the saucepan.",
+    "Bring to a boil, then reduce heat to low and cover.",
+    "Transfer the saucepan to the preheated oven and bake for 25-30 minutes.",
+    "Remove from oven and let rest for 5 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "paella",
+    "casserole",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-resinous-tunisian-paella-rice-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:39:52.937Z"
+}
