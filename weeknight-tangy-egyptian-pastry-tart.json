@@ -1,0 +1,70 @@
+{
+  "slug": "weeknight-tangy-egyptian-pastry-tart",
+  "title": "Tangy Egyptian Pastry Tart",
+  "description": "A flavorful and easy-to-make pastry tart perfect for a weeknight dinner. The combination of tangy feta cheese and Egyptian spices will transport you to the Mediterranean.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry Dough",
+      "amount": "1 sheet, thawed"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": "tangy and salty"
+    },
+    {
+      "name": "Egyptian Spice Blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "In a small bowl, mix together the feta cheese, Egyptian spice blend, and chopped parsley.",
+    "Spread the feta mixture evenly over the pastry dough, leaving a 1-inch border around the edges.",
+    "Drizzle the olive oil over the feta mixture.",
+    "Season with salt and pepper to taste.",
+    "Bake for 25-30 minutes, or until the pastry crust is golden brown and the feta mixture is set.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "weeknight",
+    "tangy",
+    "egyptian",
+    "pastry",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/weeknight-tangy-egyptian-pastry-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T02:39:12.100Z"
+}
