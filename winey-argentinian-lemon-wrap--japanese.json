@@ -1,0 +1,101 @@
+{
+  "slug": "winey-argentinian-lemon-wrap--japanese",
+  "title": "Winey Beef Teriyaki Wrap",
+  "description": "A fusion of Japanese and Argentinian flavors, this dish combines the sweetness of winey beef with the tanginess of lemon and the crunch of a crispy wrap.",
+  "cuisine": "japanese",
+  "diet": [
+    " Omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Argentinian Beef Striploin",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Lemon",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Winey Glaze",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "Soft Japanese Wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "100ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Slice the beef into thin strips and season with soy sauce, brown sugar, and sesame seeds.",
+    "2. Heat a pan with a little oil and sear the beef for 2-3 minutes.",
+    "3. In a separate pan, combine the winey glaze, ginger, and water to make the teriyaki sauce.",
+    "4. Bring the sauce to a simmer and cook for 2-3 minutes until it thickens.",
+    "5. Add the beef strips to the teriyaki sauce and cook for 1-2 minutes until coated.",
+    "6. Warm the wrap in the microwave for 10-15 seconds.",
+    "7. Assemble the wrap with the beef, green onions, and a drizzle of the teriyaki sauce.",
+    "8. Serve immediately and enjoy!",
+    "9. Slice the lemon into wedges for garnish.",
+    "10. Sprinkle with sesame seeds for extra crunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "argentinian",
+    "beef",
+    "teriyaki",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-argentinian-lemon-wrap--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T03:14:15.065Z"
+}
