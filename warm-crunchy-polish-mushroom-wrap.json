@@ -1,0 +1,62 @@
+{
+  "slug": "warm-crunchy-polish-mushroom-wrap",
+  "title": "Polish Mushroom Wrap",
+  "description": "A savory and satisfying Polish-inspired wrap filled with sautéed mushrooms and wrapped in a warm, crunchy tortilla.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mushroom",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "tortilla",
+      "amount": "1"
+    },
+    {
+      "name": "warm beer cheese sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium heat.",
+    "Add the onion and garlic and cook until softened.",
+    "Add the mushrooms and cook until tender.",
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spoon the mushroom mixture onto the tortilla, leaving a small border around the edges.",
+    "Drizzle with warm beer cheese sauce.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mushroom",
+    "polish",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crunchy-polish-mushroom-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:15:01.532Z"
+}
