@@ -1,0 +1,67 @@
+{
+  "slug": "warm-crunchy-polish-mushroom-wrap--vegan",
+  "title": "Vegan Mushroom Wrap",
+  "description": "A delicious and crunchy vegan wrap filled with sautéed mushrooms and polish spices.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Polish sausage substitute (e.g. tofu)",
+      "amount": "1/2 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Crunchy wrap",
+      "amount": "1",
+      "notes": "Whole wheat"
+    },
+    {
+      "name": "Warm spices",
+      "amount": "1 tsp",
+      "notes": "Paprika, garlic powder"
+    },
+    {
+      "name": "Vegan mayonnaise",
+      "amount": "1 tsp",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium-high heat.",
+    "2. Add sliced mushrooms and cook until tender.",
+    "3. Add sliced Polish sausage substitute and warm spices, cook for 2 minutes.",
+    "4. Warm the crunchy wrap in the oven or microwave.",
+    "5. Assemble the wrap by placing the mushroom mixture onto the wrap.",
+    "6. Top with vegan mayonnaise.",
+    "7. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "mushroom",
+    "polish",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crunchy-polish-mushroom-wrap--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T07:37:01.768Z"
+}
