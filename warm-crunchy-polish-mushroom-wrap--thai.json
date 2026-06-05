@@ -1,0 +1,81 @@
+{
+  "slug": "warm-crunchy-polish-mushroom-wrap--thai",
+  "title": "Thai Crunchy Mushroom Wrap",
+  "description": "A delicious and easy-to-make Thai-inspired dish featuring crunchy vegetables, savory mushrooms, and a warm wrap.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "Warm and pliable"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1/2 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Thai Chili Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "2. Add the sliced mushrooms and cook until they release their liquid and start to brown, about 3-4 minutes.",
+    "3. Add the sliced cucumber and shredded carrot to the skillet and cook for an additional 2-3 minutes.",
+    "4. In a small bowl, whisk together the Thai chili sauce, soy sauce, and honey.",
+    "5. Pour the sauce over the vegetables in the skillet and stir to combine.",
+    "6. Warm the wrap in the microwave for 10-15 seconds.",
+    "7. Assemble the wrap by spooning the vegetable mixture onto the center of the wrap.",
+    "8. Top with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crunchy-polish-mushroom-wrap--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T07:34:12.928Z"
+}
