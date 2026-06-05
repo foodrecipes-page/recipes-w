@@ -1,0 +1,88 @@
+{
+  "slug": "warm-crispy-slovakian-uni-skewers--mexican",
+  "title": "Crispy Uni Skewers with Slovakian Spices",
+  "description": "A unique twist on traditional Mexican skewers, these Crispy Uni Skewers blend the freshness of uni with the bold flavors of Slovakian spices. Perfect for a dinner party or special occasion.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uni",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Slovakian Paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Tortilla Strips",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (for garnish)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Thread uni onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together Slovakian Paprika, cumin, lime juice, and garlic.",
+    "Brush the mixture evenly onto both sides of the uni.",
+    "Place skewers on a baking sheet lined with parchment paper.",
+    "Drizzle with olive oil and season with salt.",
+    "Bake for 8-10 minutes or until the uni is cooked through.",
+    "Remove from oven and sprinkle with crispy tortilla strips.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "uni",
+    "skewers",
+    "cristpy",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-slovakian-uni-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T07:17:11.906Z"
+}
