@@ -5540,16 +5540,15 @@
   },
   {
     "slug": "warm-monsoon-green-olives-tagine",
-    "title": "Warm Monsoon Green Olives Tagine",
+    "title": "Moroccan Green Tagine",
     "tags": [
-      "dash-friendly",
-      "eggless",
-      "monsoon",
-      "one-pan",
-      "vegetarian"
+      "moroccan",
+      "stew",
+      "spinach",
+      "olives"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 40,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -6130,19 +6129,16 @@
   },
   {
     "slug": "warm-resinous-tunisian-paella-rice-paella",
-    "title": "tunisian paella rice",
+    "title": "Tunisian Paella Casserole",
     "tags": [
-      "breakfast",
-      "hangover-cure",
-      "mediterranean",
-      "morning-after",
-      "north-african",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "tunisian",
+      "paella",
+      "casserole",
+      "vegan",
+      "vegetarian"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "Tunisian",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
