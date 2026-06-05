@@ -7925,18 +7925,16 @@
   },
   {
     "slug": "warm-spiced-argentinian-beef-empanadas",
-    "title": "Warm Spiced Argentinian Beef Empanadas",
+    "title": "Argentinian Beef Empanadas",
     "tags": [
-      "argentinian-food",
-      "beef-empanadas",
-      "cozy-dinner",
-      "fermented-food",
-      "gluten-free",
-      "homemade-empanadas",
-      "spiced-empanadas"
+      "beef",
+      "argentinian",
+      "empanadas",
+      "snack",
+      "warming"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -18893,6 +18891,31 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-jamaican-tiger-prawns-gratin--chinese",
+    "title": "Jamaican Jerk Tiger Prawns",
+    "tags": [
+      "jamaican",
+      "prawns",
+      "appetizer",
+      "chinese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 22,
+    "shard": "w"
+  },
+  {
+    "slug": "whipping-creamy-slovakian-cream-bake--mexican",
+    "title": "Creamy Slovakian Tres Leches Cake",
+    "tags": [
+      "tres leches cake",
+      "dessert",
+      "mexican"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "w"
   }
 ]
