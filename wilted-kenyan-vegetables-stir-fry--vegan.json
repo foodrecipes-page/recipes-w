@@ -1,0 +1,95 @@
+{
+  "slug": "wilted-kenyan-vegetables-stir-fry--vegan",
+  "title": "Vegan Kenyan Stir Fry",
+  "description": "A quick and flavorful Kenyan-inspired stir fry made with wilted vegetables, perfect for a weeknight dinner.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wilted vegetables (such as spinach, kale, and collard greens)",
+      "amount": "1 bunch",
+      "notes": "any combination of wilted greens"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Sweet potato",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2 medium",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the avocado oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the sweet potato and carrots and cook for an additional 5 minutes, stirring occasionally.",
+    "Add the bell peppers and cook for an additional 3-4 minutes, stirring occasionally.",
+    "Add the wilted vegetables and cook until they are heated through, about 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Squeeze the lime juice over the top and stir to combine.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "vegan",
+    "stir-fry",
+    "gluten-free",
+    "dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-kenyan-vegetables-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T04:08:21.146Z"
+}
