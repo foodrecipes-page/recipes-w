@@ -2377,16 +2377,14 @@
   },
   {
     "slug": "warm-crunchy-polish-mushroom-wrap",
-    "title": "Warm Crunchy Polish Mushroom Wrap",
+    "title": "Polish Mushroom Wrap",
     "tags": [
-      "easy-snacks",
-      "midnight-cravings",
-      "mushroom-recipes",
-      "polish-cuisine",
-      "vegan-friendly"
+      "mushroom",
+      "polish",
+      "wrap"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
@@ -7307,15 +7305,14 @@
     "slug": "warm-smoky-irish-beef-stew",
     "title": "Warm Smoky Irish Beef Stew",
     "tags": [
-      "beef-stew",
+      "irish",
+      "beef",
+      "stew",
       "comfort-food",
-      "gluten-free",
-      "irish-food",
-      "low-fodmap",
-      "smoky-flavors"
+      "smoky"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "w"
   },
   {
@@ -18953,6 +18950,34 @@
     ],
     "cuisine": "kenyan",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-crispy-slovakian-uni-skewers--mexican",
+    "title": "Crispy Uni Skewers with Slovakian Spices",
+    "tags": [
+      "mexican",
+      "uni",
+      "skewers",
+      "cristpy",
+      "slovakian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-vietnamese-tofu-noodles--thai",
+    "title": "Spicy Tofu Noodle Soup",
+    "tags": [
+      "thaicuisine",
+      "noodle",
+      "soup",
+      "vegetarian",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "w"
   }
 ]
