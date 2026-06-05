@@ -1,0 +1,82 @@
+{
+  "slug": "wilted-kenyan-vegetables-stir-fry--italian",
+  "title": "Wilted Kenyan Vegetable Stir Fry",
+  "description": "A twist on the classic Italian vegetable stir fry, incorporating Kenyan flavors and wilted vegetables.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "wilted spinach",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "kenyan vegetables (such as yams or cassava)",
+      "amount": "1 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the sliced Kenyan vegetables and cook for 5-7 minutes, or until they begin to soften.",
+    "Add the wilted spinach and cook until wilted, about 1-2 minutes.",
+    "Season with Italian seasoning, salt, and pepper to taste.",
+    "Serve hot, garnished with additional Italian seasoning if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "stir-fry",
+    "wilted-spinach"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-kenyan-vegetables-stir-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T02:40:09.042Z"
+}
