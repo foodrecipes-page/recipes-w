@@ -1,0 +1,81 @@
+{
+  "slug": "winey-crispy-thai-morbier-tagine",
+  "title": "Pan-Seared Chicken Tagine with Morbier Crust",
+  "description": "A flavorful dish that combines the crispy texture of Morbier cheese with the rich taste of chicken and the aromas of Thai spices. This recipe makes for a hearty dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "2",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Morbier cheese",
+      "amount": "1/2 cup",
+      "notes": "Crumbly"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Tagine powder",
+      "amount": "1 tsp",
+      "notes": "Mix with olive oil"
+    },
+    {
+      "name": "Winey balsamic vinegar",
+      "amount": "2 tbsp",
+      "notes": "Reduces during cooking"
+    },
+    {
+      "name": "Crispy chopped almonds",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Season the chicken breasts with salt and pepper.",
+    "3. Mix Morbier cheese with crispy chopped almonds and set aside.",
+    "4. In a separate pan, heat the Thai red curry paste in olive oil and cook for 1-2 minutes.",
+    "5. Add winey balsamic vinegar and cook until reduced by half.",
+    "6. Add tagine powder and stir to combine.",
+    "7. Pan-fry the chicken breasts until browned on both sides.",
+    "8. Transfer the chicken to the oven and cook for 15-20 minutes or until cooked through.",
+    "9. Meanwhile, sprinkle the Morbier cheese mixture over the top of each chicken breast.",
+    "10. Return the chicken to the pan and cook for an additional 2-3 minutes or until the cheese is melted and bubbly.",
+    "11. Garnish with crispy chopped almonds and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "tagine",
+    "chicken",
+    "cheese",
+    "morbiere"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-crispy-thai-morbier-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T11:00:52.696Z"
+}
