@@ -1,0 +1,71 @@
+{
+  "slug": "wholesome-earthy-italian-borlotti-beans-pasta--french",
+  "title": "Borlotti Bean Pasta",
+  "description": "A simple yet flavorful French-inspired pasta dish made with borlotti beans and wholesome ingredients. This hearty recipe is perfect for a cozy dinner.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "250g",
+      "notes": "whole wheat, earthy"
+    },
+    {
+      "name": "borlotti beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "italian olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "wholesome garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "french rosemary",
+      "amount": "1 tsp",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat. Add the garlic and onion and cook until softened, about 5 minutes.",
+    "Add the borlotti beans to the skillet and stir to combine with the garlic and onion mixture.",
+    "Add the cooked pasta to the skillet and toss with the bean mixture.",
+    "Sprinkle the rosemary over the pasta and toss to combine.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "pasta",
+    "vegetarian",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-earthy-italian-borlotti-beans-pasta--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:30:41.771Z"
+}
