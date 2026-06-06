@@ -19059,5 +19059,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 32,
     "shard": "w"
+  },
+  {
+    "slug": "warm-creamy-middle-eastern-chickpeas-falafel--indian",
+    "title": "Chickpea and Falafel Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "chickpeas",
+      "falafel"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 30,
+    "shard": "w"
   }
 ]
