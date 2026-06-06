@@ -1,0 +1,79 @@
+{
+  "slug": "warm-silky-middle-eastern-wheat-harees",
+  "title": "Harees with Wheat and Middle Eastern Spices",
+  "description": "A traditional Middle Eastern dish made with wheat, meat, and spices, cooked in a slow-cooked broth. Serve warm and enjoy.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Harees",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Wheat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cardamom powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large pot over medium heat.",
+    "Add the cumin seeds and let them sizzle for a few seconds.",
+    "Add the chopped onion and cook until it's translucent.",
+    "Add the wheat and harees to the pot and mix well.",
+    "Add 4 cups of water to the pot and bring it to a boil.",
+    "Reduce the heat to low and let it simmer for 1 hour or until the wheat is cooked.",
+    "Add the coriander powder, cardamom powder, and salt to the pot and mix well.",
+    "Cook for another 10 minutes and serve warm.",
+    "Garnish with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 70,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "wheat",
+    "harees",
+    "slow-cooked",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-silky-middle-eastern-wheat-harees",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T22:20:20.496Z"
+}
