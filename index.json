@@ -19033,5 +19033,31 @@
     "cuisine": "Australian",
     "totalTimeMin": 180,
     "shard": "w"
+  },
+  {
+    "slug": "wholesome-earthy-italian-borlotti-beans-pasta--gluten-free",
+    "title": "Creamy Borlotti Bean Pasta",
+    "tags": [
+      "italian",
+      "gluten-free",
+      "vegetarian",
+      "comfort-food"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-german-schnitzel-gratin--mexican",
+    "title": "Mexican Schnitzel Tacos",
+    "tags": [
+      "mexican",
+      "tacos",
+      "schnitzel",
+      "gratin"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 32,
+    "shard": "w"
   }
 ]
