@@ -1,0 +1,94 @@
+{
+  "slug": "warm-german-schnitzel-gratin",
+  "title": "Traditional German Schnitzel Gratin",
+  "description": "A classic German dish featuring breaded and fried pork cutlets topped with a creamy gratin mixture and baked to perfection.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork cutlets (4)",
+      "amount": "1 pound",
+      "notes": "Thinly sliced pork"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Panko breadcrumbs work well"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": "Beaten eggs for egg wash"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "For egg wash"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted butter"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Gratin mixture",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade mixture"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "Shredded"
+    }
+  ],
+  "instructions": [
+    "Season the pork cutlets with salt and pepper.",
+    "Dust the pork cutlets with flour, shaking off excess.",
+    "Dip the floured pork cutlets in beaten eggs and then coat in breadcrumbs.",
+    "Heat butter in a large skillet over medium-high heat. Fry the breaded pork cutlets until golden brown and cooked through.",
+    "Transfer the fried pork cutlets to a baking dish.",
+    "Arrange onions and garlic on top of the pork cutlets.",
+    "Spread the gratin mixture over the onions and garlic.",
+    "Sprinkle cheddar cheese over the gratin mixture.",
+    "Bake in a preheated oven at 375°F (190°C) for 15-20 minutes or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "schnitzel",
+    "gratin",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-german-schnitzel-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T11:44:19.626Z"
+}
