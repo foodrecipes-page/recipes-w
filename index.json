@@ -9641,16 +9641,15 @@
   },
   {
     "slug": "warm-uruguayan-pork-knuckle-wrap",
-    "title": "Warm Uruguayan Pork Knuckle Wrap",
+    "title": "Uruguayan Pork Knuckle Wrap",
     "tags": [
-      "braised-meat",
-      "comfort-food",
-      "one-pot",
-      "pork-dishes",
-      "south-american"
+      "uruguayan",
+      "pork",
+      "knuckle",
+      "wrap"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 150,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 135,
     "shard": "w"
   },
   {
@@ -19071,6 +19070,61 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wholesome-peruvian-fish-spicy-raw-fish-sashimi--italian",
+    "title": "Seared Sashimi Tuna with Italian-Style Salsa Verde",
+    "tags": [
+      "italian",
+      "peruvian",
+      "fish",
+      "sashimi"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 19,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-earthy-italian-borlotti-beans-pasta--french",
+    "title": "Borlotti Bean Pasta",
+    "tags": [
+      "french",
+      "pasta",
+      "vegetarian",
+      "beans"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-silky-japanese-kabocha-oyakodon--indian",
+    "title": "Kabocha Oyakodon Indian Fusion",
+    "tags": [
+      "indian",
+      "fusion",
+      "vegetarian",
+      "lunch",
+      "kabocha",
+      "oyakodon"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wholesome-peruvian-fish-spicy-raw-fish-sashimi--gluten-free",
+    "title": "Grilled Sashimi Tuna with Citrus and Ginger",
+    "tags": [
+      "peruvian",
+      "fish",
+      "sashimi",
+      "gluten-free",
+      "raw"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 16,
     "shard": "w"
   }
 ]
