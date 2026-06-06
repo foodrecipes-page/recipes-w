@@ -1,0 +1,78 @@
+{
+  "slug": "warm-silky-japanese-kabocha-oyakodon",
+  "title": "Kabocha Oyakodon",
+  "description": "A Japanese-inspired oyakodon dish featuring roasted kabocha squash, chicken, and eggs.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kabocha squash",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Cooked Japanese rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soft-boiled eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the kabocha squash into 1-inch cubes and roast for 20-25 minutes, or until tender.",
+    "Slice the chicken breast into thin strips and cook in a pan with sesame oil until browned.",
+    "Add the soy sauce and sugar to the pan and stir to combine.",
+    "Cook the Japanese rice according to package instructions.",
+    "To assemble the oyakodon, place a scoop of cooked rice in a bowl, followed by roasted kabocha squash, chicken, and a soft-boiled egg.",
+    "Garnish with green onions and sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "oyakodon",
+    "kabocha",
+    "japanese",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-silky-japanese-kabocha-oyakodon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T12:55:19.512Z"
+}
