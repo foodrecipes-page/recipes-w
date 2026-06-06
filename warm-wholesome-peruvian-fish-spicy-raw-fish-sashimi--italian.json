@@ -1,0 +1,77 @@
+{
+  "slug": "warm-wholesome-peruvian-fish-spicy-raw-fish-sashimi--italian",
+  "title": "Seared Sashimi Tuna with Italian-Style Salsa Verde",
+  "description": "A fusion of Peruvian sashimi and Italian flavors, this dish features seared tuna served with a tangy salsa verde.",
+  "cuisine": "italian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tuna Steaks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Capers",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium-high heat.",
+    "Season the tuna steaks with salt and pepper.",
+    "Sear the tuna for 1-2 minutes per side, or until cooked to desired doneness.",
+    "Transfer the tuna to a plate and let rest.",
+    "In a food processor, combine parsley, basil, garlic, capers, lemon juice, and olive oil.",
+    "Process until the salsa verde is well combined and slightly smooth.",
+    "Serve the seared tuna with the salsa verde spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 4,
+  "totalTimeMin": 19,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "peruvian",
+    "fish",
+    "sashimi"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wholesome-peruvian-fish-spicy-raw-fish-sashimi--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:18:52.845Z"
+}
