@@ -1,0 +1,83 @@
+{
+  "slug": "warm-silky-middle-eastern-wheat-harees--keto",
+  "title": "Warm Middle Eastern Harees Bowl",
+  "description": "A keto twist on the traditional Middle Eastern dish, featuring slow-cooked harees with warm spices and silky textures.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Harees",
+      "amount": "1 cup",
+      "notes": "made from wheat and water, drained and rinsed"
+    },
+    {
+      "name": "Middle Eastern Spices",
+      "amount": "1 tsp",
+      "notes": "mix of cinnamon, cardamom, and allspice"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp",
+      "notes": "clarified butter for frying"
+    },
+    {
+      "name": "Silky Labneh",
+      "amount": "1/2 cup",
+      "notes": "low-fat yogurt drained and seasoned"
+    },
+    {
+      "name": "Warm Cumin",
+      "amount": "1 tsp",
+      "notes": "ground cumin for added warmth"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Keto Oil",
+      "amount": "1 tsp",
+      "notes": "avocado oil for finishing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "add as needed"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine harees and 4 cups of water. Bring to a boil, then reduce heat to low and simmer for 2 hours, or until harees is tender.",
+    "Preheat oven to 375°F (190°C). In a small bowl, mix together Middle Eastern Spices and Warm Cumin.",
+    "In a large skillet, heat 1 tsp of Keto Oil over medium heat. Add Ghee and fry for 1-2 minutes, or until fragrant.",
+    "Add the spice mixture to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the cooked harees to the skillet and stir to combine with the spice mixture.",
+    "Spoon the harees mixture into a bowl and top with Silky Labneh.",
+    "Garnish with Fresh Parsley and serve immediately.",
+    "Optional: Add a side of roasted vegetables or a simple green salad for a more substantial meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 120,
+  "totalTimeMin": 130,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "middle-eastern",
+    "harees",
+    "warm-spices"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-silky-middle-eastern-wheat-harees--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T00:40:32.668Z"
+}
