@@ -1,0 +1,80 @@
+{
+  "slug": "warm-silky-middle-eastern-wheat-harees--chinese",
+  "title": "Wheat Harees Stir Fry",
+  "description": "A fusion of wheat harees and traditional Chinese stir-fry. This dish combines the warm, silky texture of harees with the bold flavors of Chinese cuisine.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "harees",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and grated ginger, cook for another minute.",
+    "Add the harees and stir-fry for 2-3 minutes.",
+    "Add the soy sauce and stir-fry for another minute.",
+    "Transfer the harees mixture to a serving platter.",
+    "Garnish with chopped scallions.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "harees",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-silky-middle-eastern-wheat-harees--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T00:40:58.497Z"
+}
