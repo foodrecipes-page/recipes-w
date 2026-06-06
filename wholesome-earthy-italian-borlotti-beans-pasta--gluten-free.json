@@ -1,0 +1,83 @@
+{
+  "slug": "wholesome-earthy-italian-borlotti-beans-pasta--gluten-free",
+  "title": "Creamy Borlotti Bean Pasta",
+  "description": "A comforting, gluten-free pasta dish made with borlotti beans, wholesome cream, and earthy herbs.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "250g",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "borlotti beans",
+      "amount": "1 can (400g)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "wholesome cream",
+      "amount": "200ml",
+      "notes": "full-fat"
+    },
+    {
+      "name": "italian herbs",
+      "amount": "2 tbsp",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the gluten-free pasta according to package instructions.",
+    "In a large saucepan, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the borlotti beans, italian herbs, salt, and pepper. Cook for 2-3 minutes, stirring occasionally.",
+    "Stir in the wholesome cream. Bring the mixture to a simmer and cook for 2-3 minutes, until heated through.",
+    "Drain the cooked pasta and add it to the saucepan with the borlotti bean mixture.",
+    "Toss the pasta in the creamy sauce until well coated.",
+    "Serve hot, garnished with additional italian herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "gluten-free",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-earthy-italian-borlotti-beans-pasta--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:34:02.221Z"
+}
