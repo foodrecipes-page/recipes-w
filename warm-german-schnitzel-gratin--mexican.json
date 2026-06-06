@@ -1,0 +1,97 @@
+{
+  "slug": "warm-german-schnitzel-gratin--mexican",
+  "title": "Mexican Schnitzel Tacos",
+  "description": "A Mexican twist on the classic German dish, served in tacos with a side of warm gratin.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork cutlets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lard or vegetable oil",
+      "amount": "for frying",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "gratin",
+      "amount": "for serving",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, mix together flour, cumin, and paprika.",
+    "2. In a separate dish, beat eggs and mix with milk.",
+    "3. Season pork cutlets with salt and pepper.",
+    "4. Dip each cutlet in the flour mixture, coating both sides, then in the egg mixture, and finally back in the flour mixture to coat.",
+    "5. Heat lard or oil in a large skillet over medium-high heat.",
+    "6. Fry the coated cutlets for 2-3 minutes on each side, or until golden brown and cooked through.",
+    "7. Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "8. Assemble tacos by placing a fried cutlet in each tortilla and topping with your desired toppings.",
+    "9. Serve with a side of warm gratin."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "schnitzel",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 34,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-german-schnitzel-gratin--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:35:09.409Z"
+}
