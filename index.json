@@ -19152,5 +19152,59 @@
     "cuisine": "thai",
     "totalTimeMin": 50,
     "shard": "w"
+  },
+  {
+    "slug": "warm-silky-middle-eastern-wheat-harees--keto",
+    "title": "Warm Middle Eastern Harees Bowl",
+    "tags": [
+      "keto",
+      "middle-eastern",
+      "harees",
+      "warm-spices"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 130,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-silky-middle-eastern-wheat-harees--chinese",
+    "title": "Wheat Harees Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "harees",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-silky-middle-eastern-wheat-harees--vegetarian",
+    "title": "Harees with Wheat and Eastern Flair",
+    "tags": [
+      "middle-eastern",
+      "vegetarian",
+      "breakfast",
+      "wheat",
+      "harees"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-silky-middle-eastern-wheat-harees--vegan",
+    "title": "Harees Wheat Bowl",
+    "tags": [
+      "vegan",
+      "breakfast",
+      "middle-eastern",
+      "wheat"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 100,
+    "shard": "w"
   }
 ]
