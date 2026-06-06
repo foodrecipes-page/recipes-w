@@ -1,0 +1,71 @@
+{
+  "slug": "warm-silky-middle-eastern-wheat-harees--french",
+  "title": "Warm Harees Pudding",
+  "description": "A French-inspired twist on the traditional Middle Eastern harees pudding, served warm and silky.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "wheat berries",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "date syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine wheat berries and water in a large saucepan.",
+    "Bring to a boil, then reduce heat to low and simmer for 45 minutes.",
+    "Add date syrup, rose water, cinnamon, and cardamom. Stir to combine.",
+    "Continue to simmer for an additional 10-15 minutes.",
+    "Stir in unsalted butter until melted.",
+    "Serve warm, garnished with additional rose water if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "warm",
+    "silky",
+    "middle eastern",
+    "wheat"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-silky-middle-eastern-wheat-harees--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:28:00.513Z"
+}
