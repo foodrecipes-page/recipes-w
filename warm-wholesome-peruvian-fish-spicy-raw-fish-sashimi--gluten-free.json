@@ -1,0 +1,85 @@
+{
+  "slug": "warm-wholesome-peruvian-fish-spicy-raw-fish-sashimi--gluten-free",
+  "title": "Grilled Sashimi Tuna with Citrus and Ginger",
+  "description": "A refreshing Peruvian-inspired dish with the flavors of citrus and ginger, perfect for a light meal.",
+  "cuisine": "peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh tuna steaks",
+      "amount": "4",
+      "notes": "sushi-grade"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sliced red onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season tuna steaks with salt.",
+    "3. Grill tuna for 2-3 minutes per side, or until cooked to your liking.",
+    "4. In a small bowl, whisk together lime juice, soy sauce, and sesame oil.",
+    "5. Brush the mixture on the tuna steaks during the last minute of grilling.",
+    "6. Remove tuna from grill and let rest for 2 minutes.",
+    "7. Slice tuna into thin pieces.",
+    "8. In a small bowl, mix together ginger, cilantro, and red onion.",
+    "9. Serve tuna with the ginger mixture spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "fish",
+    "sashimi",
+    "gluten-free",
+    "raw"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wholesome-peruvian-fish-spicy-raw-fish-sashimi--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:35:18.018Z"
+}
