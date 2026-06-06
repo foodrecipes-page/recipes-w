@@ -3829,18 +3829,14 @@
   },
   {
     "slug": "warm-german-schnitzel-gratin",
-    "title": "Warm German Schnitzel Gratin",
+    "title": "Traditional German Schnitzel Gratin",
     "tags": [
-      "ayurvedic-rajasic-friendly",
-      "comfort-food",
-      "german",
-      "gratin",
-      "one-pan",
       "schnitzel",
-      "weeknight"
+      "gratin",
+      "german"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 32,
+    "cuisine": "german",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -13941,14 +13937,14 @@
   },
   {
     "slug": "wholesome-earthy-italian-borlotti-beans-pasta",
-    "title": "wholesome earthy Italian borlotti beans pasta",
+    "title": "Borlotti Bean Pasta",
     "tags": [
-      "comfort-food",
       "italian",
-      "one-pan",
+      "pasta",
+      "beans",
       "vegetarian"
     ],
-    "cuisine": "italian",
+    "cuisine": "Italian",
     "totalTimeMin": 25,
     "shard": "w"
   },
@@ -17515,18 +17511,15 @@
   },
   {
     "slug": "winey-crispy-thai-morbier-tagine",
-    "title": "Winey Crispy Thai Morbier Tagine",
+    "title": "Pan-Seared Chicken Tagine with Morbier Crust",
     "tags": [
+      "tagine",
+      "chicken",
       "cheese",
-      "crispy",
-      "one-pan",
-      "sattvic",
-      "thai",
-      "weeknight",
-      "winey"
+      "morbiere"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 25,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -19027,6 +19020,19 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-resinous-australian-lamb-stew--keto",
+    "title": "Lamb Stew with Australian Flair",
+    "tags": [
+      "lamb",
+      "stew",
+      "australian",
+      "keto"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 180,
     "shard": "w"
   }
 ]
