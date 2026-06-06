@@ -1,0 +1,76 @@
+{
+  "slug": "warm-uruguayan-pork-knuckle-wrap",
+  "title": "Uruguayan Pork Knuckle Wrap",
+  "description": "A flavorful take on a traditional Uruguayan dish, featuring slow-cooked pork knuckle wrapped in a warm tortilla.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "pork"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pork Knuckle",
+      "amount": "1"
+    },
+    {
+      "name": "Warm Tortilla",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "Chimichurri Sauce",
+      "amount": "2 tbsp",
+      "notes": "see notes for recipe"
+    },
+    {
+      "name": "Sliced Red Onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Grilled Chorizo",
+      "amount": "2 slices",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the pork knuckle with salt and pepper.",
+    "Roast the pork in the oven for 2 hours, or until tender.",
+    "Let the pork rest for 10 minutes before slicing.",
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by placing sliced pork, chimichurri sauce, red onion, and cilantro on the tortilla.",
+    "Top with grilled chorizo, if using.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "pork",
+    "knuckle",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-uruguayan-pork-knuckle-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:20:51.226Z"
+}
