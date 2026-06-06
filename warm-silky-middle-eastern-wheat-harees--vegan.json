@@ -1,0 +1,72 @@
+{
+  "slug": "warm-silky-middle-eastern-wheat-harees--vegan",
+  "title": "Harees Wheat Bowl",
+  "description": "A traditional Middle Eastern dish, adapted to be vegan. Harees is a porridge-like dish made from wheat.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "hara harees",
+      "amount": "2 cups",
+      "notes": "preferably Middle Eastern harees"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "wheat",
+      "amount": "1 cup",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "dates",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the harees and soak it in water for at least 4 hours.",
+    "Drain and rinse the harees again.",
+    "In a large pot, combine the harees, wheat, and 4 cups of water.",
+    "Bring to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "Add the dates and coconut oil to the pot, and continue to simmer for another 30 minutes.",
+    "Season with salt to taste.",
+    "Serve warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 90,
+  "totalTimeMin": 100,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "breakfast",
+    "middle-eastern",
+    "wheat"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-silky-middle-eastern-wheat-harees--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T00:41:12.871Z"
+}
