@@ -1,0 +1,90 @@
+{
+  "slug": "warm-resinous-australian-lamb-stew--keto",
+  "title": "Lamb Stew with Australian Flair",
+  "description": "A hearty keto stew made with lamb and a hint of Australian spices. Perfect for a chilly evening.",
+  "cuisine": "Australian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Warm spices",
+      "amount": "1 tsp",
+      "notes": "ground cumin, coriander, and smoked paprika"
+    },
+    {
+      "name": "Resinous olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Australian bush tomatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add the diced onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced bush tomatoes, beef broth, salt, and pepper. Stir to combine.",
+    "Return the lamb shoulder to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2.5 hours or until lamb is tender.",
+    "Shred the lamb with two forks and return to pot.",
+    "Simmer for an additional 10-15 minutes to allow flavors to meld.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "australian",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-resinous-australian-lamb-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T11:50:40.949Z"
+}
