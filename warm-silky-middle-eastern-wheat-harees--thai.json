@@ -1,0 +1,85 @@
+{
+  "slug": "warm-silky-middle-eastern-wheat-harees--thai",
+  "title": "Thai Harees Curry",
+  "description": "A Thai-inspired twist on traditional harees, featuring a warm and silky curry sauce made with wheat and a hint of eastern spices. Perfect for a comforting meal.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "harees",
+      "amount": "1 cup"
+    },
+    {
+      "name": "wheat",
+      "amount": "2 cups",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add curry paste and stir for 1 minute.",
+    "Add coconut milk and stir to combine.",
+    "Add harees and wheat and stir to coat with curry sauce.",
+    "Add fish sauce and sugar and stir to combine.",
+    "Bring to a simmer and cook for 10-15 minutes.",
+    "Stir in lemon juice and serve hot.",
+    "Serve with steamed rice or noodles.",
+    "Garnish with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "curry",
+    "harees",
+    "wheat",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 70,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-silky-middle-eastern-wheat-harees--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:28:06.854Z"
+}
