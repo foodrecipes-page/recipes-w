@@ -19125,5 +19125,32 @@
     "cuisine": "peruvian",
     "totalTimeMin": 16,
     "shard": "w"
+  },
+  {
+    "slug": "warm-silky-middle-eastern-wheat-harees--french",
+    "title": "Warm Harees Pudding",
+    "tags": [
+      "warm",
+      "silky",
+      "middle eastern",
+      "wheat"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 80,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-silky-middle-eastern-wheat-harees--thai",
+    "title": "Thai Harees Curry",
+    "tags": [
+      "thai",
+      "curry",
+      "harees",
+      "wheat",
+      "comfort-food"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 50,
+    "shard": "w"
   }
 ]
