@@ -1,0 +1,81 @@
+{
+  "slug": "warm-silky-middle-eastern-wheat-harees--vegetarian",
+  "title": "Harees with Wheat and Eastern Flair",
+  "description": "A traditional Middle Eastern dish, now made vegetarian with hearty wheat and a hint of eastern spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Harees",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Wheat Berries",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Pumpkin Puree",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Middle Eastern Spices (Cumin, Coriander, Turmeric)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Herbs (optional)",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine wheat berries, pumpkin puree, spices, salt, and water in a large saucepan.",
+    "Bring the mixture to a boil, then reduce heat and simmer for about 20 minutes, or until the wheat is cooked and the liquid has been absorbed.",
+    "Add ghee or vegetable oil and stir to blend.",
+    "Serve hot with your choice of toppings, such as chopped fresh herbs, nuts, or dried fruits.",
+    "Traditionally, harees is served with a variety of toppings, so feel free to get creative!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "vegetarian",
+    "breakfast",
+    "wheat",
+    "harees"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-silky-middle-eastern-wheat-harees--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T00:41:00.807Z"
+}
