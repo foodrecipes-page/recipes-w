@@ -1,0 +1,98 @@
+{
+  "slug": "warm-creamy-middle-eastern-chickpeas-falafel--indian",
+  "title": "Chickpea and Falafel Curry",
+  "description": "A flavorful and spicy Indian-inspired curry made with chickpeas, falafel, and warm spices. Serve with naan or rice.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "falafel",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add onion, ginger, and garlic. Cook until onion is translucent.",
+    "Add cumin, coriander, turmeric, and cayenne pepper. Cook for 1 minute.",
+    "Add chickpeas, falafel, and tomato sauce. Stir to combine.",
+    "Add coconut milk and bring to a simmer.",
+    "Reduce heat to medium-low and cook for 15-20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve over naan or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "chickpeas",
+    "falafel"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-creamy-middle-eastern-chickpeas-falafel--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:12:36.254Z"
+}
