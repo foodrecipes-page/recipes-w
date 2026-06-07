@@ -1,0 +1,89 @@
+{
+  "slug": "wholesome-moroccan-wheat-kofta-tagne",
+  "title": "Moroccan Kofta Wraps with Wholesome Tagne",
+  "description": "A flavorful and healthy Moroccan-inspired dish featuring juicy kofta meat, served in a wholesome wrap with a side of tagne.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wholesome wraps",
+      "amount": "4",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "kofta meat",
+      "amount": "1 pound",
+      "notes": "ground lamb or beef"
+    },
+    {
+      "name": "tagne",
+      "amount": "2 cups",
+      "notes": "Moroccan stew"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine kofta meat, cumin, coriander, paprika, salt, and pepper.",
+    "Mix well with your hands until just combined.",
+    "Divide the mixture into 4 equal parts and shape into oval shapes.",
+    "Grill the kofta for 4-5 minutes per side, until cooked through.",
+    "Warm the wholesome wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by placing a cooked kofta on each wrap, then topping with tagne, onion, and a sprinkle of cumin.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "kofta",
+    "wrap",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-moroccan-wheat-kofta-tagne",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:43:23.447Z"
+}
