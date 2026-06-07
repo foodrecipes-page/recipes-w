@@ -6211,16 +6211,14 @@
   },
   {
     "slug": "warm-roasted-filipino-vegetables-pinakbet",
-    "title": "Warm Roasted Filipino Vegetables Pinakbet",
+    "title": "Pinakbet Vegetable Stir Fry",
     "tags": [
-      "comfort-food",
+      "vegetable",
       "filipino",
-      "lacto-vegetarian",
-      "one-pan",
-      "vegetarian"
+      "stir-fry"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 60,
+    "cuisine": "filipino",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -13813,16 +13811,15 @@
   },
   {
     "slug": "wholesome-croatian-peanut-paella",
-    "title": "wholesome croatian peanut paella",
+    "title": "Croatian Paella with Roasted Vegetables",
     "tags": [
       "croatian",
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan"
+      "paella",
+      "vegetarian",
+      "lunch"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": 45,
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -16256,18 +16253,16 @@
   },
   {
     "slug": "wild-fermented-indian-mushrooms-dum",
-    "title": "Wild Fermented Indian Mushrooms Dum",
+    "title": "Spicy Wild Mushroom Dumplings",
     "tags": [
-      "adventurous-eating",
-      "fermented-foods",
-      "indian-cuisine",
-      "keto-friendly",
-      "one-pan-wonder",
-      "weeknight-dinner",
-      "wild-mushrooms"
+      "indian",
+      "snack",
+      "dumplings",
+      "mushrooms",
+      "wild"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "cuisine": "indian",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
