@@ -1,0 +1,66 @@
+{
+  "slug": "warm-dense-french-muffins",
+  "title": "Stuffed French Muffins",
+  "description": "A unique twist on traditional French muffins, filled with sweet and tangy cream cheese.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "French muffins",
+      "amount": "4",
+      "notes": "preferably still warm"
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tbsp",
+      "notes": "for filling"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the French muffins in half horizontally.",
+    "In a small bowl, mix the softened cream cheese with granulated sugar, vanilla extract, and lemon zest.",
+    "Spoon the cream cheese mixture into the muffin halves.",
+    "Place the muffin tops back on and bake for 5-7 minutes, until the cheese is melted and the muffins are toasted.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "french-bakery",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-dense-french-muffins",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:46:34.626Z"
+}
