@@ -1,0 +1,82 @@
+{
+  "slug": "wholesome-croatian-peanut-paella",
+  "title": "Croatian Paella with Roasted Vegetables",
+  "description": "A hearty and flavorful paella dish with a twist of Croatian cuisine, featuring wholesome ingredients and crispy roasted vegetables.",
+  "cuisine": "Croatian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Wholesome Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Croatian Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Roasted Red Peppers",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Artichoke Hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the roasted red peppers, artichoke hearts, smoked paprika, and Croatian paprika. Cook for 2-3 minutes, until the vegetables are well combined.",
+    "Add the paella rice and cook for 1-2 minutes, until the rice is coated in the oil and slightly toasted.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "paella",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-croatian-peanut-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:08:08.628Z"
+}
