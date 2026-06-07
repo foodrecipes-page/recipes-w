@@ -1,0 +1,86 @@
+{
+  "slug": "wholesome-japanese-farfalle-pasta",
+  "title": "Japanese Pasta Salad",
+  "description": "A quick and easy salad made with farfalle pasta, wholesome ingredients, and a hint of Japanese flavors.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Farfalle pasta",
+      "amount": "8 oz",
+      "notes": "whole wheat or gluten-free"
+    },
+    {
+      "name": "Wholesome vegetables (bell peppers, carrots, cucumber)",
+      "amount": "1 cup",
+      "notes": "any combination"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or tamari for gluten-free"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tsp",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "for dressing"
+    }
+  ],
+  "instructions": [
+    "Cook farfalle pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large bowl, whisk together soy sauce, rice vinegar, grated ginger, and sesame oil.",
+    "Add the cooked pasta to the bowl and toss to combine.",
+    "Add the wholesome vegetables, toasted sesame seeds, green onions, and crushed red pepper to the bowl. Toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "pasta-salad",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-japanese-farfalle-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:35:17.986Z"
+}
