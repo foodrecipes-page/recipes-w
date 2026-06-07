@@ -1,0 +1,83 @@
+{
+  "slug": "wildly-springy-venezuelan-farfalle-pasta",
+  "title": "Venezuelan Pasta Fritters",
+  "description": "Crispy pasta fritters with a flavorful Venezuelan twist, made with wild springy farfalle pasta and a hint of Venezuelan spices.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wild Springy Farfalle Pasta",
+      "amount": "1 cup",
+      "notes": "any other short pasta shape will do"
+    },
+    {
+      "name": "Venezuelan Pasta",
+      "amount": "1/4 cup",
+      "notes": "crushed into small pieces"
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Minced Onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan Spice Blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (175°C).",
+    "Combine the farfalle pasta, Venezuelan pasta, parmesan cheese, onion, cilantro, and spice blend in a large bowl.",
+    "Beat the egg in a separate bowl and add to the pasta mixture. Mix well.",
+    "Using your hands, shape the mixture into small balls, about 1 inch in diameter.",
+    "Once the oil is hot, carefully place the pasta balls into the oil.",
+    "Fry for 2-3 minutes on each side, or until golden brown and crispy.",
+    "Remove the fritters from the oil with a slotted spoon and drain on paper towels.",
+    "Season with salt to taste. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "pasta",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wildly-springy-venezuelan-farfalle-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:57:10.889Z"
+}
