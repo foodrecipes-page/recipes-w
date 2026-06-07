@@ -1,0 +1,82 @@
+{
+  "slug": "warm-crisp-moroccan-lamb-kefta-tagine",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A traditional Moroccan stew cooked in a clay pot, flavored with aromatic spices and served over warm couscous. This dish is a perfect example of Moroccan cuisine, where the slow-cooked meat is tender and falls apart easily.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "Meat",
+    "Gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Crisp onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most Middle Eastern stores"
+    },
+    {
+      "name": "Crisp garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Warm ras el hanout",
+      "amount": "1 teaspoon",
+      "notes": "a Moroccan spice blend"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Crisp parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a clay tagine or Dutch oven over medium heat.",
+    "Add the lamb and brown on all sides, about 5 minutes.",
+    "Add the onions and cook until they start to soften, about 5 minutes.",
+    "Add the garlic, spice blend, salt, and pepper. Cook for 1 minute.",
+    "Add the chicken broth and bring to a boil.",
+    "Cover the tagine and transfer to the oven.",
+    "Bake at 300°F for 2 1/2 hours, or until the lamb is tender.",
+    "Serve over warm couscous, garnished with parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "tagine",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crisp-moroccan-lamb-kefta-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:34:58.135Z"
+}
