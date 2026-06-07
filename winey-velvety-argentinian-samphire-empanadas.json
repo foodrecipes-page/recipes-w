@@ -1,0 +1,68 @@
+{
+  "slug": "winey-velvety-argentinian-samphire-empanadas",
+  "title": "Pan-Seared Samphire with Empanadas",
+  "description": "A flavorful and savory dish that combines the taste of Argentinian empanadas with the delicate flavor of samphire.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Samphire",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian empanadas",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Winey olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing empanadas"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush empanadas with winey olive oil and season with salt and black pepper.",
+    "Place empanadas on a baking sheet and bake for 10-12 minutes, or until golden brown.",
+    "While empanadas are baking, heat a skillet over medium heat.",
+    "Add samphire to the skillet and cook for 3-5 minutes, or until tender but still crisp.",
+    "Serve samphire with warm empanadas."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "samphire",
+    "empanadas",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-velvety-argentinian-samphire-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:30:05.883Z"
+}
