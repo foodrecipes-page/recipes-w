@@ -380,19 +380,16 @@
   },
   {
     "slug": "warm-british-pecan-nuts-scotch-egg",
-    "title": "Warm British Pecan Nuts Scotch Egg",
+    "title": "Scotch Egg with Pecan Crust",
     "tags": [
-      "breakfast",
-      "british",
-      "english",
-      "high-protein",
-      "lunch",
-      "scotch-egg",
       "snack",
-      "weeknight"
+      "breakfast",
+      "lunch",
+      "british",
+      "gluten-free"
     ],
     "cuisine": "British",
-    "totalTimeMin": 40,
+    "totalTimeMin": 23,
     "shard": "w"
   },
   {
