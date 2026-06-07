@@ -7405,16 +7405,14 @@
   },
   {
     "slug": "warm-smoky-mexican-corn-elote",
-    "title": "Warm Smoky Mexican Corn Elote",
+    "title": "Grilled Elote Corn",
     "tags": [
-      "gluten-free-options",
-      "grilled-corn",
-      "hangover-cure",
-      "mexican-street-food",
-      "smoky-flavors",
-      "vegetarian-snacks"
+      "grilled",
+      "corn",
+      "elote",
+      "mexican"
     ],
-    "cuisine": "Mexican",
+    "cuisine": "mexican",
     "totalTimeMin": 27,
     "shard": "w"
   },
@@ -16676,17 +16674,15 @@
   },
   {
     "slug": "wildly-springy-venezuelan-farfalle-pasta",
-    "title": "Wildly Springy Venezuelan Farfalle Pasta",
+    "title": "Venezuelan Pasta Fritters",
     "tags": [
-      "easy-meal",
-      "low-sodium",
-      "pasta-dish",
-      "quick-fix",
-      "springy-texture",
-      "venezuelan-cuisine"
+      "venezuelan",
+      "pasta",
+      "fritters",
+      "snack"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 27,
+    "totalTimeMin": 18,
     "shard": "w"
   },
   {
