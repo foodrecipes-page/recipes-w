@@ -1140,17 +1140,18 @@
   },
   {
     "slug": "warm-comforting-malty-brazilian-all-purpose-flour-wrap",
-    "title": "Pão de Leite",
+    "title": "Warm Brazilian-Style Pão de Queijo Wrap",
     "tags": [
+      "warm",
+      "comforting",
+      "malta",
       "brazilian",
-      "easy",
-      "one-pan",
-      "snack",
-      "weeknight",
-      "wrap"
+      "cheese",
+      "wrap",
+      "pão-de-queijo"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -5697,17 +5698,16 @@
   },
   {
     "slug": "warm-nutty-venezuelan-corn-flatbread",
-    "title": "Warm Nutty Venezuelan Corn Flatbread",
+    "title": "Pabellón Flatbread with Avocado Salsa",
     "tags": [
-      "ayurvedic",
-      "gluten-free",
-      "monsoon-friendly",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "venezuelan",
+      "flatbread",
+      "avocado",
+      "cheese",
+      "beef"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -16100,13 +16100,14 @@
   },
   {
     "slug": "wicked-egyptian-cheese-sushi",
-    "title": "Wicked Egyptian Cheese Sushi",
+    "title": "Egyptian Sushi Roll",
     "tags": [
-      "egyptian",
-      "breakfast"
+      "sushi",
+      "middle-eastern",
+      "fusion"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -17964,19 +17965,16 @@
   },
   {
     "slug": "winey-velvety-argentinian-samphire-empanadas",
-    "title": "Winey Velvety Argentinian Samphire Empanadas",
+    "title": "Pan-Seared Samphire with Empanadas",
     "tags": [
       "argentinian",
-      "easy-dinner",
-      "empanada",
       "samphire",
+      "empanadas",
       "vegetarian",
-      "velvety",
-      "weeknight",
-      "wined"
+      "gluten-free"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 70,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
