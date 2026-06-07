@@ -1,0 +1,68 @@
+{
+  "slug": "wholesome-wilted-greek-bramley-apples-hot-pot-vessel-stew",
+  "title": "Bramley Apple Stew",
+  "description": "A hearty and comforting stew made with tender Bramley apples, perfect for a chilly evening.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bramley apples",
+      "amount": "3-4",
+      "notes": "any variety of cooking apples"
+    },
+    {
+      "name": "Wholesome stewing steak (or beef)",
+      "amount": "500g",
+      "notes": "optional for added protein"
+    },
+    {
+      "name": "Vessel of water",
+      "amount": "",
+      "notes": "for simmering"
+    },
+    {
+      "name": "Pot of stewing liquid",
+      "amount": "200ml",
+      "notes": "beef or vegetable stock"
+    },
+    {
+      "name": "Greek olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "1. Peel, core and chop the Bramley apples into chunks.",
+    "2. If using stewing steak, cut it into bite-sized pieces and season with salt and pepper.",
+    "3. In a large pot or Dutch oven, heat the olive oil over medium heat.",
+    "4. Add the chopped apples and sauté for 5 minutes, until they start to soften.",
+    "5. Add the stewing steak (if using) and cook for a further 2-3 minutes.",
+    "6. Pour in the stewing liquid and bring the mixture to a simmer.",
+    "7. Reduce the heat to low and let the stew cook for 30-40 minutes, or until the apples are tender.",
+    "8. Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stew",
+    "apples",
+    "beef",
+    "british-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-wilted-greek-bramley-apples-hot-pot-vessel-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:45:19.664Z"
+}
