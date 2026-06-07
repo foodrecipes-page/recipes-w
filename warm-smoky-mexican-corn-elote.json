@@ -1,0 +1,91 @@
+{
+  "slug": "warm-smoky-mexican-corn-elote",
+  "title": "Grilled Elote Corn",
+  "description": "A delicious and easy-to-make Mexican side dish, perfect for summer gatherings. Grilled corn on the cob slathered with a warm, smoky, and creamy sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "corn on the cob",
+      "amount": "4 ears",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "cotija cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Shuck corn, removing husks and silk. Grill corn for 10-12 minutes, turning frequently, until slightly charred.",
+    "In a small bowl, whisk together butter, mayonnaise (if using), cotija cheese, chili powder, lime juice, cayenne pepper (if using), salt, and black pepper.",
+    "Once corn is cooked, brush with the butter mixture. Sprinkle with remaining cotija cheese and a drizzle of honey (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "corn",
+    "elote",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-mexican-corn-elote",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:44:44.992Z"
+}
