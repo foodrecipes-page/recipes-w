@@ -1,0 +1,90 @@
+{
+  "slug": "warm-nutty-venezuelan-corn-flatbread",
+  "title": "Pabellón Flatbread with Avocado Salsa",
+  "description": "A Venezuelan-inspired flatbread topped with crispy cheese, savory ground beef, and a fresh avocado salsa.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 sheet",
+      "notes": "preferably warm"
+    },
+    {
+      "name": "Grated Queso Fresco",
+      "amount": "1/2 cup",
+      "notes": "or other crumbly cheese"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1/2 pound",
+      "notes": "cooked to 160°F (71°C)"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 ripe",
+      "notes": "diced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Corn",
+      "amount": "1/4 cup",
+      "notes": "fresh or frozen, thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook the flatbread for 5-7 minutes, or until warm and slightly puffed.",
+    "In a pan, cook the ground beef over medium-high heat until browned, breaking into small pieces.",
+    "Add the diced onion, cooked corn, and a pinch of salt to the pan. Cook for an additional 2-3 minutes.",
+    "Stir in the grated Queso Fresco until melted and well combined.",
+    "Meanwhile, mix the diced avocado, chopped cilantro, and lime juice in a bowl.",
+    "To assemble the flatbread, place the cooked beef mixture on one half of the flatbread, leaving a 1-inch border around the edges.",
+    "Top with the avocado salsa and fold the flatbread in half to enclose.",
+    "Cut into wedges and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "flatbread",
+    "avocado",
+    "cheese",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-nutty-venezuelan-corn-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:23:54.988Z"
+}
