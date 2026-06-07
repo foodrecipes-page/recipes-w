@@ -1,0 +1,86 @@
+{
+  "slug": "wild-fermented-indian-mushrooms-dum",
+  "title": "Spicy Wild Mushroom Dumplings",
+  "description": "A fusion of wild mushroom flavors with the comforting warmth of Indian spices, wrapped in a tender dumpling wrapper.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wild Mushrooms",
+      "amount": "200g",
+      "notes": "Assorted wild mushrooms such as shiitake and cremini"
+    },
+    {
+      "name": "Fermented Dumpling Dough",
+      "amount": "1 package",
+      "notes": "Available in most Asian grocery stores"
+    },
+    {
+      "name": "Indian Spices",
+      "amount": "2 tsp",
+      "notes": "Garam masala, cumin, coriander, and turmeric"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. In a pan, sauté the chopped onion, minced garlic, and grated ginger until softened.",
+    "2. Add the wild mushrooms and Indian spices, cooking until the mushrooms release their liquid and start to brown.",
+    "3. Allow the mixture to cool, then mix in the soy sauce (if using) and season with salt to taste.",
+    "4. Divide the fermented dumpling dough into small balls, about the size of a golf ball.",
+    "5. Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "6. Place a tablespoon of the mushroom mixture in the center of each circle.",
+    "7. Fold the dough over the filling, forming a half-moon shape, and press the edges together to seal.",
+    "8. Bring a large pot of water to a boil, and gently add the dumplings.",
+    "9. Cook for 10-15 minutes, or until the dumplings float to the surface.",
+    "10. Remove the dumplings with a slotted spoon, and serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "dumplings",
+    "mushrooms",
+    "wild"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wild-fermented-indian-mushrooms-dum",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:12:02.481Z"
+}
