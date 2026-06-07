@@ -1,0 +1,66 @@
+{
+  "slug": "warm-japanese-potato-okonomiyaki",
+  "title": "Japanese Okonomiyaki Pancake",
+  "description": "A popular Japanese savory pancake made with batter, cabbage, and various toppings.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head, shredded"
+    },
+    {
+      "name": "Batter Mix",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Shrimp (optional)",
+      "amount": "1/2 pound, peeled and chopped"
+    },
+    {
+      "name": "Bamboo Shoots (optional)",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "Green Onion",
+      "amount": "1/4 cup, thinly sliced"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine cabbage and batter mix.",
+    "Add soy sauce and sesame oil to the bowl and mix well.",
+    "If using shrimp or bamboo shoots, add them to the bowl and mix.",
+    "Heat a non-stick pan or okonomiyaki pan over medium heat.",
+    "Add 1/4 cup of the cabbage-batter mixture to the pan and cook for 2-3 minutes.",
+    "Loosen the pancake with a spatula and flip it over. Cook for another 2-3 minutes.",
+    "Repeat with the remaining mixture, forming 4-6 pancakes.",
+    "Serve hot with green onion and your favorite toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "pancake",
+    "savory",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-japanese-potato-okonomiyaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:46:09.818Z"
+}
