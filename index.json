@@ -4727,17 +4727,15 @@
   },
   {
     "slug": "warm-japanese-potato-okonomiyaki",
-    "title": "Warm Japanese Potato Okonomiyaki",
+    "title": "Japanese Okonomiyaki Pancake",
     "tags": [
-      "coconut-cream",
-      "crowd-pleaser",
-      "japanese-cuisine",
-      "lazy-susan-spinner",
-      "potato-buns",
-      "savory-dish"
+      "japanese",
+      "pancake",
+      "savory",
+      "vegetarian"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 36,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -16006,15 +16004,15 @@
   },
   {
     "slug": "wholesome-wilted-greek-bramley-apples-hot-pot-vessel-stew",
-    "title": "Wholesome Wilted Greek Bramley apples Hot-Pot-Vessel Stew",
+    "title": "Bramley Apple Stew",
     "tags": [
-      "greek-bitter",
-      "hot-pot-vessel",
-      "satvik-friendly",
-      "wholesome"
+      "stew",
+      "apples",
+      "beef",
+      "british-cuisine"
     ],
-    "cuisine": "greek",
-    "totalTimeMin": 35,
+    "cuisine": "British",
+    "totalTimeMin": 60,
     "shard": "w"
   },
   {
