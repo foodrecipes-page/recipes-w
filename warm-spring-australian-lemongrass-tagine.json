@@ -1,0 +1,87 @@
+{
+  "slug": "warm-spring-australian-lemongrass-tagine",
+  "title": "Australian Spring Lamb Tagine",
+  "description": "A tender lamb tagine infused with the fresh flavors of spring and a hint of Australian spices.",
+  "cuisine": "australian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "4 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Spring onions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Australian olive oil",
+      "amount": "60ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "for garnish"
+    },
+    {
+      "name": "Warm spices (cumin, coriander, cinnamon)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 150°C (300°F).",
+    "Season the lamb shoulder with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add the chopped lemongrass, spring onions, and garlic to the pot. Cook, stirring occasionally, until the vegetables are softened, about 5 minutes.",
+    "Add the warm spices to the pot and cook, stirring constantly, for 1 minute.",
+    "Return the lamb shoulder to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise the lamb for 2.5 hours, or until tender and falling apart.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the lamb with two forks and season with salt and black pepper to taste.",
+    "Serve the lamb tagine garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "lamb",
+    "spring",
+    "tagine",
+    "lemongrass"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 52,
+    "carbs": 10,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spring-australian-lemongrass-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:44:12.641Z"
+}
