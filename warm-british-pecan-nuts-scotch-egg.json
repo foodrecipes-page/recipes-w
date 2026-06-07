@@ -1,0 +1,81 @@
+{
+  "slug": "warm-british-pecan-nuts-scotch-egg",
+  "title": "Scotch Egg with Pecan Crust",
+  "description": "A British classic with a warm twist, this Scotch egg features a pecan crust adding a delicious nutty flavor.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "4 large eggs, hard-boiled and peeled",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "8 oz (225g) ground pork",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup (30g) finely chopped pecans",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp (30g) all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp (5g) salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp (2g) black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup (60g) butter, melted",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the ground pork, salt, and black pepper.",
+    "Mix well until just combined.",
+    "Divide the pork mixture into 4 equal parts and shape each part around a hard-boiled egg, pressing the meat around the egg to seal any gaps.",
+    "In a shallow dish, mix together the flour, chopped pecans, and a pinch of salt.",
+    "Dip each meat-covered egg into the flour mixture, coating all sides evenly.",
+    "Place the coated eggs on a plate or tray.",
+    "Heat the melted butter in a large frying pan over medium heat.",
+    "When the butter is hot, add the coated eggs to the pan and cook for 4-5 minutes on each side, or until golden brown.",
+    "Remove the eggs from the pan and place them on a paper towel-lined plate to drain any excess oil.",
+    "Serve the Scotch eggs warm, garnished with chopped chives or parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "breakfast",
+    "lunch",
+    "british",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 364,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-british-pecan-nuts-scotch-egg",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:18:30.393Z"
+}
