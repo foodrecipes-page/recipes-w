@@ -2581,17 +2581,15 @@
   },
   {
     "slug": "warm-dense-french-muffins",
-    "title": "Warm Dense French Muffins",
+    "title": "Stuffed French Muffins",
     "tags": [
-      "breakfast-treats",
-      "candy-filled",
-      "french-pastry",
-      "homemade-muffins",
-      "low-fat",
-      "warm-baked-goods"
+      "breakfast",
+      "brunch",
+      "french-bakery",
+      "dessert"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 35,
+    "cuisine": "french",
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
@@ -8990,17 +8988,16 @@
   },
   {
     "slug": "warm-spring-australian-lemongrass-tagine",
-    "title": "Warm Spring Australian Lemongrass Tagine",
+    "title": "Australian Spring Lamb Tagine",
     "tags": [
       "australian",
-      "citrusy",
-      "one-pan",
+      "lamb",
       "spring",
-      "warm",
-      "weeknight"
+      "tagine",
+      "lemongrass"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 190,
     "shard": "w"
   },
   {
@@ -14899,15 +14896,15 @@
   },
   {
     "slug": "wholesome-moroccan-wheat-kofta-tagne",
-    "title": "Wholesome Moroccan Wheat Kofta-Tagne",
+    "title": "Moroccan Kofta Wraps with Wholesome Tagne",
     "tags": [
       "moroccan",
-      "post-workout",
-      "vegetarian-friendly",
-      "wholesome"
+      "kofta",
+      "wrap",
+      "gluten-free"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
