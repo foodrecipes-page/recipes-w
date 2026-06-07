@@ -1444,16 +1444,15 @@
   },
   {
     "slug": "warm-crisp-moroccan-lamb-kefta-tagine",
-    "title": "Warm Crisp Moroccan Lamb Kefta Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "lamb-recipes",
-      "moroccan-food",
-      "one-pan",
-      "weeknight-dinners"
+      "moroccan",
+      "lamb",
+      "tagine",
+      "couscous"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 165,
     "shard": "w"
   },
   {
@@ -12485,17 +12484,15 @@
   },
   {
     "slug": "warmly-toasted-american-almond-casserole",
-    "title": "Warmly Toasted American Almond Casserole",
+    "title": "Warmly Toasted American Casserole",
     "tags": [
-      "almond-based",
-      "american-dish",
-      "crispy-dessert",
-      "midnight-craving",
-      "plant-based",
-      "slow-cooked"
+      "american",
+      "bread",
+      "cheese",
+      "casserole"
     ],
     "cuisine": "American",
-    "totalTimeMin": 70,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
