@@ -1,0 +1,71 @@
+{
+  "slug": "warm-comforting-malty-brazilian-all-purpose-flour-wrap",
+  "title": "Warm Brazilian-Style Pão de Queijo Wrap",
+  "description": "A warm, cheesy, and comforting Brazilian-style wrap made with pão de queijo filling and wrapped in a crispy all-purpose flour pastry.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "warm water",
+      "amount": "1/2 cup",
+      "notes": "warm to the touch"
+    },
+    {
+      "name": "malty syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Brazilian cheese (queijo)",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "wrap (all-purpose flour)",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the flour and warm water to form a dough.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Roll out the dough into a large circle, about 1/4 inch thick.",
+    "Place the dough into a greased baking sheet.",
+    "Bake the dough in the preheated oven for 15-20 minutes, or until it becomes crispy and golden brown.",
+    "While the dough is baking, prepare the pão de queijo filling by mixing the malty syrup and Brazilian cheese in a bowl.",
+    "Once the dough is done, remove it from the oven and let it cool for a few minutes.",
+    "Spread the pão de queijo filling onto the dough, leaving a small border around the edges.",
+    "Roll up the dough tightly and slice it into 1-inch thick rounds.",
+    "Serve the warm Brazilian-style pão de queijo wrap immediately, garnished with additional shredded cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "warm",
+    "comforting",
+    "malta",
+    "brazilian",
+    "cheese",
+    "wrap",
+    "pão-de-queijo"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-comforting-malty-brazilian-all-purpose-flour-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:15:18.395Z"
+}
