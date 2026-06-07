@@ -1,0 +1,91 @@
+{
+  "slug": "warm-roasted-filipino-vegetables-pinakbet",
+  "title": "Pinakbet Vegetable Stir Fry",
+  "description": "A classic Filipino vegetable dish made with a variety of vegetables and a savory sauce. This recipe is easy to make and can be customized with your favorite vegetables.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Taro",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Kabocha Squash",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Bok Choy",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Long Green Chili",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Patis (Fish Sauce)",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Sauté the onion and garlic until softened.",
+    "Add the taro, kabocha squash, and bok choy. Cook until the vegetables are tender.",
+    "Add the long green chili, patis, and vinegar. Stir well to combine.",
+    "Add the tomato and stir well to combine.",
+    "Season with salt to taste.",
+    "Serve hot over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetable",
+    "filipino",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-roasted-filipino-vegetables-pinakbet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:03:25.097Z"
+}
