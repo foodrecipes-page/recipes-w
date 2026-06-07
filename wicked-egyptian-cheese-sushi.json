@@ -1,0 +1,80 @@
+{
+  "slug": "wicked-egyptian-cheese-sushi",
+  "title": "Egyptian Sushi Roll",
+  "description": "A unique fusion of Egyptian and sushi flavors in a roll. The spicy kick of the wicked seasoning pairs well with the savory flavor of the cheese.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Egyptian flatbread",
+      "amount": "1 sheet",
+      "notes": "available at most middle eastern markets"
+    },
+    {
+      "name": "Sushi rice",
+      "amount": "1 cup",
+      "notes": "prepared according to sushi rice instructions"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": "any type of cheese works, but mozzarella is recommended"
+    },
+    {
+      "name": "Wicked seasoning",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Pickled turnips",
+      "amount": "1/4 cup",
+      "notes": "available at most middle eastern markets"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "garnish"
+    },
+    {
+      "name": "Sushi nori",
+      "amount": "1 sheet",
+      "notes": "available at most sushi markets"
+    }
+  ],
+  "instructions": [
+    "Prepare the sushi rice according to the instructions.",
+    "Cut the Egyptian flatbread into thin strips.",
+    "Mix the wicked seasoning with the shredded cheese.",
+    "Add the pickled turnips to the cheese mixture and mix well.",
+    "Lay a sheet of sushi nori flat on a cutting board.",
+    "Spread a thin layer of sushi rice onto the nori.",
+    "Place a few strips of the Egyptian flatbread on top of the rice.",
+    "Add the cheese-pickled turnip mixture on top of the flatbread.",
+    "Roll the sushi using a bamboo sushi mat.",
+    "Slice into individual rolls and garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sushi",
+    "middle-eastern",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wicked-egyptian-cheese-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:13:12.289Z"
+}
