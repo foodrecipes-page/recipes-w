@@ -1,0 +1,94 @@
+{
+  "slug": "warm-malaysian-chicken-noodles",
+  "title": "Spicy Malaysian Chicken Noodle Soup",
+  "description": "A flavorful and comforting soup inspired by the warm and aromatic flavors of Malaysia. This spicy and savory dish features tender chicken and springy noodles in a rich and slightly spicy broth.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package (8 ounces)",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 ounces)",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sriracha",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add onion, garlic, and ginger and cook until onion is translucent.",
+    "Pour in chicken broth and bring to a boil.",
+    "Reduce heat to medium-low and simmer for 10 minutes.",
+    "Stir in coconut milk and fish sauce.",
+    "Add noodles and cook according to package instructions.",
+    "Season with sriracha to taste.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "chicken",
+    "noodles",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-malaysian-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:02:21.987Z"
+}
