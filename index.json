@@ -1721,17 +1721,15 @@
   },
   {
     "slug": "warm-crispy-german-potato-hash",
-    "title": "Warm Crispy German Potato Hash",
+    "title": "German Potato Hash",
     "tags": [
-      "brunch-recipe",
-      "crispy-hash",
-      "german-cuisine",
-      "gluten-free",
-      "potato-hash",
-      "whole30"
+      "german",
+      "potato",
+      "breakfast",
+      "side-dish"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 25,
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -7114,18 +7112,15 @@
   },
   {
     "slug": "warm-smoky-chinese-pork-skewers",
-    "title": "Warm Smoky Chinese Pork Skewers",
+    "title": "Smoked Pork Skewers",
     "tags": [
+      "asian",
       "chinese",
-      "gluten-free",
-      "pork",
-      "romantic",
-      "skewers",
-      "smoky",
-      "yunnan"
+      "grilling",
+      "pork"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 27,
     "shard": "w"
   },
   {
@@ -9868,15 +9863,17 @@
   },
   {
     "slug": "warm-vietnamese-lamb-kidney-bowl",
-    "title": "Warm Vietnamese Lamb Kidney Bowl",
+    "title": "Vietnamese Lamb Bowl",
     "tags": [
-      "high-protein",
-      "lazy-sunday",
-      "one-pan",
-      "weeknight"
+      "vietnamese",
+      "lamb",
+      "grilled",
+      "bowls",
+      "easy-to-make",
+      "flavorful"
     ],
     "cuisine": "vietnamese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -11431,17 +11428,16 @@
   },
   {
     "slug": "warmly-grilled-australian-sirloin-steak-wrap",
-    "title": "Warmly Grilled Australian Sirloin Steak Wrap",
+    "title": "Australian Grilled Sirloin Steak Wrap",
     "tags": [
-      "australian-cuisine",
-      "grilled-steak",
-      "healthy-lunch",
-      "high-protein",
-      "pescatarian-friendly",
-      "post-workout"
+      "australian",
+      "grilled",
+      "beef",
+      "wrap",
+      "lunch"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "cuisine": "australian",
+    "totalTimeMin": 22,
     "shard": "w"
   },
   {
