@@ -1,0 +1,86 @@
+{
+  "slug": "warmly-grilled-australian-sirloin-steak-wrap",
+  "title": "Australian Grilled Sirloin Steak Wrap",
+  "description": "A flavorful and quick meal featuring grilled sirloin steak wrapped in a warm tortilla.",
+  "cuisine": "australian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "grilled sirloin steak",
+      "amount": "1 (6 oz) steak",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "australian wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "lettuce",
+      "amount": "2 cups, shredded",
+      "notes": "fresh"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium, sliced",
+      "notes": "fresh"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium, thinly sliced",
+      "notes": "fresh"
+    },
+    {
+      "name": "Australian aioli",
+      "amount": "2 tbsp",
+      "notes": "or mayonnaise"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "kosher or sea salt"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season sirloin steak with salt and pepper.",
+    "Grill steak for 5-7 minutes per side, or until it reaches a safe internal temperature of 130°F - 135°F for medium-rare.",
+    "Let the steak rest for 5 minutes before slicing it thinly against the grain.",
+    "Meanwhile, toast the tortilla on the grill for 30 seconds to 1 minute, or until it is warm and pliable.",
+    "Assemble the wrap by spreading Australian aioli on the tortilla, then adding sliced steak, lettuce, tomato, red onion, and cilantro (if using).",
+    "Season with salt and pepper to taste, then fold the bottom half of the tortilla up over the filling and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "grilled",
+    "beef",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-grilled-australian-sirloin-steak-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:45:31.337Z"
+}
