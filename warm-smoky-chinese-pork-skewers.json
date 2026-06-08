@@ -1,0 +1,81 @@
+{
+  "slug": "warm-smoky-chinese-pork-skewers",
+  "title": "Smoked Pork Skewers",
+  "description": "A simple and flavorful recipe for pork skewers with a smoky twist. Perfect for a quick summer dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, thinly sliced",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Wood chips or chunks (for smoking)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ginger, minced",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Green onions, sliced",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Thread the pork pieces onto skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together soy sauce, brown sugar, garlic, and ginger. Brush the mixture evenly onto both sides of the pork.",
+    "Place the skewers on the grill and cook for 5-7 minutes per side, or until the pork reaches an internal temperature of 145°F.",
+    "While the pork is cooking, mix together olive oil and sesame seeds in a small bowl.",
+    "Once the pork is cooked, brush the sesame oil mixture onto the skewers.",
+    "Transfer the skewers to a serving platter and garnish with green onions.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "chinese",
+    "grilling",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-chinese-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T17:12:03.570Z"
+}
