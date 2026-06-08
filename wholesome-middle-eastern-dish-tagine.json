@@ -1,0 +1,113 @@
+{
+  "slug": "wholesome-middle-eastern-dish-tagine",
+  "title": "Spiced Chicken Tagine with Apricots and Almonds",
+  "description": "A hearty and aromatic North African stew made with chicken, dried fruits, and nuts, slow-cooked in a clay pot.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "slivered almonds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a clay pot or Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic, ginger, cumin, coriander, cinnamon, and cayenne pepper. Cook for 1 minute.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add apricots, almonds, broth, honey, and lemon juice.",
+    "Bring to a boil, then cover and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chicken",
+    "tagine",
+    "apricots",
+    "almonds"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-middle-eastern-dish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:25:58.047Z"
+}
