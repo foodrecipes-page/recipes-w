@@ -1,0 +1,77 @@
+{
+  "slug": "warm-peppery-middle-eastern-cauliflower-ouzi",
+  "title": "Cauliflower Ouzi",
+  "description": "A warm and flavorful eastern dish made with roasted cauliflower and a blend of spices.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "warm spices (optional)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the cauliflower and break it into florets.",
+    "In a large bowl, whisk together olive oil, garlic, cumin, coriander, paprika, salt, and pepper.",
+    "Add the cauliflower to the bowl and toss to coat with the spice mixture.",
+    "Spread the cauliflower on a baking sheet and roast for 20-25 minutes, or until tender and lightly browned.",
+    "Remove the cauliflower from the oven and let it cool slightly.",
+    "In a small bowl, whisk together lemon juice and warm spices (if using).",
+    "Drizzle the lemon juice mixture over the cauliflower and toss to coat.",
+    "Serve the cauliflower hot, garnished with additional warm spices if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cauliflower",
+    "middle-eastern"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-peppery-middle-eastern-cauliflower-ouzi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:36:33.351Z"
+}
