@@ -1,0 +1,83 @@
+{
+  "slug": "wholesome-peruvian-quinoa-salad",
+  "title": "Peruvian Quinoa Salad",
+  "description": "A vibrant salad made with quinoa, wholesome ingredients, and inspired by Peruvian flavors.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Wholesome Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Peruvian Corn",
+      "amount": "1 cup",
+      "notes": "Fresh or canned"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Salad",
+      "amount": "4 cups",
+      "notes": "Mixed greens"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the quinoa in a fine mesh strainer and drain well.",
+    "2. In a medium saucepan, heat the vegetable oil over medium heat.",
+    "3. Add the diced red onion and cook until softened, about 3-4 minutes.",
+    "4. Add the quinoa to the saucepan and cook for 1-2 minutes, stirring constantly.",
+    "5. Add 2 cups of water to the saucepan and bring to a boil.",
+    "6. Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the quinoa is tender and the water has been absorbed.",
+    "7. Fluff the cooked quinoa with a fork and let cool to room temperature.",
+    "8. In a large bowl, combine the cooled quinoa, diced cucumber, Peruvian corn, and diced tomato.",
+    "9. In a small bowl, whisk together a vinaigrette of your choice (e.g., olive oil and lime juice).",
+    "10. Drizzle the vinaigrette over the quinoa mixture and toss to combine.",
+    "11. Serve the Peruvian Quinoa Salad chilled, garnished with additional Peruvian corn and a sprinkle of chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "quinoa",
+    "salad",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-peruvian-quinoa-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:09:01.845Z"
+}
