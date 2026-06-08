@@ -1,0 +1,82 @@
+{
+  "slug": "warmly-spiced-portuguese-chicken-braise",
+  "title": "Warmly Spiced Chicken Braise",
+  "description": "A hearty, comforting chicken dish infused with the warmth of spices, inspired by traditional Portuguese cuisine.",
+  "cuisine": "portuguese",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4-6",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "warmly spiced portuguese saffron",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and garlic; cook until softened, about 5 minutes.",
+    "Add chicken; cook until browned on all sides, about 5-7 minutes.",
+    "Add warmly spiced portuguese saffron, chicken broth, red wine, bay leaves, salt, and pepper.",
+    "Bring to a boil; cover and transfer to the oven.",
+    "Braise at 300°F (150°C) for 25-30 minutes or until chicken is cooked through.",
+    "Remove bay leaves; serve warm, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "portuguese",
+    "braise",
+    "spiced"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-portuguese-chicken-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:52:32.544Z"
+}
