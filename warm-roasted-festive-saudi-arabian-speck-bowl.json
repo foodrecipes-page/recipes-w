@@ -1,0 +1,96 @@
+{
+  "slug": "warm-roasted-festive-saudi-arabian-speck-bowl",
+  "title": "Saudi Arabian Speck Feast",
+  "description": "A hearty, flavorful dish from Saudi Arabia, perfect for a festive occasion.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "meat-lovers",
+    "high-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice (Bowl rice)",
+      "amount": "1 cup",
+      "notes": "preferably basmati"
+    },
+    {
+      "name": "Speck (German bacon)",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Warm pita bread",
+      "amount": "4-6 pieces",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the diced speck and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic, cumin, coriander, cayenne pepper (if using), salt, and black pepper. Cook for 1 minute.",
+    "Add the cooked rice to the skillet and stir to combine with the spice mixture.",
+    "Cook for an additional 2-3 minutes, until the rice is heated through.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for a few minutes.",
+    "Serve the rice mixture in a bowl, topped with warm pita bread and a side of your choice.",
+    "Garnish with fresh herbs, such as parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "arabian",
+    "speck",
+    "festive",
+    "meatlovers"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-roasted-festive-saudi-arabian-speck-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:09:44.667Z"
+}
