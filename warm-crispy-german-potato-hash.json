@@ -1,0 +1,73 @@
+{
+  "slug": "warm-crispy-german-potato-hash",
+  "title": "German Potato Hash",
+  "description": "A crispy potato dish inspired by German cuisine, perfect as a side or light meal.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Warm German Mustard",
+      "amount": "2 tbsp",
+      "notes": "or substitute with Dijon mustard"
+    },
+    {
+      "name": "Crispy Bacon",
+      "amount": "4-6 slices",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine diced potatoes, onion, garlic, and warm German mustard. Toss to coat.",
+    "Transfer the potato mixture to a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until the potatoes are golden brown, flipping halfway through.",
+    "While the potatoes are baking, cook the crispy bacon in a pan until crispy. Crumble into small pieces.",
+    "Once the potatoes are done, remove from the oven and top with crumbled bacon and grated cheddar cheese.",
+    "Return to the oven and bake for an additional 2-3 minutes or until the cheese is melted and bubbly.",
+    "Remove from the oven and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "potato",
+    "breakfast",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-german-potato-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T17:01:57.639Z"
+}
