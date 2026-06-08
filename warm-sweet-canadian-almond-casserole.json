@@ -1,0 +1,79 @@
+{
+  "slug": "warm-sweet-canadian-almond-casserole",
+  "title": "Almond Canadian Casserole",
+  "description": "A warm and sweet Canadian dessert casserole made with almonds. It's a delicious treat to enjoy during the winter months.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Canadian maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Chopped almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Grease a 9x13-inch baking dish with butter and set aside.",
+    "In a large mixing bowl, whisk together the almond flour, sugar, and salt.",
+    "In a separate bowl, whisk together the eggs, maple syrup, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and mix until well combined.",
+    "Stir in the chopped almonds and all-purpose flour.",
+    "Pour the batter into the prepared baking dish and smooth the top.",
+    "Bake for 25-30 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "almond",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-sweet-canadian-almond-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:31:50.535Z"
+}
