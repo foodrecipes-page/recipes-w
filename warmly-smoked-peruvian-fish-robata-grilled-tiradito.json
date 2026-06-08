@@ -1,0 +1,72 @@
+{
+  "slug": "warmly-smoked-peruvian-fish-robata-grilled-tiradito",
+  "title": "Smoked Fish Tiradito",
+  "description": "A Peruvian-inspired dish featuring smoked fish, mixed with citrus and spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Warmly smoked fish (such as trout or salmon)",
+      "amount": "1/2 pound",
+      "notes": "preferably smoked in-house"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Peruvian aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Tiradito seasoning blend",
+      "amount": "1 tablespoon",
+      "notes": "available at most Latin American markets"
+    }
+  ],
+  "instructions": [
+    "Combine thinly sliced red onion and chopped aji amarillo peppers in a bowl.",
+    "Add freshly squeezed lime juice and mix well.",
+    "Grate smoked fish over the mixture and toss to combine.",
+    "Season with tiradito seasoning blend and mix well.",
+    "Drizzle with extra virgin olive oil, if desired.",
+    "Cover and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "Serve chilled, garnished with additional chopped aji amarillo peppers, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "seafood",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 6,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-smoked-peruvian-fish-robata-grilled-tiradito",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:42:27.554Z"
+}
