@@ -15,16 +15,15 @@
   },
   {
     "slug": "wadventurous-yeasty-gooey-digestive-biscuit-pilaf",
-    "title": "WAdventurous Yeasty Gooey Digestive Biscuit Pilaf",
+    "title": "Wadventurous Pilaf Bake",
     "tags": [
-      "digestive-biscuit-pilaf",
-      "nimono-simmer",
-      "satvik-friendly",
-      "wadventurous",
-      "wooden-board"
+      "pilaf",
+      "biscuit",
+      "cheese",
+      "middle eastern"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 20,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -6195,17 +6194,16 @@
   },
   {
     "slug": "warm-roasted-festive-saudi-arabian-speck-bowl",
-    "title": "Warm Roasted Festive Saudi-Arabian Speck Bowl",
+    "title": "Saudi Arabian Speck Feast",
     "tags": [
+      "saudi",
+      "arabian",
+      "speck",
       "festive",
-      "high-protein",
-      "one-pan",
-      "saudi-arabian",
-      "weeknight",
-      "winter"
+      "meatlovers"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 45,
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -15048,17 +15046,16 @@
   },
   {
     "slug": "wholesome-peruvian-quinoa-salad",
-    "title": "Wholesome Peruvian Quinoa Salad",
+    "title": "Peruvian Quinoa Salad",
     "tags": [
-      "gluten-free",
-      "no-garlic",
-      "no-onion",
       "peruvian",
       "quinoa",
-      "vegetable-salad"
+      "salad",
+      "vegan",
+      "gluten-free"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
