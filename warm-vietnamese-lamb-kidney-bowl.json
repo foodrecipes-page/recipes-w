@@ -1,0 +1,96 @@
+{
+  "slug": "warm-vietnamese-lamb-kidney-bowl",
+  "title": "Vietnamese Lamb Bowl",
+  "description": "A flavorful and nutritious bowl filled with grilled lamb, pickled vegetables, and a spicy sauce.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "lamb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "500g",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "lime",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "100g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season lamb with salt, pepper, and chili flakes.",
+    "Grill lamb for 5-6 minutes per side, or until cooked through.",
+    "In a blender, combine lime juice, fish sauce, sugar, and 2 tbsp water. Blend until smooth.",
+    "In a large bowl, combine cucumber, carrots, mint, and pickled carrots.",
+    "Cook rice noodles according to package instructions.",
+    "Slice grilled lamb into thin strips.",
+    "Assemble bowls by placing noodles on bottom, followed by lamb, vegetables, and sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "lamb",
+    "grilled",
+    "bowls",
+    "easy-to-make",
+    "flavorful"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": "35g",
+    "carbs": "60g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-vietnamese-lamb-kidney-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T16:26:18.724Z"
+}
