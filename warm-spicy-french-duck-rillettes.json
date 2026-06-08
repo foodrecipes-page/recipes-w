@@ -1,0 +1,98 @@
+{
+  "slug": "warm-spicy-french-duck-rillettes",
+  "title": "Pan-Seared Duck Breast with Spicy Rillettes",
+  "description": "A French-inspired dish featuring pan-seared duck breast served with a side of spicy rillettes.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "4",
+      "notes": "2 breasts, 6 oz each"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "spicy"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "flaky"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Rillettes",
+      "amount": "1/4 cup",
+      "notes": "spicy, store-bought or homemade"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "high-quality"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season duck breast with salt, black pepper, and red pepper flakes.",
+    "Heat olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear duck breast for 2-3 minutes on each side, then transfer to the oven.",
+    "Roast duck breast for 12-15 minutes, or until cooked to your liking.",
+    "While the duck is cooking, cook the bacon in the skillet until crispy.",
+    "Remove the bacon from the skillet and set aside.",
+    "Add the sliced onion to the skillet and cook until softened.",
+    "Add the garlic and cook for 1 minute.",
+    "Stir in the rillettes and cook for 1-2 minutes, until heated through.",
+    "To serve, slice the duck breast and serve with the spicy rillettes and crispy bacon.",
+    "Garnish with fresh thyme."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "duck",
+    "rillettes",
+    "spicy",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 6,
+    "fat": 37
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-french-duck-rillettes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:59:15.743Z"
+}
