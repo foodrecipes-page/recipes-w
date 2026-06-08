@@ -1,0 +1,92 @@
+{
+  "slug": "wilted-briny-olives-mediterranean-pilaf",
+  "title": "Wilted Olive Pilaf",
+  "description": "A flavorful and easy-to-make pilaf dish featuring wilted olives and a mediterranean twist.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olives, pitted",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "arborio rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the arborio rice and cook for 1-2 minutes, until lightly toasted.",
+    "Add the chicken broth, 1 cup at a time, stirring continuously until the liquid is absorbed.",
+    "Stir in the wilted olives, dried thyme, salt, and black pepper.",
+    "Reduce heat to low and simmer, covered, for 15-20 minutes, or until the rice is tender.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Garnish with additional olives, if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "vegetarian",
+    "gluten-free",
+    "easy",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-briny-olives-mediterranean-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:41:41.205Z"
+}
