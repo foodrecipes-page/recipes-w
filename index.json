@@ -11697,17 +11697,14 @@
   },
   {
     "slug": "warmly-smoked-peruvian-fish-robata-grilled-tiradito",
-    "title": "Warmly Smoked Peruvian Fish Robata-Grilled Tiradito",
+    "title": "Smoked Fish Tiradito",
     "tags": [
-      "adventurous",
-      "fish-based",
-      "jain",
       "peruvian",
-      "robata-grill",
-      "vegetarian"
+      "seafood",
+      "appetizer"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
@@ -12270,18 +12267,15 @@
   },
   {
     "slug": "warmly-spiced-portuguese-chicken-braise",
-    "title": "warmly spiced portuguese chicken braise",
+    "title": "Warmly Spiced Chicken Braise",
     "tags": [
-      "date-night",
-      "flexitarian",
-      "grilled",
-      "high-protein",
-      "one-pan",
+      "chicken",
       "portuguese",
-      "weeknight"
+      "braise",
+      "spiced"
     ],
     "cuisine": "portuguese",
-    "totalTimeMin": 75,
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
