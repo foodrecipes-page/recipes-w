@@ -5779,17 +5779,13 @@
   },
   {
     "slug": "warm-peppery-middle-eastern-cauliflower-ouzi",
-    "title": "Warm, Peppery Middle-Eastern Cauliflower Ouzi",
+    "title": "Cauliflower Ouzi",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "vegan-option",
-      "weeknight"
+      "cauliflower",
+      "middle-eastern"
     ],
-    "cuisine": "Middle-Eastern",
-    "totalTimeMin": 45,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -8257,13 +8253,13 @@
   },
   {
     "slug": "warm-spicy-french-duck-rillettes",
-    "title": "Warm Spicy French Duck Rillettes",
+    "title": "Pan-Seared Duck Breast with Spicy Rillettes",
     "tags": [
-      "diabetic-friendly",
-      "duck-recipes",
-      "french-cuisine",
-      "romantic-dinner",
-      "spicy-food"
+      "french",
+      "duck",
+      "rillettes",
+      "spicy",
+      "bacon"
     ],
     "cuisine": "French",
     "totalTimeMin": 35,
@@ -16983,17 +16979,14 @@
   },
   {
     "slug": "wilted-middle-eastern-falafel-noodles",
-    "title": "Wilted Middle Eastern Falafel Noodles",
+    "title": "Eastern Noodle Bowl",
     "tags": [
-      "fluffy",
-      "grassy",
-      "middle-eastern",
-      "one-pan",
-      "solo-dinner",
-      "whole30-friendly"
+      "noodle bowl",
+      "falafel",
+      "eastern cuisine"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 40,
+    "cuisine": "eastern",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
