@@ -14810,18 +14810,15 @@
   },
   {
     "slug": "wholesome-middle-eastern-dish-tagine",
-    "title": "Tagine",
+    "title": "Spiced Chicken Tagine with Apricots and Almonds",
     "tags": [
+      "chicken",
+      "tagine",
       "apricots",
-      "lamb",
-      "moroccan",
-      "one-pot",
-      "slow-cooked",
-      "stew",
-      "weeknight"
+      "almonds"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 150,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 60,
     "shard": "w"
   },
   {
