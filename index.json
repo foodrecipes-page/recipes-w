@@ -2243,10 +2243,11 @@
   },
   {
     "slug": "warm-crunchy-irish-seafood-stew",
-    "title": "Warm Crunchy Irish Seafood Stew",
+    "title": "Irish Seafood Stew",
     "tags": [
-      "irish",
-      "dinner"
+      "seafood",
+      "stew",
+      "irish"
     ],
     "cuisine": "Irish",
     "totalTimeMin": 40,
@@ -6936,19 +6937,14 @@
   },
   {
     "slug": "warm-smoked-peruvian-chicken-pollo-a-la-brasa",
-    "title": "Warm, Smoked Peruvian Chicken Pollo a la Brasa",
+    "title": "Peruvian Grilled Chicken",
     "tags": [
-      "casabe",
-      "chicken",
-      "grill",
-      "high-protein",
-      "latin-american",
-      "one-pan",
-      "smoked",
-      "weeknight"
+      "peruvian-chicken",
+      "grilled-chicken",
+      "aji-amarillo-pepper"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 65,
+    "cuisine": "Peruvian",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -9004,17 +9000,15 @@
   },
   {
     "slug": "warm-springy-ethiopian-pilchards-ye-beg-alicha",
-    "title": "Warm Springy Ethiopian Pilchards Ye Beg Alicha",
+    "title": "Ethiopian-Style Pilchard Stew",
     "tags": [
-      "brunch-ideas",
-      "ethiopian-cuisine",
-      "lacquerware-bowl",
-      "pescatarian-friendly",
-      "shojin-recipes",
-      "spring-inspired"
+      "ethiopian",
+      "stew",
+      "pilchards",
+      "spicy"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -9078,17 +9072,14 @@
   },
   {
     "slug": "warm-springy-northern-irish-jumbo-shrimp-yorkshire-pudding",
-    "title": "Warm Springy Northern Irish Jumbo Shrimp Yorkshire Pudding",
+    "title": "Northern Irish Shrimp and Yorkshire Pudding",
     "tags": [
-      "british-cuisine",
-      "herbal",
-      "one-pan",
-      "sattvic-friendly",
-      "seafood",
-      "spring-recipes"
+      "northern-irish",
+      "shrimp",
+      "yorkshire-pudding"
     ],
     "cuisine": "Northern Irish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -11162,17 +11153,16 @@
   },
   {
     "slug": "warmly-charred-ethiopian-lentil-pasta",
-    "title": "Warmly Charred Ethiopian Lentil Pasta",
+    "title": "Spicy Ethiopian Pasta",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "international",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "pasta",
+      "lentil",
+      "ethiopian",
+      "spicy",
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
