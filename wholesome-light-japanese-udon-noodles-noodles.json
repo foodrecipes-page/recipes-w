@@ -1,0 +1,76 @@
+{
+  "slug": "wholesome-light-japanese-udon-noodles-noodles",
+  "title": "Japanese Udon Noodle Soup",
+  "description": "A light and comforting Japanese-inspired noodle soup made with wholesome udon noodles. Perfect for a chilly evening.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wholesome Udon Noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Light Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Sliced Shiitake Mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped Green Onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Soy Sauce (gluten-free)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a simmer in a large pot.",
+    "Add sliced shiitake mushrooms and cook for 3-4 minutes or until they release their liquid and start to brown.",
+    "Add wholesome udon noodles to the pot and cook according to package instructions.",
+    "Stir in sesame oil, soy sauce, and sesame seeds.",
+    "Slice the ginger into thin rounds and add to the pot.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "gluten-free",
+    "soup",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-light-japanese-udon-noodles-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:41:22.319Z"
+}
