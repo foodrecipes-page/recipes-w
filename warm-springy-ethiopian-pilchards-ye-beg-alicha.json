@@ -1,0 +1,89 @@
+{
+  "slug": "warm-springy-ethiopian-pilchards-ye-beg-alicha",
+  "title": "Ethiopian-Style Pilchard Stew",
+  "description": "A flavorful and spicy stew made with pilchards and traditional Ethiopian spices, served over a bed of warm injera bread.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pilchards",
+      "amount": "1 can (425g)",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Alicha spice mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ye",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion, ginger, and garlic; cook until the onion is translucent.",
+    "Add the pilchards, breaking them up with a spoon as they cook.",
+    "Add the alicha spice mix, tomato paste, and beef broth; stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the ye and season with salt to taste.",
+    "Serve the stew over a bed of warm injera bread.",
+    " Garnish with chopped fresh cilantro, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "pilchards",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-springy-ethiopian-pilchards-ye-beg-alicha",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T05:32:51.964Z"
+}
