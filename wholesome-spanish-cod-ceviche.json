@@ -1,0 +1,81 @@
+{
+  "slug": "wholesome-spanish-cod-ceviche",
+  "title": "Spanish Cod Ceviche",
+  "description": "A refreshing and flavorful dish that combines the best of Spanish cuisine with the simplicity of ceviche.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod",
+      "amount": "1 lb",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/2 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Grapes",
+      "amount": "1 cup",
+      "notes": "Halved"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine cod, lime juice, olive oil, grapes, red onion, and cilantro.",
+    "Season with salt and pepper to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, serve the ceviche chilled, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "seafood",
+    "ceviche",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-spanish-cod-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T00:14:47.691Z"
+}
