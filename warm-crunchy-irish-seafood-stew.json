@@ -1,0 +1,94 @@
+{
+  "slug": "warm-crunchy-irish-seafood-stew",
+  "title": "Irish Seafood Stew",
+  "description": "A hearty, warming stew filled with Irish ingredients and a variety of seafood.",
+  "cuisine": "Irish",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish Sausages",
+      "amount": "1 pound",
+      "notes": "You can also use Irish bacon or ham."
+    },
+    {
+      "name": "New Potatoes",
+      "amount": "2 large",
+      "notes": "You can peel them if you prefer."
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "You can peel them if you prefer."
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "You can use red or yellow onions."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Crab Meat",
+      "amount": "1 cup",
+      "notes": "You can use fresh or canned crab meat."
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "You can use frozen or fresh shrimp."
+    },
+    {
+      "name": "Mussels",
+      "amount": "1 pound",
+      "notes": "You can use fresh or frozen mussels."
+    },
+    {
+      "name": "Seafood Broth",
+      "amount": "2 cups",
+      "notes": "You can use store-bought broth or make your own."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a large pot over medium heat.",
+    "Add the onions and garlic and cook until softened.",
+    "Add the Irish sausages and cook until browned.",
+    "Add the potatoes, carrots, and seafood broth.",
+    "Bring to a boil, then reduce heat and simmer for 10 minutes.",
+    "Add the crab meat, shrimp, and mussels.",
+    "Simmer for an additional 5 minutes, until the seafood is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "stew",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crunchy-irish-seafood-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:50:02.942Z"
+}
