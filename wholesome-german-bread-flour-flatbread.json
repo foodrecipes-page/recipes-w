@@ -1,0 +1,66 @@
+{
+  "slug": "wholesome-german-bread-flour-flatbread",
+  "title": "Wholesome German Flatbread",
+  "description": "A classic German flatbread recipe made with wholesome ingredients, perfect for serving with soups or stews.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "wholesome",
+      "amount": "1 teaspoon",
+      "notes": " active dry yeast"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bread",
+      "amount": "2 tablespoons",
+      "notes": "crushed bread for topping"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine flour and yeast. Whisk to combine.",
+    "2. Gradually add water to the bowl, mixing until a dough forms.",
+    "3. Knead the dough for 5-7 minutes until smooth and elastic.",
+    "4. Place the dough in a warm place to rise for 1 hour.",
+    "5. Preheat oven to 425°F (220°C).",
+    "6. Punch down the dough and divide into 4-6 equal pieces.",
+    "7. Roll out each piece into a thin circle.",
+    "8. Brush with water and sprinkle with crushed bread.",
+    "9. Bake for 12-15 minutes or until golden brown.",
+    "10. Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "flatbread",
+    "wholesome"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-german-bread-flour-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T23:22:50.939Z"
+}
