@@ -1,0 +1,89 @@
+{
+  "slug": "warm-silky-indian-lentil-dal",
+  "title": "Warm Indian Dal",
+  "description": "A comforting and flavorful Indian-inspired lentil dish, perfect for a chilly evening.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentil Dal",
+      "amount": "1 cup",
+      "notes": "split red or yellow lentils"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 teaspoon",
+      "notes": "whole"
+    },
+    {
+      "name": "Mustard Seeds",
+      "amount": "1/2 teaspoon",
+      "notes": "whole"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Warm Water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add cumin seeds and mustard seeds; let them sizzle for 10 seconds.",
+    "Add onion, ginger, and garlic; sauté until the onion is translucent.",
+    "Add turmeric and sauté for 1 minute.",
+    "Add lentil dal and 4 cups of warm water; bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes, or until the lentils are tender.",
+    "Stir in chopped cilantro and season with salt to taste.",
+    "Serve warm over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lentil-dal",
+    "vegetarian",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-silky-indian-lentil-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T21:08:55.575Z"
+}
