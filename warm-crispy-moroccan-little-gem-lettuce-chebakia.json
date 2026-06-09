@@ -1,0 +1,76 @@
+{
+  "slug": "warm-crispy-moroccan-little-gem-lettuce-chebakia",
+  "title": "Warm Moroccan Lettuce Salad with Chebakia Croutons",
+  "description": "A refreshing summer salad with a twist, featuring warm Moroccan spices and crispy chebakia croutons.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "Lettuce",
+      "amount": "4 cups, chopped",
+      "notes": null
+    },
+    {
+      "name": "Chebakia (Moroccan Honey Cookies)",
+      "amount": "6 pieces, crushed",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Warm spices (cumin, coriander, cinnamon)",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Gem lettuce (for garnish)",
+      "amount": "1 head, chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Toss crushed chebakia with a pinch of salt and toast in the oven for 5 minutes, or until crispy.",
+    "In a large bowl, whisk together olive oil, warm spices, and lemon juice.",
+    "Add chopped lettuce to the bowl and toss to coat with the spice mixture.",
+    "Top with toasted chebakia croutons and garnish with gem lettuce, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "moroccan",
+    "crunchy",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-moroccan-little-gem-lettuce-chebakia",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T21:34:42.956Z"
+}
