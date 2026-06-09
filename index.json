@@ -12801,17 +12801,15 @@
   },
   {
     "slug": "wet-mediterranean-yellow-split-peas-stew",
-    "title": "Wet Mediterranean Yellow Split Peas Stew",
+    "title": "Yellow Split Pea Stew",
     "tags": [
-      "bamboo",
-      "bitter",
-      "gooey",
-      "mediterranean",
-      "steamer",
-      "tamasic"
+      "lentil-free",
+      "pea-based",
+      "stew",
+      "one-pot-meal"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -14166,14 +14164,14 @@
   },
   {
     "slug": "wholesome-german-bread-flour-flatbread",
-    "title": "Wholesome German Bread Flour Flatbread",
+    "title": "Wholesome German Flatbread",
     "tags": [
-      "flaky",
-      "light-german-dish",
-      "vegan-friendly"
+      "german",
+      "flatbread",
+      "wholesome"
     ],
     "cuisine": "german",
-    "totalTimeMin": 23,
+    "totalTimeMin": 27,
     "shard": "w"
   },
   {
