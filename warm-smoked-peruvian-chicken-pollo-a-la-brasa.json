@@ -1,0 +1,95 @@
+{
+  "slug": "warm-smoked-peruvian-chicken-pollo-a-la-brasa",
+  "title": "Peruvian Grilled Chicken",
+  "description": "A classic Peruvian dish featuring marinated chicken grilled to perfection, served with a side of spicy slaw.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pollo (boneless chicken breasts)",
+      "amount": "4",
+      "notes": "about 1 pound total"
+    },
+    {
+      "name": "Warm Peruvian aji amarillo pepper paste",
+      "amount": "2 tablespoons",
+      "notes": "see note"
+    },
+    {
+      "name": "Smoked aji amarillo peppers",
+      "amount": "4",
+      "notes": "see note"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing chicken"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Grilled onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine aji amarillo pepper paste, smoked aji amarillo peppers, garlic, cilantro, lime juice, olive oil, salt, and black pepper. Blend until smooth.",
+    "Place the chicken in a large zip-top plastic bag or a shallow dish. Pour the marinade over the chicken, turning to coat.",
+    "Refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Remove the chicken from the marinade, letting any excess liquid drip off.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Transfer the chicken to a plate and let rest for 5 minutes.",
+    "Meanwhile, grill the onions until slightly charred.",
+    "Slice the chicken and serve with grilled onions and remaining marinade sauce.",
+    "Serve with a side of spicy slaw, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian-chicken",
+    "grilled-chicken",
+    "aji-amarillo-pepper"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoked-peruvian-chicken-pollo-a-la-brasa",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T05:28:37.254Z"
+}
