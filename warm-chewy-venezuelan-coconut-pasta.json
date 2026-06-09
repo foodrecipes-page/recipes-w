@@ -1,0 +1,82 @@
+{
+  "slug": "warm-chewy-venezuelan-coconut-pasta",
+  "title": "Coconut Pupusas",
+  "description": "A venezuelan-inspired dish with a warm twist, featuring chewy pupusas stuffed with coconut and pasta.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "pasta (such as penne)",
+      "amount": "8 oz",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "masa harina",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine masa harina and salt in a large bowl.",
+    "Gradually add warm water to the bowl, mixing until a dough forms.",
+    "Knead the dough for 5 minutes.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll each piece into a ball and flatten slightly into a disk.",
+    "Place 1-2 tablespoons of the pasta mixture onto the center of each disk.",
+    "Top with shredded coconut and chopped cilantro.",
+    "Fold the dough over to form a half-circle, pressing the edges together to seal.",
+    "Heat a large skillet over medium-high heat.",
+    "Cook the pupusas for 2-3 minutes on each side, until golden brown and crispy.",
+    "Serve warm with coconut milk for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "snack",
+    "coconut",
+    "pasta",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-chewy-venezuelan-coconut-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T21:48:32.991Z"
+}
