@@ -1,0 +1,68 @@
+{
+  "slug": "warmly-charred-ethiopian-lentil-pasta",
+  "title": "Spicy Ethiopian Pasta",
+  "description": "A flavorful and spicy twist on traditional pasta. Inspired by Ethiopian cuisine, this dish combines the warmth of lentils with the tanginess of pasta.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "lentil",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "charred",
+      "amount": "1/4 cup",
+      "notes": "roasted red onion"
+    },
+    {
+      "name": "ethiopian",
+      "amount": "1 tsp",
+      "notes": "spice blend"
+    },
+    {
+      "name": "warmly",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook pasta according to package instructions until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat.",
+    "Add charred red onion and cook for 2-3 minutes.",
+    "Add cooked lentils, Ethiopian spice blend, and ground cumin. Stir to combine.",
+    "Add pasta to the skillet, tossing to combine with the lentil mixture.",
+    "If the pasta seems dry, add some reserved pasta water. Season with salt to taste.",
+    "Serve hot, garnished with additional charred red onion if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "lentil",
+    "ethiopian",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-charred-ethiopian-lentil-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:36:07.212Z"
+}
