@@ -1,0 +1,68 @@
+{
+  "slug": "whisked-saudia-sea-bass-crumble",
+  "title": "Bass with Crumble Topping",
+  "description": "A delicious and easy-to-make bass dish topped with a crumbly mixture. Perfect for a weeknight dinner.",
+  "cuisine": "British",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bass fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Whisked butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Crumble mixture (store-bought or homemade)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Season the bass fillets with sea salt and flour.",
+    "Place the bass fillets on the prepared baking sheet.",
+    "Dot the top of each bass fillet with whisked butter.",
+    "Sprinkle the crumble mixture evenly over the top of each bass fillet.",
+    "Bake for 12-15 minutes or until the fish is cooked through and the topping is golden brown.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bass",
+    "crumble",
+    "dinner",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whisked-saudia-sea-bass-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T19:31:00.397Z"
+}
