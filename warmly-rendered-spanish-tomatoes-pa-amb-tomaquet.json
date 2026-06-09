@@ -1,0 +1,74 @@
+{
+  "slug": "warmly-rendered-spanish-tomatoes-pa-amb-tomaquet",
+  "title": "Tomaquet amb Pa (Spanish Tomato Bread)",
+  "description": "A simple and delicious Spanish recipe where tomatoes are served on top of toasted bread.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bread (Pa)",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Tomaquet (Tomato)",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Slice the bread into 1-inch thick slices and toast until lightly browned.",
+    "3. Slice the tomatoes into wedges and season with salt to taste.",
+    "4. Drizzle the olive oil on top of the bread.",
+    "5. Add the garlic on top of the bread.",
+    "6. Place the tomato wedges on top of the bread.",
+    "7. Garnish with chopped parsley if desired.",
+    "8. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "breakfast",
+    "bread",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-rendered-spanish-tomatoes-pa-amb-tomaquet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T00:34:00.252Z"
+}
