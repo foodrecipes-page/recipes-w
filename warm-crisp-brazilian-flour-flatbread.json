@@ -1,0 +1,69 @@
+{
+  "slug": "warm-crisp-brazilian-flour-flatbread",
+  "title": "Warm Brazilian Flatbread",
+  "description": "A traditional Brazilian flatbread recipe with a crispy crust and warm interior, perfect for snacking.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups of flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup of warm water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon of salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon of vegetable oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup of warm milk",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine the flour, salt, and warm water. Mix until a dough forms.",
+    "2. Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "3. Place the dough in a greased bowl, cover it with a damp cloth, and let it rest for 1 hour.",
+    "4. Preheat a non-stick skillet or griddle over medium heat.",
+    "5. Divide the dough into 4-6 equal pieces, depending on how large you want your flatbreads to be.",
+    "6. Roll out each piece of dough into a thin circle, about 6-7 inches in diameter.",
+    "7. Brush the tops of the flatbreads with vegetable oil and cook for 1-2 minutes on each side, until crispy and golden.",
+    "8. Serve warm, with optional warm milk for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bread",
+    "flatbread",
+    "brazilian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crisp-brazilian-flour-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T04:20:11.057Z"
+}
