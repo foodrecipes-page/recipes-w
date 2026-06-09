@@ -1,0 +1,78 @@
+{
+  "slug": "warm-silky-middle-eastern-eggplant-baba-ganoush",
+  "title": "Warm Baba Ganoush",
+  "description": "A delicious and creamy eggplant dip originating from the Middle East. Perfect for snacking or as a side dish.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Baba Ghanoush",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Place the eggplant on a baking sheet and roast for 30-40 minutes, or until the skin is charred and collapsed.",
+    "Remove the eggplant from the oven and let it cool slightly.",
+    "Peel the eggplant and place it in a blender or food processor.",
+    "Add the baba ghanoush, lemon juice, garlic, salt, tahini, and paprika to the blender.",
+    "Blend the mixture until smooth and creamy.",
+    "With the blender running, slowly pour in the olive oil.",
+    "Taste and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eggplant",
+    "baba-ganoush",
+    "middle-eastern",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-silky-middle-eastern-eggplant-baba-ganoush",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T18:41:07.572Z"
+}
