@@ -3394,17 +3394,14 @@
   },
   {
     "slug": "warm-flaky-tunisian-jasmine-rice-pilaf",
-    "title": "Warm Flaky Tunisian Jasmine Rice Pilaf",
+    "title": "Tunisian Jasmine Rice Bowl",
     "tags": [
-      "comfort-food",
-      "flaky-rice",
-      "one-pot",
-      "tunisian-cuisine",
+      "middle eastern",
       "vegetarian",
-      "weeknight"
+      "rice bowl"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -11461,16 +11458,15 @@
   },
   {
     "slug": "warmly-rendered-spanish-tomatoes-pa-amb-tomaquet",
-    "title": "Warmly Rendered Spanish Tomatoes Pa Amb Tomaquet",
+    "title": "Tomaquet amb Pa (Spanish Tomato Bread)",
     "tags": [
-      "brunch-ideas",
-      "copper-pot-cooking",
-      "gluten-free",
-      "paleo-friendly",
-      "spanish-cuisine"
+      "spanish",
+      "breakfast",
+      "bread",
+      "tomato"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
@@ -15418,16 +15414,16 @@
   },
   {
     "slug": "wholesome-spanish-cod-ceviche",
-    "title": "Wholesome Spanish Cod Ceviche",
+    "title": "Spanish Cod Ceviche",
     "tags": [
+      "spanish",
+      "seafood",
       "ceviche",
-      "healthy",
-      "low-fat",
-      "quick",
-      "spanish"
+      "lunch",
+      "dinner"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
