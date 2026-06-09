@@ -1,0 +1,91 @@
+{
+  "slug": "warm-sweet-mexican-apricot-stew",
+  "title": "Apricot Chicken Stew",
+  "description": "A delicious and warm stew made with tender chicken, sweet apricots, and a blend of spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Apricots",
+      "amount": "1 cup, diced",
+      "notes": "Canned or fresh"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 medium, peeled and cubed",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the apricots, sweet potatoes, tomato paste, cumin, and paprika.",
+    "Pour in the chicken broth and bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "apricot",
+    "chicken",
+    "mexican",
+    "stew",
+    "comfort-food",
+    "warm"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-sweet-mexican-apricot-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T18:20:05.322Z"
+}
