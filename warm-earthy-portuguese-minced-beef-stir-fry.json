@@ -1,0 +1,73 @@
+{
+  "slug": "warm-earthy-portuguese-minced-beef-stir-fry",
+  "title": "Beef Feijoada",
+  "description": "Hearty Portuguese stew made with beef, beans, and vegetables. Feijoada is a popular dish originating from Brazil, but with a Portuguese twist.",
+  "cuisine": "portuguese",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound (450g) beef brisket or beef shank",
+      "notes": "cut into 1-inch (2.5cm) cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups (475ml)",
+      "notes": "beef broth or stock"
+    },
+    {
+      "name": "kale",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot or Dutch oven, heat 2 tablespoons of oil over medium heat.",
+    "Sear the beef cubes until browned on all sides, then set aside.",
+    "Sauté the onion and garlic until softened, about 3-4 minutes.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the beef broth, browned beef, and chopped kale to the pot.",
+    "Bring to a boil, then reduce heat to low and simmer for 1-2 hours, or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with rice, farofa, or crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-earthy-portuguese-minced-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:45:13.263Z"
+}
