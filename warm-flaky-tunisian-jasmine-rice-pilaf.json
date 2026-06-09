@@ -1,0 +1,65 @@
+{
+  "slug": "warm-flaky-tunisian-jasmine-rice-pilaf",
+  "title": "Tunisian Jasmine Rice Bowl",
+  "description": "A flavorful and aromatic dish inspired by the spices of Tunisia, featuring jasmine rice and a blend of warm spices.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 teaspoons",
+      "notes": "available at most middle eastern markets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "warm water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the tunisian spice blend and cook for 1 minute, stirring constantly.",
+    "Add the jasmine rice and stir to combine with the spice blend.",
+    "Add the warm water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 18-20 minutes, or until the water has been absorbed.",
+    "Fluff the rice with a fork and season with flaky sea salt to taste.",
+    "Serve the tunisian jasmine rice hot, garnished with additional tunisian spice blend if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle eastern",
+    "vegetarian",
+    "rice bowl"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-flaky-tunisian-jasmine-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T23:53:06.850Z"
+}
