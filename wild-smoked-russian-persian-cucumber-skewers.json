@@ -1,0 +1,83 @@
+{
+  "slug": "wild-smoked-russian-persian-cucumber-skewers",
+  "title": "Shish Kebabs with Russian Sauce",
+  "description": "A flavorful and spicy kebab recipe with a tangy Russian sauce made with smoked meat, wild mushrooms, and cucumbers.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked meat (such as lamb or beef)",
+      "amount": "1 lb"
+    },
+    {
+      "name": "russian spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "persian cucumber",
+      "amount": "1 medium"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 small"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread mushrooms, meat, and cucumber onto skewers.",
+    "In a small bowl, mix together Russian spice blend, lemon juice, and olive oil.",
+    "Brush the spice mixture onto the skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "While the skewers are cooking, mix together chopped dill, garlic, and a squeeze of lemon juice.",
+    "Serve the skewers hot with the Russian sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebab",
+    "russian",
+    "grilled",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wild-smoked-russian-persian-cucumber-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:45:09.504Z"
+}
