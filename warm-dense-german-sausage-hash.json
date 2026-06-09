@@ -1,0 +1,77 @@
+{
+  "slug": "warm-dense-german-sausage-hash",
+  "title": "German Sausage Hash",
+  "description": "A hearty and flavorful dish made with German sausage, crispy potatoes, and a few simple spices.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "preferably Weisswurst or Bratwurst"
+    },
+    {
+      "name": "Hash browns",
+      "amount": "2 cups",
+      "notes": "shredded, raw potatoes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the butter and let it melt.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the hash browns and cook until golden brown.",
+    "Add the German sausage and cook until browned, breaking it up with a spoon as it cooks.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "sausage",
+    "hash-browns",
+    "german-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-dense-german-sausage-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:44:23.651Z"
+}
