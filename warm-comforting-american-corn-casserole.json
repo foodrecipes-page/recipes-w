@@ -1,0 +1,90 @@
+{
+  "slug": "warm-comforting-american-corn-casserole",
+  "title": "Creamy Corn Casserole",
+  "description": "A classic American casserole that combines the warmth of corn with a comforting creaminess, perfect for a cozy evening.",
+  "cuisine": "American",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Corn, frozen",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Canned cream corn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Crushed crackers",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium saucepan, melt butter over medium heat.",
+    "Add flour and whisk until smooth; cook for 1 minute.",
+    "Slowly pour in milk, whisking constantly to prevent lumps.",
+    "Bring to a simmer and cook until thickened, stirring occasionally.",
+    "Stir in cheddar cheese until melted.",
+    "In a separate bowl, combine corn, cream corn, salt, and pepper.",
+    "Pour the sauce over the corn mixture and stir to combine.",
+    "Transfer to a 9x13 inch baking dish and top with crushed crackers.",
+    "Bake for 25-30 minutes, or until golden brown and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "corn",
+    "casserole",
+    "american",
+    "comforting",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-comforting-american-corn-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:24:05.404Z"
+}
