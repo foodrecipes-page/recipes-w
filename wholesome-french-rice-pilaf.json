@@ -1,0 +1,71 @@
+{
+  "slug": "wholesome-french-rice-pilaf",
+  "title": "Herbed French Pilaf",
+  "description": "A flavorful and aromatic pilaf dish infused with herbs, perfect for a weeknight dinner.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "wholesome olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 teaspoon, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a medium saucepan over medium heat.",
+    "Add the chopped parsley and thyme; cook for 1 minute, stirring constantly.",
+    "Add the rice and pilaf; cook for 2-3 minutes, stirring frequently.",
+    "Add 2 cups of water to the saucepan; bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 18-20 minutes.",
+    "Remove from heat and let rest for 5 minutes.",
+    "Fluff the pilaf with a fork and season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "rice",
+    "pilaf",
+    "herb",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-french-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T17:25:51.872Z"
+}
