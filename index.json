@@ -11512,16 +11512,15 @@
   },
   {
     "slug": "warmly-roasted-french-almond-skewers",
-    "title": "Warmly Roasted French Almond Skewers",
+    "title": "Warmly Roasted Almond French Skewers",
     "tags": [
-      "french-cuisine",
-      "grilled-dishes",
-      "paleo-friendly",
-      "roasted-nuts",
-      "snack-ideas"
+      "dessert",
+      "almond",
+      "french",
+      "warmly-roasted"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 32,
+    "cuisine": null,
+    "totalTimeMin": 27,
     "shard": "w"
   },
   {
@@ -13043,14 +13042,15 @@
   },
   {
     "slug": "whisked-saudia-sea-bass-crumble",
-    "title": "Whisked Saudia Sea Bass Crumble",
+    "title": "Bass with Crumble Topping",
     "tags": [
-      "sausage-crumb",
-      "saudi-arabian-dish",
-      "whisked-fish-crumble"
+      "bass",
+      "crumble",
+      "dinner",
+      "fish"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 30,
+    "cuisine": "British",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
