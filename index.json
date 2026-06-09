@@ -1366,17 +1366,15 @@
   },
   {
     "slug": "warm-crisp-brazilian-flour-flatbread",
-    "title": "Warm Crisp Brazilian Flour Flatbread",
+    "title": "Warm Brazilian Flatbread",
     "tags": [
-      "brazilian-cuisine",
-      "easy-to-make",
+      "bread",
       "flatbread",
-      "gluten-free",
-      "snack",
-      "vegetarian"
+      "brazilian",
+      "snack"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -6202,19 +6200,15 @@
   },
   {
     "slug": "warm-roasted-jamaican-peas-hash",
-    "title": "Warm Roasted Jamaican Peas Hash",
+    "title": "Jamaican Hash and Peas",
     "tags": [
       "breakfast",
-      "dinner",
-      "high-protein",
-      "one-pan",
-      "quick-fix",
-      "sugar-free",
-      "vegan",
-      "weeknight"
+      "caribbean",
+      "gluten-free",
+      "vegetarian"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "caribbean",
+    "totalTimeMin": 60,
     "shard": "w"
   },
   {
@@ -6959,18 +6953,14 @@
   },
   {
     "slug": "warm-smoked-russian-potatoes-gratin",
-    "title": "Warm Smoked Russian Potatoes Gratin",
+    "title": "Smoked Potato Gratin",
     "tags": [
-      "cold-smoked",
-      "comfort-food",
-      "fermented",
-      "keto-friendly",
-      "main-course",
-      "one-pan",
-      "russian",
-      "winter-dinner"
+      "potato",
+      "gratin",
+      "smoked",
+      "cheese"
     ],
-    "cuisine": "Russian",
+    "cuisine": "russo-french",
     "totalTimeMin": 60,
     "shard": "w"
   },
