@@ -1,0 +1,92 @@
+{
+  "slug": "warm-springy-northern-irish-jumbo-shrimp-yorkshire-pudding",
+  "title": "Northern Irish Shrimp and Yorkshire Pudding",
+  "description": "A traditional Northern Irish dish featuring succulent shrimp and crispy Yorkshire pudding, perfect for a hearty dinner.",
+  "cuisine": "Northern Irish",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Yorkshire pudding mix",
+      "amount": "1 package",
+      "notes": "follow package instructions"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "whole milk or 2%"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a large bowl, whisk together flour, egg, and milk until smooth. The batter should still be slightly lumpy.",
+    "Add the melted butter and mix until fully incorporated.",
+    "Season with salt and pepper to taste.",
+    "Heat a 12-cup muffin tin in the oven for 5 minutes.",
+    "Carefully remove the muffin tin from the oven and add a small amount of oil to each cup.",
+    "Pour the Yorkshire pudding batter into each cup, filling about 1/2 full.",
+    "Return the muffin tin to the oven and bake for 20-25 minutes, or until puffed and golden brown.",
+    "While the Yorkshire pudding is baking, heat a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the shrimp to the skillet and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Serve the shrimp on top of the Yorkshire pudding, spooning some of the onion and garlic mixture over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "northern-irish",
+    "shrimp",
+    "yorkshire-pudding"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 24,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-springy-northern-irish-jumbo-shrimp-yorkshire-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:03:23.580Z"
+}
