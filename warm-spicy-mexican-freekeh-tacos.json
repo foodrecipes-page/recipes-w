@@ -1,0 +1,89 @@
+{
+  "slug": "warm-spicy-mexican-freekeh-tacos",
+  "title": "Freekeh Tacos",
+  "description": "A delicious and spicy twist on traditional tacos, featuring freekeh instead of traditional taco meat.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Freekeh",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Spicy Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Taco Seasoning",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the onion and bell pepper and sauté until tender.",
+    "Add the diced tomatoes, spicy tomato paste, cumin, chili powder, and taco seasoning. Stir to combine.",
+    "Add the freekeh to the skillet and stir to combine.",
+    "Cook for 5 minutes, stirring frequently.",
+    "Season with lime juice and salt to taste.",
+    "Warm tacos shells according to package instructions.",
+    "Assemble the tacos by spooning the freekeh mixture into the shells.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "freekeh",
+    "mexican",
+    "tacos",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-mexican-freekeh-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:57:40.028Z"
+}
