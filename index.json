@@ -241,19 +241,16 @@
   },
   {
     "slug": "warm-argentinian-chicken-stew",
-    "title": "Warm Argentinian Chicken Stew",
+    "title": "Argentinian Chicken Stew",
     "tags": [
       "argentinian",
-      "creamy",
-      "easy",
-      "kid-friendly",
-      "low-carb",
-      "one-pot",
-      "paleo-friendly",
-      "spicy"
+      "chicken",
+      "stew",
+      "lunch",
+      "comfort food"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 40,
+    "cuisine": "argentinian",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -2603,16 +2600,15 @@
   },
   {
     "slug": "warm-dense-german-sausage-hash",
-    "title": "Warm Dense German Sausage Hash",
+    "title": "German Sausage Hash",
     "tags": [
-      "comfort-food",
-      "flexitarian",
-      "german-inspired",
-      "one-pan",
-      "weeknight"
+      "breakfast",
+      "sausage",
+      "hash-browns",
+      "german-cuisine"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 35,
+    "cuisine": "german",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
