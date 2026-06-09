@@ -1,0 +1,77 @@
+{
+  "slug": "warmly-roasted-french-almond-skewers",
+  "title": "Warmly Roasted Almond French Skewers",
+  "description": "A sweet and crunchy dessert skewer recipe featuring warmly roasted almonds and French flair.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "French baguette",
+      "amount": "1/2 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "slivered or sliced"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "warmly roasted"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "pinch",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "a sprig",
+      "notes": "optional"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "1 package",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (180°C).",
+    "2. Toss almonds with honey and softened butter until well coated.",
+    "3. Spread almond mixture onto a baking sheet and roast for 10-12 minutes, or until fragrant and lightly toasted.",
+    "4. Meanwhile, cut baguette into 1-inch cubes.",
+    "5. Thread a cube of baguette, a few almonds, and a sprig of thyme (if using) onto each skewer.",
+    "6. Drizzle skewers with warm honey and sprinkle with flaky sea salt (if using).",
+    "7. Serve skewers immediately, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "almond",
+    "french",
+    "warmly-roasted"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-roasted-french-almond-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:10:36.238Z"
+}
