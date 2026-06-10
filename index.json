@@ -8975,18 +8975,15 @@
   },
   {
     "slug": "warm-spring-russian-amazake-pancakes",
-    "title": "Warm Spring Russian Amazake Pancakes",
+    "title": "Warm Spring Pancakes with Russian Twist",
     "tags": [
-      "amazake",
-      "brunch-ideas",
-      "coconut-cream",
-      "egg-free",
-      "russian-pancakes",
-      "spring-inspiration",
-      "vegetarian"
+      "breakfast",
+      "pancakes",
+      "spring",
+      "russian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -10969,15 +10966,14 @@
   },
   {
     "slug": "warming-lazy-sunday-slovakian-chicken-thighs-stew",
-    "title": "Warming Lazy-Sunday Slovakian Chicken Thighs Stew",
+    "title": "Sunday Slovakian Chicken Stew",
     "tags": [
-      "comfort-food",
-      "one-pan",
       "slovakian",
-      "weeknight"
+      "comfort-food",
+      "chicken-stew"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 40,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 65,
     "shard": "w"
   },
   {
@@ -14389,16 +14385,14 @@
   },
   {
     "slug": "wholesome-jamaican-kombu-stew",
-    "title": "Wholesome Jamaican Kombu Stew",
+    "title": "Wholesome Jamaican Stew",
     "tags": [
-      "healthy",
-      "kombu",
-      "one-pan",
-      "stew",
-      "vegan-friendly"
+      "wholesome",
+      "jamaican",
+      "stew"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
