@@ -1,0 +1,73 @@
+{
+  "slug": "winey-crispy-indian-fish-curry",
+  "title": "Pan-Seared Fish with Indian Curry Sauce",
+  "description": "A flavorful and aromatic dish featuring pan-seared fish in a rich Indian-inspired curry sauce. This recipe is perfect for a quick and delicious dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (6 oz)",
+      "amount": "2",
+      "notes": "Any white fish works well, such as cod or tilapia"
+    },
+    {
+      "name": "Indian curry powder",
+      "amount": "2 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Crispy onions",
+      "amount": "1/4 cup",
+      "notes": "Use pre-made crispy onions or make your own"
+    },
+    {
+      "name": "Winey white wine",
+      "amount": "1/4 cup",
+      "notes": "Dry white wine works well"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped cilantro for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the fish with salt and pepper.",
+    "Heat a skillet over medium-high heat and add 1 tsp of oil.",
+    "Sear the fish for 2-3 minutes on each side, or until cooked through.",
+    "Transfer the fish to a baking sheet and bake for 5-7 minutes, or until cooked through.",
+    "While the fish is cooking, heat 1 tsp of oil in a saucepan over medium heat.",
+    "Add the curry powder and cook for 1-2 minutes, or until fragrant.",
+    "Add the wine and cook until the liquid is almost completely reduced.",
+    "Stir in the crispy onions and cook for an additional 1-2 minutes.",
+    "Serve the fish with the Indian curry sauce spooned over the top.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fish",
+    "curry",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-crispy-indian-fish-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T09:26:00.964Z"
+}
