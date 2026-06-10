@@ -1,0 +1,102 @@
+{
+  "slug": "warm-delicate-vietnamese-pork-pho",
+  "title": "Delicate Vietnamese Pho",
+  "description": "A traditional Vietnamese noodle soup with a delicate broth and tender pork.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork bones",
+      "amount": "2 pounds",
+      "notes": "Beef or pork bones can be used"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Star anise",
+      "amount": "2",
+      "notes": "Whole"
+    },
+    {
+      "name": "Cinnamon stick",
+      "amount": "1",
+      "notes": "Whole"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 pound",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fresh herbs",
+      "amount": "1 cup",
+      "notes": "Optional, such as basil, mint, or cilantro"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Place pork bones on a baking sheet and roast for 30 minutes.",
+    "3. In a large pot, combine ginger, onion, star anise, and cinnamon stick.",
+    "4. Add roasted pork bones, fish sauce, and soy sauce to the pot.",
+    "5. Pour in 4 cups of water and bring to a boil.",
+    "6. Reduce heat to low and simmer for 1 hour.",
+    "7. Strain the broth through a fine-mesh sieve into a clean pot.",
+    "8. Cook rice noodles according to package instructions.",
+    "9. Slice pork shoulder into thin strips.",
+    "10. Assemble pho by placing noodles in a bowl, adding sliced pork, and ladling hot broth over the top.",
+    "11. Garnish with bean sprouts, fresh herbs, and any desired toppings."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "pork",
+    "soup",
+    "noodle"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-delicate-vietnamese-pork-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:09:51.796Z"
+}
