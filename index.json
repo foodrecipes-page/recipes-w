@@ -10851,17 +10851,16 @@
   },
   {
     "slug": "warm-yellow-turkish-chicken-kebabs",
-    "title": "Warm Yellow Turkish Chicken Kebabs",
+    "title": "Turkish Chicken Kebabs",
     "tags": [
-      "easy-dinner",
-      "grilled-chicken",
-      "kid-friendly",
-      "low-sodium",
-      "turkish-food",
-      "weeknight-meal"
+      "kebabs",
+      "chicken",
+      "turkish",
+      "grilled",
+      "summer"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 32,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
