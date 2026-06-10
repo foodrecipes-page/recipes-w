@@ -1,0 +1,107 @@
+{
+  "slug": "warm-lazy-sunday-lamb-tagine",
+  "title": "Lamb Tagine for a Lazy Sunday",
+  "description": "A hearty and flavorful Moroccan-inspired stew perfect for a relaxing Sunday afternoon.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Prunes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a large clay or ceramic pot over medium heat.",
+    "Add the onion, garlic, and ginger and cook, stirring occasionally, until the onion is softened, about 8 minutes.",
+    "Add the lamb and cook, stirring occasionally, until browned on all sides, about 5 minutes.",
+    "Add the cumin, coriander, cinnamon, turmeric, salt, and pepper, and stir to combine.",
+    "Add the prunes and 2 cups of water, and bring to a boil.",
+    "Cover the pot and transfer it to the oven.",
+    "Bake at 300°F for 2 1/2 hours, or until the lamb is tender.",
+    "Stir in the parsley, if using.",
+    "Serve the tagine over couscous or rice.",
+    "Garnish with additional parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "moroccan",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-lazy-sunday-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T10:43:41.105Z"
+}
