@@ -1,0 +1,72 @@
+{
+  "slug": "wholesome-korean-pear-pilaf",
+  "title": "Korean Wholesome Pilaf",
+  "description": "A flavorful and nutritious pilaf dish inspired by Korean cuisine, made with wholesome ingredients and a hint of sweetness from the pear.",
+  "cuisine": "korean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pear",
+      "amount": "2 cups diced"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "wholesome oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup diced",
+      "notes": "any variety"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of wholesome oil in a large saucepan over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the pilaf and cook, stirring frequently, for 2-3 minutes.",
+    "Add the diced pear and cook for 2-3 minutes, until the pilaf and pear are well combined.",
+    "Stir in the remaining 1 tablespoon of wholesome oil.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped green onion if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "wholesome",
+    "gluten-free",
+    "vegan",
+    "pear",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-korean-pear-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T10:45:38.378Z"
+}
