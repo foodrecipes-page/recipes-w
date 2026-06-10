@@ -1,0 +1,70 @@
+{
+  "slug": "winey-light-mediterranean-almond-milk-bowl",
+  "title": "Mediterranean Almond Cake",
+  "description": "A moist and flavorful cake made with Mediterranean flavors and topped with a crunchy almond crust. Perfect for a snack or dessert.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "light",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "1 tsp",
+      "notes": "dried herbs"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole milk"
+    },
+    {
+      "name": "winey",
+      "amount": "2 tbsp",
+      "notes": "red wine"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Grease a 9-inch (23cm) round cake pan and set aside.",
+    "In a large bowl, whisk together flour, Mediterranean herbs, and baking powder.",
+    "In a separate bowl, whisk together milk, red wine, and egg.",
+    "Add the wet ingredients to the dry ingredients and mix until just combined.",
+    "Pour the batter into the prepared pan and smooth the top.",
+    "Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Let the cake cool in the pan for 5 minutes, then transfer it to a wire rack to cool completely.",
+    "While the cake is cooling, prepare the almond crust by grinding the almonds in a food processor until finely chopped.",
+    "Mix the chopped almonds with a pinch of salt and a drizzle of red wine.",
+    "Once the cake is completely cool, sprinkle the almond crust over the top and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "mediterranean",
+    "almond"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-light-mediterranean-almond-milk-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T12:24:42.160Z"
+}
