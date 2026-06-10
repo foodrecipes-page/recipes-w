@@ -7006,17 +7006,14 @@
   },
   {
     "slug": "warm-smoky-australian-cheese-curds-gratin-in-ramekin",
-    "title": "Warm Smoky Australian Cheese Curds Gratin in Ramekin",
+    "title": "Warm Smoky Australian Gratin",
     "tags": [
       "australian",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "post-workout",
-      "whole30"
+      "cheese",
+      "brunch"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "cuisine": "australian",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -11851,18 +11848,15 @@
   },
   {
     "slug": "warmly-spiced-egyptian-lamb-tagine",
-    "title": "Warmly Spiced Egyptian Lamb Tagine",
+    "title": "Classic Egyptian Lamb Tagine",
     "tags": [
-      "ayurvedic-friendly",
-      "clay-pot-cooking",
-      "dairy-free",
-      "gluten-free",
-      "lamb-recipes",
-      "middle-eastern",
-      "pomegranate-molasses"
+      "lamb",
+      "tagine",
+      "north-african",
+      "stew"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 165,
     "shard": "w"
   },
   {
@@ -17389,19 +17383,15 @@
   },
   {
     "slug": "winey-crispy-indian-fish-curry",
-    "title": "Winey Crispy Indian Fish Curry",
+    "title": "Pan-Seared Fish with Indian Curry Sauce",
     "tags": [
-      "crispy",
-      "curry",
-      "fish",
-      "high-protein",
       "indian",
-      "midnight-craving",
-      "one-pan",
-      "weeknight"
+      "fish",
+      "curry",
+      "easy"
     ],
-    "cuisine": "north Indian",
-    "totalTimeMin": 35,
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
