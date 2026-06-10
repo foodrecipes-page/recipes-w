@@ -2451,17 +2451,15 @@
   },
   {
     "slug": "warm-delicate-vietnamese-pork-pho",
-    "title": "warm delicate vietnamese pork pho",
+    "title": "Delicate Vietnamese Pho",
     "tags": [
-      "comfort-food",
-      "noodle-soup",
-      "one-pan",
-      "slow-cooker",
-      "vietnamese-cuisine",
-      "weeknight"
+      "vietnamese",
+      "pork",
+      "soup",
+      "noodle"
     ],
     "cuisine": "vietnamese",
-    "totalTimeMin": 165,
+    "totalTimeMin": 150,
     "shard": "w"
   },
   {
