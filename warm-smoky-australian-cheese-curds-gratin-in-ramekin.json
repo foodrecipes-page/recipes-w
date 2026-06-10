@@ -1,0 +1,73 @@
+{
+  "slug": "warm-smoky-australian-cheese-curds-gratin-in-ramekin",
+  "title": "Warm Smoky Australian Gratin",
+  "description": "A rich and creamy gratin made with smoky Australian cheese and topped with crispy curds.",
+  "cuisine": "australian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Australian Smoked Cheese",
+      "amount": "250g",
+      "notes": "crumbly, smoked"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "125ml",
+      "notes": "rich, creamy"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "large, fresh"
+    },
+    {
+      "name": "Curds",
+      "amount": "50g",
+      "notes": "fresh, crispy"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "flaky, sea salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Butter 2 ramekins and set aside.",
+    "Combine Australian Smoked Cheese and Heavy Cream in a saucepan. Heat over medium heat, stirring occasionally, until cheese is melted and smooth.",
+    "Remove from heat and stir in Egg until well combined.",
+    "Season with Salt and Black Pepper to taste.",
+    "Divide cheese mixture between ramekins and top with Curds.",
+    "Place ramekins in a baking dish and add hot water to come halfway up the sides.",
+    "Bake for 20-25 minutes, or until tops are golden brown and gratins are set.",
+    "Remove from oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "cheese",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 10,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-australian-cheese-curds-gratin-in-ramekin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:27:20.209Z"
+}
