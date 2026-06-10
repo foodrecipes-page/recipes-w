@@ -1,0 +1,82 @@
+{
+  "slug": "wholesome-jamaican-kombu-stew",
+  "title": "Wholesome Jamaican Stew",
+  "description": "A hearty and flavorful stew made with wholesome ingredients, infused with the warmth of Jamaican spices.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 cups water"
+    },
+    {
+      "name": "wholesome vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "stew",
+      "amount": "1 can (14.5 oz)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onions and garlic, cook until softened (5 minutes).",
+    "Add curry powder, cook for 1 minute.",
+    "Add carrots, sweet potatoes, and vegetable broth. Bring to a boil.",
+    "Reduce heat to low and simmer (20 minutes).",
+    "Add kombu and cook for an additional 5 minutes.",
+    "Stir in stew and cook for 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs.",
+    "Let it rest for 10 minutes before serving.",
+    "Serve warm, garnished with chopped fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "wholesome",
+    "jamaican",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-jamaican-kombu-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:23:11.902Z"
+}
