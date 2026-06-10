@@ -4917,18 +4917,15 @@
   },
   {
     "slug": "warm-lazy-sunday-lamb-tagine",
-    "title": "Warm Lazy Sunday Lamb Tagine",
+    "title": "Lamb Tagine for a Lazy Sunday",
     "tags": [
-      "earthly-flavors",
-      "lazy-sunday",
-      "lentil-free",
-      "pomegranate-molasses",
-      "tagine-pot",
-      "tunisian-dish",
-      "vegetarian-friendly"
+      "lamb",
+      "tagine",
+      "moroccan",
+      "stew"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 45,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 170,
     "shard": "w"
   },
   {
@@ -14560,16 +14557,17 @@
   },
   {
     "slug": "wholesome-korean-pear-pilaf",
-    "title": "Wholesome Korean Pear Pilaf",
+    "title": "Korean Wholesome Pilaf",
     "tags": [
-      "comfort-food",
-      "korean-pear",
-      "low-glycemic",
-      "one-pan-dinner",
-      "sweet-pilaf"
+      "korean",
+      "wholesome",
+      "gluten-free",
+      "vegan",
+      "pear",
+      "pilaf"
     ],
-    "cuisine": "Korean-Dutch Fusion",
-    "totalTimeMin": 40,
+    "cuisine": "korean",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
