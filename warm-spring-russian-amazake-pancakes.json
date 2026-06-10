@@ -1,0 +1,86 @@
+{
+  "slug": "warm-spring-russian-amazake-pancakes",
+  "title": "Warm Spring Pancakes with Russian Twist",
+  "description": "Delicious pancakes with a hint of spring and a touch of Russian culture, topped with amazake syrup.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Amazake",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Pancakes",
+      "amount": "4-6"
+    },
+    {
+      "name": "Spring Onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Warm Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together warm water, sugar, eggs, and unsalted butter.",
+    "In a separate bowl, whisk together flour, baking powder, and salt.",
+    "Add the dry ingredients to the wet ingredients and stir until combined.",
+    "Heat a non-stick pan over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the pan.",
+    "Cook for 2-3 minutes or until bubbles appear on the surface.",
+    "Flip the pancakes and cook for an additional 1-2 minutes.",
+    "Serve the pancakes warm with amazake syrup drizzled on top.",
+    "To make amazake syrup, heat amazake in a saucepan over low heat until warm and syrupy.",
+    "Serve the pancakes with a sprinkle of spring onions on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "spring",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spring-russian-amazake-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:25:50.251Z"
+}
