@@ -1,0 +1,75 @@
+{
+  "slug": "warm-irish-potato-crumble",
+  "title": "Warm Irish Potato Crumble",
+  "description": "A hearty and comforting Irish-inspired dish featuring tender potatoes topped with a crunchy crumble.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Warm Irish Crumble Mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh chives",
+      "amount": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel and dice the potatoes into 1-inch cubes.",
+    "In a large saucepan, combine the diced potatoes and enough cold water to cover them.",
+    "Bring to a boil over high heat, then reduce the heat to medium-low and simmer for 10-12 minutes, or until the potatoes are tender when pierced with a fork.",
+    "Drain the potatoes and return them to the saucepan.",
+    "Add the butter, milk, salt, and pepper to the potatoes, and stir until the potatoes are well coated.",
+    "Transfer the potato mixture to a 9x13-inch baking dish.",
+    "Sprinkle the Warm Irish Crumble Mix evenly over the top of the potatoes.",
+    "Bake for 20-25 minutes, or until the crumble is golden brown and the potatoes are heated through.",
+    "Garnish with fresh chives, if desired.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "potato",
+    "crumble",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-irish-potato-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:10:54.758Z"
+}
