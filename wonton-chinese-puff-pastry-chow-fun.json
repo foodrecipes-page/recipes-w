@@ -1,0 +1,74 @@
+{
+  "slug": "wonton-chinese-puff-pastry-chow-fun",
+  "title": "Pan-Fried Wonton Pastry Bites",
+  "description": "A crispy and savory Chinese-inspired appetizer made with wonton wrappers and filled with a mixture of chow fun and fun ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wonton wrappers",
+      "amount": "1 package"
+    },
+    {
+      "name": "Chow fun",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fun ingredients (e.g. vegetables, seasonings)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Puff pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the puff pastry into small squares.",
+    "Place a wonton wrapper in the center of each square.",
+    "Add 1-2 tablespoons of chow fun mixture to the center of each wonton wrapper.",
+    "Brush the edges of the pastry with water.",
+    "Fold the pastry into a triangle and press the edges to seal.",
+    "Heat 1-2 tablespoons of vegetable oil in a pan over medium heat.",
+    "Add the pastry bites to the pan and cook until golden brown.",
+    "Transfer the pastry bites to a baking sheet.",
+    "Bake in the oven for 10-12 minutes, or until crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "appetizer",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wonton-chinese-puff-pastry-chow-fun",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:58:39.291Z"
+}
