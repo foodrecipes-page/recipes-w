@@ -1886,17 +1886,15 @@
   },
   {
     "slug": "warm-crispy-saudi-arabian-linguine-pasta",
-    "title": "Warm Crispy Saudi Arabian Linguine Pasta",
+    "title": "Saudi Arabian Linguine with Warm Crispy Sauce",
     "tags": [
-      "middle-eastern",
-      "one-pan",
-      "pasta-dish",
-      "quick-dinner",
-      "vegan-friendly",
-      "weeknight"
+      "italian",
+      "arabic",
+      "pasta",
+      "sauce"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "cuisine": "Arabic",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -4519,14 +4517,13 @@
     "slug": "warm-irish-potato-crumble",
     "title": "Warm Irish Potato Crumble",
     "tags": [
-      "dairy-free",
-      "dessert",
-      "one-pot",
+      "irish",
       "potato",
-      "warm-crumble"
+      "crumble",
+      "breakfast"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -17232,15 +17229,14 @@
   },
   {
     "slug": "winey-creamy-saudi-arabian-seafood-skillet",
-    "title": "Winey Creamy Saudi-Arabian Seafood Skillet",
+    "title": "Pan-Seared Seafood Skillet",
     "tags": [
-      "easy-dinner",
-      "one-pot",
       "seafood",
-      "weeknight"
+      "skillet",
+      "quick-dinner"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
@@ -18237,16 +18233,15 @@
   },
   {
     "slug": "wonton-chinese-puff-pastry-chow-fun",
-    "title": "wonton chinese puff pastry chow-fun",
+    "title": "Pan-Fried Wonton Pastry Bites",
     "tags": [
-      "agave-leaf",
       "chinese",
-      "puff-pastry",
-      "vegetarian",
-      "yuzu-cure"
+      "appetizer",
+      "snack",
+      "easy"
     ],
-    "cuisine": "chinese",
-    "totalTimeMin": 50,
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
