@@ -7026,17 +7026,16 @@
   },
   {
     "slug": "warm-smoky-british-fish-fry",
-    "title": "Warm Smoky British Fish Fry",
+    "title": "Smoky Fish Fry",
     "tags": [
-      "breakfast-option",
-      "british",
+      "smoky",
       "fish",
-      "kosher",
-      "one-pan",
-      "weeknight"
+      "fry",
+      "british",
+      "lunch"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 30,
+    "cuisine": "British",
+    "totalTimeMin": 18,
     "shard": "w"
   },
   {
@@ -9873,17 +9872,16 @@
   },
   {
     "slug": "warm-weeknight-mediterranean-juicy-lamb-stew",
-    "title": "Warm Weeknight Mediterranean Juicy Lamb Stew",
+    "title": "Lamb Stew with Mediterranean Vegetables",
     "tags": [
       "lamb",
-      "low-fat",
       "mediterranean",
-      "one-pan",
       "stew",
-      "weeknight"
+      "weeknight",
+      "hearty"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 180,
     "shard": "w"
   },
   {
