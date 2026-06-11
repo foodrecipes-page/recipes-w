@@ -1,0 +1,79 @@
+{
+  "slug": "warm-smoky-british-fish-fry",
+  "title": "Smoky Fish Fry",
+  "description": "A traditional British-style fish fry with a smoky twist, perfect for a quick and delicious meal.",
+  "cuisine": "British",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "Fresh and wild-caught"
+    },
+    {
+      "name": "Fry batter mix",
+      "amount": "1 cup",
+      "notes": "Make sure it's gluten-free"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": "Add a smoky flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use sea salt for the best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp",
+      "notes": "Freshly ground is best"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Heat the oil in a deep frying pan or a deep fryer to 350°F (175°C).",
+    "2. In a bowl, mix together the fry batter mix, smoked paprika, salt, and black pepper.",
+    "3. Dip each cod fillet into the batter mix, making sure it's fully coated.",
+    "4. Carefully place the battered cod fillets into the hot oil.",
+    "5. Fry the cod for 3-4 minutes on each side, or until golden brown and cooked through.",
+    "6. Remove the cod from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "7. Serve the smoky fish fry hot with lemon wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "fish",
+    "fry",
+    "british",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-british-fish-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:10:20.872Z"
+}
