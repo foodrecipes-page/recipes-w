@@ -1,0 +1,80 @@
+{
+  "slug": "warm-turkish-goat-doner-kebab",
+  "title": "Turkish Doner Kebab",
+  "description": "A traditional Turkish dish made with layers of lamb or beef stacked on a vertical spit and served in a crispy sesame-topped bun.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb or Beef",
+      "amount": "1 pound",
+      "notes": " Thinly sliced"
+    },
+    {
+      "name": "Warm Pita Bread",
+      "amount": "4-6 pita",
+      "notes": "For serving"
+    },
+    {
+      "name": "Turkish Doner Kebab Spices",
+      "amount": "2 tablespoons",
+      "notes": "A blend of spices including cumin, coriander, and paprika"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Melted Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together the Turkish Doner Kebab Spices, salt, and black pepper.",
+    "Thread the lamb or beef slices onto the vertical spit or skewers.",
+    "Brush the meat with the melted butter and sprinkle with the spice mixture.",
+    "Cook the meat over medium-high heat until it's nicely charred and cooked through.",
+    "Meanwhile, toast the pita bread by wrapping it in foil and heating it in the oven for a few minutes.",
+    "Assemble the doner kebab by slicing the cooked meat into thin strips and serving it in the toasted pita bread with a squeeze of lemon juice and a sprinkle of parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "kebab",
+    "lamb",
+    "beef",
+    "doner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-turkish-goat-doner-kebab",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:01:22.096Z"
+}
