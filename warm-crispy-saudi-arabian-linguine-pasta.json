@@ -1,0 +1,68 @@
+{
+  "slug": "warm-crispy-saudi-arabian-linguine-pasta",
+  "title": "Saudi Arabian Linguine with Warm Crispy Sauce",
+  "description": "A fusion dish blending the flavors of Arabic cuisine with the simplicity of Italian linguine. The warm crispy sauce brings a satisfying crunch to the dish.",
+  "cuisine": "Arabic",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "linguine",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "warm crispy sauce (see below for recipe)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "crushed garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook linguine according to package instructions until al dente.",
+    "In a large skillet, heat the warm crispy sauce over medium heat.",
+    "Add crushed garlic to the sauce and sauté for 1-2 minutes until fragrant.",
+    "Add cooked linguine to the sauce and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped parsley and lemon juice.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "arabic",
+    "pasta",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-saudi-arabian-linguine-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:48:40.703Z"
+}
