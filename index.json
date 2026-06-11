@@ -5699,13 +5699,11 @@
   },
   {
     "slug": "warm-palm-sugar-ethiopian-pip-gored-gored",
-    "title": "Warm Palm-Sugar Ethiopian Pip Gored-Gored",
+    "title": "Warm Gored Delight",
     "tags": [
-      "date-night",
       "ethiopian",
-      "gluten-free",
-      "low-carb",
-      "special-occasion"
+      "gored",
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 35,
@@ -9460,17 +9458,16 @@
   },
   {
     "slug": "warm-turkish-goat-doner-kebab",
-    "title": "Warm Turkish Goat Doner Kebab",
+    "title": "Turkish Doner Kebab",
     "tags": [
-      "flambe",
-      "goat-meat",
-      "halal-friendly",
-      "kebab-doner",
-      "middle-eastern",
-      "turkish-food"
+      "turkish",
+      "kebab",
+      "lamb",
+      "beef",
+      "doner"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
