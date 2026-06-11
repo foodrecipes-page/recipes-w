@@ -1,0 +1,83 @@
+{
+  "slug": "warm-buttery-moroccan-vegetables-couscous-royal",
+  "title": "Roasted Vegetable Couscous",
+  "description": "A flavorful and nutritious dish that combines the warmth of Moroccan spices with the comfort of roasted vegetables, served over a bed of couscous.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Buttery Couscous",
+      "amount": "1 cup",
+      "notes": "preferably royal couscous"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting vegetables"
+    },
+    {
+      "name": "Moroccan Spices",
+      "amount": "1 tsp",
+      "notes": "mix of cumin, paprika, and coriander"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large bowl, toss the chopped carrots, zucchini, and red bell pepper with olive oil, Moroccan spices, salt, and pepper until they are evenly coated.",
+    "Spread the vegetables on a baking sheet and roast in the preheated oven for 20-25 minutes, or until they are tender and lightly browned.",
+    "While the vegetables are roasting, prepare the couscous according to package instructions.",
+    "Fluff the cooked couscous with a fork and stir in buttery royal moroccan couscous.",
+    "Once the vegetables are done, remove them from the oven and let them cool slightly.",
+    "Serve the roasted vegetables over the flavored couscous and garnish with additional Moroccan spices if desired.",
+    "Drizzle with olive oil and sprinkle with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "vegetarian",
+    "couscous",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-buttery-moroccan-vegetables-couscous-royal",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:09:31.509Z"
+}
