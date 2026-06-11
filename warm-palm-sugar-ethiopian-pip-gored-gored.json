@@ -1,0 +1,65 @@
+{
+  "slug": "warm-palm-sugar-ethiopian-pip-gored-gored",
+  "title": "Warm Gored Delight",
+  "description": "A sweet and savory Ethiopian-inspired dish made with warm spices and tender gored. Perfect for a cozy evening.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gored",
+      "amount": "1 cup",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "2 tablespoons",
+      "notes": "coarsely chopped"
+    },
+    {
+      "name": "Warm spices",
+      "amount": "1 teaspoon",
+      "notes": "a blend of cinnamon, cardamom, and cloves"
+    },
+    {
+      "name": "Ethiopian spices",
+      "amount": "1 teaspoon",
+      "notes": "a blend of berbere, coriander, and cumin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together palm sugar, warm spices, and Ethiopian spices.",
+    "Add the sliced gored to the bowl and toss to coat with the spice mixture.",
+    "Transfer the gored mixture to a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 20-25 minutes, or until the gored is tender and lightly caramelized.",
+    "Season with salt to taste.",
+    "Serve warm, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "gored",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-palm-sugar-ethiopian-pip-gored-gored",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:14:00.693Z"
+}
