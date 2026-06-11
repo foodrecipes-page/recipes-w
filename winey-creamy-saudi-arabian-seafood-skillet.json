@@ -1,0 +1,77 @@
+{
+  "slug": "winey-creamy-saudi-arabian-seafood-skillet",
+  "title": "Pan-Seared Seafood Skillet",
+  "description": "A flavorful and quick seafood skillet dish, perfect for a weeknight dinner. This recipe combines succulent seafood with a rich creamy sauce.",
+  "cuisine": null,
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Arabian seafood mix",
+      "amount": "1 cup",
+      "notes": "Includes shrimp, mussels, and clams"
+    },
+    {
+      "name": "Winey white wine",
+      "amount": "1/4 cup",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Creamy heavy cream",
+      "amount": "2 tablespoons",
+      "notes": "For a rich sauce"
+    },
+    {
+      "name": "Saudi olive oil",
+      "amount": "1 tablespoon",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the seafood mix and cook for 2-3 minutes, until lightly browned.",
+    "Add the white wine and cook for 1 minute, until the liquid is almost completely reduced.",
+    "Stir in the heavy cream and bring the mixture to a simmer.",
+    "Cook for 2-3 minutes, until the sauce has thickened slightly.",
+    "Season with lemon juice and serve immediately.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "skillet",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 12,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-creamy-saudi-arabian-seafood-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:00:14.118Z"
+}
