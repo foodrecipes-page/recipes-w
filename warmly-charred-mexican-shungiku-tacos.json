@@ -1,0 +1,88 @@
+{
+  "slug": "warmly-charred-mexican-shungiku-tacos",
+  "title": "Shungiku Tacos with Charred Veggies",
+  "description": "A delicious and healthy twist on traditional tacos, featuring shungiku as the main ingredient and a variety of charred vegetables.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shungiku",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "warm tortillas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "charred bell peppers",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "charred zucchini",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "charred onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "avocado",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush shungiku with a little oil and season with salt and pepper.",
+    "Grill shungiku for 2-3 minutes per side, or until slightly charred.",
+    "Meanwhile, grill the bell peppers, zucchini, and onions for 3-4 minutes per side, or until charred.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by placing a few shungiku leaves on each tortilla, followed by some charred vegetables, avocado, and a squeeze of lime juice.",
+    "Sprinkle cumin and chili powder on top for extra flavor.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shungiku",
+    "tacos",
+    "vegan",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-charred-mexican-shungiku-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T04:50:27.344Z"
+}
