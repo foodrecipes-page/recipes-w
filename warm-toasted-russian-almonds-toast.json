@@ -1,0 +1,60 @@
+{
+  "slug": "warm-toasted-russian-almonds-toast",
+  "title": "Warm Almond Toast",
+  "description": "A simple yet flavorful snack made with toasted almonds and warm bread.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Bread",
+      "amount": "2 slices",
+      "notes": "preferably toasted"
+    },
+    {
+      "name": "Russian Almonds",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Warm",
+      "amount": "as needed",
+      "notes": "to toast the bread"
+    }
+  ],
+  "instructions": [
+    "1. Toast the bread until it's warm and crispy.",
+    "2. Spread a layer of toasted almonds on top of each slice.",
+    "3. Sprinkle Russian almonds on top of the toasted almonds (if using).",
+    "4. Season with salt to taste.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 2,
+  "totalTimeMin": 4,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "breakfast",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-toasted-russian-almonds-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:57:28.808Z"
+}
