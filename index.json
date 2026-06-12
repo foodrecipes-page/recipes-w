@@ -10011,17 +10011,15 @@
   },
   {
     "slug": "warm-white-indian-yogurt-lassi",
-    "title": "Warm White Indian Yogurt Lassi",
+    "title": "Indian-Style Raita",
     "tags": [
-      "cedar-plank",
-      "easy-recipe",
-      "indian-food",
-      "kosher-friendly",
-      "vegetarian-snack",
-      "yogurt-lassi"
+      "raita",
+      "cucumber",
+      "yogurt",
+      "spicy"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 10,
     "shard": "w"
   },
   {
@@ -17441,15 +17439,14 @@
   },
   {
     "slug": "winey-crunchy-tunisian-dates-tagine",
-    "title": "Winey Crunchy Tunisian Dates Tagine",
+    "title": "Tunisian-Style Date Tagine",
     "tags": [
-      "gluten-free-friendly",
-      "midnight-craving",
-      "one-pan",
-      "tunisian"
+      "north-african",
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 30,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
