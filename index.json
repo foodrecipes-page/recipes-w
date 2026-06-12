@@ -3236,17 +3236,16 @@
   },
   {
     "slug": "warm-flaky-filipino-coconut-leche-flan",
-    "title": "Warm Flaky Filipino Coconut Leche Flan",
+    "title": "Coconut Leche Flan",
     "tags": [
-      "coconut-based",
-      "filipino-food",
-      "fodmap-friendly",
-      "gelatine-desserts",
-      "post-workout-snacks",
-      "stone-bowl-recipes"
+      "filipino",
+      "coconut",
+      "leche",
+      "flan",
+      "dessert"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "totalTimeMin": 65,
     "shard": "w"
   },
   {
@@ -16479,17 +16478,15 @@
   },
   {
     "slug": "wildly-smoky-egyptian-dasima-kombu-skewers",
-    "title": "Wildly Smoky Egyptian Dasima Kombu Skewers",
+    "title": "Wildly Smoked Egyptian Kebabs",
     "tags": [
-      "egyptian-cuisine",
-      "grilled",
-      "high-protein",
-      "lazy-sunday",
-      "smoky",
-      "spicy"
+      "kebabs",
+      "wild mushrooms",
+      "egyptian",
+      "vegetarian"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 33,
     "shard": "w"
   },
   {
