@@ -1,0 +1,94 @@
+{
+  "slug": "warm-roasted-ethiopian-ackee-fir-fir",
+  "title": "Fir and Ackee Ethiopian Breakfast",
+  "description": "A traditional Ethiopian breakfast dish featuring roasted fir and ackee. This recipe combines the flavors of the fir tree with the creamy texture of ackee.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fir needles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ackee",
+      "amount": "1 cup",
+      "notes": "Canned or fresh, drained and chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Warm injera bread",
+      "amount": "2 pieces",
+      "notes": "Traditional Ethiopian flatbread"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the fir needles, ground ginger, cumin, turmeric, salt, and black pepper. Cook for 2-3 minutes.",
+    "Add the chopped ackee and stir well. Cook for 2-3 minutes.",
+    "Warm the injera bread by wrapping it in a damp cloth and microwaving for 20-30 seconds.",
+    "Assemble the breakfast dish by placing the fir and ackee mixture on top of the warmed injera bread.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "ethiopian",
+    "vegetarian",
+    "ackee",
+    "fir"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-roasted-ethiopian-ackee-fir-fir",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T08:08:26.632Z"
+}
