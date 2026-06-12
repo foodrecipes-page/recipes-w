@@ -9075,17 +9075,14 @@
   },
   {
     "slug": "warm-springy-tunisian-celery-bake",
-    "title": "Warm Springy Tunisian Celery Bake",
+    "title": "Tunisian Spring Vegetable Bake",
     "tags": [
-      "gluten-free",
-      "one-pan",
-      "spring-recipes",
       "tunisian-cuisine",
-      "vegetarian-dishes",
-      "weeknight-meals"
+      "spring-vegetables",
+      "bake-recipe"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -10934,16 +10931,15 @@
   },
   {
     "slug": "warming-crispy-russian-mussels-pilaf",
-    "title": "Warming Crispy Russian Mussels Pilaf",
+    "title": "Baked Russian-Style Mussels Pilaf",
     "tags": [
-      "crispy",
-      "high-protein",
-      "one-pan",
-      "quick-fix",
-      "weeknight"
+      "baked",
+      "mussels",
+      "pilaf",
+      "russian"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 25,
+    "cuisine": "Russian",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
