@@ -1,0 +1,98 @@
+{
+  "slug": "wildly-smoked-polish-pork-dumplings",
+  "title": "Smoked Pork Dumplings with Polish Wild Mushroom Sauce",
+  "description": "A hearty Polish-inspired dish featuring smoked pork dumplings served in a rich wild mushroom sauce.",
+  "cuisine": "Polish",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dumpling wrappers",
+      "amount": "12-15 wrappers",
+      "notes": "available at most Asian grocery stores or online"
+    },
+    {
+      "name": "Smoked pork shoulder",
+      "amount": "1 pound",
+      "notes": "use a meat slicer to thinly slice the pork"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Wild mushrooms (such as shiitake or cremini)",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Polish sausage (such as kielbasa)",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "used to thicken sauce"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "used to make sauce rich"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat the butter over medium-high heat.",
+    "Add the sliced pork and cook until browned, about 5 minutes.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the sliced Polish sausage and cook until browned, about 3-4 minutes.",
+    "In a small bowl, mix together the flour and chicken broth until smooth.",
+    "Add the flour mixture to the skillet and stir to combine.",
+    "Bring the sauce to a simmer and cook until thickened, about 2-3 minutes.",
+    "Meanwhile, assemble the dumplings by placing a tablespoon of the pork mixture onto a dumpling wrapper.",
+    "Fold the wrapper over the filling and press the edges together to seal.",
+    "In a large pot of boiling water, cook the dumplings for 5-7 minutes, or until they float to the surface.",
+    "Serve the dumplings in the wild mushroom sauce, garnished with chopped fresh thyme."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "wild-mushrooms",
+    "smoked-pork",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wildly-smoked-polish-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:20:52.722Z"
+}
