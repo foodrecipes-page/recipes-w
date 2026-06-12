@@ -11186,16 +11186,15 @@
   },
   {
     "slug": "warmly-charred-mexican-shungiku-tacos",
-    "title": "Warmly Charred Mexican Shungiku Tacos",
+    "title": "Shungiku Tacos with Charred Veggies",
     "tags": [
-      "gluten-free",
-      "kid-friendly",
-      "mexican-food",
-      "vegetarian",
-      "weeknight-dinner"
+      "shungiku",
+      "tacos",
+      "vegan",
+      "mexican"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
