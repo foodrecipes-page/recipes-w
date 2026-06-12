@@ -1,0 +1,81 @@
+{
+  "slug": "warming-crispy-russian-mussels-pilaf",
+  "title": "Baked Russian-Style Mussels Pilaf",
+  "description": "A hearty, comforting dish with mussels, rice, and spices. Perfect for a chilly evening.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mussels",
+      "amount": "1 pound",
+      "notes": "debearded and rinsed"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 1/2 cups",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Russian Pilaf Seasoning",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Warming Spices (cinnamon, nutmeg)",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Crispy Onions (optional)",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "White Wine (optional)",
+      "amount": "1/4 cup",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large saucepan, heat olive oil over medium heat.",
+    "Add mussels and cook until they start to open (about 3-4 minutes).",
+    "Add pilaf, Russian pilaf seasoning, and warming spices. Stir to combine.",
+    "Transfer the mixture to a baking dish.",
+    "If using white wine, pour it over the mussels.",
+    "Top with crispy onions (if using).",
+    "Cover the dish with foil and bake for 15 minutes.",
+    "Remove the foil and continue baking for an additional 5-7 minutes, or until mussels are cooked through.",
+    "Serve hot, garnished with additional crispy onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "mussels",
+    "pilaf",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warming-crispy-russian-mussels-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:12:31.847Z"
+}
