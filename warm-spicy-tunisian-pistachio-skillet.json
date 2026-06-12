@@ -1,0 +1,89 @@
+{
+  "slug": "warm-spicy-tunisian-pistachio-skillet",
+  "title": "Tunisian Skillet Chicken",
+  "description": "A flavorful and spicy Tunisian-inspired chicken dish made with chicken, spices, and pistachios.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "pistachio meal",
+      "amount": "2 tablespoons",
+      "notes": "ground pistachios"
+    },
+    {
+      "name": "spices",
+      "amount": "1 teaspoon",
+      "notes": "a mix of cumin, coriander, and cayenne pepper"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for skillet"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chicken breast and cook until browned on both sides, about 5-6 minutes.",
+    "Add the pistachio meal, spices, diced tomatoes, chicken broth, and salt.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and cook, covered, until the chicken is cooked through and the sauce has thickened, about 10-12 minutes.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tunisian",
+    "skillet",
+    "spicy",
+    "pistachio"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-tunisian-pistachio-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:05:44.823Z"
+}
