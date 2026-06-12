@@ -1,0 +1,89 @@
+{
+  "slug": "warm-light-portuguese-dish-bowl",
+  "title": "Portuguese-Style Fish Stew",
+  "description": "A hearty and flavorful stew originating from Portugal, traditionally made with fish and potatoes. This recipe serves 4-6 people.",
+  "cuisine": "portuguese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod Fillets",
+      "amount": "1 lb",
+      "notes": "Fresh, skin removed"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "Diced"
+    },
+    {
+      "name": "Fish Stock",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Flaky sea salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large, heavy pot over medium heat.",
+    "Add the chopped onions and cook until they're translucent, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the diced tomatoes, fish stock, salt, and black pepper. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the cod fillets to the stew and cook for an additional 8-10 minutes, or until the fish is cooked through.",
+    "Serve the stew hot, garnished with chopped fresh parsley or cilantro if desired.",
+    "Serve with crusty bread or over rice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "fish",
+    "stew",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-light-portuguese-dish-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T17:01:57.819Z"
+}
