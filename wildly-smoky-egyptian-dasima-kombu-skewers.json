@@ -1,0 +1,80 @@
+{
+  "slug": "wildly-smoky-egyptian-dasima-kombu-skewers",
+  "title": "Wildly Smoked Egyptian Kebabs",
+  "description": "A flavorful and aromatic kebab dish featuring smoky Egyptian spices and a hint of wildness from the dasima and kombu.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dasima",
+      "amount": "2 cups",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "kombu",
+      "amount": "4 sheets",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "wild mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "skewers",
+      "amount": "12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "egyptian spice blend",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Soak skewers in water for 30 minutes before use.",
+    "In a large bowl, combine dasima, kombu, wild mushrooms, and Egyptian spice blend.",
+    "Thread the mixture onto the skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the kebabs for 8-10 minutes per side, or until the vegetables are tender and lightly charred.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "wild mushrooms",
+    "egyptian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wildly-smoky-egyptian-dasima-kombu-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:23:37.550Z"
+}
