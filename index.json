@@ -5097,15 +5097,12 @@
   },
   {
     "slug": "warm-malty-british-grape-nuts-skewers",
-    "title": "Warm Malty British Grape Nuts Skewers",
+    "title": "Classic British Scones",
     "tags": [
-      "british-inspired",
-      "crowd-pleaser",
-      "easy-to-make",
-      "grape-nuts",
-      "malty",
-      "nut-free",
-      "robata-grill"
+      "british",
+      "breakfast",
+      "snack",
+      "scones"
     ],
     "cuisine": "British",
     "totalTimeMin": 30,
@@ -16475,17 +16472,15 @@
   },
   {
     "slug": "wildly-smoked-polish-pork-dumplings",
-    "title": "Wildly Smoked Polish Pork Dumplings",
+    "title": "Smoked Pork Dumplings with Polish Wild Mushroom Sauce",
     "tags": [
-      "comfort-food",
-      "individual-servings",
-      "polish-cuisine",
-      "rice-paper-dumplings",
+      "polish",
+      "wild-mushrooms",
       "smoked-pork",
-      "special-occasion"
+      "dumplings"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 65,
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
