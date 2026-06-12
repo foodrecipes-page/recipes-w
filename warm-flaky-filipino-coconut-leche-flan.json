@@ -1,0 +1,77 @@
+{
+  "slug": "warm-flaky-filipino-coconut-leche-flan",
+  "title": "Coconut Leche Flan",
+  "description": "A Filipino dessert made with coconut milk, leche, and a caramelized sugar crust.",
+  "cuisine": "Filipino",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "chilled"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "leche",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "flan molds",
+      "amount": "6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a medium saucepan, combine the sugar and 1/4 cup water. Cook over medium heat, stirring occasionally, until the sugar dissolves.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "Remove from heat and stir in the coconut milk.",
+    "In a large bowl, whisk together the eggs, leche, and vanilla extract.",
+    "Strain the mixture into the saucepan with the coconut milk mixture.",
+    "Pour the mixture into the prepared flan molds.",
+    "Place the molds in a large baking dish and add hot water to come halfway up the sides of the molds.",
+    "Bake for 45-50 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove from the water bath and let cool to room temperature.",
+    "Chill in the refrigerator for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "coconut",
+    "leche",
+    "flan",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-flaky-filipino-coconut-leche-flan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:13:30.114Z"
+}
