@@ -1,0 +1,85 @@
+{
+  "slug": "warm-jamaican-coconut-pasta",
+  "title": "Jamaican Coconut Pasta Bake",
+  "description": "A tropical twist on traditional pasta bake, infused with the flavors of Jamaica.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz (225g)",
+      "notes": "penne or fusilli work well"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz / 397g)",
+      "notes": "full-fat for best flavor"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/4 cup (30g)",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup (15g)",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat coconut oil over medium heat. Add onion and cook until softened, about 3-4 minutes.",
+    "Add garlic and cook for an additional minute, until fragrant.",
+    "Stir in Jamaican jerk seasoning and cook for 1 minute.",
+    "Add coconut milk and bring to a simmer. Reduce heat to low and let sauce cook for 2-3 minutes.",
+    "In a large bowl, combine cooked pasta, coconut milk sauce, and shredded coconut (if using).",
+    "Transfer pasta mixture to a baking dish and top with additional shredded coconut (if using).",
+    "Bake in preheated oven for 15-20 minutes, until top is golden brown and sauce is bubbly.",
+    "Garnish with chopped fresh cilantro (if using) and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "coconut",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-jamaican-coconut-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:27:56.925Z"
+}
