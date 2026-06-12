@@ -1,0 +1,82 @@
+{
+  "slug": "wholesome-silky-australian-sardines-tagliere",
+  "title": "Australian Sardine Tagliere",
+  "description": "A simple, flavorful dish that combines the rich taste of sardines with the freshness of Australian ingredients.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole Australian Sardines in Olive Oil",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Wholesome Whole Wheat Bread",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Silky Feta Cheese",
+      "amount": "120g",
+      "notes": "crumbling is recommended"
+    },
+    {
+      "name": "Tagliere (flatbread)",
+      "amount": "1 pc",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Australian Lemon",
+      "amount": "1 pc",
+      "notes": "juices only"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Freshly Ground Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 200°C (392°F).",
+    "2. Slice the whole wheat bread into 1cm thick slices.",
+    "3. Place the slices on a baking sheet and drizzle with olive oil.",
+    "4. Bake in the oven for 5 minutes or until lightly toasted.",
+    "5. Remove from the oven and let cool for a few minutes.",
+    "6. Open the sardines and drain the liquid.",
+    "7. Place the sardines on top of the toasted bread slices.",
+    "8. Crumbling the feta cheese, sprinkle it over the sardines.",
+    "9. Squeeze a bit of lemon juice over the top.",
+    "10. Season with black pepper to taste.",
+    "11. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "sardines",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24.5,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-silky-australian-sardines-tagliere",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T05:46:30.541Z"
+}
