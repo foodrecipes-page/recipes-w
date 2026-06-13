@@ -2827,17 +2827,14 @@
   },
   {
     "slug": "warm-dutch-beef-skillet",
-    "title": "Warm Dutch Beef Skillet",
+    "title": "Beef and Dutch Skillet Hash",
     "tags": [
-      "beef-recipes",
-      "cast-iron-skillet",
-      "date-night",
-      "dutch-cuisine",
-      "low-sodium",
-      "one-pan"
+      "beef-hash",
+      "dutch-recipe",
+      "breakfast-recipe"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 55,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -10385,16 +10382,15 @@
   },
   {
     "slug": "warm-wilted-argentinian-beans-stew",
-    "title": "Warm-Wilted Argentinian Beans Stew",
+    "title": "Argentinian Bean Stew",
     "tags": [
-      "argentinean",
-      "light",
-      "romantic",
-      "savory",
-      "vegetarian",
-      "wilty"
+      "argentinian",
+      "bean",
+      "stew",
+      "comfort",
+      "hearty"
     ],
-    "cuisine": "Argentinean",
+    "cuisine": "argentinian",
     "totalTimeMin": 40,
     "shard": "w"
   },
@@ -13028,17 +13024,14 @@
   },
   {
     "slug": "whole-charred-hakka-ground-beef-buddha-jumps-over-wall",
-    "title": "Whole Charred Hakka Ground Beef Buddha Jumps Over Wall",
+    "title": "Buddha Jumps Over the Wall Beef Stew",
     "tags": [
-      "chinese-food",
-      "date-night",
-      "gluten-free",
-      "ground-beef",
-      "hakka",
-      "whole30"
+      "beef",
+      "chinese",
+      "stew"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 47,
+    "totalTimeMin": 80,
     "shard": "w"
   },
   {
