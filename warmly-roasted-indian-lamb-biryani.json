@@ -1,0 +1,94 @@
+{
+  "slug": "warmly-roasted-indian-lamb-biryani",
+  "title": "Indian Lamb Biryani",
+  "description": "A flavorful and aromatic lamb biryani recipe with a blend of spices and basmati rice.",
+  "cuisine": "indian",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "whole"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add chopped onion and cook until it's lightly browned.",
+    "Add minced garlic and grated ginger. Cook for 1 minute.",
+    "Add lamb pieces and cook until they're browned on all sides.",
+    "Add coriander powder, red chili powder, and salt. Mix well.",
+    "Add basmati rice to the pan and mix well with the lamb and spice mixture.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce heat to low, cover the pan, and cook for 20-25 minutes.",
+    "Fluff the biryani with a fork and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "biryani",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-roasted-indian-lamb-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T17:12:07.641Z"
+}
