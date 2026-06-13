@@ -1,0 +1,80 @@
+{
+  "slug": "wilted-baby-portuguese-lettuce-salad",
+  "title": "Wilted Lettuce Salad with Portuguese Sausage",
+  "description": "A hearty salad made with wilted lettuce, Portuguese sausage, and crispy bacon, perfect for a warm evening.",
+  "cuisine": "American",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wilted Lettuce",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Portuguese Sausage",
+      "amount": "1 pound",
+      "notes": "Casings removed"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet, cook the bacon over medium heat until crispy.",
+    "2. Remove the bacon from the skillet and set aside.",
+    "3. Add the Portuguese sausage to the skillet and cook until browned, breaking it up with a spoon as it cooks.",
+    "4. Add the minced garlic to the skillet and cook for 1 minute.",
+    "5. Add the red onion to the skillet and cook for 2 minutes.",
+    "6. Add the wilted lettuce to the skillet and cook until it's wilted, about 2-3 minutes.",
+    "7. Season the mixture with salt and pepper to taste.",
+    "8. In a large bowl, combine the cooked sausage mixture, crispy bacon, and red wine vinegar.",
+    "9. Drizzle the olive oil over the top and toss to combine.",
+    "10. Serve the salad immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese-sausage",
+    "wilted-lettuce",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-baby-portuguese-lettuce-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:14:05.425Z"
+}
