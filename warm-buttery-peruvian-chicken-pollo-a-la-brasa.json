@@ -1,0 +1,88 @@
+{
+  "slug": "warm-buttery-peruvian-chicken-pollo-a-la-brasa",
+  "title": "Pollo a la Brasa",
+  "description": "A traditional Peruvian-style roasted chicken recipe, marinated in a mixture of spices and herbs.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole chicken",
+      "amount": "1",
+      "notes": "3-4 lbs"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "flaky"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "warm aji amarillo pepper sauce",
+      "amount": "2 tbsp",
+      "notes": "see note"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a blender or food processor, blend together garlic, oregano, cumin, black pepper, and salt.",
+    "Add the chicken broth to the blender and blend until smooth.",
+    "Place the chicken in a large bowl and pour the marinade over it.",
+    "Rub the marinade all over the chicken, making sure it's well coated.",
+    "Let the chicken marinate for at least 2 hours, or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Remove the chicken from the marinade and cook for 5-7 minutes per side, or until it reaches an internal temperature of 165°F (74°C).",
+    "Transfer the chicken to a baking sheet and roast in the preheated oven for 15-20 minutes, or until it's cooked through and the skin is crispy.",
+    "Let the chicken rest for 10-15 minutes before slicing and serving.",
+    "Serve with warm aji amarillo pepper sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pollo",
+    "chicken",
+    "peruvian",
+    "roasted",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 52,
+    "carbs": 6,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-buttery-peruvian-chicken-pollo-a-la-brasa",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:41:23.169Z"
+}
