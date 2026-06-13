@@ -1,0 +1,78 @@
+{
+  "slug": "warm-wrapped-indian-serrano-ham-wrap",
+  "title": "Indian Ham Wrap",
+  "description": "A flavorful and spicy Indian-inspired ham wrap with a crunchy texture.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ham",
+      "amount": "4 oz",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Serrano",
+      "amount": "1 pepper",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Warm Wrap",
+      "amount": "1",
+      "notes": "large tortilla"
+    },
+    {
+      "name": "Indian Spices",
+      "amount": "to taste",
+      "notes": "cumin, coriander, cayenne pepper"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "to taste",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "to taste",
+      "notes": "diced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "to taste",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium-high heat.",
+    "Add the ham and cook for 2-3 minutes, until lightly browned.",
+    "Add the serrano peppers and cook for an additional minute.",
+    "Warm the wrap in the microwave for 10-15 seconds.",
+    "Assemble the wrap by adding the cooked ham and serrano mixture, lettuce, tomato, and cilantro.",
+    "Sprinkle with indian spices to taste.",
+    "Fold the wrap in half to enclose the filling.",
+    "Cut in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "ham",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wrapped-indian-serrano-ham-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:17:08.831Z"
+}
