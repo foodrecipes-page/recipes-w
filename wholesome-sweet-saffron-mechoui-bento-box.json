@@ -1,0 +1,73 @@
+{
+  "slug": "wholesome-sweet-saffron-mechoui-bento-box",
+  "title": "Saffron Mechoui Bento",
+  "description": "A flavorful and savory dish that combines traditional Moroccan mechoui with the delicate flavor of saffron, served in a Japanese-inspired bento box.",
+  "cuisine": "Moroccan Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "meat substitute (such as seitan or tofu)",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1 tsp",
+      "notes": "soak in 2 tbsp hot water"
+    },
+    {
+      "name": "bento box ingredients (such as steamed rice, mixed vegetables, pickled ginger)",
+      "amount": "varies",
+      "notes": ""
+    },
+    {
+      "name": "wholesome all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sweet onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "box spices (such as cumin, coriander, paprika)",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, mix together flour, spices, and saffron threads. Add the meat substitute and mix until coated.",
+    "In a large baking dish, arrange the chopped onion in a single layer. Place the coated meat substitute on top.",
+    "Bake for 30 minutes, or until the onion is caramelized and the meat substitute is cooked through.",
+    "Prepare the bento box ingredients according to your preference.",
+    "To assemble the bento, place a portion of the mechoui mixture in the box, followed by a portion of the bento box ingredients.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "japanese",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-sweet-saffron-mechoui-bento-box",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:11:51.074Z"
+}
