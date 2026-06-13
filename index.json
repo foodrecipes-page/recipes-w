@@ -11445,17 +11445,14 @@
   },
   {
     "slug": "warmly-roasted-indian-lamb-biryani",
-    "title": "Warmly Roasted Indian Lamb Biryani",
+    "title": "Indian Lamb Biryani",
     "tags": [
-      "comfort-food",
-      "indian-cuisine",
-      "lamb-recipes",
-      "one-pan",
-      "roasted",
-      "weeknight"
+      "lamb",
+      "biryani",
+      "indian"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 100,
+    "cuisine": "indian",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -12461,15 +12458,14 @@
   },
   {
     "slug": "wcharred-bouncy-qq-carrot-skillet",
-    "title": "Wcharred Bouncy-Qq Carrot Skillet",
+    "title": "Pan-Seared Carrot Skillet with Wcharred Flavor",
     "tags": [
-      "bouncy-qq",
-      "charred-carrots",
-      "norwegian-dish",
-      "paleo-friendly"
+      "skillet",
+      "carrots",
+      "wcharred"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
