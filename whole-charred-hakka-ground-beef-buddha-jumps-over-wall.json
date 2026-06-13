@@ -1,0 +1,81 @@
+{
+  "slug": "whole-charred-hakka-ground-beef-buddha-jumps-over-wall",
+  "title": "Buddha Jumps Over the Wall Beef Stew",
+  "description": "A hearty and flavorful beef stew inspired by Chinese cuisine, with a unique combination of ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef, ground",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Whole wall onions",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Charred Hakka noodles",
+      "amount": "8 oz",
+      "notes": "Broken into bite-sized pieces"
+    },
+    {
+      "name": "Over-salted soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Buddha's delight mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Jumps rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onions and cook until browned, about 5 minutes.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the broken noodles, soy sauce, mushrooms, and beef broth. Stir to combine.",
+    "Bring the mixture to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 1 hour, or until the stew is hot and the flavors have melded together.",
+    "Serve hot, garnished with chopped green onions and a drizzle of rice vinegar."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "chinese",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whole-charred-hakka-ground-beef-buddha-jumps-over-wall",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T18:35:32.484Z"
+}
