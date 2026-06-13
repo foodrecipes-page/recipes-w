@@ -1,0 +1,80 @@
+{
+  "slug": "warm-smoky-argentinian-beef-skewers",
+  "title": "Argentinian Beef Skewers",
+  "description": "Tender beef, marinated in a blend of herbs and spices, grilled to perfection on skewers. Serve with a side of chimichurri sauce for an authentic Argentinian experience.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oily red pepper",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "100ml",
+      "notes": "apple cider vinegar alternative"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "120ml",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 220°C (425°F).",
+    "In a large bowl, combine beef, garlic, red pepper, oregano, red wine vinegar, salt, and black pepper. Mix well to coat.",
+    "Thread beef onto skewers, about 10-12 pieces per skewer.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes per side, or until beef reaches an internal temperature of 63°C (145°F).",
+    "Let skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 18,
+  "totalTimeMin": 48,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-argentinian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:06:24.505Z"
+}
