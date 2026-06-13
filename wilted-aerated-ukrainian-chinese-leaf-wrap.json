@@ -1,0 +1,72 @@
+{
+  "slug": "wilted-aerated-ukrainian-chinese-leaf-wrap",
+  "title": "Ukrainian Leaf Wraps",
+  "description": "A simple Ukrainian-inspired dish made with fresh leafy greens wrapped in a crispy aerated wrap.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fresh Leafy Greens",
+      "amount": "1 bunch",
+      "notes": "Choose your favorite type of leafy green"
+    },
+    {
+      "name": "Aerated Wrap",
+      "amount": "4-6",
+      "notes": "Can be substituted with a traditional wrap"
+    },
+    {
+      "name": "Wilted Spinach and Garlic",
+      "amount": "1 cup",
+      "notes": "Canned or cooked fresh spinach"
+    },
+    {
+      "name": "Ukrainian Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "Can be substituted with regular feta cheese"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Add the wilted spinach and garlic mixture and stir to combine.",
+    "Add the Ukrainian feta cheese and stir to combine.",
+    "Place an aerated wrap on a flat surface.",
+    "Add a handful of fresh leafy greens to the center of the wrap.",
+    "Spoon the spinach and feta mixture on top of the greens.",
+    "Sprinkle sesame seeds for garnish.",
+    "Fold the bottom half of the wrap up over the filling.",
+    "Fold in the sides and roll the wrap up tightly.",
+    "Repeat with the remaining ingredients.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "snack",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-aerated-ukrainian-chinese-leaf-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:02:23.024Z"
+}
