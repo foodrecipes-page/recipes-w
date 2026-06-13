@@ -1,0 +1,61 @@
+{
+  "slug": "wcharred-bouncy-qq-carrot-skillet",
+  "title": "Pan-Seared Carrot Skillet with Wcharred Flavor",
+  "description": "A hearty and flavorful skillet dish featuring pan-seared carrots and a hint of wcharred goodness.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrot",
+      "amount": "1 large, peeled and sliced"
+    },
+    {
+      "name": "skillet",
+      "amount": "1 medium, oiled"
+    },
+    {
+      "name": "wcharred",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bouncy",
+      "amount": "1 teaspoon (for garnish)"
+    },
+    {
+      "name": "qq",
+      "amount": "1/2 teaspoon (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat.",
+    "Add the wcharred to the skillet and sauté for 2-3 minutes.",
+    "Add the sliced carrots to the skillet and cook for 5-7 minutes, stirring occasionally.",
+    "Season with salt and pepper to taste.",
+    "Garnish with bouncy and serve hot.",
+    "If using qq, sprinkle over the carrots before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "skillet",
+    "carrots",
+    "wcharred"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 25,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wcharred-bouncy-qq-carrot-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T18:12:15.096Z"
+}
