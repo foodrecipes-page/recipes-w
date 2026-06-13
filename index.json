@@ -580,14 +580,13 @@
   },
   {
     "slug": "warm-buttery-peruvian-chicken-pollo-a-la-brasa",
-    "title": "Warm Buttery Peruvian Chicken Pollo A La Brasa",
+    "title": "Pollo a la Brasa",
     "tags": [
-      "chicken-recipes",
-      "comfort-food",
-      "dinner-ideas",
-      "gluten-free",
-      "peruvian-cuisine",
-      "satvik-friendly"
+      "pollo",
+      "chicken",
+      "peruvian",
+      "roasted",
+      "grilled"
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 65,
@@ -13121,17 +13120,15 @@
   },
   {
     "slug": "wholesome-algerian-fenugreek-tagine",
-    "title": "Wholesome Algerian Fenugreek Tagine",
+    "title": "Algerian Chicken Tagine",
     "tags": [
+      "chicken",
       "algerian",
-      "fenugreek",
-      "high-protein",
-      "miso",
-      "monsoon",
-      "one-pan"
+      "tagine",
+      "fenugreek"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 60,
     "shard": "w"
   },
   {
