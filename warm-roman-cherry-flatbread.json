@@ -1,0 +1,73 @@
+{
+  "slug": "warm-roman-cherry-flatbread",
+  "title": "Roman Flatbread Pizza",
+  "description": "A simple pizza recipe using Roman flatbread, cherry tomatoes, and mozzarella cheese.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roman flatbread",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 ball",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Place the Roman flatbread sheets on a baking sheet.",
+    "Drizzle the olive oil over the flatbread.",
+    "Top the flatbread with cherry tomatoes, mozzarella cheese, and fresh basil.",
+    "Season with salt and pepper to taste.",
+    "Bake in the preheated oven for 12-15 minutes.",
+    "Remove from the oven and let it cool for a few minutes.",
+    "Slice and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "pizza",
+    "italian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-roman-cherry-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:40:39.501Z"
+}
