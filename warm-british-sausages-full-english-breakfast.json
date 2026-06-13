@@ -1,0 +1,98 @@
+{
+  "slug": "warm-british-sausages-full-english-breakfast",
+  "title": "Full English Breakfast",
+  "description": "A traditional British breakfast consisting of sausages, eggs, bacon, and toast.",
+  "cuisine": "British",
+  "diet": [
+    "meat",
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sausages",
+      "amount": "4",
+      "notes": "Pork sausages"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "Rashers"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2",
+      "notes": "Fresh eggs"
+    },
+    {
+      "name": "Black Pudding",
+      "amount": "1",
+      "notes": "Optional"
+    },
+    {
+      "name": "Baked Beans",
+      "amount": "1 can",
+      "notes": "Optional"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "2",
+      "notes": "Button mushrooms"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": "Fresh tomatoes"
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices",
+      "notes": "White bread"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick frying pan over medium heat.",
+    "2. Add the sliced bacon to the pan and cook until crispy.",
+    "3. Remove the bacon from the pan and set aside.",
+    "4. Add the sausages to the pan and cook until browned on all sides.",
+    "5. Add the mushrooms and cook until they release their moisture and start to brown.",
+    "6. Crack the eggs into the pan and cook until the whites are set and the yolks are cooked to your liking.",
+    "7. Add the baked beans to the pan and heat through.",
+    "8. Toast the bread until it is lightly browned.",
+    "9. Assemble the full English breakfast by placing the cooked sausages, bacon, eggs, mushrooms, and baked beans onto the toasted bread.",
+    "10. Season with salt and pepper to taste.",
+    "11. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "english",
+    "sausages",
+    "full-english",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-british-sausages-full-english-breakfast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:32:25.577Z"
+}
