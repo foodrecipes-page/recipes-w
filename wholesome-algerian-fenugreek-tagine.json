@@ -1,0 +1,85 @@
+{
+  "slug": "wholesome-algerian-fenugreek-tagine",
+  "title": "Algerian Chicken Tagine",
+  "description": "A classic Algerian dish made with chicken, wholesome spices, and fenugreek. The tagine is a traditional clay pot with a conical lid, but you can use a Dutch oven or oven-safe pot with a lid in its place.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "Bone-in and skin-on"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fenugreek leaves",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Algerian spice blend (wholesome)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "For sweetness"
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt and pepper.",
+    "Heat the olive oil in the bottom of the tagine or Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and fenugreek leaves and cook for 1 minute.",
+    "Add the chicken to the pot and cook until browned on all sides, about 5-7 minutes.",
+    "Add the Algerian spice blend, chicken broth, and honey to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake for 30-40 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Serve the chicken and sauce hot, garnished with additional fenugreek leaves if desired.",
+    "Serve over couscous or rice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "algerian",
+    "tagine",
+    "fenugreek"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-algerian-fenugreek-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:59:54.579Z"
+}
