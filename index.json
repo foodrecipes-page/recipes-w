@@ -6216,15 +6216,16 @@
   },
   {
     "slug": "warm-roasted-moroccan-pepper-tagine",
-    "title": "Moroccan Chicken Tagine",
+    "title": "Moroccan Pepper Tagine",
     "tags": [
-      "chicken",
       "moroccan",
+      "pepper",
       "tagine",
-      "lunch"
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 55,
+    "cuisine": "moroccan",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -16596,17 +16597,16 @@
   },
   {
     "slug": "wildly-yeasty-vietnamese-fish-fillet-double-fry",
-    "title": "Wildly Yeasty Vietnamese Fish Fillet Double Fry",
+    "title": "Crispy Double Fry Fish Fillet",
     "tags": [
-      "adventurous",
-      "double-fry",
-      "fish-fillet",
-      "spicy",
-      "vietnamese-cuisine",
-      "yeasty"
+      "fish",
+      "vietnamese",
+      "seafood",
+      "lunch",
+      "fried"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
