@@ -1,0 +1,67 @@
+{
+  "slug": "warm-buttery-uruguayan-frankfurter-skillet",
+  "title": "Uruguayan Skillet Hot Dog",
+  "description": "A classic Uruguayan-inspired hot dog recipe, cooked to perfection in a skillet with a warm and buttery crust.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "frankfurter",
+      "amount": "1",
+      "notes": "preferably Uruguayan-style"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "preferably cast-iron"
+    },
+    {
+      "name": "warm water",
+      "amount": "1/4 cup",
+      "notes": "for buttery browning"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat.",
+    "Add the butter to the skillet and let it melt.",
+    "Once the butter has melted, add the frankfurter to the skillet.",
+    "Cook the frankfurter for about 5 minutes on each side, or until it's nicely browned and crispy.",
+    "While the frankfurter is cooking, add a small amount of warm water to the skillet.",
+    "This will help create a warm, buttery crust on the frankfurter.",
+    "Once the frankfurter is cooked to your liking, remove it from the skillet and place it on a plate.",
+    "Serve the frankfurter hot, garnished with your choice of toppings."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "hot-dog",
+    "uruguayan",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-buttery-uruguayan-frankfurter-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T01:11:22.099Z"
+}
