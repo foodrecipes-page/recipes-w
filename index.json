@@ -10608,16 +10608,14 @@
   },
   {
     "slug": "warm-wrapped-indian-serrano-ham-wrap",
-    "title": "Warm Wrapped Indian Serrano Ham Wrap",
+    "title": "Indian Ham Wrap",
     "tags": [
-      "easy-snack",
-      "healthy",
       "indian",
-      "low-carb",
-      "weeknight"
+      "ham",
+      "wrap"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 16,
+    "cuisine": "indian",
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
@@ -15418,15 +15416,14 @@
   },
   {
     "slug": "wholesome-sweet-saffron-mechoui-bento-box",
-    "title": "Wholesome Sweet Saffron Mechoui Bento Box",
+    "title": "Saffron Mechoui Bento",
     "tags": [
-      "egg-free-friendly",
-      "mechoui-style",
-      "moroccan-recipe",
-      "sweet-dish",
-      "vegetarian-variant"
+      "moroccan",
+      "japanese",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "Moroccan",
+    "cuisine": "Moroccan Japanese",
     "totalTimeMin": 50,
     "shard": "w"
   },
@@ -16621,17 +16618,14 @@
   },
   {
     "slug": "wilted-baby-portuguese-lettuce-salad",
-    "title": "Wilted Baby Portuguese Lettuce Salad",
+    "title": "Wilted Lettuce Salad with Portuguese Sausage",
     "tags": [
-      "easy-dinner",
-      "halal-cuisine",
-      "high-protein",
-      "one-pan",
-      "portuguese-cuisine",
-      "weeknight"
+      "portuguese-sausage",
+      "wilted-lettuce",
+      "salad"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 15,
+    "cuisine": "American",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
