@@ -1,0 +1,80 @@
+{
+  "slug": "warm-white-brazilian-sausage-stew",
+  "title": "Braised White Bean and Sausage Stew",
+  "description": "A hearty and flavorful stew made with Brazilian sausage, white beans, and a hint of warmth from stew seasoning.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brazilian sausage",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "canned white beans",
+      "amount": "1 (15 ounce) can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "stew seasoning",
+      "amount": "2 teaspoons",
+      "notes": "to taste"
+    },
+    {
+      "name": "warm water",
+      "amount": "2 cups",
+      "notes": "or beef broth"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the stew seasoning and cook for 1 minute.",
+    "Add the white beans, warm water, and cooked sausage to the pot.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "sausage",
+    "beans",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-white-brazilian-sausage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:11:17.948Z"
+}
