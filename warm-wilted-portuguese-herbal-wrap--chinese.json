@@ -1,0 +1,88 @@
+{
+  "slug": "warm-wilted-portuguese-herbal-wrap--chinese",
+  "title": "Wilted Portuguese Wrap Stir Fry",
+  "description": "A fusion twist on traditional Chinese stir fry, using wilted portuguese ingredients in a warm wrap.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wilted Portuguese Kale",
+      "amount": "2 cups",
+      "notes": "Chopped into bite-sized pieces"
+    },
+    {
+      "name": "Warm Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Herbal Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Portuguese Wrap",
+      "amount": "1 piece",
+      "notes": "Large flour tortilla"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet or wok over medium-high heat.",
+    "Add garlic and ginger, stir-frying for 1 minute.",
+    "Add bell pepper and onion, stir-frying for 3 minutes.",
+    "Add wilted kale and stir-fry for 2 minutes.",
+    "Add herbal soy sauce and stir-fry for 1 minute.",
+    "Warm the Portuguese wrap by wrapping it in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the stir-fry in the center of the wrap, leaving a 1-inch border around the edges.",
+    "Garnish with sesame seeds and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "fusion",
+    "stir-fry",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wilted-portuguese-herbal-wrap--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:53:35.471Z"
+}
