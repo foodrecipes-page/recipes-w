@@ -4038,15 +4038,16 @@
   },
   {
     "slug": "warm-gooey-slovakian-sherry-pudding",
-    "title": "Warm Gooey Slovakian Sherry Pudding",
+    "title": "Slovakian Pudding with Sherry Caramel Sauce",
     "tags": [
-      "comfort-food",
-      "dessert",
-      "shojin",
-      "veganish"
+      "slovakian",
+      "pudding",
+      "sherry",
+      "caramel",
+      "dessert"
     ],
-    "cuisine": "European",
-    "totalTimeMin": 55,
+    "cuisine": "slovakian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -16744,16 +16745,16 @@
   },
   {
     "slug": "wilted-hearty-uruguayan-cabbage-bake",
-    "title": "Wilted Hearty Uruguayan Cabbage Bake",
+    "title": "Hearty Uruguayan Cabbage Bake",
     "tags": [
-      "gluten-free",
-      "one-pan",
       "uruguayan",
       "vegetarian",
-      "weeknight"
+      "gluten-free",
+      "cabbage",
+      "bake"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -18031,18 +18032,16 @@
   },
   {
     "slug": "wok-hei-warm-slovakian-rice-vermicelli-noodles",
-    "title": "Wok-Hei Warm Slovakian Rice Vermicelli Noodles",
+    "title": "Slovakian Stir-Fried Noodles",
     "tags": [
-      "buddhist-temple-friendly",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight",
-      "wok-hei"
+      "slovakian",
+      "stir-fry",
+      "noodles",
+      "vegetarian",
+      "asian-fusion"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 18,
+    "cuisine": "Slovakian-Asian Fusion",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
