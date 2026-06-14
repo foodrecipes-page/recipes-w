@@ -4208,16 +4208,14 @@
   },
   {
     "slug": "warm-greek-tofu-skillet",
-    "title": "Warm Greek Tofu Skillet",
+    "title": "Greek Skillet Tofu",
     "tags": [
-      "brunch-ideas",
-      "greek-inspired",
-      "one-pan-meal",
-      "quick-and-easy",
-      "vegan-friendly"
+      "greek",
+      "vegetarian",
+      "skillet"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -9397,16 +9395,16 @@
   },
   {
     "slug": "warm-tunisian-wood-ears-tagine",
-    "title": "Warm Tunisian Wood Ears Tagine",
+    "title": "Tagine with Chicken and Vegetables",
     "tags": [
-      "gluten-free",
-      "low-carb",
-      "no-sugar",
+      "north african",
+      "chicken",
       "stew",
-      "tunisian"
+      "vegetables",
+      "spices"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 65,
     "shard": "w"
   },
   {
