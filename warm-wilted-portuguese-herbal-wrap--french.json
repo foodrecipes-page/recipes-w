@@ -1,0 +1,90 @@
+{
+  "slug": "warm-wilted-portuguese-herbal-wrap--french",
+  "title": "Pan-Seared Portuguese Chicken Wrap",
+  "description": "A flavorful French-inspired dish with crispy chicken, fresh herbs, and warm wrap. Perfect for a quick weeknight dinner.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portuguese chicken breast",
+      "amount": "2",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Fresh herbal mix (parsley, thyme, rosemary)",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Warm wrap (gluten-free)",
+      "amount": "1",
+      "notes": "flour tortilla"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "Herb butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Season the chicken breast with salt, pepper, and your favorite herbs.",
+    "3. In a large skillet, melt 1 tablespoon of herb butter over medium-high heat.",
+    "4. Sear the chicken breast for 5-6 minutes on each side, or until golden brown and cooked through.",
+    "5. Transfer the skillet to the preheated oven and bake for an additional 5-7 minutes, or until cooked through.",
+    "6. Meanwhile, warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "7. Spread the remaining 1 tablespoon of herb butter on the warm wrap.",
+    "8. Slice the cooked chicken breast into thin strips.",
+    "9. Assemble the wrap by layering the chicken, red onion, garlic, cilantro, and a squeeze of lemon juice.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "chicken",
+    "wrap",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "37g",
+    "carbs": "24g",
+    "fat": "24g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wilted-portuguese-herbal-wrap--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T07:00:02.592Z"
+}
