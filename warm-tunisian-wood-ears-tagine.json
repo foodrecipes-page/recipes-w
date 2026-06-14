@@ -1,0 +1,96 @@
+{
+  "slug": "warm-tunisian-wood-ears-tagine",
+  "title": "Tagine with Chicken and Vegetables",
+  "description": "A traditional North African stew made with chicken, vegetables, and spices, cooked in a clay pot with a conical lid.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "vegetarian is possible"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ears of corn",
+      "amount": "4",
+      "notes": "husked and silked"
+    },
+    {
+      "name": "Tunisian olives",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Warm spices",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Tagine (clay pot)",
+      "amount": "1",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the clay pot over medium heat.",
+    "Add the onions and cook until they are softened, about 8 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the chicken and cook until it is browned on all sides.",
+    "Add the corn, olives, spices, salt, and pepper.",
+    "Add 1 cup of water to the pot and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the oven.",
+    "Bake at 300°F (150°C) for 45 minutes, or until the chicken is cooked through.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "chicken",
+    "stew",
+    "vegetables",
+    "spices"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-tunisian-wood-ears-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T05:58:09.938Z"
+}
