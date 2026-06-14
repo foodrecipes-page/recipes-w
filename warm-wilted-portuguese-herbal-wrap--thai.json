@@ -1,0 +1,89 @@
+{
+  "slug": "warm-wilted-portuguese-herbal-wrap--thai",
+  "title": "Thai Herbal Wrap",
+  "description": "A flavorful and refreshing Thai-inspired wrap made with herbal flavors and crispy vegetables.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Herbal Wrap",
+      "amount": "1",
+      "notes": "Portuguese-style flatbread"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "2 cups",
+      "notes": "Wilted"
+    },
+    {
+      "name": "Herbal Salad Dressing",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Sliced Cucumber",
+      "amount": "1",
+      "notes": "Seeded and thinly sliced"
+    },
+    {
+      "name": "Sliced Carrots",
+      "amount": "1",
+      "notes": "Peel and thinly sliced"
+    },
+    {
+      "name": "Sliced Bell Peppers",
+      "amount": "1",
+      "notes": "Any color"
+    },
+    {
+      "name": "Cooked Chicken Breast",
+      "amount": "4 oz",
+      "notes": "Grilled or pan-fried"
+    },
+    {
+      "name": "Crushed Peanuts",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Grill or pan-fry the chicken breast until cooked through, about 5-6 minutes per side.",
+    "Let the chicken rest for a few minutes before slicing into thin strips.",
+    "In a large bowl, combine the mixed greens, sliced cucumber, carrots, and bell peppers.",
+    "Drizzle the herbal salad dressing over the top and toss to combine.",
+    "Warm the Portuguese-style flatbread according to package instructions.",
+    "Assemble the wrap by placing a few slices of grilled chicken on the flatbread, followed by a spoonful of the mixed greens salad.",
+    "Top with crushed peanuts and chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "wrap",
+    "herbal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wilted-portuguese-herbal-wrap--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T07:00:05.786Z"
+}
