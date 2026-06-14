@@ -1,0 +1,67 @@
+{
+  "slug": "warm-wilted-portuguese-herbal-wrap--gluten-free",
+  "title": "Warm Wilted Portuguese Wrap",
+  "description": "A delicious gluten-free wrap filled with warm wilted Portuguese greens and herbal flavors.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Portuguese Kale",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Herbal Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Warm Wrap",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "1. Wash the Portuguese kale and remove the stems.",
+    "2. Heat the herbal olive oil in a pan over medium heat.",
+    "3. Add the garlic and cook for 1 minute.",
+    "4. Add the kale to the pan and cook until wilted.",
+    "5. Squeeze the lemon juice over the kale and season with salt.",
+    "6. Warm the wrap in the microwave or in a dry pan.",
+    "7. Fill the wrap with the wilted kale mixture.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "portuguese",
+    "wilted",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wilted-portuguese-herbal-wrap--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:58:01.539Z"
+}
