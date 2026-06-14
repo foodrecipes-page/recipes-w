@@ -1,0 +1,87 @@
+{
+  "slug": "warm-wilted-portuguese-herbal-wrap--italian",
+  "title": "Warm Italian Wrap",
+  "description": "A flavorful Italian-inspired wrap filled with warm, wilted greens and herbs. Perfect for a quick snack or light meal.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Warm Portuguese bread",
+      "amount": "1 large wrap",
+      "notes": ""
+    },
+    {
+      "name": "Wilted greens",
+      "amount": "1 cup",
+      "notes": "Use a mix of spinach, kale, and arugula"
+    },
+    {
+      "name": "Herbal mix",
+      "amount": "1/4 cup",
+      "notes": "Combine chopped rosemary, thyme, and oregano"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Slice the Portuguese bread in half lengthwise.",
+    "Grill the bread until lightly toasted, about 2-3 minutes per side.",
+    "In a small bowl, mix together the wilted greens, herbal mix, mozzarella cheese, garlic, salt, and pepper.",
+    "Spread the green mixture onto the bottom half of the bread.",
+    "Drizzle with olive oil and top with the top half of the bread.",
+    "Grill the wrap for an additional 2-3 minutes, until the cheese is melted and the bread is crispy.",
+    "Garnish with chopped fresh basil and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "wrap",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wilted-portuguese-herbal-wrap--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:57:35.152Z"
+}
