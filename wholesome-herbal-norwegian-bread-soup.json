@@ -1,0 +1,73 @@
+{
+  "slug": "wholesome-herbal-norwegian-bread-soup",
+  "title": "Norwegian Herbal Bread",
+  "description": "A heartwarming herbal bread recipe with a touch of Norwegian flair, perfect for a cozy evening.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "250g"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 packet"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "herbs (dried thyme, rosemary, and parsley)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, and salt in a large mixing bowl.",
+    "Add herbs and mix until well combined.",
+    "Gradually add in olive oil and water, mixing until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place dough in a greased bowl, cover with a damp cloth, and let rise in a warm place for 1 hour.",
+    "Preheat oven to 375°F (190°C).",
+    "Punch down the dough and shape into a round or oblong loaf.",
+    "Place loaf on a baking sheet and bake for 35-40 minutes, or until golden brown.",
+    "Remove from oven and let cool on a wire rack for 10 minutes.",
+    "Slice and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "herbal",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-herbal-norwegian-bread-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:56:24.004Z"
+}
