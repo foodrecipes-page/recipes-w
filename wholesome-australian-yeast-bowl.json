@@ -1,0 +1,74 @@
+{
+  "slug": "wholesome-australian-yeast-bowl",
+  "title": "Australian Bush Bread",
+  "description": "A traditional Australian recipe for a hearty bread made with wholesome ingredients.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Australian wheat flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "wholesome honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bowl",
+      "amount": ""
+    },
+    {
+      "name": "flour for dusting",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the Australian wheat flour, yeast, and salt.",
+    "2. Gradually add the water, mixing until a dough forms.",
+    "3. Knead the dough for 5-7 minutes until smooth and elastic.",
+    "4. Place the dough in a greased bowl, cover with a damp cloth, and let it rise in a warm place for 1 hour, or until doubled in size.",
+    "5. Preheat the oven to 375°F (190°C).",
+    "6. Punch down the dough and shape into a round loaf.",
+    "7. Place the loaf on a baking sheet lined with parchment paper, dust with flour, and bake for 30-35 minutes, or until golden brown.",
+    "8. Brush the loaf with olive oil and let it cool on a wire rack for 10 minutes before slicing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "bread",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-australian-yeast-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:56:54.777Z"
+}
