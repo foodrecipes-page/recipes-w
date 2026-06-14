@@ -1,0 +1,78 @@
+{
+  "slug": "whisked-chinese-freekeh-stir-fry",
+  "title": "Freekeh Stir Fry",
+  "description": "A quick and easy stir fry made with freekeh, whisked eggs, and your choice of protein.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Freekeh",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Whisked eggs",
+      "amount": "2",
+      "notes": "Beaten eggs for added protein"
+    },
+    {
+      "name": "Your choice of protein (chicken, beef, tofu)",
+      "amount": "1 cup",
+      "notes": "Cooked and diced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped bell peppers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped mushrooms",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add your choice of protein and cook until browned, about 3-4 minutes.",
+    "Add the chopped bell peppers and mushrooms, and cook until tender, about 4-5 minutes.",
+    "Add the cooked freekeh to the skillet and stir to combine.",
+    "Push the freekeh mixture to one side of the skillet.",
+    "Add the remaining 1 tablespoon of vegetable oil to the empty side of the skillet.",
+    "Pour in the whisked eggs and scramble them until cooked through.",
+    "Mix the eggs with the freekeh mixture.",
+    "Season with soy sauce to taste.",
+    "Serve hot, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "freekeh"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whisked-chinese-freekeh-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T06:35:58.812Z"
+}
