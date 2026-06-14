@@ -6726,16 +6726,16 @@
   },
   {
     "slug": "warm-silky-peruvian-chicken-bake",
-    "title": "Warm Silky Peruvian Chicken Bake",
+    "title": "Peruvian Chicken Bake",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "peruvian-cuisine",
-      "weeknight"
+      "peruvian",
+      "chicken",
+      "bake",
+      "sauce",
+      "tortillas"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -12860,15 +12860,14 @@
   },
   {
     "slug": "whisked-chinese-freekeh-stir-fry",
-    "title": "Whisked Chinese Freekeh Stir-fry",
+    "title": "Freekeh Stir Fry",
     "tags": [
-      "whisked",
-      "freekeh",
-      "sour",
-      "light"
+      "chinese",
+      "stir-fry",
+      "freekeh"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 20,
     "shard": "w"
   },
   {
