@@ -1,0 +1,79 @@
+{
+  "slug": "wholesome-briny-light-croatian-walnuts-biscotti",
+  "title": "Italian Biscotti Bread Pudding",
+  "description": "A moist and flavorful bread pudding made with Italian biscotti, walnuts, and a hint of croatian espresso.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Italian biscotti",
+      "amount": "1 1/2 cups",
+      "notes": "cubed"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "croatian espresso",
+      "amount": "2 tbsp",
+      "notes": "strongly brewed"
+    },
+    {
+      "name": "wholesome brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "briny sea salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "light eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "wholesome milk",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large mixing bowl, combine cubed biscotti, chopped walnuts, and brewed espresso.",
+    "In a separate bowl, whisk together brown sugar, sea salt, eggs, and milk.",
+    "Pour the wet ingredients over the biscotti mixture and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 35-40 minutes, or until the top is golden brown and the pudding is set.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm, garnished with additional walnuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "bread-pudding",
+    "walnuts",
+    "biscotti"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-briny-light-croatian-walnuts-biscotti",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:34:57.024Z"
+}
