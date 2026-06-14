@@ -1,0 +1,78 @@
+{
+  "slug": "warm-wilted-portuguese-herbal-wrap--vegan",
+  "title": "Herbal Wrap Delight",
+  "description": "A refreshing vegan wrap filled with herbal goodness, perfect for a light meal or snack.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Warm whole wheat wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Herbal hummus",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Wilted kale",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Portuguese roasted red peppers",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Spread 2 tablespoons of herbal hummus on the warm whole wheat wrap.",
+    "Add 1 cup of wilted kale on top of the hummus.",
+    "Slice 1/2 cup of Portuguese roasted red peppers and add on top of the kale.",
+    "Sprinkle 1/4 cup of fresh cilantro over the peppers.",
+    "Squeeze 1 tablespoon of lemon juice over the wrap.",
+    "Season with salt to taste.",
+    "Fold the wrap and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "healthy",
+    "portuguese",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wilted-portuguese-herbal-wrap--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:49:04.730Z"
+}
