@@ -1,0 +1,94 @@
+{
+  "slug": "warm-wilted-portuguese-herbal-wrap--keto",
+  "title": "Wilted Portuguese Keto Wrap",
+  "description": "A flavorful keto wrap filled with wilted greens, portuguese sausage, and herbal notes.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Portuguese Sausage",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 bunch",
+      "notes": "wilted"
+    },
+    {
+      "name": "Almond Flour Tortilla",
+      "amount": "1 wrap",
+      "notes": null
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Mozzarella Cheese (full-fat)",
+      "amount": "1 slice",
+      "notes": null
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1/4 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a skillet over medium heat.",
+    "2. Slice the portuguese sausage into thin strips and cook in the skillet until browned.",
+    "3. Add the minced garlic and cook for an additional minute.",
+    "4. Add the wilted spinach and cook until wilted.",
+    "5. Warm the almond flour tortilla in the microwave for 10 seconds.",
+    "6. Assemble the wrap by placing the cooked sausage mixture on one half of the tortilla.",
+    "7. Top with sliced mozzarella cheese and chopped fresh parsley.",
+    "8. Fold the tortilla in half and cook in the skillet for an additional 2-3 minutes, until the cheese is melted and the wrap is crispy.",
+    "9. Season with salt, pepper, and dried thyme to taste.",
+    "10. Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "low-carb",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 5,
+    "fat": 46
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wilted-portuguese-herbal-wrap--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:48:16.498Z"
+}
