@@ -1,0 +1,75 @@
+{
+  "slug": "warm-wilted-portuguese-herbal-wrap--vegetarian",
+  "title": "Warm Portuguese Wrap",
+  "description": "A delicious and easy vegetarian wrap filled with warm and wilted Portuguese flavors.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Large flour tortilla",
+      "amount": "1",
+      "notes": "any type will do"
+    },
+    {
+      "name": "Portuguese cheese",
+      "amount": "100g",
+      "notes": "any type will do"
+    },
+    {
+      "name": "Wilted kale",
+      "amount": "100g",
+      "notes": "use fresh and wilt in a pan with olive oil"
+    },
+    {
+      "name": "Herbal hummus",
+      "amount": "100g",
+      "notes": "make your own or use store-bought"
+    },
+    {
+      "name": "Warm roasted red peppers",
+      "amount": "50g",
+      "notes": "use any leftover peppers"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "10g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a pan with some olive oil and cook the wilted kale until warmed through.",
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20 seconds.",
+    "Spread the herbal hummus over the tortilla, leaving a small border around the edges.",
+    "Add the warm kale on top of the hummus.",
+    "Slice the Portuguese cheese and add it on top of the kale.",
+    "Add the warm roasted red peppers on top of the cheese.",
+    "Sprinkle some chopped parsley over the top.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "vegetarian",
+    "wrap",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wilted-portuguese-herbal-wrap--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T08:19:01.889Z"
+}
