@@ -1,0 +1,83 @@
+{
+  "slug": "warm-wilted-portuguese-herbal-wrap--mexican",
+  "title": "Mexican Wilted Wrap",
+  "description": "A flavorful and easy-to-make dish that combines wilted greens with the warmth of Mexican spices. Wrap it up for a satisfying meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Warm Flour Tortilla",
+      "amount": "1",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "Wilted Collard Greens",
+      "amount": "2 cups",
+      "notes": "cooked with garlic and onion"
+    },
+    {
+      "name": "Herbal Guacamole",
+      "amount": "1/2 cup",
+      "notes": "made with fresh herbs and lime juice"
+    },
+    {
+      "name": "Portuguese-Style Spicy Salsa",
+      "amount": "1/4 cup",
+      "notes": "made with red onion, jalapeño, cilantro, and lime juice"
+    },
+    {
+      "name": "Roasted Sweet Potato",
+      "amount": "1/2 cup",
+      "notes": "diced and roasted with olive oil and cumin"
+    },
+    {
+      "name": "Black Beans",
+      "amount": "1/4 cup",
+      "notes": "cooked with cumin and chili powder"
+    },
+    {
+      "name": "Sliced Radishes",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced and sprinkled with lime juice"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1 tablespoon",
+      "notes": "sprinkled on top for garnish"
+    }
+  ],
+  "instructions": [
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spoon the wilted greens, roasted sweet potato, black beans, and sliced radishes onto the center of the tortilla.",
+    "Drizzle the herbal guacamole and Portuguese-style spicy salsa on top of the filling.",
+    "Sprinkle chopped cilantro on top for garnish.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegan",
+    "wrap",
+    "greens",
+    "guacamole",
+    "salsa"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wilted-portuguese-herbal-wrap--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:51:58.166Z"
+}
