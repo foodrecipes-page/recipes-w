@@ -18998,5 +18998,160 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 100,
     "shard": "w"
+  },
+  {
+    "slug": "warm-wilted-portuguese-herbal-wrap--keto",
+    "title": "Wilted Portuguese Keto Wrap",
+    "tags": [
+      "keto",
+      "low-carb",
+      "portuguese"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 20,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wilted-portuguese-herbal-wrap--vegan",
+    "title": "Herbal Wrap Delight",
+    "tags": [
+      "vegan",
+      "healthy",
+      "portuguese",
+      "herbal"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 10,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wilted-portuguese-herbal-wrap--indian",
+    "title": "Portuguese Chicken Wrap",
+    "tags": [
+      "indian",
+      "portuguese",
+      "chicken",
+      "wrap"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wilted-portuguese-herbal-wrap--japanese",
+    "title": "Wilted Wrap Noodle Stir Fry",
+    "tags": [
+      "noodle-stir-fry",
+      "japanese-cuisine",
+      "vegetarian-options"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wilted-portuguese-herbal-wrap--mexican",
+    "title": "Mexican Wilted Wrap",
+    "tags": [
+      "mexican",
+      "vegan",
+      "wrap",
+      "greens",
+      "guacamole",
+      "salsa"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wilted-portuguese-herbal-wrap--chinese",
+    "title": "Wilted Portuguese Wrap Stir Fry",
+    "tags": [
+      "chinese",
+      "fusion",
+      "stir-fry",
+      "portuguese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wilted-portuguese-herbal-wrap--italian",
+    "title": "Warm Italian Wrap",
+    "tags": [
+      "italian",
+      "wrap",
+      "snack"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wilted-portuguese-herbal-wrap--gluten-free",
+    "title": "Warm Wilted Portuguese Wrap",
+    "tags": [
+      "gluten-free",
+      "portuguese",
+      "wilted",
+      "wrap"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 10,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wilted-portuguese-herbal-wrap--german",
+    "title": "German-Style Wrap",
+    "tags": [
+      "german-cuisine",
+      "wrap",
+      "sausage"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 22,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wilted-portuguese-herbal-wrap--french",
+    "title": "Pan-Seared Portuguese Chicken Wrap",
+    "tags": [
+      "french",
+      "chicken",
+      "wrap",
+      "herbs"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wilted-portuguese-herbal-wrap--thai",
+    "title": "Thai Herbal Wrap",
+    "tags": [
+      "thai",
+      "wrap",
+      "herbal",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wilted-portuguese-herbal-wrap--vegetarian",
+    "title": "Warm Portuguese Wrap",
+    "tags": [
+      "portuguese",
+      "vegetarian",
+      "wrap",
+      "snack",
+      "easy"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 15,
+    "shard": "w"
   }
 ]
