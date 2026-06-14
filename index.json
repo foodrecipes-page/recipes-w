@@ -3326,17 +3326,15 @@
   },
   {
     "slug": "warm-flaky-moroccan-lamb-tagine",
-    "title": "Warm Flaky Moroccan Lamb Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "lamb",
-      "mediterranean",
       "moroccan",
-      "one-pot",
-      "slow-cooked",
-      "tagine"
+      "lamb",
+      "tagine",
+      "slow-cooked"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "w"
   },
   {
@@ -13222,19 +13220,14 @@
   },
   {
     "slug": "wholesome-australian-yeast-bowl",
-    "title": "Wholesome Australian Yeast Bowl",
+    "title": "Australian Bush Bread",
     "tags": [
       "australian",
-      "breakfast",
-      "fodmap-friendly",
-      "healthy",
-      "high-protein",
-      "one-pan",
-      "sick-day",
-      "weeknight"
+      "bread",
+      "breakfast"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "cuisine": "australian",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -14188,17 +14181,14 @@
   },
   {
     "slug": "wholesome-herbal-norwegian-bread-soup",
-    "title": "Wholesome Herbal Norwegian Bread Soup",
+    "title": "Norwegian Herbal Bread",
     "tags": [
-      "airborne",
-      "bread-soup",
-      "easy",
+      "bread",
       "herbal",
-      "norwegian",
-      "vegetarian"
+      "norwegian"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 40,
+    "cuisine": "Norwegian",
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {
