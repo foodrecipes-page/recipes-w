@@ -1,0 +1,99 @@
+{
+  "slug": "warm-flaky-moroccan-lamb-tagine",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A traditional Moroccan dish made with tender lamb and warm spices, all slow-cooked in a flavorful tagine. Perfect for a special occasion or a cozy night in.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For browning the lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of the tagine over medium heat.",
+    "Brown the lamb in batches until browned on all sides, about 5 minutes per batch.",
+    "Remove the lamb from the tagine and set aside.",
+    "Add the onion to the tagine and cook until softened, about 5 minutes.",
+    "Add the garlic, ginger, cumin, cinnamon, paprika, salt, and pepper to the tagine and cook for 1 minute.",
+    "Return the lamb to the tagine and add enough water to cover the meat.",
+    "Bring the mixture to a boil, then cover the tagine and transfer it to the oven.",
+    "Bake the tagine at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender.",
+    "Garnish with parsley and serve over couscous."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "tagine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "44g",
+    "carbs": "24g",
+    "fat": "36g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-flaky-moroccan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:57:42.018Z"
+}
