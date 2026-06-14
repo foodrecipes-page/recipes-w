@@ -1,0 +1,79 @@
+{
+  "slug": "wilted-hearty-uruguayan-cabbage-bake",
+  "title": "Hearty Uruguayan Cabbage Bake",
+  "description": "A flavorful and comforting Uruguayan-inspired dish made with tender cabbage and a crispy breadcrumb topping.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 head, shredded"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup, gluten-free"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat olive oil over medium heat. Add onions and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add shredded cabbage and cook until tender, about 10 minutes.",
+    "Stir in tomato paste and season with salt and pepper. Set aside.",
+    "In a separate bowl, mix together breadcrumbs and a pinch of salt.",
+    "In a greased 9x13-inch baking dish, create a layer of cabbage mixture. Top with a layer of breadcrumbs.",
+    "Repeat the layers two more times, ending with a layer of breadcrumbs on top.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the casserole is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "vegetarian",
+    "gluten-free",
+    "cabbage",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-hearty-uruguayan-cabbage-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:45:30.377Z"
+}
