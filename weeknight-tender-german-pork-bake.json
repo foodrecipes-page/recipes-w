@@ -1,0 +1,77 @@
+{
+  "slug": "weeknight-tender-german-pork-bake",
+  "title": "Quick German Pork Schnitzel",
+  "description": "A classic German dish made easy for a weeknight dinner. Tender pork cutlets are breaded and baked to perfection.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork cutlets",
+      "amount": "4",
+      "notes": "about 1/4 inch thick"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for breading"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": "for breading"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season pork cutlets with salt and pepper.",
+    "Dip each cutlet in flour, shaking off excess.",
+    "Dip in beaten eggs, making sure they're fully coated.",
+    "Roll in panko breadcrumbs to coat.",
+    "Place coated cutlets on a baking sheet lined with parchment paper.",
+    "Drizzle with melted butter.",
+    "Bake for 12-15 minutes, or until golden brown and cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "pork",
+    "schnitzel",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/weeknight-tender-german-pork-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:04:45.450Z"
+}
