@@ -1,0 +1,85 @@
+{
+  "slug": "warm-greek-tofu-skillet",
+  "title": "Greek Skillet Tofu",
+  "description": "A simple and flavorful vegetarian dish made with crispy tofu, crunchy vegetables, and a hint of Mediterranean spices.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the onion and bell pepper and cook until the vegetables are tender, about 5 minutes.",
+    "Add the tomato and cook for an additional 2 minutes.",
+    "Crumble the tofu into small pieces and add it to the skillet. Cook until the tofu is golden brown, about 5 minutes.",
+    "Season with salt, pepper, dried oregano, and garlic powder.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "vegetarian",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-greek-tofu-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T06:06:51.923Z"
+}
