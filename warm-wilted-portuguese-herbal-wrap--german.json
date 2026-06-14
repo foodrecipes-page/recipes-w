@@ -1,0 +1,70 @@
+{
+  "slug": "warm-wilted-portuguese-herbal-wrap--german",
+  "title": "German-Style Wrap",
+  "description": "A hearty, savory wrap filled with the flavors of Germany. Perfect as a snack or light meal.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Warm flatbread wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Sliced pork sausage",
+      "amount": "4 oz",
+      "notes": "such as knockwurst"
+    },
+    {
+      "name": "Shredded cabbage",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Herbal mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sliced cheddar cheese",
+      "amount": "2 oz"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Cook the sliced pork sausage until browned, about 3-4 minutes per side.",
+    "Remove the cooked sausage from the skillet and set aside.",
+    "Add the shredded cabbage and diced onion to the skillet, cooking until the cabbage is slightly wilted.",
+    "Return the cooked sausage to the skillet and stir in the chopped parsley and herbal mustard.",
+    "Warm the flatbread wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spooning the sausage and cabbage mixture onto the flatbread, followed by sliced cheddar cheese.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "german-cuisine",
+    "wrap",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wilted-portuguese-herbal-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:59:47.061Z"
+}
