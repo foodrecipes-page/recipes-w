@@ -1,0 +1,77 @@
+{
+  "slug": "wok-hei-warm-slovakian-rice-vermicelli-noodles",
+  "title": "Slovakian Stir-Fried Noodles",
+  "description": "A hearty and flavorful stir-fry recipe featuring Slovakian noodles, vermicelli, and a hint of Asian flair.",
+  "cuisine": "Slovakian-Asian Fusion",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovakian Noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Vermicelli",
+      "amount": "4 oz",
+      "notes": "dried works fine too"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Hei",
+      "amount": "1 tsp",
+      "notes": "Asian chili flakes"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp vegetable oil in a wok over medium-high heat.",
+    "Add onion and garlic, stir-frying until softened.",
+    "Add vermicelli and cook for 2-3 minutes, or until slightly toasted.",
+    "Add Slovakian noodles and stir-fry for 1-2 minutes.",
+    "Add hei and soy sauce, stir-frying until combined.",
+    "Season with salt and pepper to taste.",
+    "Transfer noodles to a serving platter and serve immediately.",
+    "Optional: add cooked vegetables or your choice of protein."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "stir-fry",
+    "noodles",
+    "vegetarian",
+    "asian-fusion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wok-hei-warm-slovakian-rice-vermicelli-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:46:17.328Z"
+}
