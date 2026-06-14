@@ -1,0 +1,101 @@
+{
+  "slug": "warm-wilted-portuguese-herbal-wrap--indian",
+  "title": "Portuguese Chicken Wrap",
+  "description": "A spicy chicken wrap with a blend of Indian and Portuguese flavors, wrapped in a warm, wilted wrap.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "portuguese chicken masala",
+      "amount": "2 teaspoons",
+      "notes": "available at most Indian grocery stores"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "warm, wilted wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick pan over medium-high heat.",
+    "2. In a bowl, mix together chicken breast, portuguese chicken masala, cumin powder, coriander powder, turmeric, garam masala, and red chili powder.",
+    "3. Add yogurt to the bowl and mix well.",
+    "4. Add the mixture to the preheated pan and cook for 5-6 minutes, or until the chicken is cooked through.",
+    "5. Meanwhile, warm the wrap in the microwave for 10-15 seconds.",
+    "6. Assemble the wrap by placing the cooked chicken in the center of the wrap, followed by a sprinkle of fresh cilantro.",
+    "7. Drizzle ghee or vegetable oil over the chicken and wrap.",
+    "8. Serve hot and enjoy!",
+    "9. Garnish with additional cilantro, if desired.",
+    "10. Serve with your favorite chutney or raita, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "portuguese",
+    "chicken",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wilted-portuguese-herbal-wrap--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:49:07.977Z"
+}
