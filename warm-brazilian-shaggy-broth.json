@@ -1,0 +1,82 @@
+{
+  "slug": "warm-brazilian-shaggy-broth",
+  "title": "Shaggy's Warm Brazilian Broth",
+  "description": "A hearty and comforting warm Brazilian broth made with tender care.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Warm Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Shaggy's Secret Spice Blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Brazilian Sausage",
+      "amount": "1 lb",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Yukon Gold Potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the warm broth in a large pot over medium heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced Brazilian sausage and cook until browned.",
+    "Add the sliced carrots and diced potatoes.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the chopped cilantro and cook for an additional 2 minutes.",
+    "Season with Shaggy's Secret Spice Blend to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "warm",
+    "brazilian",
+    "broth"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-brazilian-shaggy-broth",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:46:59.223Z"
+}
