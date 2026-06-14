@@ -1,0 +1,79 @@
+{
+  "slug": "warm-wilted-portuguese-herbal-wrap--japanese",
+  "title": "Wilted Wrap Noodle Stir Fry",
+  "description": "A quick and easy Japanese-inspired stir fry made with wilted wrap noodles, herbal seasonings and warm wok-fried ingredients.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wrap Noodles",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Wilted Spinach",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup sliced",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 tbsp minced",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Green Chili Flakes",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the minced ginger and cook for 1 minute.",
+    "Add the wilted spinach and stir-fry until it's well combined with the mushrooms and ginger.",
+    "Add the wrap noodles and stir-fry for 2-3 minutes, until they're well coated with the sauce.",
+    "In a small bowl, whisk together the soy sauce, honey, and green chili flakes.",
+    "Pour the sauce over the noodles and stir-fry for another minute.",
+    "Season with salt to taste.",
+    "Transfer the noodles to a serving platter and garnish with sliced green onions, if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "noodle-stir-fry",
+    "japanese-cuisine",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wilted-portuguese-herbal-wrap--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:49:15.682Z"
+}
