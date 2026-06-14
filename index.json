@@ -12560,17 +12560,15 @@
   },
   {
     "slug": "weeknight-tender-german-pork-bake",
-    "title": "weeknight tender german pork bake",
+    "title": "Quick German Pork Schnitzel",
     "tags": [
       "german",
-      "high-protein",
-      "one-pan",
-      "sweet",
-      "tender",
-      "weeknight"
+      "pork",
+      "schnitzel",
+      "baked"
     ],
     "cuisine": "german",
-    "totalTimeMin": 180,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
