@@ -9657,17 +9657,15 @@
   },
   {
     "slug": "warm-velvety-mediterranean-eggplant-wrap",
-    "title": "Warm Velvety Mediterranean Eggplant Wrap",
+    "title": "Grilled Eggplant Wrap",
     "tags": [
-      "easy-meals",
-      "healthy-eating",
-      "lunch-ideas",
-      "mediterranean-diet",
-      "ovo-vegetarian",
-      "wrap-recipes"
+      "grilled",
+      "vegetarian",
+      "healthy",
+      "easy"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 18,
     "shard": "w"
   },
   {
@@ -12899,14 +12897,13 @@
   },
   {
     "slug": "whisked-kinyarwanda-vanilla-stir-fry",
-    "title": "Whisked Kinyarwanda Vanilla Stir-fry",
+    "title": "Kinyarwanda Pancakes",
     "tags": [
-      "whisked-fry",
-      "kenyan-dish",
-      "raw-friendly",
-      "weeknight-meal"
+      "pancakes",
+      "rwandan",
+      "breakfast"
     ],
-    "cuisine": "Kenyan",
+    "cuisine": "Rwandan",
     "totalTimeMin": 30,
     "shard": "w"
   },
@@ -14291,18 +14288,15 @@
   },
   {
     "slug": "wholesome-jamaican-bread-bake",
-    "title": "Wholesome Jamaican Bread Bake",
+    "title": "Jamaican Bread Pudding",
     "tags": [
-      "flambe",
-      "flexitarian",
-      "high-protein",
+      "bread",
+      "pudding",
       "jamaican",
-      "low-sugar",
-      "one-pan",
-      "post-workout"
+      "breakfast"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 65,
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -14774,16 +14768,16 @@
   },
   {
     "slug": "wholesome-nutty-flaky-indian-whole-wheat-sambhar",
-    "title": "Wholesome Nutty Flaky Indian Whole Wheat Sambhar",
+    "title": "Sambhar Whole Wheat Bites",
     "tags": [
-      "gathering",
       "indian",
-      "one-pan",
-      "special-occasion",
-      "vegetarian"
+      "whole-wheat",
+      "snack",
+      "easy-to-make",
+      "crunchy"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
