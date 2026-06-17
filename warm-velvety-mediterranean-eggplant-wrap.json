@@ -1,0 +1,81 @@
+{
+  "slug": "warm-velvety-mediterranean-eggplant-wrap",
+  "title": "Grilled Eggplant Wrap",
+  "description": "A flavorful and healthy wrap filled with grilled eggplant, warm Mediterranean sauce, and crunchy vegetables.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean sauce (homemade or store-bought)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large flour wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium heat.",
+    "Brush the eggplant with olive oil and season with salt and pepper.",
+    "Grill the eggplant for 3-4 minutes per side, until tender and slightly charred.",
+    "Meanwhile, toast the wrap on the grill for a minute, until lightly browned.",
+    "Slice the grilled eggplant into thin strips.",
+    "Spread the Mediterranean sauce on the wrap, leaving a small border around the edges.",
+    "Arrange the eggplant strips, cucumber, tomato, and parsley on top of the sauce.",
+    "If using feta cheese, crumble it on top.",
+    "Fold the wrap in half to enclose the filling.",
+    "Cut in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "vegetarian",
+    "healthy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-velvety-mediterranean-eggplant-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T13:20:20.049Z"
+}
