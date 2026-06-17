@@ -1,0 +1,80 @@
+{
+  "slug": "whisked-kinyarwanda-vanilla-stir-fry",
+  "title": "Kinyarwanda Pancakes",
+  "description": "A delicious and fluffy pancake recipe inspired by the flavors of Kinyarwanda, a traditional Rwandan dish. These pancakes are perfect for breakfast or brunch.",
+  "cuisine": "Rwandan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 cups all-purpose flour",
+      "amount": "2 cups",
+      "notes": "can be replaced with gluten-free flour"
+    },
+    {
+      "name": "2 teaspoons baking powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup whole milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "2 eggs",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup melted butter",
+      "amount": "1/2 cup",
+      "notes": "cooled"
+    },
+    {
+      "name": "1 teaspoon vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, baking powder, and sugar.",
+    "In a separate bowl, whisk together the milk, eggs, and melted butter.",
+    "Add the vanilla extract to the wet ingredients and whisk until combined.",
+    "Pour the wet ingredients into the dry ingredients and stir until just combined. Do not overmix.",
+    "The batter should still be slightly lumpy.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot with your favorite toppings, such as syrup, fresh fruit, or whipped cream."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pancakes",
+    "rwandan",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whisked-kinyarwanda-vanilla-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T15:23:28.061Z"
+}
