@@ -1,0 +1,71 @@
+{
+  "slug": "wholesome-nutty-flaky-indian-whole-wheat-sambhar",
+  "title": "Sambhar Whole Wheat Bites",
+  "description": "A crunchy and flavorful Indian-inspired snack made with wholesome ingredients.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole Wheat Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sambhar Powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": "for topping"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a bowl, whisk together the flour and sambhar powder.",
+    "Add the melted butter and mix until the dough comes together.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Divide the dough into 8 equal pieces.",
+    "Shape each piece into a ball and then flatten slightly into a disk.",
+    "Place the disks on a baking sheet lined with parchment paper.",
+    "Brush the tops with a little water and sprinkle with sesame seeds.",
+    "Bake for 15-18 minutes or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "whole-wheat",
+    "snack",
+    "easy-to-make",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-nutty-flaky-indian-whole-wheat-sambhar",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T15:01:15.078Z"
+}
