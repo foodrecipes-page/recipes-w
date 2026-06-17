@@ -1,0 +1,83 @@
+{
+  "slug": "wholesome-jamaican-bread-bake",
+  "title": "Jamaican Bread Pudding",
+  "description": "A sweet Jamaican twist on traditional bread pudding, perfect for breakfast or snack.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "wholesome bread",
+      "amount": "2 cups",
+      "notes": "stale bread works best"
+    },
+    {
+      "name": "jamaican",
+      "amount": "1 tsp",
+      "notes": "jamaican spice blend"
+    },
+    {
+      "name": "bake",
+      "amount": "1/2 cup",
+      "notes": "unsalted butter, melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "dairy or non-dairy"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cut bread into 1-inch cubes and place in a large mixing bowl.",
+    "In a separate bowl, whisk together eggs, milk, brown sugar, cinnamon, and nutmeg.",
+    "Pour the wet ingredients over the bread and stir until bread is evenly coated.",
+    "Add melted butter, Jamaican spice blend, and mix well.",
+    "Pour mixture into a 9x13 inch baking dish.",
+    "Bake for 35-40 minutes or until golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "pudding",
+    "jamaican",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-jamaican-bread-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T15:23:19.661Z"
+}
