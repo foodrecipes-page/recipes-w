@@ -1,0 +1,80 @@
+{
+  "slug": "warmly-wilted-italian-chinese-broccoli-calamarata",
+  "title": "Wilted Broccoli Pasta",
+  "description": "A simple and delicious Italian-inspired pasta dish featuring wilted broccoli and calamarata pasta.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "calamarata pasta",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "250g",
+      "notes": "warmly wilted"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "grated Parmesan",
+      "amount": "50g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the calamarata pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the broccoli florets to the skillet and cook, stirring occasionally, until warmly wilted.",
+    "Season the broccoli with salt and black pepper to taste.",
+    "Reserve 1 cup of pasta water before draining the calamarata.",
+    "Add the cooked calamarata pasta to the skillet with the wilted broccoli.",
+    "Toss the pasta in the broccoli mixture, adding some reserved pasta water if the mixture seems dry.",
+    "Serve the pasta hot, topped with grated Parmesan cheese.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-wilted-italian-chinese-broccoli-calamarata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-20T00:56:43.583Z"
+}
