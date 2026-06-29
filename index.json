@@ -8322,17 +8322,16 @@
   },
   {
     "slug": "warm-spicy-jamaican-vegetable-salad",
-    "title": "Warm Spicy Jamaican Vegetable Salad",
+    "title": "Jamaican Vegetable Salad",
     "tags": [
-      "healthy",
-      "jamaican-cuisine",
-      "quick",
+      "warm",
       "spicy",
-      "vegan",
-      "vegetarian"
+      "jamaican",
+      "vegetable",
+      "salad"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
