@@ -1,0 +1,87 @@
+{
+  "slug": "warm-spicy-jamaican-vegetable-salad",
+  "title": "Jamaican Vegetable Salad",
+  "description": "A warm and spicy Jamaican salad made with a variety of vegetables. Perfect for a quick and easy lunch or dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Scotch bonnet peppers",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Peel and chop the sweet potatoes into 1-inch cubes.",
+    "Place sweet potatoes on the grill and cook for 5 minutes on each side.",
+    "While the sweet potatoes are cooking, chop the carrots, red bell pepper, onions, and tomatoes into bite-sized pieces.",
+    "Once the sweet potatoes are cooked, remove from the grill and set aside.",
+    "Grill the chopped vegetables until they are tender and slightly charred.",
+    "In a large bowl, combine the cooked sweet potatoes and grilled vegetables.",
+    "Sprinkle the Jamaican curry powder and scotch bonnet peppers over the top of the salad.",
+    "Drizzle with vegetable oil and season with salt and black pepper to taste.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "warm",
+    "spicy",
+    "jamaican",
+    "vegetable",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-jamaican-vegetable-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-29T21:58:37.440Z"
+}
