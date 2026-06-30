@@ -1,0 +1,88 @@
+{
+  "slug": "warm-wilted-mediterranean-fish-stew",
+  "title": "Warm Fish Stew",
+  "description": "A hearty fish stew made with Mediterranean flavors, served warm and perfect for a cold evening.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "fish",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets (halibut or cod)",
+      "amount": "4",
+      "notes": " Fresh or frozen"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Mediterranean seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "White wine (optional)",
+      "amount": "1/4 cup",
+      "notes": "Dry white wine"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the fish fillets and cook for 2-3 minutes on each side.",
+    "Add the chopped tomato, Mediterranean seasoning, lemon juice, and white wine (if using).",
+    "Pour in the water and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the stew cook for 10-12 minutes, or until the fish is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve the stew warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "mediterranean",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wilted-mediterranean-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:33:13.954Z"
+}
