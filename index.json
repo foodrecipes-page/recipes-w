@@ -2918,17 +2918,15 @@
   },
   {
     "slug": "warm-earthy-norwegian-beef-stew",
-    "title": "Warm Earthy Norwegian Beef Stew",
+    "title": "Norwegian Beef Stew",
     "tags": [
-      "beef-stew",
-      "comfort-food",
-      "gluten-free",
-      "norwegian-cuisine",
-      "one-pot",
-      "winter-meal"
+      "beef",
+      "stew",
+      "norwegian",
+      "comfort-food"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 150,
     "shard": "w"
   },
   {
@@ -5779,17 +5777,15 @@
   },
   {
     "slug": "warm-peruvian-lamb-seco-de-cordero",
-    "title": "Warm Peruvian Lamb Seco De Cordero",
+    "title": "Lamb Seco",
     "tags": [
-      "date-night",
-      "lamb-recipes",
-      "one-pot",
-      "peruvian-cuisine",
-      "slow-cooker",
-      "vegan-friendly"
+      "peruvian",
+      "lamb",
+      "braised",
+      "stew"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 210,
+    "totalTimeMin": 170,
     "shard": "w"
   },
   {
@@ -7258,17 +7254,14 @@
   },
   {
     "slug": "warm-smoky-korean-barramundi-bokkeum",
-    "title": "Warm Smoky Korean Barramundi Bokkeum",
+    "title": "Barramundi Bokkeum",
     "tags": [
-      "dairy-free-recipes",
-      "gluten-free-recipes",
-      "korean-food",
-      "seafood-recipes",
-      "smoky-flavors",
-      "whole30-recipes"
+      "korean",
+      "fish",
+      "spicy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
