@@ -1,0 +1,81 @@
+{
+  "slug": "warmly-charred-malaysian-turmeric-tofu-satay",
+  "title": "Malaysian Satay Tofu",
+  "description": "A flavorful and spicy Malaysian-inspired satay dish featuring marinated tofu, served with warm and charred peanut sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "250g"
+    },
+    {
+      "name": "turmeric",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "warmly toasted peanuts",
+      "amount": "100g"
+    },
+    {
+      "name": "charred garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "satay sauce",
+      "amount": "100ml",
+      "notes": "store-bought"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "2",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut tofu into 1-inch cubes.",
+    "In a bowl, mix together turmeric, 1 tbsp coconut oil, and 2 tbsp satay sauce.",
+    "Add tofu to the bowl and marinate for 10 minutes.",
+    "Thread marinated tofu onto skewers.",
+    "Grill tofu for 3-4 minutes per side, or until golden brown.",
+    "Meanwhile, warm peanut sauce in a saucepan over low heat.",
+    "Serve warm tofu skewers with charred garlic, coriander leaves, and warm peanut sauce.",
+    "Serve with lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "satay",
+    "tofu",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-charred-malaysian-turmeric-tofu-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T05:45:55.880Z"
+}
