@@ -1,0 +1,79 @@
+{
+  "slug": "warm-smoky-venezuelan-egg-rolls-spring-rolls",
+  "title": "Venezuelan Spring Rolls",
+  "description": "A delicious and crispy Venezuelan-inspired spring roll dish filled with warm, smoky flavors.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Warm flour tortillas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Spring vegetable mix (carrots, zucchini, bell peppers)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Smoked cheese, crumbled",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan spices (cumin, oregano, paprika)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a bowl, mix together the spring vegetable mix, smoked cheese, Venezuelan spices, and olive oil.",
+    "3. Place a warm flour tortilla on a flat surface.",
+    "4. Brush the edges of the tortilla with the beaten egg.",
+    "5. Spoon about 1/4 cup of the vegetable mixture onto the center of the tortilla.",
+    "6. Roll the tortilla into a tight cylinder and place seam-side down on a baking sheet.",
+    "7. Repeat with the remaining tortillas and filling.",
+    "8. Bake the spring rolls in the preheated oven for 15-20 minutes, or until crispy and golden brown.",
+    "9. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan-free",
+    "spring-rolls",
+    "venezuelan-food"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-venezuelan-egg-rolls-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T00:35:46.702Z"
+}
