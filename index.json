@@ -3698,17 +3698,15 @@
   },
   {
     "slug": "warm-german-almond-pilaf",
-    "title": "Warm German Almond Pilaf",
+    "title": "Warm German Pilaf with Almonds",
     "tags": [
-      "almond-based",
-      "citrusy",
-      "comfort-food",
-      "german-cuisine",
-      "one-pot",
-      "weeknight"
+      "german",
+      "pilaf",
+      "almond",
+      "vegetarian"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 30,
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -15300,16 +15298,14 @@
   },
   {
     "slug": "wholesome-spicy-filipino-peach-stew",
-    "title": "wholesome spicy filipino peach stew",
+    "title": "Spicy Filipino Stew",
     "tags": [
-      "copper-pot",
       "filipino",
-      "flaky",
-      "low-fat",
-      "spicy"
+      "spicy",
+      "stew"
     ],
-    "cuisine": "filipino",
-    "totalTimeMin": 30,
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
