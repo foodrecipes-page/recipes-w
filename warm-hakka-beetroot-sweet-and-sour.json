@@ -1,0 +1,65 @@
+{
+  "slug": "warm-hakka-beetroot-sweet-and-sour",
+  "title": "Beetroot Hakka Sweet Stir Fry",
+  "description": "A sweet and savory stir fry made with beetroot and hakka noodles, perfect for a quick dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hakka noodles",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "Beetroot",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Sweet soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add the grated beetroot and stir-fry for 3-4 minutes.",
+    "Add the hakka noodles and sweet soy sauce, stir-frying for another 2-3 minutes.",
+    "Season with salt to taste.",
+    "Transfer to a serving platter and garnish with a dollop of sour cream, if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beetroot",
+    "hakka-noodles",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-hakka-beetroot-sweet-and-sour",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:14:56.921Z"
+}
