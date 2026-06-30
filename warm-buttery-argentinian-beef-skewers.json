@@ -1,0 +1,100 @@
+{
+  "slug": "warm-buttery-argentinian-beef-skewers",
+  "title": "Argentinian Beef Skewers with Chimichurri",
+  "description": "Tender beef skewers grilled to perfection and served with a tangy Argentinian chimichurri sauce. Perfect for a summer evening.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Warm, buttery, argentinian bread",
+      "amount": "4 slices",
+      "notes": "For serving"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "Soak in water for 30 minutes before grilling"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "1/4 cup",
+      "notes": "For chimichurri sauce"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For chimichurri sauce"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together garlic, red wine vinegar, and olive oil to make the chimichurri sauce.",
+    "3. Add the chopped parsley to the bowl and stir to combine.",
+    "4. Thread the beef cubes, red onion, and red bell pepper onto the skewers.",
+    "5. Season with salt and black pepper to taste.",
+    "6. Brush the grill with oil to prevent sticking.",
+    "7. Grill the skewers for 8-10 minutes per side, or until the beef is cooked to your desired level of doneness.",
+    "8. Serve the skewers hot with the chimichurri sauce and warm, buttery bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "skewers",
+    "grill",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-buttery-argentinian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:29:28.968Z"
+}
