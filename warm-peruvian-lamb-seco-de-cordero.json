@@ -1,0 +1,96 @@
+{
+  "slug": "warm-peruvian-lamb-seco-de-cordero",
+  "title": "Lamb Seco",
+  "description": "A traditional Peruvian braised lamb stew, also known as \"Seco de Cordero\". This hearty dish is rich in flavor and tender lamb, making it a comforting and satisfying meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Aji amarillo pepper",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb chunks on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add more oil if necessary, then sauté the onion, garlic, and aji amarillo pepper until the onion is translucent.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the red wine and beef broth, scraping up any browned bits from the bottom of the pot.",
+    "Return the lamb to the pot, cover, and transfer to the oven.",
+    "Braise the lamb for 2-3 hours, or until tender and falling apart.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "lamb",
+    "braised",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T05:03:00.436Z"
+}
