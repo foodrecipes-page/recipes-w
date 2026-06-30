@@ -1,0 +1,79 @@
+{
+  "slug": "wholesome-kenyan-beer-dumplings",
+  "title": "Kenyan Beer-Braised Dumplings",
+  "description": "A hearty Kenyan-inspired dish featuring tender dumplings slow-cooked in a rich beer-based sauce.",
+  "cuisine": "kenyan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wholesome all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Kenyan wheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "12-15 wrappers"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add ground beef and cook until browned, breaking up into small pieces as it cooks.",
+    "Add flour and stir to coat beef, cooking for 1 minute.",
+    "Gradually add beer, stirring to combine.",
+    "Bring to a simmer and cook for 5 minutes.",
+    "Add dumpling wrappers, one at a time, and cook for 2-3 minutes on each side, or until dough is cooked through.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Note: Cooking time may vary depending on the size of the dumplings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "beef",
+    "dumplings",
+    "beer"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-kenyan-beer-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:54:41.778Z"
+}
