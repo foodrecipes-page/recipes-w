@@ -1,0 +1,96 @@
+{
+  "slug": "warm-smoky-korean-barramundi-bokkeum",
+  "title": "Barramundi Bokkeum",
+  "description": "A spicy Korean-style fish dish with smoky flavors, featuring barramundi as the main ingredient.",
+  "cuisine": "Korean",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "4",
+      "notes": "skin removed"
+    },
+    {
+      "name": "warm gochujang sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "add smokiness"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "balances heat"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bokkeum (Korean stir-fry mix)",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Season the barramundi fillets with salt and place them on the prepared baking sheet.",
+    "Drizzle the olive oil over the fish and sprinkle with smoked paprika.",
+    "Bake the fish in the preheated oven for 8-10 minutes or until cooked through.",
+    "While the fish is baking, heat 1 tablespoon of warm gochujang sauce in a small saucepan over medium heat.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the brown sugar and cook for another minute, stirring constantly.",
+    "Remove the fish from the oven and place it on a plate.",
+    "Drizzle the warm gochujang sauce over the fish and sprinkle with thinly sliced green onions.",
+    "Serve the fish with the bokkeum (Korean stir-fry mix) on the side.",
+    "Optional: Drizzle with sesame oil for added flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "fish",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-korean-barramundi-bokkeum",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T03:53:06.286Z"
+}
