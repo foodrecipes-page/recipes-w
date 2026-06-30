@@ -1455,18 +1455,16 @@
   },
   {
     "slug": "warm-crisp-spanish-pisto-manchego-bake",
-    "title": "Warm Crisp Spanish Pisto Manchego Bake",
+    "title": "Warm Spanish Pisto Tart",
     "tags": [
-      "baked",
-      "cheesy",
-      "italian",
-      "low-sodium",
-      "one-pan",
       "spanish",
-      "weeknight"
+      "vegetarian",
+      "breakfast",
+      "brunch",
+      "snack"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -7649,16 +7647,14 @@
   },
   {
     "slug": "warm-smoky-venezuelan-egg-rolls-spring-rolls",
-    "title": "Warm Smoky Venezuelan Egg Rolls Spring Rolls",
+    "title": "Venezuelan Spring Rolls",
     "tags": [
-      "appetizer",
-      "comfort-food",
-      "latin-american",
-      "smoky-flavor",
-      "snack-time"
+      "vegan-free",
+      "spring-rolls",
+      "venezuelan-food"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -11693,16 +11689,15 @@
   },
   {
     "slug": "warmly-spiced-australian-lamb-ssam-wrap",
-    "title": "Warmly Spiced Australian Lamb Ssam Wrap",
+    "title": "Lamb Ssam Wrap",
     "tags": [
-      "australian-cuisine",
-      "comfort-food",
-      "lamb-recipes",
-      "low-carb",
-      "ssam-wraps"
+      "korean",
+      "lamb",
+      "wrap",
+      "spicy"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 140,
+    "cuisine": "korean",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -16852,20 +16847,15 @@
   },
   {
     "slug": "wilted-russian-cabbage-borscht",
-    "title": "Wilted Russian Cabbage Borscht",
+    "title": "Borscht Soup",
     "tags": [
-      "beet-based",
-      "comfort-food",
-      "easy-to-make",
-      "kid-friendly",
-      "russian-dish",
-      "sattvic-friendly",
-      "soul-food",
-      "vegetarian",
-      "veggie-curry"
+      "soup",
+      "beets",
+      "russian",
+      "ukrainian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
