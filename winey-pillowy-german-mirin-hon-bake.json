@@ -1,0 +1,76 @@
+{
+  "slug": "winey-pillowy-german-mirin-hon-bake",
+  "title": "Pillowy German Wine Cake",
+  "description": "Moist and flavorful, this German wine cake is perfect for a special occasion. With a hint of sweetness and a soft texture, it's a delicious treat.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "german",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "bake",
+      "amount": "1 cup",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "pillowy",
+      "amount": "1/2 cup",
+      "notes": "unsalted butter, softened"
+    },
+    {
+      "name": "winey",
+      "amount": "1/2 cup",
+      "notes": "red wine"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons",
+      "notes": "sweet Japanese cooking wine"
+    },
+    {
+      "name": "hon",
+      "amount": "2 large",
+      "notes": "eggs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C) and grease a 9-inch (23cm) springform pan.",
+    "In a medium bowl, whisk together the flour, sugar, and a pinch of salt.",
+    "In a large bowl, whisk together the butter and wine until well combined.",
+    "Add the eggs one at a time, whisking well after each addition.",
+    "Gradually add the flour mixture to the wet ingredients and whisk until smooth.",
+    "Pour in the mirin and whisk until combined.",
+    "Pour the batter into the prepared pan and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 10 minutes.",
+    "Transfer to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "german",
+    "dessert",
+    "wines",
+    "pillowy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-pillowy-german-mirin-hon-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:50:21.333Z"
+}
