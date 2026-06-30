@@ -1,0 +1,101 @@
+{
+  "slug": "warm-venezuelan-beef-stew",
+  "title": "Beef Pabellón Criollo Stew",
+  "description": "A classic Venezuelan stew made with slow-cooked beef, plantains, and yuca. Serve with rice and fried eggs for a hearty meal.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "beef",
+    "stew"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef brisket",
+      "amount": "1 pound",
+      "notes": "Cut into 2-inch cubes"
+    },
+    {
+      "name": "Plantains",
+      "amount": "2 medium",
+      "notes": "Sliced into rounds"
+    },
+    {
+      "name": "Yuca",
+      "amount": "1 medium",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef cubes on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add more oil if necessary, then sauté the onions and garlic until softened, about 5 minutes.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the beef broth, Worcestershire sauce, and soy sauce. Stir to combine.",
+    "Return the browned beef to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 1/2 hours, or until the beef is tender.",
+    "Add the sliced plantains and yuca to the pot and continue to simmer for another 30 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "venezuelan",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-venezuelan-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:17:49.602Z"
+}
