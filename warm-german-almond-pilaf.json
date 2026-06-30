@@ -1,0 +1,72 @@
+{
+  "slug": "warm-german-almond-pilaf",
+  "title": "Warm German Pilaf with Almonds",
+  "description": "A hearty and comforting German-inspired pilaf dish loaded with toasted almonds and warm spices.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pilaf mix",
+      "amount": "1 cup",
+      "notes": "medium grain rice blend"
+    },
+    {
+      "name": "almond",
+      "amount": "1/4 cup",
+      "notes": "sliced and toasted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seed",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add pilaf mix, caraway seed, and salt. Stir to combine.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and stir in toasted almonds.",
+    "Serve warm, garnished with additional almonds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "pilaf",
+    "almond",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-german-almond-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:33:16.576Z"
+}
