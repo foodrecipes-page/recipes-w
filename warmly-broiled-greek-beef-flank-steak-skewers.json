@@ -1,0 +1,102 @@
+{
+  "slug": "warmly-broiled-greek-beef-flank-steak-skewers",
+  "title": "Grilled Greek Beef Skewers",
+  "description": "Juicy beef skewers marinated in a zesty Greek-inspired mixture, perfect for a summer barbecue.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef flank steak",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "2 medium",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": "Cut into 1-inch slices"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "8 oz",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together Greek yogurt, lemon juice, garlic, salt, and pepper.",
+    "Add beef cubes to the marinade and mix well. Cover and refrigerate for at least 30 minutes.",
+    "Thread beef, onion, bell pepper, zucchini, and mushroom onto skewers.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until beef is cooked to desired level of doneness.",
+    "Let skewers rest for 5 minutes before serving.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "beef",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-broiled-greek-beef-flank-steak-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:55:31.687Z"
+}
