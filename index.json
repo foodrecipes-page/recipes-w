@@ -9730,17 +9730,15 @@
   },
   {
     "slug": "warm-venezuelan-beef-stew",
-    "title": "Warm Venezuelan Beef Stew",
+    "title": "Beef Pabellón Criollo Stew",
     "tags": [
-      "beef-stew",
-      "clay-pot",
-      "comfort-food",
-      "latin-american",
-      "one-pot",
-      "slow-cooked"
+      "beef",
+      "stew",
+      "venezuelan",
+      "warm"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 180,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 170,
     "shard": "w"
   },
   {
