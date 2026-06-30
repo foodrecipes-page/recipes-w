@@ -1,0 +1,100 @@
+{
+  "slug": "warm-earthy-norwegian-beef-stew",
+  "title": "Norwegian Beef Stew",
+  "description": "A hearty, comforting stew originating from Norway, made with tender beef and root vegetables.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef in batches, about 5 minutes per batch, then set aside.",
+    "Add the onion, carrots, and celery to the pot; cook until the vegetables are tender, about 10 minutes.",
+    "Add the flour; cook for 1 minute.",
+    "Gradually stir in the broth and red wine, scraping up any browned bits.",
+    "Return the beef to the pot; bring to a boil.",
+    "Reduce heat to low; cover and simmer for 1 1/2 hours, or until the beef is tender.",
+    "Add the potatoes, tomato paste, and thyme; cover and simmer for 30 minutes, or until the potatoes are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "norwegian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-earthy-norwegian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:37:44.305Z"
+}
