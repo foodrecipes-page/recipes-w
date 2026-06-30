@@ -1,0 +1,81 @@
+{
+  "slug": "warm-german-pretzel-wrap",
+  "title": "Warm German Pretzel Wrap",
+  "description": "A twist on the classic German pretzel, this recipe wraps the warm dough around a filling of melted cheese and savory meats.",
+  "cuisine": "german",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pretzel dough",
+      "amount": "1 cup, warm",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "sliced ham",
+      "amount": "2 oz"
+    },
+    {
+      "name": "sliced salami",
+      "amount": "2 oz"
+    },
+    {
+      "name": "onion, thinly sliced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the warm pretzel dough to a thickness of 1/4 inch.",
+    "Spread 1/4 cup of the shredded cheese evenly over the dough, leaving a 1/2 inch border around the edges.",
+    "Top the cheese with sliced ham and salami.",
+    "Sprinkle the remaining 1/4 cup of cheese over the meats.",
+    "Add a sprinkle of onion on top of the cheese.",
+    "Fold the dough over the filling to form a tight seal.",
+    "Brush the top of the dough with melted butter.",
+    "Bake for 12-15 minutes, or until the dough is golden brown and the cheese is melted.",
+    "Remove from oven and let cool for 2-3 minutes before slicing.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "pretzel",
+    "wrap",
+    "warm",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-german-pretzel-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T02:58:11.075Z"
+}
