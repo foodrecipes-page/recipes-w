@@ -1,0 +1,79 @@
+{
+  "slug": "wilted-russian-cabbage-borscht",
+  "title": "Borscht Soup",
+  "description": "A traditional Eastern European beet-based soup with a rich flavor and vibrant color. This recipe is a hearty twist on the classic, incorporating Russian and Ukrainian influences.",
+  "cuisine": "Russian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beets",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 small, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Borscht spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the chopped beets, carrots, and cabbage; cook until the vegetables are tender.",
+    "Add the tomato paste, borscht spice blend, and vegetable broth.",
+    "Bring the mixture to a boil; reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the sour cream and chopped fresh dill.",
+    "Serve hot, garnished with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "beets",
+    "russian",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-russian-cabbage-borscht",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:21:37.756Z"
+}
