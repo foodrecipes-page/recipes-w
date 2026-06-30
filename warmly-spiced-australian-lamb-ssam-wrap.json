@@ -1,0 +1,80 @@
+{
+  "slug": "warmly-spiced-australian-lamb-ssam-wrap",
+  "title": "Lamb Ssam Wrap",
+  "description": "A spicy and flavorful Korean-inspired lamb wrap, perfect for a quick and easy meal.",
+  "cuisine": "korean",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and thinly sliced"
+    },
+    {
+      "name": "warmly toasted flour tortilla",
+      "amount": "4-6 wraps",
+      "notes": "depending on size"
+    },
+    {
+      "name": "spiced ssam sauce",
+      "amount": "1/4 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "australian lettuce",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "thinly sliced cucumber",
+      "amount": "1/2 cup",
+      "notes": "peeled and seeded"
+    },
+    {
+      "name": "thinly sliced carrots",
+      "amount": "1/2 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "ssam wrap pickled daikon",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Season the lamb with salt and pepper.",
+    "3. Grill the lamb for 3-4 minutes per side, or until cooked through.",
+    "4. Let the lamb rest for 5 minutes before slicing thinly against the grain.",
+    "5. Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "6. Assemble the wraps by spreading a tablespoon of spiced ssam sauce on each tortilla, followed by a few slices of lamb, some shredded lettuce, cucumber, carrots, and pickled daikon.",
+    "7. Serve immediately and enjoy!",
+    "8. To make spiced ssam sauce, combine 1/2 cup gochujang, 1/4 cup soy sauce, 2 tablespoons brown sugar, 2 cloves garlic minced, and 1 tablespoon grated ginger in a bowl. Mix well and refrigerate for at least 30 minutes before using.",
+    "9. For store-bought ssam wrap pickled daikon, follow the package instructions for preparation."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "lamb",
+    "wrap",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-australian-lamb-ssam-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:36:29.530Z"
+}
