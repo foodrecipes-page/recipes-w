@@ -1,0 +1,89 @@
+{
+  "slug": "wholesome-spicy-filipino-peach-stew",
+  "title": "Spicy Filipino Stew",
+  "description": "A flavorful and spicy Filipino-inspired stew made with wholesome ingredients. This dish is perfect for a cold evening.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 lbs",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the sliced onion and sauté until translucent.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the sliced chili peppers and cook for 2 minutes.",
+    "Add the chicken breast and cook until browned on all sides.",
+    "Add the tomato paste and stir to combine.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Add the fish sauce, black pepper, and salt. Stir to combine.",
+    "Reduce heat to low and let simmer for 20 minutes or until the chicken is cooked through.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "spicy",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-spicy-filipino-peach-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:29:12.425Z"
+}
