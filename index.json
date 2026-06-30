@@ -4228,16 +4228,14 @@
   },
   {
     "slug": "warm-hakka-beetroot-sweet-and-sour",
-    "title": "Warm Hakka Beetroot Sweet And Sour",
+    "title": "Beetroot Hakka Sweet Stir Fry",
     "tags": [
-      "ayurvedic-friendly",
-      "beetroot-recipes",
-      "hakka-cuisine",
-      "sweet-and-sour",
-      "vegetarian-dishes"
+      "beetroot",
+      "hakka-noodles",
+      "stir-fry"
     ],
-    "cuisine": "Hakka",
-    "totalTimeMin": 50,
+    "cuisine": "Asian",
+    "totalTimeMin": 20,
     "shard": "w"
   },
   {
@@ -10403,16 +10401,13 @@
   },
   {
     "slug": "warm-wilted-mediterranean-fish-stew",
-    "title": "warm wilted mediterranean fish stew",
+    "title": "Warm Fish Stew",
     "tags": [
-      "cozy",
-      "fish-stew",
+      "fish",
       "mediterranean",
-      "one-pan",
-      "soup",
-      "weeknight"
+      "stew"
     ],
-    "cuisine": "mediterranean",
+    "cuisine": "Mediterranean",
     "totalTimeMin": 25,
     "shard": "w"
   },
@@ -11024,17 +11019,15 @@
   },
   {
     "slug": "warmly-broiled-greek-beef-flank-steak-skewers",
-    "title": "Warmly Broiled Greek Beef Flank Steak Skewers",
+    "title": "Grilled Greek Beef Skewers",
     "tags": [
-      "beef-recipes",
-      "cheese-pull",
-      "greek-food",
-      "kosher-friendly",
-      "midnight-cravings",
-      "skewers"
+      "greek",
+      "beef",
+      "skewers",
+      "grilled"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -14381,20 +14374,15 @@
   },
   {
     "slug": "wholesome-kenyan-beer-dumplings",
-    "title": "Wholesome Kenyan Beer Dumplings",
+    "title": "Kenyan Beer-Braised Dumplings",
     "tags": [
-      "alcohol-friendly",
-      "beer-braised",
-      "comfort-food",
-      "crisp",
-      "gluten-free",
       "kenyan",
-      "keto",
-      "pungent",
-      "weeknight"
+      "beef",
+      "dumplings",
+      "beer"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -16579,16 +16567,16 @@
   },
   {
     "slug": "wilted-bitter-german-cheese-bake",
-    "title": "Wilted Bitter German Cheese Bake",
+    "title": "Bitter German Cheese Fritters",
     "tags": [
-      "cheese",
       "german",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "cheese",
+      "fritters",
+      "snack",
+      "vegetarian"
     ],
-    "cuisine": "german",
-    "totalTimeMin": 50,
+    "cuisine": "German",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
