@@ -3759,13 +3759,13 @@
     "slug": "warm-german-pretzel-wrap",
     "title": "Warm German Pretzel Wrap",
     "tags": [
-      "cozy",
-      "easy",
       "german",
-      "low-carb",
-      "warm-pretzel"
+      "pretzel",
+      "wrap",
+      "warm",
+      "snack"
     ],
-    "cuisine": "German",
+    "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "w"
   },
@@ -17568,12 +17568,13 @@
   },
   {
     "slug": "winey-pillowy-german-mirin-hon-bake",
-    "title": "Winey Pillowy German Mirin-Hon Bake",
+    "title": "Pillowy German Wine Cake",
     "tags": [
-      "comfort-food",
+      "cake",
       "german",
-      "one-pan",
-      "weeknight"
+      "dessert",
+      "wines",
+      "pillowy"
     ],
     "cuisine": "German",
     "totalTimeMin": 55,
