@@ -1,0 +1,79 @@
+{
+  "slug": "wilted-bitter-german-cheese-bake",
+  "title": "Bitter German Cheese Fritters",
+  "description": "A unique dish combining the bitterness of German beer and the richness of cheese, perfect as a snack or dessert.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "German beer",
+      "amount": "1/4 cup",
+      "notes": "used for marinating and adding flavor"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup, grated",
+      "notes": "strong, hard cheese like cheddar or gouda"
+    },
+    {
+      "name": "wilted lettuce",
+      "amount": "1/4 cup, chopped",
+      "notes": "adds a tangy flavor"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "for coating the fritters"
+    },
+    {
+      "name": "bake mix",
+      "amount": "1/2 cup",
+      "notes": "for adding a sweet and crunchy texture"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "binds the mixture together"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "for frying the fritters"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "In a large bowl, combine the grated cheese, chopped wilted lettuce, flour, bake mix, and egg.",
+    "Marinate the mixture with the German beer for at least 30 minutes.",
+    "Using your hands, shape the mixture into small patties.",
+    "Coat the patties with a thin layer of flour.",
+    "Fry the fritters in batches until golden brown, about 2-3 minutes per side.",
+    "Drain the fritters on paper towels and serve hot.",
+    "Optional: serve with a side of sweet chili sauce or a dollop of sour cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "cheese",
+    "fritters",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-bitter-german-cheese-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:33:06.290Z"
+}
