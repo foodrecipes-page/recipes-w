@@ -4852,17 +4852,14 @@
   },
   {
     "slug": "warm-korean-pecorino-kimchi-bowl",
-    "title": "Warm Korean Pecorino Kimchi Bowl",
+    "title": "Korean Kimchi Rice Bowl",
     "tags": [
-      "easy-meal",
-      "jain-friendly",
-      "korean-food",
-      "one-bowl",
-      "vegetarian",
-      "weeknight-dinner"
+      "korean",
+      "kimchi",
+      "rice-bowl"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
@@ -10840,18 +10837,16 @@
   },
   {
     "slug": "warming-cheesy-australian-rigatoni-pasta",
-    "title": "Warming Cheesy Australian Rigatoni Pasta",
+    "title": "Australian Cheesy Rigatoni Bake",
     "tags": [
-      "australian-inspired",
-      "cheesy",
+      "pasta",
+      "australian",
       "comfort-food",
-      "high-protein",
-      "one-pan",
-      "pasta-bake",
-      "weeknight"
+      "cheesy",
+      "warming"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
