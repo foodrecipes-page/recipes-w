@@ -1,0 +1,90 @@
+{
+  "slug": "warm-velvety-japanese-blanched-noodles-ramen",
+  "title": "Blanched Ramen Noodle Stir Fry",
+  "description": "Quick and easy stir-fry with blanched ramen noodles, Japanese flavors, and velvety textures.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Blanched Ramen Noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Sliced Mushrooms",
+      "amount": "8 oz",
+      "notes": "Japanese-style shiitake or cremini"
+    },
+    {
+      "name": "Sliced Carrots",
+      "amount": "1 cup",
+      "notes": "julienned"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Japanese-style or tamari"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Sliced Scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the blanched ramen noodles according to package instructions.",
+    "In a large skillet or wok, heat the vegetable oil over medium-high heat.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 3-4 minutes.",
+    "Add the julienned carrots and cook for an additional 2-3 minutes, until they start to soften.",
+    "Add the cooked noodles to the skillet or wok and stir to combine with the vegetables.",
+    "In a small bowl, whisk together the soy sauce and sesame oil. Pour the sauce over the noodle mixture and stir to combine.",
+    "Transfer the noodle mixture to a serving platter or individual bowls.",
+    "Garnish with sliced scallions, sesame seeds, and a drizzle of sesame oil, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ramen",
+    "noodles",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-velvety-japanese-blanched-noodles-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:28:05.621Z"
+}
