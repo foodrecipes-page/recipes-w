@@ -1672,17 +1672,19 @@
   },
   {
     "slug": "warm-crispy-german-ikura-bowl",
-    "title": "Warm Crispy German Ikura Bowl",
+    "title": "Warm German Breakfast Bowl",
     "tags": [
-      "comfort-food",
-      "german-cuisine",
-      "high-protein",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "german",
+      "breakfast",
+      "dairy",
+      "eggs",
+      "sausage",
+      "bratwurst",
+      "weisswurst",
+      "pretzel buns"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 45,
+    "cuisine": "german",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
