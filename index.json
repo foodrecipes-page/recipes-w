@@ -12437,16 +12437,15 @@
   },
   {
     "slug": "weeknight-malaysian-malai-grill",
-    "title": "Weeknight Malaysian Malai Grill",
+    "title": "Weeknight Chicken Satay",
     "tags": [
-      "easy-to-make",
-      "grilled",
-      "lacto-vegetarian",
+      "grill",
+      "weeknight",
       "malaysian",
-      "one-pan",
-      "weeknight"
+      "malai",
+      "chicken"
     ],
-    "cuisine": "malaysian",
+    "cuisine": "Malaysian",
     "totalTimeMin": 25,
     "shard": "w"
   },
@@ -13466,18 +13465,14 @@
   },
   {
     "slug": "wholesome-creamy-american-sausages-baked-casserole",
-    "title": "Creamy American Sausage Baked Casserole",
+    "title": "Classic American Sausage Casserole",
     "tags": [
-      "american-recipes",
-      "comfort-food",
-      "cream-based-sauce",
-      "easy-weeknight-meals",
-      "high-protein",
-      "one-pan-meat-casserole",
-      "sausage-casserole"
+      "sausages",
+      "casserole",
+      "american-food"
     ],
     "cuisine": "American",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
