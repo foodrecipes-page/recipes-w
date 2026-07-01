@@ -4894,15 +4894,14 @@
   },
   {
     "slug": "warm-light-asian-gouda-qwen-hot-pot",
-    "title": "Warm Light Asian Gouda Qwen Hot-Pot",
+    "title": "Warm Gouda Qwen Pot Snack",
     "tags": [
-      "ayurvedic-friendly",
-      "gouda-cheese",
-      "light-asian-dish",
-      "warm-spice"
+      "snack",
+      "comfort-food",
+      "cheesy"
     ],
-    "cuisine": "Asian",
-    "totalTimeMin": 65,
+    "cuisine": "Dutch",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -9586,17 +9585,16 @@
   },
   {
     "slug": "warm-velvety-japanese-blanched-noodles-ramen",
-    "title": "Warm Velvety Japanese Blanched Noodles Ramen",
+    "title": "Blanched Ramen Noodle Stir Fry",
     "tags": [
-      "easy-to-make",
-      "japanese-cuisine",
-      "low-fat",
-      "one-pan",
-      "post-workout",
-      "vegan-option"
+      "ramen",
+      "noodles",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "w"
   },
   {
@@ -14768,16 +14766,16 @@
   },
   {
     "slug": "wholesome-oozy-yaki-noodle-oyakodon",
-    "title": "Wholesome Oozy Yaki-Noodle Oyakodon",
+    "title": "Classic Oyakodon Recipe",
     "tags": [
-      "japanese-dish",
-      "kosher-friendly",
-      "mirepoix-base",
-      "oyakodon",
-      "resinous-yokodyum"
+      "japanese",
+      "chicken",
+      "egg",
+      "noodles",
+      "oyakodon"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
