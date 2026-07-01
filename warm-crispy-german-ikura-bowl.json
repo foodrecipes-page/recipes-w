@@ -1,0 +1,91 @@
+{
+  "slug": "warm-crispy-german-ikura-bowl",
+  "title": "Warm German Breakfast Bowl",
+  "description": "A hearty and comforting warm breakfast bowl filled with crispy bacon, scrambled eggs, and served with a side of spicy German sausage. Perfect for a cold morning.",
+  "cuisine": "german",
+  "diet": [
+    "breakfast",
+    "dairy",
+    "eggs"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "preferably thick-cut"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": "freshly cracked"
+    },
+    {
+      "name": "German Sausage",
+      "amount": "2 sausages",
+      "notes": "preferably Bratwurst or Weisswurst"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "a handful",
+      "notes": null
+    },
+    {
+      "name": "Sliced German Pickles",
+      "amount": "a few slices",
+      "notes": null
+    },
+    {
+      "name": "Warm Buns",
+      "amount": "4 buns",
+      "notes": "preferably pretzel buns"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet over medium heat.",
+    "2. Add the sliced bacon to the skillet and cook until crispy, about 4-5 minutes per side.",
+    "3. Remove the cooked bacon from the skillet and set aside on a paper towel-lined plate.",
+    "4. In the same skillet, add the sliced German sausage and cook until browned and cooked through, about 5-6 minutes per side.",
+    "5. Remove the cooked sausage from the skillet and set aside with the bacon.",
+    "6. In a large bowl, whisk together the eggs and a pinch of salt and pepper.",
+    "7. Add the whisked eggs to the skillet and scramble until cooked through, about 3-4 minutes.",
+    "8. Warm the buns by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "9. Assemble the breakfast bowls by placing a few slices of bacon, a few slices of sausage, a scoop of scrambled eggs, and a sprinkle of chopped parsley on each bun.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "breakfast",
+    "dairy",
+    "eggs",
+    "sausage",
+    "bratwurst",
+    "weisswurst",
+    "pretzel buns"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-german-ikura-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:19:41.683Z"
+}
