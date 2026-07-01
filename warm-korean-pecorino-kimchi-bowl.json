@@ -1,0 +1,76 @@
+{
+  "slug": "warm-korean-pecorino-kimchi-bowl",
+  "title": "Korean Kimchi Rice Bowl",
+  "description": "A flavorful and spicy Korean-inspired dish made with kimchi, warm rice, and pecorino cheese.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Warm rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Pecorino cheese",
+      "amount": "1/4 cup, crumbled"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green onions, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the warm rice according to package instructions.",
+    "In a large bowl, combine the cooked rice, kimchi, and soy sauce. Mix well to combine.",
+    "Transfer the rice mixture to a serving bowl.",
+    "Top the rice with crumbled pecorino cheese, chopped green onions, and sesame seeds.",
+    "Drizzle sesame oil over the top of the dish.",
+    "Sprinkle Korean chili flakes over the top of the dish to taste.",
+    "Serve immediately and enjoy!",
+    "Garnish with additional green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "kimchi",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-korean-pecorino-kimchi-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:19:35.917Z"
+}
