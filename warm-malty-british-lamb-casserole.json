@@ -1,0 +1,90 @@
+{
+  "slug": "warm-malty-british-lamb-casserole",
+  "title": "British Lamb Casserole",
+  "description": "A hearty, traditional British casserole made with tender lamb and warm, malty flavors. Perfect for a cold evening.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 ounces",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Add the lamb and cook until browned, about 5 minutes. Remove the lamb from the pot and set aside.",
+    "Reduce the heat to medium and add the onion to the pot. Cook until the onion is softened, about 5 minutes. Add the garlic and cook for 1 minute.",
+    "Add the flour to the pot and cook for 1 minute, stirring constantly.",
+    "Add the red wine, chicken broth, mushrooms, tomato paste, and thyme to the pot. Stir to combine.",
+    "Return the lamb to the pot and bring the mixture to a boil.",
+    "Cover the pot with a lid and transfer it to the preheated oven. Bake for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and let it cool slightly. Serve the casserole hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "casserole",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-malty-british-lamb-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:24:12.790Z"
+}
