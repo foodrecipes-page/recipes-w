@@ -1,0 +1,66 @@
+{
+  "slug": "warm-light-asian-gouda-qwen-hot-pot",
+  "title": "Warm Gouda Qwen Pot Snack",
+  "description": "A simple, comforting snack combining warm and light flavors with a creamy gouda cheese.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gouda cheese",
+      "amount": "1 cup grated",
+      "notes": "Dutch or smoked Gouda works well"
+    },
+    {
+      "name": "Qwen",
+      "amount": "1 medium, peeled and diced",
+      "notes": ""
+    },
+    {
+      "name": "Light pot",
+      "amount": "1 large, peeled and diced",
+      "notes": "or any mild winter squash"
+    },
+    {
+      "name": "Warm",
+      "amount": "1 tablespoon olive oil",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Toss the Qwen and light pot in a bowl with the warm, olive oil, and salt until they are evenly coated.",
+    "Transfer the mixture to a baking dish and roast for 20-25 minutes, or until the vegetables are tender.",
+    "In a separate saucepan, melt the Gouda cheese over low heat.",
+    "Add the roasted Qwen and light pot to the cheese and stir until well combined.",
+    "Serve warm, garnished with additional Gouda cheese if desired.",
+    "Enjoy as a comforting snack!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "comfort-food",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-light-asian-gouda-qwen-hot-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:15:11.093Z"
+}
