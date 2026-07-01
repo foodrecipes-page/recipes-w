@@ -1,0 +1,87 @@
+{
+  "slug": "winey-pillowy-peruvian-lomo-ceviche",
+  "title": "Grilled Lomo with Peruvian Ceviche",
+  "description": "A refreshing and flavorful dish combining the tender grilled lomo with a zesty ceviche sauce, showcasing the flavors of Peru.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lomo",
+      "amount": "1 pound",
+      "notes": "preferably tenderized"
+    },
+    {
+      "name": "pillowy",
+      "amount": "1 cup",
+      "notes": "Peruvian corn"
+    },
+    {
+      "name": "peruvian",
+      "amount": "1/4 cup",
+      "notes": "Peruvian aji amarillo pepper sauce"
+    },
+    {
+      "name": "winey",
+      "amount": "1/4 cup",
+      "notes": "white wine"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season the lomo with salt and black pepper.",
+    "3. Grill the lomo for 4-5 minutes per side, or until it reaches a safe internal temperature of 145°F.",
+    "4. Meanwhile, combine the pillowy, onion, garlic, peruvian, winey, and lemon juice in a bowl.",
+    "5. Stir in the chopped onion and garlic.",
+    "6. Add the grilled lomo to the bowl and toss to coat with the ceviche sauce.",
+    "7. Serve immediately, garnished with additional peruvian if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "grilled",
+    "ceviche"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-pillowy-peruvian-lomo-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:41:25.168Z"
+}
