@@ -1,0 +1,86 @@
+{
+  "slug": "wholesome-turkish-rice-dolma",
+  "title": "Turkish Stuffed Rice Dolma",
+  "description": "A traditional Turkish dish, dolma is a flavorful rice and herb filling wrapped in grape leaves. This recipe serves a modern twist by using rice as the wrapping material.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "wholesome olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dolma",
+      "amount": "1 package",
+      "notes": "available in most international grocery stores"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice and soak it in water for 30 minutes. Drain and set aside.",
+    "Heat the olive oil in a pan over medium heat. Add the chopped onion and cook until softened.",
+    "Add the chopped parsley, chopped dill, cumin, paprika, and salt to the pan. Cook for an additional 2 minutes.",
+    "Add the cooked rice to the pan and stir to combine with the herb mixture.",
+    "Rinse the grape leaves and pat dry with a paper towel. Cut the leaves in half lengthwise.",
+    "To assemble the dolma, lay a grape leaf flat on a work surface, with the stem end facing you.",
+    "Place a tablespoon of the rice mixture in the center of the grape leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining grape leaves and rice mixture.",
+    "Serve the dolma warm or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "rice",
+    "stuffed"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-turkish-rice-dolma",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:19:59.073Z"
+}
