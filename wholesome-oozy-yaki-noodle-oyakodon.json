@@ -1,0 +1,81 @@
+{
+  "slug": "wholesome-oozy-yaki-noodle-oyakodon",
+  "title": "Classic Oyakodon Recipe",
+  "description": "A popular Japanese dish featuring chicken and egg, cooked in a savory sauce and served over a bed of steaming hot rice. Enjoy this comforting meal for a satisfying dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Yaki sauce",
+      "amount": "1/4 cup",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Noodle",
+      "amount": "1/2 cup",
+      "notes": "Japanese rice noodles or thin udon noodles"
+    },
+    {
+      "name": "Wholesome egg",
+      "amount": "2 large eggs",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Oyakodon rice",
+      "amount": "1 cup",
+      "notes": "Cooked Japanese rice"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of yaki sauce in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "In the same skillet, add the remaining 3 tablespoons of yaki sauce and bring to a simmer.",
+    "Add the noodles to the skillet and cook, stirring constantly, until they are coated in the sauce and slightly tender, about 2-3 minutes.",
+    "Push the noodles to one side of the skillet.",
+    "Add a small amount of oil to the other side of the skillet and crack in the beaten eggs.",
+    "Scramble the eggs until they are cooked through, breaking them up into small pieces as they cook.",
+    "Mix the eggs with the noodles and add the cooked chicken back into the skillet.",
+    "Season with soy sauce to taste, if using.",
+    "Serve the oyakodon over a bed of cooked Japanese rice and garnish with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "chicken",
+    "egg",
+    "noodles",
+    "oyakodon"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-oozy-yaki-noodle-oyakodon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:30:40.839Z"
+}
