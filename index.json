@@ -2467,18 +2467,16 @@
   },
   {
     "slug": "warm-dense-blueberry-filled-australian-blueberry-flatbread",
-    "title": "Warm, Dense, Blueberry-filled Australian Blueberry Flatbread",
+    "title": "Australian Blueberry Flatbread",
     "tags": [
-      "australian",
       "blueberry",
-      "breakfast",
       "flatbread",
-      "fodmap-friendly",
-      "gluten-free",
+      "australian",
+      "dessert",
       "snack"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 24,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -2627,18 +2625,16 @@
   },
   {
     "slug": "warm-dense-indian-corn-tagine",
-    "title": "Warm Dense Indian Corn Tagine",
+    "title": "Warm Corn Tagine",
     "tags": [
-      "crowd-pleaser",
-      "fodmap-friendly",
-      "gluten-free",
-      "indian-cuisine",
-      "sous-vide",
-      "tagine-pot",
-      "vegetarian"
+      "warm",
+      "comfort-food",
+      "indian",
+      "corn",
+      "tagine"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -8784,17 +8780,14 @@
   },
   {
     "slug": "warm-spicy-venezuelan-chicken-stew",
-    "title": "Warm Spicy Venezuelan Chicken Stew",
+    "title": "Pabellón Criollo",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "latin-american",
-      "one-pot",
-      "spicy",
-      "weeknight"
+      "veggie",
+      "stew",
+      "south-american"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -10521,16 +10514,15 @@
   },
   {
     "slug": "warm-wonton-style-ukrainian-egg-tagine",
-    "title": "Warm Wonton-Style Ukrainian Egg Tagine",
+    "title": "Ukrainian Egg Strata",
     "tags": [
-      "brunch",
-      "high-protein",
-      "keto",
-      "one-pan",
-      "weeknight"
+      "breakfast",
+      "ukrainian",
+      "egg",
+      "bread"
     ],
-    "cuisine": "ukrainian",
-    "totalTimeMin": 35,
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
