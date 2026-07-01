@@ -1,0 +1,72 @@
+{
+  "slug": "warm-wonton-style-ukrainian-egg-tagine",
+  "title": "Ukrainian Egg Strata",
+  "description": "A warm, comforting strata that combines Ukrainian flavors with the richness of eggs.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ukrainian bread (rye or black)",
+      "amount": "1 loaf, cut into 1-inch cubes",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "6 large",
+      "notes": ""
+    },
+    {
+      "name": "Warm milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a large skillet, sauté the bread cubes in melted butter until lightly toasted.",
+    "In a separate bowl, whisk together eggs, milk, salt, and black pepper.",
+    "Add the egg mixture to the skillet with the bread and stir to combine.",
+    "Pour the egg-bread mixture into a greased 9x13-inch baking dish.",
+    "Bake for 35-40 minutes or until the strata is set and golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "ukrainian",
+    "egg",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wonton-style-ukrainian-egg-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:45:39.367Z"
+}
