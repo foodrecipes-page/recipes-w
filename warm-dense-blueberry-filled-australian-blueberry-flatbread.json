@@ -1,0 +1,69 @@
+{
+  "slug": "warm-dense-blueberry-filled-australian-blueberry-flatbread",
+  "title": "Australian Blueberry Flatbread",
+  "description": "A delicious and easy-to-make flatbread filled with fresh blueberries, perfect as a snack or dessert.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "blueberries",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "almond extract",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flatbread and spread with honey, lemon juice, and almond extract if using.",
+    "Arrange blueberries on one half of the flatbread.",
+    "Fold the other half of the flatbread over the blueberries.",
+    "Bake for 15-20 minutes or until the flatbread is golden brown.",
+    "Remove from oven and let cool for a few minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "blueberry",
+    "flatbread",
+    "australian",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-dense-blueberry-filled-australian-blueberry-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:45:45.561Z"
+}
