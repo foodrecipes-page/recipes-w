@@ -1,0 +1,94 @@
+{
+  "slug": "warm-dense-indian-corn-tagine",
+  "title": "Warm Corn Tagine",
+  "description": "A comforting and flavorful warm corn tagine, perfect for a chilly evening. This dish combines the sweetness of corn with the warm spices of Indian cuisine.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add garlic and ginger and cook for another minute.",
+    "Add corn kernels, cumin powder, coriander powder, and cayenne pepper.",
+    "Cook for 5-7 minutes, stirring occasionally.",
+    "Season with salt to taste.",
+    "Squeeze lemon juice over the corn mixture.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "warm",
+    "comfort-food",
+    "indian",
+    "corn",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-dense-indian-corn-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:49:41.228Z"
+}
