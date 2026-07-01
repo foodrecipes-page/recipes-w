@@ -5081,16 +5081,14 @@
   },
   {
     "slug": "warm-malty-british-lamb-casserole",
-    "title": "Warm Malty British Lamb Casserole",
+    "title": "British Lamb Casserole",
     "tags": [
-      "comfort-food",
-      "hearty",
-      "one-pan",
-      "romantic",
-      "weeknight"
+      "british",
+      "casserole",
+      "lamb"
     ],
     "cuisine": "British",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "w"
   },
   {
@@ -15542,15 +15540,15 @@
   },
   {
     "slug": "wholesome-turkish-rice-dolma",
-    "title": "Wholesome Turkish Rice Dolma",
+    "title": "Turkish Stuffed Rice Dolma",
     "tags": [
-      "citrusy",
-      "fermented",
-      "low-calorie",
-      "quick"
+      "turkish",
+      "vegetarian",
+      "rice",
+      "stuffed"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -17551,17 +17549,14 @@
   },
   {
     "slug": "winey-pillowy-peruvian-lomo-ceviche",
-    "title": "Winey Pillowy Peruvian Lomo Ceviche",
+    "title": "Grilled Lomo with Peruvian Ceviche",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
       "peruvian",
-      "snack",
-      "weeknight"
+      "grilled",
+      "ceviche"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 23,
     "shard": "w"
   },
   {
