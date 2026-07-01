@@ -4575,17 +4575,15 @@
   },
   {
     "slug": "warm-jamaican-chicken-stew",
-    "title": "Warm Jamaican Chicken Stew",
+    "title": "Jamaican Chicken Stew",
     "tags": [
-      "gluten-free",
-      "hearty-stew",
-      "jamaican-cuisine",
-      "mediterranean-friendly",
-      "one-pot",
-      "sous-vide"
+      "caribbean",
+      "chicken",
+      "stew",
+      "jamaican"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 60,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -9103,17 +9101,14 @@
   },
   {
     "slug": "warm-sugar-peruvian-beef-anticuchos",
-    "title": "Warm Sugar Peruvian Beef Anticuchos",
+    "title": "Peruvian Beef Anticuchos",
     "tags": [
-      "beef-recipes",
-      "grilled-meats",
-      "latin-american",
-      "low-carb",
-      "peruvian-cuisine",
-      "sugar-free"
+      "peruvian",
+      "beef",
+      "grilled"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
