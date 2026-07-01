@@ -1,0 +1,85 @@
+{
+  "slug": "warm-sugar-peruvian-beef-anticuchos",
+  "title": "Peruvian Beef Anticuchos",
+  "description": "A classic Peruvian street food dish, these grilled beef skewers are marinated in a mixture of vinegar, soy sauce, and spices.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beef (thinly sliced)",
+      "amount": "500g",
+      "notes": "Use skirt steak or flap meat"
+    },
+    {
+      "name": "Peruvian vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together Peruvian vinegar, soy sauce, garlic, cumin, black pepper, and salt.",
+    "Add the sliced beef to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated beef onto skewers, leaving a small space between each piece.",
+    "Brush the grill with warm water to prevent sticking.",
+    "Grill the anticuchos for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "Serve hot with a sprinkle of sugar, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "beef",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-sugar-peruvian-beef-anticuchos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:56:45.863Z"
+}
