@@ -1,0 +1,76 @@
+{
+  "slug": "warming-cheesy-australian-rigatoni-pasta",
+  "title": "Australian Cheesy Rigatoni Bake",
+  "description": "A comforting and warming pasta bake inspired by Australian flavors, featuring rigatoni, cheese, and a hint of Australian spices.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "250g",
+      "notes": "sharp cheddar"
+    },
+    {
+      "name": "grated mozzarella cheese",
+      "amount": "150g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Cook the rigatoni pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat. Add the diced onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the tomato paste and cook for 1-2 minutes.",
+    "Stir in the grated cheddar and mozzarella cheese until melted and well combined.",
+    "In a large baking dish, combine the cooked rigatoni pasta, cheese mixture, and diced onion.",
+    "Transfer the baking dish to the preheated oven and bake for 20-25 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "australian",
+    "comfort-food",
+    "cheesy",
+    "warming"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 54,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warming-cheesy-australian-rigatoni-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:07:22.532Z"
+}
