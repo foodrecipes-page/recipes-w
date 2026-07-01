@@ -1,0 +1,97 @@
+{
+  "slug": "warm-jamaican-chicken-stew",
+  "title": "Jamaican Chicken Stew",
+  "description": "A flavorful and hearty stew made with chicken, spices, and a hint of Caribbean flair. Perfect for a cold evening.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "stew tomatoes",
+      "amount": "14.5 ounces",
+      "notes": "canned"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "14 ounces"
+    },
+    {
+      "name": "warm spices",
+      "amount": "1 teaspoon",
+      "notes": "ground ginger, allspice, and thyme"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes. Remove from pot and set aside.",
+    "Add the onion and red bell pepper to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the curry powder, paprika, garlic powder, salt, and pepper to the pot and cook for 1 minute.",
+    "Add the stew tomatoes, coconut milk, and warm spices to the pot. Stir to combine.",
+    "Return the chicken to the pot and bring the stew to a simmer.",
+    "Reduce heat to low and let the stew cook, covered, for 20-25 minutes, or until the chicken is cooked through.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "chicken",
+    "stew",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-jamaican-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:19:35.160Z"
+}
