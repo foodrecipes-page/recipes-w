@@ -1,0 +1,54 @@
+{
+  "slug": "whisked-greek-feta-crumble",
+  "title": "Greek Feta Pie",
+  "description": "A delicious and savory pie filled with crumbled feta cheese, perfect as a side dish or light lunch.",
+  "cuisine": "Greek",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Feta cheese",
+      "amount": "250g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Whisked egg",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "50g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a bowl, mix together the crumbled feta cheese, whisked egg, and Greek yogurt.",
+    "Pour the mixture into a pie dish and bake for 20-25 minutes, or until the filling is set.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "feta",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 12,
+    "carbs": 8,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whisked-greek-feta-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T05:56:55.909Z"
+}
