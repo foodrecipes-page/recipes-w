@@ -1,0 +1,97 @@
+{
+  "slug": "wholesome-one-pot-egyptian-lamb-tagine",
+  "title": "Egyptian Lamb Tagine",
+  "description": "A hearty and flavorful North African stew made with lamb, spices, and dried fruits.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Whole cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "Ground if not available"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Prunes",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the one-pot over medium heat.",
+    "Add cumin seeds and cook until fragrant.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Add onion and garlic and cook until softened.",
+    "Add turmeric, coriander, cayenne pepper (if using), salt, and black pepper. Stir well.",
+    "Add dried apricots and prunes. Stir well.",
+    "Add 2 cups of water. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 hour.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-one-pot-egyptian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:28:39.384Z"
+}
