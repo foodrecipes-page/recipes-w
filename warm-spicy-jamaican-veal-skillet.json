@@ -1,0 +1,99 @@
+{
+  "slug": "warm-spicy-jamaican-veal-skillet",
+  "title": "Jamaican Skillet Veal",
+  "description": "A spicy and savory Jamaican-inspired veal dish cooked in a skillet. This recipe is perfect for a flavorful dinner.",
+  "cuisine": "jamaican",
+  "diet": [
+    "pork-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal cutlets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced onion and sauté for 3-4 minutes until softened.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the diced bell pepper and sauté for 3-4 minutes until tender.",
+    "Add the diced tomato and sauté for 2-3 minutes.",
+    "Add the veal cutlets and season with Jamaican jerk seasoning, allspice, thyme, salt, and pepper.",
+    "Cook for 3-4 minutes on each side, until the veal is cooked through.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "skillet",
+    "veal",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-jamaican-veal-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T07:02:08.512Z"
+}
