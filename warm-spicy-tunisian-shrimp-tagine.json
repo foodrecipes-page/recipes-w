@@ -1,0 +1,96 @@
+{
+  "slug": "warm-spicy-tunisian-shrimp-tagine",
+  "title": "Tunisian Shrimp Tagine",
+  "description": "A flavorful and spicy North African-inspired dish made with succulent shrimp, dried fruits, and aromatic spices. Serve over couscous or rice for a satisfying meal.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dried prunes",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Tunisian harissa",
+      "amount": "2 tablespoons",
+      "notes": "spicy chili paste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay tagine or Dutch oven over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add garlic and ginger and cook for 1 minute.",
+    "Add shrimp and cook until pink, about 2-3 minutes per side.",
+    "Add cumin, cinnamon, harissa, apricots, and prunes.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 10-15 minutes or until the flavors have melded together and the shrimp are cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve over couscous or rice, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shrimp",
+    "tagine",
+    "tunisian",
+    "spicy",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-tunisian-shrimp-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:02:23.154Z"
+}
