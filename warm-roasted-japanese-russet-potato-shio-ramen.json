@@ -1,0 +1,76 @@
+{
+  "slug": "warm-roasted-japanese-russet-potato-shio-ramen",
+  "title": "Shio Ramen with Crispy Potato Tempura",
+  "description": "A fusion dish combining the flavors of Japanese shio ramen with crispy potato tempura. Perfect for a cold night.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ramen noodles",
+      "amount": "200g",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Russet potatoes",
+      "amount": "2-3",
+      "notes": "preferably high-starch variety"
+    },
+    {
+      "name": "Shio ramen seasoning",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1L",
+      "notes": "at least 2L for deep-frying"
+    },
+    {
+      "name": "Warm water",
+      "amount": "4 cups",
+      "notes": "for cooking ramen noodles"
+    },
+    {
+      "name": "Optional: green onions, sesame seeds",
+      "amount": "to taste",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the ramen noodles according to the package instructions in warm water.",
+    "Heat vegetable oil in a deep frying pan to 180°C (350°F) for frying potato tempura.",
+    "Peel the russet potatoes and cut them into thin slices.",
+    "Dredge the potato slices in a mixture of flour, cornstarch, and a pinch of salt.",
+    "Deep-fry the potato slices in batches until crispy and golden brown.",
+    "Drain excess oil on paper towels.",
+    "Prepare the shio ramen seasoning by mixing the store-bought or homemade seasoning with 4 cups of water.",
+    "Combine the cooked ramen noodles with the shio ramen seasoning and mix well.",
+    "Serve the shio ramen hot, topped with crispy potato tempura and garnished with green onions and sesame seeds.",
+    "Optional: add additional toppings such as boiled eggs, pickled ginger, or spicy miso paste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "ramen",
+    "tempura",
+    "potato",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-roasted-japanese-russet-potato-shio-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T01:36:33.630Z"
+}
