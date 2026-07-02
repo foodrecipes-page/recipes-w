@@ -1,0 +1,81 @@
+{
+  "slug": "warm-dutch-apple-fritters",
+  "title": "Warm Dutch Apple Fritters",
+  "description": "Delicious crispy fritters filled with sweet apples, topped with a warm cinnamon sugar mixture. Perfect as a dessert or snack.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "diced apple",
+      "amount": "1 large"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F (190°C).",
+    "In a large bowl, whisk together flour, sugar, baking powder, and cinnamon.",
+    "In a separate bowl, whisk together warm water, eggs, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until a smooth batter forms.",
+    "Fold in diced apple.",
+    "Using a spoon, drop small balls of the batter into the hot oil.",
+    "Fry for 2-3 minutes on each side, or until golden brown.",
+    "Drain on paper towels and dust with powdered sugar.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "apple",
+    "fritters",
+    "dutch",
+    "warm",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-dutch-apple-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:27:30.564Z"
+}
