@@ -1,0 +1,73 @@
+{
+  "slug": "winey-creamy-peruvian-palm-sugar-nam-tan-pip-alao-brasil-form",
+  "title": "Creamy Palm Panna Cotta with Peruvian Wine Sauce",
+  "description": "A creamy dessert with a Peruvian twist, featuring a wine-infused sauce.",
+  "cuisine": null,
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Palm cream",
+      "amount": "250 ml",
+      "notes": "Heavy cream can be used as a substitute"
+    },
+    {
+      "name": "Sugar",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Brasil form",
+      "amount": "2 sheets",
+      "notes": "Unflavored gelatin"
+    },
+    {
+      "name": "Peruvian wine",
+      "amount": "120 ml",
+      "notes": "Red or white wine can be used"
+    },
+    {
+      "name": "Nam",
+      "amount": "1 tsp",
+      "notes": "Vanilla extract"
+    },
+    {
+      "name": "Tan pip",
+      "amount": "1/4 tsp",
+      "notes": "Salt"
+    }
+  ],
+  "instructions": [
+    "Combine palm cream, sugar, and Brasil form in a saucepan. Heat over low heat, stirring occasionally.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Remove from heat and let cool slightly.",
+    "Strain the mixture into individual serving cups.",
+    "Refrigerate for at least 4 hours or overnight.",
+    "Just before serving, drizzle with Peruvian wine sauce (see below).",
+    "Peruvian wine sauce: Combine Peruvian wine, Nam, and Tan pip in a saucepan. Bring to a simmer and cook until reduced by half.",
+    "Serve chilled, garnished with fresh fruit or nuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "pastry",
+    "cream",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-creamy-peruvian-palm-sugar-nam-tan-pip-alao-brasil-form",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T07:35:30.058Z"
+}
