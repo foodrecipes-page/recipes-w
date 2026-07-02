@@ -1,0 +1,88 @@
+{
+  "slug": "warm-smoky-malaysian-chicken-curry",
+  "title": "Malaysian Smoked Chicken Curry",
+  "description": "A warm and aromatic curry dish made with smoked chicken and a blend of Malaysian spices.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "smoked for at least 30 minutes"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a pan over medium heat.",
+    "Add diced onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add smoked chicken and cook until browned on all sides.",
+    "Add curry powder, coriander, and cumin, and cook for 1-2 minutes, until fragrant.",
+    "Pour in coconut milk and bring to a simmer.",
+    "Reduce heat to low and let cook for 10-15 minutes, or until chicken is cooked through.",
+    "Season with fish sauce and salt to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "curry",
+    "smoked-chicken"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-malaysian-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T09:54:45.147Z"
+}
