@@ -1,0 +1,85 @@
+{
+  "slug": "warm-crispy-filipino-peppers-kare-kare",
+  "title": "Crispy Kare Kare with Fried Eggplant",
+  "description": "A Filipino-inspired dish made with tender eggplant, crispy peanuts, and a rich peanut sauce.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 large",
+      "notes": "preferably purple or Japanese"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tablespoons",
+      "notes": "creamy"
+    },
+    {
+      "name": "kare kare",
+      "amount": "2 tablespoons",
+      "notes": "Filipino peanut sauce"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "peanut oil",
+      "amount": "for frying",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the eggplant into 1-inch cubes and set aside.",
+    "Heat 2 tablespoons of peanut oil in a pan over medium heat.",
+    "Add the minced garlic and grated ginger and sauté until fragrant.",
+    "Add the cubed eggplant and cook until tender, about 10 minutes.",
+    "In a separate pan, heat 1 tablespoon of peanut oil over medium heat.",
+    "Add the chopped peanuts and cook until crispy, about 3-4 minutes.",
+    "Add the peanut butter, kare kare, salt, and stir until combined.",
+    "Add the cooked eggplant to the sauce and stir until coated.",
+    "Serve the eggplant with crispy peanuts and a fried eggplant slice on top.",
+    "Optional: garnish with chopped green onions or toasted peanuts."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "peanut-sauce",
+    "eggplant",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-filipino-peppers-kare-kare",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T01:34:33.372Z"
+}
