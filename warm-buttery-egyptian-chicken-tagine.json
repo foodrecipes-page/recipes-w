@@ -1,0 +1,95 @@
+{
+  "slug": "warm-buttery-egyptian-chicken-tagine",
+  "title": "Chicken Tagine",
+  "description": "Traditional Egyptian dish made with chicken, warm spices, and a rich sauce. This recipe is perfect for a cold evening.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting chicken"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 1/2 teaspoons",
+      "notes": "warm spice"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": "warm spice"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "warm spice"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/4 teaspoon",
+      "notes": "warm spice"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Dust the chicken pieces with flour, shaking off excess.",
+    "Heat 1 tablespoon of oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the remaining 1 tablespoon of oil to the pot and reduce heat to medium.",
+    "Add the butter and let it melt.",
+    "Add the cumin, coriander, cinnamon, and ginger to the pot and cook for 1-2 minutes, until fragrant.",
+    "Add the chicken back to the pot and pour in enough water to cover the bottom of the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve the chicken hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "chicken",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-buttery-egyptian-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:28:32.492Z"
+}
