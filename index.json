@@ -5570,16 +5570,15 @@
   },
   {
     "slug": "warm-nutty-mediterranean-tripe-stew",
-    "title": "Warm Nutty Mediterranean Tripe Stew",
+    "title": "Tripe Stew with Mediterranean Twist",
     "tags": [
-      "comfort-food",
-      "hangover-cure",
-      "hearty-stew",
-      "mediterranean-cuisine",
-      "one-pot-meal"
+      "mediterranean",
+      "beef",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 110,
+    "totalTimeMin": 140,
     "shard": "w"
   },
   {
@@ -6900,17 +6899,15 @@
   },
   {
     "slug": "warm-smoked-slovakian-pork-tagine",
-    "title": "Warm Smoked Slovakian Pork Tagine",
+    "title": "Smoked Pork Tagine",
     "tags": [
-      "gluten-free",
-      "one-pot",
-      "pork-recipe",
-      "slovakian-cuisine",
-      "smoked-paprika",
-      "winter-meal"
+      "pork",
+      "tagine",
+      "slovakian",
+      "slow-cooked"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 80,
+    "cuisine": "slovakian",
+    "totalTimeMin": 140,
     "shard": "w"
   },
   {
@@ -15665,17 +15662,16 @@
   },
   {
     "slug": "wholesome-venezuelan-walnuts-gratin",
-    "title": "Wholesome Venezuelan Walnuts Gratin",
+    "title": "Gratin Dauphinois with Walnuts and Wholesome Twist",
     "tags": [
-      "cheese-pull",
-      "gratin",
-      "pescatarian-friendly",
-      "simple",
-      "vegetarian",
-      "walnut"
+      "sweet-potatoes",
+      "cheesy-gratin",
+      "walnuts",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "cuisine": "French",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
