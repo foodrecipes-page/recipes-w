@@ -1,0 +1,78 @@
+{
+  "slug": "warmly-charred-japanese-cauliflower-miso-ramen",
+  "title": "Charred Cauliflower Ramen",
+  "description": "A Japanese-inspired twist on traditional ramen, featuring charred cauliflower and a savory miso broth.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "amount": "1 head"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ramen noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Charred sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut cauliflower into florets and toss with vegetable oil, salt, and pepper. Roast for 20-25 minutes, or until charred.",
+    "In a large pot, combine miso paste, soy sauce, and water. Whisk until smooth.",
+    "Bring the miso mixture to a boil, then reduce heat and simmer for 5 minutes.",
+    "Cook ramen noodles according to package instructions. Drain and set aside.",
+    "To assemble the dish, place cooked noodles in a bowl. Add roasted cauliflower, sliced green onions, and grated ginger.",
+    "Drizzle the miso broth over the top and sprinkle with charred sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ramen",
+    "japanese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-charred-japanese-cauliflower-miso-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T12:44:28.207Z"
+}
