@@ -1,0 +1,77 @@
+{
+  "slug": "wholesome-canadian-rhubarb-bowl",
+  "title": "Canadian Rhubarb Crisp",
+  "description": "A classic Canadian dessert featuring tart rhubarb, topped with a crunchy wholesome oat topping. Serve warm with a scoop of vanilla ice cream.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "2 cups, cut into 1-inch pieces"
+    },
+    {
+      "name": "wholesome rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup, cut into small pieces"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together the rhubarb, maple syrup, flour, and vanilla extract. Transfer the mixture to a 9x9-inch baking dish.",
+    "In another bowl, mix together the rolled oats, cold butter, and brown sugar until crumbly.",
+    "Spread the oat mixture evenly over the top of the rhubarb mixture.",
+    "Bake for 40-45 minutes, or until the topping is golden brown and the rhubarb is tender.",
+    "Remove from oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "rhubarb",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-canadian-rhubarb-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T09:32:15.583Z"
+}
