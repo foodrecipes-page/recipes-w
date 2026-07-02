@@ -2602,15 +2602,14 @@
   },
   {
     "slug": "warm-dense-indian-chicken-curry",
-    "title": "Warm Dense Indian Chicken Curry",
+    "title": "Chicken Curry",
     "tags": [
-      "chicken-recipes",
-      "comfort-food",
-      "indian-cuisine",
-      "one-pot-meals",
-      "spicy-dishes"
+      "chicken",
+      "curry",
+      "indian",
+      "dinner"
     ],
-    "cuisine": "Indian",
+    "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "w"
   },
@@ -8707,15 +8706,15 @@
   },
   {
     "slug": "warm-spicy-tunisian-shrimp-tagine",
-    "title": "Warm Spicy Tunisian Shrimp Tagine",
+    "title": "Tunisian Shrimp Tagine",
     "tags": [
-      "north-african",
-      "one-pot",
-      "pescatarian",
-      "seafood",
-      "spicy"
+      "shrimp",
+      "tagine",
+      "tunisian",
+      "spicy",
+      "seafood"
     ],
-    "cuisine": "Tunisian",
+    "cuisine": "North African",
     "totalTimeMin": 35,
     "shard": "w"
   },
@@ -9635,17 +9634,15 @@
   },
   {
     "slug": "warm-velvety-portuguese-chicken-bake",
-    "title": "Warm Velvety Portuguese Chicken Bake",
+    "title": "Portuguese Chicken Bake",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan-meal",
-      "paleo-friendly",
-      "portuguese-cuisine",
-      "weeknight-dinner"
+      "chicken",
+      "portuguese",
+      "bake",
+      "main-course"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 65,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
