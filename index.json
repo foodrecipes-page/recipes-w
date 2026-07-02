@@ -473,18 +473,14 @@
   },
   {
     "slug": "warm-buttery-egyptian-chicken-tagine",
-    "title": "Warm Buttery Egyptian Chicken Tagine",
+    "title": "Chicken Tagine",
     "tags": [
-      "arabic-inspired",
-      "buttery",
-      "comfort-food",
-      "halal-friendly",
-      "molten",
-      "one-pot",
-      "romantic-dinner"
+      "egyptian",
+      "chicken",
+      "slow-cooker"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -7439,17 +7435,15 @@
   },
   {
     "slug": "warm-smoky-russian-cauliflower-pilaf",
-    "title": "Warm Smoky Russian Cauliflower Pilaf",
+    "title": "Smoky Russian Cauliflower Pilaf",
     "tags": [
-      "cauliflower-recipes",
+      "russian",
+      "vegetarian",
       "gluten-free",
-      "low-glycemic",
-      "one-pot",
-      "russian-cuisine",
-      "smoky-flavors"
+      "comfort-food"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 45,
+    "cuisine": "russian",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -11363,15 +11357,16 @@
   },
   {
     "slug": "warmly-roasted-mediterranean-brussels-sprouts-skewers",
-    "title": "Warmly Roasted Mediterranean Brussels Sprouts Skewers",
+    "title": "Mediterranean Brussels Sprouts Skewers",
     "tags": [
-      "healthy-eating",
-      "low-calorie",
       "mediterranean",
-      "quick-snack",
-      "roasted-vegetables"
+      "brussels-sprouts",
+      "skewers",
+      "side-dish",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Mediterranean",
+    "cuisine": "mediterranean",
     "totalTimeMin": 40,
     "shard": "w"
   },
