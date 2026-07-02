@@ -1,0 +1,91 @@
+{
+  "slug": "warmly-roasted-mediterranean-brussels-sprouts-skewers",
+  "title": "Mediterranean Brussels Sprouts Skewers",
+  "description": "A delicious and easy-to-make side dish featuring marinated Brussels sprouts, roasted to perfection on skewers.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch\" | \"dinner\" | \"side dish",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": " trimmed and halved"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Mediterranean seasoning blend",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together olive oil, lemon juice, salt, black pepper, garlic powder, and Mediterranean seasoning blend.",
+    "Add the halved Brussels sprouts to the bowl and toss to coat with the marinade.",
+    "Thread the marinated Brussels sprouts onto the wooden skewers, leaving a small space between each sprout.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Brush the tops of the Brussels sprouts with additional olive oil and roast in the preheated oven for 20-25 minutes, or until tender and caramelized.",
+    "Remove the skewers from the oven and garnish with chopped fresh parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "brussels-sprouts",
+    "skewers",
+    "side-dish",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-roasted-mediterranean-brussels-sprouts-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:29:01.776Z"
+}
