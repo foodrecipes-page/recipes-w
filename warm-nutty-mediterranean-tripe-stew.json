@@ -1,0 +1,93 @@
+{
+  "slug": "warm-nutty-mediterranean-tripe-stew",
+  "title": "Tripe Stew with Mediterranean Twist",
+  "description": "A hearty and flavorful stew made with tripe, inspired by the Mediterranean diet. This recipe is perfect for a chilly evening.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "1 pound",
+      "notes": "Cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Canned tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Mediterranean oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the tripe and cook until browned on all sides, about 5 minutes.",
+    "Add the canned tomatoes, chicken broth, red wine (if using), Mediterranean oregano, salt, and black pepper.",
+    "Bring the stew to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 hours, or until the tripe is tender.",
+    "Serve hot, garnished with chopped fresh parsley (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "beef",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-nutty-mediterranean-tripe-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:13:28.998Z"
+}
