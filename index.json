@@ -1657,17 +1657,15 @@
   },
   {
     "slug": "warm-crispy-filipino-peppers-kare-kare",
-    "title": "Warm Crispy Filipino Peppers Kare Kare",
+    "title": "Crispy Kare Kare with Fried Eggplant",
     "tags": [
-      "crispy-peppers",
-      "filipino-food",
-      "halal-friendly",
-      "lazy-sunday",
-      "nuka-pickle",
-      "peanut-sauce"
+      "filipino",
+      "peanut-sauce",
+      "eggplant",
+      "vegetarian"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -7223,18 +7221,16 @@
   },
   {
     "slug": "warm-smoky-kenyan-corn-skewers",
-    "title": "Warm Smoky Kenyan Corn Skewers",
+    "title": "Kenyan Corn on the Cob Skewers",
     "tags": [
-      "easy-to-make",
       "grilled",
       "kenyan",
-      "low-calorie",
-      "smoky",
-      "snappy",
+      "corn",
+      "skewers",
       "vegetarian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 32,
+    "cuisine": "kenyan",
+    "totalTimeMin": 22,
     "shard": "w"
   },
   {
@@ -13451,16 +13447,15 @@
   },
   {
     "slug": "wholesome-citrusy-slovakian-genmaicha-porridge",
-    "title": "wholesome citrusy slovakian genmaicha porridge",
+    "title": "Slovakian Porridge with Wholesome Genmaicha Crunch",
     "tags": [
       "breakfast",
-      "comforting",
-      "lazy",
-      "slovakian",
-      "sunday"
+      "porridge",
+      "genmaicha",
+      "slovakian"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 22,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
