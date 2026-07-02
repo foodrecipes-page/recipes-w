@@ -1730,17 +1730,14 @@
   },
   {
     "slug": "warm-crispy-indian-eggplant-baingan-bharta",
-    "title": "Warm Crispy Indian Eggplant Baingan Bharta",
+    "title": "Bharatan Baingan Bharta",
     "tags": [
-      "crispy-eggplant",
-      "gluten-free",
-      "indian-food",
-      "one-pot",
-      "vegetarian",
-      "weeknight-dinner"
+      "indian",
+      "eggplant",
+      "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -4370,13 +4367,12 @@
   },
   {
     "slug": "warm-indian-paneer-palak-paneer",
-    "title": "Warm Indian Paneer Palak",
+    "title": "Palak Paneer",
     "tags": [
-      "cheese-lovers",
-      "indian-cuisine",
-      "midnight-cravings",
-      "spinach-dishes",
-      "vegetarian-options"
+      "indian",
+      "paneer",
+      "palak",
+      "vegetarian"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 35,
@@ -8066,15 +8062,13 @@
   },
   {
     "slug": "warm-spicy-ethiopian-lentil-stew",
-    "title": "Warm Spicy Ethiopian Lentil Stew",
+    "title": "Spicy Ethiopian Lentil Stew",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pot",
+      "lentil",
+      "ethiopian",
+      "stew",
       "spicy",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "warming"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 60,
@@ -8271,17 +8265,15 @@
   },
   {
     "slug": "warm-spicy-jamaican-veal-skillet",
-    "title": "Warm Spicy Jamaican Veal Skillet",
+    "title": "Jamaican Skillet Veal",
     "tags": [
-      "flexitarian",
-      "high-protein",
-      "jamaican-inspired",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "jamaican",
+      "skillet",
+      "veal",
+      "spicy"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "jamaican",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -16750,18 +16742,15 @@
   },
   {
     "slug": "wilted-pillowy-mediterranean-brown-rice-noodle-bowl",
-    "title": "Wilted Pillowy Mediterranean Brown Rice Noodle Bowl",
+    "title": "Mediterranean Bowl",
     "tags": [
-      "lunch",
       "mediterranean",
-      "one-pan",
-      "raw-friendly",
-      "snack",
-      "vegan",
-      "weeknight"
+      "healthy",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 18,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -17050,18 +17039,15 @@
   },
   {
     "slug": "winey-creamy-peruvian-palm-sugar-nam-tan-pip-alao-brasil-form",
-    "title": "Winey Creamy Peruvian Palm Sugar Nam Tan Pip Alao Brasil Form (Pollo a la Brasa)",
+    "title": "Creamy Palm Panna Cotta with Peruvian Wine Sauce",
     "tags": [
-      "dinner",
-      "easy-to-make",
-      "latin-american",
-      "lunch",
-      "one-pan",
-      "peruvian",
-      "whole30"
+      "dessert",
+      "pastry",
+      "cream",
+      "sauce"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 60,
+    "cuisine": null,
+    "totalTimeMin": 20,
     "shard": "w"
   },
   {
