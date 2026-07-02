@@ -1,0 +1,87 @@
+{
+  "slug": "wholesome-smoky-yucatecan-fish-enchiladas",
+  "title": "Smoky Yucatecan Fish Enchiladas",
+  "description": "A twist on traditional enchiladas, this recipe combines the flavors of Yucatecan cuisine with the richness of smoky fish. Perfect for a weeknight dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 Corn Tortillas",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "1 lb Smoked Fish (such as tilapia or mahi-mahi)",
+      "amount": "1 fillet",
+      "notes": null
+    },
+    {
+      "name": "1/2 cup Yucatecan Red Sauce (made with chipotle peppers and tomato sauce)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "1/2 cup crumbled queso fresco",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "1 lime",
+      "amount": "1 lime",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large skillet, heat the olive oil over medium heat. Add the chipotle peppers and cook for 1-2 minutes, until fragrant.",
+    "Add the Yucatecan Red Sauce to the skillet and stir to combine. Bring the sauce to a simmer and cook for 2-3 minutes, until heated through.",
+    "In a separate pan, warm the tortillas over medium heat for 30 seconds on each side. This will make them more pliable and easier to roll.",
+    "To assemble the enchiladas, lay a tortilla flat and spoon some of the Yucatecan Red Sauce down the center of the tortilla.",
+    "Add a piece of smoked fish on top of the sauce, followed by a sprinkle of cilantro and queso fresco. Roll the tortilla up and place it seam-side down in a baking dish.",
+    "Repeat with the remaining tortillas and filling ingredients.",
+    "Pour the remaining Yucatecan Red Sauce over the top of the enchiladas and sprinkle with additional queso fresco and cilantro.",
+    "Bake the enchiladas in the preheated oven for 15-20 minutes, until the cheese is melted and bubbly.",
+    "Remove the enchiladas from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "seafood",
+    "fish",
+    "enchiladas",
+    "yucatecan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-smoky-yucatecan-fish-enchiladas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:12:22.618Z"
+}
