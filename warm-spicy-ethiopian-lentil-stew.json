@@ -1,0 +1,82 @@
+{
+  "slug": "warm-spicy-ethiopian-lentil-stew",
+  "title": "Spicy Ethiopian Lentil Stew",
+  "description": "A hearty, flavorful stew originating from Ethiopia, made with red lentils, onions, garlic, ginger, and spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "warm beer (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat. Add the onion, garlic, and ginger, and cook, stirring occasionally, until the onion is translucent.",
+    "Add the curry powder, cumin, and salt, and cook for 1 minute.",
+    "Add the lentils, tomato paste, and water. Bring to a boil, then reduce the heat to low and simmer, covered, until the lentils are tender.",
+    "Stir in the warm beer (if using). Serve hot, garnished with fresh cilantro (if desired).",
+    "Adjust seasoning as needed.",
+    "Serve with injera or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "ethiopian",
+    "stew",
+    "spicy",
+    "warming"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-ethiopian-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:06:15.034Z"
+}
