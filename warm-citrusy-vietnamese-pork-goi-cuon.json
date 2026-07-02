@@ -1,0 +1,83 @@
+{
+  "slug": "warm-citrusy-vietnamese-pork-goi-cuon",
+  "title": "Vietnamese Pork Goi Cuon",
+  "description": "A refreshing and easy-to-make Vietnamese pork salad roll. This dish is perfect for a light lunch or dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork loin",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Vietnamese herbs (such as mint, basil, cilantro)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Goi wraps (rice paper)",
+      "amount": "8-10"
+    }
+  ],
+  "instructions": [
+    "Prepare the pork by slicing it into thin strips and marinating it in a mixture of hoisin sauce, soy sauce, and rice vinegar for at least 30 minutes.",
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "Prepare the vegetables by slicing the cucumber and carrots into thin strips.",
+    "Assemble the goi cuon by placing a few slices of the marinated pork, some cooked noodles, and a variety of vegetables onto a rice paper wrap.",
+    "Add a few sprigs of Vietnamese herbs on top of the filling.",
+    "Roll the wrap tightly and serve with the warm water mixture for dipping.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "pork",
+    "salad",
+    "rolls",
+    "asian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-citrusy-vietnamese-pork-goi-cuon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:45:18.162Z"
+}
