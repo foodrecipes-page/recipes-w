@@ -1,0 +1,84 @@
+{
+  "slug": "warm-japanese-pork-noodles",
+  "title": "Spicy Pork Ramen",
+  "description": "A Japanese-inspired ramen made with a spicy broth and topped with a sweet and savory pork.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Tonkotsu Ramen noodles",
+      "amount": "1 package",
+      "notes": "Look for fresh or dried"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use a good quality, low-sodium soy"
+    },
+    {
+      "name": "Sambal oelek",
+      "amount": "2 teaspoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grate or slice"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "Chop for garnish"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "Optional garnish"
+    },
+    {
+      "name": "Pork fat",
+      "amount": "2 tablespoons",
+      "notes": "Or vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Cook pork in a pot over medium-high heat, browning on all sides.",
+    "Remove pork, set aside. Add ginger and cook until fragrant.",
+    "Add soy sauce, sambal oelek, and pork fat. Stir to combine.",
+    "Add noodles to the pot and cook according to package instructions.",
+    "Return pork to the pot and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Divide noodles among bowls and top with pork, green onions, and sesame seeds.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ramen",
+    "pork",
+    "noodles",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-japanese-pork-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:32:29.974Z"
+}
