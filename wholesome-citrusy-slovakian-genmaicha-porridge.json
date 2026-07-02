@@ -1,0 +1,74 @@
+{
+  "slug": "wholesome-citrusy-slovakian-genmaicha-porridge",
+  "title": "Slovakian Porridge with Wholesome Genmaicha Crunch",
+  "description": "A hearty breakfast dish that combines the traditional Slovakian porridge with the nutty flavor of genmaicha tea.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": "old-fashioned or rolled oats work best"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "genmaicha tea",
+      "amount": "1 teaspoon",
+      "notes": "loose-leaf or tea bags work fine"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "sliced or juiced, your preference"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped or sliced, adds nice crunch"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring the water to a boil.",
+    "Add the rolled oats and reduce the heat to low.",
+    "Simmer for 5-7 minutes, stirring occasionally.",
+    "Add the genmaicha tea to the oats and stir well.",
+    "Cook for an additional 2-3 minutes.",
+    "Stir in the honey until dissolved.",
+    "Serve the porridge hot, topped with sliced lemon and chopped walnuts.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "porridge",
+    "genmaicha",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-citrusy-slovakian-genmaicha-porridge",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:53:55.554Z"
+}
