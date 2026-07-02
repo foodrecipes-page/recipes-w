@@ -6171,17 +6171,16 @@
   },
   {
     "slug": "warm-roasted-japanese-russet-potato-shio-ramen",
-    "title": "Warm Roasted Japanese Russet Potato Shio Ramen",
+    "title": "Shio Ramen with Crispy Potato Tempura",
     "tags": [
-      "comfort-food",
-      "japanese-inspired",
-      "low-carb",
-      "one-pot",
-      "roasted-vegetables",
-      "weeknight"
+      "japanese",
+      "ramen",
+      "tempura",
+      "potato",
+      "fusion"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -15196,16 +15195,16 @@
   },
   {
     "slug": "wholesome-smoky-yucatecan-fish-enchiladas",
-    "title": "Wholesome Smoky Yucatecan Fish Enchiladas",
+    "title": "Smoky Yucatecan Fish Enchiladas",
     "tags": [
-      "clay-pot",
-      "diabetic-friendly",
+      "mexican",
+      "seafood",
+      "fish",
       "enchiladas",
-      "smoky",
       "yucatecan"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
