@@ -1,0 +1,81 @@
+{
+  "slug": "warm-crispy-indian-eggplant-baingan-bharta",
+  "title": "Bharatan Baingan Bharta",
+  "description": "A delicious and flavorful Indian eggplant dish made with roasted eggplant and spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Green chili",
+      "amount": "1-2"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Amchur powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Roast the eggplant over an open flame or in the oven until the skin is charred and the flesh is soft.",
+    "2. Let the eggplant cool, then peel off the skin and chop it into small pieces.",
+    "3. Heat oil in a pan over medium heat and sauté the onion, ginger, and garlic until the onion is translucent.",
+    "4. Add the green chili and sauté for another minute.",
+    "5. Add the chopped eggplant, tomato, salt, and amchur powder to the pan and mix well.",
+    "6. Cook for 10-15 minutes, stirring occasionally, until the mixture is thick and the flavors have melded together.",
+    "7. Garnish with cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "eggplant",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-indian-eggplant-baingan-bharta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T07:35:17.012Z"
+}
