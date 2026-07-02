@@ -1,0 +1,83 @@
+{
+  "slug": "warm-indian-paneer-palak-paneer",
+  "title": "Palak Paneer",
+  "description": "A popular North Indian dish made with spinach puree and paneer cheese. Palak paneer is a flavorful and creamy curry that's perfect for a special occasion or a weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g"
+    },
+    {
+      "name": "palak",
+      "amount": "500g"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a pan over medium heat.",
+    "Add onion, garlic, and ginger. Sauté until onion is translucent.",
+    "Add garam masala and sauté for 1 minute.",
+    "Add palak and cook until it's soft and mushy.",
+    "Blend the mixture into a smooth paste.",
+    "Add paneer and mix well.",
+    "Season with salt and black pepper.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "paneer",
+    "palak",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-indian-paneer-palak-paneer",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:13:51.499Z"
+}
