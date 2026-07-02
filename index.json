@@ -2796,14 +2796,13 @@
     "title": "Warm Dutch Apple Fritters",
     "tags": [
       "apple",
-      "caramel",
+      "fritters",
       "dutch",
-      "fritter",
-      "satvik",
-      "vegetarian"
+      "warm",
+      "dessert"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "w"
   },
   {
@@ -7237,18 +7236,14 @@
   },
   {
     "slug": "warm-smoky-malaysian-chicken-curry",
-    "title": "Warm Smoky Malaysian Chicken Curry",
+    "title": "Malaysian Smoked Chicken Curry",
     "tags": [
-      "dairy-free",
-      "date-night",
-      "gluten-free",
-      "malaysian-cuisine",
-      "one-pan",
-      "smoky",
-      "spicy"
+      "malaysian",
+      "curry",
+      "smoked-chicken"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "cuisine": "malaysian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -10352,16 +10347,16 @@
   },
   {
     "slug": "warm-wilted-greek-cabbage-moussaka",
-    "title": "Warm Wilted Greek Cabbage Moussaka",
+    "title": "Greek Moussaka Casserole",
     "tags": [
-      "high-fiber",
-      "one-pan",
-      "solo-dinner",
-      "vegetarian",
-      "weeknight"
+      "greek",
+      "casserole",
+      "eggplant",
+      "bechamel",
+      "kefalograviera"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "totalTimeMin": 70,
     "shard": "w"
   },
   {
@@ -13285,17 +13280,14 @@
   },
   {
     "slug": "wholesome-canadian-rhubarb-bowl",
-    "title": "wholesome canadian rhubarb bowl",
+    "title": "Canadian Rhubarb Crisp",
     "tags": [
-      "breakfast",
-      "canadian",
-      "gluten-free",
-      "high-fiber",
-      "spring",
-      "vegan"
+      "dessert",
+      "rhubarb",
+      "canadian"
     ],
-    "cuisine": "canadian",
-    "totalTimeMin": 14,
+    "cuisine": "Canadian",
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {
@@ -14715,19 +14707,15 @@
   },
   {
     "slug": "wholesome-one-pot-egyptian-lamb-tagine",
-    "title": "Wholesome One-Pot Egyptian Lamb Tagine",
+    "title": "Egyptian Lamb Tagine",
     "tags": [
-      "diabetic-friendly",
-      "easy-dinner",
-      "egyptian",
-      "gluten-free",
       "lamb",
-      "low-carb",
-      "one-pot",
-      "weeknight"
+      "tagine",
+      "north-african",
+      "stew"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 240,
+    "cuisine": "North African",
+    "totalTimeMin": 80,
     "shard": "w"
   },
   {
