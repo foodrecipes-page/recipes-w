@@ -1,0 +1,82 @@
+{
+  "slug": "warm-buttery-peruvian-shrimp-chupe-de-camarones",
+  "title": "Camarones al Ajillo",
+  "description": "A classic Peruvian dish of garlic shrimp, typically served with rice and vegetables. This recipe is a simplified version, focusing on the seafood.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "4 cloves",
+      "notes": "about 2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "peruvian aji amarillo pepper sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium-high heat.",
+    "Add garlic and sauté for 1-2 minutes, until fragrant.",
+    "Add shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Transfer shrimp to a plate and cover with foil to keep warm.",
+    "Reduce heat to medium and add parsley to the skillet, stirring to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve shrimp with parsley sauce and lemon wedges, if desired.",
+    "If using aji amarillo pepper sauce, stir into parsley sauce and serve over shrimp."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "camarones",
+    "shrimp",
+    "peruvian",
+    "garlic",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 26,
+    "carbs": 4,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-buttery-peruvian-shrimp-chupe-de-camarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:04:26.464Z"
+}
