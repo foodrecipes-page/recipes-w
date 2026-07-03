@@ -82,18 +82,15 @@
   },
   {
     "slug": "warm-aerated-resinous-french-chinese-cabbage-alsatian-galette",
-    "title": "Warm Aerated Resinous French Chinese Cabbage Alsatian Galette",
+    "title": "Alsation Cabbage Galette",
     "tags": [
-      "alaskan-inspired",
-      "comfort-food",
-      "low-fat",
-      "one-pan",
-      "veggie-forward",
-      "warm-weather",
-      "weeknight"
+      "cabbage",
+      "galette",
+      "german",
+      "vegetarian"
     ],
-    "cuisine": "French, Chinese",
-    "totalTimeMin": 70,
+    "cuisine": "german",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -6262,16 +6259,14 @@
   },
   {
     "slug": "warm-roasted-uruguayan-bean-stew",
-    "title": "Warm Roasted Uruguayan Bean Stew",
+    "title": "Warm Uruguayan Bean Stew",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "uruguayan-cuisine",
-      "weeknight"
+      "stew",
+      "bean",
+      "uruguayan"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 70,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -16554,14 +16549,15 @@
   },
   {
     "slug": "wilted-dutch-callaloo-braised",
-    "title": "Wilted Dutch Callaloo Braised",
+    "title": "Braised Callaloo with Wilted Dutch Greens",
     "tags": [
-      "high-protein",
-      "sugar-free",
-      "weeknight"
+      "jamaican",
+      "vegetarian",
+      "side dish",
+      "greens"
     ],
-    "cuisine": "dutch",
-    "totalTimeMin": 65,
+    "cuisine": "jamaican",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
