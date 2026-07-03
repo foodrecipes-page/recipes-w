@@ -656,17 +656,15 @@
   },
   {
     "slug": "warm-canadian-corn-casserole",
-    "title": "Warm Canadian Corn Casserole",
+    "title": "Canadian Corn Casserole",
     "tags": [
       "canadian",
+      "corn",
       "casserole",
-      "comfort-food",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "main-course"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -10601,17 +10599,16 @@
   },
   {
     "slug": "warm-yeasty-ethiopian-lentils-misir-wot",
-    "title": "Warm Yeasty Ethiopian Lentils Misir Wot",
+    "title": "Ethiopian Red Lentil Stew (Misir Wot)",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "international",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "ethiopian",
+      "lentils",
+      "stew",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -15821,17 +15818,15 @@
   },
   {
     "slug": "wicked-irish-cod-skillet",
-    "title": "Wicked Irish Cod Skillet",
+    "title": "Pan-Seared Cod with Irish Influence",
     "tags": [
-      "dairy-free",
       "irish",
-      "one-pan",
-      "quick",
       "seafood",
-      "show-off"
+      "fish",
+      "cod"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
