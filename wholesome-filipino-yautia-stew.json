@@ -1,0 +1,83 @@
+{
+  "slug": "wholesome-filipino-yautia-stew",
+  "title": "Filipino Yautia Stew",
+  "description": "A hearty and flavorful stew made with yautia, wholesome beef, and traditional filipino spices. Serve with steamed rice for a comforting meal.",
+  "cuisine": "filipino",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wholesome beef stew meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "yautia",
+      "amount": "2 large tubers",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add onion and garlic and cook until softened, about 3 minutes.",
+    "Add yautia, fish sauce, and soy sauce. Stir to combine.",
+    "Add enough water to cover the ingredients and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30 minutes or until beef is tender.",
+    "Season with black pepper and salt to taste.",
+    "Serve hot with steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "stew",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-filipino-yautia-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:46:53.104Z"
+}
