@@ -1,0 +1,79 @@
+{
+  "slug": "wicked-irish-cod-skillet",
+  "title": "Pan-Seared Cod with Irish Influence",
+  "description": "A hearty dish combining the flavors of Ireland with the freshness of cod, all in a wicked skillet.",
+  "cuisine": "Irish",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "Fresh, skin removed"
+    },
+    {
+      "name": "Irish butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "Gluten-free option available"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "-chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of Irish butter in a wicked skillet over medium-high heat.",
+    "2. Season the cod fillets with salt and black pepper.",
+    "3. Add the cod to the skillet, skin side up, and cook for 2-3 minutes.",
+    "4. Flip the cod over and cook for an additional 2-3 minutes, or until cooked through.",
+    "5. In a separate pan, melt the remaining 1 tablespoon of Irish butter over medium heat.",
+    "6. Add the minced garlic and cook for 1 minute, until fragrant.",
+    "7. Sprinkle the flour over the garlic and cook for 1 minute, stirring constantly.",
+    "8. Gradually add in 1 cup of water, whisking continuously to avoid lumps.",
+    "9. Bring the mixture to a simmer and cook for 2-3 minutes, until thickened.",
+    "10. Serve the cod with the garlic sauce spooned over the top and garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "seafood",
+    "fish",
+    "cod"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wicked-irish-cod-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:11:24.774Z"
+}
