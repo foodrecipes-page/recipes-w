@@ -1,0 +1,77 @@
+{
+  "slug": "warm-roasted-uruguayan-bean-stew",
+  "title": "Warm Uruguayan Bean Stew",
+  "description": "A hearty, comforting stew originating from Uruguay, perfect for a chilly evening.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roasted uruguayan beef strips",
+      "amount": "1/2 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Canned red kidney beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "dissolved in 2 tablespoons of warm water"
+    },
+    {
+      "name": "Warm flour tortillas",
+      "amount": "4-6",
+      "notes": "for serving"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the roasted beef strips and cook until browned.",
+    "Add the canned red kidney beans, tomato paste mixture, and 1 cup of water.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Serve the stew hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stew",
+    "bean",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-roasted-uruguayan-bean-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:55:01.930Z"
+}
