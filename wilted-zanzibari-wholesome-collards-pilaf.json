@@ -1,0 +1,62 @@
+{
+  "slug": "wilted-zanzibari-wholesome-collards-pilaf",
+  "title": "Wholesome Collard Pilaf",
+  "description": "A hearty and nutritious side dish made with wholesome pilaf and collard greens.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wholesome Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Collard Greens",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Zanzibari",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the pilaf according to package instructions.",
+    "In a separate pot, sauté the collard greens in a little water until wilted.",
+    "Add the zanzibari to the collard greens and stir to combine.",
+    "Combine the cooked pilaf and collard greens mixture.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "collard-greens",
+    "pilaf",
+    "sustainable"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-zanzibari-wholesome-collards-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:30:27.760Z"
+}
