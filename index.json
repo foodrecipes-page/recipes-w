@@ -1190,15 +1190,15 @@
   },
   {
     "slug": "warm-comforting-saudi-arabian-beef-cutlet-ramekin",
-    "title": "Warm Comforting Saudi-Arabian Beef Cutlet Ramekin",
+    "title": "Beef Musakhan Ramekin",
     "tags": [
       "beef",
+      "saudi-arabian",
       "comfort-food",
-      "middle-eastern",
-      "pastry",
-      "saudi-arabian"
+      "ramenkin",
+      "dinner"
     ],
-    "cuisine": "Saudi-Arabian",
+    "cuisine": "Saudi Arabian",
     "totalTimeMin": 35,
     "shard": "w"
   },
@@ -4321,16 +4321,15 @@
   },
   {
     "slug": "warm-indian-chicken-curry",
-    "title": "Warm Indian Chicken Curry",
+    "title": "Chicken Curry",
     "tags": [
-      "chicken-recipes",
-      "comfort-food",
-      "gluten-free",
-      "indian-cuisine",
-      "one-pot"
+      "chicken",
+      "curry",
+      "indian",
+      "dinner"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -11626,17 +11625,14 @@
   },
   {
     "slug": "warmly-spiced-canadian-corned-beef-hash",
-    "title": "Warmly Spiced Canadian Corned Beef Hash",
+    "title": "Canadian Beef Hash",
     "tags": [
-      "breakfast-brunch",
-      "canadian-cuisine",
-      "high-protein",
-      "one-pan",
-      "vegetarian-friendly",
-      "weeknight"
+      "breakfast",
+      "main-course",
+      "beef"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -12854,15 +12850,14 @@
   },
   {
     "slug": "white-chocolate-stinkbomb",
-    "title": "White Chocolate Stinkbomb",
+    "title": "Stinkbomb Chocolate Chip Cookies",
     "tags": [
-      "white-chocolate",
-      "stinkbomb",
-      "thai-style",
-      "whole30-friendly"
+      "chocolate",
+      "cookies",
+      "stinkbomb"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "w"
   },
   {
@@ -15423,18 +15418,15 @@
   },
   {
     "slug": "wholesome-turkish-grape-pilaf",
-    "title": "Wholesome Turkish Grape Pilaf",
+    "title": "Wholesome Turkish Pilaf with Grapes",
     "tags": [
-      "buddhist-temple-friendly",
-      "grape",
-      "one-pot",
-      "pilaf",
-      "solo-dinner",
       "turkish",
-      "vegan"
+      "pilaf",
+      "gluten-free",
+      "vegetarian"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 30,
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -16881,15 +16873,14 @@
   },
   {
     "slug": "wilted-zanzibari-wholesome-collards-pilaf",
-    "title": "Wilted Zanzibari Wholesome Collards Pilaf",
+    "title": "Wholesome Collard Pilaf",
     "tags": [
-      "light",
-      "malaysian",
-      "romantic",
-      "sour"
+      "collard-greens",
+      "pilaf",
+      "sustainable"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
