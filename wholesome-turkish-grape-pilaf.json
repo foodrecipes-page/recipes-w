@@ -1,0 +1,85 @@
+{
+  "slug": "wholesome-turkish-grape-pilaf",
+  "title": "Wholesome Turkish Pilaf with Grapes",
+  "description": "A flavorful and nutritious Turkish-inspired pilaf dish made with wholesome ingredients, served with sweet and tangy grapes on top.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wholesome Bulgur",
+      "amount": "1 cup",
+      "notes": "preferably whole wheat or Kamut"
+    },
+    {
+      "name": "Grape Molasses",
+      "amount": "2 tablespoons",
+      "notes": "optional, for added flavor"
+    },
+    {
+      "name": "Grapes",
+      "amount": "1 cup, halved",
+      "notes": "any variety, such as red or green"
+    },
+    {
+      "name": "Turkish Spice Blend",
+      "amount": "1 teaspoon",
+      "notes": "a mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": "any variety, such as red or yellow"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "preferably homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add chopped onion and sauté until translucent, about 5 minutes.",
+    "Add minced garlic and sauté for another minute.",
+    "Add bulgur, Turkish spice blend, and pilaf. Stir to combine.",
+    "Add grape molasses (if using) and stir to coat the bulgur.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes, or until the bulgur is tender.",
+    "Fluff the pilaf with a fork and top with halved grapes.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "pilaf",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-turkish-grape-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:29:28.159Z"
+}
