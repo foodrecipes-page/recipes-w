@@ -1,0 +1,73 @@
+{
+  "slug": "warm-italian-cheddar-cheese-panettone",
+  "title": "Panettone French Toast",
+  "description": "A warm and indulgent breakfast dish featuring panettone bread and melted cheddar cheese.",
+  "cuisine": "italian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "panettone",
+      "amount": "1 (1 pound) loaf"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "for egg mixture"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup shredded"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, whisk together eggs, milk, cinnamon, and vanilla extract.",
+    "Cut the panettone into 1-inch thick slices.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Dip each panettone slice into the egg mixture, coating both sides.",
+    "Place the coated panettone slices in the skillet or griddle.",
+    "Cook for 2-3 minutes on each side, or until golden brown.",
+    "Sprinkle shredded cheddar cheese on top of the panettone slices.",
+    "Return the skillet or griddle to the heat and cook for an additional 30 seconds, or until the cheese is melted.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "italian",
+    "cheese",
+    "panettone"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-italian-cheddar-cheese-panettone",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:33:37.452Z"
+}
