@@ -1,0 +1,81 @@
+{
+  "slug": "white-chocolate-stinkbomb",
+  "title": "Stinkbomb Chocolate Chip Cookies",
+  "description": "A unique and pungent twist on classic chocolate chip cookies, perfect for adventurous eaters. Be cautious when consuming, as stinkbomb peppers can be overwhelming for some.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "stinkbomb peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "white chocolate chips",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Whisk together the white sugar, brown sugar, and butter until light and fluffy.",
+    "Beat in the eggs one at a time.",
+    "In a separate bowl, whisk together the flour, baking soda, and salt.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Stir in the diced stinkbomb peppers and white chocolate chips.",
+    "Scoop tablespoon-sized balls of dough onto a parchment-lined baking sheet.",
+    "Bake for 10-12 minutes or until the edges are lightly golden.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "cookies",
+    "stinkbomb"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/white-chocolate-stinkbomb",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:24:36.083Z"
+}
