@@ -1,0 +1,89 @@
+{
+  "slug": "weeknight-yeasty-american-andouille-broil",
+  "title": "American-Style Andouille Sausage Burgers",
+  "description": "A twist on the classic burger, featuring spicy andouille sausage, perfect for a weeknight dinner.",
+  "cuisine": "american",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Andouille sausage",
+      "amount": "4 links",
+      "notes": "about 1 pound"
+    },
+    {
+      "name": "Bread, hamburger buns",
+      "amount": "4 buns",
+      "notes": "for serving"
+    },
+    {
+      "name": "Cheese, cheddar",
+      "amount": "4 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "for serving"
+    },
+    {
+      "name": "Tomato, sliced",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "Onion, thinly sliced",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "Mayonnaise or ketchup",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "Broil pan, foil",
+      "amount": "1 pan",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing pan"
+    }
+  ],
+  "instructions": [
+    "1. Preheat broiler.",
+    "2. Slice the andouille sausage into 1-inch thick patties.",
+    "3. Place the patties on the broil pan, leaving about 1 inch of space between each patty.",
+    "4. Brush the broil pan with olive oil to prevent sticking.",
+    "5. Broil the sausage patties for 4-5 minutes per side, or until cooked through.",
+    "6. Meanwhile, toast the hamburger buns on the broil pan.",
+    "7. Assemble the burgers by spreading mayonnaise or ketchup on the bottom bun, followed by a cooked sausage patty, cheese slice, lettuce, tomato slice, and onion slice.",
+    "8. Top with the top bun.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "burgers",
+    "sausages",
+    "weeknight",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/weeknight-yeasty-american-andouille-broil",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:35:52.692Z"
+}
