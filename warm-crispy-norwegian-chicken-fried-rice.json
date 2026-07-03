@@ -1,0 +1,79 @@
+{
+  "slug": "warm-crispy-norwegian-chicken-fried-rice",
+  "title": "Crispy Chicken Fried Rice",
+  "description": "A classic Norwegian dish made with crispy fried chicken and warm, fluffy rice.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "Gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and crispy, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the beaten eggs to the skillet and scramble them until cooked through.",
+    "Add the cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Stir-fry the rice with the eggs and vegetable oil for about 2-3 minutes.",
+    "Add the cooked chicken back into the skillet with the rice mixture.",
+    "Stir in the soy sauce and season with salt and black pepper to taste.",
+    "Serve the crispy chicken fried rice hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "fried-rice",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-norwegian-chicken-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T00:42:19.498Z"
+}
