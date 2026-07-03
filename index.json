@@ -4116,17 +4116,14 @@
   },
   {
     "slug": "warm-grassy-mexican-melon-bake",
-    "title": "Warm Grassy Mexican Melon Bake",
+    "title": "Grilled Melon and Mexican Street Corn",
     "tags": [
-      "gluten-free",
-      "mediterranean-friendly",
-      "mexican-inspired",
-      "post-workout",
-      "refreshing-dish",
-      "vegetarian-option"
+      "mexican",
+      "grilled",
+      "summer"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 40,
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -4160,16 +4157,16 @@
   },
   {
     "slug": "warm-greek-feta-tiropita",
-    "title": "Warm Greek Feta Tiropita",
+    "title": "Greek Tiropita Recipe",
     "tags": [
-      "easy-dinner",
-      "greek-cuisine",
-      "meal-prep",
-      "one-pan",
-      "vegetarian-main-course"
+      "greek",
+      "cheese",
+      "filo",
+      "breakfast",
+      "snack"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -17171,16 +17168,15 @@
   },
   {
     "slug": "winey-crispy-indian-salmon-biryani",
-    "title": "Winey Crispy Indian Salmon Biryani",
+    "title": "Biryani Salmon",
     "tags": [
-      "indian-cuisine",
-      "low-calorie",
-      "one-pan",
-      "seafood",
-      "wine-based"
+      "indian",
+      "fish-seafood",
+      "salmon",
+      "rice"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
