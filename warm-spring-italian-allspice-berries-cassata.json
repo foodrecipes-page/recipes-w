@@ -1,0 +1,82 @@
+{
+  "slug": "warm-spring-italian-allspice-berries-cassata",
+  "title": "Warm Cassata Bread Pudding with Berries",
+  "description": "A delicious dessert made with warm bread, Italian cassata, and fresh berries. Perfect for a cozy evening or a special occasion.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup cubed warm bread",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup cassata",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1 cup mixed berries",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp ground allspice",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a large bowl, whisk together the sugar, eggs, and vanilla extract.",
+    "Add the cubed bread and cassata to the bowl and mix until well combined.",
+    "Pour in the heavy cream and mix until the bread is evenly soaked.",
+    "Add the mixed berries and ground allspice to the bowl and mix until they're evenly distributed.",
+    "Pour the mixture into a 9x13 inch baking dish and let it sit for 10 minutes.",
+    "Bake for 35-40 minutes or until the top is golden brown.",
+    "Remove from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bread-pudding",
+    "italian-cuisine",
+    "berry-blast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spring-italian-allspice-berries-cassata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:48:48.389Z"
+}
