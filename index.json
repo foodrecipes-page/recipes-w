@@ -4515,17 +4515,15 @@
   },
   {
     "slug": "warm-italian-cheddar-cheese-panettone",
-    "title": "Warm Italian Cheddar Cheese Panettone",
+    "title": "Panettone French Toast",
     "tags": [
-      "bread",
       "breakfast",
-      "brunch",
-      "cheese",
       "italian",
-      "italian-desserts"
+      "cheese",
+      "panettone"
     ],
     "cuisine": "italian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 22,
     "shard": "w"
   },
   {
@@ -8861,17 +8859,14 @@
   },
   {
     "slug": "warm-spring-italian-allspice-berries-cassata",
-    "title": "Warm Spring Italian Allspice Berries Cassata",
+    "title": "Warm Cassata Bread Pudding with Berries",
     "tags": [
-      "brunch-ideas",
-      "cassata",
-      "italian-food",
-      "lotus-leaf",
-      "plant-based",
-      "spring-recipes"
+      "bread-pudding",
+      "italian-cuisine",
+      "berry-blast"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {
@@ -11936,17 +11931,15 @@
   },
   {
     "slug": "warmly-spiced-moroccan-dates-tagine",
-    "title": "Warmly Spiced Moroccan Dates Tagine",
+    "title": "Warm Spiced Moroccan Tagine",
     "tags": [
-      "couscous",
-      "dates",
       "moroccan",
-      "one-pan",
-      "tagine",
-      "weeknight"
+      "stew",
+      "dates",
+      "spices"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
