@@ -585,17 +585,16 @@
   },
   {
     "slug": "warm-buttery-peruvian-shrimp-chupe-de-camarones",
-    "title": "Warm Buttery Peruvian Shrimp Chupe De Camarones",
+    "title": "Camarones al Ajillo",
     "tags": [
-      "one-pot",
-      "peruvian-cuisine",
-      "plant-based",
-      "quick-fix",
-      "seafood",
-      "weeknight"
+      "camarones",
+      "shrimp",
+      "peruvian",
+      "garlic",
+      "seafood"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 18,
     "shard": "w"
   },
   {
@@ -6572,16 +6571,14 @@
   },
   {
     "slug": "warm-silky-french-shrimp-tarte-tatin",
-    "title": "Warm Silky French Shrimp Tarte Tatin",
+    "title": "Tarte Tatin French Tart",
     "tags": [
-      "brunch",
-      "fodmap-friendly",
       "french",
-      "shrimp",
-      "tarte-tatin"
+      "tarte",
+      "tatin"
     ],
     "cuisine": "French",
-    "totalTimeMin": 65,
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -11988,17 +11985,16 @@
   },
   {
     "slug": "warmly-spiced-peruvian-banana-skewers",
-    "title": "Warmly Spiced Peruvian Banana Skewers",
+    "title": "Grilled Peruvian Banana Skewers",
     "tags": [
-      "dessert",
-      "festive",
       "grilled",
-      "high-protein",
       "peruvian",
-      "vegetarian"
+      "banana",
+      "skewers",
+      "fruit"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 21,
     "shard": "w"
   },
   {
