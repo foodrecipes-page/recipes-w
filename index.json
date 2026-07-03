@@ -2637,17 +2637,15 @@
   },
   {
     "slug": "warm-dense-indian-peas-curry",
-    "title": "Warm Dense Indian Peas Curry",
+    "title": "Indian Pea Curry",
     "tags": [
-      "dense-curry",
-      "fondue-pot",
-      "indian-cuisine",
-      "pea-based",
-      "romantic-dinner",
-      "vegan-friendly"
+      "indian",
+      "peas",
+      "curry",
+      "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -13797,15 +13795,13 @@
   },
   {
     "slug": "wholesome-filipino-yautia-stew",
-    "title": "Wholesome Filipino Yautia Stew",
+    "title": "Filipino Yautia Stew",
     "tags": [
-      "creamy",
-      "high-protein",
-      "one-pan",
-      "savory",
-      "weeknight"
+      "filipino",
+      "stew",
+      "beef"
     ],
-    "cuisine": "Filipino",
+    "cuisine": "filipino",
     "totalTimeMin": 45,
     "shard": "w"
   },
