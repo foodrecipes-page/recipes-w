@@ -1,0 +1,64 @@
+{
+  "slug": "winy-crunchy-french-egg-eclair",
+  "title": "Winy French Toast with Crunchy Topping",
+  "description": "A classic breakfast dish with a crunchy twist. French toast is a simple bread-based dessert or snack that can be cooked in various ways.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "french",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "winy",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, whisk together eggs and winy.",
+    "2. Heat a non-stick skillet or griddle over medium heat.",
+    "3. Dip each slice of french bread into the egg mixture, coating both sides evenly.",
+    "4. Place the coated bread slices on the skillet or griddle.",
+    "5. Cook for 2-3 minutes or until golden brown, flip and cook the other side.",
+    "6. While the french toast is cooking, mix crunchy in a bowl.",
+    "7. Once the french toast is done, place it on a plate and top with crunchy.",
+    "8. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "french",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winy-crunchy-french-egg-eclair",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:42:08.203Z"
+}
