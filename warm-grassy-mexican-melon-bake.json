@@ -1,0 +1,82 @@
+{
+  "slug": "warm-grassy-mexican-melon-bake",
+  "title": "Grilled Melon and Mexican Street Corn",
+  "description": "A sweet and savory summer recipe featuring grilled melon and Mexican street corn.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Melon balls",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Grilled Corn on Cob",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Mexican Cotija Cheese",
+      "amount": "1/2 cup crumbled",
+      "notes": null
+    },
+    {
+      "name": "Warm Chipotle Aioli",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "1/4 cup chopped",
+      "notes": null
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Soak melon balls in cold water for 30 minutes, then pat dry with paper towels.",
+    "Grill corn on cob for 10-12 minutes, turning frequently, or until slightly charred.",
+    "Meanwhile, mix together chipotle aioli, lime juice, and a pinch of salt and pepper in a small bowl.",
+    "Once corn is done, brush with chipotle aioli mixture.",
+    "Grill melon balls for 2-3 minutes per side, or until slightly caramelized.",
+    "To assemble, place a grilled melon ball on top of each corn on cob, then sprinkle with crumbled Cotija cheese and chopped cilantro.",
+    "Serve immediately and garnish with lime wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "grilled",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-grassy-mexican-melon-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:27:47.001Z"
+}
