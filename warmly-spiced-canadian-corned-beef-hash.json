@@ -1,0 +1,84 @@
+{
+  "slug": "warmly-spiced-canadian-corned-beef-hash",
+  "title": "Canadian Beef Hash",
+  "description": "A hearty, comforting dish made with corned beef, hash browns, and a blend of spices.",
+  "cuisine": "Canadian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Corned Beef",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Hash Browns",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Warmly Spiced Ground Beef",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": "Beaten"
+    }
+  ],
+  "instructions": [
+    "Brown the corned beef in a large skillet over medium-high heat.",
+    "Add the chopped onion and bell pepper to the skillet and cook until softened.",
+    "Add the hash browns to the skillet and cook until they start to brown.",
+    "Add the warmly spiced ground beef (if using) to the skillet and cook until combined.",
+    "Season with salt and black pepper to taste.",
+    "Push the hash mixture to one side of the skillet.",
+    "Add a small amount of oil to the other side of the skillet.",
+    "Pour the beaten eggs into the oil and scramble them.",
+    "Mix the eggs with the hash mixture.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "main-course",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-canadian-corned-beef-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:28:26.950Z"
+}
