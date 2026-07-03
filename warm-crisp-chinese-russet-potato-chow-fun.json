@@ -1,0 +1,72 @@
+{
+  "slug": "warm-crisp-chinese-russet-potato-chow-fun",
+  "title": "Crispy Chow Fun Stir Fry",
+  "description": "A quick and easy stir fry dish made with crispy chow fun noodles and a variety of vegetables.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Crisp chow fun noodles",
+      "amount": "1 package",
+      "notes": "about 8 oz"
+    },
+    {
+      "name": "Russet potato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Warm oil",
+      "amount": "2 tbsp",
+      "notes": "such as vegetable or peanut oil"
+    },
+    {
+      "name": "Chinese broccoli",
+      "amount": "1 bunch",
+      "notes": "diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large skillet over medium-high heat.",
+    "Add the diced potato and cook until tender, about 5 minutes.",
+    "Add the diced Chinese broccoli and cook until tender, about 3-4 minutes.",
+    "Add the crisp chow fun noodles and stir to combine with the vegetables.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "chow-fun",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crisp-chinese-russet-potato-chow-fun",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:53:22.466Z"
+}
