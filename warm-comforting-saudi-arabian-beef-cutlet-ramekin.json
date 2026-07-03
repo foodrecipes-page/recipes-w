@@ -1,0 +1,98 @@
+{
+  "slug": "warm-comforting-saudi-arabian-beef-cutlet-ramekin",
+  "title": "Beef Musakhan Ramekin",
+  "description": "A Saudi Arabian-inspired beef musakhan recipe in a comforting ramekin dish, featuring warm spices and tender beef cutlet. Serve as a hearty dinner or meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "beef",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef cutlet",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pita bread",
+      "amount": "2 cups, torn into pieces",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the beef cutlet with salt, black pepper, cumin, coriander, and paprika.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the beef and cook until browned on both sides, about 3-4 minutes per side.",
+    "Transfer the beef to a plate and set aside.",
+    "Add the chopped onion to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the torn pita bread to the skillet and cook for 2-3 minutes, stirring frequently.",
+    "Place the beef in a ramekin and top with the pita bread mixture.",
+    "Bake in the preheated oven for 15-20 minutes, or until the beef is cooked through and the pita bread is crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "saudi-arabian",
+    "comfort-food",
+    "ramenkin",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-comforting-saudi-arabian-beef-cutlet-ramekin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:35:58.287Z"
+}
