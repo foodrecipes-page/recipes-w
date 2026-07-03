@@ -1,0 +1,92 @@
+{
+  "slug": "winey-crispy-indian-salmon-biryani",
+  "title": "Biryani Salmon",
+  "description": "A fusion of Indian flavors and salmon, creating a unique and delicious dish.",
+  "cuisine": "Indian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "4",
+      "notes": "Fresh and wild-caught"
+    },
+    {
+      "name": "Biryani rice",
+      "amount": "1 cup",
+      "notes": "Basmati or long-grain rice"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the salmon fillets with salt, cumin, coriander, turmeric, red chili powder, and garam masala.",
+    "Heat 1 tablespoon of ghee or oil in a skillet over medium-high heat.",
+    "Add the salmon fillets, skin side up, and cook for 2-3 minutes.",
+    "Flip the salmon over and cook for another 2-3 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "While the salmon is cooking, heat the remaining 1 tablespoon of ghee or oil in a saucepan over medium heat.",
+    "Add the biryani rice and cook, stirring constantly, until lightly toasted.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the rice is cooked.",
+    "To serve, place a salmon fillet on each plate and top with a portion of the biryani rice.",
+    "Garnish with crispy fried onions or chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fish-seafood",
+    "salmon",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-crispy-indian-salmon-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:04:35.052Z"
+}
