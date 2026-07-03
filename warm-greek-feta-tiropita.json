@@ -1,0 +1,72 @@
+{
+  "slug": "warm-greek-feta-tiropita",
+  "title": "Greek Tiropita Recipe",
+  "description": "A traditional Greek cheese pie made with feta cheese, ideal for breakfast or snack.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Warm filo pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "1 egg, beaten",
+      "amount": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Thaw the filo pastry according to package instructions.",
+    "In a bowl, mix together the crumbled feta cheese and chopped parsley.",
+    "Place one sheet of filo pastry on a flat surface and brush with the beaten egg.",
+    "Place a quarter of the feta cheese mixture onto one half of the filo pastry, leaving a 1-inch border.",
+    "Fold the other half of the pastry over the cheese and press the edges to seal.",
+    "Repeat with the remaining filo pastry and feta cheese mixture.",
+    "Place the tiropitas on a baking sheet lined with parchment paper.",
+    "Brush the tops with the remaining egg wash and sprinkle with salt and pepper.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "cheese",
+    "filo",
+    "breakfast",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-greek-feta-tiropita",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:45:02.419Z"
+}
