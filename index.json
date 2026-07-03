@@ -669,13 +669,11 @@
     "title": "Warm Canadian Fish Stew",
     "tags": [
       "canadian",
-      "comfort-food",
       "fish-stew",
-      "one-pot",
-      "wintertime"
+      "comfort-food"
     ],
-    "cuisine": "canadian",
-    "totalTimeMin": 35,
+    "cuisine": "Canadian",
+    "totalTimeMin": 33,
     "shard": "w"
   },
   {
@@ -1359,17 +1357,15 @@
   },
   {
     "slug": "warm-crisp-chinese-russet-potato-chow-fun",
-    "title": "Warm Crisp Chinese Russet Potato Chow Fun",
+    "title": "Crispy Chow Fun Stir Fry",
     "tags": [
-      "chinese-food",
-      "gluten-free",
-      "noodles",
-      "potatoes",
       "stir-fry",
-      "weeknight"
+      "chow-fun",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -9186,15 +9182,13 @@
     "slug": "warm-syrian-lamb-pilaf",
     "title": "Warm Syrian Lamb Pilaf",
     "tags": [
-      "comfort-food",
-      "fodmap-friendly",
-      "lamb-recipes",
-      "middle-eastern",
-      "one-pot",
-      "rice-bowls"
+      "lamb",
+      "pilaf",
+      "middle eastern",
+      "chicken recipe"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 60,
+    "totalTimeMin": 110,
     "shard": "w"
   },
   {
@@ -10619,16 +10613,14 @@
   },
   {
     "slug": "warm-yeasty-norwegian-mushrooms-skillet",
-    "title": "Warm, Yeasty Norwegian Mushroom Skillet",
+    "title": "Norwegian Skillet Knaefla",
     "tags": [
-      "cold-weather",
-      "comfort-food",
-      "high-carb",
-      "one-pan",
-      "winter-recipe"
+      "flatbread",
+      "breakfast",
+      "mushroom"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
