@@ -1,0 +1,83 @@
+{
+  "slug": "wilted-dutch-callaloo-braised",
+  "title": "Braised Callaloo with Wilted Dutch Greens",
+  "description": "A hearty, comforting side dish featuring callaloo and wilted dutch greens, slow-cooked in a rich braise.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "dutch greens",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "callaloo",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the callaloo and cook until wilted, about 3-4 minutes.",
+    "Add the dutch greens and cook until wilted, about 3-4 minutes.",
+    "Sprinkle the flour over the greens and cook for 1 minute.",
+    "Gradually add the chicken broth, whisking constantly to avoid lumps.",
+    "Bring the mixture to a simmer and cook until the liquid has thickened, about 5-7 minutes.",
+    "Season the braise with salt and black pepper to taste.",
+    "Serve the braised greens hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "vegetarian",
+    "side dish",
+    "greens"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-dutch-callaloo-braised",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:14:11.104Z"
+}
