@@ -1,0 +1,78 @@
+{
+  "slug": "warm-aerated-resinous-french-chinese-cabbage-alsatian-galette",
+  "title": "Alsation Cabbage Galette",
+  "description": "A traditional German-inspired galette filled with sautéed cabbage and onions, perfect as a side dish or light lunch.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Alsation galette pastry",
+      "amount": "1 sheet",
+      "notes": "available in most supermarkets"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 head",
+      "notes": "green or red, whichever is in season"
+    },
+    {
+      "name": "French onion",
+      "amount": "1 medium",
+      "notes": "for caramelizing"
+    },
+    {
+      "name": "Resinous garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chinese five-spice powder",
+      "amount": "1 tsp",
+      "notes": "for added depth"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing pastry"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out galette pastry to a thickness of 1/8 inch.",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add minced garlic and sauté for 1 minute.",
+    "Add sliced onions and cook until caramelized, stirring occasionally.",
+    "Add shredded cabbage and cook until tender, stirring occasionally.",
+    "Season with Chinese five-spice powder and stir to combine.",
+    "Brush the edges of the galette pastry with olive oil.",
+    "Spoon the cabbage mixture onto one half of the pastry, leaving a 1-inch border.",
+    "Fold the other half of the pastry over the filling and press edges to seal.",
+    "Brush the top of the galette with olive oil and cut a few slits in the top to allow steam to escape.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cabbage",
+    "galette",
+    "german",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-aerated-resinous-french-chinese-cabbage-alsatian-galette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:52:55.391Z"
+}
