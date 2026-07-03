@@ -12486,16 +12486,15 @@
   },
   {
     "slug": "weeknight-yeasty-american-andouille-broil",
-    "title": "Weeknight Yeasty American Andouille Broil",
+    "title": "American-Style Andouille Sausage Burgers",
     "tags": [
-      "breading",
-      "meal-prep",
-      "one-pan",
-      "sausage",
-      "weeknight"
+      "burgers",
+      "sausages",
+      "weeknight",
+      "american"
     ],
     "cuisine": "american",
-    "totalTimeMin": 22,
+    "totalTimeMin": 18,
     "shard": "w"
   },
   {
@@ -17731,18 +17730,15 @@
   },
   {
     "slug": "winy-crunchy-french-egg-eclair",
-    "title": "Winy Crunchy French Egg Eclair",
+    "title": "Winy French Toast with Crunchy Topping",
     "tags": [
-      "eclair",
+      "breakfast",
       "french",
-      "gluten-free",
-      "high-protein",
-      "vegetarian",
-      "weeknight",
-      "wine"
+      "dessert",
+      "snack"
     ],
     "cuisine": "French",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
