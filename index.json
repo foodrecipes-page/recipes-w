@@ -1806,16 +1806,14 @@
   },
   {
     "slug": "warm-crispy-norwegian-chicken-fried-rice",
-    "title": "Warm Crispy Norwegian Chicken Fried Rice",
+    "title": "Crispy Chicken Fried Rice",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "norwegian-cuisine",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "fried-rice",
+      "norwegian"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -5576,14 +5574,13 @@
   },
   {
     "slug": "warm-nutty-middle-eastern-lentil-pilaf",
-    "title": "Warm Nutty Middle Eastern Lentil Pilaf",
+    "title": "Lentil Pilaf with Middle Eastern Flair",
     "tags": [
-      "gluten-free",
-      "lentil-recipes",
+      "lentil",
+      "pilaf",
       "middle-eastern",
-      "nutty-flavors",
-      "one-pot",
-      "vegetarian-dinner"
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
@@ -5727,15 +5724,17 @@
   },
   {
     "slug": "warm-peruvian-beef-grilled-skewers",
-    "title": "Warm Peruvian Beef Grilled Skewers",
+    "title": "Peruvian Beef Skewers",
     "tags": [
-      "easy-dinner",
-      "grilled-beef",
-      "peruvian-food",
-      "weeknight"
+      "grilled",
+      "peruvian",
+      "beef",
+      "skewers",
+      "warm",
+      "meat"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
