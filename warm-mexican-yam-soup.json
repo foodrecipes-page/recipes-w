@@ -1,0 +1,82 @@
+{
+  "slug": "warm-mexican-yam-soup",
+  "title": "Roasted Yam Soup",
+  "description": "A comforting and flavorful soup made with roasted yams and spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yam",
+      "amount": "2 large"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm tortillas",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and chop the yam into 1-inch cubes.",
+    "Place the yam on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "In a large pot, sauté the chopped onion and minced garlic until softened.",
+    "Add the roasted yam, chicken broth, cumin, paprika, salt, and black pepper to the pot.",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 15-20 minutes.",
+    "Tear the warm tortillas into strips and add to the pot.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Serve hot, garnished with additional tortilla strips if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "mexican",
+    "yam"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-mexican-yam-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:17:16.077Z"
+}
