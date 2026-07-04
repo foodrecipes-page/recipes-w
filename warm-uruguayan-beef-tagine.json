@@ -1,0 +1,86 @@
+{
+  "slug": "warm-uruguayan-beef-tagine",
+  "title": "Uruguayan Beef Tagine",
+  "description": "A classic Uruguayan dish featuring slow-cooked beef in a flavorful tagine. This hearty stew is perfect for a chilly evening.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    null,
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef short ribs",
+      "amount": "1.5 kg",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Uruguayan tagine spice blend",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef in batches until browned on all sides. Remove from pot and set aside.",
+    "Add more oil if necessary, then sauté the onion until softened.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the tagine spice blend and cook for 1 minute.",
+    "Add the beef broth and red wine, scraping up any browned bits from the bottom of the pot.",
+    "Return the beef to the pot, cover, and transfer to the oven.",
+    "Braise the tagine for 2.5 hours, or until the beef is tender.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "uruguayan",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 52,
+    "carbs": 20,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-uruguayan-beef-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:25:33.995Z"
+}
