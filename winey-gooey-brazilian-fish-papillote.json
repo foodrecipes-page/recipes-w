@@ -1,0 +1,73 @@
+{
+  "slug": "winey-gooey-brazilian-fish-papillote",
+  "title": "Braised Fish Papillote with Gooey Glaze",
+  "description": "A flavorful and tender fish dish cooked in a paper pouch with a sweet and sticky gooey glaze.",
+  "cuisine": "brazilian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillet (such as flounder or tilapia)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Gooey glaze (see below for recipe)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Winey white wine",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Papillote paper",
+      "amount": "4",
+      "notes": "available at most grocery stores or online"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the fish fillets with salt and pepper.",
+    "Place a piece of papillote paper on a flat surface.",
+    "Place a fish fillet in the center of the paper.",
+    "Drizzle with winey white wine and spoonful of gooey glaze.",
+    "Fold the paper over the fish to form a pouch, making sure to seal the edges.",
+    "Place the pouch in a baking dish and bake for 12-15 minutes, or until cooked through.",
+    "Serve immediately, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "fish",
+    "papillote",
+    "glaze"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-gooey-brazilian-fish-papillote",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:32:22.524Z"
+}
