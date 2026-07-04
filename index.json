@@ -8081,16 +8081,16 @@
   },
   {
     "slug": "warm-spicy-filipino-pork-wrap",
-    "title": "Warm Spicy Filipino Pork Wrap",
+    "title": "Filipino Pork Adobo Wrap",
     "tags": [
-      "filipino-food",
-      "mediterranean-diet",
-      "pork-recipes",
-      "quick-snacks",
-      "spicy-food"
+      "pork",
+      "filipino",
+      "wrap",
+      "warm",
+      "spicy"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -9415,16 +9415,15 @@
   },
   {
     "slug": "warm-uruguayan-beef-tagine",
-    "title": "Warm Uruguayan Beef Tagine",
+    "title": "Uruguayan Beef Tagine",
     "tags": [
-      "beef-based",
-      "comfort-food",
-      "low-carb",
-      "one-pot",
-      "south-american"
+      "beef",
+      "stew",
+      "uruguayan",
+      "tagine"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 170,
+    "totalTimeMin": 180,
     "shard": "w"
   },
   {
