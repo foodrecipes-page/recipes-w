@@ -16841,15 +16841,16 @@
   },
   {
     "slug": "wine-almond-bread",
-    "title": "Wine Almond Bread",
+    "title": "Bread and Almond Wine Stew",
     "tags": [
-      "wine-almond-bread",
-      "nutty-dense",
-      "hangover-cure",
-      "norwegian-recipe"
+      "italian",
+      "stew",
+      "bread",
+      "almonds",
+      "wine"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 60,
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
