@@ -5067,18 +5067,14 @@
   },
   {
     "slug": "warm-malty-japanese-noodles-ramen-miso",
-    "title": "Warm Malty Japanese Noodles Ramen Miso",
+    "title": "Japanese Ramen Noodle Soup",
     "tags": [
-      "comfort-food",
-      "japanese-cuisine",
-      "lacto-vegetarian",
-      "nourishing",
       "ramen",
-      "sick-day",
-      "warm"
+      "noodle-soup",
+      "japanese-cuisine"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -15804,17 +15800,15 @@
   },
   {
     "slug": "wicked-malted-uruguayan-cheese-stir-fry",
-    "title": "Wicked Malted Uruguayan Cheese Stir-fry",
+    "title": "Uruguayan Malted Stir-Fry",
     "tags": [
-      "cheese-pull",
-      "easy-to-make",
-      "mediterranean-friendly",
-      "midnight-craving",
-      "one-pan",
-      "uruguay-heritage"
+      "uruguayan",
+      "stir-fry",
+      "cheese",
+      "soy-sauce"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -16326,16 +16320,15 @@
   },
   {
     "slug": "wildly-spicy-mexican-chicken-tacos",
-    "title": "Wildly Spicy Mexican Chicken Tacos",
+    "title": "Wildly Spicy Chicken Tacos",
     "tags": [
-      "coconut-cream",
-      "high-protein",
       "mexican",
-      "spicy",
-      "weeknight"
+      "chicken",
+      "tacos",
+      "spicy"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -16369,17 +16362,15 @@
   },
   {
     "slug": "wildly-tangy-brazilian-chicken-skewers",
-    "title": "Wildly Tangy Brazilian Chicken Skewers",
+    "title": "Wild Brazilian Skewers",
     "tags": [
-      "brazilian-food",
-      "grilled-chicken",
-      "low-carb",
-      "quick-dinner",
-      "summer-recipes",
-      "tangy"
+      "spicy",
+      "grilled",
+      "chicken",
+      "barbecue"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
