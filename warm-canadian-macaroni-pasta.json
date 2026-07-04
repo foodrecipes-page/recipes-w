@@ -1,0 +1,91 @@
+{
+  "slug": "warm-canadian-macaroni-pasta",
+  "title": "Classic Canadian Macaroni Bake",
+  "description": "A comforting, cheesy pasta bake that's perfect for a cold winter's night. This dish combines warm, comforting flavours with the familiarity of macaroni and cheese.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "gluten-free alternative: 2 tbsp cornstarch"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "warm spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook macaroni according to package instructions until al dente. Drain and set aside.",
+    "In a large saucepan, melt butter over medium heat.",
+    "Add flour and whisk to combine. Cook for 1-2 minutes.",
+    "Slowly add milk, whisking continuously to avoid lumps.",
+    "Bring mixture to a simmer and cook until thickened, stirring occasionally.",
+    "Remove from heat and stir in cheddar and mozzarella cheese until melted and smooth.",
+    "Add cooked macaroni to the cheese sauce and stir to combine.",
+    "Transfer macaroni and cheese to a 9x13 inch baking dish.",
+    "Sprinkle with additional cheese and paprika (if using).",
+    "Bake for 20-25 minutes, or until golden brown and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "comfort-food",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-canadian-macaroni-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:48:43.461Z"
+}
