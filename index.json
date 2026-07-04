@@ -6146,16 +6146,14 @@
   },
   {
     "slug": "warm-roasted-portuguese-chicken-roast",
-    "title": "Warm Roasted Portuguese Chicken Roast",
+    "title": "Roasted Portuguese Chicken",
     "tags": [
-      "date-night",
-      "paleo-friendly",
-      "portuguese-cuisine",
-      "roasted-chicken",
-      "special-occasion"
+      "chicken",
+      "portuguese",
+      "roasted"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 95,
+    "cuisine": "portuguese",
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {
@@ -8508,16 +8506,17 @@
   },
   {
     "slug": "warm-spicy-saudi-arabian-chicken-tagine",
-    "title": "Warm Spicy Saudi Arabian Chicken Tagine",
+    "title": "Saudi Chicken Tagine",
     "tags": [
-      "gluten-free",
-      "low-calorie",
-      "middle-eastern",
-      "one-pot",
-      "weeknight"
+      "saudi",
+      "arabian",
+      "chicken",
+      "tagine",
+      "warm",
+      "spicy"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -11406,17 +11405,14 @@
   },
   {
     "slug": "warmly-smoked-croatian-pork-belly-skillet",
-    "title": "Warmly Smoked Croatian Pork Belly Skillet",
+    "title": "Smoked Pork Belly Skillet",
     "tags": [
-      "croatian",
-      "low-glycemic",
-      "one-pan",
-      "pork-belly",
-      "smoked",
-      "tandoor"
+      "smoked-pork-belly",
+      "skillet-dinner",
+      "american-cuisine"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "cuisine": "American",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -15093,18 +15089,15 @@
   },
   {
     "slug": "wholesome-snappy-turkish-lotus-root-kofte",
-    "title": "wholesome snappy turkish lotus root kofte",
+    "title": "Turkish Kofte with Root Vegetable Stew",
     "tags": [
-      "deep-fried",
-      "easy-to-make",
-      "gluten-free",
-      "kofte",
-      "snack",
-      "sugar-free",
-      "turkish"
+      "stew",
+      "turkish",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 60,
+    "cuisine": "Turkish",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
