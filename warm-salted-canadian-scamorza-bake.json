@@ -1,0 +1,68 @@
+{
+  "slug": "warm-salted-canadian-scamorza-bake",
+  "title": "Canadian-Style Scamorza Bake",
+  "description": "A simple yet delicious bake recipe using scamorza cheese, perfect for a quick dinner or snack.",
+  "cuisine": null,
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "scamorza cheese",
+      "amount": "1 block (12 oz)",
+      "notes": null
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a bowl, whisk together 1 cup of warm water, 1 tsp of baking powder, and 1/2 tsp of salt.",
+    "Cut the scamorza cheese into 1-inch slices.",
+    "In a separate bowl, mix the melted butter with the cheese slices.",
+    "Add the wet ingredients to the cheese mixture and stir until well combined.",
+    "Pour the mixture into a greased 9x13-inch baking dish.",
+    "Bake for 25-30 minutes or until the top is golden brown and the cheese is melted.",
+    "Remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "scamorza",
+    "bake",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-salted-canadian-scamorza-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:21:25.651Z"
+}
