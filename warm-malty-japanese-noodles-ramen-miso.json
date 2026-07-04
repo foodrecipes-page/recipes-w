@@ -1,0 +1,78 @@
+{
+  "slug": "warm-malty-japanese-noodles-ramen-miso",
+  "title": "Japanese Ramen Noodle Soup",
+  "description": "A traditional Japanese noodle soup made with rich miso broth and topped with various ingredients. This recipe serves 4 and can be customized to suit your taste.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ramen Noodles",
+      "amount": "1 package (200g)",
+      "notes": ""
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Green Onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Shiitake Mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Scallions",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring the chicken broth to a boil in a large pot.",
+    "Reduce the heat to a simmer and whisk in the miso paste until dissolved.",
+    "Add the soy sauce and stir to combine.",
+    "Cook the ramen noodles according to the package instructions and drain.",
+    "Divide the noodles among four bowls.",
+    "Ladle the hot miso broth over the noodles.",
+    "Top each bowl with sliced green onions, shiitake mushrooms, and scallions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ramen",
+    "noodle-soup",
+    "japanese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-malty-japanese-noodles-ramen-miso",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:03:57.119Z"
+}
