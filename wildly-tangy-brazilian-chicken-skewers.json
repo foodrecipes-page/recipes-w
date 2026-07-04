@@ -1,0 +1,84 @@
+{
+  "slug": "wildly-tangy-brazilian-chicken-skewers",
+  "title": "Wild Brazilian Skewers",
+  "description": "A flavorful and spicy Brazilian-inspired dish featuring chicken skewers with a tangy wild twist.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "wild garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tangy chili flakes",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "brazilian-style BBQ sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "wild onions",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together chili flakes, BBQ sauce, and coconut oil.",
+    "Add chicken, wild garlic, and chopped cilantro to the bowl and toss to coat.",
+    "Thread chicken and vegetables onto skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the chicken is cooked through.",
+    "Transfer skewers to a plate and garnish with wild onions and cilantro.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "grilled",
+    "chicken",
+    "barbecue"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wildly-tangy-brazilian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:22:11.872Z"
+}
