@@ -1,0 +1,76 @@
+{
+  "slug": "wild-smoked-canadian-salmon-noodles",
+  "title": "Smoked Salmon Noodle Stir Fry",
+  "description": "A quick and easy stir-fry made with smoked salmon, Canadian noodles, and some Asian-inspired flavors.",
+  "cuisine": "asian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Canadian salmon",
+      "amount": "6 oz"
+    },
+    {
+      "name": "Canadian noodles",
+      "amount": "8 oz",
+      "notes": "preferably rice noodles"
+    },
+    {
+      "name": "Wild garlic",
+      "amount": "2 cloves",
+      "notes": "or substitute with 2 tsp garlic powder"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions and set aside.",
+    "In a large skillet, heat the sesame oil over medium-high heat.",
+    "Add the wild garlic and cook for 1 minute, until fragrant.",
+    "Add the smoked salmon and cook for 2-3 minutes, until lightly browned.",
+    "Pour in the soy sauce and honey, and stir to coat the salmon.",
+    "Add the cooked noodles to the skillet and toss to combine with the salmon and sauce.",
+    "Cook for an additional 2-3 minutes, until the noodles are well coated and heated through.",
+    "Garnish with green onions and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "salmon",
+    "noodles",
+    "stir-fry",
+    "easy",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wild-smoked-canadian-salmon-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:49:39.046Z"
+}
