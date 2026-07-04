@@ -1,0 +1,78 @@
+{
+  "slug": "warm-roasted-portuguese-chicken-roast",
+  "title": "Roasted Portuguese Chicken",
+  "description": "A delicious and flavorful dish featuring roasted chicken with a mix of spices and herbs, inspired by traditional Portuguese cuisine.",
+  "cuisine": "portuguese",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken (1 whole, 2-3 lbs)",
+      "amount": "",
+      "notes": "fresh or thawed"
+    },
+    {
+      "name": "olive oil (2 tbsp)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "garlic (3 cloves)",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "chili powder (1 tsp)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "paprika (1 tsp)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt (1 tsp)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper (1 tsp)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "In a small bowl, mix together olive oil, garlic, chili powder, paprika, salt, and black pepper.",
+    "Rub the mixture all over the chicken, making sure to get some under the skin as well.",
+    "Place the chicken in a roasting pan and put it in the oven.",
+    "Roast the chicken for about 45-50 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "Let the chicken rest for 10-15 minutes before carving and serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "portuguese",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 0,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-roasted-portuguese-chicken-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:44:46.776Z"
+}
