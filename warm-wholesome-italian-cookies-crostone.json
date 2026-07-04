@@ -1,0 +1,73 @@
+{
+  "slug": "warm-wholesome-italian-cookies-crostone",
+  "title": "Warm Crostone with Tomato and Basil",
+  "description": "A simple Italian appetizer featuring toasted crostone, fresh basil, and rich tomatoes.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crostone",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "heirloom or cherry"
+    },
+    {
+      "name": "Fresh Mozzarella Cheese",
+      "amount": "2 oz"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Freshly Ground Black Pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Arrange the crostone slices on a baking sheet and toast for 5-7 minutes, or until lightly browned.",
+    "While the crostone is toasting, slice the fresh tomatoes and mozzarella cheese.",
+    "Combine the sliced tomatoes and mozzarella cheese on a plate.",
+    "Add fresh basil leaves on top of the tomato and mozzarella mixture.",
+    "Drizzle with olive oil and sprinkle with salt and pepper to taste.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "appetizer",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 28,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wholesome-italian-cookies-crostone",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:30:38.954Z"
+}
