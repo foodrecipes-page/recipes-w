@@ -1,0 +1,88 @@
+{
+  "slug": "warm-spicy-ethiopian-tomato-gored-gored",
+  "title": "Spicy Ethiopian Tibs",
+  "description": "A traditional Ethiopian stir-fry dish made with marinated meat and spices. Serve with injera or rice for a flavorful meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "pescetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gored",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Gored",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bekam spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Niter kibbeh",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut the gored into small pieces and marinate in Bekam spice blend, niter kibbeh, red pepper flakes, and salt for at least 30 minutes.",
+    "2. Heat a large skillet over medium-high heat.",
+    "3. Add the marinated gored and cook until browned, about 5 minutes.",
+    "4. Add the onion, garlic, and tomato to the skillet and cook until the vegetables are softened.",
+    "5. Stir in the remaining Bekam spice blend and cook for an additional 1-2 minutes.",
+    "6. Serve the tibs hot with injera or rice and garnish with additional gored if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "authentic",
+    "ethtiopian",
+    "spicy",
+    "stir-fry",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-ethiopian-tomato-gored-gored",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:38:24.114Z"
+}
