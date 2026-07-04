@@ -4393,16 +4393,17 @@
   },
   {
     "slug": "warm-indulgent-jamaican-tamarind-tagine",
-    "title": "Warm Indulgent Jamaican Tamarind Tagine",
+    "title": "Jamaican Tamarind Chicken Tagine",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegetarian-friendly",
-      "weeknight"
+      "jamaican",
+      "tagine",
+      "chicken",
+      "tamarind",
+      "warm",
+      "indulgent"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "Jamaican",
+    "totalTimeMin": 60,
     "shard": "w"
   },
   {
@@ -7329,17 +7330,15 @@
   },
   {
     "slug": "warm-smoky-peruvian-smoked-haddock-ceviche",
-    "title": "Warm Smoky Peruvian Smoked Haddock Ceviche",
+    "title": "Smoked Haddock Ceviche",
     "tags": [
-      "brunch-ideas",
-      "cheese-pull",
-      "peruvian-cuisine",
-      "seafood-recipes",
-      "smoky-flavors",
-      "umami-dishes"
+      "peruvian",
+      "ceviche",
+      "haddock",
+      "smoked-haddock"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
@@ -11139,17 +11138,15 @@
   },
   {
     "slug": "warmly-glazed-norwegian-shrimp-skewers",
-    "title": "Warmly Glazed Norwegian Shrimp Skewers",
+    "title": "Norwegian Shrimp Skewers with Warm Glaze",
     "tags": [
-      "cajun",
-      "glazed",
-      "low-sodium",
+      "seafood",
       "norwegian",
-      "quick-fix",
-      "seafood"
+      "grilled",
+      "skewers"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 23,
+    "cuisine": "norwegian",
+    "totalTimeMin": 21,
     "shard": "w"
   },
   {
@@ -15972,17 +15969,16 @@
   },
   {
     "slug": "wild-smoked-canadian-salmon-noodles",
-    "title": "Wild Smoked Canadian Salmon Noodles",
+    "title": "Smoked Salmon Noodle Stir Fry",
     "tags": [
-      "anti-inflammatory",
-      "canadian-cuisine",
-      "one-pan",
-      "quick-fix",
-      "weeknight-dinner",
-      "wild-caught"
+      "salmon",
+      "noodles",
+      "stir-fry",
+      "easy",
+      "one-pot"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 25,
+    "cuisine": "asian",
+    "totalTimeMin": 13,
     "shard": "w"
   },
   {
