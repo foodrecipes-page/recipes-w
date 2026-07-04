@@ -1,0 +1,96 @@
+{
+  "slug": "warm-spicy-saudi-arabian-chicken-tagine",
+  "title": "Saudi Chicken Tagine",
+  "description": "A classic Saudi dish inspired by North African flavors. This hearty tagine is perfect for a chilly evening.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "Bone-in and skin-on"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1 teaspoon",
+      "notes": "Dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Dried prunes",
+      "amount": "1 cup",
+      "notes": "Pitted"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion, garlic, and ginger; cook until onion is softened, about 5 minutes.",
+    "Add chicken; cook until browned, about 5 minutes.",
+    "Add cumin, cayenne pepper, salt, and black pepper; stir to combine.",
+    "Add prunes; cook for 1 minute.",
+    "Transfer pot to the oven; cook at 300°F (150°C) for 25 minutes.",
+    "Skim off any excess fat; serve hot, garnished with fresh parsley.",
+    "Serve with steamed rice or couscous.",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "arabian",
+    "chicken",
+    "tagine",
+    "warm",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-saudi-arabian-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:21:59.271Z"
+}
