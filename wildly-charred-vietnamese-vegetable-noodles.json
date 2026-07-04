@@ -1,0 +1,71 @@
+{
+  "slug": "wildly-charred-vietnamese-vegetable-noodles",
+  "title": "Charred Vietnamese Noodle Salad",
+  "description": "A refreshing and flavorful salad made with charred noodles, wildly foraged vegetables, and a hint of Vietnamese spices.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wildly foraged mixed greens",
+      "amount": "4 cups",
+      "notes": "including wild lettuce and dandelion"
+    },
+    {
+      "name": "charred noodles",
+      "amount": "8 oz",
+      "notes": "charred to perfection"
+    },
+    {
+      "name": "charred carrots",
+      "amount": "1 large",
+      "notes": "charred to bring out natural sweetness"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh from the garden"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "2 tbsp",
+      "notes": "for added spice"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "for a depth of umami flavor"
+    }
+  ],
+  "instructions": [
+    "Char the noodles over an open flame until slightly blackened.",
+    "Slice the carrots into thin rounds and char them alongside the noodles.",
+    "In a large bowl, combine the mixed greens, charred noodles, and charred carrots.",
+    "Sprinkle the chopped cilantro over the top of the salad.",
+    "Drizzle the sriracha sauce and fish sauce over the salad, and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "veggies",
+    "noodles",
+    "salad",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wildly-charred-vietnamese-vegetable-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:23:22.306Z"
+}
