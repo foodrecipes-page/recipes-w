@@ -706,16 +706,14 @@
   },
   {
     "slug": "warm-canadian-macaroni-pasta",
-    "title": "Warm Canadian Macaroni Pasta",
+    "title": "Classic Canadian Macaroni Bake",
     "tags": [
-      "canadian-cuisine",
+      "pasta",
       "comfort-food",
-      "one-pot",
-      "ovo-vegetarian",
-      "pasta-dish"
+      "canadian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -5077,16 +5075,15 @@
   },
   {
     "slug": "warm-massaman-british-fish-curry",
-    "title": "Warm Massaman British Fish Curry",
+    "title": "British Massaman Fish Curry",
     "tags": [
-      "date-night",
-      "fish-curry",
-      "keto",
-      "low-carb",
-      "warm"
+      "british",
+      "curry",
+      "fish",
+      "massaman"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 22,
+    "cuisine": "british",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -5189,17 +5186,15 @@
   },
   {
     "slug": "warm-middle-eastern-almond-knafeh",
-    "title": "Warm Middle Eastern Almond Knafeh",
+    "title": "Warm Knafeh with Almond Crunch",
     "tags": [
-      "almond-butter",
-      "brunch",
-      "flexitarian",
-      "middle-eastern",
-      "nuka-pickle",
-      "phyllo-dough"
+      "middle eastern",
+      "dessert",
+      "knafeh",
+      "almond"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 55,
+    "totalTimeMin": 22,
     "shard": "w"
   },
   {
@@ -16072,17 +16067,15 @@
   },
   {
     "slug": "wildly-charred-vietnamese-vegetable-noodles",
-    "title": "Wildly Charred Vietnamese Vegetable Noodles",
+    "title": "Charred Vietnamese Noodle Salad",
     "tags": [
-      "charred-vegetables",
-      "high-fiber",
-      "one-pan",
-      "quick-meal",
-      "vegetarian-friendly",
-      "vietnamese-cuisine"
+      "veggies",
+      "noodles",
+      "salad",
+      "vietnamese"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "w"
   },
   {
