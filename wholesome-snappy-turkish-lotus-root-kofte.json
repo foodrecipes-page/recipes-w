@@ -1,0 +1,74 @@
+{
+  "slug": "wholesome-snappy-turkish-lotus-root-kofte",
+  "title": "Turkish Kofte with Root Vegetable Stew",
+  "description": "A hearty, flavorful stew originating from Turkey, featuring kofte meatballs and a variety of root vegetables. Perfect for a cold evening.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkish kofte",
+      "amount": "500g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "root (carrot, beet, parsnip)",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "lotus root",
+      "amount": "1 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "wholesome olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "snappy paprika",
+      "amount": "1 tsp",
+      "notes": "for spice"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add chopped onion and sauté until softened.",
+    "Add chopped carrots, beets, and parsnips; cook for 5 minutes.",
+    "Add sliced lotus root; cook for an additional 5 minutes.",
+    "Add kofte meatballs and stir to combine.",
+    "Season with paprika and cook for 10 minutes.",
+    "Simmer the stew for 20-25 minutes or until the vegetables are tender.",
+    "Serve hot, garnished with fresh herbs (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "turkish",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-snappy-turkish-lotus-root-kofte",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:10:57.462Z"
+}
