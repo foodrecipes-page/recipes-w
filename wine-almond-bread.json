@@ -1,0 +1,92 @@
+{
+  "slug": "wine-almond-bread",
+  "title": "Bread and Almond Wine Stew",
+  "description": "A hearty stew made with bread, almonds, and wine, perfect for a cold winter night. This stew is a twist on traditional bread soups.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "2 cups, cubed",
+      "notes": "any type of bread works, but rustic bread is best"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1 cup, sliced",
+      "notes": "you can use slivered or sliced almonds, whichever you prefer"
+    },
+    {
+      "name": "Wine",
+      "amount": "1 cup",
+      "notes": "dry white wine works best, such as chardonnay or sauvignon blanc"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium, chopped",
+      "notes": "any type of onion works, but sweet onion is best"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves, minced",
+      "notes": "you can use more or less garlic to taste"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": "you can use store-bought or homemade broth"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "use kosher salt or sea salt for best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground pepper is always best"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional, but adds a nice fresh flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the sliced almonds and toast for 2-3 minutes, or until fragrant.",
+    "Add the cubed bread and stir to combine with the almonds and onion mixture.",
+    "Pour in the wine and chicken broth, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes, or until the bread is fully saturated.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Note: you can also make this stew in a slow cooker. Simply brown the onion and garlic in a pan, then transfer everything to the slow cooker and cook on low for 2-3 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "stew",
+    "bread",
+    "almonds",
+    "wine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wine-almond-bread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:08:36.461Z"
+}
