@@ -1,0 +1,90 @@
+{
+  "slug": "warm-crisp-indian-kidney-beans-rajma",
+  "title": "Rajma Masala",
+  "description": "A popular North Indian dish made with kidney beans and spices. Serve over basmati rice or with naan bread.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "1 cup, drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch, grated"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp, ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp, ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp, ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion, garlic, and ginger. Cook until onion is translucent.",
+    "Add cumin, coriander, turmeric, and cayenne pepper. Cook for 1 minute.",
+    "Add tomato and cook until it breaks down.",
+    "Add kidney beans, salt, bay leaves, and water. Bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Garnish with chopped cilantro and serve over basmati rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crisp-indian-kidney-beans-rajma",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:28:07.863Z"
+}
