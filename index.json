@@ -6373,18 +6373,15 @@
   },
   {
     "slug": "warm-salted-canadian-scamorza-bake",
-    "title": "Warm Salted Canadian Scamorza Bake",
+    "title": "Canadian-Style Scamorza Bake",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "high-protein",
-      "macrobiotic-friendly",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "canadian",
+      "scamorza",
+      "bake",
+      "cheese"
     ],
-    "cuisine": "canadian",
-    "totalTimeMin": 22,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
