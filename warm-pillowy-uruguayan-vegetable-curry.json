@@ -1,0 +1,94 @@
+{
+  "slug": "warm-pillowy-uruguayan-vegetable-curry",
+  "title": "Uruguayan Curry Vegetable Empanadas",
+  "description": "Warm, pillowy empanadas filled with a flavorful Uruguayan-inspired curry vegetable mixture.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "warm water",
+      "amount": "1/4 cup",
+      "notes": "for dough hydration"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tbsp",
+      "notes": "for curry filling"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "for curry filling"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "for curry filling"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "for curry filling"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "for curry filling"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Combine flour and salt in a bowl.",
+    "Gradually add warm water to form a dough.",
+    "Knead dough for 5 minutes.",
+    "Divide dough into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a spoonful of curry filling in the center of each circle.",
+    "Fold dough in half and press edges to seal.",
+    "Heat oil in a pan over medium heat.",
+    "Fry empanadas until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "curry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-pillowy-uruguayan-vegetable-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:40:28.364Z"
+}
