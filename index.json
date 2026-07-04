@@ -1381,15 +1381,13 @@
   },
   {
     "slug": "warm-crisp-indian-kidney-beans-rajma",
-    "title": "Warm Crisp Indian Kidney Beans Rajma",
+    "title": "Rajma Masala",
     "tags": [
-      "clay-pot-cooking",
-      "crispy-texture",
-      "date-night",
-      "indian-cuisine",
-      "low-sodium"
+      "indian",
+      "vegetarian",
+      "beans"
     ],
-    "cuisine": "Indian",
+    "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "w"
   },
@@ -4563,18 +4561,16 @@
   },
   {
     "slug": "warm-jammy-french-semolina-eclair",
-    "title": "Warm Jammy French Semolina Eclair",
+    "title": "Warm French Semolina Pudding",
     "tags": [
-      "bain-marie",
-      "basque-french",
       "dessert",
-      "jammy",
-      "satvik",
+      "pudding",
       "semolina",
-      "warm"
+      "warm",
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 60,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -11402,19 +11398,15 @@
   },
   {
     "slug": "warmly-sliced-german-pork-pastrami",
-    "title": "Warmly Sliced German Pork Pastrami",
+    "title": "Warm German Pastrami Panini",
     "tags": [
-      "finger-food",
-      "german-cuisine",
-      "high-protein",
-      "lacto-vegetarian",
-      "one-pan",
-      "pastrami",
-      "sesame-butter",
-      "weeknight-dinner"
+      "german",
+      "sandwich",
+      "lunch",
+      "pastrami"
     ],
     "cuisine": "german",
-    "totalTimeMin": 65,
+    "totalTimeMin": 11,
     "shard": "w"
   },
   {
