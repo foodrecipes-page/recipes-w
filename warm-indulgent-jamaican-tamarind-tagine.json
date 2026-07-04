@@ -1,0 +1,97 @@
+{
+  "slug": "warm-indulgent-jamaican-tamarind-tagine",
+  "title": "Jamaican Tamarind Chicken Tagine",
+  "description": "A warm, indulgent, and flavorful dish from the heart of Jamaica, this chicken tagine is cooked to perfection with the rich flavors of tamarind.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown chicken on all sides, about 5-7 minutes. Remove from pot.",
+    "Add onion, garlic, and ginger; cook, stirring occasionally, until onion is softened, about 5 minutes.",
+    "Add cumin, coriander, and cayenne pepper (if using); cook for 1 minute.",
+    "Add tamarind paste; cook, stirring constantly, for 1 minute.",
+    "Add chicken broth and bring to a boil.",
+    "Return chicken to pot, cover, and transfer to oven.",
+    "Bake at 300°F (150°C) for 30-40 minutes or until chicken is cooked through.",
+    "Let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "tagine",
+    "chicken",
+    "tamarind",
+    "warm",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-indulgent-jamaican-tamarind-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:54:08.480Z"
+}
