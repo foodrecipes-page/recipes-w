@@ -1,0 +1,96 @@
+{
+  "slug": "warm-spicy-filipino-pork-wrap",
+  "title": "Filipino Pork Adobo Wrap",
+  "description": "A flavorful twist on traditional wraps, this Filipino pork adobo wrap combines tender pork, tangy sauce, and crunchy veggies in a warm and spicy tortilla.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pork",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1/4 cup",
+      "notes": "apple cider vinegar"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Spinach",
+      "amount": "handful",
+      "notes": "chopped"
+    },
+    {
+      "name": "Warm flour tortilla",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Spicy mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat 2 tablespoons of oil over medium heat.",
+    "Add the pork and cook until browned, about 5 minutes.",
+    "Add the vinegar, soy sauce, garlic, onion, tomato, and bell pepper.",
+    "Stir well and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 10 minutes.",
+    "Stir in the chopped spinach and cook for 1 minute.",
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spooning the pork mixture onto the tortilla.",
+    "Drizzle with spicy mayonnaise and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "filipino",
+    "wrap",
+    "warm",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-filipino-pork-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:14:24.893Z"
+}
