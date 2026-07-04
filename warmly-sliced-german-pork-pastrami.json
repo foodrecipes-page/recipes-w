@@ -1,0 +1,67 @@
+{
+  "slug": "warmly-sliced-german-pork-pastrami",
+  "title": "Warm German Pastrami Panini",
+  "description": "A simple and delicious panini recipe featuring thinly sliced pastrami, served with a side of spicy mustard.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pastrami",
+      "amount": "4 oz",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Warm German Rye Bread",
+      "amount": "4 slices",
+      "notes": "Sliced about 1 inch thick"
+    },
+    {
+      "name": "Swiss Cheese",
+      "amount": "2 slices",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Spicy Mustard",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "Butter or Non-Stick Cooking Spray",
+      "amount": "as needed",
+      "notes": "For panini press"
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press or grill to medium-high heat.",
+    "Butter or spray one side of each bread slice.",
+    "Place one slice of bread, butter-side down, in the panini press.",
+    "Top with a slice of pastrami, a slice of cheese, and another slice of bread, butter-side up.",
+    "Cook for 3-4 minutes, or until the bread is golden brown and the cheese is melted.",
+    "Repeat with the remaining bread slices and filling ingredients.",
+    "Serve immediately with spicy mustard on the side."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "sandwich",
+    "lunch",
+    "pastrami"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-sliced-german-pork-pastrami",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:34:36.609Z"
+}
