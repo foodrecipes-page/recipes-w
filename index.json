@@ -1577,17 +1577,15 @@
   },
   {
     "slug": "warm-crispy-british-cream-scones-clotted-cream",
-    "title": "Warm Crispy British Cream Scones Clotted Cream",
+    "title": "British Cream Tea Scones",
     "tags": [
-      "black-tea",
-      "british-classic",
-      "clotted-cream",
-      "crispy-scones",
-      "romantic-breakfast",
-      "tamasic-friendly"
+      "british",
+      "tea-time",
+      "scones",
+      "clotted-cream"
     ],
     "cuisine": "British",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -8033,16 +8031,16 @@
   },
   {
     "slug": "warm-spicy-ethiopian-tomato-gored-gored",
-    "title": "Warm Spicy Ethiopian Tomato Gored Gored",
+    "title": "Spicy Ethiopian Tibs",
     "tags": [
-      "african-cuisine",
-      "comfort-food",
-      "one-pot",
+      "authentic",
+      "ethtiopian",
       "spicy",
-      "vegan"
+      "stir-fry",
+      "lunch"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -14567,16 +14565,14 @@
   },
   {
     "slug": "wholesome-mustardy-shaggy-mustard-pilaf",
-    "title": "Wholesome Mustardy Shaggy Mustard Pilaf",
+    "title": "Mustardy Pilaf with Wholesome Veggies",
     "tags": [
-      "fennel-seeds",
-      "low-glycemic",
-      "mustard-dish",
-      "mustardy-german",
-      "shaggy-pilaf"
+      "healthy",
+      "easy-dinner",
+      "vegetarian-pilaf"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 200,
+    "cuisine": "Middle Eastern-inspired",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -17214,17 +17210,15 @@
   },
   {
     "slug": "winey-gooey-brazilian-fish-papillote",
-    "title": "Winey Gooey Brazilian Fish Papillote",
+    "title": "Braised Fish Papillote with Gooey Glaze",
     "tags": [
-      "anti-inflammatory",
-      "brazilian-cuisine",
-      "fish-dish",
-      "lazy-sunday",
-      "papillote-recipe",
-      "wine-sauce"
+      "brazilian",
+      "fish",
+      "papillote",
+      "glaze"
     ],
     "cuisine": "brazilian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 22,
     "shard": "w"
   },
   {
