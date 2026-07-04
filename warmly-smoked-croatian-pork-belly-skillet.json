@@ -1,0 +1,95 @@
+{
+  "slug": "warmly-smoked-croatian-pork-belly-skillet",
+  "title": "Smoked Pork Belly Skillet",
+  "description": "A hearty, flavorful skillet dish featuring tender smoked pork belly, perfect for a satisfying dinner.",
+  "cuisine": "American",
+  "diet": [
+    "meat",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked pork belly",
+      "amount": "1 lb",
+      "notes": "Pre-cooked and sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Apples",
+      "amount": "1 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": "For glaze"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp",
+      "notes": "For glaze"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until caramelized (5-7 minutes).",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced apple and cook for an additional 2 minutes.",
+    "Add the sliced smoked pork belly and stir to coat with the onion mixture.",
+    "In a small bowl, whisk together the brown sugar, Dijon mustard, salt, and black pepper.",
+    "Brush the glaze over the pork belly and continue to cook for 2-3 minutes.",
+    "Remove the skillet from the heat and garnish with chopped parsley (if using).",
+    "Serve the smoked pork belly skillet hot, sliced into thick strips.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked-pork-belly",
+    "skillet-dinner",
+    "american-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-smoked-croatian-pork-belly-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:08:50.779Z"
+}
