@@ -1,0 +1,91 @@
+{
+  "slug": "wildly-spicy-mexican-chicken-tacos",
+  "title": "Wildly Spicy Chicken Tacos",
+  "description": "A spicy twist on traditional tacos, featuring crispy chicken and a bold mix of spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "wild onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "jalepeno peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "1/4 cup",
+      "notes": "diced, in adobo sauce"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with cumin, chili powder, and salt.",
+    "Heat a skillet over medium-high heat. Add chicken and cook until browned, about 5-7 minutes.",
+    "Transfer the chicken to the oven and cook until cooked through, about 10-12 minutes.",
+    "While the chicken cooks, heat the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "In a separate pan, heat the diced chipotle peppers in adobo sauce over medium heat.",
+    "Add the sliced jalepeno peppers to the pan and cook until slightly softened, about 2-3 minutes.",
+    "Add the chopped wild onions to the pan and cook until slightly softened, about 2-3 minutes.",
+    "Shred the cooked chicken and add it to the pan with the onion and pepper mixture.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the chicken and pepper mixture onto a tortilla, topping with shredded cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tacos",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wildly-spicy-mexican-chicken-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:33:38.813Z"
+}
