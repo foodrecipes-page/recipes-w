@@ -1,0 +1,94 @@
+{
+  "slug": "warm-massaman-british-fish-curry",
+  "title": "British Massaman Fish Curry",
+  "description": "A British take on the traditional Thai Massaman curry, featuring fish as the main ingredient.",
+  "cuisine": "british",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillets",
+      "amount": "400g",
+      "notes": "Any firm white fish works well (e.g. cod, haddock)"
+    },
+    {
+      "name": "Massaman Curry Paste",
+      "amount": "2 tbsp",
+      "notes": "Available in most supermarkets"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "200ml",
+      "notes": "Full-fat for richer flavor"
+    },
+    {
+      "name": "Fish Stock",
+      "amount": "150ml",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh Coriander",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Warm Water",
+      "amount": "100ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large pan over medium heat.",
+    "2. Add the onion and cook until softened (5 minutes).",
+    "3. Add the garlic and cook for 1 minute.",
+    "4. Add the Massaman curry paste and cook for 1 minute.",
+    "5. Add the fish stock and bring to a simmer.",
+    "6. Add the coconut milk and stir to combine.",
+    "7. Add the fish fillets and cook for 8-10 minutes or until cooked through.",
+    "8. Season with salt, black pepper, and chopped coriander.",
+    "9. Serve hot with warm rice or naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "curry",
+    "fish",
+    "massaman"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-massaman-british-fish-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:51:59.748Z"
+}
