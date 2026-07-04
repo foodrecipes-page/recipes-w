@@ -1,0 +1,78 @@
+{
+  "slug": "warm-british-eggs-scotch-egg",
+  "title": "Classic Scotch Egg Recipe",
+  "description": "A traditional British snack made with a hard-boiled egg wrapped in a layer of sausage meat, breaded and deep-fried. A delicious and satisfying treat.",
+  "cuisine": "British",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "pork sausage meat",
+      "amount": "250g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "100g"
+    },
+    {
+      "name": "beaten egg",
+      "amount": "1"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "100g"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "oil for frying",
+      "amount": "1-2 liters"
+    }
+  ],
+  "instructions": [
+    "1. Bring a large pan of water to the boil and add a pinch of salt. Gently place the eggs into the water and cook for 6-7 minutes.",
+    "2. Remove the eggs from the water with a slotted spoon and transfer to a bowl of ice water to cool.",
+    "3. Once the eggs have cooled, crack them gently and peel off the shells.",
+    "4. Divide the sausage meat into 4 equal pieces and flatten each one into a thin patty.",
+    "5. Place a peeled egg in the center of each patty and wrap the meat around it, making sure to seal the egg completely.",
+    "6. Dip each Scotch egg into the flour, shaking off any excess, then into the beaten egg and finally into the panko breadcrumbs, pressing the crumbs gently onto the meat to help them stick.",
+    "7. Heat the oil in a deep frying pan to 180°C (350°F). Fry the Scotch eggs in batches for 4-5 minutes on each side, or until golden brown and crispy.",
+    "8. Remove the Scotch eggs from the oil with a slotted spoon and place them on a paper towel-lined plate to drain any excess oil.",
+    "9. Serve the Scotch eggs hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "snack",
+    "breakfast",
+    "scotch-egg",
+    "egg"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-british-eggs-scotch-egg",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:38:32.738Z"
+}
