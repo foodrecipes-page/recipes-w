@@ -1,0 +1,76 @@
+{
+  "slug": "warm-smoky-peruvian-smoked-haddock-ceviche",
+  "title": "Smoked Haddock Ceviche",
+  "description": "A Peruvian-inspired dish featuring smoked haddock marinated in lime juice and mixed with aromatic spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked haddock",
+      "amount": "6 oz",
+      "notes": "Fresh, skin removed"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Aji amarillo pepper",
+      "amount": "1/2 tsp",
+      "notes": "Diced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cut the smoked haddock into small pieces.",
+    "In a large bowl, combine the haddock, red onion, cilantro, lime juice, aji amarillo pepper, and ginger.",
+    "Mix well to combine.",
+    "Season with salt to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Before serving, stir in the chopped cilantro.",
+    "Serve the ceviche chilled, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "ceviche",
+    "haddock",
+    "smoked-haddock"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-peruvian-smoked-haddock-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:20:14.881Z"
+}
