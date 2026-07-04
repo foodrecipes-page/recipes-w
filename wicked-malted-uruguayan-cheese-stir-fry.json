@@ -1,0 +1,95 @@
+{
+  "slug": "wicked-malted-uruguayan-cheese-stir-fry",
+  "title": "Uruguayan Malted Stir-Fry",
+  "description": "A quick and easy stir-fry dish blending Uruguayan and Western flavors.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wicked peppers",
+      "amount": "1 cup",
+      "notes": "any color"
+    },
+    {
+      "name": "malted soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "uruguayan cheese",
+      "amount": "1 cup shredded",
+      "notes": "optional"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fry oil",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "fry vegetables",
+      "amount": "1 cup",
+      "notes": "any color"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large skillet over medium-high heat.",
+    "Add the onion and garlic; cook until softened.",
+    "Add the peppers, cheese, and fry vegetables; cook until the vegetables are tender.",
+    "Stir in the soy sauce, malted soy sauce, salt, and pepper.",
+    "Cook for an additional 2 minutes.",
+    "Serve immediately over rice or noodles.",
+    "Garnish with additional cheese, if desired.",
+    "Serve 4-6 servings.",
+    "Store leftovers in the fridge for up to 3 days.",
+    "Reheat in the microwave or on the stovetop before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "stir-fry",
+    "cheese",
+    "soy-sauce"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wicked-malted-uruguayan-cheese-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:37:24.109Z"
+}
