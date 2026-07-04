@@ -1,0 +1,80 @@
+{
+  "slug": "warm-jammy-french-semolina-eclair",
+  "title": "Warm French Semolina Pudding",
+  "description": "A comforting dessert made with semolina, warm milk, and a hint of jammy flavor.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup",
+      "notes": "fine or medium semolina"
+    },
+    {
+      "name": "warm milk",
+      "amount": "2 cups",
+      "notes": "whole milk or low-fat milk"
+    },
+    {
+      "name": "jammy doughnut",
+      "amount": "1/2",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "eclair pastry",
+      "amount": "1/4 cup",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium saucepan, combine semolina, warm milk, and salt. Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Reduce heat to low and simmer, stirring constantly, for 5-7 minutes or until the semolina is cooked and the mixture has thickened.",
+    "Remove from heat and stir in softened butter and granulated sugar until well combined.",
+    "Pour the pudding mixture into 4-6 individual serving cups.",
+    "Bake for 15-20 minutes or until the puddings are set and lightly golden brown.",
+    "Remove from oven and let cool for a few minutes.",
+    "Serve warm, garnished with optional jammy doughnut or eclair pastry pieces."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "pudding",
+    "semolina",
+    "warm",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-jammy-french-semolina-eclair",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:14:13.489Z"
+}
