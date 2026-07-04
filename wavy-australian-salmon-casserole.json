@@ -1,0 +1,67 @@
+{
+  "slug": "wavy-australian-salmon-casserole",
+  "title": "Grilled Salmon with Wavy Fries",
+  "description": "A simple yet flavorful dish featuring grilled salmon paired with crispy wavy fries. Perfect for a quick and easy dinner.",
+  "cuisine": null,
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Wavy potatoes",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Australian olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the salmon fillets with salt and pepper.",
+    "Grill the salmon for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, cut the wavy potatoes into fry shapes.",
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the wavy potatoes to the pan and cook for 5-7 minutes, or until crispy and golden brown.",
+    "Serve the grilled salmon with wavy fries."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "salmon",
+    "fries",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wavy-australian-salmon-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:40:44.281Z"
+}
