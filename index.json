@@ -5177,17 +5177,13 @@
   },
   {
     "slug": "warm-mexican-yam-soup",
-    "title": "Warm Mexican Yam Soup",
+    "title": "Roasted Yam Soup",
     "tags": [
-      "easy",
-      "gluten-free",
+      "soup",
       "mexican",
-      "souper",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "yam"
     ],
-    "cuisine": "Mexican",
+    "cuisine": "mexican",
     "totalTimeMin": 50,
     "shard": "w"
   },
@@ -5853,16 +5849,14 @@
   },
   {
     "slug": "warm-pillowy-uruguayan-vegetable-curry",
-    "title": "Warm Pillowy Uruguayan Vegetable Curry",
+    "title": "Uruguayan Curry Vegetable Empanadas",
     "tags": [
-      "comfort-food",
-      "one-pan",
-      "ovo-vegetarian",
-      "uruguayan-cuisine",
-      "weeknight"
+      "empanadas",
+      "curry",
+      "vegetarian"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -15657,15 +15651,14 @@
   },
   {
     "slug": "wholesome-wholesome-thai-butternut-squash-ji-jeen",
-    "title": "Wholesome Wholesome Thai Butternut Squash Ji Jeen",
+    "title": "Ji Jeen Butternut Squash Curry",
     "tags": [
-      "anti-inflammatory",
-      "buttery",
-      "silky",
-      "thai-dish"
+      "curry",
+      "thaicuisine",
+      "vegetarian"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
