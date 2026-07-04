@@ -1,0 +1,82 @@
+{
+  "slug": "warm-middle-eastern-almond-knafeh",
+  "title": "Warm Knafeh with Almond Crunch",
+  "description": "A Middle Eastern-inspired dessert featuring warm knafeh topped with a crunchy almond mixture.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "dairy",
+    "nut"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Knafeh dough",
+      "amount": "1 package (16 oz)",
+      "notes": "available at middle eastern markets"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Almond slivers",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rose water",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Pistachio meal",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the knafeh dough into small pieces and place on a baking sheet.",
+    "Bake for 10-12 minutes or until golden brown.",
+    "While the knafeh is baking, mix together the almond slivers, confectioners' sugar, and pistachio meal (if using).",
+    "Remove the knafeh from the oven and top with the almond mixture.",
+    "Drizzle with rose water (if using) and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle eastern",
+    "dessert",
+    "knafeh",
+    "almond"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-middle-eastern-almond-knafeh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:39:04.087Z"
+}
