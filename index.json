@@ -7311,17 +7311,14 @@
   },
   {
     "slug": "warm-smoky-peruvian-hearts-anticuchos",
-    "title": "Warm Smoky Peruvian Hearts Anticuchos",
+    "title": "Peruvian Anticuchos",
     "tags": [
-      "appetizer",
       "grilled",
-      "peruvian",
-      "smoky",
-      "south-american",
-      "vegetarian"
+      "skewers",
+      "beef-heart"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -10162,18 +10159,15 @@
   },
   {
     "slug": "warm-wholesome-polish-cheese-casserole",
-    "title": "Warm Wholesome Polish Cheese Casserole",
+    "title": "Polish Cheese Casserole",
     "tags": [
-      "cheese-lovers",
-      "comfort-food",
-      "diabetic-friendly",
-      "garlic-lovers",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "polish",
+      "cheese",
+      "casserole",
+      "comfort-food"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -14998,17 +14992,19 @@
   },
   {
     "slug": "wholesome-smoky-canadian-tofu-bowl",
-    "title": "Wholesome Smoky Canadian Tofu Bowl",
+    "title": "Canadian-Style Smoky Tofu Bowl",
     "tags": [
-      "easy",
-      "macrobiotic",
-      "one-pan",
-      "quick",
-      "smoked",
-      "vegan"
+      "canadian",
+      "smoky",
+      "tofu",
+      "bowls",
+      "lunch",
+      "quinoa",
+      "sweet-potatoes",
+      "black-beans"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
