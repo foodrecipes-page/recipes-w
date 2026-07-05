@@ -1,0 +1,79 @@
+{
+  "slug": "warm-silky-dutch-yeast-pancakes",
+  "title": "Dutch Pancake Delight",
+  "description": "A classic Dutch pancake recipe with a fluffy and warm texture, perfect for a cold morning.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "Use high-quality flour for the best texture"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "Active dry yeast is recommended"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "Whole milk is preferred for richness"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "Room temperature eggs for better mixing"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "2 tablespoons",
+      "notes": "Use high-quality butter for flavor"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Use kosher salt for best flavor"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine flour, yeast, and salt.",
+    "2. In a separate bowl, whisk together milk, eggs, and melted butter.",
+    "3. Add the wet ingredients to the dry ingredients and mix until just combined.",
+    "4. Knead the dough for 5-7 minutes until smooth and elastic.",
+    "5. Place the dough in a greased bowl, cover with plastic wrap, and let rise in a warm place for 1 hour, or until doubled in size.",
+    "6. Preheat a non-stick skillet or Dutch oven over medium heat.",
+    "7. Once hot, add a small amount of butter or oil to the pan.",
+    "8. Using a 1/4 cup measuring cup, scoop the dough into the pan and cook for 2-3 minutes, or until bubbles appear on the surface and the edges start to dry.",
+    "9. Loosen the pancake with a spatula and flip over. Cook for an additional 1-2 minutes, or until golden brown.",
+    "10. Serve warm with your favorite toppings, such as powdered sugar, fresh fruit, or whipped cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "pancake",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-silky-dutch-yeast-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T16:39:11.158Z"
+}
