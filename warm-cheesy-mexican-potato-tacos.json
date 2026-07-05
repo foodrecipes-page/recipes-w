@@ -1,0 +1,99 @@
+{
+  "slug": "warm-cheesy-mexican-potato-tacos",
+  "title": "Cheesy Potato Tacos",
+  "description": "A twist on traditional tacos, these cheesy potato tacos are a flavorful and satisfying meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup shredded",
+      "notes": "cheddar or Monterey Jack work well"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10 corn",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": "mild or hot, your choice"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, toss diced potatoes with 1 tablespoon of vegetable oil, 1 teaspoon of cumin, 1/2 teaspoon of chili powder, 1/4 teaspoon of salt, and 1/4 teaspoon of pepper until coated.",
+    "Spread potatoes on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "In a large skillet, heat 1 tablespoon of vegetable oil over medium heat.",
+    "Add taco seasoning packet and stir for 1 minute.",
+    "Add roasted potatoes to skillet and stir to coat with taco seasoning.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning potato mixture onto a tortilla and topping with shredded cheese, salsa, and sour cream (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "potatoes",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-cheesy-mexican-potato-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T19:32:13.886Z"
+}
