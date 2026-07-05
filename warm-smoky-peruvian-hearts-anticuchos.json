@@ -1,0 +1,78 @@
+{
+  "slug": "warm-smoky-peruvian-hearts-anticuchos",
+  "title": "Peruvian Anticuchos",
+  "description": "A traditional Peruvian dish, these anticuchos are grilled beef heart skewers that are tender, flavorful, and full of warm, smoky goodness.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef heart",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the beef heart into 1-inch pieces.",
+    "In a medium bowl, whisk together the soy sauce, brown sugar, garlic, red pepper flakes, black pepper, and salt.",
+    "Add the beef heart pieces to the marinade and mix until they are well coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Thread 4-6 pieces of the marinated beef heart onto each skewer.",
+    "Preheat your grill to medium-high heat.",
+    "Grill the anticuchos for 5-7 minutes per side, or until they are cooked to your desired level of doneness.",
+    "Serve the anticuchos hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skewers",
+    "beef-heart"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-peruvian-hearts-anticuchos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T07:56:53.278Z"
+}
