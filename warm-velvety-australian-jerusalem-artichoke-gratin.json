@@ -1,0 +1,80 @@
+{
+  "slug": "warm-velvety-australian-jerusalem-artichoke-gratin",
+  "title": "Jerusalem Artichoke Gratin",
+  "description": "A creamy, warm gratin featuring the earthy flavor of Jerusalem artichokes. A simple yet satisfying side dish.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "1 1/2 pounds",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Velvety butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "plus more for brushing"
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large saucepan, combine sliced artichokes, velvety butter, garlic, salt, and pepper. Cook over medium heat, stirring occasionally, until the artichokes are tender and lightly browned, about 15-20 minutes.",
+    "In a separate saucepan, heat the heavy cream over medium heat until it starts to simmer.",
+    "In a greased 9x13-inch baking dish, arrange a layer of artichoke mixture. Sprinkle with half of the grated cheddar cheese.",
+    "Pour the warm heavy cream over the cheese, then top with the remaining artichoke mixture and the remaining cheddar cheese.",
+    "Brush the edges of the dish with additional heavy cream and sprinkle with chopped thyme (if using).",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown and the gratin is bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "vegetarian",
+    "side-dish",
+    "gratin",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-velvety-australian-jerusalem-artichoke-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T13:30:39.528Z"
+}
