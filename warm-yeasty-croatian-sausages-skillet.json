@@ -1,0 +1,84 @@
+{
+  "slug": "warm-yeasty-croatian-sausages-skillet",
+  "title": "Croatian Sausage Skillet",
+  "description": "A hearty and flavorful skillet dish inspired by Croatian cuisine, featuring warm, yeasty sausage and a variety of spices.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Croatian Sausages",
+      "amount": "4",
+      "notes": "warm, yeasty, 1/4 pound each"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "medium, chopped"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1",
+      "notes": "medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2",
+      "notes": "cloves, minced"
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "",
+      "notes": "optional, for some heat"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add 1 tablespoon of oil to the skillet and swirl it around.",
+    "Add the chopped onion to the skillet and cook for 5 minutes, until softened.",
+    "Add the chopped bell pepper to the skillet and cook for an additional 5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the Croatian sausages to the skillet and cook for 5-7 minutes, until browned.",
+    "Season the sausage with salt, black pepper, and chili flakes to taste.",
+    "Serve the sausage and vegetables hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sausage",
+    "skillet",
+    "breakfast",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-yeasty-croatian-sausages-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T22:21:49.728Z"
+}
