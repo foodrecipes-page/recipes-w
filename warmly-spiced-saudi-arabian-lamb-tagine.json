@@ -1,0 +1,105 @@
+{
+  "slug": "warmly-spiced-saudi-arabian-lamb-tagine",
+  "title": "Warmly Spiced Lamb Tagine",
+  "description": "A traditional Saudi Arabian dish made with tender lamb, aromatic spices, and a rich, flavorful broth.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "none"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Warmly Spiced Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of warmly spiced olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional minute.",
+    "Add the lamb cubes and cook until browned on all sides, about 5-7 minutes.",
+    "Add the cumin, cinnamon, turmeric, salt, and black pepper. Cook for 1 minute.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Add the chopped dried apricots and continue to simmer for an additional 10-15 minutes.",
+    "Serve hot, garnished with fresh parsley or cilantro, if desired.",
+    "Note: Warmly Spiced Olive Oil can be made by mixing 1/4 cup of olive oil with 1 tablespoon of cumin, 1 tablespoon of cinnamon, and 1/2 teaspoon of turmeric. Let sit at room temperature for at least 30 minutes to allow the flavors to meld."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "saudi-arabian",
+    "lamb",
+    "tagine",
+    "arabian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 20,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-saudi-arabian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T16:26:41.468Z"
+}
