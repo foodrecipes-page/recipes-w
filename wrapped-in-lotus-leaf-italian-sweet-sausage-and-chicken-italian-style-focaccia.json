@@ -1,0 +1,76 @@
+{
+  "slug": "wrapped-in-lotus-leaf-italian-sweet-sausage-and-chicken-italian-style-focaccia",
+  "title": "Grilled Italian Sausage and Chicken",
+  "description": "A summer-inspired dish featuring grilled Italian sausage and chicken, served with a side of sweet focaccia bread.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Italian Sausage",
+      "amount": "1 pound",
+      "notes": "look for sweet Italian sausage"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Sweet Focaccia Bread",
+      "amount": "1 loaf",
+      "notes": "or 4-6 individual focaccia rolls"
+    },
+    {
+      "name": "Lotus Leaf",
+      "amount": "1",
+      "notes": "for steaming"
+    },
+    {
+      "name": "Wrapped Italian Dressing",
+      "amount": "1 cup",
+      "notes": "you can make your own dressing using the ingredients"
+    },
+    {
+      "name": "Wrapped Focaccia Rolls",
+      "amount": "4-6",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the chicken and sausage with salt, pepper, and your favorite herbs.",
+    "Grill the chicken and sausage for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, preheat oven to 400°F (200°C).",
+    "Slice the focaccia into 1-inch thick slices and place on a baking sheet.",
+    "Drizzle the focaccia with Italian dressing and top with fresh basil leaves.",
+    "Bake the focaccia in the oven for 5-7 minutes, or until crispy and golden brown.",
+    "To assemble the dish, place a few slices of grilled chicken and sausage onto a plate, and serve with a side of sweet focaccia bread.",
+    "Optional: use a lotus leaf to steam the chicken and sausage for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "grilled",
+    "sausage",
+    "chicken",
+    "focaccia"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wrapped-in-lotus-leaf-italian-sweet-sausage-and-chicken-italian-style-focaccia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:19:22.572Z"
+}
