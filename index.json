@@ -8581,17 +8581,16 @@
   },
   {
     "slug": "warm-spicy-spanish-chicken-paella",
-    "title": "Warm Spicy Spanish Chicken Paella",
+    "title": "Spanish Chicken Paella",
     "tags": [
-      "chicken-dish",
-      "halal-friendly",
-      "one-pan",
-      "spanish-cuisine",
-      "spicy",
-      "weeknight"
+      "spanish",
+      "chicken",
+      "paella",
+      "one-pot",
+      "easy"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -12784,14 +12783,14 @@
   },
   {
     "slug": "whisked-sour-yogurt-pancake",
-    "title": "Whisked Sour Yogurt Pancake",
+    "title": "Sour Pancakes",
     "tags": [
-      "whisked",
-      "sour_yogurt_pancake",
-      "hangover_cure"
+      "breakfast",
+      "sweet",
+      "easy"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 7,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
