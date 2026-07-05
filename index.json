@@ -904,17 +904,15 @@
   },
   {
     "slug": "warm-cheesy-mexican-potato-tacos",
-    "title": "Warm Cheesy Mexican Potato Tacos",
+    "title": "Cheesy Potato Tacos",
     "tags": [
-      "coconut-cream-based",
-      "kid-friendly",
-      "mexican-inspired",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "mexican",
+      "tacos",
+      "potatoes",
+      "cheesy"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
