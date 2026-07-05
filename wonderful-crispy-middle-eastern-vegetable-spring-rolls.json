@@ -1,0 +1,89 @@
+{
+  "slug": "wonderful-crispy-middle-eastern-vegetable-spring-rolls",
+  "title": "Crispy Spring Vegetable Rolls",
+  "description": "A delicious and healthy snack or side dish, perfect for spring and summer. Simply fill crispy spring rolls with shredded vegetables and serve.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "spring roll wrappers",
+      "amount": "1 package",
+      "notes": "found in most supermarkets"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup",
+      "notes": "grate your own or use pre-shredded"
+    },
+    {
+      "name": "shredded zucchini",
+      "amount": "1 cup",
+      "notes": "use a food processor to shred"
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "1 cup",
+      "notes": "use a food processor to shred"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "add fresh herbs for flavor"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "add for a tangy flavor"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "use for frying"
+    }
+  ],
+  "instructions": [
+    "Fill a large bowl with warm water.",
+    "Soak spring roll wrappers for 5-10 minutes, or until soft and pliable.",
+    "In a separate bowl, mix together shredded carrots, zucchini, and cabbage.",
+    "Add chopped cilantro, soy sauce, and rice vinegar to the bowl and mix well.",
+    "Place a spring roll wrapper on a flat surface and add about 1 tablespoon of the vegetable mixture to the center.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with remaining wrappers and filling.",
+    "Heat about 1-2 inches of sesame oil in a large skillet or wok over medium-high heat.",
+    "When the oil is hot, add a few of the spring rolls to the skillet and fry until golden brown and crispy, about 2-3 minutes on each side.",
+    "Drain the spring rolls on paper towels and serve hot.",
+    "Serve with your favorite dipping sauce, such as peanut sauce or sweet chili sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "spring-rolls",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": "2g",
+    "carbs": "20g",
+    "fat": "6g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wonderful-crispy-middle-eastern-vegetable-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T18:44:20.704Z"
+}
