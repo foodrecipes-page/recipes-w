@@ -1,0 +1,74 @@
+{
+  "slug": "warm-wholesome-polish-cheese-casserole",
+  "title": "Polish Cheese Casserole",
+  "description": "A hearty, cheesy casserole with a warm and wholesome taste, inspired by Polish cuisine.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish cheese",
+      "amount": "1 cup, shredded",
+      "notes": "Look for a mix of cheddar and mozzarella for the best flavor"
+    },
+    {
+      "name": "Mashed potatoes",
+      "amount": "2 cups",
+      "notes": "Use leftover mashed potatoes for a convenient shortcut"
+    },
+    {
+      "name": "Caramelized onions",
+      "amount": "1 cup",
+      "notes": "Slow-cook sliced onions in butter until they're dark and sweet"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "Add a pop of color and freshness with chopped parsley"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Season to taste with salt and pepper"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "Use unsalted butter for a more delicate flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, cook the caramelized onions and butter over medium heat until heated through.",
+    "In a separate bowl, mix together the mashed potatoes, Polish cheese, and chopped parsley.",
+    "Transfer the potato mixture to a 9x13 inch baking dish.",
+    "Top the potato mixture with the caramelized onion mixture.",
+    "Dot the top with unsalted butter.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "cheese",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wholesome-polish-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T06:03:14.056Z"
+}
