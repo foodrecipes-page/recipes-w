@@ -1,0 +1,64 @@
+{
+  "slug": "warm-pillowy-norwegian-bread-toast",
+  "title": "Warm Norwegian Toast",
+  "description": "A simple and delicious breakfast recipe that combines the warmth of toasted bread with the richness of Norwegian flavors.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Warm Norwegian Bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Toast",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Sugar",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "Toast the Norwegian bread until it is lightly browned.",
+    "Butter the toasted bread with 1 tablespoon of butter.",
+    "Sprinkle a pinch of cinnamon and a pinch of sugar over the butter.",
+    "Optional: Sprinkle powdered sugar over the top for added sweetness.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy",
+    "bread",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-pillowy-norwegian-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:39:00.434Z"
+}
