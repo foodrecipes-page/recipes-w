@@ -1,0 +1,88 @@
+{
+  "slug": "wok-wok-steamed-syrian-clams-wrap",
+  "title": "Syrian Clam Wrap",
+  "description": "A flavorful and spicy Syrian-inspired wrap filled with steamed clams and served with a side of tangy slaw.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Clams",
+      "amount": "12 oz",
+      "notes": null
+    },
+    {
+      "name": "Wraps",
+      "amount": "4-6",
+      "notes": "large flour or wheat-free tortillas"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves minced",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp ground",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp ground",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Tzatziki sauce",
+      "amount": "for serving",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Rinse the clams and steam them until opened.",
+    "2. Mix the lime juice, garlic, cumin, paprika, salt, and pepper in a bowl.",
+    "3. Fill each wrap with a few clams, some sauce, and a sprinkle of cumin.",
+    "4. Serve immediately with tzatziki sauce on the side.",
+    "5. Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "syrian",
+    "seafood",
+    "wrap",
+    "clams",
+    "easy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wok-wok-steamed-syrian-clams-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:59:13.461Z"
+}
