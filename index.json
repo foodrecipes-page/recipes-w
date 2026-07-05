@@ -325,17 +325,15 @@
   },
   {
     "slug": "warm-briny-northern-thai-persian-cucumber-tom-yum",
-    "title": "Warm Briny Northern Thai Persian Cucumber Tom Yum",
+    "title": "Cucumber and Tom Yum Salad",
     "tags": [
-      "gluten-free",
-      "low-calorie",
-      "one-pot",
-      "soups",
-      "spicy",
-      "thai-cuisine"
+      "salad",
+      "thai-cuisine",
+      "vegan-option",
+      "gluten-free"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 10,
     "shard": "w"
   },
   {
@@ -2153,14 +2151,11 @@
   },
   {
     "slug": "warm-crunchy-german-minari-fritters",
-    "title": "Warm Crunchy German Minari Fritters",
+    "title": "German Fritters with Minari Slaw",
     "tags": [
-      "crunchy-snacks",
-      "double-fry",
-      "german-cuisine",
-      "kfc-style",
-      "shojin-friendly",
-      "vegetarian"
+      "german",
+      "veggie",
+      "snack"
     ],
     "cuisine": "German",
     "totalTimeMin": 35,
@@ -6496,15 +6491,11 @@
   },
   {
     "slug": "warm-silky-dutch-yeast-pancakes",
-    "title": "Warm Silky Dutch Yeast Pancakes",
+    "title": "Dutch Pancake Delight",
     "tags": [
-      "copper-mug",
-      "dairy-free",
-      "dutch-pancakes",
-      "pink-food",
-      "vegetarian",
-      "weeknight",
-      "yeast-batter"
+      "dutch",
+      "pancake",
+      "breakfast"
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 35,
@@ -12009,13 +12000,12 @@
   },
   {
     "slug": "warmly-spiced-saudi-arabian-lamb-tagine",
-    "title": "Warmly Spiced Saudi Arabian Lamb Tagine",
+    "title": "Warmly Spiced Lamb Tagine",
     "tags": [
-      "lamb-based",
-      "middle-eastern",
-      "one-pot",
-      "spicy",
-      "stew"
+      "saudi-arabian",
+      "lamb",
+      "tagine",
+      "arabian"
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 150,
