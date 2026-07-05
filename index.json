@@ -4860,17 +4860,16 @@
   },
   {
     "slug": "warm-light-australian-hake-bake",
-    "title": "Warm Light Australian Hake Bake",
+    "title": "Australian Baked Hake with Lemon and Herbs",
     "tags": [
-      "australian-cuisine",
-      "diabetic-friendly",
-      "low-carb",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "australian",
+      "baked",
+      "fish",
+      "lemon",
+      "herbs"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 22,
+    "cuisine": "australian",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -5783,17 +5782,15 @@
   },
   {
     "slug": "warm-pillowy-norwegian-bread-toast",
-    "title": "Warm Pillowy Norwegian Bread Toast",
+    "title": "Warm Norwegian Toast",
     "tags": [
-      "healthy-fats",
-      "macrobiotic-friendly",
-      "norwegian-cuisine",
-      "quick-fix",
-      "vegetarian",
-      "whole-grains"
+      "breakfast",
+      "easy",
+      "bread",
+      "warm"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 10,
     "shard": "w"
   },
   {
