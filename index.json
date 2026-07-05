@@ -11439,16 +11439,17 @@
   },
   {
     "slug": "warmly-spiced-algerian-mutton-tagine",
-    "title": "Warmly Spiced Algerian Mutton Tagine",
+    "title": "Algerian Mutton Tagine",
     "tags": [
       "algerian",
-      "high-protein",
-      "main-course",
-      "one-pan",
-      "weeknight"
+      "mutton",
+      "tagine",
+      "slow-cooked",
+      "stew",
+      "casseroles"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 145,
+    "totalTimeMin": 140,
     "shard": "w"
   },
   {
@@ -12157,17 +12158,15 @@
   },
   {
     "slug": "warmly-steamed-dutch-jerusalem-artichokes-pilaf",
-    "title": "Warmly Steamed Dutch Jerusalem Artichokes Pilaf",
+    "title": "Jerusalem Artichoke Pilaf with Steamed Artichokes",
     "tags": [
+      "mediterranean",
       "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "low-calorie",
-      "one-pan",
-      "weeknight"
+      "pilaf",
+      "artichokes"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 60,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -17803,18 +17802,16 @@
   },
   {
     "slug": "wonderful-crispy-middle-eastern-vegetable-spring-rolls",
-    "title": "Wonderful Crispy Middle Eastern Vegetable Spring Rolls",
+    "title": "Crispy Spring Vegetable Rolls",
     "tags": [
-      "crispy",
-      "meal-prep",
-      "middle-eastern",
-      "raw-friendly",
-      "snack",
+      "spring-rolls",
+      "vegetarian",
       "vegan",
-      "vegetarian"
+      "gluten-free",
+      "snack"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 30,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
