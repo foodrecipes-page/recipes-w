@@ -1,0 +1,98 @@
+{
+  "slug": "warm-spicy-malaysian-monkfish-curry",
+  "title": "Pan-Seared Monkfish in Spicy Malaysian Curry",
+  "description": "A flavorful and spicy dish inspired by Malaysian cuisine, featuring pan-seared monkfish in a rich and aromatic curry sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "monkfish fillets",
+      "amount": "4",
+      "notes": "Skin removed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For pan-frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": "Malaysian-style"
+    },
+    {
+      "name": "curry paste",
+      "amount": "1 tablespoon",
+      "notes": "Spicy"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "Full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a pan over medium-high heat.",
+    "Add the diced onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the curry powder and cook for 1-2 minutes, until fragrant.",
+    "Add the curry paste and cook for 1-2 minutes, until the oil separates.",
+    "Add the coconut milk, fish sauce (if using), and brown sugar (if using). Stir well to combine.",
+    "Bring the curry sauce to a simmer and cook for 5-7 minutes, until thickened.",
+    "Season the curry sauce with salt and pepper to taste.",
+    "Heat the remaining 1 tablespoon of coconut oil in a separate pan over medium-high heat.",
+    "Add the monkfish fillets and cook for 2-3 minutes on each side, until cooked through.",
+    "Serve the pan-seared monkfish in the spicy Malaysian curry sauce, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "fish",
+    "curry",
+    "spicy",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-malaysian-monkfish-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:07:19.564Z"
+}
