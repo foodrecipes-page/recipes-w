@@ -1,0 +1,96 @@
+{
+  "slug": "warm-spicy-spanish-chicken-paella",
+  "title": "Spanish Chicken Paella",
+  "description": "A classic Spanish dish, this one-pot wonder combines the flavors of saffron, smoked paprika, and juicy chicken for a hearty and satisfying meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "soaked in 2 tablespoons hot water"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the onion, garlic, and tomato, and cook until the onion is translucent, about 5 minutes.",
+    "Add the smoked paprika, saffron, and chicken broth, and stir to combine.",
+    "Add the rice and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove from heat and let rest for 5 minutes before serving.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with lemon wedges and chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "chicken",
+    "paella",
+    "one-pot",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-spanish-chicken-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T03:47:08.254Z"
+}
