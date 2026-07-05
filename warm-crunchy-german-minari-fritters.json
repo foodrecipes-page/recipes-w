@@ -1,0 +1,85 @@
+{
+  "slug": "warm-crunchy-german-minari-fritters",
+  "title": "German Fritters with Minari Slaw",
+  "description": "Crispy German-style fritters served with a refreshing minari slaw. A perfect snack for any time of the day.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": "around 90°F to 100°F"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Minari leaves",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 large",
+      "notes": "grated"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Crunchy breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the warm water, yeast, and sugar. Let it sit for 5-10 minutes.",
+    "Add the flour, salt, and vegetable oil to the bowl. Mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Heat the oil in a deep frying pan to 350°F.",
+    "Once the oil is hot, add the dough in small pieces, about 1 tablespoon each.",
+    "Fry the fritters for 2-3 minutes on each side, or until they are golden brown.",
+    "Drain the fritters on paper towels.",
+    "To make the slaw, combine the minari leaves, grated carrots, and thinly sliced onion in a bowl.",
+    "Drizzle the slaw with butter and toss to combine.",
+    "Serve the German fritters with the minari slaw on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "veggie",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crunchy-german-minari-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:22:07.847Z"
+}
