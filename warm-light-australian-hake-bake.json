@@ -1,0 +1,86 @@
+{
+  "slug": "warm-light-australian-hake-bake",
+  "title": "Australian Baked Hake with Lemon and Herbs",
+  "description": "A simple and flavorful Australian-inspired baked hake dish, topped with a mixture of lemon juice, olive oil, and herbs. Serve with a side of steamed vegetables or a salad for a light and refreshing meal.",
+  "cuisine": "australian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hake Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Slices",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Rinse the hake fillets and pat them dry with paper towels.",
+    "Season the hake with salt, pepper, and garlic powder.",
+    "Drizzle the olive oil over the hake fillets.",
+    "Top each hake fillet with a mixture of lemon juice, parsley, and thyme.",
+    "Place the hake fillets on the prepared baking sheet.",
+    "Bake the hake in the preheated oven for 12-15 minutes, or until cooked through.",
+    "Serve the hake hot with lemon slices on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "baked",
+    "fish",
+    "lemon",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-light-australian-hake-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:38:18.168Z"
+}
