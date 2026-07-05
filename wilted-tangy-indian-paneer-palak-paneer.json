@@ -1,0 +1,84 @@
+{
+  "slug": "wilted-tangy-indian-paneer-palak-paneer",
+  "title": "Creamy Palak Paneer",
+  "description": "A classic North Indian dish made with spinach and paneer in a rich and creamy sauce. Serve over naan or basmati rice for a delicious meal.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Palak",
+      "amount": "2 cups fresh spinach leaves"
+    },
+    {
+      "name": "Paneer",
+      "amount": "250g paneer, cut into small cubes",
+      "notes": "Make sure to squeeze out as much water as possible from the spinach"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp ghee or vegetable oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves garlic, minced",
+      "notes": "Mince the garlic and sauté it before adding the spinach"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece ginger, grated"
+    },
+    {
+      "name": "Kasoori methi",
+      "amount": "1 tsp kasoori methi (dried fenugreek leaves)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1 tsp red chili powder"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp cumin powder"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/4 cup heavy cream"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan and sauté the onions until they are translucent.",
+    "Add the ginger and garlic and sauté for another minute.",
+    "Add the spinach and cook until it has wilted.",
+    "Add the paneer, cumin powder, red chili powder, salt, and kasoori methi. Mix well.",
+    "Add the heavy cream and mix until the sauce thickens.",
+    "Simmer the sauce for 5 minutes.",
+    "Serve hot with naan or basmati rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "paneer",
+    "palak"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-tangy-indian-paneer-palak-paneer",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T23:18:17.353Z"
+}
