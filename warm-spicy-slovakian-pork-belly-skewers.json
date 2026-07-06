@@ -1,0 +1,79 @@
+{
+  "slug": "warm-spicy-slovakian-pork-belly-skewers",
+  "title": "Slovakian Pork Belly Skewers",
+  "description": "A flavorful and spicy dish originating from Slovakia, featuring marinated pork belly skewers grilled to perfection.",
+  "cuisine": "slovakian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "2 tbsp",
+      "notes": "spicy"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "for glaze"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together garlic, onion, red pepper flakes, honey, apple cider vinegar, and olive oil.",
+    "Add the pork belly cubes to the marinade and mix well.",
+    "Thread the marinated pork belly onto skewers.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes per side, or until the internal temperature reaches 160°F (71°C).",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork",
+    "belly",
+    "skewers",
+    "spicy",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-slovakian-pork-belly-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T06:23:58.990Z"
+}
