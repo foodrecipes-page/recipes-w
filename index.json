@@ -5118,16 +5118,15 @@
   },
   {
     "slug": "warm-melted-middle-eastern-cheese-pilaf",
-    "title": "Warm Melted Middle Eastern Cheese Pilaf",
+    "title": "Eastern Pilaf with Melted Cheese",
     "tags": [
-      "cheese-pull",
-      "comfort-food",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "pilaf",
+      "middle eastern",
+      "lunch",
+      "vegetarian"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -14023,15 +14022,11 @@
   },
   {
     "slug": "wholesome-irish-potato-dumplings",
-    "title": "Wholesome Irish Potato Dumplings",
+    "title": "Irish Potato Dumplings",
     "tags": [
-      "dense",
-      "energizing",
-      "fondue-pot",
       "irish",
-      "peppery",
-      "potato-dumplings",
-      "starch-rich"
+      "potato",
+      "side-dish"
     ],
     "cuisine": "Irish",
     "totalTimeMin": 35,
