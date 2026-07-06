@@ -1,0 +1,88 @@
+{
+  "slug": "warm-weeknight-x-dense-american-rice-bowl",
+  "title": "Hearty American Chicken Bowl",
+  "description": "A delicious and easy-to-make weeknight dinner that combines chicken, rice, and your favorite vegetables.",
+  "cuisine": "american",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": "about 2 teaspoons"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes. Remove from the skillet and set aside.",
+    "Add the onion and bell pepper to the skillet and cook until the vegetables are tender, about 5-7 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the chicken back to the skillet and stir in the chicken broth and rice.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the skillet.",
+    "Simmer the mixture for 15-20 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Stir in the cheddar cheese (if using) and cook until melted and bubbly.",
+    "Season with salt and pepper to taste.",
+    "Serve the chicken and rice mixture hot, garnished with chopped fresh herbs (if desired).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "rice",
+    "american",
+    "dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-weeknight-x-dense-american-rice-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T14:11:58.217Z"
+}
