@@ -10340,17 +10340,15 @@
   },
   {
     "slug": "warm-wilted-wholesome-greek-runner-beans-spanakopita",
-    "title": "Warm Wilted Wholesome Greek Runner Beans Spanakopita",
+    "title": "Runner Bean Spanakopita",
     "tags": [
-      "breakfast",
-      "casual",
+      "spanakopita",
+      "runner-beans",
       "greek",
-      "kale-free",
-      "veggie-packed",
-      "weeknight"
+      "vegetarian"
     ],
-    "cuisine": "greek",
-    "totalTimeMin": 50,
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -12830,17 +12828,15 @@
   },
   {
     "slug": "whole-spice-smoked-tunisian-lamb-tagine",
-    "title": "whole-spice smoked tunisian lamb tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "slow-cooked",
-      "weeknight"
+      "lamb",
+      "tagine",
+      "north-african",
+      "tunisian"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 270,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "w"
   },
   {
