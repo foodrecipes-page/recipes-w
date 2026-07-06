@@ -1,0 +1,64 @@
+{
+  "slug": "wholesome-irish-potato-dumplings",
+  "title": "Irish Potato Dumplings",
+  "description": "A hearty side dish made with wholesome Irish potatoes, perfect for accompanying traditional Irish meals. These potato dumplings are boiled to perfection.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "2 large",
+      "notes": "about 1 pound"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "wholesome butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Boil a large pot of salted water.",
+    "Grate the Irish potatoes into a large bowl.",
+    "Add flour to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Divide the dough into 4-6 equal pieces.",
+    "Shape each piece into a ball and then flatten slightly.",
+    "Dust the potato dumplings with flour.",
+    "Add the dumplings to the boiling water and cook for 15-20 minutes.",
+    "Remove the dumplings with a slotted spoon.",
+    "Serve hot with a pat of melted butter."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "potato",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-irish-potato-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T08:35:18.948Z"
+}
