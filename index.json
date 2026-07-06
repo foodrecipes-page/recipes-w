@@ -11070,17 +11070,18 @@
   },
   {
     "slug": "warmly-garlicky-argentinian-baby-aubergine-skewers",
-    "title": "Warmly Garlicky Argentinian Baby Aubergine Skewers",
+    "title": "Argentinian Aubergine Skewers with Garlic",
     "tags": [
       "argentinian",
-      "easy-dinner",
-      "garlicky",
       "grilled",
-      "quick-meal",
-      "veggie"
+      "aubergine",
+      "garlic",
+      "skewers",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 32,
+    "cuisine": "argentinian",
+    "totalTimeMin": 20,
     "shard": "w"
   },
   {
@@ -11902,17 +11903,15 @@
   },
   {
     "slug": "warmly-spiced-peruvian-chicken-aji-de-gallina",
-    "title": "Warmly Spiced Peruvian Chicken Aji De Gallina",
+    "title": "Warmly Spiced Chicken Gallina Soup",
     "tags": [
-      "chicken-recipe",
-      "comfort-food",
-      "one-pot-meal",
-      "ovo-vegetarian",
-      "peruvian-cuisine",
-      "spicy-food"
+      "peruvian",
+      "chicken",
+      "soup",
+      "comfort food"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -15664,13 +15663,14 @@
   },
   {
     "slug": "wicked-briny-croatian-cabbage-stew",
-    "title": "Wicked Briny Croatian Cabbage Stew",
+    "title": "Croatian Stew",
     "tags": [
       "croatian",
-      "dinner"
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
