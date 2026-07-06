@@ -1,0 +1,68 @@
+{
+  "slug": "warmly-garlicky-argentinian-baby-aubergine-skewers",
+  "title": "Argentinian Aubergine Skewers with Garlic",
+  "description": "A flavorful and colorful recipe featuring aubergine, garlic, and a hint of warm spices, inspired by the cuisine of Argentina.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "1 large",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "warmly seasoned salt",
+      "amount": "to taste",
+      "notes": "Combine salt, pepper, and a pinch of paprika"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread aubergine and garlic onto skewers, leaving a small space between each piece.",
+    "Brush skewers with olive oil and season with warmly seasoned salt.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "grilled",
+    "aubergine",
+    "garlic",
+    "skewers",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-garlicky-argentinian-baby-aubergine-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:48:59.214Z"
+}
