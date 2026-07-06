@@ -2914,17 +2914,17 @@
   },
   {
     "slug": "warm-earthy-spanish-octopus-pulpo-a-la-gallega",
-    "title": "Warm Earthy Spanish Octopus Pulpo A La Gallega",
+    "title": "Galician-Style Grilled Octopus",
     "tags": [
-      "gluten-free",
-      "low-fodmap",
-      "one-pan",
-      "romantic-dinner",
-      "seafood",
-      "spanish-cuisine"
+      "spanish",
+      "grilled",
+      "octopus",
+      "galician-style",
+      "gallega",
+      "pulpo"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 23,
     "shard": "w"
   },
   {
@@ -8532,17 +8532,17 @@
   },
   {
     "slug": "warm-spicy-slovakian-pork-belly-skewers",
-    "title": "Warm Spicy Slovakian Pork Belly Skewers",
+    "title": "Slovakian Pork Belly Skewers",
     "tags": [
-      "grilled",
-      "high-protein",
-      "one-pan",
-      "romantic",
+      "slovakian",
+      "pork",
+      "belly",
+      "skewers",
       "spicy",
-      "weeknight"
+      "warm"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 32,
+    "cuisine": "slovakian",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -16146,16 +16146,15 @@
   },
   {
     "slug": "wildly-savory-slovakian-pork-stew",
-    "title": "Wildly Savory Slovakian Pork Stew",
+    "title": "Wild Slovakian Pork Stew",
     "tags": [
-      "comfort-food",
-      "european-cuisine",
-      "hearty-stew",
-      "one-pot",
-      "sugar-free"
+      "slovakian",
+      "pork",
+      "stew",
+      "hearty"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 125,
     "shard": "w"
   },
   {
