@@ -1,0 +1,63 @@
+{
+  "slug": "wicked-briny-croatian-cabbage-stew",
+  "title": "Croatian Stew",
+  "description": "A hearty stew originating from Croatia, this recipe combines the rich flavors of the country with a hint of brininess.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head",
+      "notes": null
+    },
+    {
+      "name": "Wicked",
+      "amount": "1 tsp (assuming a spice or condiment of similar name)"
+    },
+    {
+      "name": "Briny",
+      "amount": "1/4 cup (assuming a type of liquid or marinade)"
+    },
+    {
+      "name": "Croatian",
+      "amount": "2 tsp paprika (assuming a type of spice or seasoning)"
+    },
+    {
+      "name": "Stew",
+      "amount": "1 can diced tomatoes (assuming a base for the stew)"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp oil in a large pot over medium heat.",
+    "Add 1 onion, diced, and cook until softened.",
+    "Add 2 cloves garlic, minced, and cook for 1 minute.",
+    "Add the cabbage, wicked spice, and briny liquid. Cook until the cabbage is slightly tender.",
+    "Add the diced tomatoes, Croatian paprika, and 1 cup water. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wicked-briny-croatian-cabbage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:32:11.030Z"
+}
