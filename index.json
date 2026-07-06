@@ -2784,16 +2784,14 @@
   },
   {
     "slug": "warm-dutch-rice-fried-rice",
-    "title": "Warm Dutch Rice Fried Rice",
+    "title": "Nasi Goreng",
     "tags": [
-      "dutch",
-      "fried-rice",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "indonesian",
+      "breakfast",
+      "fried rice"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "cuisine": "indonesian",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -4770,17 +4768,15 @@
   },
   {
     "slug": "warm-kenyan-sweet-potato-casserole",
-    "title": "Warm Kenyan Sweet Potato Casserole",
+    "title": "Kenyan Sweet Potato Casserole",
     "tags": [
+      "kenyan",
+      "sweet-potato",
       "casserole",
-      "comfort-food",
-      "flambe",
-      "kenyan-cuisine",
-      "ovo-vegetarian",
-      "sweet-potato"
+      "comfort-food"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 80,
     "shard": "w"
   },
   {
@@ -8250,16 +8246,16 @@
   },
   {
     "slug": "warm-spicy-korean-myeolchi-anchovy-pilaf",
-    "title": "Warm Spicy Korean Myeolchi Anchovy Pilaf",
+    "title": "Spicy Korean Anchovy Pilaf",
     "tags": [
-      "gluten-free",
-      "korean-cuisine",
-      "low-glycemic",
-      "one-pan",
-      "seafood"
+      "korean",
+      "pilaf",
+      "anchovy",
+      "spicy",
+      "vegetarian"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 27,
+    "cuisine": "korean",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -9451,17 +9447,15 @@
   },
   {
     "slug": "warm-velvety-filipino-peanut-butter-wrap",
-    "title": "Warm Velvety Filipino Peanut Butter Wrap",
+    "title": "Filipino Peanut Butter Wrap",
     "tags": [
-      "easy-recipes",
-      "filipino-food",
-      "kid-friendly",
-      "low-glycemic",
       "peanut-butter",
-      "snack-ideas"
+      "filipino-cuisine",
+      "snack-recipe",
+      "easy-recipe"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 30,
+    "totalTimeMin": 5,
     "shard": "w"
   },
   {
