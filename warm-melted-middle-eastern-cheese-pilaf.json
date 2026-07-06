@@ -1,0 +1,85 @@
+{
+  "slug": "warm-melted-middle-eastern-cheese-pilaf",
+  "title": "Eastern Pilaf with Melted Cheese",
+  "description": "A creamy variation of traditional pilaf, infused with the flavors of the Middle East.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Long-grain rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Melted cheese (white or mozzarella)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Pilaf spice mix",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large saucepan over medium heat.",
+    "Add diced onion and cook until translucent.",
+    "Add pilaf spice mix and cook for 1 minute.",
+    "Add rice and cook for 2 minutes, stirring constantly.",
+    "Add chicken broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes.",
+    "Stir in melted cheese.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped parsley.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "middle eastern",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-melted-middle-eastern-cheese-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T09:00:08.491Z"
+}
