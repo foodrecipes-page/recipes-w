@@ -1,0 +1,64 @@
+{
+  "slug": "warm-velvety-filipino-peanut-butter-wrap",
+  "title": "Filipino Peanut Butter Wrap",
+  "description": "A twist on the classic peanut butter wrap, this Filipino-inspired recipe adds a sweet and savory flavor combination.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peanut butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Warm wrap",
+      "amount": "1",
+      "notes": "preferably a flour tortilla"
+    },
+    {
+      "name": "Filipino-style banana catsup",
+      "amount": "1 tablespoon",
+      "notes": "or substitute with sweet chili sauce"
+    },
+    {
+      "name": "Sliced banana",
+      "amount": "1",
+      "notes": "use ripe banana"
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Spread 1 tablespoon of peanut butter evenly onto the wrap.",
+    "Add 1 tablespoon of Filipino-style banana catsup on top of the peanut butter.",
+    "Slice a ripe banana and place on top of the catsup.",
+    "Sprinkle a pinch of powdered sugar over the banana.",
+    "Fold the wrap in half to enclose the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "peanut-butter",
+    "filipino-cuisine",
+    "snack-recipe",
+    "easy-recipe"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-velvety-filipino-peanut-butter-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:55:25.177Z"
+}
