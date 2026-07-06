@@ -3377,16 +3377,15 @@
   },
   {
     "slug": "warm-fluffy-canadian-turkish-delight-bao",
-    "title": "Warm Fluffy Canadian Turkish Delight Bao",
+    "title": "Turkish Delight Bao",
     "tags": [
-      "bamboo-steamer",
-      "canadian-cuisine",
-      "floral-desserts",
-      "turkish-delight",
-      "vegetarian-friendly"
+      "turkish",
+      "dessert",
+      "bao",
+      "sweet"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 60,
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -11586,16 +11585,16 @@
   },
   {
     "slug": "warmly-spiced-egyptian-lamb-kebabs",
-    "title": "Warmly Spiced Egyptian Lamb Kebabs",
+    "title": "Egyptian Lamb Kebabs with Warm Spices",
     "tags": [
-      "fodmap-friendly",
-      "grilled-meat",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "kebabs",
+      "egyptian-cuisine",
+      "grilled",
+      "spiced"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "w"
   },
   {
