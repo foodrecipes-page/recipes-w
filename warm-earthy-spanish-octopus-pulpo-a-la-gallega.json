@@ -1,0 +1,79 @@
+{
+  "slug": "warm-earthy-spanish-octopus-pulpo-a-la-gallega",
+  "title": "Galician-Style Grilled Octopus",
+  "description": "A traditional Spanish dish from the region of Galicia, this recipe features tender and flavorful grilled octopus. The warm, earthy flavors of the paprika and garlic complement the rich taste of the seafood.",
+  "cuisine": "Spanish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Octopus (pulpo)",
+      "amount": "1 lb",
+      "notes": " Fresh or frozen, cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "Smoked Paprika (pimentón)",
+      "amount": "2 tsp",
+      "notes": "Smoked to give a warm, earthy flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince to release flavor"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "Use high-quality oil for a rich flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use kosher or sea salt for a more complex flavor"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "Use freshly ground for a more vibrant flavor"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed for a bright, citrusy flavor"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped to add a fresh, herbaceous flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat (around 400°F).",
+    "2. In a small bowl, mix together smoked paprika, garlic, salt, and black pepper.",
+    "3. Add the paprika mixture to the octopus and toss to coat.",
+    "4. Brush the grill with olive oil to prevent sticking.",
+    "5. Grill the octopus for 2-3 minutes per side, or until it reaches an internal temperature of 145°F.",
+    "6. Transfer the octopus to a plate and squeeze lemon juice over the top.",
+    "7. Garnish with chopped parsley and serve immediately.",
+    "8. Serve with a side of crusty bread or a salad for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "grilled",
+    "octopus",
+    "galician-style",
+    "gallega",
+    "pulpo"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-earthy-spanish-octopus-pulpo-a-la-gallega",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T06:36:03.967Z"
+}
