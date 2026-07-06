@@ -1,0 +1,90 @@
+{
+  "slug": "wildly-indulgent-irish-speck-stew",
+  "title": "Wild Irish Stew",
+  "description": "A hearty, comforting Irish stew made with tender chunks of beef and a variety of wild mushrooms. Perfect for a chilly evening.",
+  "cuisine": "Irish",
+  "diet": [
+    "beef",
+    "mushroom"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "speck",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "wild mushrooms",
+      "amount": "1 cup",
+      "notes": "such as chanterelle or oyster"
+    },
+    {
+      "name": "irish potatoes",
+      "amount": "3-4 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "to thicken"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium-high heat.",
+    "Add the speck and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the wild mushrooms and cook until tender, about 5 minutes.",
+    "Add the potatoes, caraway seeds, and flour. Cook for 1-2 minutes.",
+    "Gradually add the beef broth, whisking continuously.",
+    "Bring to a boil, then reduce the heat to medium-low and simmer for 20-25 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Optional: stir in the milk to add a creamy texture.",
+    "Serve hot, garnished with chopped fresh parsley or chives."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-stew",
+    "wild-mushrooms"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wildly-indulgent-irish-speck-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T13:14:13.593Z"
+}
