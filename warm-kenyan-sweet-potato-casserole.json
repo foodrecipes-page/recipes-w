@@ -1,0 +1,81 @@
+{
+  "slug": "warm-kenyan-sweet-potato-casserole",
+  "title": "Kenyan Sweet Potato Casserole",
+  "description": "A traditional Kenyan-inspired sweet potato casserole with a warm and comforting flavor. This dish is perfect for a cozy evening or a family gathering.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Marshmallows",
+      "amount": "10-12"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Poke some holes in the sweet potatoes and bake for 45-60 minutes, or until tender.",
+    "Sauté the onion and garlic until softened.",
+    "In a separate bowl, whisk together coconut milk, brown sugar, cinnamon, nutmeg, and salt.",
+    "Add the sautéed onion and garlic to the coconut milk mixture and stir to combine.",
+    "Once the sweet potatoes are done, let them cool slightly before scooping out some of the flesh to mix with the coconut milk mixture.",
+    "Transfer the sweet potato mixture to a baking dish and top with marshmallows.",
+    "Bake for an additional 15-20 minutes, or until the marshmallows are golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "sweet-potato",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-kenyan-sweet-potato-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:21:07.451Z"
+}
