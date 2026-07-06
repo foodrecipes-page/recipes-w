@@ -1,0 +1,98 @@
+{
+  "slug": "warmly-spiced-peruvian-chicken-aji-de-gallina",
+  "title": "Warmly Spiced Chicken Gallina Soup",
+  "description": "A hearty, comforting Peruvian-inspired soup featuring warmly spiced chicken and tender potatoes.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1.5 lbs",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Peruvian aji amarillo peppers",
+      "amount": "2",
+      "notes": "Diced"
+    },
+    {
+      "name": "Warmly spiced potatoes",
+      "amount": "3",
+      "notes": "Diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced aji amarillo peppers and cook for 2 minutes.",
+    "Add the chicken breast and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chicken broth, cumin, coriander, and paprika. Stir to combine.",
+    "Bring the soup to a boil, then reduce the heat to medium-low and simmer for 15-20 minutes.",
+    "Add the diced potatoes and cook for an additional 10-15 minutes, or until tender.",
+    "Use an immersion blender to puree the soup until smooth, or allow it to cool and puree it in a blender.",
+    "Return the soup to the pot and stir in the heavy cream, if using.",
+    "Season the soup with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "soup",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-peruvian-chicken-aji-de-gallina",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T16:51:14.920Z"
+}
