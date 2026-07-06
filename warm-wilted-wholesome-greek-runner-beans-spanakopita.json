@@ -1,0 +1,87 @@
+{
+  "slug": "warm-wilted-wholesome-greek-runner-beans-spanakopita",
+  "title": "Runner Bean Spanakopita",
+  "description": "A Greek-inspired spanakopita with tender runner beans and feta cheese, perfect as a side dish or light lunch.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "runner beans",
+      "amount": "250g",
+      "notes": "trimmed and chopped"
+    },
+    {
+      "name": "wholesome filo pastry sheets",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "greek feta cheese",
+      "amount": "150g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "greek olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a pan, heat the olive oil and sauté the chopped onion until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped runner beans and cook until tender.",
+    "In a bowl, crumble the feta cheese and mix with chopped dill, salt, and black pepper.",
+    "Layer the filo pastry sheets, brushing each sheet with olive oil.",
+    "Spoon the bean mixture onto one half of the pastry, then top with crumbled feta.",
+    "Fold the other half of the pastry over the filling and press the edges to seal.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanakopita",
+    "runner-beans",
+    "greek",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wilted-wholesome-greek-runner-beans-spanakopita",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T12:13:12.667Z"
+}
