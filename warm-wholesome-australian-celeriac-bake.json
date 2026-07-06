@@ -1,0 +1,84 @@
+{
+  "slug": "warm-wholesome-australian-celeriac-bake",
+  "title": "Celeriac and Australian Bush Tomato Bake",
+  "description": "A delicious and hearty celeriac bake infused with the warm, earthy flavors of Australian bush tomatoes.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Australian bush tomatoes",
+      "amount": "2 cups",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Peel and dice the celeriac into 1-inch cubes.",
+    "In a large bowl, whisk together olive oil, garlic, lemon juice, salt, and pepper.",
+    "Add the celeriac to the bowl and toss to coat with the dressing.",
+    "Transfer the celeriac mixture to a baking dish.",
+    "Top with Australian bush tomatoes and grated cheddar cheese.",
+    "Bake for 30-40 minutes or until the celeriac is tender and the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "celeriac",
+    "australian-bush-tomatoes",
+    "cheese",
+    "vegetarian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wholesome-australian-celeriac-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:11:17.405Z"
+}
