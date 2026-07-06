@@ -1,0 +1,80 @@
+{
+  "slug": "warm-spicy-korean-myeolchi-anchovy-pilaf",
+  "title": "Spicy Korean Anchovy Pilaf",
+  "description": "A flavorful and spicy pilaf dish inspired by Korean cuisine, featuring the savory taste of anchovies.",
+  "cuisine": "korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "myeolchi",
+      "amount": "200g",
+      "notes": "dried anchovies"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "Korean-style rice"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium heat.",
+    "Add minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add gochujang, soy sauce, and sugar (if using). Stir to combine.",
+    "Add the dried anchovies and cook for 2-3 minutes, until they start to break down.",
+    "Add the Korean-style rice and stir to combine.",
+    "Cook for 2-3 minutes, until the rice is heated through.",
+    "Stir in chopped green onion.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "pilaf",
+    "anchovy",
+    "spicy",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-korean-myeolchi-anchovy-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:45:54.095Z"
+}
