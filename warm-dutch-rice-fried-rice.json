@@ -1,0 +1,83 @@
+{
+  "slug": "warm-dutch-rice-fried-rice",
+  "title": "Nasi Goreng",
+  "description": "Indonesian-style fried rice, a popular breakfast dish.",
+  "cuisine": "indonesian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the onion and garlic and stir-fry until the onion is translucent.",
+    "Add the mixed vegetables and stir-fry for 2-3 minutes.",
+    "Add the cooked rice and stir-fry for 2-3 minutes.",
+    "Add the soy sauce and stir-fry for another minute.",
+    "Season with salt and pepper to taste.",
+    "Transfer the fried rice to a serving platter.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indonesian",
+    "breakfast",
+    "fried rice"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-dutch-rice-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:14:11.526Z"
+}
