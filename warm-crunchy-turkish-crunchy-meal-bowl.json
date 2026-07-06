@@ -1,0 +1,97 @@
+{
+  "slug": "warm-crunchy-turkish-crunchy-meal-bowl",
+  "title": "Turkish Crunchy Warm Bowl",
+  "description": "A hearty and flavorful Turkish-inspired dish that combines crunchy textures with a warm, comforting bowl.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Warm Pita Bread",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy Falafel",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Turkish-Style Hummus",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Vegetables",
+      "amount": "1 cup",
+      "notes": "Carrots, zucchini, and bell peppers"
+    },
+    {
+      "name": "Pickled Onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Meal Bowl",
+      "amount": "1 bowl",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Slice the pita bread into 1-inch pieces and toast in the oven for 5 minutes.",
+    "3. In a large skillet, heat the olive oil over medium heat.",
+    "4. Add the falafel and cook until crispy and golden brown, about 3-4 minutes per side.",
+    "5. In a separate bowl, whisk together the hummus, lemon juice, salt, and pepper.",
+    "6. Add the roasted vegetables, pickled onions, and parsley to the bowl and toss to combine.",
+    "7. To assemble the bowls, place a layer of toasted pita bread on the bottom, followed by a scoop of the falafel.",
+    "8. Top with the vegetable mixture and drizzle with the hummus sauce.",
+    "9. Serve immediately and enjoy!",
+    "10. Garnish with additional parsley and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "crunchy",
+    "warm",
+    "bowl",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crunchy-turkish-crunchy-meal-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T13:53:13.316Z"
+}
