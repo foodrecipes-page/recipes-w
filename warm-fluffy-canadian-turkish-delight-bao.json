@@ -1,0 +1,70 @@
+{
+  "slug": "warm-fluffy-canadian-turkish-delight-bao",
+  "title": "Turkish Delight Bao",
+  "description": "A sweet and unique dessert that combines the warmth of Turkish Delight with the softness of Bao.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Turkish Delight",
+      "amount": "200g",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "Bao dough",
+      "amount": "1 package",
+      "notes": "thawed according to package instructions"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "20g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the bao dough to a thickness of about 1 cm.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a small spoonful of Turkish Delight in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-moon shape, and press the edges together to seal.",
+    "Brush the tops of the bao with coconut oil and sprinkle with granulated sugar.",
+    "Place the bao on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until the bao are golden brown.",
+    "Let the bao cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "dessert",
+    "bao",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-fluffy-canadian-turkish-delight-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T11:14:01.364Z"
+}
