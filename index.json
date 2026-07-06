@@ -2369,17 +2369,16 @@
   },
   {
     "slug": "warm-crunchy-turkish-crunchy-meal-bowl",
-    "title": "Warm Crunchy Turkish Meal Bowl",
+    "title": "Turkish Crunchy Warm Bowl",
     "tags": [
-      "comfort-food",
-      "healthy",
-      "jain",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "turkish",
+      "crunchy",
+      "warm",
+      "bowl",
+      "healthy"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -9700,16 +9699,16 @@
   },
   {
     "slug": "warm-weeknight-x-dense-american-rice-bowl",
-    "title": "warm weeknight x-dense american rice bowl",
+    "title": "Hearty American Chicken Bowl",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "vegan-friendly",
+      "chicken",
+      "rice",
+      "american",
+      "dinner",
       "weeknight"
     ],
     "cuisine": "american",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -16107,16 +16106,14 @@
   },
   {
     "slug": "wildly-indulgent-irish-speck-stew",
-    "title": "Wildly Indulgent Irish Speck Stew",
+    "title": "Wild Irish Stew",
     "tags": [
       "comfort-food",
-      "hearty-stew",
-      "irish-cuisine",
-      "kosher-friendly",
-      "one-pot"
+      "irish-stew",
+      "wild-mushrooms"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
