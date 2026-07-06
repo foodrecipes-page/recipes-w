@@ -1,0 +1,87 @@
+{
+  "slug": "wildly-savory-slovakian-pork-stew",
+  "title": "Wild Slovakian Pork Stew",
+  "description": "A hearty Slovakian-inspired stew made with tender pork and a blend of wild, savory flavors. Perfect for a cold winter's night.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "wild mushrooms",
+      "amount": "2 cups",
+      "notes": "such as chanterelle or cremini"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork cubes on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Add the chopped onions to the pot and cook until they start to caramelize, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground caraway seeds and allspice and cook for 1 minute.",
+    "Add the browned pork back to the pot, along with the wild mushrooms.",
+    "Add 1 cup of stock to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the pork is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 105,
+  "totalTimeMin": 125,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wildly-savory-slovakian-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:08:44.435Z"
+}
