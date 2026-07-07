@@ -1,0 +1,76 @@
+{
+  "slug": "warm-silky-chinese-tofu-char-siu",
+  "title": "Char Siu Tofu Stir Fry",
+  "description": "A classic Chinese-inspired dish made with char siu-glazed tofu, served with a side of steamed vegetables.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Char Siu Sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Siu Sauce ingredients: hoisin sauce, soy sauce, rice vinegar, sugar",
+      "amount": "2 tbsp",
+      "notes": "see note"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bok Choy",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced ginger and cook for 1 minute, until fragrant.",
+    "Add the chopped scallions and cook for an additional 2 minutes, until they start to soften.",
+    "Add the char siu-glazed tofu and cook for 2-3 minutes, until it starts to brown.",
+    "Add the chopped bok choy and cook for an additional 2-3 minutes, until it starts to wilt.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "tofu",
+    "char-siu"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-silky-chinese-tofu-char-siu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:59:04.708Z"
+}
