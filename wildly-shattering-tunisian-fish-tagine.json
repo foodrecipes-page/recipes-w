@@ -1,0 +1,92 @@
+{
+  "slug": "wildly-shattering-tunisian-fish-tagine",
+  "title": "Tunisian Fish Tagine",
+  "description": "A flavorful and aromatic North African stew originating from Tunisia, perfect for a weeknight dinner. This dish is a staple of Tunisian cuisine.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tunisian fish (such as bream or tilapia)",
+      "amount": "1 1/2 pounds",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Wildly shattering olives",
+      "amount": "1 cup",
+      "notes": "Pitted and sliced"
+    },
+    {
+      "name": "Freshly squeezed lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "High-quality"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 piece",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay or ceramic tagine or Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic, ginger, cumin, and cayenne pepper. Cook for 1 minute.",
+    "Add fish, olives, lemon juice, salt, and pepper. Cook for 5 minutes.",
+    "Cover the tagine or Dutch oven and transfer to the oven.",
+    "Bake at 375°F (190°C) for 12-15 minutes or until the fish is cooked through.",
+    "Serve hot, garnished with lemon wedges and fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "tunisian",
+    "fish",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wildly-shattering-tunisian-fish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T14:00:18.439Z"
+}
