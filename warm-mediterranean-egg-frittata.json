@@ -1,0 +1,88 @@
+{
+  "slug": "warm-mediterranean-egg-frittata",
+  "title": "Mediterranean Frittata",
+  "description": "A warm and savory Italian-style omelette filled with Mediterranean flavors, perfect for a satisfying breakfast or brunch.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "warm feta cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Kalamata olives, pitted",
+      "amount": "1/2 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "sun-dried tomatoes, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 2 tablespoons of olive oil over medium heat.",
+    "Add garlic and cook for 1 minute until fragrant.",
+    "Add sun-dried tomatoes and cook for an additional 2 minutes.",
+    "In a large bowl, whisk together eggs and a pinch of salt and pepper.",
+    "Pour the egg mixture over the skillet and cook until the edges start to set.",
+    "Sprinkle feta cheese, parsley, and olives over the eggs.",
+    "Transfer the skillet to the preheated oven and bake for 12-15 minutes or until the eggs are set.",
+    "Remove from the oven and let it cool for a few minutes.",
+    "Slice and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "breakfast",
+    "omelette",
+    "frittata",
+    "eggs",
+    "feta cheese",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 16,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-mediterranean-egg-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T16:16:47.712Z"
+}
