@@ -2473,14 +2473,13 @@
   },
   {
     "slug": "warm-dense-croatian-turkey-stew",
-    "title": "Warm Dense Croatian Turkey Stew",
+    "title": "Turkey Croatian Stew",
     "tags": [
-      "comfort-food",
-      "croatian-cuisine",
-      "gluten-free",
-      "hearty-stew",
-      "one-pot",
-      "turkey-recipe"
+      "turkey",
+      "croatian",
+      "stew",
+      "hearty",
+      "dinner"
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 50,
@@ -3245,17 +3244,16 @@
   },
   {
     "slug": "warm-flaky-korean-udon-noodles-songpyeon",
-    "title": "Warm Flaky Korean Udon Noodles Songpyeon",
+    "title": "Korean-Style Songpyeon Udon Noodles",
     "tags": [
-      "korean-cuisine",
-      "meal-prep",
-      "noodle-dish",
-      "pescatarian-friendly",
+      "korean",
+      "udon",
       "songpyeon",
-      "yuzu-flavor"
+      "noodles",
+      "breakfast"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -12935,17 +12933,15 @@
   },
   {
     "slug": "wholesome-american-chicken-stew",
-    "title": "Wholesome American Chicken Stew",
+    "title": "Classic Chicken Stew",
     "tags": [
-      "comfort-food",
-      "no-garlic",
-      "no-onion",
-      "one-pot",
-      "sick-day",
-      "tangy"
+      "chicken",
+      "stew",
+      "american",
+      "comfort-food"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 45,
+    "cuisine": "american",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
