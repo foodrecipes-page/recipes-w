@@ -6961,17 +6961,15 @@
   },
   {
     "slug": "warm-smoky-dutch-peanut-butter-stew",
-    "title": "Warm Smoky Dutch Peanut Butter Stew",
+    "title": "Smoked Peanut Stew",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "one-pot",
-      "peanut-butter",
-      "smoky",
-      "vegetarian"
+      "peanut",
+      "stew",
+      "smoked",
+      "dutch"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 50,
+    "cuisine": "dutch",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
