@@ -1944,16 +1944,15 @@
   },
   {
     "slug": "warm-crispy-vietnamese-chicken-banh-mi",
-    "title": "Warm Crispy Vietnamese Chicken Banh Mi",
+    "title": "Crispy Vietnamese Banh Mi Sandwich",
     "tags": [
-      "crispy-chicken",
-      "dairy-free",
-      "one-pan",
       "vietnamese",
-      "weeknight"
+      "crispy",
+      "banhmi",
+      "chicken"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -16113,17 +16112,15 @@
   },
   {
     "slug": "wildly-shattering-tunisian-fish-tagine",
-    "title": "Wildly Shattering Tunisian Fish Tagine",
+    "title": "Tunisian Fish Tagine",
     "tags": [
-      "fish-sauce",
-      "lacto-vegetarian",
-      "mediterranean",
-      "one-pot",
-      "shattering-texture",
-      "tunisian-cuisine"
+      "north african",
+      "tunisian",
+      "fish",
+      "stew"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -17250,16 +17247,14 @@
   },
   {
     "slug": "winey-nostalgic-mediterranean-clams-bake",
-    "title": "winey nostalgic mediterranean clams bake",
+    "title": "Mediterranean Clam Bake",
     "tags": [
-      "clams",
-      "easy-dinner",
       "mediterranean",
-      "seafood",
-      "weeknight",
-      "wine"
+      "clams",
+      "bake",
+      "seafood"
     ],
-    "cuisine": "mediterranean",
+    "cuisine": "Mediterranean",
     "totalTimeMin": 27,
     "shard": "w"
   },
