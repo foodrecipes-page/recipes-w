@@ -1,0 +1,84 @@
+{
+  "slug": "warm-smoky-dutch-peanut-butter-stew",
+  "title": "Smoked Peanut Stew",
+  "description": "A hearty, slow-cooked stew with smoky flavors and a hint of peanut goodness.",
+  "cuisine": "dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Peanut Butter",
+      "amount": "2 tbsp",
+      "notes": "smooth or crunchy, as desired"
+    },
+    {
+      "name": "Diced Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Diced Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Diced Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add smoked paprika and cook for 1 minute.",
+    "Add carrots, potatoes, diced tomatoes, broth, cumin, salt, and pepper.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Stir in peanut butter until melted and well combined.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peanut",
+    "stew",
+    "smoked",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-dutch-peanut-butter-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T05:43:05.068Z"
+}
