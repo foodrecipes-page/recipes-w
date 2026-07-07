@@ -1,0 +1,85 @@
+{
+  "slug": "warm-crunchy-vietnamese-sesame-spring-rolls",
+  "title": "Vietnamese Spring Rolls",
+  "description": "Delicate spring rolls filled with shrimp, vegetables, and herbs, served with a sweet and spicy dipping sauce.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice paper",
+      "amount": "1 package"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Mint",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Spring onion",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the vegetables by grating the carrot and slicing the cucumber.",
+    "Chop the mint and spring onion.",
+    "Soak the rice paper in warm water for about 30 seconds.",
+    "Place a shrimp on the center of the rice paper.",
+    "Add a few pieces of the carrot, cucumber, mint, and spring onion on top of the shrimp.",
+    "Fold the bottom half of the rice paper up over the filling, then fold in the sides and roll up to form a tight cylinder.",
+    "Repeat with the remaining ingredients.",
+    "Heat the sesame oil in a pan over medium heat.",
+    "Add the sesame seeds and cook for about 1 minute, until fragrant.",
+    "Serve the spring rolls with the sesame oil and sesame seeds.",
+    "Serve with a sweet and spicy dipping sauce, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "spring",
+    "rolls",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crunchy-vietnamese-sesame-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:35:04.078Z"
+}
