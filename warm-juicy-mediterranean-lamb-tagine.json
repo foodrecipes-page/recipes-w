@@ -1,0 +1,95 @@
+{
+  "slug": "warm-juicy-mediterranean-lamb-tagine",
+  "title": "Mediterranean Lamb Tagine",
+  "description": "A hearty, flavorful tagine originating from North Africa, featuring tender lamb and aromatic spices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    " Omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 300°F (150°C).",
+    "2. Season the lamb shoulder with salt, black pepper, cumin, cinnamon, and ginger.",
+    "3. Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "4. Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "5. Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "6. Add the minced garlic and cook for another minute.",
+    "7. Add the lamb shoulder back to the pot, along with 1 cup of water.",
+    "8. Cover the pot and transfer it to the preheated oven.",
+    "9. Braise the lamb for 2 1/2 hours, or until tender.",
+    "10. Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "mediterranean",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-juicy-mediterranean-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T22:47:53.313Z"
+}
