@@ -1,0 +1,86 @@
+{
+  "slug": "winey-nostalgic-mediterranean-clams-bake",
+  "title": "Mediterranean Clam Bake",
+  "description": "A classic Mediterranean-inspired dish featuring clams baked with herbs and spices. This recipe is perfect for a summer evening with family and friends.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Clams",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh oregano",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "White wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Rinse the clams and discard any broken shells. Pat them dry with paper towels.",
+    "In a large baking dish, combine the clams, olive oil, garlic, parsley, oregano, lemon juice, salt, and pepper. Toss to combine.",
+    "Pour the white wine over the top and cover the dish with aluminum foil.",
+    "Bake for 10-12 minutes, then remove the foil and continue baking for an additional 5-7 minutes, or until the clams are cooked through and the sauce is bubbly.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 17,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "clams",
+    "bake",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-nostalgic-mediterranean-clams-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T13:44:33.282Z"
+}
