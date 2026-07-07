@@ -4509,17 +4509,15 @@
   },
   {
     "slug": "warm-jamaican-cheese-jamaican-clotted-cream-pilaf",
-    "title": "warm Jamaican Cheese Jamaican clotted cream Pilaf",
+    "title": "Jamaican Chicken and Rice Bowl",
     "tags": [
-      "breakfast-dinner",
-      "cheesy",
-      "high-protein",
-      "jamaican",
-      "one-pan",
-      "weeknight"
+      "caribbean",
+      "chicken",
+      "rice",
+      "cheese"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -4700,13 +4698,12 @@
   },
   {
     "slug": "warm-juicy-mediterranean-lamb-tagine",
-    "title": "Warm Juicy Mediterranean Lamb Tagine",
+    "title": "Mediterranean Lamb Tagine",
     "tags": [
-      "lamb-recipes",
-      "mediterranean-cuisine",
-      "one-pot-meals",
-      "special-occasion",
-      "winter-comfort-food"
+      "lamb",
+      "tagine",
+      "mediterranean",
+      "moroccan"
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 180,
@@ -9718,19 +9715,16 @@
   },
   {
     "slug": "warm-welsh-style-welsh-dates-potted-shepherds-pie",
-    "title": "Warm Welsh-Style Potted Shepherds Pie with Dates",
+    "title": "Welsh Shepherd's Pie",
     "tags": [
-      "british",
-      "dates",
-      "diabetic-friendly",
-      "lamb",
-      "shepherds-pie",
-      "slow-cooker",
-      "tandoor",
-      "weeknight"
+      "welsheats",
+      "britishcuisine",
+      "shepherds pie",
+      "lambrecipe",
+      "dategravy"
     ],
     "cuisine": "British",
-    "totalTimeMin": 75,
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
