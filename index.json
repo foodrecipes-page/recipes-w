@@ -6459,17 +6459,14 @@
   },
   {
     "slug": "warm-silky-chinese-tofu-char-siu",
-    "title": "Warm Silky Chinese Tofu Char Siu",
+    "title": "Char Siu Tofu Stir Fry",
     "tags": [
-      "char-siu-style",
-      "floral-dish",
-      "lacto-vegetarian",
-      "pressure-cooked",
-      "silky-tofu",
-      "xinjiang-cuisine"
+      "chinese",
+      "tofu",
+      "char-siu"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -7208,18 +7205,14 @@
   },
   {
     "slug": "warm-smoky-moroccan-ground-pork-harira",
-    "title": "Warm Smoky Moroccan Ground Pork Harira",
+    "title": "Moroccan Harira Meatballs",
     "tags": [
-      "ground-pork",
-      "keto",
-      "lazy-susan",
-      "low-carb",
       "moroccan",
-      "one-pot",
-      "smoky"
+      "meatballs",
+      "pork"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -8914,17 +8907,15 @@
   },
   {
     "slug": "warm-springy-vietnamese-chicken-noodles",
-    "title": "Warm Springy Vietnamese Chicken Noodles",
+    "title": "Vietnamese Chicken Noodle Soup",
     "tags": [
-      "asian-food",
-      "chicken-recipes",
-      "comfort-food",
-      "noodle-dishes",
-      "romantic-dinners",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "chicken",
+      "noodle-soup",
+      "comfort-food"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
