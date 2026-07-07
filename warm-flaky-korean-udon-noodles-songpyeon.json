@@ -1,0 +1,77 @@
+{
+  "slug": "warm-flaky-korean-udon-noodles-songpyeon",
+  "title": "Korean-Style Songpyeon Udon Noodles",
+  "description": "A unique fusion recipe combining the textures of warm, flaky songpyeon with udon noodles in a traditional Korean-inspired dish.",
+  "cuisine": "Korean",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Udon noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Songpyeon",
+      "amount": "4 pieces",
+      "notes": "warm, flaky"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the udon noodles according to package instructions. Drain and set aside.",
+    "Heat sesame oil in a pan over medium heat.",
+    "Pan-fry the warm, flaky songpyeon until crispy and golden brown. Set aside.",
+    "In the same pan, add Korean chili flakes and stir for 1 minute.",
+    "Add cooked udon noodles to the pan and stir-fry for 2-3 minutes.",
+    "Season with soy sauce and toss to coat.",
+    "Add pan-fried songpyeon on top of the noodles and garnish with green onions and sesame seeds (if using).",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "udon",
+    "songpyeon",
+    "noodles",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-flaky-korean-udon-noodles-songpyeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:00:30.926Z"
+}
