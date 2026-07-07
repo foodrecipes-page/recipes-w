@@ -1,0 +1,88 @@
+{
+  "slug": "warm-smoky-moroccan-ground-pork-harira",
+  "title": "Moroccan Harira Meatballs",
+  "description": "A traditional Moroccan dish made with ground pork and a blend of warm, smoky spices. Serve as a main course or as an appetizer for a dinner party.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "harira spice blend",
+      "amount": "2 teaspoons",
+      "notes": "available at most Middle Eastern grocery stores"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large mixing bowl, combine ground pork, harira spice blend, onion, garlic, cumin, paprika, salt, and black pepper. Mix well with your hands until just combined.",
+    "Using your hands, shape the mixture into meatballs, about 1 1/2 inches (3.8 cm) in diameter. Place on a baking sheet lined with parchment paper.",
+    "Drizzle the top of each meatball with a little water and sprinkle with a pinch of flour.",
+    "Bake in the preheated oven for 18-20 minutes, or until cooked through.",
+    "While the meatballs are baking, heat a large skillet over medium heat.",
+    "Once the meatballs are done, remove from the oven and carefully place in the skillet.",
+    "Cook for an additional 2-3 minutes on each side, or until browned and crispy.",
+    "Serve hot with your favorite sides, such as couscous or steamed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "meatballs",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-moroccan-ground-pork-harira",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:59:23.853Z"
+}
