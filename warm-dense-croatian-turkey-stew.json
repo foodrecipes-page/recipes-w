@@ -1,0 +1,96 @@
+{
+  "slug": "warm-dense-croatian-turkey-stew",
+  "title": "Turkey Croatian Stew",
+  "description": "A hearty and flavorful stew made with turkey, Croatian sausage, and vegetables.",
+  "cuisine": "Croatian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey breast or thighs",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Croatian sausage",
+      "amount": "1 pound",
+      "notes": "can substitute with kielbasa"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the Croatian sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage from the pot and set aside.",
+    "Add the onion to the pot and cook until browned, about 5 minutes.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the garlic, salt, and black pepper to the pot and cook for 1 minute.",
+    "Add the turkey to the pot and cook until browned, about 5 minutes.",
+    "Add the diced tomatoes, bay leaves, and browned sausage back to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkey",
+    "croatian",
+    "stew",
+    "hearty",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-dense-croatian-turkey-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T02:44:14.708Z"
+}
