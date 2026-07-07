@@ -5088,17 +5088,18 @@
   },
   {
     "slug": "warm-mediterranean-egg-frittata",
-    "title": "Warm Mediterranean Egg Frittata",
+    "title": "Mediterranean Frittata",
     "tags": [
-      "high-protein",
-      "jain-friendly",
-      "mediterranean-diet",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "italian",
+      "breakfast",
+      "omelette",
+      "frittata",
+      "eggs",
+      "feta cheese",
+      "mediterranean"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -7531,18 +7532,16 @@
   },
   {
     "slug": "warm-spanish-double-rise-bread-toast",
-    "title": "Warm Spanish Double Rise Bread Toast",
+    "title": "Warm Spanish Toast",
     "tags": [
       "breakfast",
       "brunch",
-      "easy",
-      "halal",
       "spanish",
-      "toast",
-      "weekend"
+      "warm",
+      "bread"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 8,
     "shard": "w"
   },
   {
