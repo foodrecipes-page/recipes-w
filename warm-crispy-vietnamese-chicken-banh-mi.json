@@ -1,0 +1,83 @@
+{
+  "slug": "warm-crispy-vietnamese-chicken-banh-mi",
+  "title": "Crispy Vietnamese Banh Mi Sandwich",
+  "description": "A delicious and easy-to-make Vietnamese-inspired sandwich featuring crispy banh mi bread, juicy chicken, and fresh herbs. Perfect for a quick lunch or dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Banh Mi Bread",
+      "amount": "4-6 inches of bread, sliced in half"
+    },
+    {
+      "name": "Crispy Fried Chicken",
+      "amount": "1 pound boneless, skinless chicken breasts, cut into thin slices"
+    },
+    {
+      "name": "Pickled Carrots and Daikon",
+      "amount": "1/2 cup of pickled carrots and daikon, sliced"
+    },
+    {
+      "name": "Mayo",
+      "amount": "1/4 cup of mayonnaise"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup of chopped cilantro"
+    },
+    {
+      "name": "Sliced Jalapeños",
+      "amount": "1-2 sliced jalapeños"
+    },
+    {
+      "name": "Sliced Cucumber",
+      "amount": "1/2 cup of sliced cucumber"
+    },
+    {
+      "name": "Sliced Radishes",
+      "amount": "1/2 cup of sliced radishes"
+    },
+    {
+      "name": "Hoagie Rolls",
+      "amount": "4-6 hoagie rolls"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or wok over medium-high heat.",
+    "Add 1-2 inches of oil to the skillet and heat until it reaches 350°F.",
+    "Dredge the chicken slices in a mixture of cornstarch, salt, and pepper, then carefully place them in the hot oil.",
+    "Fry the chicken for 5-7 minutes on each side, or until it reaches an internal temperature of 165°F.",
+    "Remove the chicken from the oil and place it on a paper towel-lined plate to drain excess oil.",
+    "In a small bowl, mix together the mayonnaise, chopped cilantro, sliced jalapeños, and a pinch of salt and pepper.",
+    "Spread a layer of the mayonnaise mixture on the bottom half of each banh mi bread.",
+    "Add a few slices of the fried chicken on top of the mayonnaise mixture.",
+    "Add a few slices of the pickled carrots and daikon, sliced cucumber, and sliced radishes on top of the chicken.",
+    "Place the top half of the banh mi bread on each sandwich and serve immediately.",
+    "Repeat the process for each sandwich, using the leftover chicken and pickled vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "crispy",
+    "banhmi",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-vietnamese-chicken-banh-mi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T14:10:34.021Z"
+}
