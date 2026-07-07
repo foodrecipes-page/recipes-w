@@ -1,0 +1,65 @@
+{
+  "slug": "warm-spanish-double-rise-bread-toast",
+  "title": "Warm Spanish Toast",
+  "description": "A simple and delicious breakfast or brunch option featuring warm, crispy bread topped with a blend of savory ingredients.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Double-rise butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Warm spices",
+      "amount": "1/2 teaspoon",
+      "notes": "Optional: smoked paprika, garlic powder, or dried oregano"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Place the bread slices on a baking sheet and toast in the oven for 2-3 minutes or until lightly browned.",
+    "While the bread is toasting, melt the butter in a small saucepan over low heat.",
+    "Add the warm spices to the melted butter and stir to combine.",
+    "Once the bread is toasted, brush the warm butter mixture evenly over each slice.",
+    "Sprinkle salt to taste and top with chopped parsley if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "spanish",
+    "warm",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 32,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spanish-double-rise-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T15:23:00.615Z"
+}
