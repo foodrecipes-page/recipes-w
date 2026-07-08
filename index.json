@@ -10400,16 +10400,15 @@
   },
   {
     "slug": "warm-yeasty-american-kimchi-burger",
-    "title": "Warm Yeasty American Kimchi Burger",
+    "title": "Spicy American Burger Buns",
     "tags": [
-      "american-style",
-      "burger-lovers",
-      "diabetic-friendly",
-      "hangover-cure",
-      "weeknight-meal",
-      "yeast-raised"
+      "american",
+      "yeast",
+      "buns",
+      "burger",
+      "spicy"
     ],
-    "cuisine": "American",
+    "cuisine": "american",
     "totalTimeMin": 50,
     "shard": "w"
   },
@@ -14551,15 +14550,13 @@
   },
   {
     "slug": "wholesome-peppery-norwegian-chestnut-kjottkaker",
-    "title": "Norwegian Chestnut Kjøttkaker",
+    "title": "Kjottkaker with Chestnut Mash",
     "tags": [
-      "comfort-food",
-      "dinner-ideas",
-      "festive",
-      "high-protein",
-      "main-course",
+      "kjottkaker",
+      "norwegian",
+      "chestnut",
       "meatballs",
-      "norwegian-dish"
+      "comfort-food"
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 40,
