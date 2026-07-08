@@ -1291,18 +1291,15 @@
   },
   {
     "slug": "warm-creamy-mediterranean-fromage-blanc-frittata",
-    "title": "Warm Creamy Mediterranean Fromage Blanc Frittata",
+    "title": "Mediterranean Frittata",
     "tags": [
-      "brunch-ideas",
-      "diabetic-friendly",
-      "gluten-free",
-      "high-protein",
-      "mediterranean-diet",
-      "one-pan",
-      "weeknight-meals"
+      "mediterranean",
+      "frittata",
+      "breakfast",
+      "lunch"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -11238,17 +11235,15 @@
   },
   {
     "slug": "warmly-roasted-mediterranean-lamb-kebabs",
-    "title": "Warmly Roasted Mediterranean Lamb Kebabs",
+    "title": "Mediterranean Lamb Kebabs",
     "tags": [
-      "high-protein",
-      "kebabs",
-      "lamb",
       "mediterranean",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "kebabs",
+      "grill"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -12900,17 +12895,14 @@
   },
   {
     "slug": "wholesome-american-apple-pie",
-    "title": "Wholesome American Apple Pie",
+    "title": "Classic American Apple Pie",
     "tags": [
-      "american-pie",
-      "bake",
-      "comfort-food",
-      "flaky",
-      "holiday",
-      "vegetarian"
+      "apple-pie",
+      "classic-dessert",
+      "american-cuisine"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 80,
+    "cuisine": "american",
+    "totalTimeMin": 70,
     "shard": "w"
   },
   {
@@ -13358,18 +13350,14 @@
   },
   {
     "slug": "wholesome-crispy-slovakian-salt-cod-stir-fry",
-    "title": "Wholesome Crispy Slovakian Salt Cod Stir-Fry",
+    "title": "Pan-Fried Cod with Slovakian Crispy Breading",
     "tags": [
       "fish",
-      "high-protein",
-      "jain-friendly",
-      "kid-friendly",
-      "one-pan",
-      "slovak",
-      "weeknight"
+      "slovakian-cuisine",
+      "comfort-food"
     ],
-    "cuisine": "slovak",
-    "totalTimeMin": 50,
+    "cuisine": "slovakian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -16622,15 +16610,15 @@
   },
   {
     "slug": "wilted-smoky-roasted-wholesome-boudin-blanc-pilaf",
-    "title": "Wilted Smoky Roasted Wholesome Boudin Blanc Pilaf",
+    "title": "Smoky Pilaf with Roasted Blanc and Boudin",
     "tags": [
-      "egyptian-dish",
-      "one-pot",
-      "plant-based-friendly",
-      "smoky-flavor"
+      "cajun",
+      "pilaf",
+      "roasted",
+      "smoky"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 60,
+    "cuisine": "cajun",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
