@@ -1,67 +1,70 @@
 {
   "slug": "warm-buttery-peruvian-chicken-pollo-a-la-brasa",
   "title": "Pollo a la Brasa",
-  "description": "A traditional Peruvian-style roasted chicken recipe, marinated in a mixture of spices and herbs.",
+  "description": "A Peruvian-style rotisserie chicken dish, marinated in a mixture of spices and herbs before being roasted to perfection.",
   "cuisine": "Peruvian",
   "diet": [
-    "paleo",
-    "gluten-free"
+    "meat-only"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "whole chicken",
-      "amount": "1",
-      "notes": "3-4 lbs"
+      "name": "Chicken (whole or cut into quarters)",
+      "amount": "1 1/2 lbs",
+      "notes": ""
     },
     {
-      "name": "garlic",
-      "amount": "2 cloves",
-      "notes": "minced"
-    },
-    {
-      "name": "oregano",
-      "amount": "1 tsp",
-      "notes": "dried"
-    },
-    {
-      "name": "cumin",
-      "amount": "1 tsp",
-      "notes": "ground"
-    },
-    {
-      "name": "black pepper",
-      "amount": "1 tsp",
-      "notes": "ground"
-    },
-    {
-      "name": "salt",
-      "amount": "1 tsp",
-      "notes": "flaky"
-    },
-    {
-      "name": "chicken broth",
-      "amount": "1 cup",
-      "notes": "low-sodium"
-    },
-    {
-      "name": "warm aji amarillo pepper sauce",
+      "name": "Butter",
       "amount": "2 tbsp",
-      "notes": "see note"
+      "notes": ""
+    },
+    {
+      "name": "Aji amarillo pepper paste",
+      "amount": "2 tbsp",
+      "notes": "Available at most Latin American grocery stores"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chimichurri (store-bought or homemade)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Warm water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
     }
   ],
   "instructions": [
-    "Preheat oven to 425°F (220°C).",
-    "In a blender or food processor, blend together garlic, oregano, cumin, black pepper, and salt.",
-    "Add the chicken broth to the blender and blend until smooth.",
-    "Place the chicken in a large bowl and pour the marinade over it.",
-    "Rub the marinade all over the chicken, making sure it's well coated.",
-    "Let the chicken marinate for at least 2 hours, or overnight.",
-    "Preheat a grill or grill pan to medium-high heat.",
-    "Remove the chicken from the marinade and cook for 5-7 minutes per side, or until it reaches an internal temperature of 165°F (74°C).",
-    "Transfer the chicken to a baking sheet and roast in the preheated oven for 15-20 minutes, or until it's cooked through and the skin is crispy.",
-    "Let the chicken rest for 10-15 minutes before slicing and serving.",
-    "Serve with warm aji amarillo pepper sauce spooned over the top."
+    "Preheat your oven to 400°F (200°C).",
+    "In a large bowl, whisk together the aji amarillo pepper paste, garlic, black pepper, salt, and warm water until well combined.",
+    "Add the chicken to the marinade and mix until the chicken is well coated.",
+    "Let the chicken marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Remove the chicken from the marinade and place it on a roasting pan.",
+    "Rub the chicken with butter and sprinkle with black pepper and salt.",
+    "Roast the chicken in the preheated oven for 45-50 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "Baste the chicken with the pan juices every 20 minutes to keep it moist and promote even browning.",
+    "Once the chicken is cooked, let it rest for 10 minutes before carving and serving.",
+    "Garnish with chopped cilantro and serve with chimichurri sauce."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -69,20 +72,19 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "pollo",
-    "chicken",
     "peruvian",
-    "roasted",
-    "grilled"
+    "chicken",
+    "rotisserie",
+    "latin-american"
   ],
   "nutrition": {
-    "calories": 420,
-    "protein": 52,
-    "carbs": 6,
-    "fat": 20
+    "calories": 540,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 32
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/warm-buttery-peruvian-chicken-pollo-a-la-brasa",
   "providerUsed": "groq",
-  "createdAt": "2026-06-09T20:41:23.169Z"
+  "createdAt": "2026-07-06T13:14:18.670Z"
 }
