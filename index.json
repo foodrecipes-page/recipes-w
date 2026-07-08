@@ -845,14 +845,12 @@
   },
   {
     "slug": "warm-cheesy-filipino-cheese-casserole",
-    "title": "Warm Cheesy Filipino Cheese Casserole",
+    "title": "Filipino Mac and Cheese Casserole",
     "tags": [
+      "mac-and-cheese",
+      "filipino",
       "casserole",
-      "cheesy",
-      "comfort-food",
-      "filipino-food",
-      "midnight-cravings",
-      "ovovegetarian"
+      "comfort-food"
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 45,
@@ -3335,17 +3333,14 @@
   },
   {
     "slug": "warm-flaky-venezuelan-chicken-empanadas",
-    "title": "Warm Flaky Venezuelan Chicken Empanadas",
+    "title": "Venezuelan Chicken Empanadas",
     "tags": [
-      "chicken-recipes",
       "empanadas",
-      "gluten-free",
-      "low-glycemic",
-      "meal-prep",
-      "venezuelan-cuisine"
+      "chicken",
+      "venezuelan"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 55,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -11661,16 +11656,16 @@
   },
   {
     "slug": "warmly-spiced-japanese-salmon-wrap",
-    "title": "Warmly Spiced Japanese Salmon Wrap",
+    "title": "Warm Spiced Salmon Wrap",
     "tags": [
-      "brunch-ideas",
-      "healthy-eating",
-      "japanese-inspired",
-      "pandan-wraps",
-      "seafood-lovers"
+      "salmon",
+      "japanese",
+      "fusion",
+      "lunch",
+      "wrap"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 27,
+    "cuisine": "Japanese Fusion",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
