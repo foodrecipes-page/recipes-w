@@ -1,0 +1,80 @@
+{
+  "slug": "wholesome-chewy-mexican-chocolate-quesadilla",
+  "title": "Mexican Quesadilla Delight",
+  "description": "A delicious and filling quesadilla recipe with wholesome ingredients, perfect for a snack or light meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat tortilla",
+      "amount": "2",
+      "notes": "large tortillas"
+    },
+    {
+      "name": "wholesome shredded cheese",
+      "amount": "1 cup",
+      "notes": "low-fat shredded cheese"
+    },
+    {
+      "name": "chewy salsa",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "mexican rice",
+      "amount": "1/2 cup",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tablespoons",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "chopped fresh tomatoes",
+      "amount": "1 cup",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "quesadilla",
+      "amount": "2",
+      "notes": "store-bought or homemade tortillas"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Place one whole wheat tortilla in the skillet and sprinkle with wholesome shredded cheese.",
+    "Top with a spoonful of chewy salsa, mexican rice, chopped cilantro, and chopped fresh tomatoes.",
+    "Fold the tortilla in half to enclose the filling and cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is crispy and the cheese is melted.",
+    "Repeat with the remaining ingredients to make a second quesadilla.",
+    "Cut the quesadillas into wedges and serve hot.",
+    "Garnish with additional chopped cilantro and salsa, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "quesadilla",
+    "snack",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-chewy-mexican-chocolate-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T18:46:47.071Z"
+}
