@@ -11756,17 +11756,15 @@
   },
   {
     "slug": "warmly-spiced-mexican-poblanos-skewers",
-    "title": "Warmly Spiced Mexican Poblanos Skewers",
+    "title": "Spicy Poblano Skewers",
     "tags": [
-      "festive",
-      "grilled-vegetables",
-      "jain-friendly",
-      "mexican-food",
-      "spicy",
-      "vegetarian"
+      "grilled",
+      "mexican",
+      "skewers",
+      "spicy"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 30,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
