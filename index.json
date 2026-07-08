@@ -9386,17 +9386,15 @@
   },
   {
     "slug": "warm-velvety-egyptian-banana-fritters",
-    "title": "Warm Velvety Egyptian Banana Fritters",
+    "title": "Egyptian Banana Fritters",
     "tags": [
-      "banana-dishes",
-      "deep-fried",
-      "egyptian-cuisine",
-      "fodmap-friendly",
-      "middle-eastern",
-      "vegetarian"
+      "dessert",
+      "fritters",
+      "egyptian",
+      "bananas"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 23,
     "shard": "w"
   },
   {
@@ -15138,17 +15136,15 @@
   },
   {
     "slug": "wholesome-thai-pork-salad",
-    "title": "Wholesome Thai Pork Salad",
+    "title": "Thai Pork Salad",
     "tags": [
-      "hangover-cure",
-      "low-carb",
-      "pork-salad",
-      "quick",
-      "street-food",
-      "thai"
+      "thai",
+      "salad",
+      "grilled-pork",
+      "pork"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 25,
+    "cuisine": "thai",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -15167,17 +15163,16 @@
   },
   {
     "slug": "wholesome-tunisian-chicken-tagine",
-    "title": "Wholesome Tunisian Chicken Tagine",
+    "title": "Tunisian Chicken Tagine",
     "tags": [
-      "chicken-tagine",
-      "gluten-free",
-      "healthy",
-      "low-tamasic",
-      "one-pot",
-      "tunisian"
+      "chicken",
+      "tunisian",
+      "tagine",
+      "spicy",
+      "easy-to-make"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
