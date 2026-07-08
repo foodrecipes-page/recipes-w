@@ -1,0 +1,79 @@
+{
+  "slug": "warmly-spiced-japanese-salmon-wrap",
+  "title": "Warm Spiced Salmon Wrap",
+  "description": "A fusion of Japanese flavors with warm spices, wrapped in a crispy wrap. This dish is perfect for a quick and satisfying meal.",
+  "cuisine": "Japanese Fusion",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon Fillet",
+      "amount": "1",
+      "notes": "6 oz"
+    },
+    {
+      "name": "Warm Spiced Sauce",
+      "amount": "",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Japanese Cucumber",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "",
+      "notes": "shredded"
+    },
+    {
+      "name": "Warm Spiced Wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the salmon fillet on the prepared baking sheet.",
+    "Drizzle the warm spiced sauce over the salmon.",
+    "Bake for 12-15 minutes or until cooked through.",
+    "Meanwhile, toast the wrap in a dry pan for 2-3 minutes or until crispy.",
+    "Assemble the wrap by spreading the warmed salmon, cucumber, red onion, cilantro, and lettuce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "japanese",
+    "fusion",
+    "lunch",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-japanese-salmon-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:22:12.401Z"
+}
