@@ -1,0 +1,84 @@
+{
+  "slug": "wholesome-american-apple-pie",
+  "title": "Classic American Apple Pie",
+  "description": "A traditional American dessert featuring tender apples and a flaky crust, perfect for any occasion.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "3-4"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground nutmeg",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Pie crust",
+      "amount": "1 double-crust"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and slice the apples, and mix with granulated sugar, brown sugar, cinnamon, and nutmeg.",
+    "Roll out the pie crust and place in a 9-inch pie dish.",
+    "Fill the pie crust with the apple mixture and dot the top with butter.",
+    "Roll out the remaining pie crust and use to cover the pie. Crimp the edges to seal.",
+    "Cut a few slits in the top crust to allow steam to escape.",
+    "Brush the top crust with an egg wash (beaten egg mixed with a little water).",
+    "Bake for 40-50 minutes, or until the crust is golden brown and the apples are tender.",
+    "Let the pie cool for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "apple-pie",
+    "classic-dessert",
+    "american-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-american-apple-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:36:11.832Z"
+}
