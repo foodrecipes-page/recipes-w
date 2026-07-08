@@ -1,0 +1,77 @@
+{
+  "slug": "warmly-spiced-mexican-poblanos-skewers",
+  "title": "Spicy Poblano Skewers",
+  "description": "Tender and flavorful skewers of marinated chicken, roasted poblano peppers, and onions. Perfect for a quick and easy dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "poblano peppers",
+      "amount": "4",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "warmly spiced olive oil",
+      "amount": "2 tablespoons",
+      "notes": "or regular olive oil with added cumin and chili powder"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together warmly spiced olive oil, fajita seasoning, salt, and pepper.",
+    "Add chicken, poblano peppers, and onion to the bowl and toss to coat with the marinade.",
+    "Thread chicken and vegetables onto skewers, leaving a little space between each piece.",
+    "Grill skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through and the vegetables are tender.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "mexican",
+    "skewers",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-mexican-poblanos-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T08:47:07.322Z"
+}
