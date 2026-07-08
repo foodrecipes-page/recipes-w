@@ -1,0 +1,98 @@
+{
+  "slug": "wholesome-tunisian-chicken-tagine",
+  "title": "Tunisian Chicken Tagine",
+  "description": "A flavorful North African dish made with chicken, wholesome spices, and a rich tagine sauce.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Wholesome ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "Or to taste"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Or to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Or to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Or to taste"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "Low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken to the pot and cook until browned, about 5-7 minutes. Remove from the pot and set aside.",
+    "In the same pot, add the remaining 1 tablespoon of coconut oil. Add the onion, garlic, and ginger, and cook until the onion is translucent, about 5 minutes.",
+    "Add the cumin, smoked paprika, salt, and black pepper to the pot, and cook for 1 minute.",
+    "Add the browned chicken back to the pot, along with the apricots and chicken broth. Bring to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the chicken is cooked through.",
+    "Serve the tagine hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tunisian",
+    "tagine",
+    "spicy",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-tunisian-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:01:13.293Z"
+}
