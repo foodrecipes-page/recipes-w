@@ -1,0 +1,97 @@
+{
+  "slug": "wholesome-thai-pork-salad",
+  "title": "Thai Pork Salad",
+  "description": "A spicy and refreshing Thai-inspired salad made with grilled pork, mixed greens, and a tangy dressing.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "1 pound",
+      "notes": "boneless and lean"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "wholesome peanut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "wholesome soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "wholesome fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "grated fresh ginger",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "grated fresh Thai chili",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "wholesome lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salad",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Grill the pork chops over medium-high heat until cooked through, about 5-7 minutes per side.",
+    "Let the pork chops rest for 5 minutes before slicing them thinly against the grain.",
+    "In a large bowl, combine the mixed greens, sliced pork, peanut oil, soy sauce, fish sauce, ginger, chili, cilantro, and mint.",
+    "Toss the salad to combine and adjust the seasoning as needed.",
+    "Drizzle the lime juice over the salad and toss again to combine.",
+    "Serve the salad immediately, garnished with additional cilantro and mint if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "salad",
+    "grilled-pork",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-thai-pork-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T10:20:06.247Z"
+}
