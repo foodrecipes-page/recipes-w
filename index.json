@@ -3005,16 +3005,16 @@
   },
   {
     "slug": "warm-fatty-algerian-chickpeas-tagine",
-    "title": "Warm Fatty Algerian Chickpeas Tagine",
+    "title": "Classic Algerian Chickpea Tagine",
     "tags": [
       "algerian",
-      "comfort-food",
-      "hearty",
-      "one-pot",
-      "weeknight"
+      "chickpea",
+      "stew",
+      "warm",
+      "comforting"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -10134,18 +10134,14 @@
   },
   {
     "slug": "warm-wholesome-wilted-egyptian-kale-fondue",
-    "title": "Warm Wholesome Wilted Egyptian Kale Fondue",
+    "title": "Egyptian Wilted Kale Fondue",
     "tags": [
-      "coconut-cream",
-      "comfort-food",
-      "egyptian-cuisine",
       "fondue",
-      "high-protein",
-      "lunch",
-      "one-pan",
-      "weeknight"
+      "egyptian",
+      "kale",
+      "vegetarian"
     ],
-    "cuisine": "egyptian",
+    "cuisine": "Egyptian",
     "totalTimeMin": 25,
     "shard": "w"
   },
