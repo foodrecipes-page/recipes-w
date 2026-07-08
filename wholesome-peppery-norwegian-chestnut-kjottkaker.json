@@ -1,0 +1,100 @@
+{
+  "slug": "wholesome-peppery-norwegian-chestnut-kjottkaker",
+  "title": "Kjottkaker with Chestnut Mash",
+  "description": "This traditional Norwegian dish combines hearty kjottkaker meatballs with a creamy chestnut mash.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "1 lb",
+      "notes": "Choose fresh pork with a fat content of at least 20%"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Norwegian whole wheat flour",
+      "amount": "2 tbsp",
+      "notes": "Helps bind the meatballs together"
+    },
+    {
+      "name": "Chestnuts",
+      "amount": "4-5 medium",
+      "notes": "Choose fresh or canned"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a large mixing bowl, combine the ground pork, flour, breadcrumbs, egg, onion, and Norwegian whole wheat flour. Mix well with your hands until just combined.",
+    "3. Use your hands to shape the mixture into small meatballs about 1 1/2 inches (3.8 cm) in diameter.",
+    "4. Place the meatballs on a baking sheet lined with parchment paper, leaving about 1 inch (2.5 cm) of space between each meatball.",
+    "5. Bake the meatballs in the preheated oven for 18-20 minutes, or until cooked through.",
+    "6. While the meatballs are baking, prepare the chestnut mash. Peel and chop the chestnuts, then boil them in salted water until tender.",
+    "7. Drain the chestnuts and mash with butter, milk, salt, and black pepper until smooth.",
+    "8. Serve the kjottkaker meatballs with the creamy chestnut mash.",
+    "9. Garnish with chopped fresh parsley or chives, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kjottkaker",
+    "norwegian",
+    "chestnut",
+    "meatballs",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-peppery-norwegian-chestnut-kjottkaker",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:34:50.839Z"
+}
