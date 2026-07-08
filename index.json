@@ -566,11 +566,10 @@
     "slug": "warm-buttery-peruvian-chicken-pollo-a-la-brasa",
     "title": "Pollo a la Brasa",
     "tags": [
-      "pollo",
-      "chicken",
       "peruvian",
-      "roasted",
-      "grilled"
+      "chicken",
+      "rotisserie",
+      "latin-american"
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 65,
@@ -2434,17 +2433,17 @@
   },
   {
     "slug": "warm-dense-brazilian-coconut-stew",
-    "title": "Warm Dense Brazilian Coconut Stew",
+    "title": "Brazilian Coconut Pão de Leite",
     "tags": [
-      "brazilian-cuisine",
-      "coconut-based",
-      "comfort-food",
-      "lacto-vegetarian",
-      "one-pot",
-      "vegetarian-friendly"
+      "brazilian",
+      "coconut",
+      "pudding",
+      "dessert",
+      "warm",
+      "dense"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -15966,17 +15965,14 @@
   },
   {
     "slug": "wildly-crisp-venezuelan-lettuce-salad",
-    "title": "Wildly Crisp Venezuelan Lettuce Salad",
+    "title": "Crisp Venezuelan Lettuce Salad",
     "tags": [
-      "brunch",
-      "crunchy",
-      "fresh",
-      "gluten-free",
-      "herbal",
-      "vegan-friendly"
+      "salad",
+      "vegan",
+      "gluten-free"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
