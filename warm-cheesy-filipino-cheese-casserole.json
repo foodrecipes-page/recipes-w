@@ -1,0 +1,86 @@
+{
+  "slug": "warm-cheesy-filipino-cheese-casserole",
+  "title": "Filipino Mac and Cheese Casserole",
+  "description": "A warm, cheesy twist on the classic casserole, inspired by Filipino flavors. Perfect for a comforting dinner.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Filipino-style breading mix",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook macaroni according to package instructions. Drain and set aside.",
+    "In a pan, cook ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add onion and garlic to the pan and cook until softened.",
+    "Stir in flour and cook for 1 minute.",
+    "Gradually add milk, whisking constantly, and bring to a simmer.",
+    "Reduce heat to low and let sauce simmer for 2-3 minutes, until thickened.",
+    "In a large bowl, combine cooked macaroni, cheese sauce, and shredded cheese. Mix well.",
+    "Transfer the macaroni mixture to a baking dish and top with additional shredded cheese.",
+    "Sprinkle breading mix evenly over the top of the casserole.",
+    "Dot the top of the casserole with butter.",
+    "Bake in the preheated oven for 25-30 minutes, or until golden brown and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mac-and-cheese",
+    "filipino",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-cheesy-filipino-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:44:07.093Z"
+}
