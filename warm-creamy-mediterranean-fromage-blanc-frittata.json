@@ -1,0 +1,86 @@
+{
+  "slug": "warm-creamy-mediterranean-fromage-blanc-frittata",
+  "title": "Mediterranean Frittata",
+  "description": "A warm and creamy Mediterranean-style frittata perfect for breakfast, lunch, or dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/2 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Whisk the eggs in a large bowl and set aside.",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat.",
+    "Add the sliced olives, artichoke hearts, and sun-dried tomatoes. Cook for 2-3 minutes.",
+    "Sprinkle the feta cheese over the top and cook for an additional minute.",
+    "Pour the whisked eggs over the top of the skillet and cook until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are set.",
+    "Remove from the oven and sprinkle with chopped parsley.",
+    "Season with salt and pepper to taste.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "frittata",
+    "breakfast",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-creamy-mediterranean-fromage-blanc-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:55:11.814Z"
+}
