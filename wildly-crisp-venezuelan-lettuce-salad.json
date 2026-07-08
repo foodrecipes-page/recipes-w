@@ -1,0 +1,67 @@
+{
+  "slug": "wildly-crisp-venezuelan-lettuce-salad",
+  "title": "Crisp Venezuelan Lettuce Salad",
+  "description": "A refreshing salad inspired by Venezuelan cuisine, featuring crisp lettuce and a variety of textures.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wildly crisp lettuce",
+      "amount": "4 cups"
+    },
+    {
+      "name": "wild venezuelan corn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "wild avocado",
+      "amount": "1"
+    },
+    {
+      "name": "wild tomato",
+      "amount": "1"
+    },
+    {
+      "name": "wild pumpkin seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "wild olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Wash and dry the lettuce leaves.",
+    "Cut the corn kernels from the cobs.",
+    "Cut the avocado and tomato into small pieces.",
+    "Toss the pumpkin seeds in a pan and toast until lightly browned.",
+    "In a large bowl, combine the lettuce, corn, avocado, tomato, and pumpkin seeds.",
+    "Drizzle the olive oil over the salad and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wildly-crisp-venezuelan-lettuce-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T15:09:26.125Z"
+}
