@@ -1,0 +1,73 @@
+{
+  "slug": "warm-wholesome-wilted-egyptian-kale-fondue",
+  "title": "Egyptian Wilted Kale Fondue",
+  "description": "A unique and flavorful twist on traditional fondue, combining Egyptian spices with wilted kale. Serve as a snack or side dish.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm",
+      "amount": "1 piece (about 1 inch square)",
+      "notes": ""
+    },
+    {
+      "name": "wholesome",
+      "amount": "1 piece (about 1 inch square)",
+      "notes": ""
+    },
+    {
+      "name": "wilted",
+      "amount": "1 piece (about 1 inch square)",
+      "notes": ""
+    },
+    {
+      "name": "egyptian",
+      "amount": "2 tbsp",
+      "notes": "Ground cumin, coriander, and paprika"
+    },
+    {
+      "name": "fondue",
+      "amount": "1 cup",
+      "notes": "Fondue cheese (Emmental or Gruyère)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Wrap the warm, wholesome, and wilted ingredients in foil and bake for 5 minutes to warm through.",
+    "In a large skillet, sauté the egyptian spice mix over medium heat for 1 minute.",
+    "Add the kale to the skillet and cook until wilted, about 3-4 minutes.",
+    "Remove the baked ingredients from the oven and chop into small pieces.",
+    "Add the chopped ingredients, wilted kale, and fondue cheese to the skillet.",
+    "Stir until the cheese is melted and the mixture is well combined.",
+    "Serve immediately, garnished with additional egyptian spice mix if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fondue",
+    "egyptian",
+    "kale",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wholesome-wilted-egyptian-kale-fondue",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T02:54:31.280Z"
+}
