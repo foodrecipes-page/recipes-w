@@ -1,0 +1,66 @@
+{
+  "slug": "wholesome-crispy-slovakian-salt-cod-stir-fry",
+  "title": "Pan-Fried Cod with Slovakian Crispy Breading",
+  "description": "A simple and flavorful dish featuring cod, crispy breading, and a hint of wholesome goodness.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod",
+      "amount": "4 fillets",
+      "notes": "fresh"
+    },
+    {
+      "name": "wholesome all-purpose flour",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "crispy breadcrumbs",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "stir-fry oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Prepare the breading station: place flour, breadcrumbs, and salt in separate shallow dishes.",
+    "Dredge the cod fillets in flour, shaking off excess.",
+    "Dip the floured cod in breadcrumbs, pressing gently to adhere.",
+    "Heat the stir-fry oil in a large skillet over medium-high heat.",
+    "Add the breaded cod and cook for 3-4 minutes on each side, until golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, until cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "slovakian-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-crispy-slovakian-salt-cod-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:41:03.605Z"
+}
