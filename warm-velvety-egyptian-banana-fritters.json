@@ -1,0 +1,68 @@
+{
+  "slug": "warm-velvety-egyptian-banana-fritters",
+  "title": "Egyptian Banana Fritters",
+  "description": "A delicious dessert inspired by Egyptian cuisine, fritters made with ripe bananas and a hint of warm spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ripe bananas",
+      "amount": "3",
+      "notes": "Mashed"
+    },
+    {
+      "name": "Egyptian fritters",
+      "amount": "1 cup",
+      "notes": "Pre-made or homemade"
+    },
+    {
+      "name": "Warm spices (cinnamon, cardamom, ginger)",
+      "amount": "1 tsp",
+      "notes": "Mixed together"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": "Granulated"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "Mash the bananas in a large bowl until smooth.",
+    "Add the warm spices, sugar, and mix until well combined.",
+    "Add the pre-made or homemade fritters to the bowl and mix until a dough forms.",
+    "Heat the vegetable oil in a deep frying pan over medium heat.",
+    "Using a spoon, drop the dough into the hot oil, making sure not to overcrowd the pan.",
+    "Fry the fritters for 2-3 minutes on each side, or until golden brown.",
+    "Remove the fritters from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "fritters",
+    "egyptian",
+    "bananas"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-velvety-egyptian-banana-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:15:05.899Z"
+}
