@@ -1,0 +1,82 @@
+{
+  "slug": "warm-yeasty-american-kimchi-burger",
+  "title": "Spicy American Burger Buns",
+  "description": "Soft, warm, yeasty buns to elevate your burgers, topped with a spicy kick from kimchi.",
+  "cuisine": "american",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "warm water",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "3 cups",
+      "notes": "use high-protein flour for better rise"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large, beaten"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour for dusting",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine warm water, yeast, and a pinch of sugar. Let it sit for 5-7 minutes until yeast is activated.",
+    "Add flour, salt, and chopped kimchi to the bowl. Mix until a shaggy dough forms.",
+    "Add beaten egg and melted butter to the dough. Mix until a sticky ball forms.",
+    "Knead the dough on a floured surface for 10-12 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1-2 hours until doubled in size.",
+    "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "Punch down the dough and divide it into 4-6 equal pieces, depending on desired bun size.",
+    "Shape each piece into a ball and then flatten it slightly into a disk.",
+    "Place the buns on the prepared baking sheet, leaving about 1 inch of space between each bun.",
+    "Bake for 15-20 minutes until golden brown.",
+    "Let the buns cool on a wire rack for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "yeast",
+    "buns",
+    "burger",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-yeasty-american-kimchi-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:37:57.453Z"
+}
