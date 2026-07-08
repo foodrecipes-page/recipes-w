@@ -1,0 +1,93 @@
+{
+  "slug": "wilted-smoky-roasted-wholesome-boudin-blanc-pilaf",
+  "title": "Smoky Pilaf with Roasted Blanc and Boudin",
+  "description": "A hearty, comforting pilaf dish featuring smoky flavors and a twist of creamy blanc and spicy boudin.",
+  "cuisine": "cajun",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "roasted blanc",
+      "amount": "2 cups",
+      "notes": "such as cauliflower"
+    },
+    {
+      "name": "boudin",
+      "amount": "1 sausage, sliced",
+      "notes": "cajun-style"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "adds smokiness"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": "adds depth"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "for flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "enhance flavors"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "balance flavors"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the sliced boudin and cook until browned, about 3-4 minutes per side.",
+    "Remove the boudin from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the pilaf and roasted blanc to the skillet, stirring to combine.",
+    "Cook for 2-3 minutes, until the pilaf is lightly toasted.",
+    "Return the cooked boudin to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cajun",
+    "pilaf",
+    "roasted",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 23,
+    "carbs": 50,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-smoky-roasted-wholesome-boudin-blanc-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:09:42.604Z"
+}
