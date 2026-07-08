@@ -1,0 +1,85 @@
+{
+  "slug": "warmly-roasted-mediterranean-lamb-kebabs",
+  "title": "Mediterranean Lamb Kebabs",
+  "description": "A flavorful and colorful dish featuring lamb kebabs seasoned with mediterranean spices and served with a side of roasted vegetables.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "Mediterranean Spice Mix",
+      "amount": "2 tbsp",
+      "notes": "available at most supermarkets"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "2",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1",
+      "notes": "cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, mediterranean spice mix, garlic, and oregano.",
+    "Add lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread lamb cubes, red bell pepper, zucchini, and red onion onto skewers.",
+    "Brush both sides of kebabs with olive oil and season with salt and pepper.",
+    "Grill kebabs for 8-10 minutes, turning occasionally, or until lamb is cooked to your desired level of doneness.",
+    "Transfer kebabs to a serving platter and serve with roasted vegetables.",
+    "To make roasted vegetables, toss red bell pepper, zucchini, and red onion with olive oil, salt, and pepper on a baking sheet.",
+    "Roast in the oven at 425°F (220°C) for 15-20 minutes, or until tender and lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "lamb",
+    "kebabs",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-roasted-mediterranean-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:42:19.823Z"
+}
