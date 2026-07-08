@@ -1,0 +1,90 @@
+{
+  "slug": "wildly-crispy-croatian-beef-skewers",
+  "title": "Croatian Beef Skewers",
+  "description": "A simple and flavorful recipe for beef skewers inspired by Croatian cuisine. The combination of marinated beef, crispy onions, and wild herbs creates a delicious and satisfying meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (skewers)",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Crispy Onions",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Wild Herbs (such as rosemary)",
+      "amount": "2 tablespoons",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Red Pepper Flakes (optional)",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, salt, black pepper, and paprika.",
+    "Add the beef cubes to the marinade and mix well to coat.",
+    "Thread the marinated beef onto skewers.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Meanwhile, toss the crispy onions with a little olive oil and sprinkle with salt.",
+    "After 5 minutes of grilling, add the crispy onions to the skewers and continue cooking for another 3-5 minutes.",
+    "Remove the skewers from the grill and let rest for 2-3 minutes.",
+    "Serve immediately, garnished with chopped wild herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "beef",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wildly-crispy-croatian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:54:30.819Z"
+}
