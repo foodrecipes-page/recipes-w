@@ -1,0 +1,87 @@
+{
+  "slug": "warm-flaky-venezuelan-chicken-empanadas",
+  "title": "Venezuelan Chicken Empanadas",
+  "description": "Delicious empanadas filled with shredded chicken and spices, inspired by Venezuelan cuisine. Perfect as a snack or light meal.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "empanada dough (flaky)",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cooked and shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "shredded cheese (warm)",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the empanada dough and cut into circles.",
+    "Place a tablespoon of shredded chicken in the center of each circle.",
+    "Add a sprinkle of onion, garlic, cumin, paprika, salt, and pepper on top of the chicken.",
+    "Fold the dough in half to form a half-circle and press the edges together to seal.",
+    "Brush the tops with a little warm water and sprinkle with shredded cheese (if using).",
+    "Place the empanadas on a baking sheet and bake for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "chicken",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-flaky-venezuelan-chicken-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:58:36.085Z"
+}
