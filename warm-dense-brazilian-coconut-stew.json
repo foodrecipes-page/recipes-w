@@ -1,0 +1,85 @@
+{
+  "slug": "warm-dense-brazilian-coconut-stew",
+  "title": "Brazilian Coconut Pão de Leite",
+  "description": "A warm and dense Brazilian coconut pudding dessert. Rich, creamy, and utterly delicious.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat can"
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "plain"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "fine"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon",
+      "notes": "pure"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a medium saucepan, whisk together coconut milk, sugar, cornstarch, and salt. Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Reduce the heat to low and simmer for 2-3 minutes, or until the pudding thickens.",
+    "Remove the saucepan from the heat and stir in the vanilla extract.",
+    "In a small bowl, whisk together the egg yolks. Temper the egg yolks by slowly pouring the warm pudding mixture into the egg yolks, whisking constantly.",
+    "Return the saucepan to the stovetop and cook over low heat, stirring constantly, until the mixture thickens to your liking.",
+    "Remove the saucepan from the heat and stir in the toasted shredded coconut.",
+    "Pour the pudding mixture into 4-6 small ramekins or cups.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 25-30 minutes, or until the puddings are set and the edges are lightly golden brown.",
+    "Remove the ramekins from the baking dish and let them cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours, or until chilled and set."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "coconut",
+    "pudding",
+    "dessert",
+    "warm",
+    "dense"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-dense-brazilian-coconut-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T13:33:28.469Z"
+}
