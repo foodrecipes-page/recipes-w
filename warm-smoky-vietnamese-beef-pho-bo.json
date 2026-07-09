@@ -1,0 +1,93 @@
+{
+  "slug": "warm-smoky-vietnamese-beef-pho-bo",
+  "title": "Vietnamese Beef Pho",
+  "description": "A hearty Vietnamese noodle soup made with slow-cooked beef and flavorful broth.",
+  "cuisine": "vietnamese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef bones",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "Slice thinly."
+    },
+    {
+      "name": "pho noodles",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Slice thinly."
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "Slice thinly."
+    }
+  ],
+  "instructions": [
+    "In a large stockpot, combine beef bones, black peppercorns, onion, and ginger. Pour in 4 quarts of water and bring to a boil.",
+    "Reduce heat to low and simmer for 1 hour.",
+    "Add beef brisket to the pot and continue to simmer for another 1 1/2 hours, or until the meat is tender.",
+    "Remove the beef from the pot and slice it thinly against the grain.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Add fish sauce, soy sauce, hoisin sauce, and sugar to the pot. Stir to combine.",
+    "Return the beef to the pot and simmer for 10 minutes.",
+    "Cook the pho noodles according to the package instructions. Drain and set aside.",
+    "To assemble the pho, place a portion of noodles into a bowl, then add slices of beef and hot broth. Serve immediately.",
+    "Garnish with fresh herbs, such as basil or mint, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "beef",
+    "pho",
+    "noodle soup"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-vietnamese-beef-pho-bo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:55:37.428Z"
+}
