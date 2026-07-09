@@ -1,0 +1,78 @@
+{
+  "slug": "wholesome-energizing-egyptian-semolina-flour-papillote",
+  "title": "Egyptian Semolina Cake",
+  "description": "A moist and flavorful semolina cake with a hint of wholesome goodness, perfect for a sweet treat or dessert.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Semolina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Papillote",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Grease a 9-inch round cake pan and set aside.",
+    "In a medium bowl, whisk together semolina, flour, papillote, and sugar.",
+    "In a large bowl, whisk together eggs, milk, and vegetable oil.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 5 minutes.",
+    "Transfer to a wire rack to cool completely.",
+    "Serve warm or at room temperature, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "dessert",
+    "egyptian",
+    "semolina"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-energizing-egyptian-semolina-flour-papillote",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:16:49.490Z"
+}
