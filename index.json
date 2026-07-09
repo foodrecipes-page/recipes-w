@@ -2689,17 +2689,15 @@
   },
   {
     "slug": "warm-dense-spanish-almonds-tarta-de-santiago",
-    "title": "Warm Dense Spanish Almonds Tarta De Santiago",
+    "title": "Empanadas de Santiago",
     "tags": [
-      "almond-based",
-      "dense-cake",
-      "halal-friendly",
-      "quick-fix",
-      "spanish-dessert",
-      "warm-dessert"
+      "spanish",
+      "empanada",
+      "chilean",
+      "almond"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 40,
+    "cuisine": "chilean",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -7501,18 +7499,15 @@
   },
   {
     "slug": "warm-smoky-vietnamese-beef-pho-bo",
-    "title": "Warm Smoky Vietnamese Beef Pho Bo",
+    "title": "Vietnamese Beef Pho",
     "tags": [
+      "vietnamese",
       "beef",
-      "gluten-free",
-      "low-calorie",
-      "noodle-soup",
-      "one-pot",
-      "smoky",
-      "vietnamese"
+      "pho",
+      "noodle soup"
     ],
     "cuisine": "vietnamese",
-    "totalTimeMin": 90,
+    "totalTimeMin": 210,
     "shard": "w"
   },
   {
@@ -13328,14 +13323,14 @@
   },
   {
     "slug": "wholesome-crispy-slovakian-salt-cod-stir-fry",
-    "title": "Pan-Fried Cod with Slovakian Crispy Breading",
+    "title": "Pan-Seared Cod With Slovakian Crust",
     "tags": [
-      "fish",
-      "slovakian-cuisine",
-      "comfort-food"
+      "seafood",
+      "slovakian",
+      "cod"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 35,
+    "cuisine": "seafood",
+    "totalTimeMin": 27,
     "shard": "w"
   },
   {
