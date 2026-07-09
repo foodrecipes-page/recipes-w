@@ -857,14 +857,11 @@
   },
   {
     "slug": "warm-cheesy-korean-soya-bean-dumplings",
-    "title": "Warm Cheesy Korean Soya Bean Dumplings",
+    "title": "Korean Bean Dumplings",
     "tags": [
-      "asian-cuisine",
-      "cheese-pull",
-      "jain-friendly",
-      "korean-food",
-      "soya-bean-recipes",
-      "vegetarian-snacks"
+      "korean",
+      "cheesy",
+      "dumplings"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
@@ -7771,17 +7768,15 @@
   },
   {
     "slug": "warm-spiced-moroccan-lamb-tagine",
-    "title": "Warm Spiced Moroccan Lamb Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "gluten-free",
-      "lamb",
-      "low-carb",
       "moroccan",
-      "one-pot",
-      "slow-cooker"
+      "lamb",
+      "tagine",
+      "stew"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "w"
   },
   {
@@ -9272,16 +9267,15 @@
   },
   {
     "slug": "warm-turkish-soya-bean-kuru-fasulye",
-    "title": "Warm Turkish Soya Bean Kuru Fasulye",
+    "title": "Turkish-Style Kuru Fasulye",
     "tags": [
-      "comfort-food",
-      "one-pan",
-      "pescatarian",
-      "turkish-cuisine",
-      "weeknight"
+      "turkish",
+      "vegetarian",
+      "stew",
+      "beans"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 75,
     "shard": "w"
   },
   {
@@ -13573,18 +13567,15 @@
   },
   {
     "slug": "wholesome-energizing-egyptian-semolina-flour-papillote",
-    "title": "Egyptian Semolina Flour Papillote",
+    "title": "Egyptian Semolina Cake",
     "tags": [
-      "breakfast",
-      "comfort-food",
-      "easy-to-make",
+      "cake",
+      "dessert",
       "egyptian",
-      "gluten-free",
-      "healthy",
-      "semolina-flour"
+      "semolina"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
