@@ -4188,17 +4188,15 @@
   },
   {
     "slug": "warm-hearty-british-sausages-bangers-and-mash",
-    "title": "Warm Hearty British Sausages Bangers And Mash",
+    "title": "Classic British Bangers and Mash",
     "tags": [
-      "british-cuisine",
-      "comfort-food",
-      "hearty",
-      "northern-irish",
-      "one-pot",
-      "pressure-cooker"
+      "bangers",
+      "mash",
+      "british",
+      "sausages"
     ],
     "cuisine": "British",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -8117,17 +8115,14 @@
   },
   {
     "slug": "warm-spicy-jamaican-collards-stew",
-    "title": "Warm Spicy Jamaican Collards Stew",
+    "title": "Jamaican Collard Stew",
     "tags": [
-      "comfort-food",
-      "halal-friendly",
-      "healthy",
-      "jamaican-cuisine",
-      "one-pot",
-      "spicy"
+      "jamaican",
+      "stew",
+      "collard greens"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "jamaican",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -16781,17 +16776,14 @@
   },
   {
     "slug": "winey-creamy-midnight-craving-argentinian-dinner-casserole",
-    "title": "Argentinian Winey Creamy Midnight Craving Casserole",
+    "title": "Midnight Argentine Casserole",
     "tags": [
       "argentinian",
-      "comfort-food",
-      "creamy",
-      "one-pan",
-      "weeknight",
-      "winey"
+      "casserole",
+      "dinner"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 55,
+    "cuisine": "Argentine",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
