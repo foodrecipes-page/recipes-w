@@ -1,0 +1,78 @@
+{
+  "slug": "warm-spicy-jamaican-collards-stew",
+  "title": "Jamaican Collard Stew",
+  "description": "A hearty and flavorful stew made with collard greens, inspired by Jamaican cuisine. This dish is perfect for a cold winter's day.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "collard greens",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp dried"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp ground"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1-2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the thyme, allspice, and hot sauce. Cook for 1 minute.",
+    "Add the collard greens, tomato paste, and vegetable broth. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until the greens are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "stew",
+    "collard greens"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-jamaican-collards-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T18:42:36.970Z"
+}
