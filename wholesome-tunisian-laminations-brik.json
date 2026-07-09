@@ -1,0 +1,83 @@
+{
+  "slug": "wholesome-tunisian-laminations-brik",
+  "title": "Brik Tunisian Savory Pastry",
+  "description": "A simple Tunisian recipe for Brik pastry, filled with wholesome ingredients and served with a side of tangy sauce. Brik pastry is a traditional Tunisian dish made with flaky laminations and crispy exterior.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brik pastry",
+      "amount": "4 pieces",
+      "notes": "Available in most Middle Eastern stores or online"
+    },
+    {
+      "name": "Wholesome hummus",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tunisian olives",
+      "amount": "1/4 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1/2 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat.",
+    "Add a tablespoon of oil and swirl to coat the bottom.",
+    "Place 2 Brik pastries in the skillet and cook for 2-3 minutes on each side, or until golden brown.",
+    "While the Brik pastry is cooking, mix together hummus, parsley, olives, cucumber, tomato, and red pepper flakes in a bowl.",
+    "To assemble, place a cooked Brik pastry on a plate, followed by a spoonful of the hummus mixture.",
+    "Fold the Brik pastry in half to enclose the filling.",
+    "Repeat with the remaining ingredients.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 14,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "savory",
+    "pastry",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-tunisian-laminations-brik",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:43:45.255Z"
+}
