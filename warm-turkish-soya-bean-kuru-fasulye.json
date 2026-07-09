@@ -1,0 +1,84 @@
+{
+  "slug": "warm-turkish-soya-bean-kuru-fasulye",
+  "title": "Turkish-Style Kuru Fasulye",
+  "description": "A hearty, comforting Turkish-inspired white bean stew. This dish is a staple of Turkish cuisine, often served with crusty bread or over rice.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kuru fasulye (dried white beans)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "soya oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the soya oil in a large pot over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground cumin and coriander and cook for 1 minute.",
+    "Add the dried white beans, salt, and black pepper. Stir to combine.",
+    "Add 4 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 hour, or until the beans are tender.",
+    "Serve hot, garnished with chopped fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "stew",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-turkish-soya-bean-kuru-fasulye",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T08:32:58.274Z"
+}
