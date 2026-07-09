@@ -1,0 +1,94 @@
+{
+  "slug": "warm-spiced-moroccan-lamb-tagine",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A traditional Moroccan stew made with tender lamb, fragrant spices, and dried fruits.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "lamb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 lb",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Dried prunes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a large clay or ceramic tagine over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the lamb and cook until browned on all sides, about 5-7 minutes.",
+    "Add the cumin, cinnamon, and ginger. Cook for 1 minute.",
+    "Add the prunes, apricots, and chicken broth. Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F for 2-3 hours, or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley and crusty bread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "tagine",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spiced-moroccan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:57:06.441Z"
+}
