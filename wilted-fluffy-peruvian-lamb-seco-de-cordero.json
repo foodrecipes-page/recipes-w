@@ -1,0 +1,83 @@
+{
+  "slug": "wilted-fluffy-peruvian-lamb-seco-de-cordero",
+  "title": "Lamb Seco",
+  "description": "A traditional Peruvian lamb stew, slow-cooked in a flavorful broth with tender lamb and fluffy rice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "Peruvian seco spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cordero vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fluffy rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chopped cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Season the lamb with salt and pepper.",
+    "Sear the lamb until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the garlic, cumin, and cayenne pepper. Cook for 1 minute.",
+    "Add the Peruvian seco spice mix and cook for 1 minute.",
+    "Add the vinegar and bring to a boil.",
+    "Return the lamb to the pot and add enough water to cover.",
+    "Bring the stew to a boil, then cover and transfer to the oven.",
+    "Bake for 2.5 hours or until the lamb is tender.",
+    "Serve with fluffy rice and garnish with cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian-food",
+    "lamb-recipe",
+    "stew-recipe"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-fluffy-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:53:22.148Z"
+}
