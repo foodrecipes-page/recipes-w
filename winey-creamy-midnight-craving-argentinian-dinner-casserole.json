@@ -1,0 +1,79 @@
+{
+  "slug": "winey-creamy-midnight-craving-argentinian-dinner-casserole",
+  "title": "Midnight Argentine Casserole",
+  "description": "A hearty, winey and creamy casserole inspired by Argentine cuisine, perfect for a cold night.",
+  "cuisine": "Argentine",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian Chorizo",
+      "amount": "1 pound",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Midnight potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Winey onions",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Creamy cream",
+      "amount": "1 cup",
+      "notes": "Heavy cream"
+    },
+    {
+      "name": "Casserole casserole",
+      "amount": "1 cup",
+      "notes": "Shredded cheddar"
+    },
+    {
+      "name": "Craving paprika",
+      "amount": "2 teaspoons",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Dinner salt",
+      "amount": "1 teaspoon",
+      "notes": "Flaky sea salt"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Sauté the chorizo and onions until browned.",
+    "Add the diced potatoes and cook until they start to soften.",
+    "In a separate pan, heat the heavy cream until warm.",
+    "Add the shredded cheddar and stir until melted.",
+    "Combine the chorizo mixture with the cream sauce.",
+    "Transfer the mixture to a baking dish.",
+    "Sprinkle with smoked paprika and flaky sea salt.",
+    "Bake for 25-30 minutes, or until the casserole is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "casserole",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-creamy-midnight-craving-argentinian-dinner-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T17:57:13.992Z"
+}
