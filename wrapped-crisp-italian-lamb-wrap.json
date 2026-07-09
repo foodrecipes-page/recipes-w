@@ -1,0 +1,73 @@
+{
+  "slug": "wrapped-crisp-italian-lamb-wrap",
+  "title": "Italian Lamb Wrap",
+  "description": "A flavorful and easy-to-make wrap filled with lamb, Italian seasonings, and crisp veggies.",
+  "cuisine": "Italian",
+  "diet": [
+    "meat",
+    "pasta-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "100g",
+      "notes": "Sliced into thin strips"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp",
+      "notes": "Dried herbs"
+    },
+    {
+      "name": "Washed Lettuce",
+      "amount": "1 head",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Crisp Bell Peppers",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "Wheat-based wrap"
+    },
+    {
+      "name": "Feta Cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": "Crumbly"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick pan over medium-high heat.",
+    "2. Add lamb to the pan and cook until browned, about 3-4 minutes.",
+    "3. Add Italian seasoning and cook for an additional minute.",
+    "4. In a separate pan, grill the wrap until crispy.",
+    "5. Assemble the wrap by spreading the cooked lamb mixture onto the wrap.",
+    "6. Top with shredded lettuce, sliced bell peppers, diced tomato, and crumbled feta cheese (if using).",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "lamb",
+    "wrap",
+    "easy",
+    "quick"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wrapped-crisp-italian-lamb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:55:24.632Z"
+}
