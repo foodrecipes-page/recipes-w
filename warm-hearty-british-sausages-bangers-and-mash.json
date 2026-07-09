@@ -1,0 +1,75 @@
+{
+  "slug": "warm-hearty-british-sausages-bangers-and-mash",
+  "title": "Classic British Bangers and Mash",
+  "description": "A traditional British dish featuring juicy sausages served with creamy mashed potatoes.",
+  "cuisine": "British",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bangers (British Sausages)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3-4",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Gravy Granules",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Bring a large pot of salted water to a boil.",
+    "2. Peel and chop the potatoes into large chunks.",
+    "3. Add the potatoes to the boiling water and cook until tender, about 15-20 minutes.",
+    "4. While the potatoes are cooking, cook the bangers in a large pan over medium-high heat, turning frequently, until browned and cooked through.",
+    "5. Remove the cooked bangers from the pan and set aside.",
+    "6. Drain the cooked potatoes and return them to the pot.",
+    "7. Add the butter, milk, salt, and pepper to the potatoes and mash until smooth and creamy.",
+    "8. Serve the mashed potatoes with the cooked bangers and a sprinkle of gravy granules on top.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bangers",
+    "mash",
+    "british",
+    "sausages"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-hearty-british-sausages-bangers-and-mash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T17:57:09.418Z"
+}
