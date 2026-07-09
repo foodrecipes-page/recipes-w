@@ -1,0 +1,100 @@
+{
+  "slug": "warm-crisp-spanish-shrimp-fideua",
+  "title": "Spanish Shrimp Fideua",
+  "description": "A seafood twist on the classic Spanish paella dish, made with fideua noodles, succulent shrimp, and warm Mediterranean flavors.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fideua noodles",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "Add the diced tomato, chicken broth, smoked paprika, salt, and black pepper. Stir to combine.",
+    "Add the fideua noodles to the skillet and stir to combine with the seafood and sauce.",
+    "Reduce heat to low and simmer for 10-12 minutes, or until the noodles are cooked through.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the Spanish shrimp fideua hot, garnished with lemon wedges if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "spanish",
+    "gluten-free",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crisp-spanish-shrimp-fideua",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T06:51:28.020Z"
+}
