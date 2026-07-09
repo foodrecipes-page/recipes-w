@@ -1,66 +1,80 @@
 {
   "slug": "wholesome-crispy-slovakian-salt-cod-stir-fry",
-  "title": "Pan-Fried Cod with Slovakian Crispy Breading",
-  "description": "A simple and flavorful dish featuring cod, crispy breading, and a hint of wholesome goodness.",
-  "cuisine": "slovakian",
+  "title": "Pan-Seared Cod With Slovakian Crust",
+  "description": "A crispy Slovakian crust adds a unique flavor to this pan-seared cod dish. Serve with a side of wholesome stir-fry.",
+  "cuisine": "seafood",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "fish",
+    "seafood"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "cod",
-      "amount": "4 fillets",
-      "notes": "fresh"
+      "name": "Cod fillet",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
     },
     {
-      "name": "wholesome all-purpose flour",
+      "name": "Slovakian flour",
       "amount": "1 cup",
-      "notes": "gluten-free"
+      "notes": "Use a mix of wheat and rye flours"
     },
     {
-      "name": "crispy breadcrumbs",
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Unrefined sea salt"
+    },
+    {
+      "name": "Wholesome oil",
+      "amount": "2 tbsp",
+      "notes": "Use a neutral-tasting oil"
+    },
+    {
+      "name": "Crispy breadcrumbs",
       "amount": "1 cup",
-      "notes": "homemade or store-bought"
+      "notes": "Add a crunchy topping"
     },
     {
-      "name": "salt",
-      "amount": "to taste"
+      "name": "Fry",
+      "amount": "1 tsp",
+      "notes": "Use for seasoning"
     },
     {
-      "name": "stir-fry oil",
-      "amount": "2 tablespoons"
+      "name": "Stir",
+      "amount": "1 tsp",
+      "notes": "Use for seasoning"
     }
   ],
   "instructions": [
-    "Preheat the oven to 400°F (200°C).",
-    "Prepare the breading station: place flour, breadcrumbs, and salt in separate shallow dishes.",
-    "Dredge the cod fillets in flour, shaking off excess.",
-    "Dip the floured cod in breadcrumbs, pressing gently to adhere.",
-    "Heat the stir-fry oil in a large skillet over medium-high heat.",
-    "Add the breaded cod and cook for 3-4 minutes on each side, until golden brown.",
-    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, until cooked through.",
-    "Serve hot and enjoy!"
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Season cod fillets with salt and set aside.",
+    "3. In a shallow dish, mix together Slovakian flour, crispy breadcrumbs, and a pinch of salt.",
+    "4. Dip each cod fillet in the flour mixture, coating both sides evenly.",
+    "5. Heat wholesome oil in an oven-safe skillet over medium-high heat.",
+    "6. Add the coated cod fillets to the skillet and sear for 2-3 minutes on each side.",
+    "7. Transfer the skillet to the preheated oven and bake for 8-10 minutes or until cooked through.",
+    "8. While the cod is baking, prepare the wholesome stir-fry by heating a little oil in a separate pan.",
+    "9. Add your favorite stir-fry ingredients (not included in this recipe) and cook until tender.",
+    "10. Serve the pan-seared cod with the wholesome stir-fry and enjoy!"
   ],
   "prepTimeMin": 15,
-  "cookTimeMin": 20,
-  "totalTimeMin": 35,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "fish",
-    "slovakian-cuisine",
-    "comfort-food"
+    "seafood",
+    "slovakian",
+    "cod"
   ],
   "nutrition": {
     "calories": 320,
     "protein": 35,
-    "carbs": 20,
-    "fat": 12
+    "carbs": 10,
+    "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-crispy-slovakian-salt-cod-stir-fry",
   "providerUsed": "groq",
-  "createdAt": "2026-07-05T22:41:03.605Z"
+  "createdAt": "2026-07-06T22:52:22.497Z"
 }
