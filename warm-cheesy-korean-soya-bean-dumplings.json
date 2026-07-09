@@ -1,0 +1,94 @@
+{
+  "slug": "warm-cheesy-korean-soya-bean-dumplings",
+  "title": "Korean Bean Dumplings",
+  "description": "A warm, cheesy twist on traditional Korean bean dumplings. These can be steamed or pan-fried for a crispy exterior.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bean paste",
+      "amount": "1 cup",
+      "notes": "Korean-style bean paste, or substitute with edamame paste"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "For dumpling wrappers"
+    },
+    {
+      "name": "warm water",
+      "amount": "1/2 cup",
+      "notes": "For assembling dumplings"
+    },
+    {
+      "name": "soya sauce",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/4 cup",
+      "notes": "Optional, for a cheesy twist"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "For pan-frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "Minced, for pan-frying"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "Minced, for pan-frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine bean paste, flour, and warm water to form a dough.",
+    "Knead the dough for 5 minutes.",
+    "Divide the dough into small balls.",
+    "Roll out each ball into a thin circle.",
+    "Place a small spoonful of bean paste in the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape, and press the edges to seal.",
+    "Pan-fry the dumplings in sesame oil until golden brown.",
+    "Add garlic and ginger to the pan and stir-fry for 1 minute.",
+    "Serve the dumplings hot with soya sauce and grated cheese (if using).",
+    "Alternatively, steam the dumplings for 10-12 minutes for a steamed version."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "cheesy",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-cheesy-korean-soya-bean-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:13:03.524Z"
+}
