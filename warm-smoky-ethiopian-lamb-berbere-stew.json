@@ -1,0 +1,88 @@
+{
+  "slug": "warm-smoky-ethiopian-lamb-berbere-stew",
+  "title": "Ethiopian Lamb Stew",
+  "description": "A hearty and flavorful stew from Ethiopia, made with tender lamb and warm spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "Berbere",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the berbere, tomato paste, and beef broth. Stir to combine.",
+    "Bring the mixture to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "ethiopian",
+    "berbere"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-ethiopian-lamb-berbere-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T21:43:06.656Z"
+}
