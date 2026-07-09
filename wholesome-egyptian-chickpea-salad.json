@@ -1,0 +1,82 @@
+{
+  "slug": "wholesome-egyptian-chickpea-salad",
+  "title": "Egyptian Chickpea Salad",
+  "description": "A refreshing salad from Egypt, made with chickpeas, wholesome vegetables, and a hint of spice.",
+  "cuisine": "egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "wholesome olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "wholesome lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "wholesome cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "wholesome paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "egyptian salad",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Drain and rinse the chickpeas.",
+    "In a large bowl, whisk together the olive oil, lemon juice, cumin, and paprika.",
+    "Add the chickpeas to the bowl and toss to coat.",
+    "Chop the salad into bite-sized pieces and add to the bowl.",
+    "Season with salt and pepper to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chickpea",
+    "salad",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-egyptian-chickpea-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:12:06.680Z"
+}
