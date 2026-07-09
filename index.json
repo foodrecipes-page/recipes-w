@@ -911,18 +911,15 @@
   },
   {
     "slug": "warm-cheesy-polish-sausages-casserole",
-    "title": "Warm Cheesy Polish Sausages Casserole",
+    "title": "Polish Sausage Casserole",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "one-pan",
-      "polish-cuisine",
-      "sausage-casserole",
-      "vegan-friendly",
-      "weeknight"
+      "polish",
+      "sausages",
+      "casserole",
+      "cheesy"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -13253,17 +13250,13 @@
   },
   {
     "slug": "wholesome-creamy-fold-uruguayan-almonds-bake",
-    "title": "wholesome creamy fold uruguayan almonds bake",
+    "title": "Uruguayan Almond Cake",
     "tags": [
-      "creamy",
-      "dairy-free",
+      "cake",
       "dessert",
-      "easy",
-      "sweet",
-      "uruguayan",
-      "vegan-friendly"
+      "uruguayan"
     ],
-    "cuisine": "uruguayan",
+    "cuisine": "Uruguayan",
     "totalTimeMin": 50,
     "shard": "w"
   },
@@ -13495,17 +13488,14 @@
   },
   {
     "slug": "wholesome-egyptian-chickpea-salad",
-    "title": "Wholesome Egyptian Chickpea Salad",
+    "title": "Egyptian Chickpea Salad",
     "tags": [
-      "broil",
-      "egyptian",
-      "plant-based",
-      "quick",
+      "chickpea",
       "salad",
-      "turmeric"
+      "egyptian"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 20,
+    "cuisine": "egyptian",
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
@@ -15176,18 +15166,15 @@
   },
   {
     "slug": "wholesome-tunisian-laminations-brik",
-    "title": "Wholesome Tunisian Laminations Brik",
+    "title": "Brik Tunisian Savory Pastry",
     "tags": [
-      "breakfast",
-      "brunch",
-      "high-protein",
-      "lunch",
-      "one-pan",
       "tunisian",
-      "weeknight"
+      "savory",
+      "pastry",
+      "snack"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 14,
     "shard": "w"
   },
   {
@@ -16355,18 +16342,14 @@
   },
   {
     "slug": "wilted-fluffy-peruvian-lamb-seco-de-cordero",
-    "title": "Wilted Fluffy Peruvian Lamb Seco de Cordero",
+    "title": "Lamb Seco",
     "tags": [
-      "ayurvedic-tamasic-friendly",
-      "easy-to-make",
-      "floral",
-      "kid-friendly",
+      "peruvian-food",
       "lamb-recipe",
-      "one-pan",
-      "peruvian-cuisine"
+      "stew-recipe"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 135,
+    "totalTimeMin": 180,
     "shard": "w"
   },
   {
