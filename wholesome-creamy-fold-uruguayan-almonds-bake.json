@@ -1,0 +1,78 @@
+{
+  "slug": "wholesome-creamy-fold-uruguayan-almonds-bake",
+  "title": "Uruguayan Almond Cake",
+  "description": "A moist and flavorful cake from Uruguay, made with ground almonds and a hint of creamy texture. Perfect for a special occasion or dessert.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "ground"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "wholesome sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bake mix-ins",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "creamy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "uruguayan cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Grease two 9-inch (23cm) round cake pans.",
+    "In a medium bowl, whisk together flour, sugar, and bake mix-ins.",
+    "In a large bowl, whisk together eggs, milk, and vanilla extract.",
+    "Add the ground almonds to the egg mixture and whisk until well combined.",
+    "Gradually add the dry ingredients to the egg mixture and mix until just combined.",
+    "Divide the batter evenly between the prepared pans.",
+    "Bake for 25-30 minutes or until a toothpick inserted in the center comes out clean.",
+    "Let the cakes cool in the pans for 5 minutes before transferring them to a wire rack to cool completely.",
+    "If using cheese, crumble it on top of one of the cooled cakes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "dessert",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-creamy-fold-uruguayan-almonds-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:54:12.024Z"
+}
