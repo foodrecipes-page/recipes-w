@@ -3700,17 +3700,15 @@
   },
   {
     "slug": "warm-german-sauerkraut-stew",
-    "title": "Warm German Sauerkraut Stew",
+    "title": "Warm German Stew",
     "tags": [
-      "comfort-food",
       "german",
-      "low-fat",
-      "sausage",
-      "saute",
-      "stew"
+      "stew",
+      "warm",
+      "comfort-food"
     ],
     "cuisine": "german",
-    "totalTimeMin": 35,
+    "totalTimeMin": 80,
     "shard": "w"
   },
   {
@@ -17933,17 +17931,16 @@
   },
   {
     "slug": "wrapped-crisp-italian-lamb-wrap",
-    "title": "Wrapped Crisp Italian Lamb Wrap",
+    "title": "Italian Lamb Wrap",
     "tags": [
-      "italian-food",
-      "lamb-recipes",
-      "one-pot",
-      "plant-based-friendly",
-      "special-occasion",
-      "weeknight-dinner"
+      "italian",
+      "lamb",
+      "wrap",
+      "easy",
+      "quick"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 20,
     "shard": "w"
   },
   {
