@@ -1,0 +1,82 @@
+{
+  "slug": "winey-gooey-mexican-chicken-pozole",
+  "title": "Mexican Chicken Pozole",
+  "description": "A hearty and flavorful Mexican stew made with chicken, hominy, and spices. Serve with a side of lime wedges, shredded cabbage, and radishes.",
+  "cuisine": "mexican",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "dried hominy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pozole spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the hominy and chicken broth. Bring to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat. Add the chicken and cook until browned, about 5 minutes. Remove the chicken from the skillet and set aside.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent, about 5 minutes.",
+    "Add the pozole spice mix and cook for 1 minute.",
+    "Add the diced tomatoes, chicken broth, and browned chicken to the skillet. Bring to a boil, then reduce the heat to low and simmer for 15 minutes.",
+    "Add the cooked hominy to the skillet and stir to combine. Season with lime juice and salt to taste.",
+    "Serve the pozole hot, garnished with chopped cilantro and a side of lime wedges.",
+    "To make the recipe, it will take 45 minutes to prepare and 25 minutes to cook.",
+    "The total time is 70 minutes.",
+    "This recipe makes 4 servings.",
+    "It is a medium difficulty recipe to make."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "pozole",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-gooey-mexican-chicken-pozole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T00:55:29.361Z"
+}
