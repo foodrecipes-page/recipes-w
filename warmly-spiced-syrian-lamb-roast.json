@@ -1,0 +1,86 @@
+{
+  "slug": "warmly-spiced-syrian-lamb-roast",
+  "title": "Warmly Spiced Syrian Roast Lamb",
+  "description": "A deliciously flavored roast lamb dish infused with warm spices, perfect for a special occasion. This recipe is a variation of the traditional Syrian roast lamb.",
+  "cuisine": "Syrian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder (2 lbs)",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Warmly spiced syrup (see notes)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced (3 cloves)",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Onion, chopped (1 medium)",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Rinse the lamb shoulder and pat it dry with paper towels.",
+    "In a small bowl, mix together the olive oil, warmly spiced syrup, garlic, onion, salt, and black pepper.",
+    "Rub the mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Place the lamb shoulder in a roasting pan and put it in the oven.",
+    "Roast the lamb for 2 1/2 to 3 hours, or until it reaches an internal temperature of 145°F (63°C) for medium-rare.",
+    "Remove the lamb from the oven and let it rest for 15-20 minutes before slicing it thinly.",
+    "Serve the lamb with a sprinkle of chopped parsley and a side of your choice.",
+    "Note: To make the warmly spiced syrup, combine 1 cup of sugar, 1 cup of water, and 1 tsp of ground cinnamon in a saucepan. Bring to a boil, then reduce the heat and simmer for 5 minutes. Let it cool and store it in an airtight container.",
+    "Garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "roast",
+    "syrian",
+    "warmly-spiced"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-syrian-lamb-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T04:08:53.581Z"
+}
