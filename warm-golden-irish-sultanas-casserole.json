@@ -1,0 +1,77 @@
+{
+  "slug": "warm-golden-irish-sultanas-casserole",
+  "title": "Warm Irish Sultana Casserole",
+  "description": "A comforting dessert casserole made with warm golden sultanas and a hint of Irish flair.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Golden Sultanas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Irish Whiskey (optional)",
+      "amount": "2 tablespoons",
+      "notes": "adds depth of flavor"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a large mixing bowl, cream together butter and brown sugar until light and fluffy.",
+    "Add flour, baking powder, and salt; mix until just combined.",
+    "Stir in golden sultanas and Irish whiskey (if using).",
+    "Pour in heavy cream and mix until a smooth batter forms.",
+    "Pour batter into a greased 9x13-inch casserole dish.",
+    "Bake for 35-40 minutes or until a toothpick inserted comes out clean.",
+    "Remove from oven and let cool for 10 minutes before serving.",
+    "Serve warm, topped with additional golden sultanas if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "irish",
+    "sultanas",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-golden-irish-sultanas-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T21:37:24.419Z"
+}
