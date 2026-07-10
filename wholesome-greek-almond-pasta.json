@@ -1,0 +1,89 @@
+{
+  "slug": "wholesome-greek-almond-pasta",
+  "title": "Greek Pasta with Wholesome Almond Crunch",
+  "description": "A delicious and healthy pasta dish made with wholesome ingredients, crunchy almonds, and a hint of Greek flavor.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "whole wheat or gluten-free pasta"
+    },
+    {
+      "name": "Wholesome Almond Crunch",
+      "amount": "1/4 cup",
+      "notes": "chopped almonds and dried herbs"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat. Add the chopped garlic and cook for 1 minute.",
+    "Add the cherry tomatoes to the skillet and cook for 3-4 minutes, or until they start to release their juices.",
+    "Stir in the Greek yogurt, salt, and pepper. Bring the mixture to a simmer and cook for 2-3 minutes, or until it thickens slightly.",
+    "Add the cooked pasta to the skillet and toss with the tomato-yogurt sauce.",
+    "Sprinkle the wholesome almond crunch on top of the pasta and serve hot.",
+    "Garnish with chopped fresh basil and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "pasta",
+    "vegetarian",
+    "gluten-free",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-greek-almond-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:26:55.982Z"
+}
