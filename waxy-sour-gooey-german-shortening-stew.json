@@ -1,0 +1,65 @@
+{
+  "slug": "waxy-sour-gooey-german-shortening-stew",
+  "title": "Sour Gooey Stew",
+  "description": "A hearty stew with a tangy twist, perfect for a cold evening. This unique stew combines the flavors of sour and gooey to create a truly unforgettable experience.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "waxy potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "sour apples",
+      "amount": "1 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "gooey cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "shortening",
+      "amount": "2 tablespoons",
+      "notes": "used for browning"
+    },
+    {
+      "name": "stew seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat shortening in a large Dutch oven over medium heat.",
+    "2. Add diced apples and cook until tender, about 5 minutes.",
+    "3. Add waxy potatoes, stew seasoning, and enough water to cover. Bring to a boil.",
+    "4. Reduce heat to low and simmer for 20 minutes.",
+    "5. Stir in gooey cheese until melted and well combined.",
+    "6. Serve hot, garnished with additional cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "german-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/waxy-sour-gooey-german-shortening-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T06:03:33.874Z"
+}
