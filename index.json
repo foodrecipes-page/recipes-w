@@ -493,16 +493,16 @@
   },
   {
     "slug": "warm-buttery-french-cream-choux-pastry",
-    "title": "Warm Buttery French Cream Choux Pastry",
+    "title": "French Cream Puffs",
     "tags": [
-      "coconut-cream",
-      "cream-filled",
-      "french-pastry",
-      "romantic-dessert",
-      "special-occasion"
+      "french",
+      "dessert",
+      "pastry",
+      "cream",
+      "choux"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -13784,17 +13784,16 @@
   },
   {
     "slug": "wholesome-greek-almond-pasta",
-    "title": "Wholesome Greek Almond Pasta",
+    "title": "Greek Pasta with Wholesome Almond Crunch",
     "tags": [
-      "almond",
-      "lazy-sunday",
-      "mediterranean",
-      "one-pot",
-      "paleo-friendly",
-      "vegetarian"
+      "greek",
+      "pasta",
+      "vegetarian",
+      "gluten-free",
+      "healthy"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
