@@ -1350,17 +1350,16 @@
   },
   {
     "slug": "warm-crisp-greek-feta-gyro",
-    "title": "Warm Crisp Greek Feta Gyro",
+    "title": "Crispy Greek Gyro Wrap",
     "tags": [
-      "cedar-plank",
-      "crispy",
-      "double-fry",
-      "greek-food",
-      "monsoon-special",
-      "sugar-free"
+      "greek",
+      "gyro",
+      "wrap",
+      "lunch",
+      "easy"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 18,
     "shard": "w"
   },
   {
@@ -3761,16 +3760,15 @@
   },
   {
     "slug": "warm-golden-irish-sultanas-casserole",
-    "title": "Warm Golden Irish Sultanas Casserole",
+    "title": "Warm Irish Sultana Casserole",
     "tags": [
-      "comfort-food",
-      "halal-friendly",
-      "high-carb",
-      "one-pan",
-      "weeknight"
+      "dessert",
+      "irish",
+      "sultanas",
+      "casserole"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -15782,13 +15780,14 @@
   },
   {
     "slug": "wild-norwegian-macaroni-pasta",
-    "title": "Wild Norwegian Macaroni Pasta",
+    "title": "Wild Norwegian Pasta Bake",
     "tags": [
-      "norwegian",
-      "dinner"
+      "wild-norwegian-salmon",
+      "pasta-bake",
+      "norwegian-cuisine"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
