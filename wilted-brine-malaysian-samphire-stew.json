@@ -1,0 +1,68 @@
+{
+  "slug": "wilted-brine-malaysian-samphire-stew",
+  "title": "Pan-Seared Samphire with Brine-Infused Stew",
+  "description": "A flavorful and easy-to-make dish featuring pan-seared samphire and a rich brine-infused stew.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "samphire",
+      "amount": "200g",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "brine",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the samphire and cook for 3-4 minutes on each side, or until tender.",
+    "In a separate saucepan, heat the brine and stew over low heat.",
+    "Season the brine-infused stew with salt and pepper to taste.",
+    "Serve the pan-seared samphire with the brine-infused stew.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "samphire",
+    "brine",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-brine-malaysian-samphire-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T08:04:55.335Z"
+}
