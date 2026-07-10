@@ -1730,17 +1730,15 @@
   },
   {
     "slug": "warm-crispy-kenyan-meat-skewers",
-    "title": "Warm Crispy Kenyan Meat Skewers",
+    "title": "Kenyan-Style Meat Skewers",
     "tags": [
-      "african-cuisine",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight",
-      "whole30"
+      "kenyan",
+      "grilled",
+      "meat",
+      "skewers"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -7957,15 +7955,16 @@
   },
   {
     "slug": "warm-spicy-filipino-chicken-grill",
-    "title": "Warm Spicy Filipino Chicken Grill",
+    "title": "Grilled Chicken Inasal",
     "tags": [
-      "easy-to-make",
-      "filipino-cuisine",
-      "grilled-chicken",
-      "post-workout"
+      "grill",
+      "filipino",
+      "chicken",
+      "warm",
+      "spicy"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -8198,17 +8197,15 @@
   },
   {
     "slug": "warm-spicy-korean-yogurt-jjigae",
-    "title": "Warm Spicy Korean Yogurt Jjigae",
+    "title": "Korean Spicy Jjigae",
     "tags": [
-      "adventurous",
-      "halal-friendly",
       "korean",
-      "one-pot",
       "spicy",
-      "yogurt-based"
+      "jjigae",
+      "stew"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -13923,16 +13920,16 @@
   },
   {
     "slug": "wholesome-italian-cassava-pesto",
-    "title": "Wholesome Italian Cassava Pesto",
+    "title": "Cassava Pesto Pasta",
     "tags": [
-      "low-carb",
+      "italian",
       "pesto",
-      "scallop-shell",
-      "vegan",
-      "weeknight"
+      "cassava",
+      "gluten-free",
+      "vegetarian"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -16247,16 +16244,15 @@
   },
   {
     "slug": "wilted-brine-malaysian-samphire-stew",
-    "title": "Wilted Brine Malaysian Samphire Stew",
+    "title": "Pan-Seared Samphire with Brine-Infused Stew",
     "tags": [
-      "fish-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "samphire",
+      "brine",
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 30,
+    "cuisine": "British",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
