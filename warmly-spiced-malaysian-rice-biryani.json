@@ -1,0 +1,99 @@
+{
+  "slug": "warmly-spiced-malaysian-rice-biryani",
+  "title": "Warmly Spiced Malaysian Biryani",
+  "description": "A flavorful and aromatic rice dish from Malaysia, infused with the warmth of spices and the sweetness of the biryani. Perfect for a cozy evening meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": null
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Warmly Spiced Biryani Masala",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add onion, garlic, and ginger, and sauté until the onion is translucent.",
+    "Add coriander powder, turmeric powder, and red chili powder, and sauté for 1 minute.",
+    "Add basmati rice and stir to coat the rice with the spice mixture.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the rice is cooked.",
+    "Fluff the rice with a fork and stir in warmly spiced biryani masala.",
+    "Serve hot garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "rice",
+    "biryani",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-malaysian-rice-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T23:19:16.042Z"
+}
