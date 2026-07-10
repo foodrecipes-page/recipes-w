@@ -1,0 +1,84 @@
+{
+  "slug": "warm-spicy-korean-yogurt-jjigae",
+  "title": "Korean Spicy Jjigae",
+  "description": "A spicy Korean-style stew made with kimchi and pork, served with a side of steamed rice.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1 cup",
+      "notes": "spicy Korean fermented cabbage"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "divided"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large pot over medium-high heat.",
+    "Add the pork belly and cook until browned, about 5 minutes.",
+    "Add the kimchi, gochujang, soy sauce, garlic, and ginger.",
+    "Stir to combine and cook for 2-3 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to medium-low and simmer for 10-15 minutes.",
+    "Season with salt to taste.",
+    "Serve hot with a side of steamed rice and a dollop of yogurt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "spicy",
+    "jjigae",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-korean-yogurt-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T08:19:58.887Z"
+}
