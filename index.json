@@ -13506,17 +13506,15 @@
   },
   {
     "slug": "wholesome-egyptian-potatoes-casserole",
-    "title": "Wholesome Egyptian Potatoes Casserole",
+    "title": "Egyptian Wholesome Potato Casserole",
     "tags": [
-      "clay-pot",
-      "comfort-food",
-      "dairy-free",
-      "jersey-royal-pot",
-      "one-pot",
-      "vegetarian"
+      "vegetarian",
+      "egyptian",
+      "casserole",
+      "potatoes"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 105,
+    "totalTimeMin": 65,
     "shard": "w"
   },
   {
@@ -14270,17 +14268,15 @@
   },
   {
     "slug": "wholesome-mexican-corn-bowl",
-    "title": "Wholesome Mexican Corn Bowl",
+    "title": "Mexican Wholesome Corn Bowl",
     "tags": [
-      "corn",
       "mexican",
-      "one-pot",
-      "quick",
-      "smoky",
-      "vegan"
+      "wholesome",
+      "corn",
+      "bowl"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 25,
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
