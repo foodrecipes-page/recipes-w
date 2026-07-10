@@ -1,0 +1,62 @@
+{
+  "slug": "wholesome-bouncy-jamaican-squash-fry",
+  "title": "Fry Crusted Squash Delight",
+  "description": "A crunchy exterior and a soft interior, this dish is perfect for a snack or side.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Squash",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Fry",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Wholesome oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Jamaican seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Peel the squash and slice it into 1/4-inch thick rounds.",
+    "3. In a shallow dish, mix together the fry and wholesome oil.",
+    "4. Toss the squash slices in the fry mixture to coat evenly.",
+    "5. Place the coated squash slices on a baking sheet lined with parchment paper.",
+    "6. Sprinkle the Jamaican seasoning and salt over the squash.",
+    "7. Bake for 20-25 minutes or until the squash is tender and the exterior is crispy.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "squash",
+    "fry",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-bouncy-jamaican-squash-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T01:30:37.714Z"
+}
