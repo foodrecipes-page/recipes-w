@@ -1,0 +1,92 @@
+{
+  "slug": "warm-spiced-greek-lamb-stew",
+  "title": "Warm Lamb Stew",
+  "description": "A hearty, flavorful stew perfect for a cold evening. This lamb stew is infused with the warmth of spices and the richness of Greek flavors.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 lbs",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Warm Spices",
+      "amount": "1 tsp",
+      "notes": "ground cumin, coriander, and paprika"
+    },
+    {
+      "name": "Greek Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped carrots and potatoes, and cook for 5 minutes.",
+    "Add the browned lamb back to the pot, along with the warm spices, salt, and pepper.",
+    "Pour in 2 cups of water, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Serve hot, garnished with fresh parsley if desired.",
+    "Note: You can also cook this stew in a slow cooker. Brown the lamb and cook the vegetables in a skillet, then transfer everything to the slow cooker and cook on low for 6-8 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "greek",
+    "warm",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spiced-greek-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T12:26:23.556Z"
+}
