@@ -1,0 +1,93 @@
+{
+  "slug": "warm-salty-croatian-sardine-stew",
+  "title": "Sardine Stew",
+  "description": "A hearty and flavorful stew originating from Croatia, perfect for a chilly evening. This recipe combines the rich taste of sardines with warm and salty notes.",
+  "cuisine": "croatian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sardines in oil",
+      "amount": "1 can (120g)",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fish stock",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "chopped (for garnish)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pot over medium heat.",
+    "Add the onions and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the potatoes and carrots, cook for 5 minutes.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Stir in the fish stock, sardines, salt, and pepper.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Garnish with parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "fish-stew",
+    "sardine-stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-salty-croatian-sardine-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T01:17:45.141Z"
+}
