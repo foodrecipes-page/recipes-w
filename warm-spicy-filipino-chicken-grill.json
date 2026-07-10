@@ -1,0 +1,76 @@
+{
+  "slug": "warm-spicy-filipino-chicken-grill",
+  "title": "Grilled Chicken Inasal",
+  "description": "A classic filipino dish marinated in a mixture of vinegar, garlic, and spices, then grilled to perfection.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Patis (fish sauce)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Kalamansi (calamansi) juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Marinade oil",
+      "amount": "1/4 cup",
+      "notes": "Vegetable or canola oil"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine patis, kalamansi juice, black pepper, garlic, and salt. Blend until smooth.",
+    "In a large bowl, combine the blended marinade and chicken breast. Mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Remove the chicken from the marinade, letting any excess liquid drip off.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Let the chicken rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "filipino",
+    "chicken",
+    "warm",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-filipino-chicken-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T08:29:29.416Z"
+}
