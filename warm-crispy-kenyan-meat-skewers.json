@@ -1,0 +1,82 @@
+{
+  "slug": "warm-crispy-kenyan-meat-skewers",
+  "title": "Kenyan-Style Meat Skewers",
+  "description": "A flavorful and spicy dish originating from Kenya, ideal for grilling. Serve with a side of rice or roti for a complete meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Meat (beef or lamb)",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan seasoning mix",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the meat, onion, bell pepper, and tomato.",
+    "In a small bowl, mix together the coconut oil, Kenyan seasoning mix, salt, and black pepper.",
+    "Pour the spice mixture over the meat mixture and toss to coat.",
+    "Thread the meat mixture onto skewers, leaving a small space between each piece.",
+    "Preheat grill to medium-high heat.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the meat is cooked through.",
+    "Serve hot with a side of rice or roti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "grilled",
+    "meat",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-kenyan-meat-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T08:18:26.312Z"
+}
