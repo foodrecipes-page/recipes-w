@@ -6450,16 +6450,15 @@
   },
   {
     "slug": "warm-silky-filipino-beef-kaldereta",
-    "title": "Warm Silky Filipino Beef Kaldereta",
+    "title": "Filipino-Style Beef Kaldereta",
     "tags": [
-      "beef-recipes",
-      "filipino-food",
-      "halal-friendly",
-      "one-pot",
-      "weeknight-meals"
+      "filipino",
+      "beef",
+      "kaldereta",
+      "spicy"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 60,
+    "totalTimeMin": 165,
     "shard": "w"
   },
   {
@@ -11911,14 +11910,12 @@
   },
   {
     "slug": "warmly-spiced-syrian-lamb-roast",
-    "title": "Syrian Lamb Roast",
+    "title": "Warmly Spiced Syrian Roast Lamb",
     "tags": [
-      "gluten-free",
-      "lamb-recipes",
-      "middle-eastern",
-      "one-pot-meals",
-      "special-occasions",
-      "sugar-free"
+      "lamb",
+      "roast",
+      "syrian",
+      "warmly-spiced"
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 180,
