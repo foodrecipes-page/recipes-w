@@ -11663,17 +11663,15 @@
   },
   {
     "slug": "warmly-spiced-malaysian-rice-biryani",
-    "title": "Warmly Spiced Malaysian Rice Biryani",
+    "title": "Warmly Spiced Malaysian Biryani",
     "tags": [
-      "aromatic",
-      "date-night",
-      "malaysian-cuisine",
-      "one-pot",
-      "plant-based",
-      "spicy"
+      "malaysian",
+      "rice",
+      "biryani",
+      "vegan"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -15932,17 +15930,15 @@
   },
   {
     "slug": "wildly-crispy-american-chicken-breast-sandwich",
-    "title": "Wildly Crispy American Chicken Breast Sandwich",
+    "title": "Crispy American Chicken Sandwich",
     "tags": [
-      "american-classic",
-      "crispy",
-      "high-protein",
-      "one-pan",
-      "shojin-friendly",
-      "weeknight"
+      "american",
+      "chicken",
+      "sandwich",
+      "fried"
     ],
     "cuisine": "American",
-    "totalTimeMin": 45,
+    "totalTimeMin": 23,
     "shard": "w"
   },
   {
@@ -16310,17 +16306,15 @@
   },
   {
     "slug": "wilted-crumbly-portuguese-strawberries-tart",
-    "title": "wilted crumbly portuguese strawberries tart",
+    "title": "Portuguese Strawberry Tart",
     "tags": [
-      "desserts",
-      "gluten-free",
-      "one-pan",
-      "portuguese-cuisine",
-      "vegan-friendly",
-      "weeknight"
+      "portuguese",
+      "strawberries",
+      "tart",
+      "dessert"
     ],
     "cuisine": "portuguese",
-    "totalTimeMin": 73,
+    "totalTimeMin": 60,
     "shard": "w"
   },
   {
@@ -17044,15 +17038,15 @@
   },
   {
     "slug": "winey-gooey-mexican-chicken-pozole",
-    "title": "Winey Gooey Mexican Chicken Pozole",
+    "title": "Mexican Chicken Pozole",
     "tags": [
-      "comfort-food",
-      "easy-one-pot",
       "mexican",
-      "weeknight"
+      "chicken",
+      "pozole",
+      "stew"
     ],
     "cuisine": "mexican",
-    "totalTimeMin": 50,
+    "totalTimeMin": 70,
     "shard": "w"
   },
   {
