@@ -7676,17 +7676,16 @@
   },
   {
     "slug": "warm-spiced-greek-lamb-stew",
-    "title": "Warm Spiced Greek Lamb Stew",
+    "title": "Warm Lamb Stew",
     "tags": [
-      "comfort-food",
-      "greek-cuisine",
-      "lamb-recipes",
-      "one-pot",
-      "spicy",
-      "winter-stew"
+      "lamb",
+      "stew",
+      "greek",
+      "warm",
+      "comfort-food"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 120,
+    "totalTimeMin": 110,
     "shard": "w"
   },
   {
@@ -7834,13 +7833,12 @@
   },
   {
     "slug": "warm-spicy-american-chicken-casserole",
-    "title": "Warm Spicy American Chicken Casserole",
+    "title": "Spicy Chicken Casserole",
     "tags": [
-      "american-classic",
-      "comfort-food",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "american",
+      "chicken",
+      "casserole",
+      "spicy"
     ],
     "cuisine": "American",
     "totalTimeMin": 55,
