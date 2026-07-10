@@ -6311,16 +6311,13 @@
   },
   {
     "slug": "warm-salty-croatian-sardine-stew",
-    "title": "Warm Salty Croatian Sardine Stew",
+    "title": "Sardine Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "hearty-stew",
-      "high-protein",
-      "one-pot",
-      "weeknight"
+      "croatian",
+      "fish-stew",
+      "sardine-stew"
     ],
-    "cuisine": "Croatian",
+    "cuisine": "croatian",
     "totalTimeMin": 40,
     "shard": "w"
   },
@@ -12958,17 +12955,13 @@
   },
   {
     "slug": "wholesome-bouncy-jamaican-squash-fry",
-    "title": "wholesome bouncy jamaican squash fry",
+    "title": "Fry Crusted Squash Delight",
     "tags": [
-      "comfort-food",
-      "dinner",
-      "jamaican",
-      "lunch",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "squash",
+      "fry",
+      "snack"
     ],
-    "cuisine": "jamaican",
+    "cuisine": null,
     "totalTimeMin": 35,
     "shard": "w"
   },
@@ -14833,18 +14826,15 @@
   },
   {
     "slug": "wholesome-slovakian-rye-pancakes",
-    "title": "Wholesome Slovakian Rye Pancakes",
+    "title": "Slovakian Rye Pancakes",
     "tags": [
       "breakfast",
-      "brunch",
-      "gluten",
-      "macrobiotic",
-      "rye",
       "slovakian",
-      "weekend"
+      "rye",
+      "pancakes"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
