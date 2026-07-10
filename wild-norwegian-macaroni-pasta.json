@@ -1,0 +1,90 @@
+{
+  "slug": "wild-norwegian-macaroni-pasta",
+  "title": "Wild Norwegian Pasta Bake",
+  "description": "A hearty and flavorful pasta dish made with wild Norwegian salmon, served in a rich tomato sauce with macaroni pasta.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wild Norwegian Salmon Fillets",
+      "amount": "4 fillets (6 oz each)",
+      "notes": ""
+    },
+    {
+      "name": "Macaroni Pasta",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook the macaroni pasta according to package instructions until al dente. Drain and set aside.",
+    "Season the wild Norwegian salmon fillets with salt and black pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat. Sear the salmon fillets for 2-3 minutes on each side until cooked through.",
+    "Transfer the cooked salmon to a baking dish.",
+    "Add the tomato paste to the same skillet and cook for 1-2 minutes until fragrant.",
+    "Add the garlic to the skillet and cook for 1 minute until fragrant.",
+    "Pour the garlic-tomato sauce over the salmon fillets.",
+    "Top the salmon with the cooked macaroni pasta and sprinkle with grated Parmesan cheese.",
+    "Bake in the preheated oven for 10-12 minutes until the cheese is melted and bubbly.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "wild-norwegian-salmon",
+    "pasta-bake",
+    "norwegian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wild-norwegian-macaroni-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T21:40:08.680Z"
+}
