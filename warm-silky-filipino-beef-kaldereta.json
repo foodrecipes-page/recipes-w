@@ -1,0 +1,94 @@
+{
+  "slug": "warm-silky-filipino-beef-kaldereta",
+  "title": "Filipino-Style Beef Kaldereta",
+  "description": "A hearty and flavorful Filipino dish made with tender beef and tomatoes, slow-cooked in a rich and spicy sauce.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket or beef shank",
+      "amount": "2 pounds",
+      "notes": "cut into large cubes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "kalamansi (Philippine lime)",
+      "amount": "2 tablespoons",
+      "notes": "juice"
+    },
+    {
+      "name": "sili (Filipino chili)",
+      "amount": "1 teaspoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce (optional)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat. Sear the beef until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Soften the onion and garlic in the pot until the onion is translucent.",
+    "Add the crushed tomatoes, tomato paste, and beef broth to the pot. Stir to combine.",
+    "Return the beef to the pot and add the kalamansi juice, sili, and fish sauce (if using).",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the beef in the oven for 2 1/2 to 3 hours, or until tender and falling apart.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "beef",
+    "kaldereta",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-silky-filipino-beef-kaldereta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T03:41:51.523Z"
+}
