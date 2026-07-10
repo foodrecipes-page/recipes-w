@@ -1,0 +1,74 @@
+{
+  "slug": "wilted-crumbly-portuguese-strawberries-tart",
+  "title": "Portuguese Strawberry Tart",
+  "description": "A sweet and tangy dessert that combines the flavors of strawberries and a crumbly Portuguese tart crust.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "strawberries",
+      "amount": "2 cups",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, whisk together flour and sugar. Add cold butter and use a pastry blender or your fingers to work it into the flour until the mixture resembles coarse crumbs.",
+    "Press the mixture into a 9-inch tart pan with a removable bottom. Chill in the freezer for 10 minutes.",
+    "Line the tart crust with parchment paper and fill with pie weights or dried beans.",
+    "Bake for 15 minutes, then remove the parchment paper and pie weights or beans.",
+    "Return the tart crust to the oven and bake for an additional 5-7 minutes, or until lightly golden.",
+    "In a large bowl, whisk together eggs, honey, and vanilla extract. Arrange the sliced strawberries in a pattern on the baked tart crust.",
+    "Pour the egg mixture over the strawberries and bake for an additional 25-30 minutes, or until the filling is set and the tart is golden brown.",
+    "Allow the tart to cool completely on a wire rack before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "strawberries",
+    "tart",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-crumbly-portuguese-strawberries-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T23:54:55.578Z"
+}
