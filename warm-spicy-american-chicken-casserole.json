@@ -1,0 +1,94 @@
+{
+  "slug": "warm-spicy-american-chicken-casserole",
+  "title": "Spicy Chicken Casserole",
+  "description": "A classic American casserole dish with a warm and spicy twist. Perfect for a comforting dinner.",
+  "cuisine": "American",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Spicy canned tomatoes",
+      "amount": "14.5 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Creamy sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Casserole dish",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Oven",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Cooking spray",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Basil",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "Season chicken with salt and pepper.",
+    "Cook chicken in a skillet with olive oil until browned, about 5-6 minutes.",
+    "Add canned tomatoes, sour cream, and shredded cheese to the skillet. Stir until combined.",
+    "Transfer the mixture to a casserole dish.",
+    "Sprinkle chopped basil on top.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the casserole rest for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "chicken",
+    "casserole",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-american-chicken-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T12:46:13.381Z"
+}
