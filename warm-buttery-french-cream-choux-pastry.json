@@ -1,0 +1,89 @@
+{
+  "slug": "warm-buttery-french-cream-choux-pastry",
+  "title": "French Cream Puffs",
+  "description": "Delicate, warm, and buttery cream puffs made with French choux pastry.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "French choux pastry",
+      "amount": "homemade or store-bought",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a medium saucepan, combine the water, butter, salt, and sugar. Bring to a boil.",
+    "Add the flour and cook, stirring constantly, for 2 minutes.",
+    "Transfer the mixture to a stand mixer and beat in the eggs one at a time.",
+    "Add the grated cheese (if using) and mix until combined.",
+    "Spoon the mixture into a piping bag fitted with a large round tip.",
+    "Pipe small balls of the dough onto the prepared baking sheet.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Allow the puffs to cool completely before filling with whipped cream.",
+    "To make the whipped cream, beat the heavy cream until stiff peaks form.",
+    "Add the granulated sugar and mix until combined."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "pastry",
+    "cream",
+    "choux"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-buttery-french-cream-choux-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T15:42:54.055Z"
+}
