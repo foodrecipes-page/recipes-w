@@ -1,0 +1,89 @@
+{
+  "slug": "wildly-crispy-american-chicken-breast-sandwich",
+  "title": "Crispy American Chicken Sandwich",
+  "description": "A classic American sandwich filled with crispy chicken, crunchy lettuce, juicy tomato, and creamy mayonnaise.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "non-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "2",
+      "notes": "wildly raised"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "crispy"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "2 leaves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "American Cheese",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Hamburger Buns",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut the chicken breast into thin cutlets.",
+    "2. In a shallow dish, mix together flour and a pinch of salt.",
+    "3. Dip each chicken cutlet into the flour mixture, then into the beaten egg, and finally into the breadcrumbs.",
+    "4. Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "5. Fry the chicken cutlets until golden brown and cooked through, about 4-5 minutes per side.",
+    "6. Meanwhile, toast the hamburger buns.",
+    "7. Assemble the sandwiches by spreading mayonnaise on the bottom bun, followed by a chicken cutlet, a lettuce leaf, a tomato slice, an American cheese slice, and finally the top bun.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "chicken",
+    "sandwich",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wildly-crispy-american-chicken-breast-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T00:08:30.726Z"
+}
