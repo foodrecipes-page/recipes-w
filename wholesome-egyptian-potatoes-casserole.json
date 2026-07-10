@@ -1,0 +1,79 @@
+{
+  "slug": "wholesome-egyptian-potatoes-casserole",
+  "title": "Egyptian Wholesome Potato Casserole",
+  "description": "A delicious and satisfying casserole combining the flavors of Egypt with wholesome ingredients.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "egyptian",
+      "amount": "1 can of Egyptian-style tomatoes",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "wholesome",
+      "amount": "1 cup of wholesome breadcrumbs",
+      "notes": "whole wheat or gluten-free"
+    },
+    {
+      "name": "casserole",
+      "amount": "1/2 cup of casserole cheese blend",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for greasing the dish"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Grease a 9x13 inch baking dish with olive oil.",
+    "In a large bowl, combine sliced potatoes, chopped tomatoes, and minced garlic.",
+    "Mix in wholesome breadcrumbs and casserole cheese blend until well combined.",
+    "Transfer the potato mixture to the prepared baking dish.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove foil and continue baking for an additional 20-25 minutes, or until the potatoes are tender and golden brown.",
+    "Season with salt to taste.",
+    "Let the casserole rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "egyptian",
+    "casserole",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-egyptian-potatoes-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T10:11:17.934Z"
+}
