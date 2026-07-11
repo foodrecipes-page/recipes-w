@@ -1,0 +1,79 @@
+{
+  "slug": "warm-crunchy-mediterranean-chicken-flatbread",
+  "title": "Chicken Gyro Wrap",
+  "description": "A delicious and easy-to-make wrap filled with chicken, crunchy veggies, and tangy tzatziki sauce, all wrapped in warm flatbread. Perfect for a quick and satisfying meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces",
+      "notes": "warm, pita-style"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tzatziki sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the chicken breast with salt, pepper, and your favorite spices.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "Let the chicken rest for a few minutes before slicing it thinly.",
+    "Warm the flatbread by wrapping it in foil and heating it in the oven for a few minutes.",
+    "Assemble the gyro by spreading tzatziki sauce on the flatbread, followed by sliced chicken, cucumber, tomato, red onion, and feta cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "gyro",
+    "wrap",
+    "mediterranean",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crunchy-mediterranean-chicken-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T15:11:40.820Z"
+}
