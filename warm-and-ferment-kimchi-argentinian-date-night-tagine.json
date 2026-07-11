@@ -1,0 +1,78 @@
+{
+  "slug": "warm-and-ferment-kimchi-argentinian-date-night-tagine",
+  "title": "Argentinian Date Tagine",
+  "description": "A sweet and savory Argentinian-inspired tagine made with dates and warm spices. This dish is perfect for a cold night.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ferment",
+      "amount": "2 tablespoons",
+      "notes": "fermented beetroot"
+    },
+    {
+      "name": "warm",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "night",
+      "amount": "1/2 teaspoon",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "and",
+      "amount": "1/4 teaspoon",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Heat the tagine over medium heat.",
+    "Add the tagine and warm spices, cooking for 1 minute.",
+    "Add the chopped kimchi and cook for an additional 2 minutes.",
+    "Add the pitted dates and fermented beetroot, stirring to combine.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Season with salt to taste.",
+    "Serve warm, garnished with additional kimchi if desired.",
+    "Optional: serve with basmati rice or naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "vegetarian",
+    "sweet-and-savory",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-and-ferment-kimchi-argentinian-date-night-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T02:47:22.587Z"
+}
