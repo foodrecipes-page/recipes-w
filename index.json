@@ -2066,13 +2066,12 @@
   },
   {
     "slug": "warm-crunchy-chinese-chicken-toast",
-    "title": "Warm Crunchy Chinese Chicken Toast",
+    "title": "Crunchy Chicken Toast",
     "tags": [
-      "chinese-cuisine",
-      "low-fat",
-      "one-pan",
-      "quick-dinner",
-      "weeknight"
+      "crunchy",
+      "chinese",
+      "chicken",
+      "toast"
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
@@ -4692,16 +4691,14 @@
   },
   {
     "slug": "warm-kenyan-dum-dumplings",
-    "title": "Warm Kenyan Dum Dumplings",
+    "title": "Kenyan-Style Beef Dumplings",
     "tags": [
-      "comfort-food",
-      "kenyan-cuisine",
-      "midnight-snack",
-      "no-onion-no-garlic",
-      "savory"
+      "kenyan",
+      "beef",
+      "dumplings"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 42,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
