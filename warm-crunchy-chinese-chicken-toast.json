@@ -1,0 +1,71 @@
+{
+  "slug": "warm-crunchy-chinese-chicken-toast",
+  "title": "Crunchy Chicken Toast",
+  "description": "A simple and flavorful Chinese-inspired dish made with crispy chicken and crunchy toast.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "preferably a crusty bread"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": "for marinade"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "crushed corn flakes",
+      "amount": "1 cup",
+      "notes": "for crunchy topping"
+    }
+  ],
+  "instructions": [
+    "Preheat a deep frying pan with 1/4 cup of vegetable oil over medium-high heat.",
+    "In a separate bowl, whisk together soy sauce and sugar. Add the chicken pieces and marinate for at least 10 minutes.",
+    "Remove the chicken from the marinade, letting any excess liquid drip off.",
+    "Fry the chicken in batches until golden brown and cooked through, about 5-6 minutes per batch.",
+    "Meanwhile, toast the bread until lightly browned.",
+    "To assemble the Crunchy Chicken Toast, place a piece of toasted bread on a plate, top with a piece of fried chicken, and sprinkle with crushed corn flakes.",
+    "Repeat the process for the remaining bread and chicken pieces.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "chinese",
+    "chicken",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crunchy-chinese-chicken-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:47:08.948Z"
+}
