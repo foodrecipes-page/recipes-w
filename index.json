@@ -134,18 +134,15 @@
   },
   {
     "slug": "warm-and-ferment-kimchi-argentinian-date-night-tagine",
-    "title": "Warm and Ferment-Kimchi Argentinian Date Night Tagine",
+    "title": "Argentinian Date Tagine",
     "tags": [
       "argentinian",
-      "date-night",
-      "fodmap-friendly",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "umami-rich"
+      "vegetarian",
+      "sweet-and-savory",
+      "tagine"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 45,
+    "cuisine": "argentinian",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -1698,17 +1695,16 @@
   },
   {
     "slug": "warm-crispy-italian-rice-suppli",
-    "title": "Warm Crispy Italian Rice Suppli",
+    "title": "Italian-Style Suppli Bites",
     "tags": [
-      "date-night",
-      "emilia-romagna",
-      "italian-cuisine",
-      "low-calorie",
-      "suppli",
-      "talavera-plate"
+      "italian",
+      "snack",
+      "fried",
+      "cheese",
+      "appetizer"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 23,
     "shard": "w"
   },
   {
@@ -5736,16 +5732,15 @@
   },
   {
     "slug": "warm-pillowy-norwegian-fish-pilaf",
-    "title": "Warm Norwegian Fish Pilaf",
+    "title": "Norwegian Fish Pilaf",
     "tags": [
-      "fish-based",
-      "norwegian-cuisine",
-      "one-pan",
+      "fish",
       "pilaf",
-      "shojin-friendly"
+      "norwegian",
+      "lunch"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 20,
     "shard": "w"
   },
   {
@@ -12153,15 +12148,15 @@
   },
   {
     "slug": "weakly-brined-slovakian-asparagus-hash",
-    "title": "weakly brined slovakian asparagus hash",
+    "title": "Pan-Seared Weakly Hash with Asparagus and Brined Sausage",
     "tags": [
-      "high-fiber",
-      "one-pan",
-      "sugar-free",
-      "weeknight"
+      "breakfast",
+      "slovakian",
+      "hash",
+      "asparagus"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 23,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
