@@ -1,0 +1,90 @@
+{
+  "slug": "warm-spiced-indian-chickpeas-chana-masala",
+  "title": "Spiced Chickpea Curry",
+  "description": "A flavorful and aromatic Indian-inspired curry made with chickpeas, warm spices, and a blend of masala.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas (canned)",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Stir in garam masala, cumin, coriander, and salt. Cook for 1 minute.",
+    "Add chickpeas and warm water. Bring to a simmer.",
+    "Reduce heat to low and cook for 20 minutes or until the flavors have melded together.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "chickpeas",
+    "curry",
+    "easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spiced-indian-chickpeas-chana-masala",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T18:42:10.975Z"
+}
