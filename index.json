@@ -1774,16 +1774,16 @@
   },
   {
     "slug": "warm-crispy-peruvian-potatoes-papa-rellena",
-    "title": "Warm Crispy Peruvian Potatoes Papa Rellena",
+    "title": "Peruvian Stuffed Potatoes (Papa Rellena)",
     "tags": [
-      "crispy",
-      "gluten-free",
       "peruvian",
-      "post-workout",
-      "potatoes"
+      "stuffed-potatoes",
+      "papa-rellena",
+      "snack",
+      "side-dish"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -13556,15 +13556,16 @@
   },
   {
     "slug": "wholesome-flaky-double-rise-bread-pilaf",
-    "title": "Wholesome Flaky Double-rise-bread Pilaf",
+    "title": "Herbed Pilaf with Garlic Bread Crust",
     "tags": [
-      "algerian",
-      "dessert",
-      "flaky-bread",
-      "no-onion-no-garlic"
+      "pilaf",
+      "bread",
+      "herbs",
+      "garlic",
+      "vegetarian"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 20,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -13973,18 +13974,16 @@
   },
   {
     "slug": "wholesome-japanese-beetroot-ramen",
-    "title": "Wholesome Japanese Beetroot Ramen",
+    "title": "Wholesome Beetroot Ramen",
     "tags": [
       "beetroot",
-      "creamy",
-      "midnight-craving",
-      "nut-free",
-      "shikoku",
+      "ramen",
+      "wholesome",
       "vegan",
-      "wholesome"
+      "gluten-free"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 65,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -14616,15 +14615,15 @@
   },
   {
     "slug": "wholesome-rolled-middle-eastern-oats-bake",
-    "title": "wholesome rolled middle-eastern oats bake",
+    "title": "Middle Eastern Oat Bake",
     "tags": [
-      "breakfast",
-      "easy-brunch",
+      "oat-bake",
       "middle-eastern",
-      "oatmeal"
+      "breakfast",
+      "snack"
     ],
-    "cuisine": "middle-eastern",
-    "totalTimeMin": 50,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
