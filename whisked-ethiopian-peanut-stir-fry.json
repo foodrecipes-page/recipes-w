@@ -1,0 +1,75 @@
+{
+  "slug": "whisked-ethiopian-peanut-stir-fry",
+  "title": "Ethiopian Peanut Stir Fry",
+  "description": "A spicy and savory Ethiopian-inspired peanut stir fry made with whisked eggs, crunchy vegetables, and a hint of peanut flavor.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "whisked eggs",
+      "amount": "2"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "stir-fry spice",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the peanut oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the bell pepper and carrots and cook for 2-3 minutes.",
+    "Push the vegetables to one side of the skillet.",
+    "Pour in the whisked eggs and scramble them until they are cooked through.",
+    "Mix the eggs with the vegetables.",
+    "Add the peanuts and stir-fry spice and cook for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peanut",
+    "stir-fry",
+    "ethiopian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whisked-ethiopian-peanut-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T14:23:54.660Z"
+}
