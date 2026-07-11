@@ -1209,16 +1209,16 @@
   },
   {
     "slug": "warm-creamy-british-cheese-ploughmans-lunch",
-    "title": "Warm Creamy British Cheese Ploughmans Lunch",
+    "title": "Ploughman's Cheese Sandwich",
     "tags": [
-      "british-cuisine",
-      "comfort-food",
-      "lacto-vegetarian",
-      "one-pan",
-      "weeknight"
+      "ploughmans",
+      "british",
+      "lunch",
+      "cheese",
+      "easy"
     ],
     "cuisine": "British",
-    "totalTimeMin": 45,
+    "totalTimeMin": 14,
     "shard": "w"
   },
   {
@@ -8233,16 +8233,16 @@
   },
   {
     "slug": "warm-spicy-malaysian-papelon-curry",
-    "title": "Warm Spicy Malaysian Papelon Curry",
+    "title": "Spicy Malaysian Papelon Curry",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "low-glycemic",
-      "malaysian-cuisine",
-      "one-pot"
+      "asian",
+      "curry",
+      "spicy",
+      "malaysian",
+      "veggie"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 40,
+    "cuisine": "malaysian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -8303,17 +8303,14 @@
   },
   {
     "slug": "warm-spicy-mexican-pork-tacos-al-pastor",
-    "title": "Warm Spicy Mexican Pork Tacos Al Pastor",
+    "title": "Tacos al Pastor",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
-      "mexican-food",
-      "pork-recipes",
-      "spicy",
-      "tacos-al-pastor"
+      "mexican",
+      "tacos",
+      "pork"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
