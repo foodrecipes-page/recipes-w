@@ -1,0 +1,98 @@
+{
+  "slug": "warm-crispy-peruvian-potatoes-papa-rellena",
+  "title": "Peruvian Stuffed Potatoes (Papa Rellena)",
+  "description": "Crispy on the outside and warm on the inside, these Peruvian stuffed potatoes make a delicious snack or side dish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "large potatoes",
+      "amount": "4",
+      "notes": "preferably high-starch potatoes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "optional, for a meat variation"
+    },
+    {
+      "name": "chopped hard-boiled egg",
+      "amount": "2",
+      "notes": "for added flavor and texture"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded, for the filling"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (175°C).",
+    "Peel the potatoes and cut them in half lengthwise.",
+    "Scoop out the pulp and set aside.",
+    "In the same pan, sauté the chopped onion and minced garlic until softened.",
+    "If using ground beef, cook it until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped hard-boiled egg, salt, and pepper to the pan and stir to combine.",
+    "Stuff each potato half with the onion and egg mixture, dividing it evenly among the potatoes.",
+    "Place the stuffed potatoes in the hot oil and fry for 3-4 minutes on each side, or until crispy.",
+    "Using a slotted spoon, remove the potatoes from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Sprinkle shredded cheddar cheese on top of each potato and return them to the oven for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with chopped fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "stuffed-potatoes",
+    "papa-rellena",
+    "snack",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-peruvian-potatoes-papa-rellena",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:42:18.702Z"
+}
