@@ -1,0 +1,86 @@
+{
+  "slug": "warm-pillowy-norwegian-fish-pilaf",
+  "title": "Norwegian Fish Pilaf",
+  "description": "A light and flavorful Norwegian-inspired dish featuring pan-seared fish and fluffy pilaf.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "fish",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian Fish (Lutefisk or Cod)",
+      "amount": "4 fillets (6 oz each)",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Fish Pilaf",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": "Softened"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Wedges",
+      "amount": "4",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a small saucepan, melt 1 tablespoon of butter over medium heat.",
+    "3. Add the chopped parsley and dill, and cook until fragrant.",
+    "4. Add the pilaf to the saucepan, and stir to combine with the herbs and butter.",
+    "5. Transfer the pilaf to a baking dish.",
+    "6. Season the fish fillets with salt and pepper.",
+    "7. Place the fish on top of the pilaf.",
+    "8. Drizzle the remaining 1 tablespoon of butter over the fish.",
+    "9. Bake in the preheated oven for 8-10 minutes, or until the fish is cooked through.",
+    "10. Serve the fish and pilaf hot, garnished with additional parsley and lemon wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "pilaf",
+    "norwegian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-pillowy-norwegian-fish-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T02:19:08.166Z"
+}
