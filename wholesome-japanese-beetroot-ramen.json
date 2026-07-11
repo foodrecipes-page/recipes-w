@@ -1,0 +1,79 @@
+{
+  "slug": "wholesome-japanese-beetroot-ramen",
+  "title": "Wholesome Beetroot Ramen",
+  "description": "A hearty and comforting ramen dish infused with the sweetness of beetroot, made with wholesome ingredients for a nutritious meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beetroot",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Ramen Noodles",
+      "amount": "1 package",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "or tamari for gluten-free"
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "1 tablespoon",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the ramen noodles according to the package instructions.",
+    "In a large pot, heat the sesame oil over medium heat.",
+    "Add the diced beetroot and cook for 5 minutes, or until tender.",
+    "Add the vegetable broth and bring to a simmer.",
+    "Add the cooked ramen noodles to the pot and stir to combine.",
+    "Season with soy sauce and maple syrup to taste.",
+    "Serve hot, garnished with sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beetroot",
+    "ramen",
+    "wholesome",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-japanese-beetroot-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:22:06.431Z"
+}
