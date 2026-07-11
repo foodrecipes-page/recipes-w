@@ -11202,17 +11202,16 @@
   },
   {
     "slug": "warmly-roasted-thai-king-prawns-gaeng-curry",
-    "title": "Warmly Roasted Thai King Prawns Gaeng Curry",
+    "title": "Thai Prawn Curry",
     "tags": [
+      "thai",
       "curry",
-      "pescatarian",
-      "roasted",
+      "prawns",
       "seafood",
-      "special-occasion",
-      "thai-cuisine"
+      "dinner"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 22,
     "shard": "w"
   },
   {
@@ -13018,16 +13017,15 @@
   },
   {
     "slug": "wholesome-canadian-porcini-risotto",
-    "title": "Wholesome Canadian Porcini Risotto",
+    "title": "Creamy Porcini Risotto",
     "tags": [
-      "anti-inflammatory",
-      "comfort-food",
-      "gluten-free",
-      "one-pan",
-      "weeknight"
+      "risotto",
+      "porcini",
+      "italian-cuisine",
+      "vegetarian-dish"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
