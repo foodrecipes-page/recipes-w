@@ -1,0 +1,71 @@
+{
+  "slug": "winey-velvety-saudi-arabian-panang-curry-paste-curry",
+  "title": "Saudi Arabian Panang Curry",
+  "description": "A flavorful and aromatic curry made with a rich and creamy panang curry paste, served with a side of rice or noodles.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "panang curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "whey (from wine)",
+      "amount": "1/2 cup",
+      "notes": "replaces dairy"
+    },
+    {
+      "name": "arabian rice",
+      "amount": "1 cup",
+      "notes": "use as side"
+    },
+    {
+      "name": "mixed vegetables ( bell peppers, carrots, etc.)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan and sauté mixed vegetables until tender.",
+    "Add panang curry paste and cook for 1-2 minutes.",
+    "Add mixed vegetables back into the pan and stir in curry powder and turmeric powder.",
+    "Add whey and stir until combined.",
+    "Simmer for 10-15 minutes.",
+    "Serve with saudi arabian rice and garnish with fresh herbs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-velvety-saudi-arabian-panang-curry-paste-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T12:18:51.383Z"
+}
