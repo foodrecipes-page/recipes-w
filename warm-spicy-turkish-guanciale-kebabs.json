@@ -1,0 +1,97 @@
+{
+  "slug": "warm-spicy-turkish-guanciale-kebabs",
+  "title": "Turkish Kebabs with Guanciale Crust",
+  "description": "A unique twist on traditional Turkish kebabs with the addition of crispy guanciale crust. Perfect for a quick dinner or meal prep.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Guanciale",
+      "amount": "6 slices",
+      "notes": "Cured pork jowl"
+    },
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": "For kebabs"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large",
+      "notes": "Chopped for kebabs"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, sliced",
+      "notes": "Button or cremini work well"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2 large",
+      "notes": "Green, red, or yellow"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 large",
+      "notes": "Chopped for kebabs"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces",
+      "notes": "For serving"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together sumac, salt, and black pepper.",
+    "Rub the spice mixture onto the guanciale slices.",
+    "Heat a large skillet over medium heat and cook the guanciale until crispy.",
+    "Set the guanciale aside on a paper towel-lined plate.",
+    "Place the lamb shoulder pieces onto skewers, leaving a little space between each piece.",
+    "Thread the chopped onion, mushrooms, bell peppers, and tomato onto the skewers.",
+    "Brush the skewers with a little oil and season with the spice mixture.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally.",
+    "During the last 2 minutes of cooking, brush the guanciale slices onto the kebabs.",
+    "Serve the kebabs on flatbread with additional guanciale slices on top, if desired.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "kebabs",
+    "guanciale",
+    "meat-lovers"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-turkish-guanciale-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T13:48:46.470Z"
+}
