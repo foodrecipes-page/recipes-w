@@ -2336,17 +2336,15 @@
   },
   {
     "slug": "warm-crunchy-thai-chicken-skewers",
-    "title": "Warm Crunchy Thai Chicken Skewers",
+    "title": "Thai Chicken Skewers",
     "tags": [
-      "chicken-skewers",
-      "easy-dinner",
-      "gluten-free",
-      "grilled-chicken",
-      "thai-street-food",
-      "weeknight-meal"
+      "thai",
+      "chicken",
+      "skewers",
+      "grill"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -8576,17 +8574,15 @@
   },
   {
     "slug": "warm-spicy-turkish-guanciale-kebabs",
-    "title": "Warm Spicy Turkish Guanciale Kebabs",
+    "title": "Turkish Kebabs with Guanciale Crust",
     "tags": [
-      "bento-box",
-      "guanciale",
+      "turkish",
       "kebabs",
-      "low-fat",
-      "spicy-food",
-      "turkish-cuisine"
+      "guanciale",
+      "meat-lovers"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -10224,17 +10220,15 @@
   },
   {
     "slug": "warm-wilted-saudi-arabian-snow-peas-tagine",
-    "title": "Warm Wilted Saudi Arabian Snow Peas Tagine",
+    "title": "Saudi Arabian Snow Peas Tagine",
     "tags": [
-      "gluten-free",
-      "healthy",
-      "low-glycemic",
-      "one-pot",
-      "saudi-arabian",
-      "vegetarian"
+      "saudi arabian",
+      "stew",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 40,
+    "cuisine": "saudi arabian",
+    "totalTimeMin": 27,
     "shard": "w"
   },
   {
@@ -12575,12 +12569,11 @@
   },
   {
     "slug": "whisked-ethiopian-peanut-stir-fry",
-    "title": "Whisked Ethiopian Peanut Stir-fry",
+    "title": "Ethiopian Peanut Stir Fry",
     "tags": [
-      "whisked-ethiopian-stir-fry",
-      "halal-friendly-dish",
-      "quick-cooking",
-      "one-pot-meal"
+      "peanut",
+      "stir-fry",
+      "ethiopian"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 25,
@@ -17300,17 +17293,14 @@
   },
   {
     "slug": "winey-tender-turkish-jerusalem-artichokes-kebabs",
-    "title": "Winey Tender Turkish Jerusalem Artichokes Kebabs",
+    "title": "Grilled Turkish Artichoke Kebabs",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "keto",
-      "one-pan",
-      "turkish",
-      "weeknight"
+      "grilled",
+      "vegetarian",
+      "easy-dinner"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 32,
     "shard": "w"
   },
   {
