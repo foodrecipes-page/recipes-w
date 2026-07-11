@@ -1,0 +1,90 @@
+{
+  "slug": "warmly-roasted-thai-king-prawns-gaeng-curry",
+  "title": "Thai Prawn Curry",
+  "description": "A flavorful and spicy Thai curry dish made with prawns, a blend of warming spices, and fragrant Thai ingredients. This recipe is perfect for a quick and delicious dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gaeng curry paste",
+      "amount": "2 tbsp",
+      "notes": "Thai red curry paste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "thai basil",
+      "amount": "handful",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic and cook until softened.",
+    "Add curry paste and cook for 1 minute.",
+    "Add coconut milk and bring to a simmer.",
+    "Add prawns and cook until pink and cooked through.",
+    "Stir in fish sauce and sugar, and add Thai basil.",
+    "Cook for an additional 2 minutes.",
+    "Serve hot over rice or noodles.",
+    "Garnish with additional Thai basil, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "prawns",
+    "seafood",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-roasted-thai-king-prawns-gaeng-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:33:08.146Z"
+}
