@@ -1,0 +1,78 @@
+{
+  "slug": "warmly-spiced-american-chicken-skewers",
+  "title": "Warmly Spiced Chicken Skewers",
+  "description": "Tender chicken skewers marinated in a blend of warmly spiced American flavors.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless, skinless, cut into 1-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Warmly spiced seasoning",
+      "amount": "2 tablespoons",
+      "notes": "Available at most grocery stores"
+    },
+    {
+      "name": "American chili powder",
+      "amount": "1 teaspoon",
+      "notes": "Available at most grocery stores"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "Available at most grocery stores"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, warmly spiced seasoning, American chili powder, garlic powder, salt, and pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the chicken onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with the remaining marinade.",
+    "Grill the skewers for 8-10 minutes, or until the chicken is cooked through and slightly charred.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "skewers",
+    "american",
+    "warmly-spiced"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-american-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T17:25:36.905Z"
+}
