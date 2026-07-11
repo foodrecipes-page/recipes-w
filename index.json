@@ -4531,16 +4531,14 @@
   },
   {
     "slug": "warm-japanese-egg-yolks-noodles",
-    "title": "Warm Japanese Egg Yolks Noodles",
+    "title": "Japanese Ramen",
     "tags": [
-      "flexitarian-friendly",
-      "japanese-inspired",
-      "noodle-dish",
-      "post-workout",
-      "warm-and-comforting"
+      "ramen",
+      "japanese",
+      "noodle-soup"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 25,
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
     "shard": "w"
   },
   {
@@ -9054,17 +9052,15 @@
   },
   {
     "slug": "warm-syrian-potatoes-bake",
-    "title": "warm syrian potatoes bake",
+    "title": "Warm Syrian Style Baked Potatoes",
     "tags": [
-      "comfort-food",
-      "easy-to-make",
-      "one-pan",
-      "oven-baked",
+      "warm",
       "syrian",
-      "weeknight"
+      "potatoes",
+      "bake"
     ],
-    "cuisine": "syrian",
-    "totalTimeMin": 75,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {
@@ -9776,16 +9772,16 @@
   },
   {
     "slug": "warm-white-spanish-beans-fabada-asturiana",
-    "title": "Warm White Spanish Beans Fabada Asturiana",
+    "title": "Fabada Asturiana",
     "tags": [
-      "gluten-free",
-      "high-fiber",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "spanish",
+      "stew",
+      "beans",
+      "lunch",
+      "spanish-cuisine"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 140,
     "shard": "w"
   },
   {
