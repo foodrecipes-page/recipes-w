@@ -1006,16 +1006,14 @@
   },
   {
     "slug": "warm-citrusy-japanese-chicken-donburi",
-    "title": "Warm Citrusy Japanese Chicken Donburi",
+    "title": "Japanese Chicken Donburi",
     "tags": [
-      "date-night",
-      "high-protein",
       "japanese",
-      "one-pan",
-      "weeknight"
+      "grilled-chicken",
+      "rice-bowl"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -14986,16 +14984,16 @@
   },
   {
     "slug": "wholesome-steam-tunisian-plant-based-wrap",
-    "title": "Wholesome Steam Tunisian Plant-Based Wrap",
+    "title": "Tunisian Lentil Wrap",
     "tags": [
-      "comfort-food",
-      "easy-cooking",
-      "gluten-free",
-      "high-fiber",
-      "vegan"
+      "lentil",
+      "wrap",
+      "north-african",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 10,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
