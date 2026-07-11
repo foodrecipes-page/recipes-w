@@ -1,0 +1,85 @@
+{
+  "slug": "warm-syrian-potatoes-bake",
+  "title": "Warm Syrian Style Baked Potatoes",
+  "description": "A flavorful and comforting dish inspired by Middle Eastern cuisine, featuring warm baked potatoes topped with a mix of spices and herbs.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large potatoes",
+      "amount": "3-4",
+      "notes": "choose high-starch potatoes for fluffiness"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing potatoes"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "warm and earthy spice"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh and bright"
+    },
+    {
+      "name": "crumbly feta cheese",
+      "amount": "1/4 cup",
+      "notes": "optional, adds tanginess"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Scrub the potatoes clean and dry them with a paper towel.",
+    "Poke some holes in each potato with a fork to allow steam to escape.",
+    "Rub the potatoes with olive oil and sprinkle with cumin, smoked paprika, salt, and black pepper.",
+    "Place the potatoes directly on the middle rack of the oven.",
+    "Bake for 45-60 minutes, or until the potatoes are tender when pierced with a fork.",
+    "Remove the potatoes from the oven and let them cool for a few minutes.",
+    "Top each potato with chopped parsley and crumbled feta cheese (if using).",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "warm",
+    "syrian",
+    "potatoes",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-syrian-potatoes-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T06:49:24.498Z"
+}
