@@ -1,0 +1,82 @@
+{
+  "slug": "wholesome-rolled-middle-eastern-oats-bake",
+  "title": "Middle Eastern Oat Bake",
+  "description": "A wholesome Middle Eastern inspired oat bake, perfect for a quick snack or breakfast.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rolled oats",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Middle eastern spice blend",
+      "amount": "2 tsp",
+      "notes": "Available at most grocery stores or online"
+    },
+    {
+      "name": "Wholesome honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Bake applesauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eastern cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Middle eastern chopped nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Eastern vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bake baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Middle eastern lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together oats, spice blend, cinnamon, baking powder, and lemon zest.",
+    "In a separate bowl, mix together honey, applesauce, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until combined.",
+    "Pour the mixture into a 9x9 inch baking dish.",
+    "Bake for 30-35 minutes or until the top is golden brown.",
+    "Remove from oven and let cool for 10 minutes.",
+    "Serve warm or at room temperature.",
+    "Top with chopped nuts before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "oat-bake",
+    "middle-eastern",
+    "breakfast",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-rolled-middle-eastern-oats-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T15:52:26.942Z"
+}
