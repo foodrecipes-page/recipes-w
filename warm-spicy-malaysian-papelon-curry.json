@@ -1,0 +1,96 @@
+{
+  "slug": "warm-spicy-malaysian-papelon-curry",
+  "title": "Spicy Malaysian Papelon Curry",
+  "description": "A flavorful and spicy Malaysian-inspired curry made with papelon and a blend of aromatic spices.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Papelon",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red curry paste",
+      "amount": "2 tbsp",
+      "notes": "spicy"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional, for added umami"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": "optional, for balance"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Sauté the onion and ginger until softened.",
+    "Add the garlic and cook for another minute.",
+    "Add the curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the papelon and cook for 2-3 minutes, until slightly tender.",
+    "Pour in the coconut milk and add the fish sauce and brown sugar (if using).",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, until the papelon is tender.",
+    "Season with salt to taste.",
+    "Serve hot over rice or noodles.",
+    "Garnish with fresh herbs (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "curry",
+    "spicy",
+    "malaysian",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-malaysian-papelon-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T19:16:36.790Z"
+}
