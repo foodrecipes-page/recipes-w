@@ -1,0 +1,68 @@
+{
+  "slug": "winey-silky-venezuelan-red-cabbage-tagine",
+  "title": "Pan-Seared Red Wine Cabbage",
+  "description": "A simple yet flavorful dish featuring the sweetness of red cabbage and the bold flavors of red wine.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red cabbage",
+      "amount": "1 head",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "reduced"
+    },
+    {
+      "name": "silky soy sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "tagine spice",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for pan-searing"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the thinly sliced cabbage and cook for 3-4 minutes, or until slightly caramelized.",
+    "Pour in the reduced red wine and stir to combine.",
+    "Add the silky soy sauce and tagine spice, stirring to combine.",
+    "Continue cooking for an additional 2-3 minutes, or until the cabbage is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "red-wine",
+    "cabbage",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-silky-venezuelan-red-cabbage-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T17:09:00.904Z"
+}
