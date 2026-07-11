@@ -1,0 +1,85 @@
+{
+  "slug": "warm-spicy-mexican-pork-tacos-al-pastor",
+  "title": "Tacos al Pastor",
+  "description": "A Mexican-inspired dish featuring marinated pork cooked on a rotisserie, served in tacos with onions, cilantro, and a squeeze of lime juice.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Boneless"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Queso fresco",
+      "amount": "1 cup",
+      "notes": "Crumbled"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine orange juice, lime juice, ginger, garlic, and 1 teaspoon salt. Blend until smooth.",
+    "Add the pork to a large zip-top plastic bag. Pour the marinade over the pork and massage to coat. Seal the bag and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat. Remove the pork from the marinade, letting any excess liquid drip off. Cook the pork for 5-7 minutes per side, or until it reaches an internal temperature of 145°F.",
+    "Transfer the pork to a cutting board and let it rest for 5 minutes. Slice the pork into thin strips.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a few slices of pork onto a tortilla, followed by some sliced onion, cilantro, and a sprinkle of queso fresco. Serve with salsa on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-mexican-pork-tacos-al-pastor",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T20:18:56.699Z"
+}
