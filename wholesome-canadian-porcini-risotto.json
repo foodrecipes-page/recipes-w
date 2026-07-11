@@ -1,0 +1,75 @@
+{
+  "slug": "wholesome-canadian-porcini-risotto",
+  "title": "Creamy Porcini Risotto",
+  "description": "Rich and creamy risotto dish infused with the earthy flavor of porcini mushrooms. Perfect for a cozy dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Porcini mushrooms",
+      "amount": "8 oz",
+      "notes": "Fresh or dried, rehydrated according to package instructions"
+    },
+    {
+      "name": "Wholesome Arborio rice",
+      "amount": "1 cup",
+      "notes": "Risotto rice"
+    },
+    {
+      "name": "Canadian parmesan cheese",
+      "amount": "1 cup",
+      "notes": "Shaved or grated"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": "Dry white wine"
+    },
+    {
+      "name": "Vegetable broth, warmed",
+      "amount": "4 cups",
+      "notes": "Low-sodium broth"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat.",
+    "Sauté the mushrooms until tender, about 5 minutes.",
+    "Add the Arborio rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the white wine and cook until absorbed, stirring constantly.",
+    "Add 1 cup of warmed broth and cook, stirring constantly, until absorbed.",
+    "Repeat the process, adding broth in 1-cup increments, until the rice is cooked and creamy, about 20-25 minutes.",
+    "Remove from heat and stir in the parmesan cheese.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with additional parmesan cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "risotto",
+    "porcini",
+    "italian-cuisine",
+    "vegetarian-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-canadian-porcini-risotto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:58:27.227Z"
+}
