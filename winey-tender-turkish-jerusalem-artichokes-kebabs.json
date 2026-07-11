@@ -1,0 +1,77 @@
+{
+  "slug": "winey-tender-turkish-jerusalem-artichokes-kebabs",
+  "title": "Grilled Turkish Artichoke Kebabs",
+  "description": "A flavorful and healthy recipe that combines the tenderness of artichokes with the richness of turkish spices. Perfect for a summer evening.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Artichokes",
+      "amount": "4-6",
+      "notes": "Fresh, trimmed and halved"
+    },
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Turkish tender meat substitute",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Winey olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Turkish spices",
+      "amount": "2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, salt, black pepper, and turkish spices.",
+    "Add halved artichokes and sliced jerusalem artichokes to the bowl, tossing to coat with the marinade.",
+    "Thread artichokes and jerusalem artichokes onto skewers, leaving a little space between each piece.",
+    "If using Turkish tender meat substitute, thread it onto the skewers as well.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the artichokes are tender and lightly charred.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "vegetarian",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-tender-turkish-jerusalem-artichokes-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T13:50:40.324Z"
+}
