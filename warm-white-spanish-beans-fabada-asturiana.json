@@ -1,0 +1,95 @@
+{
+  "slug": "warm-white-spanish-beans-fabada-asturiana",
+  "title": "Fabada Asturiana",
+  "description": "Traditional Asturian bean stew originating from the Asturias region in Spain",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fabada Asturiana beans",
+      "amount": "1 cup, dried",
+      "notes": "Rinse well before using"
+    },
+    {
+      "name": "Warm Spanish sausage",
+      "amount": "1 cup, sliced",
+      "notes": "Cook to an internal temperature of at least 160°F (71°C)"
+    },
+    {
+      "name": "White onion",
+      "amount": "1 medium, chopped",
+      "notes": "Caramelize to bring out flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "Mince for best flavor"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "Smoky flavor enhances the dish"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "Concentrated tomato flavor"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": "Dry white wine adds depth"
+    },
+    {
+      "name": "Stock",
+      "amount": "4 cups",
+      "notes": "Use beef or pork stock for authentic flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Season to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Freshly ground for best flavor"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add sliced Spanish sausage and cook until browned, about 5 minutes.",
+    "Add chopped onion and cook until caramelized, about 8 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add smoked paprika, tomato paste, and cook for 1 minute.",
+    "Add white wine and cook until reduced by half, about 5 minutes.",
+    "Add stock, dried Fabada beans, salt, and black pepper.",
+    "Bring to a boil, then reduce heat to low and simmer for 1-2 hours, or until beans are tender.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "stew",
+    "beans",
+    "lunch",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-white-spanish-beans-fabada-asturiana",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T06:59:03.327Z"
+}
