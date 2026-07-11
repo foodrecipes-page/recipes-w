@@ -1,0 +1,70 @@
+{
+  "slug": "wholesome-dutch-lentils-stamppot",
+  "title": "Traditional Dutch Stamppot",
+  "description": "A hearty Dutch dish made with boiled kale and potatoes, mixed with sautéed sausage and carrots, served with a side of boiled lentils.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Kale",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sausages (Dutch-style)",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Lentils",
+      "amount": "1 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Boil the chopped potatoes in a large pot of salted water until they're tender.",
+    "In a separate pot, boil the chopped kale until it's tender.",
+    "In a large skillet, sauté the sliced sausages and carrots until the sausages are browned and the carrots are tender.",
+    "Drain the boiled potatoes and add them to the skillet with the sausage and carrot mixture.",
+    "Add the cooked lentils to the skillet and stir to combine.",
+    "Add the boiled kale to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve the stamppot hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "stamppot",
+    "lentils",
+    "kale",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-dutch-lentils-stamppot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T11:48:37.400Z"
+}
