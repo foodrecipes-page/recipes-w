@@ -1,0 +1,80 @@
+{
+  "slug": "weakly-brined-slovakian-asparagus-hash",
+  "title": "Pan-Seared Weakly Hash with Asparagus and Brined Sausage",
+  "description": "A hearty breakfast dish featuring pan-seared weakly hash, asparagus, and a side of brined Slovakian sausage",
+  "cuisine": "Slovakian",
+  "diet": [
+    "breakfast",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Weakly Hash",
+      "amount": "1 cup",
+      "notes": "Available in most supermarkets"
+    },
+    {
+      "name": "Asparagus",
+      "amount": "4 spears",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Brined Slovakian Sausage",
+      "amount": "2 sausages",
+      "notes": "Available in most European markets"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Heat a large skillet over medium-high heat.",
+    "2. Add the weakly hash to the skillet and cook until golden brown, about 4-5 minutes.",
+    "3. Meanwhile, cook the asparagus in the microwave or on the stovetop until tender.",
+    "4. Add the brined Slovakian sausage to the skillet and cook until browned, about 2-3 minutes.",
+    "5. If using eggs, crack them into the skillet and scramble them with the weakly hash.",
+    "6. Season with salt and black pepper to taste.",
+    "7. Serve the weakly hash with the asparagus and brined Slovakian sausage on the side.",
+    "8. If desired, top with butter and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "slovakian",
+    "hash",
+    "asparagus"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/weakly-brined-slovakian-asparagus-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T02:35:58.912Z"
+}
