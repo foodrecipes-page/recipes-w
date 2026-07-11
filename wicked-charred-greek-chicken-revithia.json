@@ -1,0 +1,87 @@
+{
+  "slug": "wicked-charred-greek-chicken-revithia",
+  "title": "Greek Revithia Chicken",
+  "description": "A traditional Greek dish featuring chicken cooked with revithia in a flavorful sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "Gluten-Free",
+    "Low-Carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Revithia",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Greek seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season chicken breasts with salt, pepper, and Greek seasoning.",
+    "Heat olive oil in a skillet over medium-high heat.",
+    "Add garlic and cook for 1 minute.",
+    "Add chicken breasts and cook for 2-3 minutes per side.",
+    "Transfer chicken to a baking dish and set aside.",
+    "Add revithia to the skillet and cook for 2-3 minutes.",
+    "Add lemon juice and stir to combine.",
+    "Pour the revithia mixture over the chicken breasts.",
+    "Bake in the preheated oven for 20-25 minutes, or until cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "chicken",
+    "revithia",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wicked-charred-greek-chicken-revithia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T22:36:45.267Z"
+}
