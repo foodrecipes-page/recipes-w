@@ -1,0 +1,64 @@
+{
+  "slug": "winey-crispy-vietnamese-hazelnuts-pho",
+  "title": "Crispy Hazelnut Pho Bites",
+  "description": "Crispy pho bites filled with a sweet and nutty hazelnut filling. Perfect as a snack or dessert.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pho noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Winey rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Crispy fried onions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pho noodles according to package instructions. Drain and set aside.",
+    "In a blender or food processor, blend the hazelnuts and sugar until finely ground.",
+    "Add the winey rice vinegar and blend until well combined.",
+    "In a large bowl, mix together the cooked pho noodles, hazelnut mixture, and crispy fried onions.",
+    "Using a small cookie scoop or spoon, drop the mixture into balls and place on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until crispy and golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "dessert",
+    "vegetarian",
+    "vietnamese",
+    "hazelnut"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-crispy-vietnamese-hazelnuts-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T22:31:53.106Z"
+}
