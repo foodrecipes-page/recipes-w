@@ -1,0 +1,90 @@
+{
+  "slug": "warm-citrusy-japanese-chicken-donburi",
+  "title": "Japanese Chicken Donburi",
+  "description": "A classic Japanese dish made with grilled chicken, served over a bed of rice and topped with a sweet and savory sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 lbs",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "sushi rice",
+      "amount": "2 cups",
+      "notes": "Japanese short-grain rice"
+    },
+    {
+      "name": "donburi sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated daikon",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season chicken breast with salt, pepper, and your favorite Japanese seasonings.",
+    "3. Grill chicken for 5-7 minutes per side, or until cooked through.",
+    "4. Meanwhile, prepare sushi rice according to package instructions.",
+    "5. In a small saucepan, combine donburi sauce, soy sauce, brown sugar, and rice vinegar. Bring to a simmer over medium heat.",
+    "6. In a large bowl, combine cooked sushi rice, donburi sauce, and sesame oil. Mix well to combine.",
+    "7. Slice grilled chicken into thin strips.",
+    "8. Assemble donburi by placing a scoop of rice onto a plate, followed by a few slices of chicken, and topped with green onions, sesame seeds, and grated daikon (if using).",
+    "9. Serve immediately and enjoy!",
+    "10. Garnish with additional green onions and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "grilled-chicken",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-citrusy-japanese-chicken-donburi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:18:30.123Z"
+}
