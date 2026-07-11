@@ -352,16 +352,14 @@
   },
   {
     "slug": "warm-british-lamb-stew",
-    "title": "Warm British Lamb Stew",
+    "title": "Classic British Lamb Stew",
     "tags": [
-      "british",
-      "high-protein",
       "lamb",
-      "one-pan",
-      "weeknight"
+      "stew",
+      "british"
     ],
     "cuisine": "British",
-    "totalTimeMin": 140,
+    "totalTimeMin": 170,
     "shard": "w"
   },
   {
@@ -2234,17 +2232,16 @@
   },
   {
     "slug": "warm-crunchy-mediterranean-chicken-flatbread",
-    "title": "Warm Crunchy Mediterranean Chicken Flatbread",
+    "title": "Chicken Gyro Wrap",
     "tags": [
-      "crunchy",
-      "high-protein",
+      "chicken",
+      "gyro",
+      "wrap",
       "mediterranean",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight"
+      "easy"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 22,
     "shard": "w"
   },
   {
@@ -14625,15 +14622,16 @@
   },
   {
     "slug": "wholesome-rich-energizing-russian-seafood-grill",
-    "title": "wholesome rich energizing russian seafood grill",
+    "title": "Grilled Salmon with Russian Herb Butter",
     "tags": [
-      "grilled",
+      "salmon",
+      "grill",
       "russian",
       "seafood",
-      "whole30"
+      "dinner"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 38,
+    "cuisine": "Russian",
+    "totalTimeMin": 18,
     "shard": "w"
   },
   {
