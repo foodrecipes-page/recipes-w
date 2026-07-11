@@ -1,0 +1,76 @@
+{
+  "slug": "warm-kenyan-dum-dumplings",
+  "title": "Kenyan-Style Beef Dumplings",
+  "description": "A hearty and flavorful take on traditional Kenyan dumplings, filled with tender beef and spices.",
+  "cuisine": "kenyan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "1 package (usually 20-24 wrappers)"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Combine flour and warm water to form a dough. Knead for 5-7 minutes until smooth.",
+    "Divide dough into small balls, about the size of a small egg. Roll out each ball into a thin circle.",
+    "Place a tablespoon of the beef mixture in the center of each dough circle. Fold the dough over the filling to form a half-moon shape, and press edges together to seal.",
+    "Heat a large skillet or wok over medium-high heat. Add 1 tablespoon of vegetable oil, then add the dumplings, cooked in batches if necessary.",
+    "Cook the dumplings for 2-3 minutes on each side, until golden brown. Repeat with remaining dumplings.",
+    "Transfer cooked dumplings to a serving plate. Serve immediately, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "beef",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-kenyan-dum-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:04:45.826Z"
+}
