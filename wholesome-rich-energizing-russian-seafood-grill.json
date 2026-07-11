@@ -1,0 +1,79 @@
+{
+  "slug": "wholesome-rich-energizing-russian-seafood-grill",
+  "title": "Grilled Salmon with Russian Herb Butter",
+  "description": "A flavorful and refreshing dish that combines the rich taste of salmon with the bright, energizing flavors of Russian herbs. This recipe is perfect for a quick weeknight dinner or a special occasion.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "4",
+      "notes": "Fresh, skin removed"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "Softened"
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "2 tablespoons",
+      "notes": "Russian dill preferred"
+    },
+    {
+      "name": "Chopped fresh chives",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season salmon fillets with salt and pepper.",
+    "Grill salmon for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, mix softened butter, chopped dill, chives, lemon juice, garlic powder, salt, and pepper in a bowl.",
+    "Once salmon is cooked, top each fillet with a pat of the herb butter.",
+    "Serve immediately, garnished with additional dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salmon",
+    "grill",
+    "russian",
+    "seafood",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-rich-energizing-russian-seafood-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T16:39:37.072Z"
+}
