@@ -1,0 +1,87 @@
+{
+  "slug": "warm-crispy-italian-rice-suppli",
+  "title": "Italian-Style Suppli Bites",
+  "description": "Crispy fried risotto balls filled with mozzarella and tomato sauce, perfect as a snack or appetizer.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice (for risotto)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Warm water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Italian-style tomato sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg, lightly beaten",
+      "amount": "1"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Prepare the risotto by cooking the rice in warm water until it's al dente.",
+    "Let the risotto cool completely.",
+    "Combine the cooled risotto, tomato sauce, and shredded mozzarella cheese in a bowl.",
+    "Mix well until all the ingredients are combined.",
+    "Shape the mixture into small balls, about 1-inch in diameter.",
+    "Dip each ball into the beaten egg and then roll it in breadcrumbs to coat.",
+    "Fry the coated balls in olive oil until they're crispy and golden brown.",
+    "Drain on paper towels and sprinkle with Parmesan cheese, if using.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "snack",
+    "fried",
+    "cheese",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-italian-rice-suppli",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T03:26:48.051Z"
+}
