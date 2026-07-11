@@ -1,0 +1,76 @@
+{
+  "slug": "warm-japanese-egg-yolks-noodles",
+  "title": "Japanese Ramen",
+  "description": "A quick and delicious Japanese noodle soup made with warm egg yolks.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ramen noodles",
+      "amount": "8oz",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "egg yolks",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring the warm water to a boil in a large pot.",
+    "Cook the ramen noodles according to the package instructions.",
+    "In a small bowl, mix together the egg yolks and soy sauce.",
+    "Add the cooked noodles to the bowl and toss with the egg yolk mixture.",
+    "Drizzle with sesame oil and sprinkle with green onions.",
+    "Season with salt to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "ramen",
+    "japanese",
+    "noodle-soup"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-japanese-egg-yolks-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T04:29:20.454Z"
+}
