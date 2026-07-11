@@ -1,0 +1,81 @@
+{
+  "slug": "warm-british-lamb-stew",
+  "title": "Classic British Lamb Stew",
+  "description": "A hearty, comforting stew originating from the British Isles, featuring tender lamb and root vegetables.",
+  "cuisine": "British",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "Carrots",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the onions and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the beef broth, red wine, thyme, and rosemary to the pot.",
+    "Return the lamb to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise the stew in the preheated oven at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "40g",
+    "fat": "28g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-british-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T16:34:22.514Z"
+}
