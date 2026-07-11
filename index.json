@@ -7680,17 +7680,16 @@
   },
   {
     "slug": "warm-spiced-indian-chickpeas-chana-masala",
-    "title": "Warm Spiced Indian Chickpeas Chana Masala",
+    "title": "Spiced Chickpea Curry",
     "tags": [
-      "gluten-free",
-      "indian-food",
-      "lazy-sunday",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "indian",
+      "chickpeas",
+      "curry",
+      "easy",
+      "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -11340,17 +11339,15 @@
   },
   {
     "slug": "warmly-spiced-american-chicken-skewers",
-    "title": "Warmly Spiced American Chicken Skewers",
+    "title": "Warmly Spiced Chicken Skewers",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "mediterranean-inspired",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "skewers",
+      "american",
+      "warmly-spiced"
     ],
     "cuisine": "American",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
