@@ -1,0 +1,69 @@
+{
+  "slug": "wholesome-velvety-hangover-cure-tunisian-dish-bake",
+  "title": "Velvety Hangover Cure",
+  "description": "A soothing and nourishing breakfast recipe to cure morning after blues. This dish combines the richness of velvety ingredients with the rejuvenating power of wholesome foods.",
+  "cuisine": "Western",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tunisian whole wheat bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Wholesome almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Velvety avocado",
+      "amount": "2 ripe avocados"
+    },
+    {
+      "name": "Hangover cure spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dish soap-free dish soap",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bake-friendly baking powder",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the Tunisian whole wheat bread into 1-inch cubes.",
+    "Mash the velvety avocado in a large bowl.",
+    "Add almond milk, hangover cure spice blend, and baking powder to the bowl.",
+    "Gently fold in the bread cubes.",
+    "Transfer the mixture to a baking dish.",
+    "Bake for 20-25 minutes or until lightly toasted.",
+    "Remove from the oven and let it cool for a few minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "recovery",
+    "velvety",
+    "wholesome"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-velvety-hangover-cure-tunisian-dish-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:10:58.393Z"
+}
