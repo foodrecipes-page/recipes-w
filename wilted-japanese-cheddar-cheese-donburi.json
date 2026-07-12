@@ -1,0 +1,60 @@
+{
+  "slug": "wilted-japanese-cheddar-cheese-donburi",
+  "title": "Revitalized Donburi with Wilted Greens",
+  "description": "A creative twist on the classic donburi, adding wilted greens for an extra nutritional boost. This Japanese-inspired dish is perfect for a quick and easy meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Donburi (Japanese rice bowl)",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Wilted greens (such as spinach or kale)",
+      "amount": "2 cups",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "Japanese soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Cook the donburi according to package instructions.",
+    "2. In a separate pan, heat the soy sauce over medium heat.",
+    "3. Add the wilted greens to the pan and stir until well coated with the soy sauce.",
+    "4. Top the cooked donburi with the wilted greens mixture.",
+    "5. Sprinkle grated cheddar cheese on top (if using).",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "wilted greens",
+    "donburi",
+    "japanese",
+    "quick meal"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-japanese-cheddar-cheese-donburi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:13:01.950Z"
+}
