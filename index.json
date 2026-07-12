@@ -6934,17 +6934,16 @@
   },
   {
     "slug": "warm-smoky-ethiopian-white-cornmeal-stew",
-    "title": "Warm Smoky Ethiopian White Cornmeal Stew",
+    "title": "Smoky Ethiopian Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "keto-friendly",
-      "one-pot",
       "smoky",
-      "weeknight"
+      "ethiopian",
+      "stew",
+      "vegetarian",
+      "comfort-food"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -11955,18 +11954,13 @@
   },
   {
     "slug": "warmly-spiced-venezuelan-umeboshi-skewers",
-    "title": "Warmly Spiced Venezuelan Umeboshi Skewers",
+    "title": "Venezuelan Grilled Skewers",
     "tags": [
-      "festive",
-      "herbal",
-      "skewers",
-      "tadka",
-      "tagliere",
-      "umeoshi",
-      "venezuelan"
+      "vegan-alternative",
+      "gluten-free"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 45,
+    "cuisine": "Latin American",
+    "totalTimeMin": 36,
     "shard": "w"
   },
   {
@@ -15764,15 +15758,14 @@
   },
   {
     "slug": "wild-smoky-kenyan-lettuce-salad",
-    "title": "Wild Smoky Kenyan Lettuce Salad",
+    "title": "Smoky Kenyan Wild Greens Salad",
     "tags": [
+      "salad",
       "kenyan",
-      "low-carb",
-      "quick",
-      "smoky",
-      "vegan"
+      "wild-greens",
+      "smoky"
     ],
-    "cuisine": "Kenyan",
+    "cuisine": "kenyan",
     "totalTimeMin": 10,
     "shard": "w"
   },
