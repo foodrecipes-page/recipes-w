@@ -434,16 +434,15 @@
   },
   {
     "slug": "warm-buttery-croatian-chicken-pilaf",
-    "title": "Warm Buttery Croatian Chicken Pilaf",
+    "title": "Croatian Chicken Pilaf",
     "tags": [
-      "comfort-food",
-      "creamy",
-      "date-night",
-      "one-pot",
-      "pressure-cooker"
+      "chicken",
+      "pilaf",
+      "croatian-cuisine",
+      "one-pot-meal"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 40,
+    "cuisine": "croatian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -473,17 +472,16 @@
   },
   {
     "slug": "warm-buttery-egyptian-lentil-casserole",
-    "title": "Warm Buttery Egyptian Lentil Casserole",
+    "title": "Egyptian Lentil Casserole",
     "tags": [
-      "high-protein",
-      "mason-jar",
-      "one-pan",
-      "vegan",
+      "egyptian",
+      "lentil",
+      "casserole",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -5122,14 +5120,12 @@
   },
   {
     "slug": "warm-middle-eastern-cabbage-baba-ganoush",
-    "title": "Warm Middle Eastern Cabbage Baba Ganoush",
+    "title": "Roasted Middle Eastern Cabbage with Baba Ganoush",
     "tags": [
-      "citrusy",
-      "easy-recipe",
-      "healthy-snack",
-      "jain-friendly",
       "middle-eastern",
-      "vegetarian"
+      "vegetarian",
+      "side-dish",
+      "healthy"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
@@ -7859,17 +7855,15 @@
   },
   {
     "slug": "warm-spicy-chinese-chicken-noodles",
-    "title": "Warm Spicy Chinese Chicken Noodles",
+    "title": "Spicy Chicken Noodle Stir Fry",
     "tags": [
-      "chinese-food",
-      "diabetic-friendly",
-      "lazy-sunday",
-      "noodle-dish",
-      "one-pan",
-      "spicy"
+      "chinese",
+      "spicy",
+      "noodles",
+      "chicken"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -12450,17 +12444,14 @@
   },
   {
     "slug": "whipped-malaysian-fish-soup",
-    "title": "Whipped Malaysian Fish Soup",
+    "title": "Spicy Fish Soup",
     "tags": [
-      "citrusy",
-      "energizing",
-      "light",
-      "no-heat",
-      "pescatarian-friendly",
-      "soup"
+      "fish",
+      "soup",
+      "malaysian"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
