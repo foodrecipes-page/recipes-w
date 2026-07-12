@@ -3717,16 +3717,15 @@
   },
   {
     "slug": "warm-glassy-spanish-cabbage-pulpo-a-la-gallega",
-    "title": "Warm Glassy Spanish Cabbage Pulpo A La Gallega",
+    "title": "Galician-Style Octopus Stew",
     "tags": [
-      "anti-inflammatory",
-      "gluten-free-option",
-      "one-pot-meal",
-      "seafood-recipe",
-      "spanish-cuisine"
+      "spanish",
+      "octopus",
+      "stew",
+      "galician"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "cuisine": "spanish",
+    "totalTimeMin": 65,
     "shard": "w"
   },
   {
@@ -4007,18 +4006,15 @@
   },
   {
     "slug": "warm-gooey-uruguayan-beef-skewers",
-    "title": "Warm Gooey Uruguayan Beef Skewers",
+    "title": "Uruguayan Beef Skewers",
     "tags": [
-      "beef-recipes",
-      "donabe-recipes",
-      "italian-seasoning",
-      "kosher-friendly",
-      "post-workout",
-      "robata-grill",
-      "uruguayan-cuisine"
+      "beef",
+      "grilling",
+      "skewers",
+      "uruguayan"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 36,
     "shard": "w"
   },
   {
@@ -6266,15 +6262,14 @@
   },
   {
     "slug": "warm-russian-turkey-neck-borscht",
-    "title": "Warm Russian Turkey Neck Borscht",
+    "title": "Warm Borscht with Smoked Turkey",
     "tags": [
-      "comfort-food",
-      "rusian-cuisine",
       "soup",
-      "winter-recipe"
+      "russian-cuisine",
+      "comfort-food"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 150,
+    "cuisine": "russian",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
