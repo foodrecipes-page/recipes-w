@@ -1,0 +1,94 @@
+{
+  "slug": "warm-smoky-ethiopian-white-cornmeal-stew",
+  "title": "Smoky Ethiopian Stew",
+  "description": "A hearty and flavorful stew infused with the warmth of smoky spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White onions",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Cornmeal",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Stew",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "Ethiopian spices",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add garlic and ginger; cook for another minute.",
+    "Stir in cornmeal and cook for 1 minute.",
+    "Add stew, spices, salt, and pepper. Stir well.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "ethiopian",
+    "stew",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-ethiopian-white-cornmeal-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T12:22:00.765Z"
+}
