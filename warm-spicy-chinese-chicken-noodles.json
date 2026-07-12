@@ -1,0 +1,98 @@
+{
+  "slug": "warm-spicy-chinese-chicken-noodles",
+  "title": "Spicy Chicken Noodle Stir Fry",
+  "description": "A quick and easy stir fry recipe combining spicy and savory flavors with chicken and noodles.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "thin rice noodles"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the garlic and ginger to the skillet and cook until fragrant, about 1 minute.",
+    "Add the noodles to the skillet and cook until slightly browned, about 2-3 minutes.",
+    "In a small bowl, whisk together the soy sauce, sugar, and cornstarch.",
+    "Pour the soy sauce mixture into the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to combine.",
+    "Add the hot sauce to the skillet and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Stir in the scallions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "spicy",
+    "noodles",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-chinese-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:13:57.264Z"
+}
