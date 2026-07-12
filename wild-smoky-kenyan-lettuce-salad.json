@@ -1,0 +1,72 @@
+{
+  "slug": "wild-smoky-kenyan-lettuce-salad",
+  "title": "Smoky Kenyan Wild Greens Salad",
+  "description": "A hearty salad featuring smoky flavors and wild greens, inspired by Kenyan cuisine.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wild greens",
+      "amount": "4 cups, chopped",
+      "notes": "Any combination of wild greens such as arugula, spinach, and lettuce"
+    },
+    {
+      "name": "Smoky Kenyan spice blend",
+      "amount": "2 tsp",
+      "notes": "Available at most African markets or online"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "High-quality extra-virgin olive oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Flaky sea salt or kosher salt"
+    },
+    {
+      "name": "Crunchy lettuce",
+      "amount": "1 cup, chopped",
+      "notes": "Optional, for added texture"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chopped wild greens and crunchy lettuce (if using).",
+    "In a small bowl, whisk together lemon juice and smoky Kenyan spice blend.",
+    "Drizzle the dressing over the greens and toss to coat.",
+    "Drizzle olive oil over the salad and sprinkle with salt to taste.",
+    "Toss the salad again to combine all the flavors.",
+    "Serve immediately, garnished with additional wild greens if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "kenyan",
+    "wild-greens",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wild-smoky-kenyan-lettuce-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:57:31.548Z"
+}
