@@ -1,0 +1,90 @@
+{
+  "slug": "wood-fired-argentinian-galangal-kha-bake",
+  "title": "Galangal Wood-Fired Skirt Steak",
+  "description": "Grilled skirt steak marinated in a mixture of galangal, herbs, and spices, served with a side of Argentinian chimichurri sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skirt steak",
+      "amount": "1.5 pounds",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "galangal",
+      "amount": "3 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "wood-fired oven",
+      "amount": "",
+      "notes": "preheated to 500°F"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 500°F (260°C).",
+    "In a large bowl, whisk together olive oil, garlic, parsley, salt, and pepper.",
+    "Add the grated galangal and mix well.",
+    "Add the skirt steak to the marinade and coat evenly.",
+    "Let the steak marinate for at least 2 hours, or overnight.",
+    "Remove the steak from the marinade and cook in the preheated wood-fired oven for 5-7 minutes per side, or until cooked to your desired level of doneness.",
+    "Let the steak rest for 5 minutes before slicing.",
+    "Serve with a side of Argentinian chimichurri sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "grilled",
+    "skirt steak",
+    "galangal",
+    "chimichurri"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wood-fired-argentinian-galangal-kha-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:31:23.389Z"
+}
