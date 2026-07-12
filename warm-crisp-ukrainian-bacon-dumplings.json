@@ -1,0 +1,75 @@
+{
+  "slug": "warm-crisp-ukrainian-bacon-dumplings",
+  "title": "Crispy Bacon Ukrainian Dumplings",
+  "description": "A hearty and savory Eastern European-inspired dish featuring crispy bacon and tender Ukrainian-style dumplings. This comforting meal is perfect for a chilly evening.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crisp bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Ukrainian-style dumpling wrappers",
+      "amount": "20-25"
+    },
+    {
+      "name": "Ground pork",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the Ukrainian-style dumpling wrappers according to package instructions.",
+    "In a large skillet, cook the crisp bacon over medium heat until crispy. Remove the bacon from the skillet, leaving the drippings behind.",
+    "Add the ground pork to the skillet and cook, breaking it up with a spoon, until browned.",
+    "Add the diced onion to the skillet and cook until translucent.",
+    "Add the cooked dumpling wrappers to the skillet and stir to combine with the pork and onion mixture.",
+    "Season the dumpling mixture with salt and black pepper to taste.",
+    "Add the cooked bacon back into the skillet and stir to combine.",
+    "Serve the crispy bacon Ukrainian dumplings hot, garnished with additional crispy bacon if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "eastern-european",
+    "dumplings",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crisp-ukrainian-bacon-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:27:46.930Z"
+}
