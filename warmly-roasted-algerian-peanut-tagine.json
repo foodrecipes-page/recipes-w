@@ -1,0 +1,96 @@
+{
+  "slug": "warmly-roasted-algerian-peanut-tagine",
+  "title": "Warm Algerian Peanut Tagine",
+  "description": "A hearty and flavorful North African stew made with peanuts, chicken, and spices. Best served with crusty bread or couscous.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "lactose-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "shelled and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use for browning the chicken"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "use to taste"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "1 teaspoon",
+      "notes": "use to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the chicken in batches until cooked through, then set aside.",
+    "Add the onion and garlic to the pot and sauté until softened, about 5 minutes.",
+    "Add the peanuts, cumin, coriander, cayenne pepper (if using), and salt. Stir to combine.",
+    "Add the chicken back to the pot and stir to coat with the spice mixture.",
+    "Add 2 cups of chicken broth to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the flavors have melded together.",
+    "Stir in the algerian spice blend and cook for an additional 5 minutes.",
+    "Serve the tagine hot, garnished with chopped fresh cilantro (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "stew",
+    "chicken",
+    "peanuts",
+    "algerian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-roasted-algerian-peanut-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:39:12.418Z"
+}
