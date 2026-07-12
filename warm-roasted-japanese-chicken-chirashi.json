@@ -1,0 +1,85 @@
+{
+  "slug": "warm-roasted-japanese-chicken-chirashi",
+  "title": "Chicken Chirashi Bowl",
+  "description": "A Japanese-inspired dish featuring chicken, sushi rice, and vegetables, perfect for a light lunch.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Sushi rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mixed vegetables (bell peppers, carrots, green onions)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Warm sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking chicken"
+    },
+    {
+      "name": "Chirashi sauce (store-bought or homemade)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook sushi rice according to package instructions.",
+    "Season chicken with salt and pepper. Cook in warm sesame oil until browned and cooked through.",
+    "Prepare mixed vegetables (bell peppers, carrots, green onions) by slicing into thin strips.",
+    "To assemble the chirashi bowl, place a scoop of sushi rice in the bottom of a bowl.",
+    "Add cooked chicken on top of the rice.",
+    "Arrange mixed vegetables around the chicken.",
+    "Drizzle chirashi sauce over the top.",
+    "Garnish with sliced green onions and sesame seeds.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "japanese",
+    "rice",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-roasted-japanese-chicken-chirashi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:16:13.063Z"
+}
