@@ -1,0 +1,92 @@
+{
+  "slug": "warm-buttery-egyptian-lentil-casserole",
+  "title": "Egyptian Lentil Casserole",
+  "description": "A hearty, comforting casserole filled with the flavors of Egypt. Perfect for a chilly evening.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Warm Egyptian Spices",
+      "amount": "2 tsp",
+      "notes": "Mix of paprika, cumin, coriander, and cayenne pepper"
+    },
+    {
+      "name": "Buttery Onions",
+      "amount": "1 large",
+      "notes": "Caramelized in butter until golden brown"
+    },
+    {
+      "name": "Lentils",
+      "amount": "1 cup",
+      "notes": "Green or brown lentils work well"
+    },
+    {
+      "name": "Casserole Crust",
+      "amount": "1 sheet",
+      "notes": "Pastry crust or puff pastry"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium broth for a flavorful base"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/4 cup",
+      "notes": "Optional for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the lentils according to package instructions.",
+    "In a large skillet, caramelize the onions in butter until golden brown.",
+    "Add the Egyptian spices and cook for 1 minute.",
+    "Add the vegetable broth and bring to a simmer.",
+    "Stir in the cooked lentils and cook for 5 minutes.",
+    "Roll out the casserole crust and place in a 9x13 inch baking dish.",
+    "Fill the crust with the lentil mixture and top with feta cheese (if using).",
+    "Bake for 25-30 minutes or until the crust is golden brown.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "lentil",
+    "casserole",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-buttery-egyptian-lentil-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:25:29.058Z"
+}
