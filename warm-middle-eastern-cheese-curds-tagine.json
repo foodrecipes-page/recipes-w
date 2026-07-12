@@ -1,0 +1,85 @@
+{
+  "slug": "warm-middle-eastern-cheese-curds-tagine",
+  "title": "Middle Eastern Warm Cheese Tagine",
+  "description": "A rich and creamy Middle Eastern cheese tagine, perfect for a cold evening. This recipe combines warm spices with melted curds for a delightful twist on traditional cheese dishes.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack|dessert",
+  "ingredients": [
+    {
+      "name": "Gouda cheese",
+      "amount": "200 grams",
+      "notes": "Dutch cheese with a mild flavor"
+    },
+    {
+      "name": "Middle Eastern cheese curds",
+      "amount": "150 grams",
+      "notes": "Also known as paneer, these curds will melt beautifully in the tagine"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "50 grams",
+      "notes": "Use high-quality butter for the best flavor"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Sweet or smoked paprika works well in this recipe"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "Warm and aromatic, cinnamon pairs perfectly with cheese"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1/4 teaspoon",
+      "notes": "A classic Middle Eastern spice, cumin adds depth to the dish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use kosher salt for the best flavor"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "to taste",
+      "notes": "Add a few grinds of pepper to balance the flavors"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "In a large saucepan, melt the butter over medium heat.",
+    "Add the paprika, cinnamon, and cumin, and cook for 1-2 minutes, until fragrant.",
+    "Add the cheese curds and stir until they begin to melt.",
+    "Add the Gouda cheese and stir until well combined.",
+    "Transfer the mixture to a baking dish and bake for 20-25 minutes, until the cheese is melted and bubbly.",
+    "Remove the tagine from the oven and let it cool for a few minutes.",
+    "Serve warm, garnished with fresh herbs if desired.",
+    "Enjoy your delicious Middle Eastern warm cheese tagine!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "cheese",
+    "tagine",
+    "warm",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-middle-eastern-cheese-curds-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:32:27.672Z"
+}
