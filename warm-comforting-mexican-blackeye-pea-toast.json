@@ -1,0 +1,75 @@
+{
+  "slug": "warm-comforting-mexican-blackeye-pea-toast",
+  "title": "Blackeye Pea Toast",
+  "description": "A warm and comforting Mexican-inspired dish featuring blackeye peas and crispy bread.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "blackeye peas",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "pea shoot",
+      "amount": "4",
+      "notes": "optional"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "shredded cheese (Monterey Jack or Cheddar)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Cook the blackeye peas according to package instructions.",
+    "Toast the bread until crispy.",
+    "In a separate skillet, heat a tablespoon of oil over medium heat.",
+    "Add chili powder and cook for 1 minute.",
+    "Add the cooked blackeye peas and stir to coat with chili powder.",
+    "Season with salt and pepper to taste.",
+    "Assemble the toast by spreading blackeye peas on toasted bread.",
+    "Top with pea shoots (if using) and shredded cheese.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "blackeye-peas",
+    "mexican-food",
+    "breakfast",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-comforting-mexican-blackeye-pea-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:35:09.946Z"
+}
