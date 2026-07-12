@@ -1103,16 +1103,15 @@
   },
   {
     "slug": "warm-comforting-mexican-blackeye-pea-toast",
-    "title": "Warm Comforting Mexican Blackeye Pea Toast",
+    "title": "Blackeye Pea Toast",
     "tags": [
+      "blackeye-peas",
+      "mexican-food",
       "breakfast",
-      "comfort-food",
-      "mexican",
-      "vegan",
-      "weeknight"
+      "comfort-food"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 60,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -13309,16 +13308,14 @@
   },
   {
     "slug": "wholesome-crunchy-croatian-fish-bowl",
-    "title": "wholesome crunchy croatian fish bowl",
+    "title": "Hearty Fish Stew",
     "tags": [
-      "croatian",
-      "gluten-free",
-      "one-pan",
-      "pescatarian",
-      "weeknight"
+      "fish",
+      "seafood",
+      "stew"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": 32,
+    "cuisine": "seafood",
+    "totalTimeMin": 22,
     "shard": "w"
   },
   {
