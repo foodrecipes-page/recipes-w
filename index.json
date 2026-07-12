@@ -5133,16 +5133,16 @@
   },
   {
     "slug": "warm-middle-eastern-cheese-curds-tagine",
-    "title": "Warm Middle Eastern Cheese Curds Tagine",
+    "title": "Middle Eastern Warm Cheese Tagine",
     "tags": [
-      "comfort-food",
-      "fodmap-friendly",
-      "gluten-free",
       "middle-eastern",
-      "one-pot"
+      "cheese",
+      "tagine",
+      "warm",
+      "comfort-food"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -10735,16 +10735,15 @@
   },
   {
     "slug": "warmly-braised-greek-turnip-stew",
-    "title": "Warmly Braised Greek Turnip Stew",
+    "title": "Braised Greek Turnip Stew",
     "tags": [
-      "comfort-food",
-      "greek-cuisine",
-      "low-carb",
-      "one-pot",
-      "weeknight"
+      "greek",
+      "stew",
+      "braised",
+      "turnip"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "totalTimeMin": 60,
     "shard": "w"
   },
   {
@@ -11078,17 +11077,16 @@
   },
   {
     "slug": "warmly-roasted-algerian-peanut-tagine",
-    "title": "Warmly Roasted Algerian Peanut Tagine",
+    "title": "Warm Algerian Peanut Tagine",
     "tags": [
-      "algerian",
-      "easy-to-make",
-      "gluten-free",
-      "one-pan",
-      "snack",
-      "vegan"
+      "north-african",
+      "stew",
+      "chicken",
+      "peanuts",
+      "algerian"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
