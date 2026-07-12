@@ -1,0 +1,86 @@
+{
+  "slug": "warm-russian-turkey-neck-borscht",
+  "title": "Warm Borscht with Smoked Turkey",
+  "description": "A hearty, comforting twist on the classic beet-based soup, featuring smoked turkey and a hint of warm spices.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 cups, peeled and grated"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup, peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "beet broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked turkey",
+      "amount": "1 pound, diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, sauté the onion and garlic in a little bit of oil until softened.",
+    "Add the grated carrots and beets, and cook for about 5 minutes.",
+    "Pour in the beet broth and bring to a boil.",
+    "Reduce heat and let simmer for about 20 minutes, or until the vegetables are tender.",
+    "Stir in the sour cream and smoked turkey.",
+    "Season with cumin, paprika, salt, and black pepper.",
+    "Serve hot, garnished with chopped fresh dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "russian-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-russian-turkey-neck-borscht",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:02:42.800Z"
+}
