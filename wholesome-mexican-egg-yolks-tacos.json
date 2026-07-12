@@ -1,0 +1,68 @@
+{
+  "slug": "wholesome-mexican-egg-yolks-tacos",
+  "title": "Egg Tacos",
+  "description": "A Mexican-inspired breakfast dish featuring egg-filled tacos with a crispy tortilla.",
+  "cuisine": "Mexican",
+  "diet": [
+    "breakfast",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "Fresh and whisked"
+    },
+    {
+      "name": "tacos",
+      "amount": "4",
+      "notes": "Corn tortillas"
+    },
+    {
+      "name": "wholesome tortilla seasoning",
+      "amount": "1 tsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tsp",
+      "notes": "Vegetable or canola oil"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together.",
+    "Heat a non-stick skillet or griddle over medium-high heat.",
+    "Add the oil to the skillet and swirl it around.",
+    "Add the whisked eggs to the skillet and scramble them until cooked through.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing scrambled eggs onto a tortilla and sprinkling with tortilla seasoning.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "mexican",
+    "egg",
+    "taco"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-mexican-egg-yolks-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T12:33:54.240Z"
+}
