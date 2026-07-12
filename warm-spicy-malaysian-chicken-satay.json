@@ -1,0 +1,96 @@
+{
+  "slug": "warm-spicy-malaysian-chicken-satay",
+  "title": "Malaysian Chicken Satay",
+  "description": "A classic Malaysian street food dish made with marinated chicken skewers, grilled to perfection and served with spicy peanut sauce.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup",
+      "notes": "unsalted and unsweetened"
+    },
+    {
+      "name": "red chili peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine coconut milk, lime juice, fish sauce, brown sugar, peanuts, red chili peppers, garlic, and coriander. Blend until smooth.",
+    "Add chicken pieces to the blender and marinate for at least 30 minutes.",
+    "Preheat grill to medium-high heat.",
+    "Thread marinated chicken onto skewers, if using.",
+    "Brush grill with vegetable oil to prevent sticking.",
+    "Grill chicken for 5-7 minutes per side, or until cooked through.",
+    "Transfer chicken to a serving platter and serve with peanut sauce (recipe below).",
+    "To make peanut sauce, combine blended mixture from step 1 with 1/4 cup water and stir to combine. Taste and adjust seasoning as needed.",
+    "Serve peanut sauce on the side or brush onto grilled chicken during the last minute of cooking.",
+    "Serve chicken satay immediately, garnished with chopped peanuts and lime wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "warm",
+    "spicy",
+    "malaysian",
+    "chicken",
+    "satay"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-malaysian-chicken-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:33:45.831Z"
+}
