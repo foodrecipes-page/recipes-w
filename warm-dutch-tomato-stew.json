@@ -1,0 +1,88 @@
+{
+  "slug": "warm-dutch-tomato-stew",
+  "title": "Hearty Dutch Stew",
+  "description": "A warm and comforting Dutch stew made with tender chunks of beef and fresh vegetables.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Dutch Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "Dissolved in 2 cups of beef broth"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned on all sides, about 5 minutes.",
+    "Remove beef from pot and set aside.",
+    "Add more oil if necessary, then add onion and cook until softened, about 5 minutes.",
+    "Add carrot and potato and cook for 5 minutes.",
+    "Add beef broth, tomato paste, salt, and pepper. Stir to combine.",
+    "Return beef to pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until beef is tender.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch stew",
+    "beef stew",
+    "comfort food",
+    "winter warmers"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-dutch-tomato-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:23:57.556Z"
+}
