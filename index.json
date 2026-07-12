@@ -8177,16 +8177,16 @@
   },
   {
     "slug": "warm-spicy-malaysian-chicken-satay",
-    "title": "Warm Spicy Malaysian Chicken Satay",
+    "title": "Malaysian Chicken Satay",
     "tags": [
-      "grilled-chicken",
-      "halal-friendly",
-      "malaysian-cuisine",
-      "romantic-dinner",
-      "spicy-food"
+      "warm",
+      "spicy",
+      "malaysian",
+      "chicken",
+      "satay"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -15265,15 +15265,15 @@
   },
   {
     "slug": "wholesome-velvety-hangover-cure-tunisian-dish-bake",
-    "title": "wholesome velvety hangover-cure tunisian dish bake",
+    "title": "Velvety Hangover Cure",
     "tags": [
-      "gluten-free",
-      "hangover-cure",
-      "one-pan",
-      "vegetarian"
+      "breakfast",
+      "recovery",
+      "velvety",
+      "wholesome"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 60,
+    "cuisine": "Western",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
