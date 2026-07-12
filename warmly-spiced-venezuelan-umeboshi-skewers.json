@@ -1,0 +1,70 @@
+{
+  "slug": "warmly-spiced-venezuelan-umeboshi-skewers",
+  "title": "Venezuelan Grilled Skewers",
+  "description": "A flavorful and easy-to-make Venezuelan-inspired dish featuring marinated chicken and vegetables grilled to perfection.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Warmly spiced oil",
+      "amount": "1/4 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "soak in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together warmly spiced oil, salt, and pepper.",
+    "2. Add the chicken and vegetables to the bowl and toss to coat.",
+    "3. Preheat grill to medium-high heat.",
+    "4. Thread the chicken and vegetables onto the skewers, leaving a little space between each piece.",
+    "5. Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through and the vegetables are tender.",
+    "6. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan-alternative",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-venezuelan-umeboshi-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:41:33.533Z"
+}
