@@ -1,0 +1,88 @@
+{
+  "slug": "warm-glassy-spanish-cabbage-pulpo-a-la-gallega",
+  "title": "Galician-Style Octopus Stew",
+  "description": "A hearty and flavorful stew originating from the Galicia region in northwest Spain, slow-cooking tender pulpo in a rich broth of warm spices.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 kg pulpo",
+      "amount": "cleaned and cut into bite-sized pieces",
+      "notes": null
+    },
+    {
+      "name": "2 medium spanish cabbage",
+      "amount": "chopped",
+      "notes": null
+    },
+    {
+      "name": "1 glassy white onion",
+      "amount": "chopped",
+      "notes": null
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced",
+      "notes": "a few threads of saffron can be added for extra flavor"
+    },
+    {
+      "name": "1 cup white wine",
+      "amount": "dry",
+      "notes": null
+    },
+    {
+      "name": "1 cup fish broth",
+      "amount": "homemade or store-bought",
+      "notes": null
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 tsp saffron threads",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large heavy pot over medium heat and add a small amount of olive oil.",
+    "Add the chopped onion and garlic and cook until softened, about 5 minutes.",
+    "Add the pulpo and cook for 5 minutes, until slightly browned.",
+    "Add the chopped cabbage, white wine, fish broth, smoked paprika, and saffron threads.",
+    "Bring the stew to a simmer and cook, covered, for 30-40 minutes, or until the pulpo is tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "octopus",
+    "stew",
+    "galician"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-glassy-spanish-cabbage-pulpo-a-la-gallega",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:12:45.500Z"
+}
