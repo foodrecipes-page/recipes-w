@@ -1,0 +1,97 @@
+{
+  "slug": "wholesome-steam-kenyan-greens-pilaf",
+  "title": "Kenyan Greens and Pilaf",
+  "description": "A flavorful and nutritious dish inspired by Kenyan cuisine, featuring sautéed greens and steamed pilaf.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "greens (kale, spinach, collard greens)",
+      "amount": "2 cups, chopped",
+      "notes": ""
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "steam (for cooking rice)",
+      "amount": "as needed",
+      "notes": ""
+    },
+    {
+      "name": "wholesome oil (coconut or olive)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "optional: other spices (cumin, paprika, turmeric)",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat wholesome oil in a large skillet over medium heat.",
+    "Add chopped onion and sauté until softened, about 3-4 minutes.",
+    "Add minced garlic and sauté for another minute.",
+    "Add chopped greens and sauté until wilted, about 3-4 minutes.",
+    "While the greens are cooking, prepare the pilaf.",
+    "Rinse brown rice and cook according to package instructions using chicken broth.",
+    "Steam the cooked rice until tender, about 10-15 minutes.",
+    "Fluff the cooked pilaf with a fork.",
+    "Combine the cooked greens and pilaf in a large bowl.",
+    "Season with salt and black pepper to taste.",
+    "Optional: add other spices to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "vegetarian",
+    "easy-to-make",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-steam-kenyan-greens-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:34:32.023Z"
+}
