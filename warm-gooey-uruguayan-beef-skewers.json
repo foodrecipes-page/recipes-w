@@ -1,0 +1,82 @@
+{
+  "slug": "warm-gooey-uruguayan-beef-skewers",
+  "title": "Uruguayan Beef Skewers",
+  "description": "A classic Uruguayan dish featuring marinated beef on skewers, perfect for grilling. This recipe yields tender and flavorful beef, ideal for a summer barbecue.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flank steak",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "for marinating"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "warm tortillas",
+      "amount": "4-6",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, soy sauce, brown sugar, garlic, and oregano.",
+    "Add the beef cubes to the marinade and mix to coat. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Thread 2-3 beef cubes onto each skewer, leaving a small space between each piece.",
+    "Season the skewers with salt and pepper to taste.",
+    "Grill the skewers for 8-10 minutes per side, or until the beef is cooked to your desired level of doneness.",
+    "Warm the tortillas by wrapping them in foil and heating them on the grill for a few minutes.",
+    "Serve the skewers with warm tortillas, your favorite sides, and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilling",
+    "skewers",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-gooey-uruguayan-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:57:04.395Z"
+}
