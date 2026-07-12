@@ -1,0 +1,65 @@
+{
+  "slug": "warm-middle-eastern-cabbage-baba-ganoush",
+  "title": "Roasted Middle Eastern Cabbage with Baba Ganoush",
+  "description": "A flavorful and healthy side dish that pairs perfectly with grilled meats. Roasted cabbage is served with a creamy baba ganoush dip.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 whole head"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "baba ganoush",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Remove the tough outer leaves from the cabbage head and cut it into wedges.",
+    "In a large bowl, whisk together olive oil, garlic, and lemon juice.",
+    "Add the cabbage wedges to the bowl and toss to coat with the marinade.",
+    "Season with salt and pepper to taste.",
+    "Place the cabbage wedges on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 20-25 minutes or until tender and caramelized.",
+    "Meanwhile, warm the baba ganoush according to package instructions.",
+    "Serve the roasted cabbage wedges with the warm baba ganoush dip."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "vegetarian",
+    "side-dish",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-middle-eastern-cabbage-baba-ganoush",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:26:01.521Z"
+}
