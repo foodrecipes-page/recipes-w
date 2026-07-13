@@ -11788,17 +11788,15 @@
   },
   {
     "slug": "warmly-spiced-polish-chicken-breast-casserole",
-    "title": "Warmly Spiced Polish Chicken Breast Casserole",
+    "title": "Polish Chicken Casserole",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "satvik-friendly",
-      "weeknight"
+      "polish",
+      "chicken",
+      "casserole",
+      "comfort-food"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 70,
+    "totalTimeMin": 65,
     "shard": "w"
   },
   {
@@ -16350,16 +16348,15 @@
   },
   {
     "slug": "wilted-quick-japanese-chives-kyushu-udon",
-    "title": "Wilted Quick Japanese Chives Kyushu Udon",
+    "title": "Kyushu Udon Stew",
     "tags": [
-      "high-protein",
-      "korean-inspired",
-      "one-pan",
-      "quick-fix",
-      "weeknight"
+      "japanese",
+      "noodles",
+      "stew",
+      "beef"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 15,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
