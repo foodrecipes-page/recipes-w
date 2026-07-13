@@ -1,0 +1,79 @@
+{
+  "slug": "wild-indian-tahini-curry",
+  "title": "Wild Curry Chicken",
+  "description": "A flavorful Indian-inspired dish made with wild chicken, rich tahini sauce, and aromatic curry spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wild Chicken Breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tbsp",
+      "notes": "creamy sesame paste"
+    },
+    {
+      "name": "Indian Curry Powder",
+      "amount": "1 tsp",
+      "notes": "warm and aromatic spice blend"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": "healthy and flavorful cooking oil"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh herbs for garnish"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "season to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the wild chicken breast with salt and Indian curry powder.",
+    "Heat coconut oil in an oven-safe skillet over medium-high heat.",
+    "Sear the chicken breast until browned on both sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until cooked through.",
+    "While the chicken cooks, whisk together tahini, lime juice, and a pinch of salt in a small bowl.",
+    "Remove the skillet from the oven and let the chicken rest for 5 minutes.",
+    "Slice the chicken against the grain and serve with the tahini sauce spooned over the top.",
+    "Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "chicken",
+    "wild"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 6,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wild-indian-tahini-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:00:34.638Z"
+}
