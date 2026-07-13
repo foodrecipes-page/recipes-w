@@ -1,0 +1,97 @@
+{
+  "slug": "warm-spicy-argentinian-duck-empanadas",
+  "title": "Argentinian Duck Empanadas",
+  "description": "A twist on traditional empanadas, filled with tender duck and spices, inspired by Argentinean cuisine.",
+  "cuisine": "argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "Spicy red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine flour and salt. Gradually add warm water, mixing until dough forms.",
+    "Knead dough for 10 minutes, until smooth. Divide into 8 equal pieces.",
+    "Roll out each piece into a thin circle. Place 1 tablespoon duck filling in center of each circle.",
+    "Fold dough in half, pressing edges to seal. Brush tops with egg wash.",
+    "Place empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "While empanadas bake, cook diced bacon in a skillet over medium heat until crispy.",
+    "Add chopped onion and cook until softened. Stir in cumin, paprika, and red pepper flakes.",
+    "Once empanadas are done, brush with melted butter and sprinkle with bacon mixture.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "duck",
+    "empanadas",
+    "warm",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 24,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-argentinian-duck-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:15:26.531Z"
+}
