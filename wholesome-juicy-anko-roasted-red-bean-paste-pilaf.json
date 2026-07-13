@@ -1,0 +1,84 @@
+{
+  "slug": "wholesome-juicy-anko-roasted-red-bean-paste-pilaf",
+  "title": "Red Bean Pilaf with Roasted Vegetables",
+  "description": "A flavorful and nutritious pilaf dish made with red beans, wholesome pilaf, and roasted roasted vegetables.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wholesome pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "red bean paste",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "juicy red bean",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots and bell peppers"
+    },
+    {
+      "name": "salad oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of salad oil in a pan over medium heat.",
+    "Add the cooked juicy red bean and stir-fry for 2-3 minutes.",
+    "Add the red bean paste and stir-fry for another 2-3 minutes.",
+    "Add the wholesome pilaf and stir-fry for 1-2 minutes.",
+    "Add the roasted vegetables and stir-fry for another 1-2 minutes.",
+    "Add the soy sauce, sugar, and sesame oil, and stir-fry for 1 minute.",
+    "Transfer the pilaf to a serving dish and serve hot.",
+    "Garnish with chopped green onions or sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "red-bean",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-juicy-anko-roasted-red-bean-paste-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:06:03.332Z"
+}
