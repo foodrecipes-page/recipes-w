@@ -1,0 +1,76 @@
+{
+  "slug": "warm-silky-slovakian-pork-stir-fry",
+  "title": "Slovakian Pork Stir Fry",
+  "description": "A traditional Slovakian dish featuring tender pork, stir-fried with a variety of vegetables and served with warm, silky egg noodles.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork loin",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "slovakian paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "warm egg noodles",
+      "amount": "8 ounces",
+      "notes": "cooked according to package instructions"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the pork to the skillet and cook until browned, about 3-4 minutes. Remove from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil. Add the sliced onion and bell pepper and cook until tender, about 4-5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the cooked pork back into the skillet and stir in the Slovakian paprika. Cook for an additional 1-2 minutes.",
+    "Serve the pork and vegetable mixture over warm egg noodles.",
+    "Garnish with chopped fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-silky-slovakian-pork-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:04:46.634Z"
+}
