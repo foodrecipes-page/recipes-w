@@ -7793,17 +7793,16 @@
   },
   {
     "slug": "warm-spicy-argentinian-duck-empanadas",
-    "title": "Warm Spicy Argentinian Duck Empanadas",
+    "title": "Argentinian Duck Empanadas",
     "tags": [
-      "argentinian-cuisine",
-      "duck-recipes",
+      "argentinian",
+      "duck",
       "empanadas",
-      "jain-friendly",
-      "midnight-cravings",
-      "snack-recipes"
+      "warm",
+      "spicy"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "cuisine": "argentinian",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -13968,17 +13967,15 @@
   },
   {
     "slug": "wholesome-juicy-anko-roasted-red-bean-paste-pilaf",
-    "title": "Wholesome Juicy Anko-Roasted Red Bean Paste Pilaf",
+    "title": "Red Bean Pilaf with Roasted Vegetables",
     "tags": [
-      "emulsify",
-      "juicy",
-      "mediterranean-friendly",
-      "one-pan",
-      "savoury",
-      "ukrainian"
+      "pilaf",
+      "red-bean",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
