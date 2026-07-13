@@ -1,0 +1,71 @@
+{
+  "slug": "warm-garlicky-italian-vegan-cheese-panettone",
+  "title": "Warm Panettone French Toast",
+  "description": "A delicious breakfast dish made with panettone bread, perfect for a cold morning. This recipe is vegan-friendly and uses a flavorful garlicky syrup to add extra flavor.",
+  "cuisine": "italian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "panettone bread",
+      "amount": "1 loaf",
+      "notes": "preferably stale"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1 cup",
+      "notes": "such as almond or soy milk"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": "for greasing the pan"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, whisk together non-dairy milk and maple syrup.",
+    "2. Add the minced garlic to the milk mixture and stir to combine.",
+    "3. Slice the panettone bread into 1-inch thick slices.",
+    "4. Heat a non-stick skillet or griddle over medium heat.",
+    "5. Grease the pan with coconut oil.",
+    "6. Dip each bread slice into the milk mixture, coating both sides evenly.",
+    "7. Place the coated bread slices on the skillet or griddle.",
+    "8. Cook for 3-4 minutes on each side, or until golden brown.",
+    "9. Repeat with the remaining bread slices.",
+    "10. Serve warm, garnished with additional maple syrup if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "italian",
+    "vegan",
+    "breakfast-ideas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-garlicky-italian-vegan-cheese-panettone",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:13:43.381Z"
+}
