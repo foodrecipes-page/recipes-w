@@ -1,0 +1,76 @@
+{
+  "slug": "warmly-crumbly-peruvian-tofu-tiradito",
+  "title": "Peruvian Tofu Tiramito",
+  "description": "A twist on the classic Peruvian dish, this tofu tiradito is a flavorful and refreshing snack or main course. The warmly spiced tofu is served with a crumbly, crispy topping.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "firm or extra-firm works best"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "aoli",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "warmly spiced"
+    },
+    {
+      "name": "crushed corn nuts",
+      "amount": "1/4 cup",
+      "notes": "crumbly topping"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Cut the tofu into small cubes and place on a baking sheet.",
+    "Drizzle the tofu with lime juice and sprinkle with cumin.",
+    "Bake the tofu in a preheated oven at 375°F (190°C) for 15-20 minutes, or until lightly browned.",
+    "While the tofu is baking, mix the aoli with a squeeze of lime juice.",
+    "Once the tofu is done, remove it from the oven and let it cool slightly.",
+    "Toss the tofu with the aoli mixture and stir to coat.",
+    "Sprinkle the crumbly corn nuts on top of the tofu and serve garnished with cilantro and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "peruvian",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-crumbly-peruvian-tofu-tiradito",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T04:43:22.751Z"
+}
