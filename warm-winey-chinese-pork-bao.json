@@ -1,0 +1,97 @@
+{
+  "slug": "warm-winey-chinese-pork-bao",
+  "title": "Braised Pork Bao",
+  "description": "A traditional Chinese dish featuring tender pork belly in a rich, savory sauce served in soft, fluffy bao. This braised pork bao recipe is a comforting and satisfying meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pork",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork belly, sliced",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "warm wine",
+      "amount": "1/4 cup",
+      "notes": "Chinese red wine or dry sherry"
+    },
+    {
+      "name": "chinese five-spice powder",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "ginger, sliced",
+      "amount": "2 inches",
+      "notes": "Optional"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Optional"
+    },
+    {
+      "name": "scallions, chopped",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "soft bao dough",
+      "amount": "4-6 bao",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven or heavy pot, combine pork belly, wine, soy sauce, brown sugar, ginger, and scallions.",
+    "Bring to a boil, then cover and transfer to the preheated oven.",
+    "Braise for 2-1/2 hours, or until pork is tender and easily shreds with a fork.",
+    "Meanwhile, prepare the bao dough according to package instructions or your own recipe.",
+    "Once pork is cooked, remove from the oven and let it cool slightly.",
+    "Using two forks, shred the pork into bite-sized pieces.",
+    "To assemble the bao, place a few tablespoons of shredded pork onto a piece of dough, followed by your choice of toppings (such as scallions, ginger, or pickled vegetables).",
+    "Fold the dough over the filling to form a half-moon shape, and press the edges together to seal.",
+    "Brush the tops with sesame oil and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "pork",
+    "bao",
+    "braised",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 44,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-winey-chinese-pork-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:35:30.331Z"
+}
