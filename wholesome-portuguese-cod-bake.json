@@ -1,0 +1,91 @@
+{
+  "slug": "wholesome-portuguese-cod-bake",
+  "title": "Baked Cod with Wholesome Portuguese Flavor",
+  "description": "A delicious and nutritious cod recipe with a flavorful Portuguese twist, baked to perfection.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "healthy",
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Himalayan pink"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the cod fillets on the baking sheet.",
+    "Drizzle the olive oil over the cod, then sprinkle with minced garlic.",
+    "Season with salt and black pepper to taste.",
+    "Add the sliced potatoes and onions around the cod.",
+    "Drizzle with lemon juice and sprinkle with dried oregano.",
+    "Bake for 12-15 minutes or until the cod is cooked through and the potatoes are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "baked",
+    "cod",
+    "portuguese",
+    "fish",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-portuguese-cod-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:18:53.584Z"
+}
