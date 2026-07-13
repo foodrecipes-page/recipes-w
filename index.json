@@ -3539,17 +3539,15 @@
   },
   {
     "slug": "warm-garlicky-italian-vegan-cheese-panettone",
-    "title": "Warm Garlicky Italian Vegan Cheese Panettone",
+    "title": "Warm Panettone French Toast",
     "tags": [
-      "cheesy",
-      "garlicky",
-      "italian-inspired",
-      "special-occasion",
-      "vegan-friendly",
-      "warm-and-comforting"
+      "breakfast",
+      "italian",
+      "vegan",
+      "breakfast-ideas"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 70,
+    "cuisine": "italian",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -4351,17 +4349,14 @@
   },
   {
     "slug": "warm-irish-cheese-wrap",
-    "title": "Warm Irish Cheese Wrap",
+    "title": "Irish Cheese Wrap",
     "tags": [
-      "cheesy",
-      "easy-meal",
-      "gluten-free",
-      "irish-food",
-      "snack",
-      "whole30"
+      "irish",
+      "cheese",
+      "wrap"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 10,
     "shard": "w"
   },
   {
@@ -6564,17 +6559,14 @@
   },
   {
     "slug": "warm-silky-slovakian-pork-stir-fry",
-    "title": "Warm Silky Slovakian Pork Stir Fry",
+    "title": "Slovakian Pork Stir Fry",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
-      "slovakian-cuisine",
-      "stir-fry",
-      "weeknight"
+      "slovakian",
+      "pork",
+      "stir-fry"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -11330,14 +11322,13 @@
     "slug": "warmly-spiced-american-knafeh-casserole",
     "title": "Warmly Spiced American Knafeh Casserole",
     "tags": [
-      "american-cuisine",
+      "american",
+      "knafeh",
       "casserole",
-      "comfort-food",
-      "lacto-vegetarian",
-      "weeknight-meal"
+      "dessert"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 55,
+    "cuisine": "american",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -14505,15 +14496,13 @@
   },
   {
     "slug": "wholesome-portuguese-cod-bake",
-    "title": "Wholesome Portuguese Cod Bake",
+    "title": "Baked Cod with Wholesome Portuguese Flavor",
     "tags": [
-      "bouncy-qq",
-      "dairy-free",
-      "hangover-cure",
-      "jammy",
-      "one-pan",
+      "baked",
+      "cod",
       "portuguese",
-      "smoked-paprika"
+      "fish",
+      "healthy"
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 25,
