@@ -12707,16 +12707,15 @@
   },
   {
     "slug": "wholesome-air-fried-turkish-muffins-kisir",
-    "title": "Wholesome Air-Fried Turkish Muffins Kisir",
+    "title": "Turkish Kisir Salad",
     "tags": [
-      "air-fried",
-      "breakfast",
-      "hot-pot",
-      "kisir",
-      "turkish"
+      "turkish",
+      "salad",
+      "gluten-free",
+      "vegetarian"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 18,
+    "totalTimeMin": 20,
     "shard": "w"
   },
   {
@@ -15326,19 +15325,16 @@
   },
   {
     "slug": "wholesome-warm-vietnamese-mixed-grain-bun-cha",
-    "title": "Wholesome Warm Vietnamese Mixed Grain Bun Cha",
+    "title": "Vietnamese-Style Beef Meatballs with Bun",
     "tags": [
-      "bun-cha",
-      "comfort-food",
-      "hangover-cure",
-      "high-protein",
-      "mixed-grain",
-      "one-pan",
       "vietnamese",
-      "weeknight"
+      "beef",
+      "meatballs",
+      "bun",
+      "comfort-food"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 50,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
