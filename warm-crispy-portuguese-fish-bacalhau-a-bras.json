@@ -1,0 +1,85 @@
+{
+  "slug": "warm-crispy-portuguese-fish-bacalhau-a-bras",
+  "title": "Bacalhau Fritters",
+  "description": "A traditional Portuguese dish made with crispy bacalhau fritters served with a side of warm sauce.",
+  "cuisine": "portuguese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bacalhau",
+      "amount": "1 pound dried cod",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup all-purpose flour",
+      "notes": "gluten-free optional"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large eggs",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon salt",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon black pepper",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup olive oil",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Soak the dried cod in water for 24 hours.",
+    "Drain and flake the cod into small pieces.",
+    "In a large bowl, mix together the flour, eggs, onion, garlic, salt, and pepper.",
+    "Add the flaked cod to the bowl and mix well.",
+    "Heat the olive oil in a large frying pan over medium-high heat.",
+    "Using a spoon, drop small amounts of the cod mixture into the hot oil.",
+    "Fry the fritters until they are golden brown and crispy, about 3-4 minutes on each side.",
+    "Drain the fritters on paper towels and serve warm with a side of warm sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bacalhau",
+    "portuguese",
+    "fish",
+    "snack",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-portuguese-fish-bacalhau-a-bras",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T17:21:07.781Z"
+}
