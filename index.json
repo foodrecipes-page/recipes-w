@@ -2460,16 +2460,14 @@
   },
   {
     "slug": "warm-dense-filipino-pork-lechon",
-    "title": "Warm Dense Filipino Pork Lechon",
+    "title": "Classic Lechon Bites",
     "tags": [
-      "comfort-food",
-      "filipino-food",
-      "mediterranean-inspired",
-      "pork-recipes",
-      "special-occasion"
+      "filipino",
+      "appetizer",
+      "lechon"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 110,
+    "cuisine": "filipino",
+    "totalTimeMin": 60,
     "shard": "w"
   },
   {
@@ -10882,17 +10880,14 @@
   },
   {
     "slug": "warmly-crumbly-peruvian-tofu-tiradito",
-    "title": "Warmly Crumbly Peruvian Tofu Tiradito",
+    "title": "Peruvian Tofu Tiramito",
     "tags": [
-      "gluten-free",
-      "one-pan",
-      "peruvian-cuisine",
-      "romantic-dinner",
-      "sugar-free",
-      "vegan-friendly"
+      "vegetarian",
+      "peruvian",
+      "tofu"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -12638,17 +12633,15 @@
   },
   {
     "slug": "whole-kid-korean-shiso-leaf-dosirak",
-    "title": "Whole Kid Korean Shiso Leaf Dosirak",
+    "title": "Korean-Style Shiso Leaf Wraps with Grilled Dosirak",
     "tags": [
-      "easy-meal",
-      "gluten-free",
-      "kid-friendly",
-      "korean-food",
-      "lunch-box",
-      "whole30"
+      "korean",
+      "shiso",
+      "dosirak",
+      "grilled"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 18,
     "shard": "w"
   },
   {
