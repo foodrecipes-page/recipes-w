@@ -1,0 +1,79 @@
+{
+  "slug": "whole-kid-korean-shiso-leaf-dosirak",
+  "title": "Korean-Style Shiso Leaf Wraps with Grilled Dosirak",
+  "description": "A fusion dish combining the flavors of Korea with the freshness of shiso leaf. Grilled dosirak is wrapped in shiso leaves with spicy Korean chili flakes and served with a side of kimchi.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shiso leaves",
+      "amount": "12-15 leaves"
+    },
+    {
+      "name": "Dosirak",
+      "amount": "4-6 pieces",
+      "notes": "Korean-style rice cakes"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1/4 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Brush the dosirak with sesame oil and season with salt.",
+    "Grill the dosirak for 2-3 minutes per side, or until slightly charred.",
+    "Meanwhile, mix the Korean chili flakes, soy sauce, brown sugar, and garlic in a small bowl.",
+    "Once the dosirak is cooked, brush the Korean chili flake mixture on top.",
+    "Wrap each piece of dosirak in a shiso leaf, securing with a toothpick if needed.",
+    "Serve immediately, garnished with green onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "shiso",
+    "dosirak",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whole-kid-korean-shiso-leaf-dosirak",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T05:08:35.937Z"
+}
