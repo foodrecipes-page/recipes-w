@@ -1,0 +1,77 @@
+{
+  "slug": "wholesome-air-fried-turkish-muffins-kisir",
+  "title": "Turkish Kisir Salad",
+  "description": "A simple, refreshing salad originating from Turkey, made with bulgur, onions, tomatoes, and spices. Kisir is a perfect side dish for hot summer days.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bulgur",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Turkish Red Pepper Flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the bulgur and 2 cups of water. Let it soak for 30 minutes, then drain the water and set aside.",
+    "2. In a separate bowl, combine the chopped onion, halved cherry tomatoes, chopped parsley, salt, black pepper, and Turkish red pepper flakes.",
+    "3. Add the drained bulgur to the bowl with the onion mixture and stir well.",
+    "4. Squeeze the lemon juice over the salad and toss to combine.",
+    "5. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "6. Serve the kisir salad chilled, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "salad",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-air-fried-turkish-muffins-kisir",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T02:20:38.410Z"
+}
