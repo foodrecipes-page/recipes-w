@@ -1,0 +1,95 @@
+{
+  "slug": "warmly-spiced-polish-chicken-breast-casserole",
+  "title": "Polish Chicken Casserole",
+  "description": "A hearty and flavorful Polish-inspired casserole featuring chicken breast and warm spices.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "warmly spiced polish sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "casserole",
+      "amount": "1 1/2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the sliced sausage in a large skillet over medium-high heat until browned, about 5 minutes. Remove from heat and set aside.",
+    "In the same skillet, cook the chopped onion and minced garlic until softened, about 3-4 minutes.",
+    "Add the sliced carrots and potatoes to the skillet and cook for an additional 5 minutes, stirring occasionally.",
+    "In a large mixing bowl, combine the cooked sausage, onion-carrot-potato mixture, chicken broth, and sour cream. Stir until well combined.",
+    "In a greased 9x13-inch baking dish, arrange half of the casserole mixture in the bottom of the dish.",
+    "Top with half of the shredded cheddar cheese and half of the chicken breast strips. Repeat the layers, ending with the remaining cheese on top.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the top is golden brown and the casserole is hot and bubbly.",
+    "Remove from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "chicken",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 38,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-polish-chicken-breast-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:02:32.653Z"
+}
