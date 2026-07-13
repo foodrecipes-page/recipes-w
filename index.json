@@ -8592,17 +8592,16 @@
   },
   {
     "slug": "warm-spicy-vietnamese-beef-bo-kho",
-    "title": "Warm Spicy Vietnamese Beef Bo Kho",
+    "title": "Vietnamese Beef Bo Kho",
     "tags": [
-      "beef-recipes",
-      "cheesy",
-      "low-carb",
-      "one-pot",
-      "vietnamese-cuisine",
-      "weeknight"
+      "beef",
+      "vietnamese",
+      "spicy",
+      "stew",
+      "one-pot"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 140,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 195,
     "shard": "w"
   },
   {
@@ -15654,17 +15653,15 @@
   },
   {
     "slug": "wild-indian-tahini-curry",
-    "title": "Wild Indian Tahini Curry",
+    "title": "Wild Curry Chicken",
     "tags": [
+      "indian",
       "curry",
-      "gluten-free",
-      "quick",
-      "spicy",
-      "tahini",
-      "vegan"
+      "chicken",
+      "wild"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
