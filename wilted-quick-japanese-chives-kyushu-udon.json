@@ -1,0 +1,76 @@
+{
+  "slug": "wilted-quick-japanese-chives-kyushu-udon",
+  "title": "Kyushu Udon Stew",
+  "description": "A hearty Japanese stew made with Kyushu udon noodles, beef, and vegetables.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef (sirloin or ribeye)",
+      "amount": "250g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Kyushu udon noodles",
+      "amount": "200g",
+      "notes": "dried"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "chives",
+      "amount": "20g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large pot over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Add the onion and cook until softened, about 2-3 minutes.",
+    "Add the carrots and potatoes, and cook for 2-3 minutes.",
+    "Pour in 2 cups of beef broth and bring to a boil.",
+    "Reduce heat to medium-low and simmer for 10-12 minutes, or until the vegetables are tender.",
+    "Add the Kyushu udon noodles and cook for 3-4 minutes, or until they are cooked through.",
+    "Stir in chopped chives and season with salt and pepper to taste.",
+    "Serve hot.",
+    "Garnish with additional chives, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "noodles",
+    "stew",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-quick-japanese-chives-kyushu-udon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T22:41:59.391Z"
+}
