@@ -1,0 +1,96 @@
+{
+  "slug": "wholesome-warm-vietnamese-mixed-grain-bun-cha",
+  "title": "Vietnamese-Style Beef Meatballs with Bun",
+  "description": "A traditional Vietnamese dish featuring ground beef meatballs served with warm bun. This recipe is a flavorful and comforting twist on a classic.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "250g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Bun",
+      "amount": "4-6 pieces",
+      "notes": "Warm, soft bun"
+    },
+    {
+      "name": "Wholesome Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Mixed Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Grain Rice",
+      "amount": "2 cups",
+      "notes": "Cooked"
+    },
+    {
+      "name": "Cha Spices",
+      "amount": "2 tsp",
+      "notes": "Ground cinnamon, paprika, and nutmeg"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine ground beef, onion, cilantro, rice, cha spices, salt, and black pepper. Mix well with your hands until just combined.",
+    "Add the beaten egg to the mixture and mix until just combined.",
+    "Use your hands to shape the mixture into small meatballs, about 1 1/2 inches (3.8 cm) in diameter. You should end up with around 20-25 meatballs.",
+    "Place the meatballs on a baking sheet lined with parchment paper, leaving a little space between each meatball to allow for even cooking.",
+    "Bake the meatballs in the preheated oven for 18-20 minutes, or until cooked through and lightly browned on the outside.",
+    "While the meatballs are baking, toast the bun by wrapping it in foil and heating it in the oven for 5-7 minutes, or until warm and soft.",
+    "Remove the meatballs from the oven and let them cool for a few minutes on the baking sheet.",
+    "Serve the meatballs with the warm bun, and garnish with additional cilantro if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "beef",
+    "meatballs",
+    "bun",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-warm-vietnamese-mixed-grain-bun-cha",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:55:06.704Z"
+}
