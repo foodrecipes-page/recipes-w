@@ -1,0 +1,97 @@
+{
+  "slug": "warm-spicy-vietnamese-beef-bo-kho",
+  "title": "Vietnamese Beef Bo Kho",
+  "description": "A spicy beef stew originating from Vietnam, rich in flavor and aroma. This dish is served with steamed rice and fresh herbs.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "beef",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole",
+      "notes": "optional"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "as needed"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned on all sides, about 5 minutes.",
+    "Remove beef from pot and set aside.",
+    "Add onion and garlic to pot and cook until onion is translucent, about 5 minutes.",
+    "Add fish sauce, soy sauce, sugar, crushed red pepper, and star anise to pot and stir to combine.",
+    "Return beef to pot and add beef broth and water.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F for 2-1/2 to 3 hours, or until beef is tender.",
+    "Season with salt to taste.",
+    "Serve hot over steamed rice, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 180,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "vietnamese",
+    "spicy",
+    "stew",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-vietnamese-beef-bo-kho",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:00:37.011Z"
+}
