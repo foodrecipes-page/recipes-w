@@ -1,0 +1,70 @@
+{
+  "slug": "warm-irish-cheese-wrap",
+  "title": "Irish Cheese Wrap",
+  "description": "A simple, warm, and satisfying snack with Irish flair.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Warm Irish Wrap",
+      "amount": "1",
+      "notes": "preferably made with whole wheat flour"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "2 oz",
+      "notes": "mild or sharp, your preference"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick pan over medium heat.",
+    "2. Butter the warm Irish wrap.",
+    "3. Place the wrap in the pan and cook for 1-2 minutes, until slightly toasted.",
+    "4. Flip the wrap and cook for another 1-2 minutes.",
+    "5. Sprinkle cheddar cheese over the wrap.",
+    "6. Add fresh cilantro on top (if using).",
+    "7. Season with salt and pepper to taste.",
+    "8. Fold the wrap in half to keep the cheese inside.",
+    "9. Cook for an additional 1-2 minutes, until the cheese is melted and the wrap is crispy.",
+    "10. Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "cheese",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-irish-cheese-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:13:37.349Z"
+}
