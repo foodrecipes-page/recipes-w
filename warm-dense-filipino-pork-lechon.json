@@ -1,0 +1,84 @@
+{
+  "slug": "warm-dense-filipino-pork-lechon",
+  "title": "Classic Lechon Bites",
+  "description": "A Filipino-inspired appetizer that brings the flavors of traditional lechon to a crispy, bite-sized treat.",
+  "cuisine": "filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork Belly",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Lechon Spice Mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pineapple Rings",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, mix together lechon spice mix, brown sugar, salt, and black pepper.",
+    "Rub the spice mixture all over the pork belly.",
+    "Place the pork belly in a baking dish and pour coconut milk over it.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the pork is crispy and golden brown.",
+    "While the pork is baking, heat the vegetable oil in a large skillet over medium-high heat.",
+    "Once the oil is hot, add the pineapple rings and cook for 2-3 minutes on each side, or until caramelized.",
+    "Remove the pork from the oven and let it rest for 5 minutes before slicing into bite-sized pieces.",
+    "Serve the lechon bites with caramelized pineapple rings on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "appetizer",
+    "lechon"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-dense-filipino-pork-lechon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T05:56:23.183Z"
+}
