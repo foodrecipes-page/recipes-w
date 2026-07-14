@@ -1,0 +1,74 @@
+{
+  "slug": "wildly-spicy-korean-sauerkraut-noodles",
+  "title": "Spicy Korean Noodle Stir Fry",
+  "description": "A spicy and savory stir fry made with Korean chili flakes, sauerkraut, and wild noodles.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wild Noodles",
+      "amount": "8 oz (225g)"
+    },
+    {
+      "name": "Spicy Korean Chili Flakes",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "SauerKraut",
+      "amount": "1 cup (120g)"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup (15g)",
+      "notes": "chopped"
+    },
+    {
+      "name": "Toasted Sesame Seeds",
+      "amount": "1 tbsp (15g)",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions and set aside.",
+    "Heat sesame oil in a large skillet or wok over medium-high heat.",
+    "Add spicy Korean chili flakes and stir for 1 minute.",
+    "Add sauerkraut and cook for 3-4 minutes, until slightly caramelized.",
+    "Stir in soy sauce and cook for an additional 1-2 minutes.",
+    "Add cooked noodles to the skillet and stir to combine.",
+    "Top with chopped green onions and toasted sesame seeds (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "vegetarian",
+    "noodles",
+    "spicy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wildly-spicy-korean-sauerkraut-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:30:46.314Z"
+}
