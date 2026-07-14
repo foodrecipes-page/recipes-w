@@ -1,0 +1,80 @@
+{
+  "slug": "warm-sriracha-chinese-pork-baozi",
+  "title": "Spicy Pork Baozi",
+  "description": "A twist on traditional Chinese baozi, these spicy pork baozi are filled with slow-cooked pork and a hint of sriracha.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Warm flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sriracha",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Baozi dough",
+      "amount": "1 package",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, bring 4 cups of water to a boil. Add the pork shoulder and cook for 2-3 hours, or until tender.",
+    "2. While the pork is cooking, mix the warm flour, salt, and black pepper in a large bowl.",
+    "3. Once the pork is done, let it cool and then shred it into bite-sized pieces.",
+    "4. Add the sriracha and green onions to the shredded pork and mix well.",
+    "5. Divide the dough into small balls, about the size of a golf ball.",
+    "6. Roll out each ball of dough into a thin circle, about 3-4 inches in diameter.",
+    "7. Place a tablespoon of the pork mixture in the center of each dough circle.",
+    "8. Fold the dough over the filling and press the edges together to seal the baozi.",
+    "9. Place the baozi on a baking sheet lined with parchment paper.",
+    "10. Steam the baozi for 10-15 minutes, or until cooked through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "pork",
+    "baozi",
+    "sriracha"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-sriracha-chinese-pork-baozi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:23:47.449Z"
+}
