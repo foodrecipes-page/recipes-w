@@ -12115,16 +12115,15 @@
   },
   {
     "slug": "weeknight-russian-pasta-bake",
-    "title": "Weeknight Russian Pasta Bake",
+    "title": "Russian Weeknight Pasta Bake",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "pasta-bake",
-      "weeknight"
+      "russian",
+      "weeknight",
+      "pasta",
+      "bake"
     ],
     "cuisine": "russian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -12328,18 +12327,14 @@
   },
   {
     "slug": "whipped-citrus-american-soya-bean-toast",
-    "title": "Whipped Citrus American Soya Bean Toast",
+    "title": "Citrus American Toast",
     "tags": [
-      "american",
       "breakfast",
-      "citrus",
-      "egg-free",
-      "fluffy",
-      "soya-bean",
-      "toast"
+      "american",
+      "citrus"
     ],
     "cuisine": "American",
-    "totalTimeMin": 15,
+    "totalTimeMin": 7,
     "shard": "w"
   },
   {
@@ -16633,15 +16628,13 @@
   },
   {
     "slug": "winey-crisp-middle-eastern-lemongrass-takrai-salad",
-    "title": "winey crisp Middle-eastern lemongrass-takrai Salad",
+    "title": "Eastern Crisp Salad",
     "tags": [
-      "easy",
-      "gluten-free",
-      "keto",
-      "one-pan",
-      "weeknight"
+      "eastern-cuisine",
+      "salad",
+      "easy-recipes"
     ],
-    "cuisine": "Middle-eastern",
+    "cuisine": "eastern",
     "totalTimeMin": 15,
     "shard": "w"
   },
