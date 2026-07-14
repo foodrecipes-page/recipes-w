@@ -1,0 +1,87 @@
+{
+  "slug": "warm-flaky-irish-potato-pie",
+  "title": "Irish Potato Pie",
+  "description": "A traditional Irish dish perfect for a cold winter evening. This warm and comforting potato pie is sure to become a family favorite.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Warm Pie Crust",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and chop the potatoes into 1-inch cubes. Boil in a large pot of salted water until tender. Drain and set aside.",
+    "Roll out the warm pie crust and place in a 9-inch pie dish.",
+    "In a large skillet, sauté the chopped onion and minced garlic in butter until softened.",
+    "Add the boiled potatoes, salt, and pepper to the skillet and stir to combine.",
+    "Pour the potato mixture into the pie crust.",
+    "In a small bowl, whisk together the milk and a pinch of salt. Pour the milk mixture over the potato mixture.",
+    "Bake the pie in the preheated oven for 35-40 minutes, or until the crust is golden brown.",
+    "Remove the pie from the oven and sprinkle with chopped chives. Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-flaky-irish-potato-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:57:35.407Z"
+}
