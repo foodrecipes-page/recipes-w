@@ -1,0 +1,70 @@
+{
+  "slug": "wholesome-shattering-polish-sausages-roast",
+  "title": "Polish Sausage Roast",
+  "description": "A hearty and flavorful roast featuring Polish sausages, perfect for a cold winter's night. This dish is easy to make and requires minimal ingredients.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat-lovers",
+    "comfort-food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausages",
+      "amount": "4",
+      "notes": "your choice of type"
+    },
+    {
+      "name": "wholesome potatoes",
+      "amount": "2-3",
+      "notes": null
+    },
+    {
+      "name": "shattering carrots",
+      "amount": "4-5",
+      "notes": null
+    },
+    {
+      "name": "roast",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "polish",
+      "amount": "2 tbsp",
+      "notes": "your choice of type"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Place the roast in a large Dutch oven or oven-safe pot.",
+    "Add the Polish sausages to the pot.",
+    "Toss the potatoes and carrots in a bowl with 1 tbsp of polish and add to the pot.",
+    "Season with salt and pepper to taste.",
+    "Cover the pot with a lid and roast in the preheated oven for 1 hour.",
+    "Remove the lid and continue roasting for an additional 30 minutes.",
+    "Check the sausages for internal temperature (160°F / 71°C).",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 75,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "sausage",
+    "roast",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-shattering-polish-sausages-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T19:47:29.392Z"
+}
