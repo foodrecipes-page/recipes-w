@@ -2169,17 +2169,14 @@
   },
   {
     "slug": "warm-crunchy-jamaican-chicken-skewers",
-    "title": "Warm Crunchy Jamaican Chicken Skewers",
+    "title": "Jamaican Chicken Skewers",
     "tags": [
-      "chicken-recipes",
-      "dairy-free",
-      "gluten-free",
-      "jamaican-cuisine",
-      "kid-friendly",
-      "weeknight-dinner"
+      "grilled",
+      "chicken",
+      "jamaican"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "jamaican",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -10397,17 +10394,16 @@
   },
   {
     "slug": "warm-yeasty-peruvian-potatoes-papa-rellena",
-    "title": "Warm Yeasty Peruvian Potatoes Papa Rellena",
+    "title": "Peruvian Stuffed Potatoes (Papa Rellena)",
     "tags": [
-      "jain-friendly",
-      "one-pot",
-      "peruvian-cuisine",
-      "vegetarian",
-      "weeknight",
-      "yeasty"
+      "peruvian",
+      "potatoes",
+      "stuffed",
+      "beef",
+      "cheese"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 80,
     "shard": "w"
   },
   {
