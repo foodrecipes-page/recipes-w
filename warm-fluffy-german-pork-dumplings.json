@@ -1,0 +1,87 @@
+{
+  "slug": "warm-fluffy-german-pork-dumplings",
+  "title": "German Pork Dumplings",
+  "description": "A hearty German dish made with juicy pork and fluffy dumplings. Serve with a side of sauerkraut for a traditional meal.",
+  "cuisine": "German",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "For dumpling dough"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "For dumpling dough"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "For dumpling topping"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot of boiling salted water, cook dumplings until they float to the surface.",
+    "2. In a large skillet, cook pork over medium-high heat until browned.",
+    "3. Add chopped onion and caraway seeds (if using) to the skillet and cook until onion is translucent.",
+    "4. In a large bowl, combine flour, egg, and salt. Mix until a dough forms.",
+    "5. Divide dough into small pieces and shape into dumplings.",
+    "6. Add dumplings to the boiling water and cook until they float to the surface.",
+    "7. In the skillet, melt butter and stir in cooked pork and onion mixture.",
+    "8. Serve dumplings with the pork and onion mixture, and a side of sauerkraut."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-fluffy-german-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:02:53.508Z"
+}
