@@ -3137,16 +3137,13 @@
   },
   {
     "slug": "warm-flaky-irish-potato-pie",
-    "title": "Warm Flaky Irish Potato Pie",
+    "title": "Irish Potato Pie",
     "tags": [
-      "comfort-food",
-      "irish-cuisine",
-      "potato-pie",
-      "quick-fix",
-      "vegetarian"
+      "irish",
+      "potato"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 65,
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {
@@ -6504,17 +6501,15 @@
   },
   {
     "slug": "warm-silky-moroccan-lamb-sellou",
-    "title": "Warm Silky Moroccan Lamb Sellou",
+    "title": "Moroccan Lamb Sellou",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "lamb",
+      "dessert",
       "moroccan",
-      "one-pot",
-      "special-occasion"
+      "lamb",
+      "sellou"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 180,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -7794,17 +7789,15 @@
   },
   {
     "slug": "warm-spicy-australian-chicken-skewers",
-    "title": "Warm Spicy Australian Chicken Skewers",
+    "title": "Australian Chicken Skewers",
     "tags": [
-      "australian-cuisine",
-      "grilled-chicken",
-      "low-carb",
-      "quick-dinner",
-      "spicy-food",
-      "weeknight"
+      "australian",
+      "chicken",
+      "grill",
+      "quick"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 32,
+    "cuisine": "australian",
+    "totalTimeMin": 27,
     "shard": "w"
   },
   {
@@ -12229,17 +12222,13 @@
   },
   {
     "slug": "welcoming-smoked-portuguese-herring-gratin",
-    "title": "welcoming smoked portuguese herring gratin",
+    "title": "Smoked Herring Gratin",
     "tags": [
-      "fish-recipe",
-      "high-protein",
-      "one-pan",
-      "portuguese-cuisine",
-      "post-workout-meal",
-      "snack-idea",
-      "weeknight"
+      "smoked-herring",
+      "portuguese-dish",
+      "gratin"
     ],
-    "cuisine": "portuguese",
+    "cuisine": "Portuguese",
     "totalTimeMin": 40,
     "shard": "w"
   },
