@@ -1,0 +1,92 @@
+{
+  "slug": "warm-yeasty-peruvian-potatoes-papa-rellena",
+  "title": "Peruvian Stuffed Potatoes (Papa Rellena)",
+  "description": "A twist on traditional Peruvian street food, these stuffed potatoes are filled with a flavorful mixture of beef, onions, and spices. Serve as a satisfying snack or light meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "4 large",
+      "notes": "Look for high-starch potatoes like Russet or Idaho"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "You can also use ground turkey or beef alternative for a vegetarian option"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Warm Cheese (Queso Fresco or Mozzarella)",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Bake the potatoes for 45-60 minutes, or until they are tender when pierced with a fork.",
+    "While the potatoes are baking, heat a large skillet over medium-high heat.",
+    "Add the ground beef to the skillet and cook, breaking it up with a spoon, until it is browned and cooked through.",
+    "Add the chopped onion, minced garlic, chili powder, cumin, salt, and black pepper to the skillet and cook for 2-3 minutes, or until the onion is translucent.",
+    "Once the potatoes are done, let them cool for a few minutes.",
+    "Cut the potatoes in half lengthwise and scoop out most of the flesh, leaving a thin layer to hold the potato together.",
+    "Add the cooked beef mixture to the potato shells and top with shredded cheese.",
+    "Return the stuffed potatoes to the oven and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "potatoes",
+    "stuffed",
+    "beef",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-yeasty-peruvian-potatoes-papa-rellena",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:29:31.778Z"
+}
