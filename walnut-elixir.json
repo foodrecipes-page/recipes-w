@@ -1,0 +1,75 @@
+{
+  "slug": "walnut-elixir",
+  "title": "Walnut Elixir Cake",
+  "description": "A moist cake recipe featuring walnut and elixir for a unique flavor combination.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "walnut",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "elixir",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C). Grease two 8-inch round cake pans and line the bottoms with parchment paper.",
+    "In a medium bowl, whisk together flour, sugar, baking powder, and salt.",
+    "In a large bowl, whisk together butter, eggs, and elixir.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Fold in the chopped walnuts.",
+    "Divide the batter evenly between the prepared pans.",
+    "Bake for 25-30 minutes or until a toothpick inserted into the center comes out clean.",
+    "Let the cakes cool in the pans for 5 minutes before transferring them to a wire rack to cool completely.",
+    "Once the cakes are completely cool, you can frost and decorate them as desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "walnut",
+    "elixir",
+    "cake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 44,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/walnut-elixir",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T10:17:29.626Z"
+}
