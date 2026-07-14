@@ -1,0 +1,77 @@
+{
+  "slug": "wild-smoked-american-lamb-tagine",
+  "title": "Smoked Lamb Tagine",
+  "description": "A hearty and flavorful North African-inspired lamb tagine made with smoked lamb, wild onions, and a blend of spices.",
+  "cuisine": "North African",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked lamb shoulder",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Wild onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "American lamb broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup (optional)"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 300°F (150°C).",
+    "2. Cut the smoked lamb into 1-inch cubes and season with salt and black pepper.",
+    "3. Heat the olive oil in a large Dutch oven or clay tagine over medium heat.",
+    "4. Sear the lamb cubes until browned on all sides, about 5 minutes. Remove from the pot and set aside.",
+    "5. Add more oil if necessary and sauté the wild onions until softened, about 3-4 minutes.",
+    "6. Add the tagine spice blend and cook for 1 minute, stirring constantly.",
+    "7. Add the lamb broth to the pot and bring to a simmer.",
+    "8. Return the lamb cubes to the pot, cover, and transfer to the preheated oven.",
+    "9. Braise the lamb for 2-1/2 to 3 hours, or until tender and falling apart.",
+    "10. Garnish with chopped fresh parsley, if desired. Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "smoked-lamb",
+    "tagine",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wild-smoked-american-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T09:09:47.157Z"
+}
