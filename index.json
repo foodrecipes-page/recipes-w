@@ -8786,17 +8786,15 @@
   },
   {
     "slug": "warm-sriracha-chinese-pork-baozi",
-    "title": "Warm Sriracha Chinese Pork Baozi",
+    "title": "Spicy Pork Baozi",
     "tags": [
-      "baozi-recipes",
-      "chinese-food",
-      "low-fodmap",
-      "pork-recipes",
-      "romantic-dinner",
-      "sriracha-recipes"
+      "chinese",
+      "pork",
+      "baozi",
+      "sriracha"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 150,
     "shard": "w"
   },
   {
@@ -10404,17 +10402,16 @@
   },
   {
     "slug": "warm-yeasty-polish-date-flatbread",
-    "title": "Warm Yeasty Polish Date Flatbread",
+    "title": "Polish Flatbread with Date Filling",
     "tags": [
-      "crispy",
-      "date-based",
-      "hangover-cure",
       "polish",
-      "snack",
-      "yeasty"
+      "flatbread",
+      "date-filling",
+      "dessert",
+      "sweet"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -13512,18 +13509,14 @@
   },
   {
     "slug": "wholesome-fluffy-slovakian-creme-fraiche-bowl",
-    "title": "wholesome fluffyslovakian creme fraiche bowl",
+    "title": "Slovakian Pancakes with Whipped Cream",
     "tags": [
       "breakfast",
-      "creme-fraiche",
-      "easy",
-      "slovakian",
-      "sunday",
-      "vegetarian",
-      "weeknight"
+      "pancakes",
+      "slovakian"
     ],
     "cuisine": "slovakian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -15931,13 +15924,13 @@
   },
   {
     "slug": "wildly-spicy-korean-sauerkraut-noodles",
-    "title": "Wildly Spicy Korean Sauerkraut Noodles",
+    "title": "Spicy Korean Noodle Stir Fry",
     "tags": [
-      "fermented-food",
-      "korean-food",
-      "noodle-recipes",
-      "paleo-diet",
-      "spicy-food"
+      "korean",
+      "vegetarian",
+      "noodles",
+      "spicy",
+      "stir-fry"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 25,
