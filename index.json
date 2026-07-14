@@ -10123,17 +10123,16 @@
   },
   {
     "slug": "warm-wilted-portuguese-herbal-wrap",
-    "title": "Warm Wilted Portuguese Herbal Wrap",
+    "title": "Portuguese Wrap",
     "tags": [
-      "ayurvedic",
-      "gluten-free",
-      "herbal",
       "portuguese",
-      "sick-day",
-      "vegan"
+      "wrap",
+      "chicken",
+      "easy",
+      "lunch"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 20,
+    "cuisine": "Portuguese",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -11777,17 +11776,14 @@
   },
   {
     "slug": "warmly-spiced-saudi-arabian-egg-noodles-dum",
-    "title": "Warmly Spiced Saudi Arabian Egg Noodles Dum",
+    "title": "Saudi Arabian Egg Noodle Dumplings",
     "tags": [
-      "low-carb",
-      "one-pan",
-      "post-workout",
-      "quick-meal",
-      "saudi-arabian",
-      "spicy"
+      "saudi arabian",
+      "egg noodles",
+      "dumplings"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 17,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -12196,15 +12192,15 @@
   },
   {
     "slug": "welcoming-coconut-crunch-thai-herbal-thai-moo-ping",
-    "title": "Welcoming Coconut Crunch Thai Herbal Moo Ping",
+    "title": "Thai Moo Ping",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "thai-inspired",
-      "weeknight"
+      "thaifood",
+      "streetfood",
+      "grilledpork",
+      "snack"
     ],
-    "cuisine": "thai",
-    "totalTimeMin": 27,
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
