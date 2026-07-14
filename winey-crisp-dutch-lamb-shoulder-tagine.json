@@ -1,0 +1,92 @@
+{
+  "slug": "winey-crisp-dutch-lamb-shoulder-tagine",
+  "title": "Braised Lamb Shoulder Tagine",
+  "description": "A traditional North African dish, this slow-cooked lamb shoulder tagine is rich and flavorful, with a perfect balance of spices and tender meat.",
+  "cuisine": "North African",
+  "diet": [
+    "pork-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 (1 1/2 to 2 pound)",
+      "notes": ""
+    },
+    {
+      "name": "Dutch yellow onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Winey olives",
+      "amount": "1/2 cup pitted",
+      "notes": ""
+    },
+    {
+      "name": "Crisp celery stalks",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon stick",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in the bottom of a Dutch oven over medium-high heat.",
+    "2. Sear the lamb shoulder until browned on all sides, about 2-3 minutes per side.",
+    "3. Remove the lamb from the pot and set aside.",
+    "4. Add the diced onion to the pot and cook until softened, about 5 minutes.",
+    "5. Add the chopped celery to the pot and cook for an additional 2 minutes.",
+    "6. Stir in the cumin, ginger, cinnamon, salt, and pepper.",
+    "7. Add the seared lamb back to the pot, along with the olives and enough water to cover the meat.",
+    "8. Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "9. Braise the lamb for 2 1/2 to 3 hours, or until tender and falling apart.",
+    "10. Remove the pot from the oven and let it cool slightly.",
+    "11. Serve the lamb shoulder with the juices spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-crisp-dutch-lamb-shoulder-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:25:41.337Z"
+}
