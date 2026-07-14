@@ -1,0 +1,82 @@
+{
+  "slug": "warm-crunchy-jamaican-chicken-skewers",
+  "title": "Jamaican Chicken Skewers",
+  "description": "Grilled Jamaican chicken skewers with a hint of jerk seasoning.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "allspice",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12",
+      "notes": "soak in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together allspice, thyme, cayenne pepper, brown sugar, soy sauce, and 1 tablespoon vegetable oil.",
+    "3. Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "4. Thread the chicken onto the wooden skewers, leaving a small space between each piece.",
+    "5. Brush the grill with oil to prevent sticking.",
+    "6. Grill the skewers for 8-10 minutes, turning occasionally.",
+    "7. Remove from heat and let rest for 2 minutes.",
+    "8. Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crunchy-jamaican-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:29:36.477Z"
+}
