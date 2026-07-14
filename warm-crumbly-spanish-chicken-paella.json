@@ -1,0 +1,94 @@
+{
+  "slug": "warm-crumbly-spanish-chicken-paella",
+  "title": "Spanish Chicken Paella",
+  "description": "A classic Spanish dish made with chicken, paella rice, and a blend of spices. Perfect for a weeknight dinner or special occasion.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast or thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Uncooked paella rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Warm tapenade",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Spanish olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crumbly manchego cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Diced red bell pepper",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the diced onion and red bell pepper and cook until tender, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Add the warm tapenade, smoked paprika, salt, and pepper. Stir to combine.",
+    "Add the paella rice and stir to coat the rice with the spice mixture.",
+    "Add 2 cups of chicken broth and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove from heat and top with crumbled manchego cheese.",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "chicken",
+    "paella",
+    "rice",
+    "tapenade"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crumbly-spanish-chicken-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T10:34:06.894Z"
+}
