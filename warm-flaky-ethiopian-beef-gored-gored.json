@@ -1,0 +1,82 @@
+{
+  "slug": "warm-flaky-ethiopian-beef-gored-gored",
+  "title": "Ethiopian Beef Tibs",
+  "description": "A traditional Ethiopian dish made with sautéed beef and spices. Serve with injera bread for a delicious and authentic meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye work well"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add beef strips and cook until browned, about 3-4 minutes.",
+    "Remove beef from skillet and set aside.",
+    "Add onion, garlic, and ginger to skillet and cook until onion is translucent.",
+    "Add berbere spice, salt, and black pepper to skillet and stir to combine.",
+    "Add cooked beef back to skillet and stir to combine with spice mixture.",
+    "Cook for an additional 2-3 minutes, until beef is coated with spice mixture.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "beef",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-flaky-ethiopian-beef-gored-gored",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T19:00:39.935Z"
+}
