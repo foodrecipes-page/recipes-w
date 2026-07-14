@@ -1,0 +1,87 @@
+{
+  "slug": "warm-earthy-argentinian-speck-empanadas",
+  "title": "Argentinian Empanadas",
+  "description": "A classic Argentinian dish filled with seasoned beef and onions, perfect for a hearty snack or dinner.",
+  "cuisine": "argentinian",
+  "diet": [
+    "beef",
+    "gluten",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Warm Water",
+      "amount": "1/4 cup",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "Empanada Pastry Dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out empanada pastry dough to 1/4 inch thickness.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a bowl, mix together ground beef, onion, garlic, salt, and black pepper.",
+    "Place a tablespoon of beef mixture in the center of each dough circle.",
+    "Brush edges with beaten egg and fold dough in half to form a half-circle.",
+    "Press edges to seal and use a fork to crimp.",
+    "Brush tops with warm water and place on a baking sheet.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "empanadas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-earthy-argentinian-speck-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:43:18.229Z"
+}
