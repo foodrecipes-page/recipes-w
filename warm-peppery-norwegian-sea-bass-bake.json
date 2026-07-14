@@ -1,0 +1,84 @@
+{
+  "slug": "warm-peppery-norwegian-sea-bass-bake",
+  "title": "Baked Bass with Norwegian Flair",
+  "description": "A delicious and healthy baked sea bass dish infused with warm and peppery flavors, reminiscent of traditional Norwegian cuisine.",
+  "cuisine": "norwegian",
+  "diet": [
+    "healthy",
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass",
+      "amount": "2 fillets",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the sea bass fillets under cold water and pat dry with paper towels.",
+    "In a small bowl, mix together olive oil, lemon juice, ginger, black pepper, and garlic powder (if using).",
+    "Place the sea bass fillets in a baking dish and brush the mixture evenly over both fillets.",
+    "Season with salt to taste.",
+    "Bake for 12-15 minutes or until the fish is cooked through and flakes easily with a fork.",
+    "Remove from oven and garnish with chopped fresh parsley (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "baked",
+    "norwegian",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-peppery-norwegian-sea-bass-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:42:57.427Z"
+}
