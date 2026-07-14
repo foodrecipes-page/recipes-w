@@ -5572,15 +5572,15 @@
   },
   {
     "slug": "warm-peppery-norwegian-sea-bass-bake",
-    "title": "Warm Peppery Norwegian Sea Bass Bake",
+    "title": "Baked Bass with Norwegian Flair",
     "tags": [
-      "fish-recipes",
-      "gluten-free-options",
-      "one-pan",
-      "seafood"
+      "seafood",
+      "baked",
+      "norwegian",
+      "healthy"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 30,
+    "cuisine": "norwegian",
+    "totalTimeMin": 22,
     "shard": "w"
   },
   {
@@ -15183,16 +15183,13 @@
   },
   {
     "slug": "wholesome-uruguayan-rice-soup",
-    "title": "Wholesome Uruguayan Rice Soup",
+    "title": "Uruguayan-Style Rice Bowl",
     "tags": [
-      "comforting",
-      "egg-free",
-      "light-soup",
-      "one-pot",
       "uruguayan",
+      "rice",
       "vegetarian"
     ],
-    "cuisine": "Uruguayan",
+    "cuisine": "uruguayan",
     "totalTimeMin": 35,
     "shard": "w"
   },
@@ -16664,17 +16661,15 @@
   },
   {
     "slug": "winey-crisp-dutch-lamb-shoulder-tagine",
-    "title": "Winey Crisp Dutch Lamb Shoulder Tagine",
+    "title": "Braised Lamb Shoulder Tagine",
     "tags": [
-      "dutch",
-      "gluten-free",
-      "halal",
       "lamb",
-      "one-pan",
-      "wine-pairable"
+      "tagine",
+      "north-african",
+      "braised"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 150,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "w"
   },
   {
