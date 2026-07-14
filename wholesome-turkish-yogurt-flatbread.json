@@ -1,0 +1,65 @@
+{
+  "slug": "wholesome-turkish-yogurt-flatbread",
+  "title": "Turkish Yogurt Flatbread",
+  "description": "A simple Turkish-inspired recipe that combines the tanginess of yogurt with the crunch of flatbread.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wholesome flatbread",
+      "amount": "1 package (8-10 flatbreads)"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the flatbreads into quarters or sixths, depending on desired size.",
+    "In a small bowl, mix together yogurt, olive oil, garlic, and salt.",
+    "Dip each flatbread piece into the yogurt mixture, coating both sides evenly.",
+    "Place the coated flatbreads on a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes, or until the flatbreads are crispy and golden brown.",
+    "Serve warm, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "flatbread",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-turkish-yogurt-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T10:17:09.844Z"
+}
