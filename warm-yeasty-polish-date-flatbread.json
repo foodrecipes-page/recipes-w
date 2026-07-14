@@ -1,0 +1,76 @@
+{
+  "slug": "warm-yeasty-polish-date-flatbread",
+  "title": "Polish Flatbread with Date Filling",
+  "description": "A traditional Polish flatbread filled with a sweet date filling, perfect for a snack or dessert.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "Dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Warm Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Active Dry Yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Polish Rye Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a large mixing bowl, combine warm water, yeast, and 1 tablespoon of sugar. Let it sit for 5-7 minutes until yeast is activated.",
+    "3. Add flour, salt, and 1 tablespoon of butter to the bowl. Mix until a dough forms.",
+    "4. Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "5. Divide the dough into 2 equal pieces and roll each piece into a thin circle.",
+    "6. Place the flatbreads on a baking sheet and bake for 10-12 minutes until lightly browned.",
+    "7. While the flatbreads are baking, mix together pitted dates and 1 tablespoon of butter in a bowl.",
+    "8. Once the flatbreads are done, let them cool for a minute before spreading the date filling on one of the flatbreads.",
+    "9. Place the other flatbread on top of the date filling and press gently.",
+    "10. Cut the flatbread into wedges and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "flatbread",
+    "date-filling",
+    "dessert",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-yeasty-polish-date-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:23:18.997Z"
+}
