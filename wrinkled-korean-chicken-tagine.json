@@ -1,0 +1,90 @@
+{
+  "slug": "wrinkled-korean-chicken-tagine",
+  "title": "Korean Chicken Tagine",
+  "description": "A fusion of Korean and North African flavors in a hearty chicken stew. Serve with steamed rice or couscous.",
+  "cuisine": "North African, Korean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "korean chili flakes",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 lbs",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "tagine spice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "crushed ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "wrinkled apricots",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger, cook for 1 minute.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add chili flakes, tagine spice, and chicken broth. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Add apricots and continue to simmer for another 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "north-african",
+    "chicken",
+    "stew",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wrinkled-korean-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:52:10.919Z"
+}
