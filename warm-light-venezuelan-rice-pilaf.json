@@ -1,0 +1,87 @@
+{
+  "slug": "warm-light-venezuelan-rice-pilaf",
+  "title": "Venezuelan Chicken and Rice Pilaf",
+  "description": "A flavorful and aromatic dish from Venezuela, combining chicken, rice, and spices.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": "rinse before using"
+    },
+    {
+      "name": "pilaf seasoning",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "canned"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the pilaf seasoning, tomato paste, and chicken broth.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Add the uncooked rice to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to combine.",
+    "Cover the skillet and cook for 15-20 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "rice",
+    "pilaf",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-light-venezuelan-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:09:30.348Z"
+}
