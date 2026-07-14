@@ -1,0 +1,86 @@
+{
+  "slug": "warm-spicy-australian-chicken-skewers",
+  "title": "Australian Chicken Skewers",
+  "description": "A delicious and spicy Australian-inspired chicken skewer recipe for a quick and easy meal.",
+  "cuisine": "australian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 teaspoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "10-12",
+      "notes": "Soak in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (375°F/190°C).",
+    "Thread chicken cubes onto bamboo skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together soy sauce, lime juice, brown sugar, garlic powder, salt, and pepper. Brush the marinade onto both sides of the chicken.",
+    "Brush the bamboo skewers with vegetable oil.",
+    "Grill skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through and slightly charred.",
+    "Serve immediately with your favorite sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "chicken",
+    "grill",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-australian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T15:09:22.815Z"
+}
