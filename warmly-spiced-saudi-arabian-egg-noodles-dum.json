@@ -1,0 +1,85 @@
+{
+  "slug": "warmly-spiced-saudi-arabian-egg-noodles-dum",
+  "title": "Saudi Arabian Egg Noodle Dumplings",
+  "description": "A traditional Arabian twist on a classic dumpling recipe, utilizing egg noodles and spiced fillings.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Warmly spiced Arabian dum mixture",
+      "amount": "8 oz",
+      "notes": "Ground lamb or beef optional"
+    },
+    {
+      "name": "Egg noodles",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "for boiling noodles"
+    },
+    {
+      "name": "Dumpling wrappers (optional)",
+      "amount": "1 package",
+      "notes": "if unavailable use egg noodles"
+    }
+  ],
+  "instructions": [
+    "Cook egg noodles in boiling water until al dente. Drain and set aside.",
+    "Heat 2 tbsp of vegetable oil in a pan over medium heat.",
+    "Add the spiced Arabian dum mixture and cook until browned.",
+    "Add the cooked noodles to the pan and stir well.",
+    "Season with salt and black pepper to taste.",
+    "Using a spoon, form the mixture into dumpling shapes.",
+    "If using dumpling wrappers, place a spoonful of the mixture in the center of each wrapper.",
+    "Fold the wrapper into a triangle and press the edges to seal.",
+    "Heat 2 tbsp of ghee or vegetable oil in a pan over medium heat.",
+    "Add the dumplings to the pan and fry until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi arabian",
+    "egg noodles",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-saudi-arabian-egg-noodles-dum",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T06:45:01.530Z"
+}
