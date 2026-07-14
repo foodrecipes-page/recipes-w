@@ -2026,17 +2026,16 @@
   },
   {
     "slug": "warm-crumbly-spanish-chicken-paella",
-    "title": "Warm Crumbly Spanish Chicken Paella",
+    "title": "Spanish Chicken Paella",
     "tags": [
-      "chicken-recipe",
-      "date-night",
-      "low-fat",
-      "one-pan",
-      "spanish-cuisine",
-      "umami-flavor"
+      "spanish",
+      "chicken",
+      "paella",
+      "rice",
+      "tapenade"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 65,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -15610,17 +15609,15 @@
   },
   {
     "slug": "wild-smoked-american-lamb-tagine",
-    "title": "Wild Smoked American Lamb Tagine",
+    "title": "Smoked Lamb Tagine",
     "tags": [
-      "american-cuisine",
-      "chimichurri-sauce",
-      "clay-cooking",
-      "lamb-recipes",
-      "one-pot",
-      "smoked-meat"
+      "lamb",
+      "smoked-lamb",
+      "tagine",
+      "north-african"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 200,
     "shard": "w"
   },
   {
