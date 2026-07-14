@@ -1,0 +1,85 @@
+{
+  "slug": "weeknight-russian-pasta-bake",
+  "title": "Russian Weeknight Pasta Bake",
+  "description": "A hearty, comforting pasta bake perfect for a weeknight dinner. Filled with flavorful ground beef and topped with a creamy bechamel sauce.",
+  "cuisine": "russian",
+  "diet": [
+    "weeknight"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "penne or fusilli work well"
+    },
+    {
+      "name": "bechamel sauce",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the bechamel sauce and bring to a simmer. Let cook for 2-3 minutes or until heated through.",
+    "In a large bowl, combine the cooked pasta, ground beef mixture, and chopped fresh parsley (if using). Season with salt and black pepper to taste.",
+    "Transfer the pasta mixture to a 9x13 inch baking dish and top with the remaining bechamel sauce.",
+    "Dot the top of the pasta with the butter.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "weeknight",
+    "pasta",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 55,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/weeknight-russian-pasta-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:45:25.092Z"
+}
