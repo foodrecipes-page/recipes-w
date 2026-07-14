@@ -1,0 +1,68 @@
+{
+  "slug": "warm-white-italian-sauerkraut-cannoli",
+  "title": "Warm Italian Sausage and Cannoli Casserole",
+  "description": "A hearty, comforting casserole that combines the flavors of Italy with the sweetness of cannoli.",
+  "cuisine": "Italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "italian sausage",
+      "amount": "1 pound",
+      "notes": "sweet Italian sausage"
+    },
+    {
+      "name": "warm white bread",
+      "amount": "1 loaf",
+      "notes": "cubed"
+    },
+    {
+      "name": "cannoli",
+      "amount": "1 package",
+      "notes": "crushed"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained"
+    },
+    {
+      "name": "grated mozzarella",
+      "amount": "1 cup",
+      "notes": "freshly shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cook the Italian sausage in a large skillet over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Add the cubed bread to the skillet and cook until lightly toasted.",
+    "In a separate bowl, combine the crushed cannoli, drained sauerkraut, and grated mozzarella.",
+    "In a 9x13 inch baking dish, arrange half of the bread mixture in the bottom.",
+    "Top with the sausage mixture, followed by the remaining bread mixture.",
+    "Bake for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "casserole",
+    "sausage",
+    "cannoli"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-white-italian-sauerkraut-cannoli",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:06:26.613Z"
+}
