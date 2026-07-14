@@ -1,0 +1,90 @@
+{
+  "slug": "warm-molten-jamaican-shrimp-pilaf",
+  "title": "Jamaican Shrimp Pilaf",
+  "description": "A flavorful and aromatic dish that combines the spices of Jamaica with the freshness of shrimp and the comfort of pilaf.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Jamaican spice blend",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "warm water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the onion and garlic and sauté until softened.",
+    "Add the shrimp and cook until pink, about 2-3 minutes.",
+    "Add the Jamaican spice blend and cook for 1 minute.",
+    "Add the pilaf and stir to combine.",
+    "Add the warm water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "seafood",
+    "pilaf",
+    "main-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-molten-jamaican-shrimp-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:11:42.497Z"
+}
