@@ -1,0 +1,74 @@
+{
+  "slug": "warm-wilted-portuguese-herbal-wrap",
+  "title": "Portuguese Wrap",
+  "description": "A delicious and easy-to-make Portuguese-inspired wrap recipe, featuring warm and crispy chicken, wrapped in a flavorful portuguese-style wrap, topped with fresh herbal notes and crispy wilted greens.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Portuguese-style wrap",
+      "amount": "4",
+      "notes": "Found in most international grocery stores"
+    },
+    {
+      "name": "Fresh herbs (such as parsley or cilantro)",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Wilted greens (such as spinach or kale)",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with salt and pepper. Place on a baking sheet and cook for 20-25 minutes, or until cooked through.",
+    "Meanwhile, heat the olive oil in a pan over medium heat. Add the wilted greens and cook until crispy, about 3-4 minutes.",
+    "Warm the Portuguese-style wrap according to package instructions.",
+    "To assemble the wrap, place a portion of the cooked chicken, wilted greens, and fresh herbs onto the center of the wrap.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "wrap",
+    "chicken",
+    "easy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wilted-portuguese-herbal-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T06:43:21.505Z"
+}
