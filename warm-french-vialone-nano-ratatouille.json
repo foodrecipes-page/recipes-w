@@ -1,0 +1,81 @@
+{
+  "slug": "warm-french-vialone-nano-ratatouille",
+  "title": "Creamy Vialone Risotto",
+  "description": "A rich and creamy risotto with the nutty flavor of Vialone rice, a classic of French cuisine. This recipe serves 4 and can be ready in about 45 minutes.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vialone rice",
+      "amount": "1 cup",
+      "notes": "Arborio or Carnaroli also work"
+    },
+    {
+      "name": "Warm vegetable broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/2 cup",
+      "notes": "dry, such as Chardonnay"
+    },
+    {
+      "name": "Ratatouille",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the broth in a separate pot and keep warm.",
+    "Melt 1 tablespoon of butter in a large skillet over medium heat.",
+    "Add the Vialone rice and cook, stirring constantly, for 2-3 minutes.",
+    "Add the white wine and cook until absorbed, stirring constantly.",
+    "Add 1/2 cup of warm broth to the rice and cook, stirring constantly, until absorbed.",
+    "Repeat the process, adding the broth in 1/2 cup increments, and stirring constantly, until the rice is cooked and creamy.",
+    "Stir in the remaining 1 tablespoon of butter and the Parmesan cheese.",
+    "Add the ratatouille and cook for an additional 2-3 minutes, until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "risotto",
+    "italian-cuisine",
+    "rice-dish",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-french-vialone-nano-ratatouille",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T19:16:09.558Z"
+}
