@@ -1,0 +1,90 @@
+{
+  "slug": "welcoming-smoked-portuguese-herring-gratin",
+  "title": "Smoked Herring Gratin",
+  "description": "A hearty Portuguese-inspired dish featuring smoked herring, layered in a creamy gratin.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Smoked herring",
+      "amount": "1 (120g) can"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large saucepan, melt the butter over medium heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the flour and cook for 1-2 minutes.",
+    "Slowly pour in the milk, whisking constantly to avoid lumps.",
+    "Bring the mixture to a simmer and cook until thickened, about 5 minutes.",
+    "Stir in the grated cheddar cheese until melted and smooth.",
+    "Season the sauce with salt and black pepper to taste.",
+    "In a separate saucepan, heat the smoked herring over low heat, breaking it up with a spoon as it warms through.",
+    "To assemble the gratin, spread a layer of the cheese sauce in the bottom of a 9x13-inch baking dish.",
+    "Top the sauce with a layer of the smoked herring, followed by a sprinkle of chopped parsley.",
+    "Repeat the layers two more times, finishing with a layer of cheese sauce on top.",
+    "Bake the gratin in the preheated oven for 20-25 minutes, or until golden brown and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked-herring",
+    "portuguese-dish",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/welcoming-smoked-portuguese-herring-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:09:42.151Z"
+}
