@@ -5257,17 +5257,15 @@
   },
   {
     "slug": "warm-molten-jamaican-shrimp-pilaf",
-    "title": "Warm Molten Jamaican Shrimp Pilaf",
+    "title": "Jamaican Shrimp Pilaf",
     "tags": [
-      "gluten-free",
-      "jamaican-cuisine",
-      "one-pan",
-      "post-workout",
+      "jamaican",
       "seafood",
-      "spicy"
+      "pilaf",
+      "main-dish"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -17761,13 +17759,16 @@
   },
   {
     "slug": "wrinkled-korean-chicken-tagine",
-    "title": "Wrinkled Korean Chicken Tagine",
+    "title": "Korean Chicken Tagine",
     "tags": [
-      "kimchi-ingredient",
-      "sugar-free"
+      "korean",
+      "north-african",
+      "chicken",
+      "stew",
+      "tagine"
     ],
-    "cuisine": "korean",
-    "totalTimeMin": 50,
+    "cuisine": "North African, Korean",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
