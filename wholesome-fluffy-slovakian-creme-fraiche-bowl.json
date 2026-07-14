@@ -1,0 +1,84 @@
+{
+  "slug": "wholesome-fluffy-slovakian-creme-fraiche-bowl",
+  "title": "Slovakian Pancakes with Whipped Cream",
+  "description": "A simple yet delicious Slovakian-inspired pancake recipe topped with a dollop of whipped cream and fresh creme fraiche.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup flour",
+      "amount": "145g",
+      "notes": ""
+    },
+    {
+      "name": "2 eggs",
+      "amount": "2 items",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup sugar",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup milk",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp salt",
+      "amount": "1.25g",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp butter, melted",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "whipped cream",
+      "amount": "to taste",
+      "notes": "for topping"
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "to taste",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, sugar, and salt.",
+    "In a separate bowl, whisk together eggs, milk, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and mix until smooth.",
+    "The batter should still be slightly lumpy.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the pan.",
+    "Cook for 2-3 minutes or until bubbles appear on the surface.",
+    "Flip and cook for an additional 1-2 minutes.",
+    "Serve hot with whipped cream and creme fraiche.",
+    "Optional: top with fresh fruit or powdered sugar."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-fluffy-slovakian-creme-fraiche-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T21:59:30.732Z"
+}
