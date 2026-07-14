@@ -1,0 +1,68 @@
+{
+  "slug": "warm-silky-moroccan-lamb-sellou",
+  "title": "Moroccan Lamb Sellou",
+  "description": "A rich and flavorful Moroccan dessert made with lamb, sellou, and spices, perfect for special occasions.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian-friendly",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sellou",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ground Lamb",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Warm Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Silky Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Moroccan Spices",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Rose Water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, mix together sellou, warm water, and honey. Heat over medium heat, stirring constantly, until the mixture thickens.",
+    "Add the ground lamb to the saucepan and cook until browned, breaking it up with a spoon as it cooks.",
+    "Stir in the Moroccan spices, pistachios, and rose water. Cook for an additional 2-3 minutes.",
+    "Remove the saucepan from the heat and stir in the unsalted butter until melted.",
+    "Transfer the mixture to a serving dish and refrigerate for at least 30 minutes to allow it to set.",
+    "Serve chilled, garnished with additional pistachios if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "moroccan",
+    "lamb",
+    "sellou"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-silky-moroccan-lamb-sellou",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T14:12:27.969Z"
+}
