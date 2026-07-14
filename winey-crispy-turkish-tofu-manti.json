@@ -1,0 +1,79 @@
+{
+  "slug": "winey-crispy-turkish-tofu-manti",
+  "title": "Turkish-Style Stuffed Tofu (Manti)",
+  "description": "A Turkish-inspired dish where tofu is stuffed with a blend of spices and herbs, then wrapped in crispy pastry and baked to perfection.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Extra-firm, drained and crumbled"
+    },
+    {
+      "name": "Crispy Pastry",
+      "amount": "1 package (thawed)",
+      "notes": "For wrapping the tofu"
+    },
+    {
+      "name": "Winey Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Turkish Spice Blend",
+      "amount": "2 tsp",
+      "notes": "A mix of cumin, paprika, salt, and pepper"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Wrap the tofu block in plastic wrap and bake for 15 minutes.",
+    "In a pan, heat 2 tbsp of oil over medium heat.",
+    "Add the finely chopped onion and cook until translucent.",
+    "Mix in the Turkish Spice Blend and cook for 1 minute.",
+    "Remove the tofu from the oven and let it cool.",
+    "Stuff the tofu with the onion-spice mixture.",
+    "Wrap each tofu piece with a piece of crispy pastry.",
+    "Place the wrapped tofu on a baking sheet lined with parchment paper.",
+    "Bake for an additional 15-20 minutes, or until the pastry is golden brown.",
+    "Garnish with chopped parsley and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "stuffed-tofu",
+    "manti",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-crispy-turkish-tofu-manti",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T23:36:21.370Z"
+}
