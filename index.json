@@ -3105,17 +3105,14 @@
   },
   {
     "slug": "warm-flaky-ethiopian-beef-gored-gored",
-    "title": "Warm Flaky Ethiopian Beef Gored Gored",
+    "title": "Ethiopian Beef Tibs",
     "tags": [
-      "beef-recipe",
-      "ethiopian-cuisine",
-      "flaky-pastry",
-      "one-pan",
-      "quick-dinner",
-      "weeknight"
+      "ethiopian",
+      "beef",
+      "spicy"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -3497,16 +3494,15 @@
   },
   {
     "slug": "warm-french-vialone-nano-ratatouille",
-    "title": "Warm French Vialone Nano Ratatouille",
+    "title": "Creamy Vialone Risotto",
     "tags": [
-      "french-cuisine",
-      "gluten-free",
-      "one-pot",
-      "plant-based",
-      "weeknight"
+      "risotto",
+      "italian-cuisine",
+      "rice-dish",
+      "vegetarian-option"
     ],
     "cuisine": "French",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -14652,15 +14648,15 @@
   },
   {
     "slug": "wholesome-shattering-polish-sausages-roast",
-    "title": "wholesome shattering polish sausages roast",
+    "title": "Polish Sausage Roast",
     "tags": [
-      "comfort-food",
-      "keto-friendly",
-      "lazy-sunday",
-      "polish-dish"
+      "polish",
+      "sausage",
+      "roast",
+      "comfort-food"
     ],
-    "cuisine": "polish",
-    "totalTimeMin": 40,
+    "cuisine": "Polish",
+    "totalTimeMin": 85,
     "shard": "w"
   },
   {
