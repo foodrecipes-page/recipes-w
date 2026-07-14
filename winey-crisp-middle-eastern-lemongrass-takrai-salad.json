@@ -1,0 +1,62 @@
+{
+  "slug": "winey-crisp-middle-eastern-lemongrass-takrai-salad",
+  "title": "Eastern Crisp Salad",
+  "description": "A refreshing Eastern-inspired salad with crispy elements and a tangy dressing.",
+  "cuisine": "eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Crisp lettuce",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Middle eastern salad",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Takrai",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Eastern dressing",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine crisp lettuce and middle eastern salad.",
+    "2. In a small pan, heat the eastern dressing over medium heat.",
+    "3. Add the chopped lemongrass and takrai to the pan and sauté for 2-3 minutes.",
+    "4. Pour the dressing mixture over the salad and toss to combine.",
+    "5. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eastern-cuisine",
+    "salad",
+    "easy-recipes"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-crisp-middle-eastern-lemongrass-takrai-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T02:26:05.797Z"
+}
