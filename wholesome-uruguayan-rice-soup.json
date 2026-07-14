@@ -1,0 +1,84 @@
+{
+  "slug": "wholesome-uruguayan-rice-soup",
+  "title": "Uruguayan-Style Rice Bowl",
+  "description": "A hearty bowl filled with flavorful rice, wholesome beans, and a hint of Uruguay's culinary traditions. Serve as a comforting meal or a satisfying side dish.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wholesome rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "uruguayan soup mix",
+      "amount": "1 packet",
+      "notes": "adjust seasoning to taste"
+    },
+    {
+      "name": "canned black beans, drained and rinsed",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "diced tomato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium-high heat.",
+    "Add diced onion and cook until translucent, about 3-4 minutes.",
+    "Add diced bell pepper and cook for an additional 2-3 minutes.",
+    "Add diced tomato and cook for 2 minutes.",
+    "Add Uruguayan soup mix and stir to combine. Cook for 1 minute.",
+    "Add black beans and stir to combine.",
+    "Add wholesome rice to the saucepan and stir to combine with the soup mixture.",
+    "Bring the mixture to a boil, then reduce heat to low, cover, and simmer for 20-25 minutes or until the rice is tender and the liquid has been absorbed.",
+    "Fluff the rice mixture with a fork and stir in chopped cilantro.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "rice",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-uruguayan-rice-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T07:05:21.873Z"
+}
