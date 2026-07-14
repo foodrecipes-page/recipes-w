@@ -1,0 +1,59 @@
+{
+  "slug": "whipped-citrus-american-soya-bean-toast",
+  "title": "Citrus American Toast",
+  "description": "A simple breakfast recipe using citrus flavors on toasted bread.",
+  "cuisine": "American",
+  "diet": [
+    "breakfast",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "American bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Citrus spread",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Whipped cream",
+      "amount": "1 tbsp",
+      "notes": "Optional topping"
+    },
+    {
+      "name": "Fresh citrus zest",
+      "amount": "1 tsp",
+      "notes": "Grapefruit or orange"
+    }
+  ],
+  "instructions": [
+    " Toast the American bread until lightly browned.",
+    "Spread citrus spread evenly over toasted bread.",
+    "Top with whipped cream if desired.",
+    "Garnish with a pinch of citrus zest."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "american",
+    "citrus"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whipped-citrus-american-soya-bean-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T02:23:09.820Z"
+}
