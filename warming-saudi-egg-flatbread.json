@@ -1,0 +1,59 @@
+{
+  "slug": "warming-saudi-egg-flatbread",
+  "title": "Saudi Flatbread with Scrambled Eggs",
+  "description": "A simple yet delicious breakfast dish from Saudi Arabia, featuring scrambled eggs served with warm flatbread.",
+  "cuisine": "Saudi",
+  "diet": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "flatbread",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "warming oil",
+      "amount": "2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Add the warming oil and let it heat up for a minute.",
+    "Crack in the eggs and scramble them until they're cooked through.",
+    "Warm the flatbread by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Serve the scrambled eggs with the warm flatbread.",
+    "Enjoy your delicious Saudi-inspired breakfast!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "eggs",
+    "flatbread",
+    "saudi",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warming-saudi-egg-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:10:31.778Z"
+}
