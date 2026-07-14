@@ -41,15 +41,14 @@
   },
   {
     "slug": "walnut-elixir",
-    "title": "Walnut Elixir",
+    "title": "Walnut Elixir Cake",
     "tags": [
       "walnut",
-      "herbal",
-      "crunchy",
-      "hangover-cure"
+      "elixir",
+      "cake"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 15,
+    "cuisine": "american",
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -2763,17 +2762,15 @@
   },
   {
     "slug": "warm-earthy-argentinian-speck-empanadas",
-    "title": "Warm Earthy Argentinian Speck Empanadas",
+    "title": "Argentinian Empanadas",
     "tags": [
-      "argentinian-food",
-      "cheese-pull",
+      "argentinian",
+      "beef",
       "empanadas",
-      "halal-recipes",
-      "nuka-pickle-recipes",
-      "speck-recipes"
+      "snack"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 55,
+    "cuisine": "argentinian",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -3348,17 +3345,14 @@
   },
   {
     "slug": "warm-fluffy-german-pork-dumplings",
-    "title": "Warm Fluffy German Pork Dumplings",
+    "title": "German Pork Dumplings",
     "tags": [
-      "comfort-food",
-      "german-cuisine",
-      "one-pot",
-      "pork-recipes",
-      "pressure-cooker",
-      "sugar-free"
+      "german",
+      "pork",
+      "dumplings"
     ],
     "cuisine": "German",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -4843,14 +4837,11 @@
   },
   {
     "slug": "warm-light-venezuelan-rice-pilaf",
-    "title": "Warm Light Venezuelan Rice Pilaf",
+    "title": "Venezuelan Chicken and Rice Pilaf",
     "tags": [
-      "dairy-free",
-      "easy-dinner",
-      "gluten-free",
-      "one-pot",
-      "quick-meal",
-      "rice-pilaf",
+      "chicken",
+      "rice",
+      "pilaf",
       "venezuelan"
     ],
     "cuisine": "Venezuelan",
@@ -15124,17 +15115,14 @@
   },
   {
     "slug": "wholesome-turkish-yogurt-flatbread",
-    "title": "Wholesome Turkish Yogurt Flatbread",
+    "title": "Turkish Yogurt Flatbread",
     "tags": [
-      "flatbread",
-      "high-protein",
-      "post-workout",
       "turkish",
-      "vegetarian",
-      "wood-fired"
+      "flatbread",
+      "yogurt"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 38,
+    "totalTimeMin": 17,
     "shard": "w"
   },
   {
