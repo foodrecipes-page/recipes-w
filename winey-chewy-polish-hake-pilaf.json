@@ -1,0 +1,62 @@
+{
+  "slug": "winey-chewy-polish-hake-pilaf",
+  "title": "Pan-Seared Hake with Polish Pilaf",
+  "description": "A simple yet flavorful dish featuring pan-seared hake served with a side of polish pilaf. Perfect for a light dinner or lunch.",
+  "cuisine": "European",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "hake",
+      "amount": "4 fillets (120g each)"
+    },
+    {
+      "name": "polish pilaf",
+      "amount": "250g"
+    },
+    {
+      "name": "winey",
+      "amount": "1 cup (250ml)"
+    },
+    {
+      "name": "chewy",
+      "amount": "1 cup (120g)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp (30ml)",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Season the hake fillets with salt and pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the hake fillets to the skillet and cook for 3-4 minutes per side, or until cooked through.",
+    "Remove the hake from the skillet and set aside.",
+    "Add the polish pilaf to the skillet and stir to combine with the remaining winey sauce.",
+    "Serve the hake on top of the polish pilaf."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hake",
+    "polish-pilaf",
+    "easy-fish-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-chewy-polish-hake-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T04:41:22.651Z"
+}
