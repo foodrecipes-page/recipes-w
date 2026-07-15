@@ -1,0 +1,59 @@
+{
+  "slug": "warm-irish-porridge-oats-porridge",
+  "title": "Traditional Irish Oatmeal",
+  "description": "A warm and comforting breakfast made with steel-cut oats, perfect for a chilly morning.",
+  "cuisine": "Irish",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Steel-cut oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring the water to a boil.",
+    "Add the steel-cut oats and reduce heat to low. Simmer for 20-25 minutes, or until the oats have absorbed most of the liquid and have a creamy consistency.",
+    "Remove from heat and stir in the salt, brown sugar, and unsalted butter until the butter has melted.",
+    "Serve the oatmeal warm, topped with additional brown sugar or butter if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 25,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "irish-food",
+    "oatmeal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-irish-porridge-oats-porridge",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T21:58:01.547Z"
+}
