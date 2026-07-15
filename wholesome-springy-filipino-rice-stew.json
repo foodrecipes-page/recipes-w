@@ -1,0 +1,72 @@
+{
+  "slug": "wholesome-springy-filipino-rice-stew",
+  "title": "Filipino Stew",
+  "description": "A hearty and flavorful stew from the Philippines, made with wholesome ingredients and served with rice.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wholesome Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Spring Onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Stew Peppers",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Filipino Stew Seasoning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pot over medium heat.",
+    "Add the spring onions and sauté until softened.",
+    "Add the stew peppers and sauté until tender.",
+    "Add the Filipino stew seasoning and stir to combine.",
+    "Add the water and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Serve the stew over rice.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy.",
+    "Note: You can adjust the seasoning to your taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "stew-recipe",
+    "vegetarian-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-springy-filipino-rice-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T23:42:29.626Z"
+}
