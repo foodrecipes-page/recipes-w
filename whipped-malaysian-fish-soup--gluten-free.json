@@ -1,0 +1,77 @@
+{
+  "slug": "whipped-malaysian-fish-soup--gluten-free",
+  "title": "Malaysian-Style Fish Cakes with Coconut Soup",
+  "description": "A flavorful and spicy fish cake dish served with a creamy coconut soup. This recipe is perfect for a gluten-free meal.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "Whipped coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Malaysian fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the cod fillets, coconut milk, whipped coconut cream, fish sauce, lime juice, and chili flakes. Mix well to combine.",
+    "2. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "3. Preheat the oven to 400°F (200°C).",
+    "4. Using your hands, shape the mixture into patties and place on a baking sheet lined with parchment paper.",
+    "5. Bake for 12-15 minutes or until the fish cakes are cooked through.",
+    "6. While the fish cakes are baking, prepare the coconut soup by combining the coconut milk, water, and a pinch of salt in a blender or food processor. Blend until smooth.",
+    "7. Heat the coconut soup over medium heat in a large saucepan. Simmer for 5-7 minutes or until heated through.",
+    "8. Serve the fish cakes with the coconut soup and garnish with chopped fresh cilantro.",
+    "9. Enjoy your delicious Malaysian-style fish cakes with coconut soup!",
+    "10. Refrigerate any leftovers and reheat as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "fish",
+    "coconut",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whipped-malaysian-fish-soup--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:17:05.476Z"
+}
