@@ -1,0 +1,93 @@
+{
+  "slug": "warm-terracotta-malaysian-rice-bake",
+  "title": "Malaysian-Style Rice Bowl",
+  "description": "A flavorful and easy-to-make rice bowl dish inspired by Malaysian cuisine, perfect for a quick lunch or dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "or other vegetable oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of coconut oil in a large skillet or wok over medium-high heat.",
+    "2. Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "3. Add the minced garlic and cook for 1 minute, until fragrant.",
+    "4. Add the bean sprouts and cook until they start to soften, about 2-3 minutes.",
+    "5. Add the cubed tofu and cook until lightly browned, about 3-4 minutes.",
+    "6. In a small bowl, whisk together the soy sauce and fish sauce (if using).",
+    "7. Pour the soy sauce mixture over the tofu and bean sprouts mixture, and stir to combine.",
+    "8. Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "9. To cook the rice, heat the remaining 1 tablespoon of coconut oil in a small saucepan over medium heat.",
+    "10. Add the uncooked white rice to the saucepan and stir to coat with oil.",
+    "11. Add 2 cups of water to the saucepan and bring to a boil.",
+    "12. Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the water has been absorbed and the rice is tender."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rice",
+    "malaysian",
+    "vegetarian",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-terracotta-malaysian-rice-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:45:26.139Z"
+}
