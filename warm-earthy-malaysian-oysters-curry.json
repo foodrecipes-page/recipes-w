@@ -1,0 +1,75 @@
+{
+  "slug": "warm-earthy-malaysian-oysters-curry",
+  "title": "Malaysian Curry Oysters",
+  "description": "A spicy and savory dish featuring oysters in a warm, earthy Malaysian curry sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oysters",
+      "amount": "12 large oysters, shucked"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches, grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add ginger and cook for an additional 1-2 minutes.",
+    "Add curry powder and cook, stirring constantly, for 1-2 minutes.",
+    "Add fish sauce and sugar, and stir to combine.",
+    "Add chicken broth and bring to a simmer.",
+    "Add oysters and cook, covered, until they open, about 3-5 minutes.",
+    "Serve oysters in curry sauce, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "seafood",
+    "curry",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 20,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-earthy-malaysian-oysters-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:32:13.254Z"
+}
