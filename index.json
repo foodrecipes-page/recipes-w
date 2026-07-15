@@ -28,15 +28,15 @@
   },
   {
     "slug": "walnut-crunchy-plate",
-    "title": "Walnut Crunchy Plate",
+    "title": "Crunchy Walnut Salad",
     "tags": [
-      "walnut",
-      "saudi-arabian",
-      "crunchy",
-      "protein-friendly"
+      "salad",
+      "lunch",
+      "healthy",
+      "easy"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 30,
+    "cuisine": "american",
+    "totalTimeMin": 10,
     "shard": "w"
   },
   {
@@ -3056,17 +3056,15 @@
   },
   {
     "slug": "warm-flaky-argentinian-peach-empanadas",
-    "title": "Warm Flaky Argentinian Peach Empanadas",
+    "title": "Argentinian Peach Empanadas",
     "tags": [
-      "argentinian-desserts",
-      "egg-free",
-      "flaky-pastry",
-      "peach-recipes",
-      "steamed-dishes",
-      "vegetarian-friendly"
+      "argentinian",
+      "peach",
+      "empanadas",
+      "dessert"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 37,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -12836,16 +12834,15 @@
   },
   {
     "slug": "wholesome-buttery-english-tofu-stir-fry",
-    "title": "Wholesome buttery English Tofu Stir-fry",
+    "title": "English Tofu Stir Fry",
     "tags": [
-      "bamboo-tray",
-      "jain-friendly",
-      "massaman-curry",
+      "english",
       "stir-fry",
-      "vegetarian"
+      "vegetarian",
+      "tofu"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 25,
+    "cuisine": "english",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -13202,16 +13199,16 @@
   },
   {
     "slug": "wholesome-crunchy-argentinian-chorizo-salad",
-    "title": "Wholesome Crunchy Argentinian Chorizo Salad",
+    "title": "Argentinian Chorizo Salad",
     "tags": [
+      "salad",
       "argentinian",
-      "crunchy",
-      "high-protein",
-      "meal-prep",
-      "salad"
+      "chorizo",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 27,
     "shard": "w"
   },
   {
