@@ -1,0 +1,89 @@
+{
+  "slug": "warm-japanese-genmaicha-ramen",
+  "title": "Japanese Genmaicha Ramen",
+  "description": "A classic Japanese ramen recipe with a twist of genmaicha tea-infused flavors. This comforting bowl is perfect for a cold day.",
+  "cuisine": "Japanese",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork Chashu",
+      "amount": "1 cup",
+      "notes": "Thinly sliced pork braised in soy sauce"
+    },
+    {
+      "name": "Genmaicha Tea",
+      "amount": "2 cups",
+      "notes": "Japanese green tea and roasted brown rice"
+    },
+    {
+      "name": "Ramen Noodles",
+      "amount": "1 package",
+      "notes": " Japanese-style wheat flour noodles"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced shiitake or cremini"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "Thinly sliced green onions"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Japanese soy sauce"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": "For added richness"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "For balance of flavors"
+    },
+    {
+      "name": "Bok Choy",
+      "amount": "1 bunch",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a medium saucepan, bring 2 cups of genmaicha tea to a boil.",
+    "2. Add 1 package of ramen noodles and cook according to package instructions.",
+    "3. In a separate pan, heat 1 tablespoon of sesame oil over medium heat.",
+    "4. Add 1 cup of sliced mushrooms and cook until tender.",
+    "5. Add 1 cup of thinly sliced pork chashu and cook until heated through.",
+    "6. In a small bowl, whisk together 2 tablespoons of soy sauce and 1 tablespoon of sugar.",
+    "7. Add the soy sauce mixture to the pork and mushroom mixture, and stir to combine.",
+    "8. To assemble the ramen, place cooked noodles in a bowl, then top with the pork and mushroom mixture.",
+    "9. Garnish with thinly sliced scallions and a small bunch of bok choy.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "ramen",
+    "genmaicha"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-japanese-genmaicha-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T04:10:16.537Z"
+}
