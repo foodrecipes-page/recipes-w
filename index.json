@@ -7780,16 +7780,15 @@
   },
   {
     "slug": "warm-spicy-brazilian-bean-stew",
-    "title": "Warm Spicy Brazilian Bean Stew",
+    "title": "Brazilian Bean Stew",
     "tags": [
-      "brazilian-cuisine",
-      "comfort-food",
-      "hearty-stew",
-      "lacto-vegetarian",
-      "stone-bowl-recipe"
+      "stew",
+      "brazilian",
+      "warm",
+      "spicy"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -18498,6 +18497,155 @@
     ],
     "cuisine": "portuguese",
     "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
+    "slug": "whipped-malaysian-fish-soup--thai",
+    "title": "Thai Fish Soup",
+    "tags": [
+      "thai",
+      "fish-soup",
+      "soups"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "whipped-malaysian-fish-soup--german",
+    "title": "Bavarian Fish Soup",
+    "tags": [
+      "soup",
+      "german",
+      "fish"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "whipped-malaysian-fish-soup--indian",
+    "title": "Whipped Fish Soup",
+    "tags": [
+      "indian",
+      "fish-soup",
+      "whipped-cream"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "whipped-malaysian-fish-soup--french",
+    "title": "Creamy Fish Soup",
+    "tags": [
+      "french",
+      "soup",
+      "fish"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "whipped-malaysian-fish-soup--keto",
+    "title": "Malaysian Fish Curry",
+    "tags": [
+      "keto",
+      "fish",
+      "curry",
+      "malaysian"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "whipped-malaysian-fish-soup--mexican",
+    "title": "Fish Tacos",
+    "tags": [
+      "mexican",
+      "tacos",
+      "fish",
+      "seafood"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 18,
+    "shard": "w"
+  },
+  {
+    "slug": "whipped-malaysian-fish-soup--vegan",
+    "title": "Malaysian-Style Vegan Soup",
+    "tags": [
+      "malaysian",
+      "vegan",
+      "soup"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "whipped-malaysian-fish-soup--chinese",
+    "title": "Steamed Fish in Malaysian-Style Broth",
+    "tags": [
+      "chinese",
+      "fish",
+      "soup"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "w"
+  },
+  {
+    "slug": "whipped-malaysian-fish-soup--italian",
+    "title": "Italian Fish Soup",
+    "tags": [
+      "italian",
+      "fish-soup",
+      "soup",
+      "italian-cuisine"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 27,
+    "shard": "w"
+  },
+  {
+    "slug": "whipped-malaysian-fish-soup--vegetarian",
+    "title": "Vegetarian Malaysian-Style Soup",
+    "tags": [
+      "vegetarian",
+      "malaysian",
+      "soup"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "whipped-malaysian-fish-soup--japanese",
+    "title": "Japanese Fish Soup",
+    "tags": [
+      "japanese",
+      "fish",
+      "soup",
+      "easy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "whipped-malaysian-fish-soup--gluten-free",
+    "title": "Malaysian-Style Fish Cakes with Coconut Soup",
+    "tags": [
+      "gluten-free",
+      "fish",
+      "coconut",
+      "malaysian"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 35,
     "shard": "w"
   }
 ]
