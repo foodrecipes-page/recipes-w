@@ -1,0 +1,80 @@
+{
+  "slug": "wholesome-velvet-greek-rice-flour-pancake-hot-pot-vessel",
+  "title": "Greek Rice Pancakes",
+  "description": "A tasty breakfast dish inspired by Greek cuisine, combining fluffy pancakes with flavorful rice.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Flour",
+      "amount": "1.5 cups"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "replacing traditional buttermilk"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Greek seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Melted butter",
+      "amount": "1/4 cup",
+      "notes": "for brushing pancakes"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the rice, flour, Greek seasoning, salt, and sugar.",
+    "In a separate bowl, whisk together the Greek yogurt, eggs, and melted butter.",
+    "Gradually add the wet ingredients to the dry ingredients and mix until smooth.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the pan.",
+    "Cook the pancakes for 2-3 minutes on the first side, until bubbles appear on the surface.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot with your favorite toppings, such as fresh fruit or honey."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "breakfast",
+    "pancakes",
+    "rice",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-velvet-greek-rice-flour-pancake-hot-pot-vessel",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T22:26:08.992Z"
+}
