@@ -1,0 +1,90 @@
+{
+  "slug": "whipped-malaysian-fish-soup--chinese",
+  "title": "Steamed Fish in Malaysian-Style Broth",
+  "description": "A light and flavorful Chinese dish featuring steamed fish in a spicy Malaysian-inspired soup.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (1 whole, scaled and gutted)",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Whipped coconut milk",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Malaysian chili sauce (sambal oelek)",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Ginger, sliced",
+      "amount": "1-inch piece",
+      "notes": "optional"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Scallions, chopped",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the fish under cold water and pat dry with paper towels.",
+    "2. In a large pot, combine coconut milk, chili sauce, ginger, garlic, fish sauce, soy sauce, and sugar.",
+    "3. Bring the mixture to a boil over medium-high heat.",
+    "4. Reduce heat to medium-low and add water.",
+    "5. Bring the soup to a simmer.",
+    "6. Add the fish to the pot, making sure it is fully submerged in the soup.",
+    "7. Cover the pot with a lid and steam the fish for 8-10 minutes, or until it's cooked through.",
+    "8. Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "fish",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whipped-malaysian-fish-soup--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:16:34.390Z"
+}
