@@ -1,0 +1,85 @@
+{
+  "slug": "warm-golden-italian-eggplant-caponata",
+  "title": "Italian Eggplant Caponata",
+  "description": "A classic Italian relish made with eggplant, capers, and tomatoes. Serve as a side dish or use as a topping for bread or pasta.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Golden capers",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Warm Italian bread",
+      "amount": "1/2 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Cut the eggplant into 1-inch cubes and toss with olive oil, salt, and sugar on a baking sheet.",
+    "3. Roast the eggplant in the preheated oven for 20-25 minutes, or until tender.",
+    "4. In a large skillet, heat a couple of tablespoons of olive oil over medium heat.",
+    "5. Add the capers and cook for 2-3 minutes, or until fragrant.",
+    "6. Add the roasted eggplant, tomatoes, and red wine vinegar to the skillet.",
+    "7. Cook for an additional 5-10 minutes, stirring occasionally.",
+    "8. Serve the caponata warm or at room temperature, garnished with chopped fresh parsley if desired.",
+    "9. Slice the Italian bread and serve alongside the caponata for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "eggplant",
+    "caponata",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-golden-italian-eggplant-caponata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T17:37:53.996Z"
+}
