@@ -1,0 +1,73 @@
+{
+  "slug": "whipped-malaysian-fish-soup--german",
+  "title": "Bavarian Fish Soup",
+  "description": "A hearty German-inspired fish soup originating from Bavaria. This comforting dish is perfect for a cold evening.",
+  "cuisine": "german",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (Cod or Pollock)",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Whipped cream",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Malaysian fish sauce (optional)",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, carrot, and potato. Cook until the vegetables are tender.",
+    "Add fish and cook for 2-3 minutes.",
+    "Pour in water and bring to a boil.",
+    "Reduce heat and let simmer for 10 minutes.",
+    "Use an immersion blender to puree the soup slightly.",
+    "Stir in whipped cream and Malaysian fish sauce (if using).",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "german",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whipped-malaysian-fish-soup--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:15:51.956Z"
+}
