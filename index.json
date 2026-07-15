@@ -4340,15 +4340,15 @@
   },
   {
     "slug": "warm-irish-porridge-oats-porridge",
-    "title": "Warm Irish Porridge",
+    "title": "Traditional Irish Oatmeal",
     "tags": [
+      "breakfast",
       "comfort-food",
-      "diabetic-friendly",
-      "gluten-free",
-      "high-fiber"
+      "irish-food",
+      "oatmeal"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 12,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -8621,15 +8621,15 @@
   },
   {
     "slug": "warm-spring-egyptian-rice-bake",
-    "title": "Warm Spring Egyptian Rice Bake",
+    "title": "Egyptian Spring Rice Bake",
     "tags": [
-      "easter",
-      "middle-eastern",
       "spring",
-      "vegetarian"
+      "egyptian",
+      "rice",
+      "bake"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 65,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -14820,16 +14820,14 @@
   },
   {
     "slug": "wholesome-springy-filipino-rice-stew",
-    "title": "wholesome springy filipino rice stew",
+    "title": "Filipino Stew",
     "tags": [
-      "filipino",
-      "low-sodium",
-      "one-pan",
-      "sake-cooking",
-      "weeknight"
+      "filipino-cuisine",
+      "stew-recipe",
+      "vegetarian-dish"
     ],
     "cuisine": "filipino",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -15148,15 +15146,17 @@
   },
   {
     "slug": "wholesome-velvet-greek-rice-flour-pancake-hot-pot-vessel",
-    "title": "Wholesome Velvet Greek Rice Flour Pancake Hot-Pot-Vessel",
+    "title": "Greek Rice Pancakes",
     "tags": [
-      "gluten-free",
-      "low-sugar",
-      "vegan",
-      "whole30"
+      "greek",
+      "breakfast",
+      "pancakes",
+      "rice",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 60,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
