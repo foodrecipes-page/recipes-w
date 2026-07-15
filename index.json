@@ -9860,17 +9860,15 @@
   },
   {
     "slug": "warm-wholesome-malaysian-chicken-bowl",
-    "title": "Warm Wholesome Malaysian Chicken Bowl",
+    "title": "Hainanese Chicken Bowl",
     "tags": [
-      "bento-box",
-      "comfort-food",
-      "fry-and-serve",
-      "kosher-friendly",
-      "one-pot",
-      "weeknight"
+      "hainanese chicken",
+      "malaysian",
+      "poached chicken",
+      "fragrant rice"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 30,
+    "cuisine": "malaysian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -10200,17 +10198,14 @@
   },
   {
     "slug": "warm-wok-seared-thai-morcilla-stir-fry",
-    "title": "Warm Wok-Seared Thai Morcilla Stir-fry",
+    "title": "Thai-Style Stir Fry with Morcilla",
     "tags": [
-      "high-protein",
+      "thaifood",
       "morcilla",
-      "one-pan",
-      "thai",
-      "vegetarian",
-      "weeknight"
+      "stirfry"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
