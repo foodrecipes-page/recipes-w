@@ -1,0 +1,78 @@
+{
+  "slug": "whipped-malaysian-fish-soup--thai",
+  "title": "Thai Fish Soup",
+  "description": "A simple and flavorful Thai-inspired fish soup made with fresh fish and vegetables.",
+  "cuisine": "Thai",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Malaysian Chili",
+      "amount": "1-2"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add curry paste and cook for 1 minute.",
+    "Add fish sauce, lime juice, and 2 cups of water.",
+    "Bring to a boil, then reduce heat and simmer for 10 minutes.",
+    "Add fish and cook until cooked through.",
+    "Stir in Thai basil and chili.",
+    "Season with salt and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "fish-soup",
+    "soups"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whipped-malaysian-fish-soup--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:15:50.142Z"
+}
