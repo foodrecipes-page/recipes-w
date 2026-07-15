@@ -1,0 +1,71 @@
+{
+  "slug": "warm-matcha-indian-cheese-grill",
+  "title": "Matcha and Cheese Naan",
+  "description": "A twist on traditional naan, infused with the brightness of matcha and the creaminess of cheese. Perfect for a snack or dessert.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Matcha powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Warm milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Grated cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, mix together matcha powder and warm milk to create a paste.",
+    "2. Add yeast to the paste and let it sit for 5 minutes until frothy.",
+    "3. In a large mixing bowl, combine flour, yeast mixture, and salt. Mix until a dough forms.",
+    "4. Knead the dough for 5-7 minutes until smooth and elastic.",
+    "5. Place the dough in a greased bowl, cover, and let it rise in a warm place for 1 hour.",
+    "6. Preheat the grill to medium-high heat.",
+    "7. Divide the dough into 6 equal pieces and roll each into a ball.",
+    "8. Flatten each ball into a disk shape and place on the grill.",
+    "9. Cook for 1-2 minutes on each side, or until the naan is golden brown and crispy.",
+    "10. Brush with melted butter and sprinkle with grated cheese.",
+    "11. Drizzle with honey and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "matcha",
+    "naan",
+    "grilled",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-matcha-indian-cheese-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T01:53:13.202Z"
+}
