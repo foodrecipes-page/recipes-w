@@ -1,0 +1,73 @@
+{
+  "slug": "walnut-crunchy-plate",
+  "title": "Crunchy Walnut Salad",
+  "description": "A refreshing and crunchy salad perfect for a light lunch. The combination of crispy walnuts, fresh greens, and tangy dressing will delight your taste buds.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "crunchy lettuce",
+      "amount": "4 cups, chopped"
+    },
+    {
+      "name": "apple",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup, thinly sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "balsamic vinaigrette",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chopped lettuce, diced apple, and thinly sliced red onion.",
+    "In a small bowl, whisk together balsamic vinaigrette, salt, and pepper.",
+    "Drizzle the dressing over the salad and toss to coat.",
+    "Sprinkle crumbled feta cheese over the top of the salad.",
+    "Sprinkle chopped walnuts over the salad and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "lunch",
+    "healthy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/walnut-crunchy-plate",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:42:56.381Z"
+}
