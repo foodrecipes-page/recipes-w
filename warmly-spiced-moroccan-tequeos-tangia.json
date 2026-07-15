@@ -1,0 +1,96 @@
+{
+  "slug": "warmly-spiced-moroccan-tequeos-tangia",
+  "title": "Warmly Spiced Tequeos Tagine",
+  "description": "A traditional Moroccan-inspired dish with a blend of warmly spiced tequeos and tangia, perfect for a cozy dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tequeos",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tangia",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for another minute.",
+    "Add the chopped tequeos and tangia, cumin, paprika, cayenne pepper (if using), salt, and black pepper.",
+    "Stir to combine and cook for 2-3 minutes.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until the vegetables are tender.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with fresh cilantro (if desired).",
+    "Serve with crusty bread or over couscous for a filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "vegetarian",
+    "stew",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-moroccan-tequeos-tangia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:29:33.918Z"
+}
