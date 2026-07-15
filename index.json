@@ -9025,18 +9025,16 @@
   },
   {
     "slug": "warm-terracotta-malaysian-rice-bake",
-    "title": "Warm Terracotta Malaysian Rice Bake",
+    "title": "Malaysian-Style Rice Bowl",
     "tags": [
-      "ayurvedic-friendly",
-      "gluten-free",
+      "rice",
       "malaysian",
-      "one-pot",
-      "terracotta-bake",
       "vegetarian",
-      "weeknight"
+      "lunch",
+      "dinner"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 60,
+    "cuisine": "malaysian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -11660,17 +11658,15 @@
   },
   {
     "slug": "warmly-spiced-moroccan-tequeos-tangia",
-    "title": "Warmly Spiced Moroccan Tequeos Tangia",
+    "title": "Warmly Spiced Tequeos Tagine",
     "tags": [
-      "comfort-food",
-      "kid-friendly",
-      "low-fat",
       "moroccan",
-      "one-pan",
-      "weeknight"
+      "vegetarian",
+      "stew",
+      "dinner"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -13320,15 +13316,14 @@
   },
   {
     "slug": "wholesome-egyptian-egg-dumplings",
-    "title": "Wholesome Egyptian Egg Dumplings",
+    "title": "Egyptian Wholesome Dumplings",
     "tags": [
-      "eggs",
-      "low-fat",
-      "quick",
-      "vegetable"
+      "egyptian",
+      "dumplings",
+      "wholesome"
     ],
-    "cuisine": "egyptian",
-    "totalTimeMin": 25,
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
