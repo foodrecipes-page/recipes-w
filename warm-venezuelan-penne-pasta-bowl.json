@@ -1,0 +1,81 @@
+{
+  "slug": "warm-venezuelan-penne-pasta-bowl",
+  "title": "Venetian Pasta Bowl",
+  "description": "A warm and comforting penne pasta dish inspired by Venezuelan flavors, perfect for a cozy meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "vegan cheese shreds",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers, carrots, and zucchini"
+    },
+    {
+      "name": "warm black beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cook the penne pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large bowl, toss the roasted vegetables with olive oil, salt, and pepper until well coated.",
+    "Add the cooked black beans, vegan cheese shreds, and cooked penne pasta to the bowl.",
+    "Toss everything together until well combined.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "warm",
+    "venezuelan",
+    "pasta",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-venezuelan-penne-pasta-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:58:29.685Z"
+}
