@@ -1,0 +1,79 @@
+{
+  "slug": "wholesome-crunchy-argentinian-chorizo-salad",
+  "title": "Argentinian Chorizo Salad",
+  "description": "A flavorful and textured salad featuring spicy Argentinian chorizo, wholesome greens, crunchy vegetables, and a tangy dressing.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Argentinian chorizo",
+      "amount": "1 pound, sliced",
+      "notes": "Choose a chorizo with a spicy kick"
+    },
+    {
+      "name": "wholesome greens",
+      "amount": "4 cups, chopped",
+      "notes": "Use a mix of lettuce, spinach, and arugula"
+    },
+    {
+      "name": "crunchy vegetables",
+      "amount": "1 cup, diced",
+      "notes": "Bell peppers, carrots, and red onions work well"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For the dressing"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tablespoon",
+      "notes": "For the dressing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Add to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "Add to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Arrange the chorizo slices on the baking sheet and bake for 10-12 minutes, or until crispy.",
+    "In a large bowl, combine the chopped greens, diced vegetables, and crispy chorizo.",
+    "In a small bowl, whisk together the olive oil, red wine vinegar, salt, and pepper to make the dressing.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "argentinian",
+    "chorizo",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-crunchy-argentinian-chorizo-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:24:11.149Z"
+}
