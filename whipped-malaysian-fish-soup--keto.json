@@ -1,0 +1,93 @@
+{
+  "slug": "whipped-malaysian-fish-soup--keto",
+  "title": "Malaysian Fish Curry",
+  "description": "A spicy and flavorful keto curry dish made with fish and coconut milk. Serve with a side of cauliflower rice or a salad.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (tilapia or cod)",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "Full-fat"
+    },
+    {
+      "name": "Malaysian curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large pan over medium heat.",
+    "Add garlic and ginger and sauté for 1 minute until fragrant.",
+    "Add the Malaysian curry paste and sauté for another minute.",
+    "Add the fish and cook for 2-3 minutes until browned on all sides.",
+    "Add the coconut milk, fish sauce, and lime juice. Stir to combine.",
+    "Reduce heat to low and simmer for 5-7 minutes until the fish is cooked through.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "fish",
+    "curry",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whipped-malaysian-fish-soup--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:16:21.762Z"
+}
