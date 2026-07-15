@@ -1,0 +1,88 @@
+{
+  "slug": "whipped-malaysian-fish-soup--mexican",
+  "title": "Fish Tacos",
+  "description": "A delicious and easy Mexican recipe featuring fish, with a tangy twist.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish",
+      "amount": "1 pound",
+      "notes": "white fish such as tilapia or mahi-mahi"
+    },
+    {
+      "name": "Malaysian Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "or regular fish sauce"
+    },
+    {
+      "name": "Whipped Sour Cream",
+      "amount": "1 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4-6",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet or griddle over medium-high heat.",
+    "2. Season the fish with salt and pepper.",
+    "3. Add the olive oil to the skillet and sear the fish for 3-4 minutes per side, until cooked through.",
+    "4. Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "5. Flake the fish into small pieces and place on a warmed tortilla.",
+    "6. Drizzle with Malaysian fish sauce and a squeeze of lime juice.",
+    "7. Top with a dollop of whipped sour cream and sprinkle with chopped cilantro.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "fish",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whipped-malaysian-fish-soup--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:16:24.062Z"
+}
