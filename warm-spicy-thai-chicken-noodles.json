@@ -1,0 +1,85 @@
+{
+  "slug": "warm-spicy-thai-chicken-noodles",
+  "title": "Spicy Thai Chicken Noodle Stir Fry",
+  "description": "A quick and flavorful stir fry made with spicy Thai red curry paste, chicken, and noodles.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "noodles (rice or wheat)",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the sliced onions and bell peppers to the skillet and cook until they start to soften, about 3-4 minutes.",
+    "Add the Thai red curry paste to the skillet and cook for 1 minute, until fragrant.",
+    "Add the chicken broth to the skillet and bring to a simmer.",
+    "Add the cooked chicken back to the skillet and stir to combine.",
+    "Add the noodles to the skillet and cook until they are well coated with the sauce and heated through.",
+    "Season the stir fry with fish sauce and sugar to taste.",
+    "Serve the stir fry hot, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "thai",
+    "chicken",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-thai-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T06:41:50.107Z"
+}
