@@ -1,0 +1,79 @@
+{
+  "slug": "warm-flaky-argentinian-peach-empanadas",
+  "title": "Argentinian Peach Empanadas",
+  "description": "Sweet and savory empanadas filled with caramelized peaches, a classic Argentinian dessert.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "warm empanada dough",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "caramelized peaches",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Roll out the warm empanada dough to a thickness of 1/8 inch.",
+    "3. Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "4. In a small bowl, mix together the caramelized peaches, brown sugar, ground cinnamon, and vanilla extract.",
+    "5. Place a tablespoon of the peach mixture in the center of each dough circle.",
+    "6. Fold the dough in half to form a half-moon shape and press the edges together to seal the empanada.",
+    "7. Brush the tops of the empanadas with the unsalted butter and sprinkle with flaky sea salt.",
+    "8. Place the empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown.",
+    "9. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "peach",
+    "empanadas",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "2g",
+    "carbs": "35g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-flaky-argentinian-peach-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T15:38:08.932Z"
+}
