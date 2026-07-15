@@ -1,0 +1,96 @@
+{
+  "slug": "warm-wok-seared-thai-morcilla-stir-fry",
+  "title": "Thai-Style Stir Fry with Morcilla",
+  "description": "A spicy and savory stir fry dish featuring crispy morcilla and a variety of vegetables, inspired by the flavors of Thailand.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Morcilla (Spanish Blood Sausage)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok over medium-high heat.",
+    "Add the sliced onion and cook until it starts to caramelize.",
+    "Add the sliced bell pepper and cook for another 2-3 minutes.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the Thai red curry paste and cook for 1 minute, stirring constantly.",
+    "Add the morcilla and cook until it's browned on all sides and crispy.",
+    "Add the fish sauce, brown sugar, and chili flakes. Stir to combine.",
+    "Cook for an additional 1-2 minutes, stirring constantly.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the stir fry to a serving platter and garnish with chopped cilantro.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "morcilla",
+    "stirfry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wok-seared-thai-morcilla-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T18:32:58.782Z"
+}
