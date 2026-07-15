@@ -1,0 +1,84 @@
+{
+  "slug": "warm-and-wok-seared-middle-eastern-chinese-long-beans-pilaf",
+  "title": "Middle Eastern Chicken Pilaf",
+  "description": "A flavorful and nutritious pilaf dish featuring chicken and long beans, inspired by the cuisine of the Middle East.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "long beans",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pilaf spices",
+      "amount": "1 teaspoon",
+      "notes": "a blend of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large wok or frying pan over medium-high heat.",
+    "Add the chicken to the wok and cook until seared, about 5 minutes. Remove the chicken from the wok and set aside.",
+    "Add the onion and garlic to the wok and cook until the onion is translucent, about 3 minutes.",
+    "Add the long beans to the wok and cook for an additional 2 minutes.",
+    "Add the rice to the wok and cook for 1-2 minutes, stirring constantly.",
+    "Add the pilaf spices and salt to the wok and stir to combine.",
+    "Add the chicken back to the wok and stir to combine with the rice and vegetables.",
+    "Reduce heat to low, cover the wok, and simmer for 18-20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "rice",
+    "middle-eastern",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-and-wok-seared-middle-eastern-chinese-long-beans-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T04:20:13.176Z"
+}
