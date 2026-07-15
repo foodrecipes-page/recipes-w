@@ -2802,16 +2802,14 @@
   },
   {
     "slug": "warm-earthy-malaysian-oysters-curry",
-    "title": "Warm Earthy Malaysian Oysters Curry",
+    "title": "Malaysian Curry Oysters",
     "tags": [
-      "festive",
-      "low-carb",
-      "malaysian-cuisine",
-      "one-pan",
-      "seafood"
+      "seafood",
+      "curry",
+      "malaysian"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -4972,15 +4970,15 @@
   },
   {
     "slug": "warm-matcha-indian-cheese-grill",
-    "title": "Warm Matcha Indian Cheese Grill",
+    "title": "Matcha and Cheese Naan",
     "tags": [
-      "ayurvedic-rajasic",
-      "grilled-cheese",
-      "high-protein",
-      "indian-cuisine"
+      "matcha",
+      "naan",
+      "grilled",
+      "cheese"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
