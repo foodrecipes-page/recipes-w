@@ -1,0 +1,85 @@
+{
+  "slug": "wholesome-egyptian-egg-dumplings",
+  "title": "Egyptian Wholesome Dumplings",
+  "description": "A hearty, flavorful dish with wholesome dumplings made from Egyptian ingredients, served with a side of steamed egg.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Egyptian flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "wholesome egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "egyptian spices",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dumpling spice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine Egyptian flour, wholesome egg, water, vegetable oil, Egyptian spices, dumpling spice, salt, cumin, and basil. Mix until a dough forms.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Heat a non-stick skillet over medium heat.",
+    "Cook the dumplings for 2-3 minutes on each side, until golden brown.",
+    "Serve with a side of steamed egg."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "dumplings",
+    "wholesome"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-egyptian-egg-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:29:24.296Z"
+}
