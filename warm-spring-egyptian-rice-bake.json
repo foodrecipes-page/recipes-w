@@ -1,0 +1,69 @@
+{
+  "slug": "warm-spring-egyptian-rice-bake",
+  "title": "Egyptian Spring Rice Bake",
+  "description": "A flavorful spring-inspired dish featuring Egyptian warm spices, fluffy rice, and a crunchy bake topping.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Spring onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Warm spices (cumin, coriander, paprika)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Eggplant",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Bake mix",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together rice, spring onions, warm spices, eggplant, and lemon juice.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Sprinkle the bake mix on top.",
+    "Bake for 30 minutes or until the top is golden brown.",
+    "Let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spring",
+    "egyptian",
+    "rice",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spring-egyptian-rice-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T22:28:04.576Z"
+}
