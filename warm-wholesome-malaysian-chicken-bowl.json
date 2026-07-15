@@ -1,0 +1,86 @@
+{
+  "slug": "warm-wholesome-malaysian-chicken-bowl",
+  "title": "Hainanese Chicken Bowl",
+  "description": "A classic Malaysian dish featuring poached chicken and fragrant rice.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "chicken stock",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "2",
+      "notes": "tied in a bundle"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "steamed rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine chicken stock, ginger, and pandan leaves.",
+    "Bring to a boil, then reduce heat to a simmer.",
+    "Add chicken breast to the pot and poach for 10-12 minutes, or until cooked through.",
+    "Remove chicken from the pot and let cool.",
+    "In a separate pot, steam rice according to package instructions.",
+    "In a small bowl, mix together coconut milk and a pinch of salt and pepper.",
+    "To assemble the bowl, place a scoop of steamed rice at the bottom, followed by sliced chicken, and drizzle with coconut milk mixture.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "hainanese chicken",
+    "malaysian",
+    "poached chicken",
+    "fragrant rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wholesome-malaysian-chicken-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T20:03:10.744Z"
+}
