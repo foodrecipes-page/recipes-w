@@ -1,0 +1,72 @@
+{
+  "slug": "whipped-malaysian-fish-soup--indian",
+  "title": "Whipped Fish Soup",
+  "description": "A light and comforting Indian-inspired fish soup made with whipped cream and Malaysian spices.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Whipped cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fish fillet ( cod or tilapia)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Malaysian fish curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a pan and sauté the onion and garlic until softened.",
+    "2. Add the Malaysian fish curry paste and cook for 1 minute.",
+    "3. Add the fish fillet and cook until it turns opaque.",
+    "4. Pour in the coconut milk and fish stock, and bring to a simmer.",
+    "5. Reduce the heat and let it cook for 10 minutes or until the fish is cooked through.",
+    "6. Stir in the whipped cream and cook for 1-2 minutes or until heated through.",
+    "7. Taste and adjust the seasoning as needed.",
+    "8. Serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fish-soup",
+    "whipped-cream"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whipped-malaysian-fish-soup--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:15:56.797Z"
+}
