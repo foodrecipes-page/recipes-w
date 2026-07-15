@@ -8429,17 +8429,15 @@
   },
   {
     "slug": "warm-spicy-thai-chicken-noodles",
-    "title": "Warm Spicy Thai Chicken Noodles",
+    "title": "Spicy Thai Chicken Noodle Stir Fry",
     "tags": [
-      "gluten-free",
-      "kid-friendly",
-      "one-pan",
       "spicy",
-      "thai-inspired",
-      "weeknight"
+      "thai",
+      "chicken",
+      "noodles"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
