@@ -3727,13 +3727,11 @@
   },
   {
     "slug": "warm-golden-italian-eggplant-caponata",
-    "title": "Warm Golden Italian Eggplant Caponata",
+    "title": "Italian Eggplant Caponata",
     "tags": [
-      "crowd-pleaser",
-      "easy-entertaining",
-      "gluten-free",
-      "healthy-snack",
-      "italian-food",
+      "italian",
+      "eggplant",
+      "caponata",
       "vegetarian"
     ],
     "cuisine": "Italian",
@@ -6575,16 +6573,15 @@
   },
   {
     "slug": "warm-silky-tunisian-chicken-tagine",
-    "title": "Warm Silky Tunisian Chicken Tagine",
+    "title": "Tunisian Chicken Tagine",
     "tags": [
-      "comfort-food",
-      "healthy",
+      "chicken",
+      "tagine",
       "north-african",
-      "one-pot",
-      "spicy"
+      "stew"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
