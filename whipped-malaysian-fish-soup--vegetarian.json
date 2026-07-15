@@ -1,0 +1,72 @@
+{
+  "slug": "whipped-malaysian-fish-soup--vegetarian",
+  "title": "Vegetarian Malaysian-Style Soup",
+  "description": "A flavorful and comforting soup inspired by Malaysian cuisine, perfect for a chilly evening. This recipe is a delicious and satisfying vegetarian option.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Malaysian-style peanut sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Whipped coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable broth in a large pot over medium heat.",
+    "Add the peanut sauce, carrots, potatoes, onions, and garlic to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the whipped coconut cream and spinach. Cook for an additional 5 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with additional peanut sauce and coconut cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "malaysian",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whipped-malaysian-fish-soup--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:16:41.638Z"
+}
