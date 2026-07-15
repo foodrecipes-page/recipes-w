@@ -192,16 +192,14 @@
   },
   {
     "slug": "warm-and-wok-seared-middle-eastern-chinese-long-beans-pilaf",
-    "title": "Warm and Wok-Seared Middle-Eastern Chinese Long Beans Pilaf",
+    "title": "Middle Eastern Chicken Pilaf",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "chicken",
+      "rice",
+      "middle-eastern",
+      "pilaf"
     ],
-    "cuisine": "middle eastern chinese",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
     "shard": "w"
   },
@@ -4498,16 +4496,14 @@
   },
   {
     "slug": "warm-japanese-genmaicha-ramen",
-    "title": "Warm Japanese Genmaicha Ramen",
+    "title": "Japanese Genmaicha Ramen",
     "tags": [
-      "comfort-food",
-      "healthy-dinner",
-      "japanese-food",
-      "low-carb",
-      "one-pot"
+      "japanese",
+      "ramen",
+      "genmaicha"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 270,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -14348,16 +14344,16 @@
   },
   {
     "slug": "wholesome-peruvian-lotus-root-fried-rice",
-    "title": "Wholesome Peruvian Lotus Root Fried Rice",
+    "title": "Lotus Root Fried Rice",
     "tags": [
-      "healthy",
-      "one-pan",
-      "paleo-friendly",
-      "quick-fix",
-      "robata-grill"
+      "lotus-root",
+      "fried-rice",
+      "peruvian-cuisine",
+      "vegetarian-side-dish",
+      "gluten-free-side-dish"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 18,
+    "totalTimeMin": 20,
     "shard": "w"
   },
   {
@@ -16501,17 +16497,14 @@
   },
   {
     "slug": "winey-chewy-polish-hake-pilaf",
-    "title": "Winey Chewy Polish Hake Pilaf",
+    "title": "Pan-Seared Hake with Polish Pilaf",
     "tags": [
-      "easy-pescatarian",
-      "high-protein",
-      "one-pan",
-      "polish-cuisine",
-      "weeknight",
-      "wine-based"
+      "hake",
+      "polish-pilaf",
+      "easy-fish-recipe"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "cuisine": "European",
+    "totalTimeMin": 22,
     "shard": "w"
   },
   {
