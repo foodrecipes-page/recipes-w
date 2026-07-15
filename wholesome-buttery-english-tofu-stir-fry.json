@@ -1,0 +1,88 @@
+{
+  "slug": "wholesome-buttery-english-tofu-stir-fry",
+  "title": "English Tofu Stir Fry",
+  "description": "A simple and delicious English-inspired stir fry made with crispy tofu and fresh veggies.",
+  "cuisine": "english",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "extra-firm, drained, and cubed"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "English stir-fry sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Broccoli",
+      "amount": "1 bunch",
+      "notes": "florets only"
+    },
+    {
+      "name": "English peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pan over medium-high heat.",
+    "Add cubed tofu and cook until golden brown, about 5 minutes.",
+    "Add sliced carrots, broccoli, and English peas. Cook for 4-5 minutes, or until the veggies are tender.",
+    "In a small bowl, whisk together English stir-fry sauce, soy sauce, garlic, and ginger. Pour the sauce over the veggies and stir to coat.",
+    "Return the cooked tofu to the pan and stir to combine with the sauce and veggies.",
+    "Cook for an additional 2-3 minutes, or until the sauce has thickened and the tofu is coated.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "english",
+    "stir-fry",
+    "vegetarian",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-buttery-english-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T15:33:06.385Z"
+}
