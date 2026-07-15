@@ -1,0 +1,65 @@
+{
+  "slug": "warm-bouncy-irish-potato-hash",
+  "title": "Warm Irish Potato Hash",
+  "description": "A hearty breakfast dish that combines the flavors of Ireland with a crispy potato hash.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Warm oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Hash browns",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the warm oil in a large pan over medium heat.",
+    "Add the chopped onion and sauté until softened, about 3-4 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the diced Irish potatoes and hash browns to the pan and stir to combine.",
+    "Cook for about 10-12 minutes, stirring occasionally, until the potatoes are golden brown and crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-food",
+    "potato-hash",
+    "breakfast-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-bouncy-irish-potato-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:35:46.767Z"
+}
