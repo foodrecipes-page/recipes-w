@@ -1,0 +1,79 @@
+{
+  "slug": "whipped-malaysian-fish-soup--french",
+  "title": "Creamy Fish Soup",
+  "description": "A French-inspired fish soup made with a creamy broth and topped with whipped cream.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (Cod or Tilapia)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Whipped Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Chop the onion and garlic, and sauté them in a large pot until softened.",
+    "2. Add the fish to the pot and cook until it's opaque and flakes easily with a fork.",
+    "3. Add the potatoes, salt, and pepper to the pot, and pour in enough water to cover the ingredients.",
+    "4. Bring the mixture to a boil, then reduce the heat to a simmer and cook until the potatoes are tender.",
+    "5. Stir in the heavy cream and cook for an additional 2-3 minutes, or until the soup has thickened slightly.",
+    "6. Taste and adjust the seasoning as needed.",
+    "7. Serve the soup hot, topped with a dollop of whipped cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "soup",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whipped-malaysian-fish-soup--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:16:00.390Z"
+}
