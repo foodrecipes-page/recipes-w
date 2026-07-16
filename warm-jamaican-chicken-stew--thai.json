@@ -1,0 +1,93 @@
+{
+  "slug": "warm-jamaican-chicken-stew--thai",
+  "title": "Jamaican Chicken Stew",
+  "description": "A twist on traditional Thai cuisine, this Jamaican-inspired stew combines the bold flavors of the Caribbean with the spice of Thailand. Perfect for a cold night.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "Warm spices (cumin, coriander, cinnamon)",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Remove the chicken and set aside.",
+    "Add the onion, garlic, bell pepper, and tomato to the pan and cook until the vegetables are tender, about 5 minutes.",
+    "Add the curry paste and cook for 1 minute, stirring constantly.",
+    "Add the cumin, coriander, cinnamon, and Jamaican curry powder and cook for 1 minute, stirring constantly.",
+    "Add the coconut milk and stir to combine.",
+    "Return the chicken to the pan and stir to combine.",
+    "Simmer the stew over low heat for 10-15 minutes, or until the chicken is cooked through.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican-chicken-stew",
+    "thaicuisine",
+    "chicken-recipie"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-jamaican-chicken-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:18:05.728Z"
+}
