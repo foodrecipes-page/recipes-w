@@ -18762,5 +18762,19 @@
     "cuisine": "german",
     "totalTimeMin": 45,
     "shard": "w"
+  },
+  {
+    "slug": "warm-terracotta-malaysian-rice-bake--thai",
+    "title": "Thai-Style Coconut Rice",
+    "tags": [
+      "coconut",
+      "thai",
+      "rice",
+      "lunch",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "w"
   }
 ]
