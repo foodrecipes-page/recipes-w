@@ -1,0 +1,61 @@
+{
+  "slug": "warm-bouncy-irish-potato-hash--keto",
+  "title": "Irish Hash Browns",
+  "description": "Crispy and delicious hash browns made with irish potatoes, perfect for a keto diet.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Warm oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Hash",
+      "amount": "1/4 cup",
+      "notes": "optional for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Soak the grated potatoes in cold water for 30 minutes to remove excess starch.",
+    "Drain the potatoes and squeeze out as much water as possible using a clean kitchen towel.",
+    "Heat the warm oil in a large non-stick skillet over medium-high heat.",
+    "Add the grated potatoes to the skillet and cook for 5-7 minutes, stirring occasionally.",
+    "Use a spatula to shape the potatoes into a flat layer.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until crispy.",
+    "Remove the skillet from the oven and add the hash (if using).",
+    "Use a spatula to gently fold the hash into the potatoes.",
+    "Return the skillet to the oven and bake for an additional 5-10 minutes, or until crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "hashbrowns",
+    "keto",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-bouncy-irish-potato-hash--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:25:47.259Z"
+}
