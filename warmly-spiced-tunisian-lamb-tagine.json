@@ -1,0 +1,100 @@
+{
+  "slug": "warmly-spiced-tunisian-lamb-tagine",
+  "title": "Tunisian Lamb Tagine",
+  "description": "A flavorful and aromatic stew originating from Tunisia, typically cooked in a clay pot with a conical lid. This recipe combines the warmth of spices with the richness of lamb.",
+  "cuisine": "North African",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning lamb"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven or clay pot, heat the olive oil over medium-high heat.",
+    "Brown the lamb pieces in batches until browned on all sides, about 5 minutes. Transfer the lamb to a plate and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the ground spices (allspice, cumin, coriander, cinnamon, salt, and pepper). Cook for 1 minute.",
+    "Add the browned lamb pieces, chopped onion mixture, and 2 cups of water to the pot.",
+    "Cover the pot and transfer it to the preheated oven. Braise the tagine for 2 hours, or until the lamb is tender.",
+    "Garnish with chopped fresh parsley and serve over couscous or rice.",
+    "Let the tagine rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:45:50.628Z"
+}
