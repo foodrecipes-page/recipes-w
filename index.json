@@ -18647,5 +18647,18 @@
     "cuisine": "malaysian",
     "totalTimeMin": 35,
     "shard": "w"
+  },
+  {
+    "slug": "warm-bouncy-irish-potato-hash--keto",
+    "title": "Irish Hash Browns",
+    "tags": [
+      "irish",
+      "hashbrowns",
+      "keto",
+      "breakfast"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
+    "shard": "w"
   }
 ]
