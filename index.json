@@ -8299,17 +8299,16 @@
   },
   {
     "slug": "warm-spicy-saudi-arabian-chicken-kebabs",
-    "title": "Warm Spicy Saudi Arabian Chicken Kebabs",
+    "title": "Saudi Arabian Chicken Kebabs",
     "tags": [
+      "saudi",
+      "arabian",
       "chicken",
-      "grilled",
-      "middle-eastern",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "kebabs",
+      "spicy"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 32,
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -18775,6 +18774,58 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-jamaican-chicken-stew--indian",
+    "title": "Jamaican Chicken Stew",
+    "tags": [
+      "indian",
+      "jamaican",
+      "chicken",
+      "stew",
+      "braise"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-jamaican-chicken-stew--thai",
+    "title": "Jamaican Chicken Stew",
+    "tags": [
+      "jamaican-chicken-stew",
+      "thaicuisine",
+      "chicken-recipie"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-flaky-filipino-coconut-leche-flan--gluten-free",
+    "title": "Coconut Flan",
+    "tags": [
+      "filipino",
+      "dessert",
+      "coconut",
+      "gluten-free"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-dense-croatian-turkey-stew--vegan",
+    "title": "Warm Stew",
+    "tags": [
+      "warm",
+      "dense",
+      "vegan",
+      "stew"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 40,
     "shard": "w"
   }
 ]
