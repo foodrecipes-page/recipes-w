@@ -1,0 +1,91 @@
+{
+  "slug": "wholesome-creamy-filipino-chicken-paella",
+  "title": "Filipino Chicken Paella",
+  "description": "A mouth-watering Filipino twist on the classic Spanish dish, featuring succulent chicken and savory paella rice.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Uncooked white rice",
+      "amount": "2 cups",
+      "notes": "Paella rice"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Filipino-style patis (fish sauce)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Wholesome coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "Full-fat"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/4 teaspoon",
+      "notes": "Soaked in 2 tablespoons hot water"
+    },
+    {
+      "name": "Filipino-style longganisa (sweet sausage)",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Creamy mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Paella",
+      "amount": "1 tablespoon",
+      "notes": "Smoked paprika"
+    }
+  ],
+  "instructions": [
+    "Heat the chicken broth in a large paella pan over medium-high heat.",
+    "Add the paella rice and cook, stirring occasionally, until lightly toasted.",
+    "Add the chicken and cook until browned.",
+    "Add the patis, coconut milk, and saffron threads (with their liquid).",
+    "Stir in the longganisa and mayonnaise.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Remove the cover and cook for an additional 5-10 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Sprinkle the paella with smoked paprika and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "chicken",
+    "paella",
+    "rice",
+    "coconut",
+    "seafood-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-creamy-filipino-chicken-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:46:09.586Z"
+}
