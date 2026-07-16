@@ -1,0 +1,75 @@
+{
+  "slug": "warm-creamy-british-cheese-ploughmans-lunch--japanese",
+  "title": "Japanese Ploughman's Lunch",
+  "description": "A unique fusion of British ploughman's lunch and Japanese flavors.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese miso bread",
+      "amount": "1 loaf",
+      "notes": null
+    },
+    {
+      "name": "Warm, soft-boiled egg",
+      "amount": "1",
+      "notes": "from the Japanese breakfast tradition"
+    },
+    {
+      "name": "Crisp, buttery nori seaweed",
+      "amount": "1 sheet",
+      "notes": null
+    },
+    {
+      "name": "Soft, creamy wasabi mayonnaise",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "British cheddar cheese",
+      "amount": "4 oz",
+      "notes": "a classic ploughman's favorite"
+    },
+    {
+      "name": "Cucumber slices",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Pickled ginger",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the miso bread into 1/2-inch thick rounds.",
+    "Top each bread round with a slice of cheddar cheese and place in the oven for 5 minutes, or until cheese is melted.",
+    "Meanwhile, cook the soft-boiled egg by boiling for 6-7 minutes, then immediately transferring to an ice bath.",
+    "Slice the nori seaweed sheet into strips.",
+    "Assemble the ploughman's lunch by placing a slice of the miso bread on a plate, followed by a slice of the warm egg, a few strips of nori seaweed, a dollop of wasabi mayonnaise, and a few slices of cucumber.",
+    "Garnish with pickled ginger and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "ploughmans",
+    "lunch",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-creamy-british-cheese-ploughmans-lunch--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:20:08.015Z"
+}
