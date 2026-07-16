@@ -1,0 +1,69 @@
+{
+  "slug": "warm-fluffy-canadian-turkish-delight-bao--italian",
+  "title": "Turkish Delight Bao",
+  "description": "A unique Italian dessert fusion of Turkish delight and fluffy bao, perfect for a sweet treat. This Italian dessert combines the softness of bao with the crunch of Turkish delight.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Canadian Bao Dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Turkish Delight",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Confectioner's Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter, softened",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Roll out the Canadian Bao dough to a thickness of 1/4 inch (6 mm).",
+    "3. Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "4. Place the dough circles on a baking sheet lined with parchment paper.",
+    "5. Bake the dough for 15-20 minutes, or until golden brown.",
+    "6. Allow the dough to cool completely before proceeding.",
+    "7. Chop the Turkish Delight into small pieces and set aside.",
+    "8. In a small bowl, mix together the confectioner's sugar and softened butter until well combined.",
+    "9. Add the beaten egg to the sugar mixture and mix until smooth.",
+    "10. Assemble the Turkish Delight Bao by spreading a small amount of the sugar mixture onto a cooled bao circle, followed by a few pieces of chopped Turkish Delight.",
+    "11. Fold the bao in half to enclose the filling, and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "turkish-delight",
+    "bao"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-fluffy-canadian-turkish-delight-bao--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:57:48.634Z"
+}
