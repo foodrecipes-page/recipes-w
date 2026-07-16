@@ -1,0 +1,81 @@
+{
+  "slug": "warm-kenyan-dum-dumplings--german",
+  "title": "Kenyan-Style Dumplings with Warm German Sauce",
+  "description": "A fusion dish bringing together the hearty flavors of Germany and the spices of Kenya, served with a warm and comforting sauce.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kenyan spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "dumpling wrappers",
+      "amount": "12-16 wrappers"
+    },
+    {
+      "name": "german sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "german beer",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the dumplings according to package instructions.",
+    "In a large skillet, cook the german sausage over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion to the skillet and cook until softened.",
+    "Add the caraway seeds, salt, and black pepper to the skillet and stir to combine.",
+    "Add the german beer to the skillet and bring to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes.",
+    "To assemble the dish, place a cooked dumpling on a plate and spoon some of the warm german sauce over the top.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "kenyan",
+    "fusion",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-kenyan-dum-dumplings--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:30:16.834Z"
+}
