@@ -1,0 +1,95 @@
+{
+  "slug": "warm-roasted-algerian-butternut-squash-tagine",
+  "title": "Warm Algerian Squash Tagine",
+  "description": "A hearty and flavorful Algerian-inspired stew made with roasted butternut squash, perfect for a cold evening.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roasted butternut squash",
+      "amount": "1 medium",
+      "notes": " Peeled and cubed"
+    },
+    {
+      "name": "Warm",
+      "amount": "2 tbsp",
+      "notes": "Sesame oil for cooking"
+    },
+    {
+      "name": "Algerian",
+      "amount": "2 tsp",
+      "notes": "Cumin powder"
+    },
+    {
+      "name": "Squash",
+      "amount": "1 medium onion",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tagine",
+      "amount": "2 cloves",
+      "notes": "Garlic, minced"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the roasted butternut squash, cumin powder, salt, and black pepper. Cook for 2 minutes, stirring constantly.",
+    "Add the vegetable broth and coconut milk. Bring to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20-25 minutes, or until the squash is tender.",
+    "Garnish with chopped parsley and serve hot.",
+    "Serve with crusty bread or over couscous, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "butternut-squash",
+    "stew",
+    "north-african",
+    "winter-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-roasted-algerian-butternut-squash-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:50:45.991Z"
+}
