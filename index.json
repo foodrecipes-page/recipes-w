@@ -15304,19 +15304,15 @@
   },
   {
     "slug": "wholesome-wooden-board-indian-ground-beef-kachori",
-    "title": "Wholesome Wooden-Board Indian Ground Beef Kachori",
+    "title": "Spicy Indian Beef Kachori",
     "tags": [
-      "beef",
-      "dinner",
-      "easy",
       "indian",
-      "one-pan",
-      "spicy",
-      "weekend",
-      "weeknight"
+      "snack",
+      "beef",
+      "kachori"
     ],
-    "cuisine": "indian",
-    "totalTimeMin": 45,
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -18726,6 +18722,45 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-fluffy-canadian-turkish-delight-bao--italian",
+    "title": "Turkish Delight Bao",
+    "tags": [
+      "italian",
+      "dessert",
+      "turkish-delight",
+      "bao"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-jamaican-cheese-jamaican-clotted-cream-pilaf--german",
+    "title": "Jamaican Jerk Chicken with German Pilaf",
+    "tags": [
+      "german",
+      "jamaican",
+      "chicken",
+      "pilaf"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-kenyan-dum-dumplings--german",
+    "title": "Kenyan-Style Dumplings with Warm German Sauce",
+    "tags": [
+      "german",
+      "kenyan",
+      "fusion",
+      "dumplings"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "w"
   }
 ]
