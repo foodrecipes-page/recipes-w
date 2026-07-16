@@ -1,0 +1,97 @@
+{
+  "slug": "warmly-spiced-moroccan-tequeos-tangia--gluten-free",
+  "title": "Warmly Spiced Moroccan Tangia",
+  "description": "A traditional Moroccan stew dish made with a flavorful blend of spices, perfect for a cold evening. Serve with a side of warm pita bread.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt, black pepper, cumin, cinnamon, and paprika.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is softened, about 5 minutes.",
+    "Add 1 cup of water to the pot and bring to a boil.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until it is tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Using two forks, shred the lamb into bite-sized pieces.",
+    "Return the pot to the stovetop and simmer the lamb over low heat until the sauce has thickened, about 10 minutes.",
+    "Serve the warmly spiced Moroccan tangia hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "stew",
+    "gluten-free",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-moroccan-tequeos-tangia--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:04:47.332Z"
+}
