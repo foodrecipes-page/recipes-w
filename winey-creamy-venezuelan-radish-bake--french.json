@@ -1,0 +1,66 @@
+{
+  "slug": "winey-creamy-venezuelan-radish-bake--french",
+  "title": "Baked Radish with Creamy Wine Sauce",
+  "description": "A rich and creamy sauce pairs perfectly with the earthy flavor of baked radish in this French-inspired dish.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "radish",
+      "amount": "4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "wine",
+      "amount": "1/2 cup",
+      "notes": "dry white wine"
+    },
+    {
+      "name": "cream",
+      "amount": "1/4 cup",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss radish slices with butter and season with salt and pepper. Spread on a baking sheet.",
+    "Bake for 20-25 minutes, or until radish is tender and lightly browned.",
+    "In a saucepan, combine wine and garlic. Bring to a simmer over medium heat.",
+    "Reduce wine by half, then stir in heavy cream. Bring to a simmer and cook until slightly thickened.",
+    "To serve, place baked radish on a plate and spoon creamy wine sauce over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "vegetarian",
+    "sauce",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 2,
+    "carbs": 12,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-creamy-venezuelan-radish-bake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:36:47.426Z"
+}
