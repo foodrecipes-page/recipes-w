@@ -1,0 +1,92 @@
+{
+  "slug": "warming-cheesy-australian-rigatoni-pasta--mexican",
+  "title": "Mexican Cheesy Pasta Bake",
+  "description": "A twist on traditional pasta bake with a Mexican twist, featuring warming cheesy goodness. Serve warm and enjoy!",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni pasta",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "diced red onion",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sliced jalapeños",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mexican seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook rigatoni pasta according to package instructions until al dente.",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add diced red onion and cook until translucent.",
+    "Add diced jalapeños and cook for an additional 2 minutes.",
+    "Stir in Mexican seasoning.",
+    "In a large mixing bowl, combine cooked pasta, sour cream, diced tomatoes, and shredded cheese.",
+    "Mix well until combined.",
+    "Transfer pasta mixture to a baking dish.",
+    "Top with additional shredded cheese and chopped cilantro.",
+    "Bake in preheated oven for 20-25 minutes, or until cheese is melted and bubbly.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "cheesy",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warming-cheesy-australian-rigatoni-pasta--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:08:24.313Z"
+}
