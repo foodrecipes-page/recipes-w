@@ -1,0 +1,80 @@
+{
+  "slug": "warm-japanese-barley-noodles",
+  "title": "Japanese-Style Barley Noodle Soup",
+  "description": "A comforting and flavorful soup made with warm barley and Japanese noodles.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "barley",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Japanese noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook barley according to package instructions.",
+    "In a separate pot, heat sesame oil over medium heat.",
+    "Add vegetable broth, soy sauce, and mirin. Bring to a simmer.",
+    "Cook noodles according to package instructions. Drain and set aside.",
+    "Add cooked noodles and barley to the pot with the broth. Stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Garnish with green onions.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "vegetarian",
+    "gluten-free",
+    "noodle"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-japanese-barley-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:15:33.097Z"
+}
