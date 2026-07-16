@@ -1,0 +1,75 @@
+{
+  "slug": "warmly-kissed-croatian-hummus-burek",
+  "title": "Classic Croatian Burek with Hummus Dipping Sauce",
+  "description": "A traditional Croatian pastry filled with spiced meat, served with a creamy hummus dipping sauce for a delicious snack or light meal.",
+  "cuisine": "croatian",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Warmly flaked puff pastry",
+      "amount": "1 sheet",
+      "notes": "Thawed according to package instructions"
+    },
+    {
+      "name": "Kiss of paprika",
+      "amount": "1 tsp",
+      "notes": "Optional for extra flavor"
+    },
+    {
+      "name": "Croatian spiced ground beef",
+      "amount": "1 lb",
+      "notes": "Ground beef mixed with 1 tsp salt, 0.5 tsp black pepper, and 0.5 tsp paprika"
+    },
+    {
+      "name": "Hummus",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Burek filling (Croatian-style)",
+      "amount": "1 cup",
+      "notes": "Ground beef or lamb mixed with 1 onion, 1 clove garlic, and 1 tsp salt"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out puff pastry and cut into squares.",
+    "Place a spoonful of burek filling in the center of each square.",
+    "Fold the pastry in half to form a triangle and press edges to seal.",
+    "Brush tops with egg wash and bake for 25-30 minutes.",
+    "Meanwhile, prepare hummus dipping sauce by mixing hummus with 1 tsp lemon juice and 0.5 tsp garlic powder.",
+    "Serve warm burek with hummus dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "pastry",
+    "hummus",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-kissed-croatian-hummus-burek",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:59:04.878Z"
+}
