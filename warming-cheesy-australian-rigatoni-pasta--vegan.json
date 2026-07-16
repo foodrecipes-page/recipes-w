@@ -1,0 +1,80 @@
+{
+  "slug": "warming-cheesy-australian-rigatoni-pasta--vegan",
+  "title": "Cheesy Warming Pasta Bake",
+  "description": "A comforting and satisfying vegan pasta dish, perfect for a chilly evening. The rigatoni is baked with a creamy and tangy cheesy sauce.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rigatoni pasta",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Plant-based cheese shreds",
+      "amount": "100g",
+      "notes": "such as Daiya or Follow Your Heart"
+    },
+    {
+      "name": "Vegan butter or margarine",
+      "amount": "20g",
+      "notes": "such as Earth Balance"
+    },
+    {
+      "name": "Warming spice mix",
+      "amount": "1 tsp",
+      "notes": "such as cumin, paprika, and turmeric"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "15g",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "1 tsp",
+      "notes": "optional, for cheesy flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Cook the rigatoni pasta according to the package instructions until al dente. Drain and set aside.",
+    "In a large saucepan, melt the vegan butter or margarine over medium heat.",
+    "Add the warming spice mix and cook for 1-2 minutes, stirring constantly.",
+    "Add the plant-based cheese shreds and stir until melted and smooth.",
+    "Add the cooked rigatoni pasta to the saucepan and toss to coat with the cheesy sauce.",
+    "Transfer the pasta mixture to a baking dish and top with chopped fresh parsley.",
+    "Bake in the preheated oven for 15-20 minutes, or until the top is golden brown and the sauce is bubbly.",
+    "Remove from the oven and sprinkle with nutritional yeast (if using).",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "pasta",
+    "cheesy",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warming-cheesy-australian-rigatoni-pasta--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:51:36.354Z"
+}
