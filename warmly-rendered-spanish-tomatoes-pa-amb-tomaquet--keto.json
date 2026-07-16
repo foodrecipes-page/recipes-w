@@ -1,0 +1,91 @@
+{
+  "slug": "warmly-rendered-spanish-tomatoes-pa-amb-tomaquet--keto",
+  "title": "Spanish Keto Paella",
+  "description": "A keto twist on the classic Spanish dish, using rendered tomatoes and protein-rich pa to make it a great keto meal. Serve hot, garnished with fresh tomatoes.",
+  "cuisine": "Spanish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pa",
+      "amount": "500g",
+      "notes": "preferably Spanish"
+    },
+    {
+      "name": "rendered tomatoes",
+      "amount": "2 cups",
+      "notes": "warmly cooked, to enhance flavor"
+    },
+    {
+      "name": "tomaquet",
+      "amount": "2 medium",
+      "notes": "seedless and chopped"
+    },
+    {
+      "name": "amb",
+      "amount": "1 tablespoon",
+      "notes": "optional, add for extra flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "adds depth of flavor"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "enhances flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the pa and cook until browned, about 5 minutes.",
+    "Add the rendered tomatoes, smoked paprika, garlic powder, salt, and black pepper.",
+    "Stir to combine, then add the chopped tomaquet.",
+    "Cook for an additional 2-3 minutes, until the tomatoes start to break down.",
+    "Add the amb, if using, and stir to combine.",
+    "Serve the paella hot, garnished with additional chopped tomatoes if desired.",
+    "Cooking time will vary depending on the heat and the type of pa used.",
+    "Adjust cooking time and seasoning as needed.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "spanish",
+    "paella",
+    "tomatoes",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 6,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-rendered-spanish-tomatoes-pa-amb-tomaquet--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:51:59.122Z"
+}
