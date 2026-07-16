@@ -1,0 +1,96 @@
+{
+  "slug": "warm-roasted-tunisian-lamb-tagine",
+  "title": "Tunisian Lamb Tagine",
+  "description": "A traditional North African stew named after the earthenware pot in which it's cooked. This recipe combines the rich flavors of lamb and spices.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a large clay or ceramic tagine or Dutch oven over medium heat.",
+    "Add onion and cook, stirring occasionally, until softened and lightly browned, about 8 minutes.",
+    "Add garlic, cumin, coriander, paprika, cayenne pepper, and black pepper. Cook, stirring constantly, for 1-2 minutes.",
+    "Add lamb and cook, stirring occasionally, until browned on all sides, about 5-7 minutes.",
+    "Add broth and bring to a boil.",
+    "Cover the tagine or pot and transfer to the oven.",
+    "Braise the tagine, or simmer the stew, until the lamb is tender and the meat is falling off the bone, about 2-1/2 to 3 hours.",
+    "Skim off any fat that rises to the surface.",
+    "Serve hot, garnished with fresh parsley and warm pita bread, if desired.",
+    "Optional: Serve with couscous or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "stew",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 63,
+    "carbs": 20,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-roasted-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:53:43.919Z"
+}
