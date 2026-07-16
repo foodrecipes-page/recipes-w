@@ -276,18 +276,15 @@
   },
   {
     "slug": "warm-bouncy-chinese-fenugreek-wonton-dumplings",
-    "title": "Warm Bouncy Chinese Fenugreek Wonton Dumplings",
+    "title": "Chinese Wonton Dumplings with Fenugreek",
     "tags": [
-      "fenugreek",
-      "high-protein",
-      "homemade-dumplings",
-      "low-carb-dumplings",
-      "one-pan",
-      "weeknight",
-      "wontons"
+      "chinese",
+      "wonton",
+      "dumplings",
+      "fenugreek"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 28,
     "shard": "w"
   },
   {
@@ -5878,17 +5875,16 @@
   },
   {
     "slug": "warm-roasted-algerian-butternut-squash-tagine",
-    "title": "Warm Roasted Algerian Butternut Squash Tagine",
+    "title": "Warm Algerian Squash Tagine",
     "tags": [
-      "comfort-food",
-      "low-fat",
+      "algerian",
+      "butternut-squash",
+      "stew",
       "north-african",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "winter-recipe"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 70,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -16541,17 +16537,13 @@
   },
   {
     "slug": "winey-creamy-venezuelan-radish-bake",
-    "title": "Winey Creamy Venezuelan Radish Bake",
+    "title": "Venezuelan Winey Bake",
     "tags": [
-      "carb-free",
-      "comfort-food",
-      "latin-influence",
-      "midnight-crust",
-      "one-pan",
-      "weeknight"
+      "veggie-bake",
+      "venezuelan-cuisine"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -18659,6 +18651,32 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
+    "slug": "warming-cheesy-australian-rigatoni-pasta--mexican",
+    "title": "Mexican Cheesy Pasta Bake",
+    "tags": [
+      "mexican",
+      "cheesy",
+      "pasta"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-spiced-moroccan-tequeos-tangia--gluten-free",
+    "title": "Warmly Spiced Moroccan Tangia",
+    "tags": [
+      "moroccan",
+      "lamb",
+      "stew",
+      "gluten-free",
+      "dinner"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 170,
     "shard": "w"
   }
 ]
