@@ -1,0 +1,85 @@
+{
+  "slug": "wholesome-wooden-board-indian-ground-beef-kachori",
+  "title": "Spicy Indian Beef Kachori",
+  "description": "A flavorful Indian-inspired snack filled with spiced ground beef, served with a side of chutney.",
+  "cuisine": "Indian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Kachori",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a pan over medium-high heat.",
+    "2. Add the chopped onion and cook until translucent.",
+    "3. Add the minced garlic and grated ginger and cook for 1 minute.",
+    "4. Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "5. Add the chopped cilantro, lime juice, salt, black pepper, and garam masala, and stir to combine.",
+    "6. Reduce heat to medium-low and simmer the filling for 10-15 minutes.",
+    "7. Meanwhile, preheat oil in a deep frying pan or a deep fryer to 350°F.",
+    "8. When the oil is hot, add a few kachoris to the oil and fry until golden brown, about 2-3 minutes.",
+    "9. Remove the kachoris from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "10. Stuff each kachori with the spiced ground beef and serve hot with a side of chutney."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "beef",
+    "kachori"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-wooden-board-indian-ground-beef-kachori",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:14:49.459Z"
+}
