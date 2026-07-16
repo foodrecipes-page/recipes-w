@@ -1,0 +1,78 @@
+{
+  "slug": "warm-greek-lamb-skewers--gluten-free",
+  "title": "Grilled Lamb Skewers",
+  "description": "A flavorful and easy-to-make Greek-inspired dish, perfect for warm weather. This recipe is gluten-free and showcases the rich taste of lamb.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder or leg, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Make sure to trim excess fat"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "About 2 teaspoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (about 400°F)",
+    "In a large bowl, whisk together yogurt, lemon juice, garlic, salt, and black pepper.",
+    "Add lamb cubes to the marinade and mix well to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "Thread lamb onto skewers, leaving a small space between each piece.",
+    "Brush skewers with olive oil and season with salt and black pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until lamb reaches 145°F (63°C) for medium-rare.",
+    "Transfer skewers to a plate and garnish with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "greek",
+    "gluten-free",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-greek-lamb-skewers--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:15:22.770Z"
+}
