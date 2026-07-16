@@ -11784,16 +11784,15 @@
   },
   {
     "slug": "warmly-spiced-tunisian-lamb-tagine",
-    "title": "Warmly Spiced Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "lamb-recipes",
-      "north-african-food",
-      "one-pot-meals",
-      "slow-cooked",
-      "tunisian-cuisine"
+      "lamb",
+      "tagine",
+      "north-african",
+      "stew"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 110,
+    "cuisine": "North African",
+    "totalTimeMin": 150,
     "shard": "w"
   },
   {
