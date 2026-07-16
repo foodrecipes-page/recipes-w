@@ -1,0 +1,90 @@
+{
+  "slug": "warmly-charred-portuguese-fish-bowl",
+  "title": "Warm Charred Fish Bowl",
+  "description": "A delicious and easy-to-make Portuguese-inspired fish dish, served in a warm and charred bowl.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish Fillets ( Cod or Haddock )",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Warm Charred Bowl",
+      "amount": "1",
+      "notes": "Portuguese-style bowl"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish fillets with salt, black pepper, and chili flakes (if using).",
+    "Heat the olive oil in a large oven-safe pan over medium heat.",
+    "Sear the fish fillets for 2-3 minutes on each side, until golden brown.",
+    "Transfer the pan to the preheated oven and bake for 8-10 minutes, or until the fish is cooked through.",
+    "Meanwhile, prepare the warm charred bowl by placing it in the oven for 2-3 minutes, or until warmed through.",
+    "Remove the bowl from the oven and place the cooked fish fillets on top.",
+    "Squeeze the lemon juice over the fish and sprinkle with minced garlic.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Serve the fish in the warm charred bowl, with additional lemon wedges on the side (if desired)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "portuguese",
+    "lunch",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-charred-portuguese-fish-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:08:55.008Z"
+}
