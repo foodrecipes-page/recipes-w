@@ -1,0 +1,78 @@
+{
+  "slug": "warm-bouncy-chinese-fenugreek-wonton-dumplings",
+  "title": "Chinese Wonton Dumplings with Fenugreek",
+  "description": "A traditional Chinese dish with a twist of fenugreek. Wonton wrappers are filled with a mixture of ground meat, fenugreek, and spices, then steamed to perfection.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wonton wrappers",
+      "amount": "20-24 wrappers",
+      "notes": "available in most Asian grocery stores"
+    },
+    {
+      "name": "Ground pork",
+      "amount": "1 pound",
+      "notes": "can be substituted with ground chicken or beef"
+    },
+    {
+      "name": "Fenugreek leaves",
+      "amount": "1/4 cup",
+      "notes": "optional, but adds a unique flavor"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "can be adjusted to taste"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Scallions",
+      "amount": "chopped, for garnish",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine ground pork, fenugreek leaves, soy sauce, sesame oil, salt, and pepper. Mix well until all ingredients are fully incorporated.",
+    "2. Lay a wonton wrapper on a clean surface. Place a tablespoon of the pork mixture in the center of the wrapper.",
+    "3. Dip your finger in water and run it along the edges of the wrapper. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "4. Press the edges together to seal the wonton. Repeat with the remaining wrappers and filling.",
+    "5. In a large pot or steamer basket, place a steamer insert with a layer of parchment paper. Arrange the wontons in a single layer, leaving space between each dumpling.",
+    "6. Steam the wontons over boiling water for 8-10 minutes, or until they are cooked through.",
+    "7. Serve the wontons hot with your favorite dipping sauce. Garnish with chopped scallions, if desired.",
+    "8. Enjoy your delicious Chinese wonton dumplings with fenugreek!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "wonton",
+    "dumplings",
+    "fenugreek"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-bouncy-chinese-fenugreek-wonton-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:21:47.976Z"
+}
