@@ -4462,16 +4462,15 @@
   },
   {
     "slug": "warm-japanese-barley-noodles",
-    "title": "Warm Japanese Barley Noodles",
+    "title": "Japanese-Style Barley Noodle Soup",
     "tags": [
-      "barley-noodles",
-      "japanese-cuisine",
-      "one-pot-meal",
-      "vegetarian-friendly",
-      "weeknight-dinner"
+      "soup",
+      "vegetarian",
+      "gluten-free",
+      "noodle"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -6065,17 +6064,16 @@
   },
   {
     "slug": "warm-roasted-tunisian-lamb-tagine",
-    "title": "Warm Roasted Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "ayurvedic-friendly",
-      "comfort-food",
-      "lamb-recipes",
+      "lamb",
+      "tagine",
       "north-african",
-      "one-pot",
-      "stone-bowl"
+      "stew",
+      "braised"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "w"
   },
   {
@@ -18849,6 +18847,19 @@
       "grilled"
     ],
     "cuisine": "Greek",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-creamy-british-cheese-ploughmans-lunch--japanese",
+    "title": "Japanese Ploughman's Lunch",
+    "tags": [
+      "japanese",
+      "ploughmans",
+      "lunch",
+      "fusion"
+    ],
+    "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "w"
   }
