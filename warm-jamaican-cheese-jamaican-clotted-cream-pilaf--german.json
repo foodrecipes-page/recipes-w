@@ -1,0 +1,75 @@
+{
+  "slug": "warm-jamaican-cheese-jamaican-clotted-cream-pilaf--german",
+  "title": "Jamaican Jerk Chicken with German Pilaf",
+  "description": "A unique fusion dish combining the spicy flavors of Jamaica with traditional German pilaf. The jerk chicken is served alongside a flavorful pilaf, topped with clotted cream.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "warm beer",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "German pilaf",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse the chicken breast and pat dry with paper towels.",
+    "Season the chicken with Jamaican jerk seasoning, making sure to coat evenly.",
+    "Heat the warm beer in a saucepan over medium heat.",
+    "Add the chicken to the beer and simmer for 5 minutes, flipping halfway through.",
+    "Transfer the chicken to a baking dish and bake for 15-20 minutes, or until cooked through.",
+    "Meanwhile, cook the German pilaf according to package instructions.",
+    "Top the pilaf with clotted cream and shredded cheese (if using).",
+    "Serve the jerk chicken alongside the pilaf."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "jamaican",
+    "chicken",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-jamaican-cheese-jamaican-clotted-cream-pilaf--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:59:05.075Z"
+}
