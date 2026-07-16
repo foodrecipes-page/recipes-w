@@ -13044,16 +13044,16 @@
   },
   {
     "slug": "wholesome-creamy-filipino-chicken-paella",
-    "title": "wholesome creamy filipino chicken paella",
+    "title": "Filipino Chicken Paella",
     "tags": [
-      "creamy",
       "filipino",
-      "keto-friendly",
-      "meal-prep",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "paella",
+      "rice",
+      "coconut",
+      "seafood-free"
     ],
-    "cuisine": "filipino",
+    "cuisine": "Filipino",
     "totalTimeMin": 50,
     "shard": "w"
   },
@@ -18700,6 +18700,33 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-creamy-venezuelan-radish-bake--french",
+    "title": "Baked Radish with Creamy Wine Sauce",
+    "tags": [
+      "french",
+      "vegetarian",
+      "sauce",
+      "side-dish"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-rendered-spanish-tomatoes-pa-amb-tomaquet--keto",
+    "title": "Spanish Keto Paella",
+    "tags": [
+      "keto",
+      "spanish",
+      "paella",
+      "tomatoes",
+      "low-carb"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
     "shard": "w"
   }
 ]
