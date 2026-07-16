@@ -10782,14 +10782,12 @@
   },
   {
     "slug": "warmly-charred-portuguese-fish-bowl",
-    "title": "Warmly Charred Portuguese Fish Bowl",
+    "title": "Warm Charred Fish Bowl",
     "tags": [
-      "keto-friendly",
-      "low-carb",
-      "portuguese-cuisine",
-      "seafood",
-      "single-serving",
-      "stone-bowl"
+      "fish",
+      "portuguese",
+      "lunch",
+      "bowl"
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 25,
@@ -18826,6 +18824,32 @@
     ],
     "cuisine": "croatian",
     "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wilted-saudi-arabian-snow-peas-tagine--keto",
+    "title": "Arabian Tagine with Snow Peas",
+    "tags": [
+      "keto",
+      "middle-eastern",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 20,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-greek-lamb-skewers--gluten-free",
+    "title": "Grilled Lamb Skewers",
+    "tags": [
+      "lamb",
+      "greek",
+      "gluten-free",
+      "grilled"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
     "shard": "w"
   }
 ]
