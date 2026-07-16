@@ -1,0 +1,83 @@
+{
+  "slug": "warm-tangy-chinese-oats-twice-cooked-pork",
+  "title": "Twice Cooked Pork and Oat Stir Fry",
+  "description": "A flavorful and easy-to-make stir fry dish made with twice cooked pork and oats, perfect for a quick weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork (shoulder or butt)",
+      "amount": "1 lb",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Rolled oats",
+      "amount": "1/2 cup",
+      "notes": "Rolled oats for thickening"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "For flavor"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tbsp",
+      "notes": "For sweetness"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "For nutty flavor"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "2. Add the ginger and garlic and stir-fry for 1 minute until fragrant.",
+    "3. Add the pork and cook until browned, about 3-4 minutes.",
+    "4. Add the soy sauce, hoisin sauce, and sesame oil. Stir to combine.",
+    "5. Reduce heat to medium-low and simmer for 10 minutes or until the pork is tender.",
+    "6. Add the oats and stir to combine. Cook for an additional 2-3 minutes until the oats are well combined with the pork.",
+    "7. Season with salt and pepper to taste.",
+    "8. Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "pork",
+    "stir-fry",
+    "oatmeal"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-tangy-chinese-oats-twice-cooked-pork",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:10:22.212Z"
+}
