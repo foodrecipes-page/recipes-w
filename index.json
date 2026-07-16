@@ -8988,16 +8988,15 @@
   },
   {
     "slug": "warm-tangy-chinese-oats-twice-cooked-pork",
-    "title": "Warm Tangy Chinese Oats Twice Cooked Pork",
+    "title": "Twice Cooked Pork and Oat Stir Fry",
     "tags": [
-      "asian-inspired",
-      "comfort-food",
-      "hearty",
-      "one-pot",
-      "vegetarian-option"
+      "chinese",
+      "pork",
+      "stir-fry",
+      "oatmeal"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -10960,16 +10959,15 @@
   },
   {
     "slug": "warmly-kissed-croatian-hummus-burek",
-    "title": "Warmly-Kissed Croatian Hummus Burek",
+    "title": "Classic Croatian Burek with Hummus Dipping Sauce",
     "tags": [
-      "chewy",
       "croatian",
-      "dessert",
-      "sweet",
-      "weeknight"
+      "pastry",
+      "hummus",
+      "snack"
     ],
     "cuisine": "croatian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -18677,6 +18675,31 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 170,
+    "shard": "w"
+  },
+  {
+    "slug": "warming-cheesy-australian-rigatoni-pasta--vegan",
+    "title": "Cheesy Warming Pasta Bake",
+    "tags": [
+      "vegan",
+      "pasta",
+      "cheesy",
+      "warm"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "whisked-kinyarwanda-vanilla-stir-fry--french",
+    "title": "French Crème Brûlée",
+    "tags": [
+      "crème-brûlée",
+      "french-dessert",
+      "custard"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
     "shard": "w"
   }
 ]
