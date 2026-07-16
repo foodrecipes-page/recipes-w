@@ -1,0 +1,86 @@
+{
+  "slug": "warm-flaky-filipino-coconut-leche-flan--gluten-free",
+  "title": "Coconut Flan",
+  "description": "A classic Filipino dessert made with coconut milk and creamy leche.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat coconut milk"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "for gluten-free flan"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium saucepan, combine the coconut milk, sugar, melted butter, and salt. Heat over medium heat, stirring occasionally, until the sugar has dissolved.",
+    "In a large bowl, whisk together the eggs and flour until well combined.",
+    "Gradually add the warm coconut milk mixture to the egg mixture, whisking continuously.",
+    "Add the vanilla extract and whisk to combine.",
+    "Pour the mixture into 6 (6-oz) ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 45-50 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the water bath and let them cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours, or until chilled.",
+    "To serve, run a knife around the edges of each ramekin and invert onto plates."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "dessert",
+    "coconut",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-flaky-filipino-coconut-leche-flan--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:46:35.640Z"
+}
