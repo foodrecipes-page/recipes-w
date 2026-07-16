@@ -1,0 +1,67 @@
+{
+  "slug": "warm-dense-croatian-turkey-stew--vegan",
+  "title": "Warm Stew",
+  "description": "A hearty, comforting stew perfect for cold days. This recipe is free from animal products.",
+  "cuisine": "croatian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz, diced"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat.",
+    "Add onion and garlic; cook until softened, about 5 minutes.",
+    "Add carrots and potatoes; cook for 5 minutes, stirring occasionally.",
+    "Add canned tomatoes; stir to combine.",
+    "Bring stew to a boil, then reduce heat to low and simmer, covered, for 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "warm",
+    "dense",
+    "vegan",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-dense-croatian-turkey-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:04:30.295Z"
+}
