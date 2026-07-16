@@ -1,0 +1,83 @@
+{
+  "slug": "warm-terracotta-malaysian-rice-bake--thai",
+  "title": "Thai-Style Coconut Rice",
+  "description": "A flavorful and aromatic Thai dish made with coconut milk and fragrant rice.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "long-grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large saucepan over medium heat.",
+    "Add the onion and garlic and sauté until softened, about 3-4 minutes.",
+    "Add the rice and stir to coat the rice with oil and mix with the onion and garlic.",
+    "Add the coconut milk, fish sauce, soy sauce, and sugar. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 18-20 minutes or until the liquid has been absorbed and the rice is cooked.",
+    "Fluff the rice with a fork and season with salt to taste.",
+    "Garnish with chopped cilantro and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "thai",
+    "rice",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-terracotta-malaysian-rice-bake--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:58:41.505Z"
+}
