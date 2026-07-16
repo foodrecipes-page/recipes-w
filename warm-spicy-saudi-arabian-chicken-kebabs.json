@@ -1,0 +1,93 @@
+{
+  "slug": "warm-spicy-saudi-arabian-chicken-kebabs",
+  "title": "Saudi Arabian Chicken Kebabs",
+  "description": "A flavorful and spicy dish from the heart of Arabia, perfect for a weekend dinner. Marinate chicken in a warm blend of spices and grill to perfection.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Warm spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Sahlab",
+      "amount": "1/4 cup",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4-6",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together warm spice blend, sahlab, garlic, lemon juice, salt, and black pepper.",
+    "Add the chicken to the marinade, cover, and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread chicken onto skewers, leaving a small space between each piece.",
+    "Brush the grill with vegetable oil to prevent sticking.",
+    "Grill the kebabs for 8-10 minutes per side, or until the chicken is cooked through.",
+    "Serve hot with pita bread and garnish with parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "arabian",
+    "chicken",
+    "kebabs",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-saudi-arabian-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:19:24.055Z"
+}
