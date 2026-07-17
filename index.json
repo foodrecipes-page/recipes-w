@@ -3282,17 +3282,15 @@
   },
   {
     "slug": "warm-fluffy-american-corn-pancakes",
-    "title": "Warm Fluffy American Corn Pancakes",
+    "title": "Classic American Pancakes",
     "tags": [
-      "american-classic",
-      "breakfast-ideas",
-      "brunch-recipe",
-      "corn-recipes",
-      "satvik-friendly",
-      "wood-fired"
+      "american",
+      "breakfast",
+      "pancakes",
+      "homemade"
     ],
     "cuisine": "American",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -13969,17 +13967,15 @@
   },
   {
     "slug": "wholesome-light-argentinian-parsley-salad",
-    "title": "wholesome light argentinian parsley salad",
+    "title": "Grilled Argentinian Steak with Salad",
     "tags": [
-      "argentinian",
-      "lacto-vegetarian",
-      "quick",
-      "refreshing",
+      "grilled",
+      "steak",
       "salad",
-      "weeknight"
+      "argentinian"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 10,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 27,
     "shard": "w"
   },
   {
@@ -19025,6 +19021,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 200,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-spiced-peruvian-chicken-stew--vegan",
+    "title": "Peruvian Vegan Stew",
+    "tags": [
+      "peruvian",
+      "stew",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "w"
   }
 ]
