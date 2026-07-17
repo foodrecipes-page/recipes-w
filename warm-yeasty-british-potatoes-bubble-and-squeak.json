@@ -1,0 +1,74 @@
+{
+  "slug": "warm-yeasty-british-potatoes-bubble-and-squeak",
+  "title": "Classic British Bubble and Squeak",
+  "description": "A traditional British dish made from leftover potatoes and cabbage, pan-fried to a crispy golden brown. Perfect for using up leftover roast dinner ingredients.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Leftover roast potatoes",
+      "amount": "2 cups",
+      "notes": "Diced or mashed, whichever you have"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 cup",
+      "notes": "Chopped, leftover from a roast dinner"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Plain"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of butter in a large non-stick pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the chopped cabbage and cook until it starts to wilt, about 2-3 minutes.",
+    "Add the leftover roast potatoes and stir to combine with the onion and cabbage.",
+    "Use a spatula to press the mixture down into the pan, creating a flat surface.",
+    "Continue cooking for a further 3-4 minutes, until the bottom is golden brown.",
+    "Use the spatula to carefully lift and flip the bubble and squeak over.",
+    "Cook for a further 2-3 minutes, until the other side is also golden brown.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "breakfast",
+    "vegetarian",
+    "leftover"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-yeasty-british-potatoes-bubble-and-squeak",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:38:12.478Z"
+}
