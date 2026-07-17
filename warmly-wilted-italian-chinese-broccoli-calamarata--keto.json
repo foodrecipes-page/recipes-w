@@ -1,0 +1,72 @@
+{
+  "slug": "warmly-wilted-italian-chinese-broccoli-calamarata--keto",
+  "title": "Pan-Seared Calamarata with Broccoli",
+  "description": "A quick keto pasta dish featuring pan-seared calamarata and steamed broccoli.",
+  "cuisine": "italian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "calamarata",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "broccoli",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook calamarata according to package instructions.",
+    "While the pasta cooks, heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and sauté for 1-2 minutes until fragrant.",
+    "Add broccoli to the skillet and cook until tender, about 3-4 minutes.",
+    "Remove the broccoli from the skillet and set aside.",
+    "Add the cooked calamarata to the skillet and toss with garlic and olive oil.",
+    "Season with salt and pepper to taste.",
+    "Serve the calamarata hot with steamed broccoli on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-wilted-italian-chinese-broccoli-calamarata--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:40:09.362Z"
+}
