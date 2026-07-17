@@ -1,0 +1,73 @@
+{
+  "slug": "warmly-spiced-peruvian-chicken-stew--vegan",
+  "title": "Peruvian Vegan Stew",
+  "description": "A hearty and flavorful Peruvian-inspired stew made with a variety of vegetables and spices, perfect for a cold day.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Warmly Spiced Peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Canned Tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "Onions",
+      "amount": "1"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1"
+    },
+    {
+      "name": "Spicy Stew Seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Vegan Broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the Vegan Broth in a large pot over medium heat.",
+    "Add the Onions and Warmly Spiced Peppers to the pot and cook until the vegetables are tender.",
+    "Add the Canned Tomatoes, Potatoes, Carrots, and Zucchini to the pot.",
+    "Stir in the Spicy Stew Seasoning and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes or until the vegetables are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "stew",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-peruvian-chicken-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:45:07.256Z"
+}
