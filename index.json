@@ -19001,5 +19001,30 @@
     "cuisine": "japanese",
     "totalTimeMin": 30,
     "shard": "w"
+  },
+  {
+    "slug": "warm-gooey-uruguayan-beef-skewers--german",
+    "title": "Uruguayan Beef Skewers",
+    "tags": [
+      "german",
+      "beef",
+      "grill",
+      "skewers"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 31,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-smoked-slovakian-pork-tagine--mexican",
+    "title": "Smoked Pork Tagine Tacos",
+    "tags": [
+      "mexican",
+      "pork",
+      "smoked"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 200,
+    "shard": "w"
   }
 ]
