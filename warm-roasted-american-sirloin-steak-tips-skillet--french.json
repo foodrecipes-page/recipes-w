@@ -1,0 +1,79 @@
+{
+  "slug": "warm-roasted-american-sirloin-steak-tips-skillet--french",
+  "title": "Steak au Poivre with Roasted Vegetables",
+  "description": "A classic French dish featuring a peppercorn-crusted steak served with roasted vegetables.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peppercorn-crusted sirloin steak",
+      "amount": "1 (1.5-2 pound) sirloin steak",
+      "notes": null
+    },
+    {
+      "name": "Roasted vegetables (such as asparagus, bell peppers, and onions)",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the steak with salt and pepper. Heat a skillet over medium-high heat and sear the steak for 2-3 minutes on each side. Let the steak rest for 5 minutes before slicing.",
+    "Toss the vegetables with butter, garlic, and thyme. Spread them out in a single layer on a baking sheet and roast in the oven for 15-20 minutes, or until tender.",
+    "Serve the sliced steak with the roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "steak",
+    "roasted-vegetables",
+    "peppercorn-crusted"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-roasted-american-sirloin-steak-tips-skillet--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:33:30.849Z"
+}
