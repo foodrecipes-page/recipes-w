@@ -1,0 +1,84 @@
+{
+  "slug": "warm-smoky-dutch-ancho-chilli-stew--thai",
+  "title": "Smoky Thai Stew",
+  "description": "A hearty and flavorful Thai stew made with smoky flavors and a hint of spice. Perfect for a chilly evening.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Dutch Process Cocoa Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ancho Chili Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chilli Garlic Paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Stew Meat (beef or pork)",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pan over medium-high heat.",
+    "Add the stew meat and cook until browned, about 5 minutes.",
+    "Add the smoked paprika, ancho chili powder, and chilli garlic paste. Cook for 1 minute.",
+    "Add the vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir in the coconut milk and fish sauce. Cook for an additional 2 minutes.",
+    "Season with brown sugar to taste.",
+    "Serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stew",
+    "smoky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-dutch-ancho-chilli-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:18:46.974Z"
+}
