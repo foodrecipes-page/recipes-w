@@ -1,0 +1,68 @@
+{
+  "slug": "warm-garlicky-greek-bok-choi-kleftiko",
+  "title": "Bok Choi Stir Fry with Kleftiko Sausage",
+  "description": "A quick and flavorful stir fry made with tender bok choy and warm, garlicky kleftiko sausage.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kleftiko sausage",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "bok choy",
+      "amount": "2 bunches",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced kleftiko sausage and cook until browned, about 2-3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped bok choy and cook until wilted, about 2-3 minutes.",
+    "Stir in the freshly squeezed lemon juice and cook for an additional minute.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "stir-fry",
+    "quick-cooking",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-garlicky-greek-bok-choi-kleftiko",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:51:06.381Z"
+}
