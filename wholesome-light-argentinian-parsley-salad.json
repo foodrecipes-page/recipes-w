@@ -1,0 +1,68 @@
+{
+  "slug": "wholesome-light-argentinian-parsley-salad",
+  "title": "Grilled Argentinian Steak with Salad",
+  "description": "A classic grilled steak dish served with a fresh salad, inspired by the flavors of Argentina.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian Steak",
+      "amount": "1.5 pounds",
+      "notes": "Ribeye or Sirloin work well"
+    },
+    {
+      "name": "Wholesome Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For grilling the steak"
+    },
+    {
+      "name": "Light Salt",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning the steak"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh parsley for garnish"
+    },
+    {
+      "name": "Salad",
+      "amount": "4 cups",
+      "notes": "Mixed greens with your favorite toppings"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your grill to medium-high heat.",
+    "2. Season the steak with salt and let it sit at room temperature for 30 minutes.",
+    "3. Grill the steak for 5-7 minutes per side, or until it reaches your desired level of doneness.",
+    "4. Let the steak rest for 10 minutes before slicing it thinly.",
+    "5. In a large bowl, combine your favorite salad toppings and a light drizzle of olive oil.",
+    "6. Garnish the salad with chopped parsley.",
+    "7. Serve the grilled steak on top of the salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "steak",
+    "salad",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 65,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-light-argentinian-parsley-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:40:07.281Z"
+}
