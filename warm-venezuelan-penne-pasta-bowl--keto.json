@@ -1,0 +1,82 @@
+{
+  "slug": "warm-venezuelan-penne-pasta-bowl--keto",
+  "title": "Keto Venezuelan Penne Bowl",
+  "description": "A warm and flavorful keto bowl inspired by Venezuelan cuisine, featuring penne pasta as the base, topped with a variety of delicious ingredients.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Penne pasta",
+      "amount": "8 ounces",
+      "notes": "made from almond flour for a keto-friendly option"
+    },
+    {
+      "name": "Grass-fed beef",
+      "amount": "1 pound",
+      "notes": "cooked to a safe internal temperature of 135°F (57°C)"
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking and dressing"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed for dressing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced for flavor"
+    }
+  ],
+  "instructions": [
+    "Cook the penne pasta according to package instructions until al dente.",
+    "In a large skillet, heat the avocado oil over medium-high heat.",
+    "Add the grass-fed beef to the skillet and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Stir in the lime juice and cook for an additional 1-2 minutes, until the sauce has thickened slightly.",
+    "Add the cooked penne pasta to the skillet and toss with the beef and sauce until well combined.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the penne bowl to a serving bowl and garnish with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "venezuelan",
+    "pasta",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "37g",
+    "carbs": "10g",
+    "fat": "42g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-venezuelan-penne-pasta-bowl--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:45:39.971Z"
+}
