@@ -1,0 +1,92 @@
+{
+  "slug": "warm-smoky-dutch-ancho-chilli-stew",
+  "title": "Smoky Dutch Stew",
+  "description": "A hearty, comforting stew with a rich, smoky flavor from the ancho chilli. Perfect for a cold winter's day.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ancho chilli",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "Dutch stew beef",
+      "amount": "500g",
+      "notes": "cut into 2cm cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Warm beer",
+      "amount": "250ml",
+      "notes": "used to add depth of flavor"
+    },
+    {
+      "name": "Chilli powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1L",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened.",
+    "Add the chopped carrot and potato, cook for 5 minutes.",
+    "Add the stew beef, cook until browned on all sides.",
+    "Add the ancho chilli, chilli powder, salt and black pepper. Cook for 1 minute.",
+    "Add the warm beer and water. Stir to combine.",
+    "Bring to the boil, then reduce heat and simmer for 1 hour.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "beef",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-dutch-ancho-chilli-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:18:59.396Z"
+}
