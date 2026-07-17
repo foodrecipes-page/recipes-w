@@ -15222,17 +15222,14 @@
   },
   {
     "slug": "wholesome-weeknight-indian-peanut-cookies-curry",
-    "title": "Wholesome Weeknight Indian Peanut Cookies Curry",
+    "title": "Indian-Style Peanut Chicken Curry",
     "tags": [
-      "curry",
-      "high-protein",
       "indian",
-      "jain-friendly",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "peanut",
+      "chicken",
+      "curry"
     ],
-    "cuisine": "Indian",
+    "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "w"
   },
@@ -18941,6 +18938,19 @@
       "mushroom"
     ],
     "cuisine": "Portuguese",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-roasted-american-sirloin-steak-tips-skillet--french",
+    "title": "Steak au Poivre with Roasted Vegetables",
+    "tags": [
+      "french",
+      "steak",
+      "roasted-vegetables",
+      "peppercorn-crusted"
+    ],
+    "cuisine": "French",
     "totalTimeMin": 45,
     "shard": "w"
   }
