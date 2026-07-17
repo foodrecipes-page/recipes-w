@@ -3492,16 +3492,15 @@
   },
   {
     "slug": "warm-garlicky-greek-bok-choi-kleftiko",
-    "title": "Warm Garlicky Greek Bok Choi Kleftiko",
+    "title": "Bok Choi Stir Fry with Kleftiko Sausage",
     "tags": [
-      "flexitarian",
-      "greek-food",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "greek",
+      "stir-fry",
+      "quick-cooking",
+      "one-pan"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "totalTimeMin": 13,
     "shard": "w"
   },
   {
@@ -19034,6 +19033,58 @@
     ],
     "cuisine": null,
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-crisp-dutch-lamb-shoulder-tagine--thai",
+    "title": "Thai-Style Braised Lamb Tagine",
+    "tags": [
+      "lamb",
+      "thaifood",
+      "stew",
+      "braise"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 180,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-weeknight-mediterranean-juicy-lamb-stew--vegan",
+    "title": "Vegan Mediterranean Stew",
+    "tags": [
+      "vegan",
+      "mediterranean",
+      "stew"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-crunchy-argentinian-chorizo-salad--german",
+    "title": "Argentinian Chorizo German-Style Salad",
+    "tags": [
+      "german",
+      "argentinian",
+      "chorizo",
+      "salad"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-wilted-italian-chinese-broccoli-calamarata--thai",
+    "title": "Spicy Thai Broccoli Calamarata Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "pasta",
+      "broccoli",
+      "calamarata"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 18,
     "shard": "w"
   }
 ]
