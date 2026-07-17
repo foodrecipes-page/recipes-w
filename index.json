@@ -18854,5 +18854,69 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "w"
+  },
+  {
+    "slug": "warm-white-brazilian-sausage-stew--german",
+    "title": "German-Style Sausage and White Bean Stew",
+    "tags": [
+      "german",
+      "stew",
+      "one-pot"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-snappy-turkish-lotus-root-kofte--chinese",
+    "title": "Turkish-Style Stir-Fried Lotus Kofte",
+    "tags": [
+      "chinese",
+      "turkish",
+      "stir-fry",
+      "lotus-root",
+      "kofte"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "whisked-saudia-sea-bass-crumble--vegetarian",
+    "title": "Bass and Saudia Crumble",
+    "tags": [
+      "mediterranean",
+      "seafood-free",
+      "vegetarian-crust"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-malaysian-beef-tagine--thai",
+    "title": "Thai Beef Tagine",
+    "tags": [
+      "thai",
+      "beef",
+      "tagine",
+      "fusion"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-dense-croatian-turkey-stew--chinese",
+    "title": "Croatian Turkey Stew",
+    "tags": [
+      "chinese",
+      "croatian",
+      "turkey",
+      "stew"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 50,
+    "shard": "w"
   }
 ]
