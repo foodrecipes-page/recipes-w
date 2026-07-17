@@ -1,0 +1,88 @@
+{
+  "slug": "warm-smoked-slovakian-pork-tagine--mexican",
+  "title": "Smoked Pork Tagine Tacos",
+  "description": "A fusion of Mexican and Slovakian flavors, this dish combines the rich flavors of smoked pork with the warmth of traditional Slovakian spices, served in a crispy taco shell.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Pork Shoulder",
+      "amount": "1 (2 pound) piece",
+      "notes": "Look for a piece with a thick layer of fat"
+    },
+    {
+      "name": "Slovakian Paprika",
+      "amount": "2 tablespoons",
+      "notes": "A mild, sweet paprika that adds depth to the dish"
+    },
+    {
+      "name": "Warm Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Add a warm, earthy flavor to the pork"
+    },
+    {
+      "name": "Tagine Spice Blend",
+      "amount": "1 teaspoon",
+      "notes": "A blend of spices that typically includes cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Add a squeeze of fresh lime juice for brightness"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": "Add a fresh, herbaceous flavor to the dish"
+    },
+    {
+      "name": "Taco Shells",
+      "amount": "8-10 shells",
+      "notes": "Crisp, crunchy taco shells to hold the filling"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 cup",
+      "notes": "A tangy, creamy topping to balance the flavors"
+    },
+    {
+      "name": "Diced Onions",
+      "amount": "1 cup",
+      "notes": "Add a sweet, caramelized flavor to the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the smoked pork shoulder with Slovakian paprika, warm cumin, and tagine spice blend.",
+    "Place the pork in a Dutch oven or oven-safe pot and cover with a lid.",
+    "Braise the pork in the oven for 2-3 hours, or until tender and easily shredded with a fork.",
+    "Shred the pork with two forks and stir in lime juice and chopped cilantro.",
+    "Warm the taco shells according to package instructions.",
+    "Assemble the tacos by spooning the pork mixture into the shells, followed by a dollop of sour cream and diced onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pork",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoked-slovakian-pork-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:08:07.935Z"
+}
