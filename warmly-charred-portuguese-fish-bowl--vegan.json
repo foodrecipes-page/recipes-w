@@ -1,0 +1,87 @@
+{
+  "slug": "warmly-charred-portuguese-fish-bowl--vegan",
+  "title": "Charred Fish-Free Bowl",
+  "description": "A vegan twist on a Portuguese-inspired dish, featuring charred portuguese-style portobello mushrooms and a variety of colorful vegetables.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "4",
+      "notes": "Portuguese-style"
+    },
+    {
+      "name": "Warmly spiced olive oil",
+      "amount": "1/4 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together olive oil, smoked paprika, garlic powder, and salt.",
+    "Add the sliced red onion to the bowl and toss to coat. Spread on a baking sheet and roast for 20-25 minutes, or until caramelized.",
+    "Meanwhile, slice the mushrooms and place on a separate baking sheet. Drizzle with olive oil and sprinkle with salt and pepper. Roast for 15-20 minutes, or until tender and charred.",
+    "In a large bowl, combine sliced bell pepper, zucchini, and cherry tomatoes.",
+    "Once the mushrooms are done, add them to the bowl with the vegetables.",
+    "Squeeze lemon juice over the top and sprinkle with chopped cilantro.",
+    "Season with salt and pepper to taste.",
+    "Serve warm, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "portuguese",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-charred-portuguese-fish-bowl--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:11:40.032Z"
+}
