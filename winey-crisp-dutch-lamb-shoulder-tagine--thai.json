@@ -1,0 +1,72 @@
+{
+  "slug": "winey-crisp-dutch-lamb-shoulder-tagine--thai",
+  "title": "Thai-Style Braised Lamb Tagine",
+  "description": "A fragrant and flavorful Thai-inspired stew made with lamb shoulder, perfect for a cold evening. The use of wine and crisp spices gives it a unique twist.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "bone-in"
+    },
+    {
+      "name": "winey vinegar",
+      "amount": "2 tbsp",
+      "notes": "or substitute with apple cider vinegar"
+    },
+    {
+      "name": "crisp cumin",
+      "amount": "1 tsp",
+      "notes": "whole seeds"
+    },
+    {
+      "name": "dutch coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tsp",
+      "notes": "or substitute with a mix of cinnamon, cardamom, and ginger"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add cumin seeds and cook, stirring constantly, until fragrant, about 1 minute.",
+    "Add lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add vinegar, coriander, and tagine spice blend. Stir to combine.",
+    "Add enough water to cover the lamb, then bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise the lamb for 2.5 hours, or until tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the lamb with two forks and return it to the pot.",
+    "Simmer the stew over low heat for 10 minutes to allow the flavors to meld.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "thaifood",
+    "stew",
+    "braise"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-crisp-dutch-lamb-shoulder-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:50:08.775Z"
+}
