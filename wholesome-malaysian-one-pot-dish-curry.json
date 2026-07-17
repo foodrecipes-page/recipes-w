@@ -1,0 +1,85 @@
+{
+  "slug": "wholesome-malaysian-one-pot-dish-curry",
+  "title": "Malaysian One Pot Curry",
+  "description": "A flavorful and convenient one pot dish from Malaysia. This recipe combines the best of Southeast Asian flavors with the ease of a single pot meal.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wholesome Chicken Thighs",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "One Pot Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Malaysian-Style Coconut Milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Bamboo Shoots",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large one pot over medium-high heat.",
+    "Add the onion and cook until softened.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the curry paste and cook for 2 minutes.",
+    "Add the chicken, bamboo shoots, and potatoes. Cook for 5 minutes.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 20 minutes.",
+    "Stir in the chopped cilantro.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "curry",
+    "one-pot",
+    "chicken",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-malaysian-one-pot-dish-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:28:34.800Z"
+}
