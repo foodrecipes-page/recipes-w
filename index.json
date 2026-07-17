@@ -6804,17 +6804,14 @@
   },
   {
     "slug": "warm-smoky-dutch-ancho-chilli-stew",
-    "title": "Warm Smoky Dutch Ancho Chilli Stew",
+    "title": "Smoky Dutch Stew",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "one-pot",
-      "smoky",
-      "vegan-friendly",
-      "winter-stew"
+      "stew",
+      "beef",
+      "comfort-food"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 50,
+    "cuisine": null,
+    "totalTimeMin": 80,
     "shard": "w"
   },
   {
