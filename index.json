@@ -13483,18 +13483,15 @@
   },
   {
     "slug": "wholesome-fresh-filipino-cream-fritters",
-    "title": "Filipino Cream Fritters",
+    "title": "Filipino-Style Lumpia",
     "tags": [
-      "coconut",
-      "cream-fritters",
       "filipino",
-      "high-protein",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "lumpia",
+      "spring-rolls",
+      "snack"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -18952,6 +18949,32 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-smoky-korean-barramundi-bokkeum--chinese",
+    "title": "Smoked Barramundi with Korean-Style Bokkeum",
+    "tags": [
+      "korean-chinese",
+      "seafood",
+      "smoked",
+      "barramundi"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-smoky-dutch-ancho-chilli-stew--thai",
+    "title": "Smoky Thai Stew",
+    "tags": [
+      "thai",
+      "stew",
+      "smoky",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
     "shard": "w"
   }
 ]
