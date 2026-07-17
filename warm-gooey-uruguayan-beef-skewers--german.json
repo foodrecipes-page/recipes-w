@@ -1,0 +1,75 @@
+{
+  "slug": "warm-gooey-uruguayan-beef-skewers--german",
+  "title": "Uruguayan Beef Skewers",
+  "description": "A German-inspired take on Uruguayan-style beef skewers, served hot off the grill.",
+  "cuisine": "german",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (1 pound)",
+      "amount": "1 pound",
+      "notes": "Skewer-friendly cuts like sirloin or ribeye work well"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped into small pieces"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Chopped into small pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "Thread beef, onion, bell pepper, and garlic onto skewers.",
+    "Season with salt, black pepper, and paprika.",
+    "Grill skewers for 8-10 minutes per side, or until cooked to desired level of doneness.",
+    "Let rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "grill",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-gooey-uruguayan-beef-skewers--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:43:51.707Z"
+}
