@@ -1,0 +1,94 @@
+{
+  "slug": "warmly-wilted-italian-chinese-broccoli-calamarata--thai",
+  "title": "Spicy Thai Broccoli Calamarata Stir Fry",
+  "description": "A flavorful and spicy stir fry made with wilted broccoli, calamarata pasta, and your choice of Italian or Chinese seasonings. This dish is a unique twist on traditional Thai cuisine.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "calamarata pasta",
+      "amount": "8 oz",
+      "notes": "whole wheat or regular"
+    },
+    {
+      "name": "wilted broccoli",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "warmly seasoned olive oil",
+      "amount": "2 tbsp",
+      "notes": "Italian seasoning"
+    },
+    {
+      "name": "chinese five spice",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the warmly seasoned olive oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the wilted broccoli and cook for 3-4 minutes until tender.",
+    "Add the calamarata pasta, soy sauce, sugar, chili flakes, salt, and black pepper. Stir to combine.",
+    "Cook for an additional 2-3 minutes until the pasta is heated through.",
+    "Stir in the chinese five spice and cook for 1 minute.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "pasta",
+    "broccoli",
+    "calamarata"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-wilted-italian-chinese-broccoli-calamarata--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:37:12.024Z"
+}
