@@ -1,0 +1,73 @@
+{
+  "slug": "wholesome-snappy-turkish-lotus-root-kofte--chinese",
+  "title": "Turkish-Style Stir-Fried Lotus Kofte",
+  "description": "A Chinese-inspired dish using Turkish-style kofte and lotus root, mixed with wholesome spices and crunchy vegetables. This recipe combines the flavors of the Mediterranean with the snap of Chinese cuisine.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lotus root",
+      "amount": "1 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Turkish-style kofte",
+      "amount": "4",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Wholesome vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "peanut or canola oil"
+    },
+    {
+      "name": "Snappy carrots",
+      "amount": "1 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Wholesome soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Turkish paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced lotus root and cook for 3-4 minutes, or until it starts to soften.",
+    "Add the sliced carrots and cook for another 2-3 minutes.",
+    "Add the Turkish-style kofte and cook for 2-3 minutes on each side, or until browned and cooked through.",
+    "In a small bowl, whisk together the soy sauce and paprika.",
+    "Pour the soy sauce mixture over the kofte and vegetables, and stir to coat.",
+    "Continue to cook for another minute, or until the flavors have melded together.",
+    "Serve hot, garnished with additional paprika if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "turkish",
+    "stir-fry",
+    "lotus-root",
+    "kofte"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": "20g",
+    "carbs": "25g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-snappy-turkish-lotus-root-kofte--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:30:44.968Z"
+}
