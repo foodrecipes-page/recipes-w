@@ -1,0 +1,58 @@
+{
+  "slug": "warm-gooey-syrian-flour-pilaf",
+  "title": "Syrian-Style Pilaf Cakes",
+  "description": "A twist on traditional pilaf, these warm and gooey Syrian-style pilaf cakes are perfect for a snack or light meal.",
+  "cuisine": "syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup",
+      "notes": "for dough consistency"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "In a large mixing bowl, combine flour and pilaf.",
+    "Gradually add warm water and mix until a dough forms.",
+    "Knead the dough for 2-3 minutes until smooth.",
+    "Divide the dough into 4-6 equal pieces.",
+    "Shape each piece into a ball and flatten slightly into a disk.",
+    "Heat the skillet or griddle and cook the cakes for 2-3 minutes on each side.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "syrian",
+    "pilaf",
+    "snack",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-gooey-syrian-flour-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:37:00.978Z"
+}
