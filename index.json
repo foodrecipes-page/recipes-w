@@ -18918,5 +18918,30 @@
     "cuisine": "chinese",
     "totalTimeMin": 50,
     "shard": "w"
+  },
+  {
+    "slug": "warm-venezuelan-penne-pasta-bowl--keto",
+    "title": "Keto Venezuelan Penne Bowl",
+    "tags": [
+      "keto",
+      "venezuelan",
+      "pasta",
+      "bowl"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-charred-portuguese-fish-bowl--vegan",
+    "title": "Charred Fish-Free Bowl",
+    "tags": [
+      "vegan",
+      "portuguese",
+      "mushroom"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 45,
+    "shard": "w"
   }
 ]
