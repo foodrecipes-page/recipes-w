@@ -1,0 +1,65 @@
+{
+  "slug": "wholesome-crunchy-argentinian-chorizo-salad--german",
+  "title": "Argentinian Chorizo German-Style Salad",
+  "description": "A unique fusion of Argentinian chorizo with German salad and wholesome ingredients",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Argentinian chorizo",
+      "amount": "250g"
+    },
+    {
+      "name": "wholesome bread",
+      "amount": "1/2 loaf",
+      "notes": "crusty on the outside"
+    },
+    {
+      "name": "crunchy red cabbage",
+      "amount": "200g"
+    },
+    {
+      "name": "hearts of lettuce",
+      "amount": "200g"
+    },
+    {
+      "name": "vinaigrette dressing",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    1,
+    "Cook the chorizo in a pan over medium heat, breaking it up with a spoon, until browned and crispy, about 5 minutes.",
+    "Slice the chorizo into thin strips and set aside.",
+    "Cut the bread into small cubes and toast until lightly browned.",
+    "In a large bowl, combine the chopped cabbage, lettuce, and toasted bread.",
+    "Add the cooked chorizo on top and drizzle with vinaigrette dressing.",
+    "Toss gently to combine and serve immediately.",
+    "Optional: Grill the bread for a crispy texture or add some crunchy salad croutons for extra texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "argentinian",
+    "chorizo",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-crunchy-argentinian-chorizo-salad--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:22:52.028Z"
+}
