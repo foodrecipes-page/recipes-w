@@ -1,0 +1,103 @@
+{
+  "slug": "warm-smoky-korean-barramundi-bokkeum--chinese",
+  "title": "Smoked Barramundi with Korean-Style Bokkeum",
+  "description": "A modern Chinese-inspired dish featuring smoked barramundi paired with a spicy Korean-style bokkeum sauce, served with steamed vegetables.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Barramundi fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bokkeum sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetables (e.g., bell peppers, carrots)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the smoker to 225°F (110°C).",
+    "2. Season the barramundi fillets with salt and pepper.",
+    "3. Smoke the barramundi for 30 minutes.",
+    "4. Meanwhile, heat the gochujang, soy sauce, brown sugar, garlic, ginger, and red pepper flakes in a saucepan over medium heat.",
+    "5. Add the bokkeum sauce to the saucepan and stir to combine.",
+    "6. Add the smoked barramundi to the saucepan and coat with the sauce.",
+    "7. Serve the smoked barramundi with steamed vegetables and garnish with chopped green onions.",
+    "8. Drizzle sesame oil over the dish and serve immediately.",
+    "9. Garnish with additional green onions and serve with steamed rice or noodles.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "korean-chinese",
+    "seafood",
+    "smoked",
+    "barramundi"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-korean-barramundi-bokkeum--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:52:57.398Z"
+}
