@@ -18976,5 +18976,30 @@
     "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "w"
+  },
+  {
+    "slug": "warmly-wilted-italian-chinese-broccoli-calamarata--keto",
+    "title": "Pan-Seared Calamarata with Broccoli",
+    "tags": [
+      "keto",
+      "low-carb",
+      "pasta"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-roasted-french-almond-skewers--japanese",
+    "title": "Japanese-Style Yaki-Iwai Skewers",
+    "tags": [
+      "grilling",
+      "japanese",
+      "skewers",
+      "chicken"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "w"
   }
 ]
