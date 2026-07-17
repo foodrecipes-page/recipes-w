@@ -1,0 +1,89 @@
+{
+  "slug": "wholesome-weeknight-indian-peanut-cookies-curry",
+  "title": "Indian-Style Peanut Chicken Curry",
+  "description": "A flavorful and aromatic Indian-inspired curry made with peanut sauce, chicken, and a blend of spices. Perfect for a weeknight dinner.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat or low-fat"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5-6 minutes.",
+    "Remove chicken from skillet and set aside.",
+    "In the same skillet, add onion and cook until softened, about 3-4 minutes.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Stir in curry powder and garam masala. Cook for 1 minute, until fragrant.",
+    "Add peanuts and cook for 1-2 minutes, until lightly toasted.",
+    "Stir in coconut milk and bring mixture to a simmer.",
+    "Return chicken to skillet and cook until cooked through, about 5-7 minutes.",
+    "Season with salt to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "peanut",
+    "chicken",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-weeknight-indian-peanut-cookies-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:49:11.631Z"
+}
