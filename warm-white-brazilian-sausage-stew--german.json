@@ -1,0 +1,90 @@
+{
+  "slug": "warm-white-brazilian-sausage-stew--german",
+  "title": "German-Style Sausage and White Bean Stew",
+  "description": "Hearty German-inspired stew made with smoked sausage and white beans.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked sausage",
+      "amount": "1 pound",
+      "notes": "look for a German-style sausage"
+    },
+    {
+      "name": "Canned white beans",
+      "amount": "1 (15 oz) can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "Warm beer",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Brown the sausage in a large pot over medium-high heat.",
+    "Remove the sausage from the pot and set aside.",
+    "Add the bacon to the pot and cook until crispy.",
+    "Remove the bacon from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until softened.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the tomato paste, white beans, and beer (if using) to the pot.",
+    "Stir to combine and bring to a boil.",
+    "Return the sausage and bacon to the pot and simmer for 20 minutes.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-white-brazilian-sausage-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:18:42.547Z"
+}
