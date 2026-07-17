@@ -1,0 +1,78 @@
+{
+  "slug": "whisked-saudia-sea-bass-crumble--vegetarian",
+  "title": "Bass and Saudia Crumble",
+  "description": "A vegetarian twist on a classic crumble dish, using saudia and bass. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bass fillets",
+      "amount": "2",
+      "notes": "wild-caught"
+    },
+    {
+      "name": "saudia",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "sea salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "crumble topping",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped, to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse the bass fillets and pat dry with a paper towel.",
+    "In a small bowl, mix together the saudia, sea salt, and lemon juice.",
+    "Place the bass fillets on a baking sheet lined with parchment paper and top each fillet with the saudia mixture.",
+    "Drizzle the olive oil over the top of each fillet.",
+    "Sprinkle the crumble topping evenly over the top of each fillet.",
+    "Bake for 20-25 minutes, or until the fish is cooked through and the topping is golden brown.",
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "seafood-free",
+    "vegetarian-crust"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whisked-saudia-sea-bass-crumble--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:49:56.048Z"
+}
