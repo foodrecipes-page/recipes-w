@@ -1,0 +1,85 @@
+{
+  "slug": "warm-dense-croatian-turkey-stew--chinese",
+  "title": "Croatian Turkey Stew",
+  "description": "A hearty, warming stew combining the flavors of Croatia with the spices of China. Perfect for a chilly evening.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground turkey",
+      "amount": "500g"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chinese five-spice powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add turkey, cook until browned.",
+    "Add carrots, potatoes, paprika, and five-spice powder. Stir to combine.",
+    "Add tomato paste, stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Bring to a boil, then reduce heat to low and simmer for 30 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "croatian",
+    "turkey",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 25,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-dense-croatian-turkey-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:03:48.021Z"
+}
