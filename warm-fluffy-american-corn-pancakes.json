@@ -1,0 +1,75 @@
+{
+  "slug": "warm-fluffy-american-corn-pancakes",
+  "title": "Classic American Pancakes",
+  "description": "A simple recipe for fluffy and delicious American-style pancakes.",
+  "cuisine": "American",
+  "diet": [
+    ""
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "1"
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Corn syrup",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, sugar, baking powder, and salt.",
+    "In a separate bowl, whisk together eggs, buttermilk, and melted butter.",
+    "Pour the wet ingredients into the dry ingredients and stir until just combined.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip and cook for another 1-2 minutes, until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "breakfast",
+    "pancakes",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-fluffy-american-corn-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:35:20.040Z"
+}
