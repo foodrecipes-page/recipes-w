@@ -1,0 +1,105 @@
+{
+  "slug": "warm-malaysian-beef-tagine--thai",
+  "title": "Thai Beef Tagine",
+  "description": "A fusion of Thai and North African flavors, this dish combines the warmth of tagine spices with the bold flavors of Thai cuisine.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (thinly sliced)",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in large pan over medium-high heat.",
+    "Add beef and cook until browned, about 3-4 minutes.",
+    "Remove beef from pan and set aside.",
+    "Add onion and garlic to pan and cook until softened, about 3-4 minutes.",
+    "Add cumin, coriander, cayenne pepper, salt, and black pepper to pan and cook for 1 minute.",
+    "Add fish sauce and brown sugar to pan and cook for 1 minute.",
+    "Return beef to pan and stir to coat with spice mixture.",
+    "Add lemon juice to pan and stir to combine.",
+    "Bring mixture to a simmer and cook for 10-15 minutes, or until beef is cooked to desired level of doneness.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "beef",
+    "tagine",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-malaysian-beef-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:58:37.750Z"
+}
