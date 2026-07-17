@@ -3902,17 +3902,15 @@
   },
   {
     "slug": "warm-gooey-syrian-flour-pilaf",
-    "title": "Syrian Flour Pilaf",
+    "title": "Syrian-Style Pilaf Cakes",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pan",
-      "sugar-free",
       "syrian",
-      "weeknight"
+      "pilaf",
+      "snack",
+      "warm"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "cuisine": "syrian",
+    "totalTimeMin": 20,
     "shard": "w"
   },
   {
