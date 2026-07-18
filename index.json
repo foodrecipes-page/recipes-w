@@ -19245,5 +19245,33 @@
     "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "w"
+  },
+  {
+    "slug": "weeknight-russian-pasta-bake--french",
+    "title": "Quick French Pasta Bake",
+    "tags": [
+      "french",
+      "weeknight",
+      "pasta",
+      "bake",
+      "comfort-food"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-dense-brazilian-coconut-stew--italian",
+    "title": "Coconut Stew Risotto",
+    "tags": [
+      "italian",
+      "coconut",
+      "risotto",
+      "brazilian",
+      "stew"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "w"
   }
 ]
