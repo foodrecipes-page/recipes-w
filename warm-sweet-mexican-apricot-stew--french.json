@@ -1,0 +1,82 @@
+{
+  "slug": "warm-sweet-mexican-apricot-stew--french",
+  "title": "French Apricot Stew",
+  "description": "A hearty and flavorful French-inspired stew made with tender apricots and a hint of warm spices.",
+  "cuisine": "french",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "apricots",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium, peeled and sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onions and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the carrots and cook for 5 minutes.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the apricots, vegetable broth, cinnamon, and nutmeg.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "stew",
+    "apricot",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-sweet-mexican-apricot-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:46:38.684Z"
+}
