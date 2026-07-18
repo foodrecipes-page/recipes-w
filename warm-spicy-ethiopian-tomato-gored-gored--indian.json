@@ -1,0 +1,89 @@
+{
+  "slug": "warm-spicy-ethiopian-tomato-gored-gored--indian",
+  "title": "Spicy Gored Ethiopian Chicken",
+  "description": "A flavorful Indian-inspired dish combining spicy gored with Ethiopian chicken. Serve with warm naan bread.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Gored",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Ethiopian berbere spice mix",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (optional)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add onion and cook until translucent, about 3 minutes.",
+    "Add garlic, berbere spice, and gored. Cook for 1 minute.",
+    "Add diced tomatoes and stir to combine.",
+    "Reduce heat to medium-low and simmer for 10 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "spicy",
+    "ethiopian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-ethiopian-tomato-gored-gored--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:10:11.191Z"
+}
