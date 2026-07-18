@@ -5195,17 +5195,17 @@
   },
   {
     "slug": "warm-molten-filipino-passata-halo-halo",
-    "title": "Warm Molten Filipino Passata Halo Halo",
+    "title": "Filipino Halo Halo",
     "tags": [
-      "diabetic-friendly",
-      "filipino-dessert",
-      "gluten-free",
-      "sous-vide",
-      "warm-dessert",
-      "weeknight"
+      "filipino",
+      "halo-halo",
+      "dessert",
+      "sweet",
+      "cold",
+      "fruit"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 50,
+    "totalTimeMin": 20,
     "shard": "w"
   },
   {
@@ -19197,6 +19197,33 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-italian-cassava-pesto--italian",
+    "title": "Pesto Cassava Fritters",
+    "tags": [
+      "italian",
+      "cassava",
+      "pesto",
+      "fritters",
+      "snack"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 32,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-spiced-american-knafeh-casserole--german",
+    "title": "Warmly Spiced German Knafeh Casserole",
+    "tags": [
+      "german",
+      "knafah",
+      "casserole",
+      "dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "w"
   }
 ]
