@@ -19080,5 +19080,18 @@
     "cuisine": "thai",
     "totalTimeMin": 18,
     "shard": "w"
+  },
+  {
+    "slug": "warmly-spiced-egyptian-lamb-tagine--keto",
+    "title": "Warmly Spiced Lamb Tagine",
+    "tags": [
+      "lamb",
+      "egyptian",
+      "keto",
+      "slow-cooked"
+    ],
+    "cuisine": "egyptian",
+    "totalTimeMin": 180,
+    "shard": "w"
   }
 ]
