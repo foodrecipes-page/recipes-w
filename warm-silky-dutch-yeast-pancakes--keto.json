@@ -1,0 +1,76 @@
+{
+  "slug": "warm-silky-dutch-yeast-pancakes--keto",
+  "title": "Keto Dutch Pancakes",
+  "description": "A low-carb take on traditional Dutch pancakes, made with almond flour and eggs.",
+  "cuisine": "Dutch",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar-free sweetener",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together almond flour, eggs, almond milk, melted butter, vanilla extract, sugar-free sweetener, and salt.",
+    "2. Add warm water and mix until smooth.",
+    "3. Heat a non-stick pan or griddle over medium heat.",
+    "4. Drop the batter by 1/4 cupfuls onto the pan.",
+    "5. Cook for 2-3 minutes, until the edges start to curl and the surface is dry.",
+    "6. Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "7. Serve warm with your favorite toppings, such as sugar-free syrup, fresh berries, or whipped cream.",
+    "8. Enjoy your delicious keto Dutch pancakes!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "breakfast",
+    "dutch",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-silky-dutch-yeast-pancakes--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:55:34.602Z"
+}
