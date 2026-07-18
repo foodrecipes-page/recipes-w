@@ -1,0 +1,90 @@
+{
+  "slug": "warmly-crumbly-peruvian-tofu-tiradito--keto",
+  "title": "Keto Peruvian Tofu Tiramisu",
+  "description": "A keto version of the classic Peruvian tiradito, served with a crispy tofu tiramisu for a unique twist on a traditional dish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Warmly-spiced tofu",
+      "amount": "400g",
+      "notes": "Crumble into small pieces"
+    },
+    {
+      "name": "Peruvian aji amarillo pepper",
+      "amount": "2",
+      "notes": "Diced"
+    },
+    {
+      "name": "Tiradito sauce",
+      "amount": "200ml",
+      "notes": null
+    },
+    {
+      "name": "Cilantro",
+      "amount": "2 tsp",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Keto-friendly chocolate",
+      "amount": "200g",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "100ml",
+      "notes": "Keto-friendly"
+    },
+    {
+      "name": "Granulated sweetener",
+      "amount": "20g",
+      "notes": "Keto-friendly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Line a baking sheet with parchment paper.",
+    "Arrange the tofu in a single layer on the prepared baking sheet.",
+    "Bake for 20 minutes, or until crispy and golden brown.",
+    "Allow the tofu to cool completely.",
+    "In a blender or food processor, combine the diced aji amarillo pepper, tiradito sauce, cilantro, and lime juice.",
+    "Blend until smooth.",
+    "In a separate bowl, whip the heavy cream until stiff peaks form.",
+    "Fold the whipped cream into the blended sauce until well combined.",
+    "Stir in the crushed keto-friendly chocolate and granulated sweetener.",
+    "To assemble the tiramisu, place a layer of the crispy tofu in a serving dish.",
+    "Top with a layer of the sauce mixture.",
+    "Repeat the layers one more time, ending with the sauce on top.",
+    "Refrigerate for at least 2 hours before serving.",
+    "Slice into individual servings and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "peruvian",
+    "tofu",
+    "tiramisu"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-crumbly-peruvian-tofu-tiradito--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:09:54.449Z"
+}
