@@ -1,0 +1,76 @@
+{
+  "slug": "whisked-greek-feta-crumble--thai",
+  "title": "Thai Feta Salad",
+  "description": "A refreshing Thai-inspired salad made with crumbled feta cheese and a tangy dressing.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "whisked"
+    },
+    {
+      "name": "Greek feta cheese",
+      "amount": "8 ounces",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped mint",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Thai red chili peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Combine yogurt, honey, fish sauce, and lime juice in a bowl.",
+    "Add crumbled feta cheese, chopped cilantro, and chopped mint to the bowl.",
+    "Stir well to combine.",
+    "Taste and adjust seasoning as needed.",
+    "Cover and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "Serve chilled.",
+    "Garnish with additional cilantro and mint if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "salad",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whisked-greek-feta-crumble--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:11:52.863Z"
+}
