@@ -1,0 +1,90 @@
+{
+  "slug": "warm-dense-brazilian-coconut-stew--italian",
+  "title": "Coconut Stew Risotto",
+  "description": "A creamy, Italian-inspired risotto infused with the exotic flavors of coconut and Brazilian spices.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brazilian chorizo",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Warm Arborio rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Dense vegetable broth",
+      "amount": "4 cups",
+      "notes": "warmed"
+    },
+    {
+      "name": "Stew tomatoes",
+      "amount": "2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the sliced chorizo and cook until browned, about 3 minutes.",
+    "Add the Arborio rice and cook for 1-2 minutes, until lightly toasted.",
+    "Add the warmed broth, 1 cup at a time, stirring constantly and allowing each cup to absorb before adding the next.",
+    "After 20 minutes of cooking, stir in the coconut milk and crushed tomatoes.",
+    "Continue cooking for an additional 10-15 minutes, or until the risotto is creamy and the liquid has been absorbed.",
+    "Stir in the chopped parsley and season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "coconut",
+    "risotto",
+    "brazilian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-dense-brazilian-coconut-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:39:03.042Z"
+}
