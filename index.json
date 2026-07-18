@@ -3825,17 +3825,15 @@
   },
   {
     "slug": "warm-gooey-italian-pork-pasta",
-    "title": "Warm Gooey Italian Pork Pasta",
+    "title": "Pork Pasta Bake",
     "tags": [
-      "high-protein",
-      "italian-food",
-      "one-pan",
-      "pasta-dishes",
-      "pork-recipes",
-      "weeknight"
+      "italian",
+      "pasta",
+      "pork",
+      "bake"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -19335,6 +19333,18 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-white-brazilian-sausage-stew--thai",
+    "title": "Thai Sausage and White Rice",
+    "tags": [
+      "thaifood",
+      "sausage",
+      "rice"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
     "shard": "w"
   }
 ]
