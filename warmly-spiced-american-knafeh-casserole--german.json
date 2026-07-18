@@ -1,0 +1,80 @@
+{
+  "slug": "warmly-spiced-american-knafeh-casserole--german",
+  "title": "Warmly Spiced German Knafeh Casserole",
+  "description": "A traditional German dessert with a twist, blending warmly spiced knafeh with the comfort of a casserole.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Warmly Spiced Knafeh",
+      "amount": "1 package (12 oz)",
+      "notes": ""
+    },
+    {
+      "name": "American Evaporated Milk",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 package (9x13 inch)",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground Ginger",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Combine evaporated milk, sugar, cinnamon, and ginger in a saucepan. Heat over low heat, stirring constantly.",
+    "Bring to a simmer and cook for 5 minutes.",
+    "Stir in flour to thicken.",
+    "Combine knafeh and casserole in a separate bowl.",
+    "Pour the milk mixture over the knafeh mixture and mix well.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Bake for 25-30 minutes or until top is golden brown.",
+    "Serve warm, garnished with powdered sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "knafah",
+    "casserole",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-american-knafeh-casserole--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:39:06.100Z"
+}
