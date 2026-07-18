@@ -1,0 +1,75 @@
+{
+  "slug": "warm-white-brazilian-sausage-stew--thai",
+  "title": "Thai Sausage and White Rice",
+  "description": "A spicy Thai-inspired dish featuring braised sausage and steamed white rice. Serve hot.",
+  "cuisine": "thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai sausage",
+      "amount": "1 pound",
+      "notes": "Slice into 1-inch pieces"
+    },
+    {
+      "name": "white rice",
+      "amount": "2 cups",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "brazilian stew",
+      "amount": "2 tablespoons",
+      "notes": "Use as a seasoning"
+    },
+    {
+      "name": "warm water",
+      "amount": "4 cups",
+      "notes": "For cooking rice"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add Thai sausage and cook until browned, about 5 minutes.",
+    "Add brazilian stew and cook for an additional 2 minutes.",
+    "Add salt and pepper to taste.",
+    "Serve hot over steamed white rice.",
+    "Garnish with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "sausage",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-white-brazilian-sausage-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:48:10.280Z"
+}
