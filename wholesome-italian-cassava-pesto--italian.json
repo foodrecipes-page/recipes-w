@@ -1,0 +1,80 @@
+{
+  "slug": "wholesome-italian-cassava-pesto--italian",
+  "title": "Pesto Cassava Fritters",
+  "description": "A classic Italian-inspired fritter recipe featuring cassava and pesto, perfect as a side or snack.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 large cassava",
+      "amount": "peeled and grated",
+      "notes": null
+    },
+    {
+      "name": "1/2 cup pesto",
+      "amount": "homemade or store-bought",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "1/4 cup wholesome all-purpose flour",
+      "amount": "sifted",
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "1 large egg",
+      "amount": "beaten",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup grated parmesan",
+      "amount": "freshly shredded",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated cassava, pesto, flour, salt, and pepper. Mix well.",
+    "Add the beaten egg and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Cover the dough and let it rest for 30 minutes.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Divide the dough into 8 equal pieces.",
+    "Shape each piece into a ball and flatten slightly into a disk shape.",
+    "Cook the fritters for 3-4 minutes on each side, until golden brown.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "cassava",
+    "pesto",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-italian-cassava-pesto--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:56:17.222Z"
+}
