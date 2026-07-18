@@ -1,0 +1,77 @@
+{
+  "slug": "warm-middle-eastern-cabbage-baba-ganoush--chinese",
+  "title": "Stir-Fried Cabbage with Baba Ganoush Sauce",
+  "description": "A fusion of Eastern and Chinese flavors, this dish combines the crunch of cabbage with the creaminess of baba ganoush sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "2 cups",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Baba Ganoush",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the shredded cabbage and cook until it starts to soften, about 3 minutes.",
+    "In a small bowl, whisk together gochujang, soy sauce, ginger, and garlic.",
+    "Pour the sauce over the cabbage and stir-fry for an additional 2 minutes.",
+    "Stir in the baba ganoush sauce and cook for 1 minute.",
+    "Transfer the cabbage mixture to a serving platter and garnish with chopped scallions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eastern-cuisine",
+    "chinese-fusion",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-middle-eastern-cabbage-baba-ganoush--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:30:36.912Z"
+}
