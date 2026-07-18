@@ -1,0 +1,89 @@
+{
+  "slug": "warm-mexican-corn-tlayuda--indian",
+  "title": "Tlayuda-Style Corn Fritters (Indian Twist)",
+  "description": "A crispy corn fritter with a hint of Mexican warmth and an Indian twist. Perfect as a snack or appetizer.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn kernels",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Warm flour",
+      "amount": "1 cup",
+      "notes": "All-purpose flour"
+    },
+    {
+      "name": "Mexican chili powder",
+      "amount": "1 tsp",
+      "notes": "Spicy"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": "Indian spice"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together corn kernels, flour, chili powder, onion, cumin powder, and salt.",
+    "Add the beaten egg and mix well.",
+    "Heat ghee or oil in a pan over medium heat.",
+    "Using a spoon, drop small portions of the corn mixture into the hot oil.",
+    "Fry until golden brown, about 2-3 minutes.",
+    "Flip and fry the other side until golden brown.",
+    "Drain on paper towels.",
+    "Serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-mexican-corn-tlayuda--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:32:41.490Z"
+}
