@@ -19297,5 +19297,31 @@
     "cuisine": "french",
     "totalTimeMin": 40,
     "shard": "w"
+  },
+  {
+    "slug": "warm-middle-eastern-cabbage-baba-ganoush--chinese",
+    "title": "Stir-Fried Cabbage with Baba Ganoush Sauce",
+    "tags": [
+      "eastern-cuisine",
+      "chinese-fusion",
+      "vegetarian-options"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-dense-brazilian-coconut-stew--keto",
+    "title": "Brazilian Coconut Stew",
+    "tags": [
+      "brazilian",
+      "stew",
+      "keto",
+      "coconut",
+      "beef"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 135,
+    "shard": "w"
   }
 ]
