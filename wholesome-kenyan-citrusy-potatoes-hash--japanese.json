@@ -1,0 +1,72 @@
+{
+  "slug": "wholesome-kenyan-citrusy-potatoes-hash--japanese",
+  "title": "Japanese Hash and Potato Teriyaki",
+  "description": "A unique fusion of Japanese flavors with a classic hash browns and potatoes dish. This teriyaki-infused recipe is a perfect blend of savory and sweet.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Hash browns",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Teriyaki sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, toss the diced potatoes with a pinch of salt and pepper until evenly coated.",
+    "Spread the potatoes on a baking sheet lined with parchment paper.",
+    "Roast the potatoes in the oven for 20-25 minutes or until golden brown.",
+    "While the potatoes are roasting, heat the sesame oil in a large non-stick pan over medium heat.",
+    "Add the hash browns to the pan and cook for 5-7 minutes or until crispy and golden brown.",
+    "In a small bowl, whisk together the teriyaki sauce and a tablespoon of water.",
+    "Pour the teriyaki sauce mixture over the hash browns and stir to combine.",
+    "Add the roasted potatoes to the pan and stir to combine with the teriyaki sauce.",
+    "Cook for an additional 2-3 minutes or until the potatoes are well coated with the sauce.",
+    "Garnish with chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "hash-browns",
+    "potatoes",
+    "japanese",
+    "teriyaki"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-kenyan-citrusy-potatoes-hash--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:41:20.668Z"
+}
