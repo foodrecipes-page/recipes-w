@@ -19323,5 +19323,18 @@
     "cuisine": "Brazilian",
     "totalTimeMin": 135,
     "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-ethiopian-tomato-gored-gored--indian",
+    "title": "Spicy Gored Ethiopian Chicken",
+    "tags": [
+      "indian",
+      "chicken",
+      "spicy",
+      "ethiopian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "w"
   }
 ]
