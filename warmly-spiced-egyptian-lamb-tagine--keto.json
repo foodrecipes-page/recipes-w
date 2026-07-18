@@ -1,0 +1,92 @@
+{
+  "slug": "warmly-spiced-egyptian-lamb-tagine--keto",
+  "title": "Warmly Spiced Lamb Tagine",
+  "description": "A hearty and flavorful slow-cooked lamb stew originating from Egypt, made with a blend of warming spices and a hint of sweetness.",
+  "cuisine": "egyptian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "warmly spiced egyptian spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in the bottom of a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the cumin, cinnamon, cayenne pepper, salt, and black pepper to the pot and stir to combine.",
+    "Add the warmly spiced egyptian spice blend and stir to combine.",
+    "Add 1 cup of water to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the oven.",
+    "Bake for 2 1/2 hours, or until the lamb is tender and falls apart easily.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "egyptian",
+    "keto",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 5,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-egyptian-lamb-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:41:07.546Z"
+}
