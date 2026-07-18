@@ -1,0 +1,63 @@
+{
+  "slug": "wholesome-egyp-tian-basil-flatbread",
+  "title": "Egyptian Flatbread with Basil and Wholesome Spread",
+  "description": "A simple and delicious flatbread recipe from Egypt, topped with fresh basil and a wholesome spread. This flatbread is perfect for a snack or light meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "egyptian flatbread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "wholesome spread (hummus)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "tian (or other soft cheese)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the flatbread into 4 equal pieces.",
+    "Spread 1 tablespoon of wholesome spread on each piece of flatbread.",
+    "Top each piece with a sprinkle of tian cheese and a few leaves of fresh basil.",
+    "Season with salt to taste.",
+    "Bake in the oven for 5-7 minutes, or until the cheese is melted and the flatbread is crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "egyptian",
+    "basil",
+    "wholesome spread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-egyp-tian-basil-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:16:37.380Z"
+}
