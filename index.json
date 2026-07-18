@@ -2187,19 +2187,16 @@
   },
   {
     "slug": "warm-crunchy-kenyan-almonds-wrap",
-    "title": "Warm Crunchy Kenyan Almonds Wrap",
+    "title": "Kenyan Crunchy Wrap",
     "tags": [
-      "breakfast",
-      "easy-to-make",
-      "gluten-free",
       "kenyan",
-      "kosher",
-      "snack",
-      "vegan",
-      "weeknight"
+      "crunchy",
+      "vegetarian",
+      "gluten-free",
+      "snack"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
@@ -8362,15 +8359,13 @@
   },
   {
     "slug": "warm-spicy-slovakian-pork-skillet",
-    "title": "Warm Spicy Slovakian Pork Skillet",
+    "title": "Spicy Slovakian Pork Skillet",
     "tags": [
-      "gluten-free",
-      "one-pot",
-      "pork",
-      "skillet",
+      "warm",
       "spicy",
-      "sugar-free",
-      "weeknight"
+      "slovakian",
+      "pork",
+      "skillet"
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 35,
@@ -19223,6 +19218,18 @@
       "dessert"
     ],
     "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "wicked-briny-croatian-cabbage-stew--french",
+    "title": "French Braised Cabbage Stew",
+    "tags": [
+      "french",
+      "cabbage",
+      "stew"
+    ],
+    "cuisine": "french",
     "totalTimeMin": 40,
     "shard": "w"
   }
