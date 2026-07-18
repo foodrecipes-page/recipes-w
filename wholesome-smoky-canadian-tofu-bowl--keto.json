@@ -1,0 +1,79 @@
+{
+  "slug": "wholesome-smoky-canadian-tofu-bowl--keto",
+  "title": "Smoky Keto Bowl",
+  "description": "A smoky, keto bowl filled with wholesome ingredients and a twist of Canadian spices. Enjoy this simple and delicious meal!",
+  "cuisine": "Canadian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Salmon",
+      "amount": "200g",
+      "notes": "Wild smoked salmon from Canada"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium",
+      "notes": "Rich in healthy fats"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "Low-carb and refreshing"
+    },
+    {
+      "name": "Bacon",
+      "amount": "100g",
+      "notes": "Smoky and savory"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "50g",
+      "notes": "Low-carb cheese option"
+    },
+    {
+      "name": "Tofu",
+      "amount": "100g",
+      "notes": "Marinated in smoky spices"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "100g",
+      "notes": "Fresh and crunchy"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper and place the tofu on it.",
+    "Bake the tofu for 20-25 minutes, or until golden brown.",
+    "In a pan, cook the bacon over medium heat until crispy.",
+    "Add the cheddar cheese to the pan and stir until melted.",
+    "In a separate pan, cook the smoked salmon over medium heat for 2-3 minutes on each side.",
+    "In a bowl, combine the mixed greens, cooked tofu, smoked salmon, bacon and cheese mixture.",
+    "Top with sliced avocado and cucumber.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "smoked-salmon",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "5g",
+    "fat": "45g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-smoky-canadian-tofu-bowl--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:17:14.590Z"
+}
