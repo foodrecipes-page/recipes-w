@@ -1,0 +1,68 @@
+{
+  "slug": "warm-wrapped-indian-serrano-ham-wrap--thai",
+  "title": "Thai Serrano Ham Wrap",
+  "description": "A fusion of Thai and Mexican flavors, this wrap combines spicy serrano ham with warm, crunchy vegetables.",
+  "cuisine": "thai",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "serrano ham",
+      "amount": "4 slices"
+    },
+    {
+      "name": "large flour wrap",
+      "amount": "1",
+      "notes": "warmed"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2"
+    },
+    {
+      "name": "carrot",
+      "amount": "1/2"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/2"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Warm the flour wrap by wrapping it in a damp paper towel and microwaving for 20 seconds.",
+    "Slice the cucumber, carrot, and bell pepper into thin strips.",
+    "Cut the serrano ham into thin strips.",
+    "Assemble the wrap by placing the ham, vegetables, and cilantro in the center of the wrap.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Cut the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "easy",
+    "thai-mexican",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wrapped-indian-serrano-ham-wrap--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:43:12.918Z"
+}
