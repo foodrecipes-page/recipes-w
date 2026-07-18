@@ -1,0 +1,85 @@
+{
+  "slug": "weeknight-russian-pasta-bake--french",
+  "title": "Quick French Pasta Bake",
+  "description": "A simple, satisfying French-inspired pasta bake perfect for a weeknight meal. This comforting dish combines the flavors of Russia with the ease of a French recipe.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne pasta",
+      "amount": "8 oz (225g)",
+      "notes": null
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 lb (450g)",
+      "notes": "Make sure to cook to 160°F (71°C) for food safety"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "8 oz (225g)",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup (250ml)",
+      "notes": null
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup (30g)",
+      "notes": null
+    },
+    {
+      "name": "Grated cheese",
+      "amount": "1 cup (115g)",
+      "notes": "Combed cheddar or mozzarella"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the penne pasta according to the package instructions until al dente. Drain and set aside.",
+    "In a large pan, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Drain excess fat.",
+    "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent.",
+    "Add the sliced mushrooms to the pan and cook until they release their moisture and start to brown.",
+    "Stir in the tomato sauce and bring to a simmer. Let cook for a few minutes until heated through.",
+    "In a large mixing bowl, combine the cooked pasta, meat sauce, and grated cheese.",
+    "Transfer the pasta mixture to a baking dish and top with additional grated cheese.",
+    "Sprinkle breadcrumbs over the top for a crunchy crust.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "weeknight",
+    "pasta",
+    "bake",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/weeknight-russian-pasta-bake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:30:19.875Z"
+}
