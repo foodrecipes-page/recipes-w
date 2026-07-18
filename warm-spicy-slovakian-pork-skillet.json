@@ -1,0 +1,85 @@
+{
+  "slug": "warm-spicy-slovakian-pork-skillet",
+  "title": "Spicy Slovakian Pork Skillet",
+  "description": "A hearty and flavorful Slovakian dish made with pork, peppers, and spices, all cooked to perfection in a skillet.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons",
+      "notes": "spicy"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the pork cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened, about 3 minutes.",
+    "Add the chopped red bell pepper and cook for an additional 2 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the pork back into the skillet, along with the paprika, salt, and black pepper.",
+    "Stir to combine and cook for an additional 2-3 minutes, until the pork is cooked through.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "warm",
+    "spicy",
+    "slovakian",
+    "pork",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-slovakian-pork-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:39:56.132Z"
+}
