@@ -1,0 +1,87 @@
+{
+  "slug": "wholesome-chewy-slovakian-pistachio-pastry",
+  "title": "Pistachio Pastry Delight",
+  "description": "A delightful dessert combining the crunch of pistachios with the flakiness of homemade pastry.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "wholesome all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "pistachio meal",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "slovakian pastry dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "chewy pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of 1/8 inch.",
+    "In a separate bowl, whisk together pistachio meal, granulated sugar, and salt.",
+    "Add cold unsalted butter and mix until crumbly.",
+    "In a separate bowl, whisk together eggs.",
+    "Add the egg mixture to the pistachio mixture and mix until a dough forms.",
+    "Roll out the dough to a thickness of 1/8 inch.",
+    "Place the dough on a baking sheet lined with parchment paper.",
+    "Spread the pistachio mixture evenly over the dough.",
+    "Sprinkle the chopped pistachios over the top.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Allow to cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "pistachio",
+    "pastry",
+    "slovakian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-chewy-slovakian-pistachio-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:18:38.583Z"
+}
