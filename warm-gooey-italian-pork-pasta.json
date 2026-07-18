@@ -1,0 +1,90 @@
+{
+  "slug": "warm-gooey-italian-pork-pasta",
+  "title": "Pork Pasta Bake",
+  "description": "A comforting Italian-style pasta bake loaded with tender pork and gooey cheese.",
+  "cuisine": "Italian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "such as penne or rigatoni"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tablespoon",
+      "notes": "dried oregano, basil, and thyme"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat olive oil over medium-high heat. Add pork and cook until browned, about 5 minutes.",
+    "Add garlic, onion, and Italian seasoning to the skillet. Cook until onion is translucent.",
+    "Stir in cherry tomatoes and cook for 2-3 minutes.",
+    "In a large bowl, combine cooked pasta, pork mixture, and parmesan cheese.",
+    "Transfer the pasta mixture to a 9x13-inch baking dish.",
+    "Top with mozzarella cheese.",
+    "Bake for 20-25 minutes, or until cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "pork",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-gooey-italian-pork-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:19:41.599Z"
+}
