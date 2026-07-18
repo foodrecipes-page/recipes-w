@@ -19232,5 +19232,18 @@
     "cuisine": "french",
     "totalTimeMin": 40,
     "shard": "w"
+  },
+  {
+    "slug": "warm-mexican-corn-tlayuda--indian",
+    "title": "Tlayuda-Style Corn Fritters (Indian Twist)",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "snack",
+      "appetizer"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "w"
   }
 ]
