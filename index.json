@@ -12949,19 +12949,15 @@
   },
   {
     "slug": "wholesome-chewy-slovakian-pistachio-pastry",
-    "title": "wholesome chewy Slovakian pistachio pastry",
+    "title": "Pistachio Pastry Delight",
     "tags": [
-      "breakfast-option",
-      "dairy-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "pastries",
+      "pistachio",
+      "pastry",
       "slovakian",
-      "weeknight"
+      "dessert"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -19271,6 +19267,20 @@
       "stew"
     ],
     "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "weeknight-russian-pasta-bake--keto",
+    "title": "Keto Russian Weeknight Pasta Bake",
+    "tags": [
+      "keto",
+      "weeknight",
+      "russian",
+      "pasta",
+      "bake"
+    ],
+    "cuisine": "russian",
     "totalTimeMin": 45,
     "shard": "w"
   }
