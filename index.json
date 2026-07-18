@@ -11430,16 +11430,14 @@
   },
   {
     "slug": "warmly-spiced-jamaican-mung-bean-sprouts-curry",
-    "title": "Warmly Spiced Jamaican Mung Bean Sprouts Curry",
+    "title": "Spiced Jamaican Mung Bean Curry",
     "tags": [
-      "gluten-free",
-      "jamaican-cuisine",
-      "low-calorie",
-      "meal-prep",
-      "one-pot",
-      "vegan-friendly"
+      "caribbean",
+      "curry",
+      "mung-beans",
+      "vegetarian"
     ],
-    "cuisine": "Jamaican",
+    "cuisine": "Caribbean",
     "totalTimeMin": 40,
     "shard": "w"
   },
@@ -13876,18 +13874,14 @@
   },
   {
     "slug": "wholesome-kenyan-citrusy-potatoes-hash",
-    "title": "wholesome kenyan citrusy-potatoes hash",
+    "title": "Kenyan Hash Browns with Wholesome Twist",
     "tags": [
-      "breakfast",
-      "brunch",
-      "high-protein",
-      "kenyan",
-      "one-pan",
-      "potatoes",
-      "weeknight"
+      "hash-browns",
+      "kenyan-cuisine",
+      "wholesome"
     ],
-    "cuisine": "kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "Kenyan",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
