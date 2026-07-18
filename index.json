@@ -19093,5 +19093,57 @@
     "cuisine": "egyptian",
     "totalTimeMin": 180,
     "shard": "w"
+  },
+  {
+    "slug": "warmly-crumbly-peruvian-tofu-tiradito--keto",
+    "title": "Keto Peruvian Tofu Tiramisu",
+    "tags": [
+      "keto",
+      "peruvian",
+      "tofu",
+      "tiramisu"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
+    "slug": "whisked-greek-feta-crumble--thai",
+    "title": "Thai Feta Salad",
+    "tags": [
+      "thai",
+      "salad",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-velvety-japanese-blanched-noodles-ramen--japanese",
+    "title": "Japanese Ramen Noodles",
+    "tags": [
+      "japanese-cuisine",
+      "noodle-soup",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-kenyan-citrusy-potatoes-hash--japanese",
+    "title": "Japanese Hash and Potato Teriyaki",
+    "tags": [
+      "breakfast",
+      "hash-browns",
+      "potatoes",
+      "japanese",
+      "teriyaki"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "w"
   }
 ]
