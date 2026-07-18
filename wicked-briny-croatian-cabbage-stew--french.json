@@ -1,0 +1,65 @@
+{
+  "slug": "wicked-briny-croatian-cabbage-stew--french",
+  "title": "French Braised Cabbage Stew",
+  "description": "A hearty French-inspired stew made with tender cabbage and a rich, flavorful broth.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "croatian",
+      "amount": "1 tsp caraway seeds",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups beef broth",
+      "notes": ""
+    },
+    {
+      "name": "briny",
+      "amount": "1 tsp salt",
+      "notes": ""
+    },
+    {
+      "name": "wicked",
+      "amount": "2 tbsp butter",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Melt 1 tablespoon butter in a large Dutch oven over medium-high heat. Add the cabbage and cook until browned, about 5 minutes.",
+    "Add the caraway seeds and cook for 1 minute.",
+    "Add the beef broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the cabbage is tender, about 20 minutes.",
+    "Stir in the remaining 1 tablespoon butter and season with salt.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "cabbage",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wicked-briny-croatian-cabbage-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:01:11.494Z"
+}
