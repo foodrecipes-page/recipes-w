@@ -1,0 +1,81 @@
+{
+  "slug": "warmly-spiced-jamaican-mung-bean-sprouts-curry",
+  "title": "Spiced Jamaican Mung Bean Curry",
+  "description": "A hearty, flavorful curry made with mung beans, spiced with Jamaican seasonings and warmed with a hint of curry.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mung beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Warmly spiced oil",
+      "amount": "2 tablespoons",
+      "notes": "use a mix of cumin, coriander, and cayenne pepper"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Curry",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Mung bean sprouts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the warmly spiced oil in a large saucepan over medium heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the Jamaican curry powder and cook for 1-2 minutes, until fragrant.",
+    "Add the mung beans and cook for 1-2 minutes, until coated in the spice mixture.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the mung beans are tender.",
+    "Stir in the curry and cook for an additional 2-3 minutes.",
+    "Add the mung bean sprouts and cook until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "curry",
+    "mung-beans",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-jamaican-mung-bean-sprouts-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:28:59.999Z"
+}
