@@ -1,0 +1,94 @@
+{
+  "slug": "warm-crunchy-kenyan-almonds-wrap",
+  "title": "Kenyan Crunchy Wrap",
+  "description": "A crunchy and flavorful Kenyan-inspired wrap filled with spiced almonds and warm vegetables.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "large flour wrap",
+      "amount": "1",
+      "notes": "gluten-free wrap"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "chopped and toasted"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "green chilies",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "crunchy peanut butter",
+      "amount": "2 tbsp",
+      "notes": "or crunchy tahini"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tsp",
+      "notes": "for brushing wrap"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Brush the wrap with coconut oil and place it in the pan for 1-2 minutes on each side, until it's warm and slightly puffed.",
+    "In a bowl, mix together the almonds, carrots, cucumber, cherry tomatoes, red onion, and green chilies.",
+    "Spread the crunchy peanut butter on the warmed wrap, leaving a 1-inch border around the edges.",
+    "Add the vegetable and almond mixture on top of the peanut butter, spreading it evenly.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Cut the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "crunchy",
+    "vegetarian",
+    "gluten-free",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crunchy-kenyan-almonds-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:51:56.331Z"
+}
