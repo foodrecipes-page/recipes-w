@@ -19145,5 +19145,19 @@
     "cuisine": "japanese",
     "totalTimeMin": 40,
     "shard": "w"
+  },
+  {
+    "slug": "warm-wrapped-indian-serrano-ham-wrap--thai",
+    "title": "Thai Serrano Ham Wrap",
+    "tags": [
+      "quick",
+      "easy",
+      "thai-mexican",
+      "vegan",
+      "gluten-free"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 5,
+    "shard": "w"
   }
 ]
