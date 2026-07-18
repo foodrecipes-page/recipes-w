@@ -19283,5 +19283,19 @@
     "cuisine": "russian",
     "totalTimeMin": 45,
     "shard": "w"
+  },
+  {
+    "slug": "warm-sweet-mexican-apricot-stew--french",
+    "title": "French Apricot Stew",
+    "tags": [
+      "french",
+      "stew",
+      "apricot",
+      "vegan",
+      "gluten-free"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "w"
   }
 ]
