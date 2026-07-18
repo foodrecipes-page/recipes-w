@@ -1,0 +1,81 @@
+{
+  "slug": "warm-velvety-japanese-blanched-noodles-ramen--japanese",
+  "title": "Japanese Ramen Noodles",
+  "description": "A traditional Japanese noodle soup dish made with warm, velvety ramen noodles and savory blanched vegetables.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ramen noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Blanched vegetables",
+      "amount": "1 cup",
+      "notes": "such as bok choy or green onions"
+    },
+    {
+      "name": "Japanese miso paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Warm water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring 4 cups of warm water to a boil.",
+    "Add 2 tbsp of Japanese miso paste and whisk until dissolved.",
+    "Add 2 tbsp of soy sauce and whisk until combined.",
+    "Add 1 tsp of sesame oil and stir to combine.",
+    "Add sliced ginger and blanched vegetables to the pot.",
+    "Cook for 3-5 minutes or until the vegetables are tender.",
+    "Add 8 oz of ramen noodles to the pot and cook for an additional 2-3 minutes.",
+    "Remove from heat and stir in chopped scallions.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese-cuisine",
+    "noodle-soup",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 55,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-velvety-japanese-blanched-noodles-ramen--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:31:50.622Z"
+}
