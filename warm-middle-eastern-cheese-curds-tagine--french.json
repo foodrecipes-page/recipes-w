@@ -1,0 +1,82 @@
+{
+  "slug": "warm-middle-eastern-cheese-curds-tagine--french",
+  "title": "Warm Middle Eastern Cheese Tartine",
+  "description": "A flavorful and savory tartine featuring a warm cheese spread, topped with crispy elements and fresh herbs.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Middle Eastern Cheese",
+      "amount": "8 oz",
+      "notes": "Softened to room temperature"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Warm Pita Bread",
+      "amount": "1 loaf",
+      "notes": "Sliced into 1-inch thick rounds"
+    },
+    {
+      "name": "Tagine Spices",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crumbly Feta Cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a medium bowl, mix together the softened Middle Eastern cheese and minced garlic.",
+    "3. Brush the sliced pita bread with olive oil and sprinkle with tagine spices.",
+    "4. Bake the pita bread in the oven for 5-7 minutes or until crispy.",
+    "5. In a small saucepan, warm the crumbly feta cheese over low heat.",
+    "6. Spread the warm cheese mixture onto the toasted pita bread.",
+    "7. Top with chopped cilantro and a sprinkle of tagine spices.",
+    "8. Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "middle-eastern",
+    "cheese",
+    "breakfast",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-middle-eastern-cheese-curds-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:19:10.824Z"
+}
