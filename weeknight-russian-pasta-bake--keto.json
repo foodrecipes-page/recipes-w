@@ -1,0 +1,92 @@
+{
+  "slug": "weeknight-russian-pasta-bake--keto",
+  "title": "Keto Russian Weeknight Pasta Bake",
+  "description": "A quick and easy keto pasta bake recipe that's perfect for a weeknight dinner. This Russian-inspired dish combines ground beef, pasta, and cheese for a satisfying and flavorful meal.",
+  "cuisine": "russian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "zucchini noodles",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "keto pasta sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook zucchini noodles according to package instructions. Set aside.",
+    "In a large skillet, cook ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add keto pasta sauce to the skillet and stir to combine. Bring to a simmer and let cook for 2-3 minutes.",
+    "Stir in ricotta cheese and let cook for an additional 2 minutes.",
+    "In a large bowl, combine cooked zucchini noodles, meat sauce, and shredded mozzarella cheese. Mix well to combine.",
+    "In a greased 9x13-inch baking dish, arrange half of the zucchini noodle mixture in the bottom of the dish.",
+    "In a separate bowl, beat eggs and mix in parmesan cheese, dried oregano, salt, and black pepper.",
+    "Pour the egg mixture over the zucchini noodle mixture in the baking dish.",
+    "Top with the remaining zucchini noodle mixture and sprinkle with additional mozzarella cheese if desired.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the casserole is hot and bubbly.",
+    "Remove from oven and let cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "weeknight",
+    "russian",
+    "pasta",
+    "bake"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/weeknight-russian-pasta-bake--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:59:07.845Z"
+}
