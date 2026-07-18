@@ -1,0 +1,82 @@
+{
+  "slug": "warm-molten-filipino-passata-halo-halo",
+  "title": "Filipino Halo Halo",
+  "description": "A Filipino dessert made with shaved ice and various sweetened beans, fruits, and milk. This version adds a creative twist with warm, molten, and passata.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "dairy",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Shaved ice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sweetened red bean",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sweetened green bean",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Young coconut meat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pinipig (pounded rice)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Warm milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Molten chocolate",
+      "amount": "4 ounces"
+    },
+    {
+      "name": "Passata",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Halo halo toppings (various fruits and nuts)",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "In a tall glass, add the shaved ice.",
+    "Top the ice with the sweetened red and green beans, young coconut meat, and pinipig.",
+    "Pour the warm milk over the top of the dessert.",
+    "Melt the molten chocolate in a double boiler and drizzle over the top of the dessert.",
+    "Pour the passata over the dessert, creating a layered effect.",
+    "Garnish with halo halo toppings, such as beans, fruits, and nuts.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "halo-halo",
+    "dessert",
+    "sweet",
+    "cold",
+    "fruit"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-molten-filipino-passata-halo-halo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:01:46.632Z"
+}
