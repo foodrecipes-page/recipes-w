@@ -19488,5 +19488,30 @@
     "cuisine": "North African",
     "totalTimeMin": 170,
     "shard": "w"
+  },
+  {
+    "slug": "warmly-spiced-syrian-lamb-roast--indian",
+    "title": "Warmly Spiced Indian-Style Roast Lamb",
+    "tags": [
+      "indian",
+      "lamb",
+      "roast",
+      "spiced"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 180,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-american-chicken-stew--german",
+    "title": "Savory German Chicken Stew",
+    "tags": [
+      "german-cuisine",
+      "comfort-food",
+      "chicken-stew"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "w"
   }
 ]
