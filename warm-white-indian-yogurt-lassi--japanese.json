@@ -1,0 +1,75 @@
+{
+  "slug": "warm-white-indian-yogurt-lassi--japanese",
+  "title": "Japanese Lassi Pancakes",
+  "description": "A twist on traditional pancakes, Japanese Lassi Pancakes incorporate the flavors of Japanese cuisine with the creaminess of Indian yogurt.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "white flour",
+      "amount": "1 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "indian yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lassi",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together warm water, flour, and sugar.",
+    "In a separate bowl, whisk together yogurt, lassi, eggs, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Do not overmix.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the pan.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface.",
+    "Flip and cook for an additional 1-2 minutes.",
+    "Serve warm with your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pancakes",
+    "japanese",
+    "indian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-white-indian-yogurt-lassi--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:15:50.589Z"
+}
