@@ -19346,5 +19346,18 @@
     "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "w"
+  },
+  {
+    "slug": "warm-roasted-algerian-butternut-squash-tagine--indian",
+    "title": "Squash Tagine",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "stew",
+      "squares"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "w"
   }
 ]
