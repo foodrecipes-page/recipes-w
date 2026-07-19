@@ -7957,16 +7957,14 @@
   },
   {
     "slug": "warm-spicy-jamaican-chinese-leaf-stew",
-    "title": "Warm Spicy Jamaican Chinese Leaf Stew",
+    "title": "Spicy Jamaican Stew",
     "tags": [
-      "clay-pot-cooking",
-      "jamaican-cuisine",
-      "macrobiotic-friendly",
-      "one-pot",
-      "spicy-food",
-      "vegetarian-option"
+      "spicy",
+      "jamaican",
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "Jamaican Chinese",
+    "cuisine": "jamaican",
     "totalTimeMin": 40,
     "shard": "w"
   },
@@ -19512,6 +19510,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "whole-spice-smoked-tunisian-lamb-tagine--indian",
+    "title": "Tunisian Lamb Tagine",
+    "tags": [
+      "lamb",
+      "tagine",
+      "indian",
+      "slow-cooker"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 110,
     "shard": "w"
   }
 ]
