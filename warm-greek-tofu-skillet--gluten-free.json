@@ -1,0 +1,86 @@
+{
+  "slug": "warm-greek-tofu-skillet--gluten-free",
+  "title": "Greek Skillet Tofu",
+  "description": "A gluten-free, flavorful dish made with crispy tofu, served with a side of warm, tangy sauce.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block",
+      "notes": "Drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Skillet oil",
+      "amount": "2 tablespoons",
+      "notes": "Vegetable or olive oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, whisk together yogurt, lemon juice, garlic, salt, and black pepper.",
+    "2. Add the tofu cubes to the marinade and toss to coat.",
+    "3. Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "4. Remove the tofu from the marinade, letting any excess liquid drip off.",
+    "5. Add the tofu to the skillet and cook until golden brown on all sides, about 5 minutes.",
+    "6. Transfer the tofu to a plate and set aside.",
+    "7. In the same skillet, add the remaining 1 tablespoon of oil.",
+    "8. Add any remaining marinade to the skillet and cook, stirring constantly, for 1-2 minutes.",
+    "9. Return the tofu to the skillet and stir to coat with the warm sauce.",
+    "10. Serve the tofu hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "vegan",
+    "tofu",
+    "skillet",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-greek-tofu-skillet--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:27:45.508Z"
+}
