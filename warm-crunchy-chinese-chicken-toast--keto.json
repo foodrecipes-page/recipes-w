@@ -1,0 +1,70 @@
+{
+  "slug": "warm-crunchy-chinese-chicken-toast--keto",
+  "title": "Keto Chicken Crunch Toast",
+  "description": "A crispy and savory keto snack made with chicken and crunchy toast.",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "crunchy toast",
+      "amount": "4 slices",
+      "notes": "preferably gluten-free"
+    },
+    {
+      "name": "warm oil",
+      "amount": "2 tablespoons",
+      "notes": "such as avocado oil"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "or tamari for keto"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the chicken breast into small pieces and season with salt and garlic powder.",
+    "Heat the warm oil in a pan over medium-high heat.",
+    "Add the chicken to the pan and cook until browned, then finish in the oven for 10 minutes.",
+    "Meanwhile, toast the crunchy toast slices until crispy.",
+    "In a small bowl, whisk together soy sauce and a pinch of salt.",
+    "Once the chicken is cooked, toss with the soy sauce mixture and serve on top of the toasted crunchy toast."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "snack",
+    "chinese",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crunchy-chinese-chicken-toast--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:23:21.687Z"
+}
