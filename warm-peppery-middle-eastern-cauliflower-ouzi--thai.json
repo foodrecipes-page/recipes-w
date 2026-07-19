@@ -1,0 +1,65 @@
+{
+  "slug": "warm-peppery-middle-eastern-cauliflower-ouzi--thai",
+  "title": "Thai Cauliflower Stir Fry Ouzi",
+  "description": "A flavorful and spicy Thai-inspired cauliflower dish made with ouzi and served as a lunch option. Ouzi adds a unique, warm, and aromatic flavor.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "amount": "1 head"
+    },
+    {
+      "name": "Ouzi",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Warm Peppery Spice Mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Middle Eastern Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of olive oil in a pan over medium-high heat.",
+    "2. Add the chopped cauliflower and cook until tender, about 5 minutes.",
+    "3. Add the ouzi and warm peppery spice mix. Cook for an additional 1-2 minutes.",
+    "4. Season with salt to taste.",
+    "5. Garnish with chopped cilantro (if using).",
+    "6. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "cauliflower",
+    "stir-fry",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-peppery-middle-eastern-cauliflower-ouzi--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:43:06.140Z"
+}
