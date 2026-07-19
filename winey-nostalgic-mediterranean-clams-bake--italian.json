@@ -1,0 +1,81 @@
+{
+  "slug": "winey-nostalgic-mediterranean-clams-bake--italian",
+  "title": "Italian Clams Bake",
+  "description": "A classic Italian dish featuring fresh clams, garlic, and herbs, all baked to perfection. This recipe serves 4 and is perfect for a cozy dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "clams",
+      "amount": "1 pound"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the clams and remove any broken shells or debris.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the clams and cook for 2-3 minutes until they start to open.",
+    "Transfer the clams to a baking dish.",
+    "Add the white wine, parsley, basil, salt, and pepper to the baking dish.",
+    "Top the clams with the grated Parmesan cheese.",
+    "Cover the baking dish with aluminum foil and bake for 10-12 minutes.",
+    "Remove the foil and continue baking for an additional 2-3 minutes until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "seafood",
+    "clams",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-nostalgic-mediterranean-clams-bake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:57:42.068Z"
+}
