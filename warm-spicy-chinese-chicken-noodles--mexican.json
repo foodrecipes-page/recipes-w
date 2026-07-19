@@ -1,0 +1,100 @@
+{
+  "slug": "warm-spicy-chinese-chicken-noodles--mexican",
+  "title": "Spicy Chicken Noodle Soup",
+  "description": "A warm and comforting mexican-inspired soup with spicy kick. Perfect for a chilly day.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, boneless and skinless",
+      "notes": null
+    },
+    {
+      "name": "chinese noodles",
+      "amount": "8 ounces",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, garlic, and chili peppers. Cook until onion is translucent.",
+    "Add cumin, paprika, salt, and pepper. Stir for 1 minute.",
+    "Add chicken and cook until browned.",
+    "Add chicken broth and water. Bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Add noodles and cook until tender.",
+    "Serve hot and enjoy!",
+    "Optional: Add warm spices, such as cayenne pepper or red pepper flakes, to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "soup",
+    "chicken",
+    "noodles",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-chinese-chicken-noodles--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:34:38.702Z"
+}
