@@ -1,0 +1,84 @@
+{
+  "slug": "warm-spicy-polish-beet-pasta",
+  "title": "Warm Polish Beet Pasta",
+  "description": "A hearty and comforting pasta dish infused with beet and warm polish flavors.",
+  "cuisine": "polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "penne or fusilli work well"
+    },
+    {
+      "name": "beets",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting beets"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1/2 cup",
+      "notes": "optional, for added protein"
+    },
+    {
+      "name": "warm spice blend",
+      "amount": "1 tsp",
+      "notes": "such as paprika and caraway seeds"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss beets with olive oil, salt, and pepper on a baking sheet. Roast for 20-25 minutes, or until tender.",
+    "Cook pasta according to package instructions until al dente.",
+    "In a large skillet, sauté garlic and polish sausage (if using) over medium heat until the sausage is browned.",
+    "Add roasted beets to the skillet and stir to combine.",
+    "Add warm spice blend and stir to combine.",
+    "Combine cooked pasta and beet mixture in the skillet. Toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley or dill (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beet",
+    "polish",
+    "pasta",
+    "warm",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-polish-beet-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:03:16.669Z"
+}
