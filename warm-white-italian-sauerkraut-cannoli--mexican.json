@@ -1,0 +1,99 @@
+{
+  "slug": "warm-white-italian-sauerkraut-cannoli--mexican",
+  "title": "Cannoli-Shell Tacos",
+  "description": "A twist on traditional tacos, featuring crispy cannoli shells filled with seasoned ground beef and topped with warm, white, Italian, and sauerkraut flavors.",
+  "cuisine": "mexican",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "cannoli shells",
+      "amount": "6-8 shells",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "warm white sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "shredded, drained"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook ground beef in a large skillet over medium-high heat until browned, breaking into small pieces as it cooks.",
+    "Add onion, garlic, cumin, chili powder, salt, and pepper to the skillet. Cook until onion is translucent.",
+    "Warm white sauce in a microwave-safe bowl for 30-45 seconds.",
+    "Fill cannoli shells with the beef mixture and place on a baking sheet.",
+    "Bake in the preheated oven for 5-7 minutes, or until shells are crispy.",
+    "Place a cannoli shell on each plate and spoon warm white sauce over the top.",
+    "Sprinkle with sauerkraut and italian seasoning.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "cannoli",
+    "ground-beef"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-white-italian-sauerkraut-cannoli--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:46:24.972Z"
+}
