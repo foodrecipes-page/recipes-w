@@ -5609,16 +5609,12 @@
   },
   {
     "slug": "warm-pillowy-indian-ground-cardomom-layered-paratha",
-    "title": "Warm pillowy Indian ground cardomom Layered Paratha",
+    "title": "Buttery Cardamom Layered Paratha",
     "tags": [
-      "breakfast",
-      "easy",
       "indian",
-      "lunch",
-      "one-pan",
-      "plant-based",
-      "snack",
-      "weeknight"
+      "flatbread",
+      "breakfast",
+      "snack"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 30,
@@ -19463,6 +19459,34 @@
     ],
     "cuisine": "argentinian",
     "totalTimeMin": 20,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-chinese-chicken-noodles--mexican",
+    "title": "Spicy Chicken Noodle Soup",
+    "tags": [
+      "mexican",
+      "soup",
+      "chicken",
+      "noodles",
+      "spicy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-lazy-sunday-lamb-tagine--gluten-free",
+    "title": "Classic Moroccan Lamb Tagine",
+    "tags": [
+      "moroccan",
+      "lamb",
+      "tagine",
+      "slow-cooker",
+      "gluten-free"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "w"
   }
 ]
