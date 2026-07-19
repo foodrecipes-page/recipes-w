@@ -1,0 +1,76 @@
+{
+  "slug": "wholesome-french-rice-pilaf--gluten-free",
+  "title": "Wholesome French Rice Pilaf",
+  "description": "A flavorful and gluten-free pilaf made with wholesome ingredients. This dish is perfect for a quick weeknight dinner.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wholesome Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "French Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add the French onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the wholesome rice and pilaf, stirring to combine.",
+    "Cook for 1-2 minutes, or until the rice is lightly toasted.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 18-20 minutes, or until the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and season with salt and black pepper.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "french",
+    "pilaf",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-french-rice-pilaf--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:25:46.077Z"
+}
