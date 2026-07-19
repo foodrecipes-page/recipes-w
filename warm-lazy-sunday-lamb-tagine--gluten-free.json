@@ -1,0 +1,116 @@
+{
+  "slug": "warm-lazy-sunday-lamb-tagine--gluten-free",
+  "title": "Classic Moroccan Lamb Tagine",
+  "description": "A traditional North African stew made with tender lamb, aromatic spices, and dried fruits. Perfect for a warm and cozy Sunday evening.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "Bone-in for added flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Dried prunes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay pot or Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for another minute.",
+    "Add the lamb and cook until browned on all sides, about 5-7 minutes.",
+    "Add the cumin, cinnamon, paprika, salt, and black pepper. Stir to combine.",
+    "Add the dried apricots and prunes, stirring to combine.",
+    "Add the chicken broth and water, stirring to combine.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 to 3 hours, or until the lamb is tender and the sauce has thickened.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "tagine",
+    "slow-cooker",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-lazy-sunday-lamb-tagine--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:37:52.721Z"
+}
