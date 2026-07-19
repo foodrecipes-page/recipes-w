@@ -19535,5 +19535,55 @@
     "cuisine": "french",
     "totalTimeMin": 22,
     "shard": "w"
+  },
+  {
+    "slug": "worcester-worry-free-stew--thai",
+    "title": "Thai Beef Stew",
+    "tags": [
+      "beef",
+      "thai",
+      "stew"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 105,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-white-italian-sauerkraut-cannoli--mexican",
+    "title": "Cannoli-Shell Tacos",
+    "tags": [
+      "mexican",
+      "tacos",
+      "cannoli",
+      "ground-beef"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-creamy-saudi-arabian-seafood-skillet--thai",
+    "title": "Seafood Skillet Thai Curry",
+    "tags": [
+      "thai",
+      "curry",
+      "seafood"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-russian-chickpeas-salad--thai",
+    "title": "Spicy Thai Chickpea Salad",
+    "tags": [
+      "thai",
+      "salad",
+      "vegan",
+      "chickpea"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "w"
   }
 ]
