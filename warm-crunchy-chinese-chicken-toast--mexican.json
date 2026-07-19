@@ -1,0 +1,76 @@
+{
+  "slug": "warm-crunchy-chinese-chicken-toast--mexican",
+  "title": "Mexican Chicken Toast",
+  "description": "A crunchy and savory Mexican-inspired dish featuring toasted bread topped with chicken, crunchy elements, and a hint of warmth.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cooked and shredded"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "crunchy tortilla strips",
+      "amount": "1/4 cup",
+      "notes": "fried until crispy"
+    },
+    {
+      "name": "warm salsa",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium heat.",
+    "2. Cook the chicken breast until it reaches an internal temperature of 165°F (74°C). Let it rest and then shred it.",
+    "3. Toast the bread until it's lightly browned.",
+    "4. Fry the tortilla strips in a pan until they're crispy.",
+    "5. In the same pan, add the warm salsa and let it simmer for a few minutes.",
+    "6. Assemble the toast by spreading the salsa on the toasted bread, followed by the shredded chicken, crispy tortilla strips, and shredded cheese (if using).",
+    "7. Sprinkle with cumin and salt and pepper to taste.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "snack",
+    "chicken",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crunchy-chinese-chicken-toast--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:26:47.403Z"
+}
