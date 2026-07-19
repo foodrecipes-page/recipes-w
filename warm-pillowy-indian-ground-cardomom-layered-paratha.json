@@ -1,0 +1,77 @@
+{
+  "slug": "warm-pillowy-indian-ground-cardomom-layered-paratha",
+  "title": "Buttery Cardamom Layered Paratha",
+  "description": "A layered flatbread infused with the warmth of cardamom and the richness of butter, perfect for a delicious breakfast or snack.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "warm and layered"
+    },
+    {
+      "name": "ghee or unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup",
+      "notes": "dairy or non-dairy"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "as needed",
+      "notes": "- 1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, salt, and ground cardamom.",
+    "Gradually add the melted ghee or butter and mix until the dough comes together.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Cover the dough with a damp cloth and let it rest for 30 minutes.",
+    "Divide the dough into 4 equal parts and roll each part into a ball.",
+    "Roll out each ball into a thin circle, about 6-7 inches in diameter.",
+    "Brush the surface with melted ghee or butter and sprinkle with water.",
+    "Fold the dough into a triangle or a square shape, depending on your preference.",
+    "Roll out the dough into a thin layer, about 1/8 inch thick.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Cook the paratha for 1-2 minutes on each side, until it's golden brown and puffed up.",
+    "Serve hot with your favorite chutney or raita."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "flatbread",
+    "breakfast",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-pillowy-indian-ground-cardomom-layered-paratha",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:47:02.012Z"
+}
