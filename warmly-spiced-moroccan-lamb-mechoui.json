@@ -1,0 +1,90 @@
+{
+  "slug": "warmly-spiced-moroccan-lamb-mechoui",
+  "title": "Moroccan Mechoui",
+  "description": "A traditional Moroccan dish made with lamb, spices, and a blend of herbs and aromatics. Serve with couscous or pita bread for a hearty and flavorful meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "bone-in"
+    },
+    {
+      "name": "warmly spiced moroccan rub",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "flaky"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt, black pepper, cumin, and smoked paprika.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the lamb until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the Moroccan rub to the pot and stir to combine.",
+    "Return the lamb to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 hours, or until the lamb is tender and falls apart easily.",
+    "Remove from heat and let rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "moroccan",
+    "meat",
+    "slow-cooked",
+    "braising"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": "45g",
+    "carbs": "10g",
+    "fat": "35g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-moroccan-lamb-mechoui",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:51:31.792Z"
+}
