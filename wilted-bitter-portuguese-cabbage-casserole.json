@@ -1,0 +1,81 @@
+{
+  "slug": "wilted-bitter-portuguese-cabbage-casserole",
+  "title": "Wilted Cabbage Casserole",
+  "description": "A hearty, comforting casserole made with wilted cabbage and a hint of bitter flavors. Serve as a side dish or a light dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "Vegetarian",
+    "Vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head, shredded"
+    },
+    {
+      "name": "Wilted",
+      "amount": "2 tablespoons olive oil",
+      "notes": "from 1 cup wilted cabbage"
+    },
+    {
+      "name": "Portuguese",
+      "amount": "1 small onion, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 can (14.5 oz) diced tomatoes"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Basil",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the shredded cabbage and cook until wilted, about 5 minutes.",
+    "Stir in the diced tomatoes, salt, and black pepper.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Sprinkle the chopped basil on top.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is lightly browned.",
+    "Serve hot, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cabbage",
+    "portuguese",
+    "casserole",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-bitter-portuguese-cabbage-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:22:29.402Z"
+}
