@@ -1,0 +1,71 @@
+{
+  "slug": "wholesome-russian-chickpeas-salad--thai",
+  "title": "Spicy Thai Chickpea Salad",
+  "description": "A refreshing and spicy salad made with chickpeas, vegetables, and a tangy dressing.",
+  "cuisine": "thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Spicy Thai dressing",
+      "amount": "2 tablespoons",
+      "notes": "Make or store-bought"
+    }
+  ],
+  "instructions": [
+    "1. In a medium bowl, whisk together the dressing ingredients.",
+    "2. In a large bowl, combine the chickpeas, cucumber, carrot, and red onion.",
+    "3. Pour the dressing over the chickpea mixture and toss to combine.",
+    "4. Stir in the chopped cilantro.",
+    "5. Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "6. Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "salad",
+    "vegan",
+    "chickpea"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-russian-chickpeas-salad--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:58:53.199Z"
+}
