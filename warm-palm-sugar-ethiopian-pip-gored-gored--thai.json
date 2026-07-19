@@ -1,0 +1,83 @@
+{
+  "slug": "warm-palm-sugar-ethiopian-pip-gored-gored--thai",
+  "title": "Thai Palm Prawn Curry",
+  "description": "A spicy and flavorful Thai curry made with palm sugar, fresh prawns, and fragrant spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "1 pound",
+      "notes": "fresh or thawed frozen"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat for richer flavor"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "fresh Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add curry paste and cook for 1-2 minutes, stirring constantly.",
+    "Add palm sugar and cook for another minute.",
+    "Add coconut milk and bring to a simmer.",
+    "Add fish sauce and lemon juice and stir to combine.",
+    "Add prawns and cook until pink and cooked through.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped Thai basil and serve over steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "seafood",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-palm-sugar-ethiopian-pip-gored-gored--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:54:20.043Z"
+}
