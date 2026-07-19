@@ -1,0 +1,89 @@
+{
+  "slug": "warm-wilted-mediterranean-fish-stew--gluten-free",
+  "title": "Warm Wilted Fish Stew",
+  "description": "A comforting, gluten-free fish stew made with fresh vegetables and herbs.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod Fillets",
+      "amount": "4",
+      "notes": "Skin removed, cut into 1-inch pieces"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Mediterranean Leafy Greens",
+      "amount": "4 cups",
+      "notes": "Wilted"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 pint",
+      "notes": "Halved"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium-high heat.",
+    "Add the chopped onion and cook for 3-4 minutes, or until softened.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cod fillets and cook for 2-3 minutes per side, or until cooked through.",
+    "Add the wilted Mediterranean leafy greens, cherry tomatoes, salt, and black pepper.",
+    "Stir to combine and reduce heat to low.",
+    "Simmer for 5-7 minutes, or until the stew has thickened slightly.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "stew",
+    "gluten-free",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wilted-mediterranean-fish-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:25:19.859Z"
+}
