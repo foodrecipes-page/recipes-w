@@ -19425,5 +19425,44 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "w"
+  },
+  {
+    "slug": "warm-white-indian-yogurt-lassi--japanese",
+    "title": "Japanese Lassi Pancakes",
+    "tags": [
+      "pancakes",
+      "japanese",
+      "indian",
+      "dessert"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-greek-tofu-skillet--gluten-free",
+    "title": "Greek Skillet Tofu",
+    "tags": [
+      "gluten-free",
+      "vegan",
+      "tofu",
+      "skillet",
+      "dinner"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-argentinian-lemon-wrap--vegan",
+    "title": "Argentinian Vegan Wrap",
+    "tags": [
+      "argentinian",
+      "vegan",
+      "wrap"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 20,
+    "shard": "w"
   }
 ]
