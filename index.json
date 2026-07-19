@@ -3851,16 +3851,16 @@
   },
   {
     "slug": "warm-gooey-peruvian-semolina-tiradito",
-    "title": "Warm Gooey Peruvian Semolina Tiradito",
+    "title": "Peruvian Semolina Cakes with Warm Tiramisu Sauce",
     "tags": [
-      "macrobiotic-friendly",
-      "peruvian-cuisine",
-      "quick-fix",
-      "tandoor-cooking",
-      "vegetarian-dish"
+      "peruvian",
+      "semolina",
+      "tiramisu",
+      "warm",
+      "gooey"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -19605,6 +19605,45 @@
       "bake"
     ],
     "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-french-rice-pilaf--gluten-free",
+    "title": "Wholesome French Rice Pilaf",
+    "tags": [
+      "gluten-free",
+      "french",
+      "pilaf",
+      "rice"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-palm-sugar-ethiopian-pip-gored-gored--thai",
+    "title": "Thai Palm Prawn Curry",
+    "tags": [
+      "thai",
+      "curry",
+      "seafood",
+      "dinner"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "wilted-brine-malaysian-samphire-stew--gluten-free",
+    "title": "Pan-Fried Samphire with Brined Shrimp",
+    "tags": [
+      "samphire",
+      "shrimp",
+      "seafood",
+      "gluten-free"
+    ],
+    "cuisine": null,
     "totalTimeMin": 25,
     "shard": "w"
   }
