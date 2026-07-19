@@ -8768,17 +8768,16 @@
   },
   {
     "slug": "warm-steamed-venezuelan-onion-empanadas",
-    "title": "Warm Steamed Venezuelan Onion Empanadas",
+    "title": "Venezuelan Empanadas",
     "tags": [
-      "flexitarian",
-      "latin-american",
-      "one-pan",
-      "steamed",
-      "vegetarian",
-      "weeknight"
+      "venezuelan",
+      "empanadas",
+      "beef",
+      "onion",
+      "steamed"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
