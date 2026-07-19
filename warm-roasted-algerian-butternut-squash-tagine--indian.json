@@ -1,0 +1,78 @@
+{
+  "slug": "warm-roasted-algerian-butternut-squash-tagine--indian",
+  "title": "Squash Tagine",
+  "description": "A hearty and flavorful North African-inspired stew from India, made with roasted butternut squash and spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roasted butternut squash",
+      "amount": "1 medium, peeled and cubed"
+    },
+    {
+      "name": "Algerian butternut tagine spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can, diced"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add cubed squash and cook for 5 minutes.",
+    "Add tomato, spice blend, coconut milk, salt, and pepper. Stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Serve warm, garnished with fresh cilantro (optional)"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "stew",
+    "squares"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-roasted-algerian-butternut-squash-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:27:27.881Z"
+}
