@@ -1,0 +1,88 @@
+{
+  "slug": "warm-steamed-venezuelan-onion-empanadas",
+  "title": "Venezuelan Empanadas",
+  "description": "A traditional Venezuelan dish filled with beef and onions, served steamed.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "Use 80/20 ratio for best flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely for best flavor"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": "For empanada dough"
+    },
+    {
+      "name": "Vegetable Shortening",
+      "amount": "1/4 cup",
+      "notes": "For empanada dough"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "For egg wash"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Add to empanada dough"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For empanada dough"
+    },
+    {
+      "name": "Venezuelan Cheese (Queso Venezolano)",
+      "amount": "1 cup",
+      "notes": "Optional, for extra flavor"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion to the skillet and cook until it's translucent.",
+    "In a large bowl, combine the flour, shortening, egg, and salt. Mix until a dough forms.",
+    "Gradually add the water to the dough, mixing until it's smooth and elastic.",
+    "Divide the dough into 8 equal pieces. Roll each piece into a ball and flatten it slightly into a disk shape.",
+    "Place a tablespoon of the beef and onion mixture in the center of each disk.",
+    "Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with the egg wash.",
+    "Steam the empanadas for 15-20 minutes, or until they're golden brown.",
+    "Serve hot with Venezuelan cheese on top, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "empanadas",
+    "beef",
+    "onion",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-steamed-venezuelan-onion-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:37:17.474Z"
+}
