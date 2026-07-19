@@ -1,0 +1,55 @@
+{
+  "slug": "winey-argentinian-lemon-wrap--vegan",
+  "title": "Argentinian Vegan Wrap",
+  "description": "A flavorful and satisfying vegan wrap inspired by the flavors of Argentina. This recipe combines the tanginess of lemon with the bold taste of winey vegetables.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "winey vegetables",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon",
+      "amount": "1/2",
+      "notes": "juiced"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Add the winey vegetables and cook until tender.",
+    "Warm the wrap in the pan.",
+    "Spread the lemon juice on the wrap.",
+    "Add the cooked winey vegetables on top of the wrap.",
+    "Roll up the wrap and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "vegan",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-argentinian-lemon-wrap--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:30:38.190Z"
+}
