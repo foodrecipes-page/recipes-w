@@ -15968,18 +15968,16 @@
   },
   {
     "slug": "wilted-bitter-portuguese-cabbage-casserole",
-    "title": "wilted bitter portuguese cabbage casserole",
+    "title": "Wilted Cabbage Casserole",
     "tags": [
-      "casserole",
-      "dairy-free",
-      "gluten-free",
-      "one-pan",
-      "pescatarian",
+      "cabbage",
       "portuguese",
-      "wilted-cabbage"
+      "casserole",
+      "vegetarian",
+      "vegan"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 65,
+    "cuisine": "Portuguese",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -19522,6 +19520,20 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 110,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-briny-light-croatian-walnuts-biscotti--french",
+    "title": "Walnut Biscotti Crusted French Toast",
+    "tags": [
+      "breakfast",
+      "french",
+      "brunch",
+      "walnuts",
+      "biscotti"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 22,
     "shard": "w"
   }
 ]
