@@ -1,0 +1,81 @@
+{
+  "slug": "wholesome-briny-light-croatian-walnuts-biscotti--french",
+  "title": "Walnut Biscotti Crusted French Toast",
+  "description": "A French-inspired breakfast dish, crusted with crushed biscotti and walnuts, perfect for a weekend brunch.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "wholesome milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "light maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "biscotti",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "wholesome bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, whisk together eggs, milk, and maple syrup.",
+    "Heat a non-stick skillet over medium heat.",
+    "Dip each bread slice into the egg mixture, coating both sides.",
+    "Place the bread slices in the skillet and cook for 2-3 minutes on each side.",
+    "In a separate pan, melt 2 tbsp of butter over low heat.",
+    "Add the crushed biscotti and chopped walnuts to the pan and cook, stirring constantly, for 2-3 minutes or until lightly toasted.",
+    "Transfer the cooked French toast to a serving plate and top with the walnut biscotti crust.",
+    "Drizzle with remaining butter and sprinkle with cinnamon and nutmeg.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "french",
+    "brunch",
+    "walnuts",
+    "biscotti"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-briny-light-croatian-walnuts-biscotti--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:07:50.575Z"
+}
