@@ -1,0 +1,94 @@
+{
+  "slug": "whole-spice-smoked-tunisian-lamb-tagine--indian",
+  "title": "Tunisian Lamb Tagine",
+  "description": "A traditional Indian-inspired dish made with lamb and spices, slow-cooked in a tagine.",
+  "cuisine": "indian",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Whole cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large tagine or Dutch oven over medium heat.",
+    "Add the cumin seeds and cook, stirring constantly, until fragrant, about 1 minute.",
+    "Add the lamb and cook until browned, about 5 minutes.",
+    "Add the onions, ginger, and garlic and cook, stirring occasionally, until the vegetables are softened, about 5 minutes.",
+    "Add the smoked paprika, Tunisian spice blend, salt, and chickpeas. Stir to combine.",
+    "Add the diced tomatoes and stir to combine.",
+    "Bring the mixture to a simmer.",
+    "Cover the tagine and cook over low heat, stirring occasionally, until the lamb is tender and the sauce has thickened, about 1 1/2 hours.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "indian",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whole-spice-smoked-tunisian-lamb-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:19:33.205Z"
+}
