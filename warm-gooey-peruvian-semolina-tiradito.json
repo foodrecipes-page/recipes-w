@@ -1,0 +1,74 @@
+{
+  "slug": "warm-gooey-peruvian-semolina-tiradito",
+  "title": "Peruvian Semolina Cakes with Warm Tiramisu Sauce",
+  "description": "A twist on traditional semolina cakes, served with a warm and gooey tiramisu sauce. Inspired by Peruvian flavors.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Semolina",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Unsalted Butter, melted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": "high-quality extract"
+    },
+    {
+      "name": "Tiramisu Sauce (see below)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Grease a 9-inch (23cm) round cake pan.",
+    "In a medium bowl, whisk together semolina, sugar, and a pinch of salt.",
+    "In a large bowl, whisk together eggs and melted butter.",
+    "Add the whisked egg mixture to the semolina mixture and stir until just combined.",
+    "Pour the batter into the prepared pan and smooth the top.",
+    "Bake for 25-30 minutes or until a toothpick inserted in the center comes out clean.",
+    "Let the cake cool in the pan for 5 minutes before transferring it to a wire rack to cool completely.",
+    "To serve, slice the cake and top with a generous amount of warm tiramisu sauce.",
+    "Tiramisu Sauce: In a small saucepan over medium heat, combine 1 cup of heavy cream, 2 tablespoons of unsweetened cocoa powder, and 2 tablespoons of granulated sugar.",
+    "Stir until the sugar dissolves and the mixture comes to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes or until it thickens slightly.",
+    "Stir in 1 tablespoon of unsalted butter and 1 teaspoon of vanilla extract.",
+    "Let the sauce cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "semolina",
+    "tiramisu",
+    "warm",
+    "gooey"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-gooey-peruvian-semolina-tiradito",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:57:37.701Z"
+}
