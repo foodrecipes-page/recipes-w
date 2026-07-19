@@ -8674,16 +8674,14 @@
   },
   {
     "slug": "warm-springy-mediterranean-chicken-roast",
-    "title": "warm springy mediterranean chicken roast",
+    "title": "Mediterranean Roast Chicken",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "post-workout",
-      "quick-cooking",
-      "sugar-free-friendly"
+      "mediterranean",
+      "chicken",
+      "roast"
     ],
-    "cuisine": "mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -19583,6 +19581,31 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-kenyan-sweet-potato-casserole--thai",
+    "title": "Thai Sweet Potato Casserole",
+    "tags": [
+      "thaifusion",
+      "sweetpotato",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 80,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-nostalgic-mediterranean-clams-bake--italian",
+    "title": "Italian Clams Bake",
+    "tags": [
+      "italian",
+      "seafood",
+      "clams",
+      "bake"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "w"
   }
 ]
