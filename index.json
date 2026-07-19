@@ -8254,16 +8254,16 @@
   },
   {
     "slug": "warm-spicy-polish-beet-pasta",
-    "title": "Warm Spicy Polish Beet Pasta",
+    "title": "Warm Polish Beet Pasta",
     "tags": [
-      "beet-recipe",
-      "one-pot-meal",
-      "pasta-dish",
-      "pescatarian",
-      "polish-cuisine",
-      "spicy-food"
+      "beet",
+      "polish",
+      "pasta",
+      "warm",
+      "spicy",
+      "vegetarian"
     ],
-    "cuisine": "Polish",
+    "cuisine": "polish",
     "totalTimeMin": 45,
     "shard": "w"
   },
@@ -19358,6 +19358,32 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-peppery-middle-eastern-cauliflower-ouzi--thai",
+    "title": "Thai Cauliflower Stir Fry Ouzi",
+    "tags": [
+      "thai",
+      "cauliflower",
+      "stir-fry",
+      "lunch"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-crunchy-chinese-chicken-toast--keto",
+    "title": "Keto Chicken Crunch Toast",
+    "tags": [
+      "keto",
+      "snack",
+      "chinese",
+      "chicken"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "w"
   }
 ]
