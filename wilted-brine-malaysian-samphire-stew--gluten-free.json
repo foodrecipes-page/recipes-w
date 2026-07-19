@@ -1,0 +1,77 @@
+{
+  "slug": "wilted-brine-malaysian-samphire-stew--gluten-free",
+  "title": "Pan-Fried Samphire with Brined Shrimp",
+  "description": "A simple yet flavorful dish that combines the freshness of samphire with the savory taste of brined shrimp.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "samphire",
+      "amount": "200g",
+      "notes": "Fresh or thawed from frozen"
+    },
+    {
+      "name": "shrimp",
+      "amount": "12 large",
+      "notes": "Brined for at least 2 hours"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For pan-frying"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Rinse the samphire under cold water and pat dry with paper towels.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and sauté for 1 minute until fragrant.",
+    "Add the brined shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Add the samphire to the skillet and cook for an additional 2-3 minutes, until tender.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "samphire",
+    "shrimp",
+    "seafood",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 6,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-brine-malaysian-samphire-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:14:29.189Z"
+}
