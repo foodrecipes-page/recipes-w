@@ -1,0 +1,95 @@
+{
+  "slug": "warm-kenyan-sweet-potato-casserole--thai",
+  "title": "Thai Sweet Potato Casserole",
+  "description": "A fusion of warm Kenyan and Thai flavors, this sweet potato casserole is a delicious twist on a classic dish.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Poke sweet potatoes with a fork several times and bake for 45-60 minutes, or until tender.",
+    "In a large skillet, heat coconut oil over medium heat. Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Stir in Thai red curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add coconut milk and bring to a simmer. Reduce heat to low and let cook for 5 minutes.",
+    "Mash cooked sweet potatoes and stir in brown sugar, salt, and black pepper.",
+    "Add mashed sweet potatoes to the skillet with the curry sauce and stir to combine.",
+    "Transfer mixture to a baking dish and top with additional coconut milk if desired.",
+    "Bake for an additional 20-25 minutes, or until top is golden brown.",
+    "Garnish with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "thaifusion",
+    "sweetpotato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-kenyan-sweet-potato-casserole--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:31:04.166Z"
+}
