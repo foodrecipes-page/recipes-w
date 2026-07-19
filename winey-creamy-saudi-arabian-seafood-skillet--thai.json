@@ -1,0 +1,90 @@
+{
+  "slug": "winey-creamy-saudi-arabian-seafood-skillet--thai",
+  "title": "Seafood Skillet Thai Curry",
+  "description": "A spicy and flavorful Thai curry made with a variety of seafood and a creamy sauce, all cooked to perfection in a skillet.",
+  "cuisine": "Thai",
+  "diet": [
+    "fish",
+    "shellfish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Seafood mix (shrimp, scallops, mussels)",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Winey sauce (fish sauce)",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Aubergine, sliced",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fresh Thai basil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the aubergine and cook for 3-4 minutes.",
+    "Add the seafood mix and cook for 2-3 minutes.",
+    "Add the coconut milk, curry paste, fish sauce, and salt. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes.",
+    "Stir in the Thai basil.",
+    "Serve the curry hot, garnished with additional Thai basil if desired.",
+    "Cook to an internal temperature of 145°F (63°C) for seafood."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-creamy-saudi-arabian-seafood-skillet--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:50:25.277Z"
+}
