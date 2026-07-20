@@ -1,0 +1,88 @@
+{
+  "slug": "warm-whipped-filipino-coconut-halo-halo",
+  "title": "Filipino Halo-Halo Dessert",
+  "description": "A Filipino version of shaved ice dessert topped with various sweetened beans, fruits, and creamy milk. Perfect for hot summer days.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Shredded young coconut",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sweetened kidney beans",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sweetened garbanzo beans",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ube halaya",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Leche flan",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Whipped cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Halo-halo sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Pinipig (pounded rice cereal)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine shredded young coconut, sweetened kidney beans, sweetened garbanzo beans, ube halaya, and leche flan.",
+    "Top the mixture with whipped cream and halo-halo sauce.",
+    "Place a scoop of ice on top of the whipped cream.",
+    "Sprinkle pinipig on top of the ice.",
+    "Serve immediately and enjoy!",
+    "Note: You can customize the toppings to your liking, such as adding other fruits, nuts, or sweetened beans."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "halo-halo",
+    "filipino",
+    "dessert",
+    "summer",
+    "cold"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-whipped-filipino-coconut-halo-halo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:22:24.492Z"
+}
