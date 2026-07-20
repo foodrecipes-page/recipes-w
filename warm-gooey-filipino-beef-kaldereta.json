@@ -1,0 +1,96 @@
+{
+  "slug": "warm-gooey-filipino-beef-kaldereta",
+  "title": "Filipino Beef Kaldereta",
+  "description": "A classic Filipino beef stew cooked in a rich tomato-based sauce and served with steamed rice.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound beef brisket or beef shank",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "crushed"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "patis",
+      "amount": "2 tablespoons",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 pieces",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "patis",
+      "amount": "2 tablespoons",
+      "notes": "fish sauce"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef in batches until browned, about 5 minutes.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add more oil if necessary, then sauté the onion and garlic until the onion is translucent.",
+    "Add the tomato paste and cook, stirring constantly, for 1 minute.",
+    "Add the tomato sauce, beef broth, patis, and black pepper. Stir to combine.",
+    "Return the browned beef to the pot and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the oven.",
+    "Bake for 2 1/2 hours, or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with steamed rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "beef",
+    "stew",
+    "kaldereta"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-gooey-filipino-beef-kaldereta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:13:19.759Z"
+}
