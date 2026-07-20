@@ -1,0 +1,79 @@
+{
+  "slug": "warm-buttery-croatian-chicken-pilaf--indian",
+  "title": "Croatian Chicken Pilaf",
+  "description": "A flavorful Indian-inspired pilaf dish made with Croatian chicken and warm spices. Perfect for a weeknight dinner.",
+  "cuisine": "indian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large saucepan over medium-high heat.",
+    "Add chicken to the saucepan and cook until browned, about 5 minutes.",
+    "Remove chicken from the saucepan and set aside.",
+    "Add basmati rice to the saucepan and cook for 1 minute.",
+    "Add water, Croatian paprika, garam masala, and salt to the saucepan.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover.",
+    "Simmer for 15-20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and stir in the cooked chicken.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "pilaf",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-buttery-croatian-chicken-pilaf--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:57:37.821Z"
+}
