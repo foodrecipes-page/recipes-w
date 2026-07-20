@@ -3765,17 +3765,15 @@
   },
   {
     "slug": "warm-gooey-filipino-beef-kaldereta",
-    "title": "Warm Gooey Filipino Beef Kaldereta",
+    "title": "Filipino Beef Kaldereta",
     "tags": [
-      "beef",
-      "caldereta",
-      "comfort-food",
       "filipino",
-      "one-pot",
-      "weeknight"
+      "beef",
+      "stew",
+      "kaldereta"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 150,
+    "totalTimeMin": 200,
     "shard": "w"
   },
   {
@@ -19725,6 +19723,45 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-middle-eastern-cheese-curds-tagine--thai",
+    "title": "Spicy Thai Cheese Tagine",
+    "tags": [
+      "thai",
+      "cheese",
+      "tagine",
+      "curds"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-fluffy-american-corn-pancakes--chinese",
+    "title": "Sweet Corn Pancake Rolls",
+    "tags": [
+      "chinese",
+      "breakfast",
+      "sweet",
+      "corn"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "wilted-dutch-callaloo-braised--keto",
+    "title": "Braised Callaloo with Wilted Spinach",
+    "tags": [
+      "keto",
+      "caribbean",
+      "lunch",
+      "greens"
+    ],
+    "cuisine": "Caribbean",
+    "totalTimeMin": 25,
     "shard": "w"
   }
 ]
