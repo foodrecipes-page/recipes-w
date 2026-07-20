@@ -1,0 +1,89 @@
+{
+  "slug": "wildly-springy-venezuelan-farfalle-pasta--thai",
+  "title": "Wild Spring Shrimp Pasta",
+  "description": "A thai-inspired dish featuring springy wild shrimp, wild farfalle pasta, and a hint of venezuelan spices.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Springy Wild Shrimp",
+      "amount": "1 pound, peeled and deveined",
+      "notes": ""
+    },
+    {
+      "name": "Wild Farfalle Pasta",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan Spices",
+      "amount": "2 tablespoons",
+      "notes": "Mix of cumin, coriander, and a hint of cayenne pepper"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thai Basil",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook farfalle pasta according to package instructions.",
+    "In a large skillet, heat coconut oil over medium-high heat. Add the shrimp and cook until pink and slightly charred, about 2-3 minutes per side.",
+    "Add the Thai red curry paste to the skillet and stir to combine with the shrimp. Cook for 1-2 minutes.",
+    "Add the venezuelan spices to the skillet and stir to combine. Cook for an additional 1-2 minutes.",
+    "Add the cooked farfalle pasta to the skillet and toss with the shrimp and spice mixture.",
+    "Stir in fresh thai basil and cook for an additional 1-2 minutes.",
+    "Season with salt, pepper, and a squeeze of fresh lime juice.",
+    "Serve hot, topped with grated parmesan cheese.",
+    "Garnish with additional fresh thai basil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "shrimp",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wildly-springy-venezuelan-farfalle-pasta--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:11:43.009Z"
+}
