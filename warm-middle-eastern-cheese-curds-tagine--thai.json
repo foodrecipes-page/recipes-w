@@ -1,0 +1,81 @@
+{
+  "slug": "warm-middle-eastern-cheese-curds-tagine--thai",
+  "title": "Spicy Thai Cheese Tagine",
+  "description": "A fusion of warm, Middle Eastern, and Eastern flavors in a Thai twist. This creamy cheese tagine is perfect for a cozy evening.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cheese",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Curds",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "Tagine",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "250ml",
+      "notes": null
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "handful",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large clay tagine or Dutch oven, heat 2 tbsp of coconut oil over medium heat.",
+    "Add the Thai red curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the cheese and curds, and stir until they start to melt.",
+    "Pour in the coconut milk, fish sauce, and brown sugar. Stir to combine.",
+    "Bring the mixture to a simmer, then reduce heat to low and let cook for 10-15 minutes, stirring occasionally.",
+    "Stir in some chopped cilantro and season with salt to taste.",
+    "Serve warm, garnished with additional cilantro if desired.",
+    "Serve with steamed rice or noodles, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "cheese",
+    "tagine",
+    "curds"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-middle-eastern-cheese-curds-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:36:04.854Z"
+}
