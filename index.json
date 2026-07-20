@@ -2626,16 +2626,15 @@
   },
   {
     "slug": "warm-dense-peruvian-broccoli-tacu-tacu",
-    "title": "Warm Dense Peruvian Broccoli Tacu Tacu",
+    "title": "Peruvian Broccoli Tacu",
     "tags": [
-      "gluten-free-options",
-      "one-pot-meals",
-      "peruvian-cuisine",
-      "vegetarian-dishes",
-      "weeknight-dinners"
+      "peruvian",
+      "tacu",
+      "broccoli",
+      "vegetarian"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -19645,6 +19644,34 @@
     ],
     "cuisine": null,
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-creamy-middle-eastern-chickpeas-falafel--mexican",
+    "title": "Crispy Falafel Tacos",
+    "tags": [
+      "mexican",
+      "falafel",
+      "tacos",
+      "veggie"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-smoky-ethiopian-puff-pastry-fir-fir--french",
+    "title": "Fir and Fir Puff Pastry Tart",
+    "tags": [
+      "french",
+      "festival",
+      "holiday",
+      "pastry",
+      "tart",
+      "fir"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
     "shard": "w"
   }
 ]
