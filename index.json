@@ -19673,5 +19673,18 @@
     "cuisine": "french",
     "totalTimeMin": 45,
     "shard": "w"
+  },
+  {
+    "slug": "warmly-spiced-peruvian-banana-skewers--german",
+    "title": "Warmly Spiced Banana Skewers",
+    "tags": [
+      "german",
+      "dessert",
+      "banana",
+      "skewers"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 16,
+    "shard": "w"
   }
 ]
