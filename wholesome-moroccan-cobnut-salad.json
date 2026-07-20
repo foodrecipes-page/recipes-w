@@ -1,0 +1,73 @@
+{
+  "slug": "wholesome-moroccan-cobnut-salad",
+  "title": "Moroccan Cobnut Salad",
+  "description": "A refreshing salad with the crunch of cobnuts, the flavors of Morocco, and the freshness of wholesome ingredients.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cobnuts",
+      "amount": "250g"
+    },
+    {
+      "name": "Wholesome Mixed Greens",
+      "amount": "200g"
+    },
+    {
+      "name": "Moroccan Olives",
+      "amount": "120g"
+    },
+    {
+      "name": "Mixed Salad",
+      "amount": "120g"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "60ml"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "Honey",
+      "amount": "20g"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash and dry the mixed greens.",
+    "Cut the cobnuts in half, removing any outer shells.",
+    "Chop the Moroccan olives and mixed salad.",
+    "In a large bowl, combine the mixed greens, cobnuts, olives, and salad.",
+    "In a small bowl, whisk together the lemon juice, olive oil, honey, and salt.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "moroccan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-moroccan-cobnut-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:55:05.222Z"
+}
