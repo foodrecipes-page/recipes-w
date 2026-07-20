@@ -1,0 +1,90 @@
+{
+  "slug": "warm-indian-peanuts-rasam",
+  "title": "Warm Peanut Rasam",
+  "description": "A comforting Indian-inspired rasam soup made with warm spices and peanuts. This dish is perfect for a cold evening.",
+  "cuisine": "Indian",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peanuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rasam powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the ginger and garlic and sauté until fragrant.",
+    "Add the rasam powder and sauté for 1-2 minutes.",
+    "Add the tomato and sauté until softened.",
+    "Add the peanuts and sauté for 1-2 minutes.",
+    "Add the water and bring to a boil.",
+    "Reduce heat and simmer for 10-15 minutes.",
+    "Season with salt and lemon juice.",
+    "Garnish with cilantro.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rasam",
+    "peanuts",
+    "indian",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-indian-peanuts-rasam",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:16:35.331Z"
+}
