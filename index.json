@@ -9518,17 +9518,16 @@
   },
   {
     "slug": "warm-whipped-filipino-coconut-halo-halo",
-    "title": "Warm Whipped Filipino Coconut Halo Halo",
+    "title": "Filipino Halo-Halo Dessert",
     "tags": [
-      "caramel-sauce",
-      "coconut-based",
-      "filipino-food",
-      "rose-water",
-      "tropical-fruit",
-      "whipped-cream"
+      "halo-halo",
+      "filipino",
+      "dessert",
+      "summer",
+      "cold"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "cuisine": "filipino",
+    "totalTimeMin": 10,
     "shard": "w"
   },
   {
