@@ -19763,5 +19763,19 @@
     "cuisine": "Caribbean",
     "totalTimeMin": 25,
     "shard": "w"
+  },
+  {
+    "slug": "warm-korean-pecorino-kimchi-bowl--indian",
+    "title": "Korean-Style Kimchi Bowl with Pecorino",
+    "tags": [
+      "indian",
+      "korean",
+      "kimchi",
+      "cheese",
+      "bowl"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "w"
   }
 ]
