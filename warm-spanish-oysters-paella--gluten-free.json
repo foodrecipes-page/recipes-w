@@ -1,0 +1,101 @@
+{
+  "slug": "warm-spanish-oysters-paella--gluten-free",
+  "title": "Traditional Spanish Paella",
+  "description": "A classic Spanish dish from the Valencia region, made with saffron-infused rice and a variety of seafood. This gluten-free version is perfect for a seafood lover's dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saffron-infused rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Mussels",
+      "amount": "1 pound",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "Clams",
+      "amount": "1 pound",
+      "notes": "scrubbed"
+    },
+    {
+      "name": "Oysters",
+      "amount": "1 dozen",
+      "notes": "shucked"
+    },
+    {
+      "name": "Spanish chorizo",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the sliced chorizo and cook until browned, about 2-3 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced tomato and cook for 2 minutes.",
+    "Add the mussels, clams, and shrimp, and cook until the seafood is lightly browned, about 2-3 minutes.",
+    "Add the saffron-infused rice to the pan and stir to coat the rice with the oil and mix with the seafood.",
+    "Add 4 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Stir in the smoked paprika and season with salt and black pepper to taste.",
+    "Serve the paella hot, garnished with lemon wedges and chopped fresh parsley.",
+    "Cook to an internal temperature of 165°F (74°C) for the seafood."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "spanish",
+    "seafood",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spanish-oysters-paella--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:08:23.057Z"
+}
