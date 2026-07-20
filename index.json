@@ -19776,5 +19776,44 @@
     "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "w"
+  },
+  {
+    "slug": "wildly-springy-venezuelan-farfalle-pasta--thai",
+    "title": "Wild Spring Shrimp Pasta",
+    "tags": [
+      "thai",
+      "shrimp",
+      "pasta"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "wild-smoked-canadian-salmon-noodles--mexican",
+    "title": "Smoked Salmon Fettuccine",
+    "tags": [
+      "mexican",
+      "italian",
+      "fusion",
+      "seafood"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-crispy-indian-eggplant-baingan-bharta--mexican",
+    "title": "Crispy Baingan Bharta Fritters",
+    "tags": [
+      "mexican",
+      "snack",
+      "fritters",
+      "baingan",
+      "bharta"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "w"
   }
 ]
