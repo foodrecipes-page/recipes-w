@@ -1,0 +1,72 @@
+{
+  "slug": "warm-fluffy-american-corn-pancakes--chinese",
+  "title": "Sweet Corn Pancake Rolls",
+  "description": "A Chinese-inspired twist on American-style pancakes, topped with a sweet corn syrup and crunchy toasted sesame seeds.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Warm, fluffy American pancakes",
+      "amount": "4",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Corn",
+      "amount": "1 cup",
+      "notes": "Frozen or fresh"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "For drizzling"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "Melted"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet or wok, melt the butter over medium heat.",
+    "2. Add the corn kernels and cook, stirring occasionally, until lightly browned.",
+    "3. Meanwhile, split the warm pancakes in half.",
+    "4. Spoon the cooked corn mixture onto the center of each pancake half.",
+    "5. Drizzle with honey and sprinkle with toasted sesame seeds.",
+    "6. Roll up the pancakes and secure with toothpicks if needed.",
+    "7. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "breakfast",
+    "sweet",
+    "corn"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-fluffy-american-corn-pancakes--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:38:27.523Z"
+}
