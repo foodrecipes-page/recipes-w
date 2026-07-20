@@ -4227,16 +4227,15 @@
   },
   {
     "slug": "warm-indian-peanuts-rasam",
-    "title": "Warm Indian Peanuts Rasam",
+    "title": "Warm Peanut Rasam",
     "tags": [
-      "brunch",
-      "dairy-free",
+      "rasam",
+      "peanuts",
       "indian",
-      "one-pot",
-      "smoky"
+      "soup"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
