@@ -19700,5 +19700,31 @@
     "cuisine": "mexican",
     "totalTimeMin": 32,
     "shard": "w"
+  },
+  {
+    "slug": "warm-roasted-japanese-russet-potato-shio-ramen--japanese",
+    "title": "Japanese Shio Ramen with Roasted Potato",
+    "tags": [
+      "japanese",
+      "ramen",
+      "vegetarian",
+      "comfort-food"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-dutch-lentils-stamppot--italian",
+    "title": "Italian Lentil Stamppot",
+    "tags": [
+      "italian",
+      "lentils",
+      "stamppot",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "w"
   }
 ]
