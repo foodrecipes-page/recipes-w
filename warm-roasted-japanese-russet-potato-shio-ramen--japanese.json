@@ -1,0 +1,62 @@
+{
+  "slug": "warm-roasted-japanese-russet-potato-shio-ramen--japanese",
+  "title": "Japanese Shio Ramen with Roasted Potato",
+  "description": "A hearty and comforting Japanese-inspired ramen dish featuring roasted potato and a rich shio broth.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Russet Potato",
+      "amount": "2 large"
+    },
+    {
+      "name": "Warm Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Japanese Ramen Noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "Shio Ramen Broth Mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Peel the russet potato and cut it into 1-inch (2.5 cm) cubes. Roast in the oven for 20-25 minutes or until tender.",
+    "In a large pot, combine warm water and shio ramen broth mix. Bring to a boil and then reduce heat to a simmer.",
+    "Add soy sauce to the pot and stir to combine.",
+    "Cook Japanese ramen noodles according to package instructions. Drain and set aside.",
+    "To assemble, place cooked noodles in a bowl, then add roasted potato and hot broth.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "ramen",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-roasted-japanese-russet-potato-shio-ramen--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:34:23.746Z"
+}
