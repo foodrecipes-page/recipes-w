@@ -1,0 +1,86 @@
+{
+  "slug": "warm-mexican-corn-tlayuda--mexican",
+  "title": "Tlayuda with Grilled Chicken and Corn Salsa",
+  "description": "A classic Mexican dish featuring a crispy tlayuda topped with grilled chicken, fresh corn salsa, and crumbled queso fresco.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tlayudas",
+      "amount": "4",
+      "notes": "preferably day-old tlayudas"
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "fresh corn kernels",
+      "amount": "1 cup",
+      "notes": "from about 2 ears of corn"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "queso fresco",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Grill chicken breasts for 5-6 minutes per side, or until cooked through.",
+    "3. Meanwhile, grill tlayudas for 30-45 seconds per side, or until crispy.",
+    "4. In a medium bowl, combine corn kernels, red onion, cilantro, and lime juice.",
+    "5. Season with salt and pepper to taste.",
+    "6. Once chicken is cooked, let it rest for 5 minutes before slicing into thin strips.",
+    "7. Assemble the tlayudas by topping with sliced chicken, corn salsa, and crumbled queso fresco.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "grilled-chicken",
+    "corn-salsa",
+    "tlayuda",
+    "queso-fresco"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-mexican-corn-tlayuda--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:15:19.653Z"
+}
