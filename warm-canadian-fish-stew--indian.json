@@ -1,0 +1,90 @@
+{
+  "slug": "warm-canadian-fish-stew--indian",
+  "title": "Warm Fish Curry",
+  "description": "A flavorful and aromatic Indian-inspired dish made with fresh fish, warm spices, and a hint of sweetness.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillet (halibut or cod)",
+      "amount": "2 pieces",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Canola oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": null
+    },
+    {
+      "name": "Warm curry powder",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion and cook until browned, about 5 minutes.",
+    "Add garlic and ginger and cook for an additional 1 minute.",
+    "Add fish and cook for 3-4 minutes per side, until cooked through.",
+    "Add curry powder, cumin, salt, and pepper. Stir to combine.",
+    "Simmer for 2-3 minutes, until the sauce has thickened.",
+    "Serve hot, garnished with fresh cilantro or scallions if desired.",
+    "Serve with steamed rice or naan bread for a complete meal.",
+    "Adjust seasoning as needed to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "curry",
+    "indian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-canadian-fish-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:36:40.091Z"
+}
