@@ -19815,5 +19815,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 40,
     "shard": "w"
+  },
+  {
+    "slug": "warm-buttery-croatian-chicken-pilaf--indian",
+    "title": "Croatian Chicken Pilaf",
+    "tags": [
+      "indian",
+      "chicken",
+      "pilaf",
+      "dinner"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "w"
   }
 ]
