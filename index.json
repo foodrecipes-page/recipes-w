@@ -19686,5 +19686,19 @@
     "cuisine": "german",
     "totalTimeMin": 16,
     "shard": "w"
+  },
+  {
+    "slug": "warm-mexican-corn-tlayuda--mexican",
+    "title": "Tlayuda with Grilled Chicken and Corn Salsa",
+    "tags": [
+      "mexican",
+      "grilled-chicken",
+      "corn-salsa",
+      "tlayuda",
+      "queso-fresco"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 32,
+    "shard": "w"
   }
 ]
