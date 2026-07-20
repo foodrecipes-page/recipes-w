@@ -1,0 +1,85 @@
+{
+  "slug": "warm-korean-pecorino-kimchi-bowl--indian",
+  "title": "Korean-Style Kimchi Bowl with Pecorino",
+  "description": "A fusion of Indian and Korean flavors in a warm, savory bowl. Spicy kimchi gives way to creamy pecorino cheese.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Pecorino Cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": "Italian cheese"
+    },
+    {
+      "name": "Warm Basmati Rice",
+      "amount": "1 cup, cooked",
+      "notes": "or other warm rice"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup, thinly sliced",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches, grated",
+      "notes": "optional"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Cook basmati rice according to package instructions.",
+    "Heat oil in a pan over medium-high heat. Add grated ginger and cook for 1 minute.",
+    "Add cumin and coriander to the pan and cook for 1 minute.",
+    "Add kimchi to the pan and cook for 2-3 minutes, until fragrant.",
+    "Stir in crumbled pecorino cheese until melted.",
+    "To assemble the bowl, place cooked rice in a bowl, then top with kimchi mixture.",
+    "Garnish with green onions, cilantro, and a sprinkle of pecorino cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "korean",
+    "kimchi",
+    "cheese",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-korean-pecorino-kimchi-bowl--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:25:09.886Z"
+}
