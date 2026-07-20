@@ -1,0 +1,66 @@
+{
+  "slug": "wilted-dutch-callaloo-braised--keto",
+  "title": "Braised Callaloo with Wilted Spinach",
+  "description": "A keto twist on the classic Caribbean dish, featuring braised callaloo and wilted spinach.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Callaloo",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Dutch yellow onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Braised kale",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Sauté garlic and onions until softened.",
+    "Add callaloo and cook until wilted.",
+    "Add braised kale and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs (optional).",
+    "For an added keto touch, top with a fried egg or a sprinkle of grated cheddar."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "caribbean",
+    "lunch",
+    "greens"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-dutch-callaloo-braised--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:40:23.128Z"
+}
