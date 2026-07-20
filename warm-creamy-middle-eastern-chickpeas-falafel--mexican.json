@@ -1,0 +1,76 @@
+{
+  "slug": "warm-creamy-middle-eastern-chickpeas-falafel--mexican",
+  "title": "Crispy Falafel Tacos",
+  "description": "A fusion of Mexican and Middle Eastern flavors, these crispy falafel tacos are a unique twist on traditional street food.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Falafel",
+      "amount": "8-10 pieces"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "Warm Pico de Gallo",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "4-6",
+      "notes": "for serving"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Queso Fresco",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Middle Eastern Spices",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Pan-fry the falafel until crispy and golden brown.",
+    "Assemble the tacos by placing 2-3 pieces of falafel onto a tortilla.",
+    "Top with a spoonful of warm pico de gallo and a sprinkle of chopped cilantro.",
+    "Serve with a lime wedge and a dollop of sour cream.",
+    "Optional: sprinkle with queso fresco and a pinch of Middle Eastern spices."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "falafel",
+    "tacos",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-creamy-middle-eastern-chickpeas-falafel--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:47:53.384Z"
+}
