@@ -14114,16 +14114,14 @@
   },
   {
     "slug": "wholesome-moroccan-cobnut-salad",
-    "title": "Wholesome Moroccan Coconut Salad",
+    "title": "Moroccan Cobnut Salad",
     "tags": [
-      "macrobiotic",
+      "salad",
       "moroccan",
-      "quick-fix",
-      "vegan-friendly",
-      "winey"
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 5,
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
@@ -19827,6 +19825,32 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spanish-oysters-paella--gluten-free",
+    "title": "Traditional Spanish Paella",
+    "tags": [
+      "gluten-free",
+      "spanish",
+      "seafood",
+      "paella"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-canadian-fish-stew--indian",
+    "title": "Warm Fish Curry",
+    "tags": [
+      "fish",
+      "curry",
+      "indian",
+      "lunch"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "w"
   }
 ]
