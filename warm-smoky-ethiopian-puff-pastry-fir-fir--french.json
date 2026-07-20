@@ -1,0 +1,88 @@
+{
+  "slug": "warm-smoky-ethiopian-puff-pastry-fir-fir--french",
+  "title": "Fir and Fir Puff Pastry Tart",
+  "description": "A French-inspired tart with a crispy puff pastry crust, topped with caramelized fir and fir for a unique twist on a classic dessert.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Puff pastry",
+      "amount": "1 sheet (thawed)",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Fresh fir needles",
+      "amount": "1 cup",
+      "notes": "Fresh needles for garnish"
+    },
+    {
+      "name": "Fresh fir tips",
+      "amount": "1 cup",
+      "notes": "For caramelization"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "Melted for brushing pastry"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 pinch",
+      "notes": null
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Transfer the pastry to a 9-inch tart pan with a removable bottom.",
+    "Trim the edges and press the pastry into the corners of the pan.",
+    "Brush the pastry with melted butter and sprinkle with granulated sugar.",
+    "Bake the pastry for 20-25 minutes, or until golden brown.",
+    "While the pastry is baking, melt 1 tablespoon of butter in a skillet over medium heat.",
+    "Add the fir tips and cook, stirring occasionally, until caramelized and fragrant.",
+    "Remove the pastry from the oven and brush with the beaten egg.",
+    "Arrange the caramelized fir tips on top of the pastry, leaving a 1-inch border around the edges.",
+    "Return the pastry to the oven and bake for an additional 5-7 minutes, or until the egg is set and the pastry is golden brown.",
+    "Remove the pastry from the oven and let cool for 5 minutes.",
+    "Drizzle with heavy cream and garnish with fresh fir needles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "festival",
+    "holiday",
+    "pastry",
+    "tart",
+    "fir"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-ethiopian-puff-pastry-fir-fir--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:53:26.528Z"
+}
