@@ -19955,5 +19955,18 @@
     "cuisine": "german",
     "totalTimeMin": 38,
     "shard": "w"
+  },
+  {
+    "slug": "warming-crispy-russian-mussels-pilaf--italian",
+    "title": "Mussels in Italian Pilaf",
+    "tags": [
+      "italian",
+      "mussels",
+      "pilaf",
+      "seafood"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 12,
+    "shard": "w"
   }
 ]
