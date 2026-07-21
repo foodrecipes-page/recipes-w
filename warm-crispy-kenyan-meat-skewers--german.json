@@ -1,0 +1,83 @@
+{
+  "slug": "warm-crispy-kenyan-meat-skewers--german",
+  "title": "Traditional German Bratwurst Skewers",
+  "description": "A classic German dish featuring juicy bratwurst sausage grilled to perfection on skewers, served with a side of tangy sauerkraut.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bratwurst sausage",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Kenyan kachumbari (cucumber-tomato relish)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "12-15",
+      "notes": null
+    },
+    {
+      "name": "German mustard",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Warm beer bread",
+      "amount": "1 cup, cubed",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (375°F).",
+    "Thread bratwurst sausage, onions, and bell peppers onto bamboo skewers.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Meanwhile, prepare the Kenyan kachumbari (cucumber-tomato relish).",
+    "Serve the skewers with kachumbari, German mustard, and warm beer bread on the side.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "skewers",
+    "bratwurst",
+    "grill",
+    "beer-bread"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-kenyan-meat-skewers--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:41:22.827Z"
+}
