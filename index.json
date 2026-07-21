@@ -19903,5 +19903,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 30,
     "shard": "w"
+  },
+  {
+    "slug": "warm-british-eggs-scotch-egg--indian",
+    "title": "Scotch Egg Curry",
+    "tags": [
+      "scotch egg",
+      "curry",
+      "indian",
+      "lunch"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "w"
   }
 ]
