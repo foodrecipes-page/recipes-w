@@ -9319,16 +9319,14 @@
   },
   {
     "slug": "warm-velvety-middle-eastern-boudin-blanc-maqluba",
-    "title": "Warm Velvety Middle Eastern Boudin Blanc Maqluba",
+    "title": "Middle Eastern Maqluba Boudin Blanc",
     "tags": [
-      "diabetic-friendly",
-      "kid-friendly",
+      "mediterranean",
       "middle-eastern",
-      "one-pot",
-      "weeknight"
+      "maqluba"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -9959,17 +9957,15 @@
   },
   {
     "slug": "warm-wholesome-wrap-australian-passata-wrap",
-    "title": "Warm Wholesome Wrap Australian Passata Wrap",
+    "title": "Classic Australian-Style Beef Wrap",
     "tags": [
       "australian",
-      "gluten-free",
-      "low-sodium",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "beef",
+      "wrap",
+      "meal-prep"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 17,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -19928,6 +19924,34 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "wicked-irish-cod-skillet--keto",
+    "title": "Pan-Seared Cod with Wicked Irish Skillet",
+    "tags": [
+      "cod",
+      "irish-skillet",
+      "keto",
+      "fish",
+      "dinner-idea"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-buttery-argentinian-beef-skewers--german",
+    "title": "Argentinian-Style Beef Skewers with German Spices",
+    "tags": [
+      "german",
+      "argentinian",
+      "beef",
+      "skewers",
+      "grill"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 38,
     "shard": "w"
   }
 ]
