@@ -7952,15 +7952,16 @@
   },
   {
     "slug": "warm-spicy-jamaican-chinese-leaf-stew",
-    "title": "Spicy Jamaican Stew",
+    "title": "Jamaican Jerk Stew",
     "tags": [
-      "spicy",
+      "vegetarian",
       "jamaican",
       "stew",
-      "vegetarian"
+      "warm",
+      "leaf"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "Jamaican",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -17459,14 +17460,15 @@
   },
   {
     "slug": "wood-fired-creamy-dutch-scamorza-bake",
-    "title": "Wood-fired, Creamy Dutch Scamorza Bake",
+    "title": "Wood Fired Scamorza Bake",
     "tags": [
-      "comfort-food",
-      "one-pan",
-      "weeknight"
+      "italian",
+      "cheese",
+      "wood-fired",
+      "baked"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 37,
+    "cuisine": "italian",
+    "totalTimeMin": 27,
     "shard": "w"
   },
   {
