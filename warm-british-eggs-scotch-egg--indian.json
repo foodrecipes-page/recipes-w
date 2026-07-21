@@ -1,0 +1,107 @@
+{
+  "slug": "warm-british-eggs-scotch-egg--indian",
+  "title": "Scotch Egg Curry",
+  "description": "A twist on the traditional scotch egg, this Indian-inspired dish is a flavorful and satisfying meal.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "scotch eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion, ginger, and garlic and sauté until the onion is translucent.",
+    "Add curry powder, garam masala, cumin, coriander, salt, and pepper, and cook for 1 minute.",
+    "Add chicken broth and yogurt, and stir to combine.",
+    "Bring the mixture to a simmer and cook until the sauce thickens.",
+    "Add the scotch eggs to the sauce and cook for 5-7 minutes, or until heated through.",
+    "Garnish with cilantro and serve over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "scotch egg",
+    "curry",
+    "indian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-british-eggs-scotch-egg--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:28:58.605Z"
+}
