@@ -1,0 +1,65 @@
+{
+  "slug": "warm-irish-potato-crumble--german",
+  "title": "German Potato Crumble with Warm Irish Twist",
+  "description": "A hearty, warm potato dish with the comforting flavors of Germany, infused with a hint of Irish charm.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large, peeled and thinly sliced"
+    },
+    {
+      "name": "warm",
+      "amount": "2 tbsp, unsalted butter, melted"
+    },
+    {
+      "name": "irish",
+      "amount": "1 tsp, dried thyme"
+    },
+    {
+      "name": "crumble",
+      "amount": "1/2 cup, breadcrumbs mixed with 2 tbsp, grated cheddar"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, thinly sliced",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine sliced potatoes, melted butter, and dried thyme. Toss until potatoes are evenly coated.",
+    "Transfer potato mixture to a 9x13 inch baking dish.",
+    "If using onion, sprinkle on top of potatoes.",
+    "In a separate bowl, mix crumble topping until well combined.",
+    "Spread crumble mixture evenly over potatoes.",
+    "Bake for 35-40 minutes, or until potatoes are tender and topping is golden brown.",
+    "Remove from oven and let cool for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "potato",
+    "irish",
+    "comfort-food",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-irish-potato-crumble--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:01:37.599Z"
+}
