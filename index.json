@@ -9859,15 +9859,12 @@
   },
   {
     "slug": "warm-wholesome-norwegian-bananas-omelette",
-    "title": "Warm Wholesome Norwegian Bananas Omelette",
+    "title": "Norwegian Banana Omelette",
     "tags": [
-      "bananas",
       "breakfast",
-      "norwegian",
       "omelette",
-      "ovo-vegetarian",
-      "weekend-brunch",
-      "yuzu-cure"
+      "banana",
+      "norwegian"
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 8,
@@ -20007,6 +20004,33 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 10,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-ethiopian-tomato-gored-gored--mexican",
+    "title": "Gored Gored Tacos",
+    "tags": [
+      "mexican",
+      "tacos",
+      "spicy",
+      "gored gored",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-nutty-venezuelan-corn-flatbread--vegan",
+    "title": "Venezuelan Corn Arepas",
+    "tags": [
+      "corn",
+      "vegan",
+      "snack",
+      "venezuelan"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
     "shard": "w"
   }
 ]
