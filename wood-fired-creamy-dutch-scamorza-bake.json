@@ -1,0 +1,70 @@
+{
+  "slug": "wood-fired-creamy-dutch-scamorza-bake",
+  "title": "Wood Fired Scamorza Bake",
+  "description": "A simple yet flavorful dish, perfect for a weeknight dinner. The scamorza cheese is melted to perfection in a wood fired oven.",
+  "cuisine": "italian",
+  "diet": [
+    "lactose-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "scamorza cheese",
+      "amount": "250g",
+      "notes": "wood fired scamorza"
+    },
+    {
+      "name": "dutch breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "butter",
+      "amount": "2tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood fired oven to 200°C.",
+    "Slice the scamorza cheese into 1cm thick pieces.",
+    "Dip each piece of scamorza into the beaten eggs and then coat in the dutch breadcrumbs.",
+    "Place the coated scamorza pieces on a baking sheet lined with parchment paper.",
+    "Drizzle the melted butter over the scamorza pieces.",
+    "Sprinkle the minced garlic and chopped basil leaves over the scamorza pieces.",
+    "Place the baking sheet in the wood fired oven and bake for 10-12 minutes or until golden brown.",
+    "Remove the scamorza from the oven and let it cool for a few minutes.",
+    "Serve the scamorza bake hot, garnished with additional basil leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "cheese",
+    "wood-fired",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wood-fired-creamy-dutch-scamorza-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:24:50.290Z"
+}
