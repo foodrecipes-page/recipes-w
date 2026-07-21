@@ -1,0 +1,74 @@
+{
+  "slug": "wicked-irish-cod-skillet--keto",
+  "title": "Pan-Seared Cod with Wicked Irish Skillet",
+  "description": "A simple and flavorful cod dish cooked in a wicked irish skillet. Perfect for a keto diet.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "2",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "Irish skillet oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Wicked butter",
+      "amount": "1 tsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/2 cup",
+      "notes": "green onions"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet in the oven at 400°F (200°C).",
+    "Season the cod with salt and pepper.",
+    "Add the Irish skillet oil to the preheated skillet and swirl to coat.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the cod fillets and cook for 3-4 minutes per side.",
+    "Remove the skillet from the oven and add the wicked butter.",
+    "Toss the chopped scallions with the butter and cook for 1 minute.",
+    "Serve the cod with the wicked butter and scallions, and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cod",
+    "irish-skillet",
+    "keto",
+    "fish",
+    "dinner-idea"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wicked-irish-cod-skillet--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:29:49.201Z"
+}
