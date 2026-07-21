@@ -1,0 +1,84 @@
+{
+  "slug": "warm-smoky-norwegian-beet-stew",
+  "title": "Norwegian Beet Stew",
+  "description": "A hearty, comforting stew made with the flavors of Norway and the sweetness of beets. Perfect for a cold winter's night.",
+  "cuisine": "norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 cups, peeled and diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup, peeled and sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "stew broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the chopped onions and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced beets and sliced carrots, cooking for 5 minutes.",
+    "Add the smoked paprika, warm beer, stew broth, and tomato paste.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beets",
+    "carrots",
+    "smoked-paprika",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-norwegian-beet-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:50:52.196Z"
+}
