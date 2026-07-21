@@ -15095,16 +15095,15 @@
   },
   {
     "slug": "wholesome-venezuelan-tiger-prawns-ceviche",
-    "title": "Wholesome Venezuelan Tiger Prawns Ceviche",
+    "title": "Ceviche Tiger Prawns",
     "tags": [
-      "cold-dish",
-      "healthy",
-      "low-salt",
-      "quick-meal",
-      "tropical"
+      "lactose-free",
+      "gluten-free",
+      "seafood",
+      "latin-american"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 15,
+    "cuisine": "Latin American",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -19980,6 +19979,34 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-springy-mediterranean-chicken-roast--italian",
+    "title": "Roast Chicken with Mediterranean Twist",
+    "tags": [
+      "italian",
+      "chicken",
+      "roast",
+      "mediterranean"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 65,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-crunchy-kenyan-almonds-wrap--german",
+    "title": "Kenyan-Style Almond Wrap",
+    "tags": [
+      "german",
+      "kenyan",
+      "almonds",
+      "wrap",
+      "snack",
+      "breakfast"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 10,
     "shard": "w"
   }
 ]
