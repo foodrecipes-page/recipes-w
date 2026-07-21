@@ -1,0 +1,90 @@
+{
+  "slug": "warm-springy-mediterranean-chicken-roast--italian",
+  "title": "Roast Chicken with Mediterranean Twist",
+  "description": "A classic Italian roasted chicken with a hint of Mediterranean flavors. Perfect for a family dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 whole (3-4 lbs)",
+      "notes": "fresh"
+    },
+    {
+      "name": "roast",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "spring onions",
+      "amount": "2",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse and pat dry the chicken.",
+    "Season the chicken with salt, pepper, and oregano.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the chicken on all sides until browned, about 5 minutes.",
+    "Transfer the chicken to a roasting pan and roast in the preheated oven for 45-50 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "While the chicken is roasting, mix the minced garlic and lemon juice in a small bowl.",
+    "Brush the garlic-lemon mixture over the chicken during the last 15 minutes of roasting.",
+    "Let the chicken rest for 10 minutes before carving and serving.",
+    "Garnish with chopped spring onions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "roast",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 64,
+    "carbs": 6,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-springy-mediterranean-chicken-roast--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:12:38.871Z"
+}
