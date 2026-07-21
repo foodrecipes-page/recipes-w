@@ -1,0 +1,78 @@
+{
+  "slug": "warm-spicy-ethiopian-tomato-gored-gored--german",
+  "title": "Spicy Ethiopian-Style Bratwurst",
+  "description": "A flavorful twist on traditional German bratwurst, infused with spicy Ethiopian spices.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bratwurst Sausages",
+      "amount": "4-6",
+      "notes": "German-style pork sausages"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Gored",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the bratwurst sausages and cook until browned on all sides.",
+    "Add the gored, tomato paste, and chili flakes. Stir well to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes.",
+    "Serve hot with crusty bread or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "spicy",
+    "ethiopian",
+    "bratwurst",
+    "sausages"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-ethiopian-tomato-gored-gored--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:29:04.923Z"
+}
