@@ -1,0 +1,81 @@
+{
+  "slug": "warm-crunchy-kenyan-almonds-wrap--german",
+  "title": "Kenyan-Style Almond Wrap",
+  "description": "A sweet and crunchy German-inspired wrap filled with Kenyan flavors. Perfect for a snack or light meal.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Large flour tortilla",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan-style peanut sauce",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Crunchy almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced apples",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded carrots",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Warm honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, mix together peanut sauce and honey.",
+    "2. Lay the tortilla flat and spread the peanut sauce mixture evenly across the center.",
+    "3. Top with crunchy almonds, diced apples, shredded carrots, and fresh cilantro.",
+    "4. Fold the bottom half of the tortilla up over the filling, then fold in the sides.",
+    "5. Roll the wrap up tightly and slice in half.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "kenyan",
+    "almonds",
+    "wrap",
+    "snack",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crunchy-kenyan-almonds-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:14:53.065Z"
+}
