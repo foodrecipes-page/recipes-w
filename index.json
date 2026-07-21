@@ -5711,17 +5711,14 @@
   },
   {
     "slug": "warm-polish-rye-crumble",
-    "title": "Warm Polish Rye Crumble",
+    "title": "Warm Polish Rye Crumble Bread",
     "tags": [
-      "comfort-food",
-      "dessert",
-      "rye",
-      "sugar-free-friendly",
-      "warm",
-      "yeasty"
+      "bread",
+      "polish",
+      "rye"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -20031,6 +20028,47 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-velvety-middle-eastern-boudin-blanc-maqluba--vegetarian",
+    "title": "Middle Eastern Maqluba with Boudin Blanc Variance",
+    "tags": [
+      "vegetarian",
+      "middle-eastern",
+      "maqluba",
+      "boudin-blanc"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spanish-oysters-paella--mexican",
+    "title": "Mexican Paella with Oysters",
+    "tags": [
+      "mexican",
+      "seafood",
+      "paella",
+      "chicken-broth",
+      "chorizo-sausage"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-ethiopian-tomato-gored-gored--german",
+    "title": "Spicy Ethiopian-Style Bratwurst",
+    "tags": [
+      "german",
+      "spicy",
+      "ethiopian",
+      "bratwurst",
+      "sausages"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
     "shard": "w"
   }
 ]
