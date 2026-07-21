@@ -1,0 +1,86 @@
+{
+  "slug": "warm-wholesome-wrap-australian-passata-wrap",
+  "title": "Classic Australian-Style Beef Wrap",
+  "description": "A hearty, flavorful wrap filled with tender beef, rich sauce, and crunchy veggies. Perfect for a satisfying meal on-the-go.",
+  "cuisine": "australian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian Beef Striploin",
+      "amount": "200g",
+      "notes": "Slice thinly"
+    },
+    {
+      "name": "Passata",
+      "amount": "150ml",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Warm Wrap",
+      "amount": "1",
+      "notes": "Australian Wrap or Flatbread"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly slice"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Thinly slice"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Thinly slice"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1/4 cup grated",
+      "notes": "Optional"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet or frying pan over medium-high heat.",
+    "2. Add sliced beef to the pan and cook for 2-3 minutes on each side, or until browned and cooked to your liking.",
+    "3. Remove beef from the pan and set aside to rest.",
+    "4. In the same pan, add sliced onion and cook for 3-4 minutes or until softened and translucent.",
+    "5. Add sliced bell pepper to the pan and cook for an additional 2-3 minutes.",
+    "6. Add passata to the pan, stirring to combine with the onion and bell pepper. Bring to a simmer.",
+    "7. Return the beef to the pan and stir to coat with the sauce.",
+    "8. Warm the wrap in the microwave or in a dry pan for 10-15 seconds.",
+    "9. Assemble the wrap by spooning the beef and sauce mixture onto the center of the wrap.",
+    "10. Top with sliced tomato, grated cheese, and chopped parsley (if using). Fold the wrap in half to enclose.",
+    "11. Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "beef",
+    "wrap",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": "35g",
+    "carbs": "40g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wholesome-wrap-australian-passata-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:56:56.042Z"
+}
