@@ -1,0 +1,88 @@
+{
+  "slug": "warm-crispy-filipino-peppers-kare-kare--french",
+  "title": "French-Style Beef in Peanut Sauce",
+  "description": "A French twist on the classic Filipino dish, with tender beef in a rich and nutty peanut sauce. Serve with steamed vegetables and crusty bread for a hearty meal.",
+  "cuisine": "french",
+  "diet": [
+    "beef",
+    "peanut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "such as sirloin or ribeye"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning the beef"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tablespoons",
+      "notes": "creamy"
+    },
+    {
+      "name": "kare-kare peanut sauce mix",
+      "amount": "1 package",
+      "notes": "available at Asian markets or online"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "to balance the flavors"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of peanut oil in a large skillet over medium-high heat.",
+    "Add the beef strips and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of peanut oil.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the peanut butter until smooth.",
+    "Add the kare-kare peanut sauce mix and stir to combine.",
+    "Add the beef broth and bring the mixture to a simmer.",
+    "Return the beef to the skillet and cook until heated through.",
+    "Season with sugar to balance the flavors.",
+    "Serve hot over steamed vegetables or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "peanut-sauce",
+    "french-cuisine",
+    "filipino-inspired"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-filipino-peppers-kare-kare--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:57:04.460Z"
+}
