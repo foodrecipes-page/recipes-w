@@ -1,0 +1,95 @@
+{
+  "slug": "warm-spanish-oysters-paella--mexican",
+  "title": "Mexican Paella with Oysters",
+  "description": "A twist on the classic Spanish paella, this Mexican version features succulent oysters and a warm, spicy flavor.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Oysters",
+      "amount": "12 large oysters, shucked",
+      "notes": "Fresh, not frozen"
+    },
+    {
+      "name": "Mexican Rice",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Chorizo Sausage",
+      "amount": "1/2 pound",
+      "notes": "Mexican-style chorizo"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 large, diced",
+      "notes": "Any color bell pepper works"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced",
+      "notes": "Red onion adds a sweet flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "Use fresh garlic for the best flavor"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can, diced",
+      "notes": "Use fire-roasted tomatoes for added smokiness"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon, ground",
+      "notes": "Use cumin for a classic Mexican flavor"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Adds a smoky depth to the paella"
+    },
+    {
+      "name": "Paella Spice Blend",
+      "amount": "1 tablespoon",
+      "notes": "Use store-bought or homemade spice blend"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan over medium-high heat.",
+    "Add chorizo sausage and cook until browned, about 2 minutes.",
+    "Add onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add rice and cook for 1-2 minutes, until coated in oil and slightly toasted.",
+    "Add diced tomatoes, cumin, smoked paprika, and paella spice blend.",
+    "Stir to combine, then add chicken broth and bring to a simmer.",
+    "Add oysters to the pan, then reduce heat to low and simmer, covered, for 10-12 minutes, until rice is cooked and oysters are heated through.",
+    "Remove from heat and let rest, covered, for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "seafood",
+    "paella",
+    "chicken-broth",
+    "chorizo-sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spanish-oysters-paella--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:10:58.727Z"
+}
