@@ -19916,5 +19916,18 @@
     "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "w"
+  },
+  {
+    "slug": "warm-smoky-dutch-peanut-butter-stew--thai",
+    "title": "Peanut Butter Stew",
+    "tags": [
+      "thai",
+      "peanut butter",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "w"
   }
 ]
