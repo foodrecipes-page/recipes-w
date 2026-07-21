@@ -1,0 +1,90 @@
+{
+  "slug": "warm-velvety-middle-eastern-boudin-blanc-maqluba",
+  "title": "Middle Eastern Maqluba Boudin Blanc",
+  "description": "A twist on traditional maqluba, this Middle Eastern-inspired dish features boudin blanc and a variety of spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boudin blanc",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "warm pita bread",
+      "amount": "4-6 pieces",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "middle eastern spices",
+      "amount": "1 tablespoon",
+      "notes": "including cumin, coriander, and sumac"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "maqluba sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "blanc vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots, zucchini, and bell peppers"
+    },
+    {
+      "name": "middle eastern herbs",
+      "amount": "1/4 cup",
+      "notes": "such as parsley, cilantro, and dill"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "crumbled feta cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the sliced pita bread and cook until golden brown, about 2-3 minutes per side.",
+    "Remove the pita bread from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet and cook the boudin blanc until browned, about 5 minutes.",
+    "Add the middle eastern spices to the skillet and cook for 1 minute, until fragrant.",
+    "Add the maqluba sauce to the skillet and cook for 2-3 minutes, until heated through.",
+    "Add the blanc vegetables to the skillet and cook until tender, about 5 minutes.",
+    "Stir in the middle eastern herbs and lemon juice.",
+    "Serve the boudin blanc mixture over the pita bread and top with crumbled feta cheese, if desired.",
+    "Garnish with additional middle eastern herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "middle-eastern",
+    "maqluba"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-velvety-middle-eastern-boudin-blanc-maqluba",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:23:45.168Z"
+}
