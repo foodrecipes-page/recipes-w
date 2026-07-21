@@ -1,89 +1,76 @@
 {
   "slug": "warm-spicy-jamaican-chinese-leaf-stew",
-  "title": "Spicy Jamaican Stew",
-  "description": "A flavorful stew with a kick of heat, inspired by Jamaican cuisine. Serve with warm leafy greens.",
-  "cuisine": "jamaican",
+  "title": "Jamaican Jerk Stew",
+  "description": "A flavorful and spicy stew originating from Jamaica, made with a variety of meats and vegetables.",
+  "cuisine": "Jamaican",
   "diet": [
     "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "onions",
-      "amount": "2 medium",
-      "notes": "chopped"
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "2 tsp"
     },
     {
-      "name": "garlic",
-      "amount": "3 cloves",
-      "notes": "minced"
+      "name": "Chayote Squash",
+      "amount": "1 medium"
     },
     {
-      "name": "carrots",
-      "amount": "1 large",
-      "notes": "peeled and chopped"
+      "name": "Bell Peppers",
+      "amount": "2 medium"
     },
     {
-      "name": "sweet potatoes",
-      "amount": "2 medium",
-      "notes": "peeled and chopped"
+      "name": "Onions",
+      "amount": "1 large"
     },
     {
-      "name": "stew leaves",
-      "amount": "1 bunch",
-      "notes": "chopped"
+      "name": "Tomatoes",
+      "amount": "1 can"
     },
     {
-      "name": "canned diced tomatoes",
-      "amount": "1 can",
-      "notes": "14 oz"
+      "name": "Stew Leaf",
+      "amount": "2 cups"
     },
     {
-      "name": "jamaican jerk seasoning",
-      "amount": "2 tsp",
-      "notes": "adjust to taste"
+      "name": "Vegetable Broth",
+      "amount": "2 cups"
     },
     {
-      "name": "hot sauce",
-      "amount": "1 tsp",
-      "notes": "adjust to taste"
-    },
-    {
-      "name": "olive oil",
-      "amount": "2 tbsp",
-      "notes": "for cooking"
+      "name": "Warm Flour Tortillas",
+      "amount": "4-6"
     }
   ],
   "instructions": [
-    "Heat the olive oil in a large pot over medium heat.",
-    "Add the chopped onions and sauté until translucent, about 5 minutes.",
-    "Add the minced garlic and sauté for another minute.",
-    "Add the chopped carrots and sweet potatoes, and stir to combine.",
-    "Add the diced tomatoes, Jamaican jerk seasoning, and hot sauce.",
-    "Stir well to combine, then add the chopped stew leaves.",
-    "Bring the stew to a simmer, then reduce the heat to low and let cook for 20-25 minutes, or until the vegetables are tender.",
-    "Season with salt and pepper to taste.",
-    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the Jamaican Jerk Seasoning and cook for 1 minute.",
+    "Add the chopped onions and bell peppers and cook until tender.",
+    "Add the chopped chayote squash and cook for 5 minutes.",
+    "Add the can of diced tomatoes, vegetable broth, and stew leaf.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Serve the stew hot, garnished with warm flour tortillas."
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 25,
-  "totalTimeMin": 40,
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "spicy",
+    "vegetarian",
     "jamaican",
     "stew",
-    "vegetarian"
+    "warm",
+    "leaf"
   ],
   "nutrition": {
-    "calories": 420,
-    "protein": 8,
-    "carbs": 60,
-    "fat": 15
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-jamaican-chinese-leaf-stew",
   "providerUsed": "groq",
-  "createdAt": "2026-07-17T05:49:00.176Z"
+  "createdAt": "2026-07-18T10:14:45.894Z"
 }
