@@ -7065,17 +7065,16 @@
   },
   {
     "slug": "warm-smoky-norwegian-beet-stew",
-    "title": "Warm Smoky Norwegian Beet Stew",
+    "title": "Norwegian Beet Stew",
     "tags": [
-      "comfort-food",
-      "kosher-friendly",
-      "norwegian-cuisine",
-      "one-pot",
-      "vegetarian",
-      "winter-dish"
+      "beets",
+      "carrots",
+      "smoked-paprika",
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 50,
+    "cuisine": "norwegian",
+    "totalTimeMin": 65,
     "shard": "w"
   },
   {
@@ -19875,6 +19874,33 @@
       "samphire"
     ],
     "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-irish-potato-crumble--german",
+    "title": "German Potato Crumble with Warm Irish Twist",
+    "tags": [
+      "german",
+      "potato",
+      "irish",
+      "comfort-food",
+      "lunch"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-buttery-french-cream-choux-pastry--chinese",
+    "title": "Chinese Cream Puffs (Cantonese-Style Choux Pastry)",
+    "tags": [
+      "chinese",
+      "dessert",
+      "cream",
+      "puffs"
+    ],
+    "cuisine": "chinese",
     "totalTimeMin": 30,
     "shard": "w"
   }
