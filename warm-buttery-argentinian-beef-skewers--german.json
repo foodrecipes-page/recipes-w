@@ -1,0 +1,75 @@
+{
+  "slug": "warm-buttery-argentinian-beef-skewers--german",
+  "title": "Argentinian-Style Beef Skewers with German Spices",
+  "description": "A flavorful and tender beef skewer dish with a twist of German spices, inspired by Argentinian cuisine. Perfect for a hearty dinner.",
+  "cuisine": "german",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (1-inch cubes)",
+      "amount": "1 pound",
+      "notes": "Lean cuts such as sirloin or ribeye work well"
+    },
+    {
+      "name": "Argentinian chimichurri spice blend",
+      "amount": "",
+      "notes": "Available at most Latin American markets or online"
+    },
+    {
+      "name": "warm water",
+      "amount": "2 tablespoons",
+      "notes": "For marinating"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "To balance the acidity of the chimmichurri"
+    },
+    {
+      "name": "German mustard",
+      "amount": "1 tablespoon",
+      "notes": "Such as Düsseldorfer mustard or similar"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped for added flavor"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, mix together warm water, brown sugar, German mustard, and Argentinian chimichurri spice blend.",
+    "2. Add the cubed beef to the marinade and mix well to coat.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat grill to medium-high heat.",
+    "5. Thread the marinated beef cubes onto skewers, leaving a little space between each piece.",
+    "6. Grill the skewers for 8-10 minutes per side, or until cooked to desired doneness.",
+    "7. Let the skewers rest for 5 minutes before serving.",
+    "8. Serve with additional chimichurri sauce, if desired.",
+    "9. Optional: Serve with a side of warm German bread or a simple green salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "argentinian",
+    "beef",
+    "skewers",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-buttery-argentinian-beef-skewers--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:39:53.100Z"
+}
