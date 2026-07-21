@@ -20070,5 +20070,30 @@
     "cuisine": "german",
     "totalTimeMin": 30,
     "shard": "w"
+  },
+  {
+    "slug": "wilted-dutch-callaloo-braised--gluten-free",
+    "title": "Pan-Seared Callaloo with Braised Greens",
+    "tags": [
+      "gluten-free",
+      "caribbean",
+      "side-dish"
+    ],
+    "cuisine": "Caribbean",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-crispy-filipino-peppers-kare-kare--french",
+    "title": "French-Style Beef in Peanut Sauce",
+    "tags": [
+      "beef",
+      "peanut-sauce",
+      "french-cuisine",
+      "filipino-inspired"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "w"
   }
 ]
