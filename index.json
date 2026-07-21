@@ -19851,5 +19851,19 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "w"
+  },
+  {
+    "slug": "warm-crispy-kenyan-meat-skewers--german",
+    "title": "Traditional German Bratwurst Skewers",
+    "tags": [
+      "german",
+      "skewers",
+      "bratwurst",
+      "grill",
+      "beer-bread"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "w"
   }
 ]
