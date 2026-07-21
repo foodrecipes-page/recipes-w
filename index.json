@@ -19968,5 +19968,18 @@
     "cuisine": "italian",
     "totalTimeMin": 12,
     "shard": "w"
+  },
+  {
+    "slug": "warmly-garlicky-argentinian-baby-aubergine-skewers--chinese",
+    "title": "Grilled Aubergine and Baby Beef Skewers",
+    "tags": [
+      "chinese",
+      "grilled",
+      "skewers",
+      "aubergine"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "w"
   }
 ]
