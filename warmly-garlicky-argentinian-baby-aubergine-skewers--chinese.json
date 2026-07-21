@@ -1,0 +1,83 @@
+{
+  "slug": "warmly-garlicky-argentinian-baby-aubergine-skewers--chinese",
+  "title": "Grilled Aubergine and Baby Beef Skewers",
+  "description": "A deliciously simple Chinese-inspired dish featuring tender baby beef and smoky grilled aubergine, served with a warm and garlicky sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "baby beef (1 lb)",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "aubergine",
+      "amount": "2 medium",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "for marinade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "warmly seasoned salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "argentinian chimichurri sauce (store-bought or homemade)",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread the baby beef and aubergine onto skewers.",
+    "In a small bowl, whisk together soy sauce and brown sugar. Brush the marinade onto the skewers.",
+    "Grill the skewers for 8-10 minutes, flipping halfway through, or until the beef is cooked to your liking.",
+    "In a small saucepan, heat the argentinian chimichurri sauce over low heat.",
+    "Warm the garlic in the saucepan with the chimichurri sauce, stirring constantly.",
+    "Serve the grilled skewers with the warm and garlicky sauce spooned over the top.",
+    "Sprinkle with warmly seasoned salt to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "grilled",
+    "skewers",
+    "aubergine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-garlicky-argentinian-baby-aubergine-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:32:57.439Z"
+}
