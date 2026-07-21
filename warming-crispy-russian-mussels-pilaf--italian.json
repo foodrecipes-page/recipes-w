@@ -1,0 +1,75 @@
+{
+  "slug": "warming-crispy-russian-mussels-pilaf--italian",
+  "title": "Mussels in Italian Pilaf",
+  "description": "A classic Italian dish featuring mussels cooked in a flavorful pilaf, perfect for a quick and satisfying dinner.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mussels",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, scrubbed and debearded"
+    },
+    {
+      "name": "italian pilaf mix",
+      "amount": "1 cup",
+      "notes": "follow package instructions for cooking"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup",
+      "notes": "dry white wine, or substitute with chicken broth"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the mussels, white wine, lemon juice, and pilaf mix to the saucepan.",
+    "Stir to combine, then cover the saucepan with a lid.",
+    "Cook for 5-7 minutes, or until the mussels are cooked through and the pilaf is tender.",
+    "Season with salt to taste.",
+    "Serve the mussels and pilaf hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "mussels",
+    "pilaf",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warming-crispy-russian-mussels-pilaf--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:14:47.721Z"
+}
