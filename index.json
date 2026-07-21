@@ -19865,5 +19865,17 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "w"
+  },
+  {
+    "slug": "wilted-brine-malaysian-samphire-stew--vegetarian",
+    "title": "Wilted Samphire Stew",
+    "tags": [
+      "vegetarian",
+      "stew",
+      "samphire"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "w"
   }
 ]
