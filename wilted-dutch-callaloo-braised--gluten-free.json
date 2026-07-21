@@ -1,0 +1,76 @@
+{
+  "slug": "wilted-dutch-callaloo-braised--gluten-free",
+  "title": "Pan-Seared Callaloo with Braised Greens",
+  "description": "A flavorful and nutritious dish that combines the tender callaloo with the rich braised greens.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Callaloo leaves",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Braised greens (such as wilted, dutch, callaloo)",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and sauté for 3-4 minutes, until softened.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the chopped callaloo and braised greens to the skillet, and sauté for 4-5 minutes, until wilted.",
+    "Season with salt, black pepper, and red pepper flakes.",
+    "Serve the callaloo mixture hot, garnished with additional braised greens if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "caribbean",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-dutch-callaloo-braised--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:51:04.221Z"
+}
