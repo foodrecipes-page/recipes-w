@@ -1,0 +1,89 @@
+{
+  "slug": "warm-smoky-dutch-peanut-butter-stew--thai",
+  "title": "Peanut Butter Stew",
+  "description": "A warm, smoky, and flavorful Thai-inspired stew made with peanut butter and Dutch stew. Serve with a side of steamed rice for a delicious meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dutch Stew",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Peanut Butter",
+      "amount": "2 tablespoons",
+      "notes": "creamy peanut butter"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can (14 oz)",
+      "notes": "diced"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": "full-fat coconut milk"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the stew, onion, and garlic and cook until the stew is browned, about 5 minutes.",
+    "Add the red bell pepper and cook for another 2 minutes.",
+    "Add the tomato, coconut milk, fish sauce, and honey (if using).",
+    "Stir in the peanut butter until smooth.",
+    "Bring the stew to a simmer and cook for 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped peanuts or fresh cilantro (if desired).",
+    "Serve with steamed rice or noodles for a filling meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "peanut butter",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20.5,
+    "carbs": 64.2,
+    "fat": 33.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-dutch-peanut-butter-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:18:57.620Z"
+}
