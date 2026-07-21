@@ -1,0 +1,75 @@
+{
+  "slug": "warm-polish-rye-crumble",
+  "title": "Warm Polish Rye Crumble Bread",
+  "description": "A delicious combination of warm spices and polish flavors in a rye crumble bread, perfect for a chilly day.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rye Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Polish Warm Spice Mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Crumble Topping",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "1 large"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine rye flour, polish warm spice mix, and salt.",
+    "In a separate bowl, whisk together eggs and water.",
+    "Add the egg mixture to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth.",
+    "Place the dough in a greased loaf pan.",
+    "Mix crumble topping and sprinkle over the dough.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "Let cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "polish",
+    "rye"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-polish-rye-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:43:04.508Z"
+}
