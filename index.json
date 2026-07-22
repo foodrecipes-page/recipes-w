@@ -13454,19 +13454,15 @@
   },
   {
     "slug": "wholesome-garlicky-russian-garlic-tagine",
-    "title": "russian garlic tagine",
+    "title": "Garlic Wholesome Russian Chicken",
     "tags": [
-      "breakfast",
-      "brunch",
-      "comfort-food",
-      "high-protein",
-      "lunch",
-      "one-pan",
-      "russian-cuisine",
-      "weeknight"
+      "chicken",
+      "russian",
+      "garlic",
+      "wholesome"
     ],
     "cuisine": "russian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 55,
     "shard": "w"
   },
   {
@@ -20184,6 +20180,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-spiced-egyptian-lamb-kebabs--mexican",
+    "title": "Egyptian-Style Lamb Kebabs with Spiced Warmly Tacos",
+    "tags": [
+      "lamb-kebabs",
+      "mexican-food",
+      "middle-eastern-fusion",
+      "spicy-food"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "w"
   }
 ]
