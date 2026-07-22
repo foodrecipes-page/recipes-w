@@ -1,0 +1,65 @@
+{
+  "slug": "warm-crunchy-polish-mushroom-wrap--keto",
+  "title": "Keto Polish Mushroom Wrap",
+  "description": "A keto-friendly twist on traditional polish cuisine, featuring a crunchy mushroom wrap filled with sautéed mushrooms and topped with warm polish cheese.",
+  "cuisine": "polish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mushroom wrap",
+      "amount": "1"
+    },
+    {
+      "name": "fresh mushrooms",
+      "amount": "8 oz"
+    },
+    {
+      "name": "polish cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Wrap the mushroom wrap in a dry cloth and warm it in the oven for 2 minutes.",
+    "Sauté the mushrooms in butter until tender and fragrant.",
+    "Add salt and pepper to taste.",
+    "Place the sautéed mushrooms onto the warmed mushroom wrap.",
+    "Top with polish cheese and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 14,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "low-carb",
+    "polish",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crunchy-polish-mushroom-wrap--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:37:17.964Z"
+}
