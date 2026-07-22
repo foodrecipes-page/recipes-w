@@ -1,0 +1,85 @@
+{
+  "slug": "warm-garlicky-greek-bok-choi-kleftiko--german",
+  "title": "German Style Braised Bok Choi with Kleftiko",
+  "description": "A hearty and flavorful German-inspired braise featuring tender bok choi and rich kleftiko. Perfect for a cold winter evening.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kleftiko",
+      "amount": "1 (2-pound) leg of lamb",
+      "notes": "bone-in"
+    },
+    {
+      "name": "bok choi",
+      "amount": "2 bunches",
+      "notes": "separated into individual florets"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "concentrated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the kleftiko with salt and pepper. Dust with flour, shaking off excess.",
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium-high heat. Sear the kleftiko until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the pot. Add the minced garlic and cook until fragrant, about 1 minute.",
+    "Add the bok choi florets to the pot and cook until slightly wilted, about 5 minutes.",
+    "Add the white wine to the pot, scraping up any browned bits from the bottom. Bring to a simmer and cook until the liquid has almost completely evaporated, about 5 minutes.",
+    "Add the beef broth and tomato paste to the pot. Stir to combine.",
+    "Return the kleftiko to the pot, cover with a lid, and transfer to the preheated oven. Braise for 2 1/2 to 3 hours, or until the meat is tender and falls apart easily.",
+    "Remove the pot from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "lamb",
+    "braise",
+    "winter",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-garlicky-greek-bok-choi-kleftiko--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:11:03.324Z"
+}
