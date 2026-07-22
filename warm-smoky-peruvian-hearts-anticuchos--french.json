@@ -1,0 +1,85 @@
+{
+  "slug": "warm-smoky-peruvian-hearts-anticuchos--french",
+  "title": "Smoked Anticuchos",
+  "description": "A French twist on traditional Peruvian grilled beef heart skewers, smothered in a warm, smoky sauce.",
+  "cuisine": "french",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef heart",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup",
+      "notes": "for marinade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "warm sauce",
+      "amount": "1/4 cup",
+      "notes": "see below for sauce recipe"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together red wine vinegar, olive oil, garlic, smoked paprika, salt, and black pepper.",
+    "3. Add beef heart cubes to the marinade and mix well.",
+    "4. Thread marinated beef heart onto skewers, leaving a small space between each piece.",
+    "5. Grill skewers for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "6. Meanwhile, prepare warm sauce by combining 1/4 cup warm water, 1 tsp smoked paprika, and 1 tsp olive oil in a small bowl.",
+    "7. Brush warm sauce onto grilled anticuchos during the last minute of cooking.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "skewers",
+    "french",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 0,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-peruvian-hearts-anticuchos--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T20:11:21.563Z"
+}
