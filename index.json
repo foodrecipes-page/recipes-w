@@ -16074,16 +16074,16 @@
   },
   {
     "slug": "wilted-juicy-peruvian-cabbage-ceviche-clasico",
-    "title": "Wilted, Juicy Peruvian Cabbage Ceviche Clasico",
+    "title": "Peruvian Ceviche",
     "tags": [
-      "bento-box",
-      "halal",
-      "peruvian",
-      "veggie-friendly",
-      "weeknight"
+      "ceviche",
+      "peruvian-cuisine",
+      "raw-fish",
+      "gluten-free",
+      "vegetarian"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 15,
+    "cuisine": "peruvian",
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -20282,6 +20282,32 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-bouncy-jamaican-squash-fry--german",
+    "title": "Traditional German Braised Squash",
+    "tags": [
+      "german",
+      "hearty",
+      "winter",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-molten-filipino-passata-halo-halo--mexican",
+    "title": "Halo-Halo Mexican Fusion",
+    "tags": [
+      "mexican",
+      "dessert",
+      "halo-halo",
+      "fusion"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 15,
     "shard": "w"
   }
 ]
