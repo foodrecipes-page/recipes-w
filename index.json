@@ -20258,5 +20258,18 @@
     "cuisine": "german",
     "totalTimeMin": 200,
     "shard": "w"
+  },
+  {
+    "slug": "winey-crispy-thai-morbier-tagine--chinese",
+    "title": "Thai-Style Crispy Morbier Spring Rolls",
+    "tags": [
+      "chinese",
+      "spring-rolls",
+      "morbier",
+      "crispy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 23,
+    "shard": "w"
   }
 ]
