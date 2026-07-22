@@ -1,0 +1,73 @@
+{
+  "slug": "well-spiced-chinese-meat-shui-zhu-yu",
+  "title": "Spicy Meat Stir Fry",
+  "description": "A quick and flavorful stir-fry filled with juicy meat and crunchy vegetables.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "meat",
+      "amount": "400g beef strips"
+    },
+    {
+      "name": "well",
+      "amount": "2 tablespoons vegetable oil",
+      "notes": "for frying"
+    },
+    {
+      "name": "spiced",
+      "amount": "2 teaspoons soy sauce"
+    },
+    {
+      "name": "chinese",
+      "amount": "2 teaspoons oyster sauce"
+    },
+    {
+      "name": "shui",
+      "amount": "1 tablespoon Shaoxing wine"
+    },
+    {
+      "name": "zhu",
+      "amount": "1 tablespoon cornstarch"
+    },
+    {
+      "name": "yu",
+      "amount": "1 cup sliced bell peppers"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat.",
+    "Add meat and cook until browned, about 3 minutes.",
+    "Remove meat from wok and set aside.",
+    "Add soy sauce, oyster sauce, and Shaoxing wine to wok.",
+    "Stir to combine and cook for 1 minute.",
+    "Add cornstarch mixture to wok and stir to combine.",
+    "Return meat to wok and stir to coat with sauce.",
+    "Add bell peppers to wok and stir-fry until tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "beef",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/well-spiced-chinese-meat-shui-zhu-yu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:45:25.134Z"
+}
