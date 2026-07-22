@@ -20147,5 +20147,43 @@
     "cuisine": "french",
     "totalTimeMin": 28,
     "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-spanish-chicken-paella--mexican",
+    "title": "Mexican Chicken Paella",
+    "tags": [
+      "mexican",
+      "spicy",
+      "chicken",
+      "paella"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "worcester-worry-free-stew--french",
+    "title": "French Beef Stew",
+    "tags": [
+      "beef-stew",
+      "french-cuisine",
+      "comfort-food"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 170,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-crunchy-mediterranean-chicken-flatbread--italian",
+    "title": "Chicken Mediterranean Flatbread",
+    "tags": [
+      "italian",
+      "chicken",
+      "flatbread",
+      "mediterranean"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "w"
   }
 ]
