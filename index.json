@@ -5411,16 +5411,14 @@
   },
   {
     "slug": "warm-nutty-tunisian-cheese-tagine",
-    "title": "Warm Nutty Tunisian Cheese Tagine",
+    "title": "Tunisian Tagine Chicken",
     "tags": [
-      "cheese-lovers",
-      "nutty-delights",
-      "one-pot-wonders",
-      "tunisian-cuisine",
-      "vegetarian-friendly"
+      "chicken",
+      "tagine",
+      "north-african"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "w"
   },
   {
@@ -20245,6 +20243,20 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-garlicky-greek-bok-choi-kleftiko--german",
+    "title": "German Style Braised Bok Choi with Kleftiko",
+    "tags": [
+      "german",
+      "lamb",
+      "braise",
+      "winter",
+      "hearty"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 200,
     "shard": "w"
   }
 ]
