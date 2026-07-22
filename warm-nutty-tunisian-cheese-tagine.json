@@ -1,0 +1,73 @@
+{
+  "slug": "warm-nutty-tunisian-cheese-tagine",
+  "title": "Tunisian Tagine Chicken",
+  "description": "A traditional North African dish featuring chicken cooked in a flavorful tagine with tunisian spices. This recipe serves 4 and is perfect for a weeknight dinner.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "1 pound",
+      "notes": "Bone-in, skin-on"
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 teaspoons",
+      "notes": "Available at most middle eastern markets"
+    },
+    {
+      "name": "Warm spices",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground cinnamon, ground ginger, ground cumin"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": "Feta or ricotta work well"
+    },
+    {
+      "name": "Tagine",
+      "amount": "1, preheated",
+      "notes": "A clay or ceramic pot with a conical lid"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat the tagine to 300°F (150°C).",
+    "Heat the olive oil in the tagine over medium heat.",
+    "Add the chicken to the tagine and cook until browned on all sides, about 5 minutes.",
+    "Add the tunisian spice blend and warm spices to the tagine and stir to combine.",
+    "Add 1 cup of water to the tagine and bring to a simmer.",
+    "Cover the tagine with the conical lid and transfer to the preheated oven.",
+    "Bake for 30-40 minutes, or until the chicken is cooked through.",
+    "Stir in the crumbled cheese and continue to bake for an additional 5-10 minutes.",
+    "Serve the chicken and sauce hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tagine",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-nutty-tunisian-cheese-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:20:22.480Z"
+}
