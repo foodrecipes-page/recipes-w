@@ -1,0 +1,81 @@
+{
+  "slug": "warmly-spiced-canadian-corned-beef-hash--thai",
+  "title": "Beef Hash with Thai Spices",
+  "description": "A spicy twist on traditional beef hash, influenced by Thai cuisine, with a focus on bold flavors and textures.",
+  "cuisine": "thai",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canadian Beef",
+      "amount": "1 pound, cut into 1-inch cubes",
+      "notes": "Choose a cut with good marbling for tenderness"
+    },
+    {
+      "name": "Warmly Spiced Hash",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Corned Beef",
+      "amount": "1/2 cup, diced",
+      "notes": "Optional for added texture"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste for spiciness"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon",
+      "notes": "For added umami"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": "For balance of flavors"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pan over medium-high heat.",
+    "Add Canadian beef cubes and cook until browned, about 5 minutes.",
+    "Add diced corned beef, Thai red curry paste, fish sauce, and brown sugar. Stir-fry for 1 minute.",
+    "Add warmed spiced hash and stir-fry until combined, about 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Transfer to a serving platter and garnish with chopped cilantro.",
+    "Serve hot, with additional cilantro for garnish if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "beef-hash",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-canadian-corned-beef-hash--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T20:05:20.664Z"
+}
