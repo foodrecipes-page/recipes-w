@@ -1,0 +1,80 @@
+{
+  "slug": "warm-chewy-venezuelan-coconut-pasta--italian",
+  "title": "Coconut Pappardelle",
+  "description": "A twist on traditional Italian pasta with a Venezuelan-inspired coconut sauce. This dish is a unique fusion of Italian and Latin American flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle",
+      "amount": "8 oz",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "chewy",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh coconut"
+    },
+    {
+      "name": "dried basil",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle according to the package instructions.",
+    "While the pasta cooks, heat the olive oil in a large skillet over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Pour in the coconut milk and stir to combine with the garlic.",
+    "Add the chopped dried basil and stir to combine.",
+    "When the pasta is al dente, reserve 1 cup of pasta water and then drain the pappardelle.",
+    "Add the cooked pappardelle to the skillet with the coconut sauce and toss to combine.",
+    "Add some reserved pasta water if the sauce seems too thick.",
+    "Season with salt to taste.",
+    "Serve immediately and garnish with chopped fresh coconut."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "coconut",
+    "pasta",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-chewy-venezuelan-coconut-pasta--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:19:08.491Z"
+}
