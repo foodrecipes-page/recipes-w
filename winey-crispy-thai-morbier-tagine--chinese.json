@@ -1,0 +1,75 @@
+{
+  "slug": "winey-crispy-thai-morbier-tagine--chinese",
+  "title": "Thai-Style Crispy Morbier Spring Rolls",
+  "description": "A unique twist on traditional spring rolls, featuring the creamy texture of Morbier cheese and the crunch of crispy vegetables.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Morbier cheese",
+      "amount": "1 block",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Crispy vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots and beets"
+    },
+    {
+      "name": "Winey spring roll wrappers",
+      "amount": "1 package",
+      "notes": "about 20 wrappers"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. In a large pan or wok, heat 1 tablespoon of oil over medium-high heat.",
+    "2. Add the crispy vegetables and cook until tender, about 3-4 minutes.",
+    "3. Add the Morbier cheese and cook until melted and creamy, about 2-3 minutes.",
+    "4. In a small bowl, mix together the soy sauce and rice vinegar.",
+    "5. Lay a spring roll wrapper on a flat surface and place about 1 tablespoon of the vegetable and cheese mixture in the center.",
+    "6. Brush the edges of the wrapper with water and fold the bottom half up over the filling.",
+    "7. Fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "8. Repeat with the remaining wrappers and filling.",
+    "9. Serve the spring rolls hot with the soy sauce and rice vinegar mixture for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "spring-rolls",
+    "morbier",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-crispy-thai-morbier-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:11:25.115Z"
+}
