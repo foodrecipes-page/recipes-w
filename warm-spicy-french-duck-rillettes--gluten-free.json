@@ -1,0 +1,72 @@
+{
+  "slug": "warm-spicy-french-duck-rillettes--gluten-free",
+  "title": "Spicy Duck Rillettes Crostini",
+  "description": "A French-inspired appetizer featuring spicy duck rillettes served on toasted gluten-free crostini.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Warm spices (cayenne pepper, paprika)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Gluten-free bread",
+      "amount": "1 baguette"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Season the duck breast with warm spices, salt, and black pepper.",
+    "3. Sear the duck breast in a hot skillet until browned, then finish cooking in the oven until it reaches an internal temperature of 165°F (74°C).",
+    "4. Let the duck breast rest before shredding into rillettes.",
+    "5. Toast the gluten-free bread until crispy.",
+    "6. Spread a layer of unsalted butter on each toasted bread slice.",
+    "7. Top each bread slice with a spoonful of duck rillettes.",
+    "8. Garnish with fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "french",
+    "duck",
+    "rillettes",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-french-duck-rillettes--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:59:02.022Z"
+}
