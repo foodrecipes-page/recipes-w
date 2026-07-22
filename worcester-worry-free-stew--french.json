@@ -1,0 +1,97 @@
+{
+  "slug": "worcester-worry-free-stew--french",
+  "title": "French Beef Stew",
+  "description": "A hearty and flavorful French-inspired beef stew, perfect for a chilly evening. This recipe combines tender beef, fresh vegetables, and rich flavors of Worcestershire sauce.",
+  "cuisine": "French",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "optional, but recommended for flavor"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": "fresh or 1 teaspoon dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes. Remove the browned beef from the pot and set aside.",
+    "Add the chopped onion, sliced carrot, and chopped celery to the pot. Cook until the vegetables are tender, about 5 minutes.",
+    "Add the Worcestershire sauce, flour, beef broth, red wine (if using), thyme, salt, and pepper to the pot. Stir to combine.",
+    "Return the browned beef to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, until the beef is tender, about 2 1/2 hours.",
+    "Remove the pot from the heat and let the stew rest for 10 minutes before serving.",
+    "Serve hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "french-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/worcester-worry-free-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T20:22:36.688Z"
+}
