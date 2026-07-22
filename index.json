@@ -20220,5 +20220,31 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "w"
+  },
+  {
+    "slug": "warm-white-spanish-beans-fabada-asturiana--japanese",
+    "title": "Spanish-Style Beans in Japanese Broth",
+    "tags": [
+      "spanish",
+      "japanese",
+      "beans",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-earthy-argentinian-speck-empanadas--german",
+    "title": "Empanada Stuffed Sausage German Sausage",
+    "tags": [
+      "german",
+      "sausage",
+      "empanada",
+      "speck"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "w"
   }
 ]
