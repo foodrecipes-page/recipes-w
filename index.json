@@ -12144,17 +12144,15 @@
   },
   {
     "slug": "well-spiced-chinese-meat-shui-zhu-yu",
-    "title": "Shui Zhu Yu",
+    "title": "Spicy Meat Stir Fry",
     "tags": [
-      "beef",
-      "cantonese",
       "chinese",
-      "one-pan",
-      "spicy",
-      "stir-fry"
+      "stir-fry",
+      "beef",
+      "spicy"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -20270,6 +20268,20 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 23,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-french-duck-rillettes--gluten-free",
+    "title": "Spicy Duck Rillettes Crostini",
+    "tags": [
+      "gluten-free",
+      "french",
+      "duck",
+      "rillettes",
+      "spicy"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
     "shard": "w"
   }
 ]
