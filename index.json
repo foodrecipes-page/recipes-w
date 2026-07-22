@@ -20121,5 +20121,31 @@
     "cuisine": "thai",
     "totalTimeMin": 40,
     "shard": "w"
+  },
+  {
+    "slug": "warmly-spiced-canadian-corned-beef-hash--thai",
+    "title": "Beef Hash with Thai Spices",
+    "tags": [
+      "thai",
+      "beef-hash",
+      "breakfast"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-smoky-peruvian-hearts-anticuchos--french",
+    "title": "Smoked Anticuchos",
+    "tags": [
+      "beef",
+      "grilled",
+      "skewers",
+      "french",
+      "peruvian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 28,
+    "shard": "w"
   }
 ]
