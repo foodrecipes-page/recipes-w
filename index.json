@@ -20095,5 +20095,31 @@
     "cuisine": "french",
     "totalTimeMin": 35,
     "shard": "w"
+  },
+  {
+    "slug": "warm-silky-french-shrimp-tarte-tatin--italian",
+    "title": "Italian Shrimp Tarte Tatin",
+    "tags": [
+      "italian",
+      "dessert",
+      "seafood",
+      "shrimp"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-juicy-mediterranean-lamb-tagine--thai",
+    "title": "Grilled Lamb Skewers with Tagine Glaze",
+    "tags": [
+      "thaifood",
+      "mediterraneancuisine",
+      "grilledlamb",
+      "taginesauce"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "w"
   }
 ]
