@@ -1,0 +1,96 @@
+{
+  "slug": "wholesome-garlicky-russian-garlic-tagine",
+  "title": "Garlic Wholesome Russian Chicken",
+  "description": "A hearty and flavorful dish combining the richness of Russian cuisine with the wholesomeness of fresh ingredients, all tied together with a garlicky twist.",
+  "cuisine": "russian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "wholesome flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tagine",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine chicken, wholesome flour, salt, and pepper. Toss to coat.",
+    "Heat olive oil in a large skillet over medium-high heat. Add garlic and sauté for 1 minute.",
+    "Add chicken to the skillet and cook for 2-3 minutes per side, or until browned.",
+    "Transfer chicken to a baking dish and set aside.",
+    "Add onion, carrots, and potatoes to the skillet and cook for 5 minutes, or until tender.",
+    "Add tagine to the skillet and stir to combine.",
+    "Pour the onion and vegetable mixture over the chicken in the baking dish.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove foil and continue baking for an additional 10-15 minutes, or until chicken is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "russian",
+    "garlic",
+    "wholesome"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-garlicky-russian-garlic-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:41:17.661Z"
+}
