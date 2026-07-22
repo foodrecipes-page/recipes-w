@@ -1,0 +1,83 @@
+{
+  "slug": "warm-earthy-argentinian-speck-empanadas--german",
+  "title": "Empanada Stuffed Sausage German Sausage",
+  "description": "A traditional German sausage with an Argentinian twist, using empanada filling and served with a side of speck.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Speck",
+      "amount": "200g",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Empanada filling",
+      "amount": "400g"
+    },
+    {
+      "name": "Argentinian sausage (Chorizo)",
+      "amount": "500g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Bun or roll",
+      "amount": "4-6"
+    },
+    {
+      "name": "Mustard",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet over medium heat.",
+    "2. Slice the onion and cook until translucent.",
+    "3. Add the garlic and cook for an additional minute.",
+    "4. Add the sliced speck and cook until crispy.",
+    "5. Add the empanada filling and cook until heated through.",
+    "6. Slice the Argentinian sausage and add to the skillet.",
+    "7. Cook for an additional 5 minutes, until the sausage is browned.",
+    "8. Season with salt, black pepper, and thyme.",
+    "9. Serve the sausage mixture on a bun or roll, topped with mustard if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sausage",
+    "empanada",
+    "speck"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-earthy-argentinian-speck-empanadas--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:44:41.887Z"
+}
