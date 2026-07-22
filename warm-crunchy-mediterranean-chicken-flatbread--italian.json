@@ -1,0 +1,84 @@
+{
+  "slug": "warm-crunchy-mediterranean-chicken-flatbread--italian",
+  "title": "Chicken Mediterranean Flatbread",
+  "description": "A flavorful and crunchy Italian-inspired flatbread topped with juicy chicken and Mediterranean spices.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "flatbread",
+      "amount": "1 package",
+      "notes": "preferably gluten-free"
+    },
+    {
+      "name": "warm olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "mediterranean seasoning",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "crunchy feta cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with salt, pepper, and 1 teaspoon of mediterranean seasoning.",
+    "Bake the chicken in the oven for 15-20 minutes, or until cooked through.",
+    "Meanwhile, brush the flatbread with warm olive oil and sprinkle with 1 teaspoon of mediterranean seasoning.",
+    "Bake the flatbread in the oven for 5-7 minutes, or until crispy and golden brown.",
+    "Slice the cooked chicken into thin strips.",
+    "Assemble the flatbread by topping it with the chicken, crunchy feta cheese, and fresh parsley.",
+    "Drizzle with additional warm olive oil, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "flatbread",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crunchy-mediterranean-chicken-flatbread--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T20:56:58.100Z"
+}
