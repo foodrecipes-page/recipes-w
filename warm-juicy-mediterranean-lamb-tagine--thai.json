@@ -1,0 +1,89 @@
+{
+  "slug": "warm-juicy-mediterranean-lamb-tagine--thai",
+  "title": "Grilled Lamb Skewers with Tagine Glaze",
+  "description": "A fusion of Thai and Mediterranean flavors, these grilled lamb skewers are marinated in a mixture of warm spices and then glazed with a sweet and sticky tagine sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder, cut into 1-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger, minced",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tagine Sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine coconut milk, fish sauce, lime juice, honey, ginger, and cilantro. Blend until smooth.",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush lamb with olive oil and then coat with the marinade, making sure each piece is fully coated.",
+    "Let lamb marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Preheat grill to medium-high heat. Grill lamb for 8-10 minutes, or until cooked to desired level of doneness.",
+    "While lamb is grilling, heat tagine sauce in a small saucepan over medium heat.",
+    "Once lamb is cooked, brush tagine sauce onto each skewer during the last 2 minutes of grilling.",
+    "Serve lamb skewers hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "mediterraneancuisine",
+    "grilledlamb",
+    "taginesauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-juicy-mediterranean-lamb-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:39:12.544Z"
+}
