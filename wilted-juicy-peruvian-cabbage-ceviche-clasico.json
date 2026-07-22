@@ -1,0 +1,85 @@
+{
+  "slug": "wilted-juicy-peruvian-cabbage-ceviche-clasico",
+  "title": "Peruvian Ceviche",
+  "description": "A refreshing Peruvian dish made with raw fish marinated in citrus juices and spices.",
+  "cuisine": "peruvian",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peruvian ceviche fish",
+      "amount": "1 pound",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Juicy lime juice",
+      "amount": "1/2 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Wilted red onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Clasico aji amarillo pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Kosher salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Cut the fish into small pieces and place in a shallow dish.",
+    "Squeeze the lime juice over the fish and mix well.",
+    "Add the red onion, cabbage, aji amarillo pepper, salt, and black pepper to the dish.",
+    "Mix well and cover the dish with plastic wrap.",
+    "Refrigerate for at least 30 minutes to allow the fish to marinate.",
+    "Just before serving, stir in the chopped cilantro.",
+    "Serve the ceviche immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "peruvian-cuisine",
+    "raw-fish",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-juicy-peruvian-cabbage-ceviche-clasico",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:19:10.702Z"
+}
