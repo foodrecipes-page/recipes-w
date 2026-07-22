@@ -1,0 +1,94 @@
+{
+  "slug": "warm-spicy-spanish-chicken-paella--mexican",
+  "title": "Mexican Chicken Paella",
+  "description": "A spicy twist on traditional Spanish paella, this Mexican-inspired dish is perfect for a weeknight dinner. Chicken, sausage, and vegetables come together in a flavorful and filling meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": null
+    },
+    {
+      "name": "Spanish chorizo",
+      "amount": "1/2 pound, sliced",
+      "notes": "look for Mexican or Spanish chorizo for authentic flavor"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium onion",
+      "notes": null
+    },
+    {
+      "name": "diced red bell pepper",
+      "amount": "1 medium bell pepper",
+      "notes": null
+    },
+    {
+      "name": "diced tomato",
+      "amount": "1 medium tomato",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked or sweet paprika works well"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chorizo and cook, stirring occasionally, until browned, about 5 minutes.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the onion, bell pepper, and tomato. Cook, stirring occasionally, until the vegetables are tender, about 10 minutes.",
+    "Add the garlic, paprika, and rice. Cook, stirring constantly, for 1 minute.",
+    "Add the chicken broth and water. Bring to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the pan from the heat and let rest, covered, for 5 minutes.",
+    "Fluff the paella with a fork and serve hot.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "spicy",
+    "chicken",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-spanish-chicken-paella--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T20:18:19.451Z"
+}
