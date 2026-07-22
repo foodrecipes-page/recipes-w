@@ -1,0 +1,82 @@
+{
+  "slug": "warm-white-spanish-beans-fabada-asturiana--japanese",
+  "title": "Spanish-Style Beans in Japanese Broth",
+  "description": "A unique fusion of Spanish and Japanese flavors. This warm and comforting dish combines the traditional Spanish fabada beans with a rich Japanese broth.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fabada Asturiana Beans",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "White Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Warm Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Spanish Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Japanese Miso Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the warm water, miso paste, soy sauce, and sesame seeds. Whisk until the miso is dissolved.",
+    "Add the fabada beans to the pot and bring to a boil.",
+    "Reduce the heat to a simmer and cook for 20 minutes, or until the beans are tender.",
+    "While the beans are cooking, prepare the Japanese broth by sautéing the green onions and ginger in olive oil until softened.",
+    "Add the cooked beans to the Japanese broth and season with salt to taste.",
+    "Serve the beans over a bed of white rice.",
+    "Garnish with additional green onions and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "japanese",
+    "beans",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-white-spanish-beans-fabada-asturiana--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:52:20.524Z"
+}
