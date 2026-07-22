@@ -1,0 +1,82 @@
+{
+  "slug": "warm-molten-filipino-passata-halo-halo--mexican",
+  "title": "Halo-Halo Mexican Fusion",
+  "description": "A twist on the classic Filipino dessert, Halo-Halo, with a Mexican fusion of flavors and ingredients.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Passata",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Warm milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Filipino halo",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Molten chocolate",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granola",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sliced almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Whipped cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Combine passata and warm milk in a large bowl.",
+    "2. Add Filipino halo and stir well.",
+    "3. Fold in molten chocolate.",
+    "4. Top with granola and sliced almonds.",
+    "5. Dollop whipped cream on top.",
+    "6. Sprinkle cinnamon and sugar to taste, if desired.",
+    "7. Refrigerate for at least 30 minutes to allow flavors to meld.",
+    "8. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "dessert",
+    "halo-halo",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-molten-filipino-passata-halo-halo--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:57:45.737Z"
+}
