@@ -1,0 +1,93 @@
+{
+  "slug": "warmly-spiced-egyptian-lamb-kebabs--mexican",
+  "title": "Egyptian-Style Lamb Kebabs with Spiced Warmly Tacos",
+  "description": "A fusion of Egyptian and Mexican flavors, these lamb kebabs are served with spiced warmly tacos for a unique and delicious meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "warmly spice blend",
+      "amount": "2 teaspoons",
+      "notes": "available at most middle eastern markets"
+    },
+    {
+      "name": "egyptian kebab spice",
+      "amount": "1 teaspoon",
+      "notes": "available at most middle eastern markets"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "taco shells",
+      "amount": "8-10",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "cheddar or Monterey Jack"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": "mild or spicy"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread lamb cubes, onion, bell pepper, and zucchini onto skewers.",
+    "Brush lamb kebabs with olive oil and season with warmly spice blend and egyptian kebab spice.",
+    "Grill lamb kebabs for 8-10 minutes, turning occasionally, until cooked through.",
+    "Warm taco shells according to package instructions.",
+    "Assemble tacos with grilled lamb kebabs, cilantro, shredded cheese, and salsa.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-kebabs",
+    "mexican-food",
+    "middle-eastern-fusion",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-egyptian-lamb-kebabs--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:00:43.001Z"
+}
