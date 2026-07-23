@@ -1,0 +1,94 @@
+{
+  "slug": "warm-wholesome-norwegian-lamb-wrap--thai",
+  "title": "Thai Lamb Wrap",
+  "description": "A flavorful and spicy Thai-inspired wrap filled with lamb and fresh vegetables.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb leg",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Red Thai curry paste",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat canned coconut milk"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Warm naan wrap",
+      "amount": "1",
+      "notes": "or substitute with a warm flour tortilla"
+    },
+    {
+      "name": "Sliced cucumber",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Sliced carrots",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "1. In a medium skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "2. Add the sliced lamb and cook for 2-3 minutes, or until browned.",
+    "3. Add the red Thai curry paste and cook for 1 minute, stirring constantly.",
+    "4. Stir in the coconut milk and bring to a simmer.",
+    "5. Reduce the heat to low and let simmer for 5 minutes, or until the lamb is cooked through.",
+    "6. Warm the naan wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "7. Assemble the wrap by spreading the lamb mixture onto the naan, followed by the chopped cilantro, lime juice, and sliced vegetables.",
+    "8. Serve immediately and garnish with chopped fresh mint if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "lamb",
+    "wrap",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wholesome-norwegian-lamb-wrap--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:46:06.491Z"
+}
