@@ -1,0 +1,85 @@
+{
+  "slug": "warm-indian-sweet-potato-kheer",
+  "title": "Kheer with Sweet Potato Crunch",
+  "description": "A warm and comforting Indian dessert made with sweet potatoes and kheer, perfect for a sweet treat.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "kheer",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "nutmeg powder",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "dairy or non-dairy milk"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Toss the diced sweet potatoes with 1 tsp of ghee and roast in the oven for 15-20 minutes, or until tender.",
+    "3. In a large saucepan, combine the kheer, milk, sugar, cinnamon powder, nutmeg powder, and cardamom powder. Cook over medium heat, stirring constantly, until the sugar has dissolved.",
+    "4. Add the roasted sweet potatoes to the saucepan and stir to combine.",
+    "5. Bring the mixture to a simmer and cook for 2-3 minutes, or until heated through.",
+    "6. Remove from heat and let cool slightly.",
+    "7. Serve warm, garnished with a sprinkle of cinnamon powder if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "dessert",
+    "sweet",
+    "warm",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-indian-sweet-potato-kheer",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:55:55.505Z"
+}
