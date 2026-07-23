@@ -1,0 +1,94 @@
+{
+  "slug": "welcoming-smoked-portuguese-herring-gratin--german",
+  "title": "Smoked Herring Gratin",
+  "description": "A traditional German-inspired dish with a twist, featuring smoked herring in a rich gratin.",
+  "cuisine": "german",
+  "diet": [
+    "fish",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked herring",
+      "amount": "1 fillet",
+      "notes": "Fresh or canned is fine"
+    },
+    {
+      "name": "Portuguese bread",
+      "amount": "1 loaf",
+      "notes": "For croutons"
+    },
+    {
+      "name": "Welcoming cheese blend",
+      "amount": "1 cup",
+      "notes": "A mix of cheddar, parmesan, and gouda"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "Whole or 2%"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the onion and separate into rings.",
+    "Crumb the Portuguese bread into small pieces and set aside.",
+    "In a separate bowl, mix the welcoming cheese blend, eggs, and milk.",
+    "Grease a baking dish with butter.",
+    "Add a layer of sliced onion, followed by a layer of smoked herring.",
+    "Sprinkle crumbled bread over the herring, then pour the cheese mixture over.",
+    "Repeat the layers one more time, ending with a layer of cheese on top.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the gratin is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "fish",
+    "gratin",
+    "smoked-herring"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/welcoming-smoked-portuguese-herring-gratin--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:06:42.731Z"
+}
