@@ -8125,17 +8125,16 @@
   },
   {
     "slug": "warm-spicy-mediterranean-fregola-pilaf",
-    "title": "Warm Spicy Mediterranean Fregola Pilaf",
+    "title": "Spicy Fregola Pilaf",
     "tags": [
-      "date-night",
-      "gluten-free",
-      "mediterranean-inspired",
-      "one-pan",
-      "spicy-food",
-      "vegetarian"
+      "spicy",
+      "mediterranean",
+      "pilaf",
+      "fregola",
+      "gluten-free"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
