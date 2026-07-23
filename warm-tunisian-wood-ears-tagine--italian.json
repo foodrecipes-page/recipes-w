@@ -1,0 +1,94 @@
+{
+  "slug": "warm-tunisian-wood-ears-tagine--italian",
+  "title": "Tunisian Chicken Tagine",
+  "description": "A North African dish with Italian twist, featuring chicken cooked in a flavorful tagine sauce. Perfect for a cozy dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 lbs",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger; cook for 1 minute.",
+    "Add chicken; cook until browned, about 5 minutes.",
+    "Add cumin, paprika, salt, and pepper; stir to combine.",
+    "Add broth; bring to a boil.",
+    "Reduce heat to low; cover and simmer for 30 minutes.",
+    "Stir in chopped ears of wood (parsley); cover and cook for 5 minutes.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tagine",
+    "north-african",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-tunisian-wood-ears-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:10:04.714Z"
+}
