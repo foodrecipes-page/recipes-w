@@ -1,79 +1,87 @@
 {
   "slug": "warm-buttery-french-cream-choux-pastry--chinese",
-  "title": "Chinese Cream Puffs (Cantonese-Style Choux Pastry)",
-  "description": "A twist on the classic French cream puff, these Cantonese-style choux pastry pastries are filled with a sweet and creamy filling, perfect for any Chinese-inspired dessert.",
+  "title": "Cream-Filled Choux Pastry Bites",
+  "description": "A Chinese-inspired dessert, these cream-filled choux pastry bites are a perfect fusion of French and Asian flavors.",
   "cuisine": "chinese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": null,
   "meal": "dessert",
   "ingredients": [
     {
-      "name": "Choux pastry",
-      "amount": "1 package (thawed)",
-      "notes": ""
+      "name": "warm water",
+      "amount": "1 1/2 cups"
     },
     {
-      "name": "Warm milk",
-      "amount": "1 cup",
-      "notes": ""
+      "name": "all-purpose flour",
+      "amount": "1 cup"
     },
     {
-      "name": "Butter",
-      "amount": "4 tablespoons",
-      "notes": ""
+      "name": "butter, softened",
+      "amount": "1/2 cup"
     },
     {
-      "name": "Cream",
-      "amount": "1 cup",
-      "notes": ""
+      "name": "unsalted butter, melted",
+      "amount": "1/4 cup"
     },
     {
-      "name": "Sugar",
-      "amount": "2 tablespoons",
-      "notes": ""
+      "name": "large eggs",
+      "amount": "4"
     },
     {
-      "name": "Egg",
-      "amount": "1",
-      "notes": ""
+      "name": "vanilla extract",
+      "amount": "1 tsp"
     },
     {
-      "name": "Vanilla extract",
-      "amount": "1 teaspoon",
-      "notes": ""
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "choux pastry dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "whipped cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "matcha powder",
+      "amount": "2 tsp"
     }
   ],
   "instructions": [
     "Preheat the oven to 400°F (200°C).",
     "Line a baking sheet with parchment paper.",
-    "Scoop the choux pastry into balls, about 1 inch in diameter.",
-    "Place the balls onto the prepared baking sheet, leaving about 1 inch of space between each puff.",
-    "Brush the tops of the puffs with butter and bake for 15-20 minutes, or until golden brown.",
-    "While the puffs are baking, prepare the filling by whipping the cream and sugar until stiff peaks form.",
-    "Add the vanilla extract and mix until combined.",
-    "Once the puffs are done, allow them to cool slightly before filling with the cream mixture.",
-    "Serve immediately and enjoy!"
+    "In a medium saucepan, combine the warm water, sugar, and melted butter.",
+    "Bring to a boil, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "Add the flour and cook, stirring constantly, for 2-3 minutes.",
+    "Remove from heat and let cool slightly.",
+    "Add the eggs one at a time, stirring well after each addition.",
+    "Stir in the vanilla extract.",
+    "Pipe the dough into small balls and bake for 15-20 minutes, or until golden brown.",
+    "Allow the pastry balls to cool completely.",
+    "Split each pastry ball in half horizontally using a serrated knife.",
+    "Fill the pastry shells with whipped cream and a sprinkle of matcha powder.",
+    "Serve immediately."
   ],
-  "prepTimeMin": 10,
+  "prepTimeMin": 20,
   "cookTimeMin": 20,
-  "totalTimeMin": 30,
-  "servings": 8,
+  "totalTimeMin": 40,
+  "servings": 12,
   "difficulty": "medium",
   "tags": [
     "chinese",
     "dessert",
-    "cream",
-    "puffs"
+    "creamy",
+    "matcha",
+    "pastry"
   ],
   "nutrition": {
-    "calories": 240,
-    "protein": 4,
-    "carbs": 24,
-    "fat": 14
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/warm-buttery-french-cream-choux-pastry--chinese",
   "providerUsed": "groq",
-  "createdAt": "2026-07-18T06:04:44.345Z"
+  "createdAt": "2026-07-19T13:12:29.443Z"
 }
