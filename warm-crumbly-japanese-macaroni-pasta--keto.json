@@ -1,0 +1,78 @@
+{
+  "slug": "warm-crumbly-japanese-macaroni-pasta--keto",
+  "title": "Japanese Macaroni Salad",
+  "description": "A keto-friendly Japanese-inspired macaroni salad with a warm and crumbly twist.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Macaroni",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Warm sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Crumbly furikake",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Diced cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Diced avocado",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Keto mayonnaise",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce (low-carb)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Cook macaroni al dente and set aside.",
+    "In a pan, heat the warm sesame oil over medium heat.",
+    "Add crumbly furikake and cook for 1 minute until fragrant.",
+    "Add sliced green onions and diced cucumber, cook for 2 minutes.",
+    "Stir in diced avocado, keto mayonnaise, soy sauce, and sesame seeds.",
+    "Combine cooked macaroni with the pan mixture and toss to coat.",
+    "Season with salt and pepper to taste.",
+    "Chill in the refrigerator for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "japanese",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crumbly-japanese-macaroni-pasta--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:02:32.681Z"
+}
