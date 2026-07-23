@@ -1,0 +1,73 @@
+{
+  "slug": "walnut-elixir--chinese",
+  "title": "Chinese Walnut Stir Fry",
+  "description": "A quick and easy Chinese-inspired stir fry with crunchy walnuts and a hint of sweetness.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "walnut",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "elixir",
+      "amount": "2 tablespoons",
+      "notes": "Assuming Elixir is a sweetener like honey or syrup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon, grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add garlic and ginger; stir-fry for 30 seconds.",
+    "Add bean sprouts and cook until they start to soften, about 2 minutes.",
+    "Add chopped scallions and cook for an additional minute.",
+    "Add chopped walnuts and stir-fry for 1-2 minutes, until they start to brown.",
+    "Add elixir and stir-fry for 30 seconds.",
+    "Stir in soy sauce and cook for an additional 30 seconds.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-cuisine",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/walnut-elixir--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:28:02.310Z"
+}
