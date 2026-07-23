@@ -1,0 +1,96 @@
+{
+  "slug": "wholesome-indian-lemongrass-takrai-dal",
+  "title": "Lemongrass Takrai Dal",
+  "description": "A flavorful Indian-inspired dal made with lemongrass and takrai, perfect for a weeknight dinner. This comforting dish is rich in protein and fiber, making it a nutritious option for a busy evening.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "takrai",
+      "amount": "2 cups",
+      "notes": "mixed greens"
+    },
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "neutral tasting oil"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add chopped onion and sauté until translucent, about 5 minutes.",
+    "Add minced garlic and sauté for 1 minute.",
+    "Add chopped lemongrass and sauté for 1 minute.",
+    "Add red lentils, turmeric, cumin, coriander, and salt. Stir to combine.",
+    "Add mixed greens (takrai) and stir to combine.",
+    "Add 4 cups of water to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until the lentils are tender.",
+    "Stir in some chopped fresh cilantro or scallions, if desired.",
+    "Serve hot, garnished with additional cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "lentils",
+    "lemongrass"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-indian-lemongrass-takrai-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:19:39.896Z"
+}
