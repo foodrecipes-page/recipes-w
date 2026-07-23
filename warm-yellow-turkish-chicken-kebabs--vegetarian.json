@@ -1,0 +1,81 @@
+{
+  "slug": "warm-yellow-turkish-chicken-kebabs--vegetarian",
+  "title": "Turkish-Style Stuffed Bell Peppers",
+  "description": "A flavorful and nutritious vegetarian dish inspired by Turkish cuisine, featuring bell peppers filled with a savory mixture of rice, herbs, and spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "warm water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "yellow onions",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the tops off the bell peppers and remove seeds and membranes.",
+    "In a large bowl, mix together rice, warm water, onions, parsley, cumin, salt, and pepper.",
+    "Stuff each bell pepper with the rice mixture and place them in a baking dish.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove foil and bake for an additional 10-15 minutes, until the bell peppers are tender.",
+    "Serve warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "stuffed-bell-peppers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-yellow-turkish-chicken-kebabs--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:15:52.515Z"
+}
