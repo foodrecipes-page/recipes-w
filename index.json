@@ -19874,15 +19874,16 @@
   },
   {
     "slug": "warm-buttery-french-cream-choux-pastry--chinese",
-    "title": "Chinese Cream Puffs (Cantonese-Style Choux Pastry)",
+    "title": "Cream-Filled Choux Pastry Bites",
     "tags": [
       "chinese",
       "dessert",
-      "cream",
-      "puffs"
+      "creamy",
+      "matcha",
+      "pastry"
     ],
     "cuisine": "chinese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -20394,6 +20395,45 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-roasted-indian-lamb-biryani--japanese",
+    "title": "Japanese Lamb Biryani",
+    "tags": [
+      "japanese",
+      "lamb",
+      "biryani",
+      "indian-fusion"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
+    "slug": "welcoming-smoked-portuguese-herring-gratin--german",
+    "title": "Smoked Herring Gratin",
+    "tags": [
+      "german",
+      "fish",
+      "gratin",
+      "smoked-herring"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-tunisian-wood-ears-tagine--italian",
+    "title": "Tunisian Chicken Tagine",
+    "tags": [
+      "chicken",
+      "tagine",
+      "north-african",
+      "italian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
     "shard": "w"
   }
 ]
