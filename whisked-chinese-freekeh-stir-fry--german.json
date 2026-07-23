@@ -1,0 +1,90 @@
+{
+  "slug": "whisked-chinese-freekeh-stir-fry--german",
+  "title": "German-Style Stir-Fry with Freekeh",
+  "description": "A fusion of Chinese stir-frying techniques and traditional German ingredients, this dish combines the nutty flavor of freekeh with the savory taste of German sausage.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sausage (Bratwurst)",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Freekeh",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "500ml",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Herbs (Thyme, Oregano)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and bell pepper and fry until tender, about 5 minutes.",
+    "Add the sliced mushrooms and continue to fry for another 2-3 minutes.",
+    "Add the sausage and cook until browned on all sides, about 5 minutes.",
+    "Add the freekeh and cook, stirring frequently, for 2-3 minutes.",
+    "Add the tomato paste, chicken broth, and herbs. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Stir in the diced tomato and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stir-fry",
+    "freekeh"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whisked-chinese-freekeh-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:46:19.965Z"
+}
