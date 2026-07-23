@@ -1,0 +1,82 @@
+{
+  "slug": "winey-velvety-argentinian-samphire-empanadas--japanese",
+  "title": "Pan-Seared Empanadas with Samphire and Yuzu Sauce",
+  "description": "A Japanese twist on traditional empanadas with pan-seared samphire and a zesty yuzu sauce. Perfect for a dinner party.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Empanadas",
+      "amount": "4-6 pieces",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Samphire",
+      "amount": "1 bunch",
+      "notes": "Trimmed and washed"
+    },
+    {
+      "name": "Argentinian Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For pan-searing"
+    },
+    {
+      "name": "Winey Balsamic Vinegar",
+      "amount": "2 tbsp",
+      "notes": "For yuzu sauce"
+    },
+    {
+      "name": "Velvety Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "For yuzu sauce"
+    },
+    {
+      "name": "Yuzu Juice",
+      "amount": "2 tbsp",
+      "notes": "For yuzu sauce"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Pan-sear the empanadas in Argentinian Olive Oil until golden brown.",
+    "3. Wrap the empanadas in foil and bake for 10 minutes.",
+    "4. Meanwhile, cook the samphire in boiling water until tender. Drain and set aside.",
+    "5. In a small saucepan, combine Winey Balsamic Vinegar, Velvety Soy Sauce, and Yuzu Juice.",
+    "6. Bring the sauce to a simmer over medium heat and cook until reduced.",
+    "7. Remove the empanadas from the oven and top with cooked samphire and yuzu sauce.",
+    "8. Season with Salt and Pepper to taste.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "empanadas",
+    "samphire",
+    "yuzu"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-velvety-argentinian-samphire-empanadas--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:00:40.350Z"
+}
