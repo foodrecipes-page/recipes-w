@@ -1,0 +1,96 @@
+{
+  "slug": "warm-argentinian-chicken-stew--mexican",
+  "title": "Warm Chicken Stew",
+  "description": "A hearty and comforting stew made with warm spices and tender chicken, perfect for a chilly evening.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Warm spices",
+      "amount": "1 teaspoon ground cumin",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Remove the chicken and set aside.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the cumin and cook for 1 minute.",
+    "Add the wine and cook until reduced by half, about 5 minutes.",
+    "Add the stew, chicken broth, and tomatoes.",
+    "Return the chicken to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the chicken is cooked through, about 25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-argentinian-chicken-stew--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:48:59.932Z"
+}
