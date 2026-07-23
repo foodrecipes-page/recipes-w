@@ -20459,5 +20459,18 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "w"
+  },
+  {
+    "slug": "winey-velvety-argentinian-samphire-empanadas--japanese",
+    "title": "Pan-Seared Empanadas with Samphire and Yuzu Sauce",
+    "tags": [
+      "japanese",
+      "empanadas",
+      "samphire",
+      "yuzu"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "w"
   }
 ]
