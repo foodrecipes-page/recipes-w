@@ -20472,5 +20472,30 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "w"
+  },
+  {
+    "slug": "warm-argentinian-chicken-stew--mexican",
+    "title": "Warm Chicken Stew",
+    "tags": [
+      "chicken",
+      "stew",
+      "mexican"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-dense-indian-lentil-curry--chinese",
+    "title": "Lentil and Curry Stir Fry",
+    "tags": [
+      "lentil",
+      "curry",
+      "stir-fry",
+      "chinese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
+    "shard": "w"
   }
 ]
