@@ -20332,5 +20332,55 @@
     "cuisine": "Japanese",
     "totalTimeMin": 25,
     "shard": "w"
+  },
+  {
+    "slug": "warm-kenyan-sweet-potato-casserole--japanese",
+    "title": "Japanese Sweet Potato Casserole",
+    "tags": [
+      "japanese",
+      "sweet-potato",
+      "kenyan"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
+    "slug": "whisked-chinese-freekeh-stir-fry--german",
+    "title": "German-Style Stir-Fry with Freekeh",
+    "tags": [
+      "german",
+      "stir-fry",
+      "freekeh"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-italian-black-beans-crumble--german",
+    "title": "German Black Bean Crumble",
+    "tags": [
+      "german",
+      "beans",
+      "crumble",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-yellow-turkish-chicken-kebabs--vegetarian",
+    "title": "Turkish-Style Stuffed Bell Peppers",
+    "tags": [
+      "turkish",
+      "vegetarian",
+      "stuffed-bell-peppers"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 55,
+    "shard": "w"
   }
 ]
