@@ -20381,5 +20381,19 @@
     "cuisine": "Turkish",
     "totalTimeMin": 55,
     "shard": "w"
+  },
+  {
+    "slug": "winey-jamaican-cream-bowl--thai",
+    "title": "Thai Jamaican Coconut Cream Soup",
+    "tags": [
+      "thai",
+      "creamy",
+      "soups",
+      "lunch",
+      "comfort-food"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "w"
   }
 ]
