@@ -20432,5 +20432,32 @@
     "cuisine": "italian",
     "totalTimeMin": 50,
     "shard": "w"
+  },
+  {
+    "slug": "warm-crunchy-thai-chicken-skewers--indian",
+    "title": "Tandoori Chicken Skewers",
+    "tags": [
+      "indian",
+      "grilled",
+      "chicken",
+      "skewers",
+      "veggies"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wholesome-norwegian-lamb-wrap--thai",
+    "title": "Thai Lamb Wrap",
+    "tags": [
+      "thai",
+      "lamb",
+      "wrap",
+      "curry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "w"
   }
 ]
