@@ -1,0 +1,80 @@
+{
+  "slug": "warm-creamy-american-chicken-casserole--mexican",
+  "title": "Creamy Chicken Mexican Casserole",
+  "description": "A rich and satisfying casserole filled with tender chicken, creamy sauce, and a blend of Mexican spices.",
+  "cuisine": "mexican",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "warm tortillas",
+      "amount": "6-8"
+    },
+    {
+      "name": "creamy salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheese (cheddar or Monterey Jack)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cooked Mexican rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced bell peppers",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the Mexican rice according to package instructions.",
+    "Dice the onions and bell peppers, and sauté in a pan until tender.",
+    "Add the cumin to the pan and stir to combine.",
+    "In a separate pan, warm the tortillas over medium heat.",
+    "In a large mixing bowl, combine the cooked rice, sautéed onions and bell peppers, and cooked chicken.",
+    "In a separate bowl, combine the creamy salsa and shredded cheese.",
+    "In a 9x13 inch baking dish, create a layer of tortillas.",
+    "Next, add a layer of the rice and chicken mixture, followed by a layer of the creamy salsa and cheese mixture.",
+    "Repeat this process two more times, ending with a layer of the creamy salsa and cheese mixture on top.",
+    "Bake in the preheated oven for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "casserole",
+    "chicken",
+    "cheesy",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-creamy-american-chicken-casserole--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:59:43.135Z"
+}
