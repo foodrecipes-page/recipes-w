@@ -1,0 +1,95 @@
+{
+  "slug": "warm-smoky-ethiopian-lamb-berbere-stew--keto",
+  "title": "Berbere Lamb Stew",
+  "description": "A hearty, flavorful stew made with lamb and berbere spice, perfect for a keto diet. This stew is warm and comforting, with a smoky depth from the spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Add berbere spice and cook for 1 minute.",
+    "Add chicken broth and water, and stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 1 1/2 hours, or until lamb is tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh parsley.",
+    "Serve with a side of cauliflower rice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "lamb",
+    "stew",
+    "berbere"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 46,
+    "carbs": 6,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-ethiopian-lamb-berbere-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:57:39.793Z"
+}
