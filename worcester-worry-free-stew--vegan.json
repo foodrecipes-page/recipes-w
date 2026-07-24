@@ -1,0 +1,66 @@
+{
+  "slug": "worcester-worry-free-stew--vegan",
+  "title": "Vegan Stew",
+  "description": "A hearty, comforting stew made with plant-based ingredients.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Carrots",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Free Worcestershire sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the carrots and potatoes, and cook for an additional 5 minutes.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes, or until the potatoes are tender.",
+    "Stir in the Worcestershire sauce and season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "stew",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/worcester-worry-free-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:09:10.737Z"
+}
