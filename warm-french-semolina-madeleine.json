@@ -1,0 +1,81 @@
+{
+  "slug": "warm-french-semolina-madeleine",
+  "title": "French Semolina Madeleine Cake",
+  "description": "A traditional French cake made with semolina flour, perfect for a warm breakfast or snack. This recipe yields a moist and flavorful madeleine cake with a delicate crumb.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Grease a madeleine pan and dust it with confectioners' sugar.",
+    "In a medium bowl, whisk together the semolina flour, all-purpose flour, granulated sugar, and salt.",
+    "In a large bowl, whisk together the eggs and melted butter.",
+    "Add the milk and vanilla extract to the egg mixture and whisk until smooth.",
+    "Gradually add the dry ingredients to the wet ingredients and whisk until combined.",
+    "Pour the batter into the prepared madeleine pan and smooth the top.",
+    "Bake for 12-15 minutes or until the edges are golden brown.",
+    "Remove the cake from the oven and let it cool in the pan for 5 minutes.",
+    "Transfer the cake to a wire rack to cool completely.",
+    "Dust the cake with confectioners' sugar before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "cake",
+    "madeleine",
+    "warm",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-french-semolina-madeleine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:27:37.058Z"
+}
