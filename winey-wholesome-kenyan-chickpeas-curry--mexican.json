@@ -1,0 +1,85 @@
+{
+  "slug": "winey-wholesome-kenyan-chickpeas-curry--mexican",
+  "title": "Kenyan Curry Chickpea Tacos",
+  "description": "A flavorful twist on traditional tacos, featuring Kenyan-inspired curry and wholesome chickpeas in a crispy Mexican taco shell. Serve with your favorite toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 (15 ounce) can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Kenyan curry",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "wholesome oil",
+      "amount": "2 tablespoons",
+      "notes": "such as avocado or grapeseed oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "winey vinegar",
+      "amount": "1 tablespoon",
+      "notes": "such as apple cider vinegar"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4-6 corn tortillas",
+      "notes": "for tacos"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the wholesome oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the Kenyan curry and cook for 1-2 minutes.",
+    "Add the chickpeas and winey vinegar, and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the chickpeas are coated in the curry sauce.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the chickpea curry mixture onto a tortilla and topping with your favorite toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "curry",
+    "chickpeas",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-wholesome-kenyan-chickpeas-curry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:06:42.111Z"
+}
