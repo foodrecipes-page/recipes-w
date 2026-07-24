@@ -20531,5 +20531,46 @@
     "cuisine": "german",
     "totalTimeMin": 20,
     "shard": "w"
+  },
+  {
+    "slug": "warm-smoky-ethiopian-lamb-berbere-stew--keto",
+    "title": "Berbere Lamb Stew",
+    "tags": [
+      "keto",
+      "lamb",
+      "stew",
+      "berbere"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 105,
+    "shard": "w"
+  },
+  {
+    "slug": "warming-saudi-egg-flatbread--german",
+    "title": "German-Style Flatbread with Fried Egg and Warming Sauce",
+    "tags": [
+      "german",
+      "breakfast",
+      "flatbread",
+      "egg",
+      "warming-sauce"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-chewy-venezuelan-coconut-pasta--german",
+    "title": "Käsespätzle mit Kokosnuss",
+    "tags": [
+      "german",
+      "spätzle",
+      "coconut",
+      "cheese",
+      "comfortfood"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "w"
   }
 ]
