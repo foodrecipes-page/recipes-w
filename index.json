@@ -3460,17 +3460,16 @@
   },
   {
     "slug": "warm-french-semolina-madeleine",
-    "title": "Warm French Semolina Madeleine",
+    "title": "French Semolina Madeleine Cake",
     "tags": [
-      "crunchy-snack",
-      "french-dish",
-      "one-pot",
-      "pescatarian-friendly",
-      "semolina-madeleine",
-      "warm-dessert"
+      "french",
+      "cake",
+      "madeleine",
+      "warm",
+      "breakfast"
     ],
     "cuisine": "French",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -20742,6 +20741,34 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-indian-lemongrass-takrai-dal--italian",
+    "title": "Lemongrass Chicken Tikka Pasta",
+    "tags": [
+      "italian",
+      "indian",
+      "chicken",
+      "pasta",
+      "lemongrass",
+      "tikka"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "wicked-malted-uruguayan-cheese-stir-fry--vegan",
+    "title": "Uruguayan Cheesy Wicked Fries",
+    "tags": [
+      "cheesy",
+      "fries",
+      "vegan",
+      "snack"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "w"
   }
 ]
