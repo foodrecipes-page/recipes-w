@@ -20716,5 +20716,32 @@
     "cuisine": "argentinian",
     "totalTimeMin": 40,
     "shard": "w"
+  },
+  {
+    "slug": "wholesome-sweet-saffron-mechoui-bento-box--vegan",
+    "title": "Vegan Saffron Bento Bowl",
+    "tags": [
+      "vegan",
+      "saffron",
+      "bento",
+      "lunch"
+    ],
+    "cuisine": "Vegan",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-mediterranean-fregola-pilaf--vegetarian",
+    "title": "Spicy Fregola Pilaf",
+    "tags": [
+      "vegetarian",
+      "pilaf",
+      "fregola",
+      "mediterranean",
+      "spicy"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "w"
   }
 ]
