@@ -1,0 +1,84 @@
+{
+  "slug": "wildly-charred-vietnamese-vegetable-noodles--keto",
+  "title": "Wildly Spicy Charred Beef Noodle Stir Fry",
+  "description": "A spicy and savory stir-fry with charred beef, noodles, and vietnamese flavors, perfect for a keto diet.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wildly charred beef",
+      "amount": "1/2 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Vietnamese noodles",
+      "amount": "1 cup",
+      "notes": "Rice-based noodles"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "Spicy kick"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "Vietnamese flavor"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "Salty, savory flavor"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "2. Add the charred beef to the skillet and cook for 2-3 minutes, or until browned.",
+    "3. Add the garlic and ginger to the skillet and cook for 1 minute, until fragrant.",
+    "4. Add the noodles to the skillet and cook for 2-3 minutes, until heated through.",
+    "5. Add the red pepper flakes, fish sauce, and soy sauce to the skillet and stir to combine.",
+    "6. Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "7. Serve the charred beef and noodle stir-fry hot, garnished with green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "wildly charred",
+    "beef",
+    "noodle",
+    "stir-fry",
+    "vietnamese",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wildly-charred-vietnamese-vegetable-noodles--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:26:19.597Z"
+}
