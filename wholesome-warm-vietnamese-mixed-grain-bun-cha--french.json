@@ -1,0 +1,87 @@
+{
+  "slug": "wholesome-warm-vietnamese-mixed-grain-bun-cha--french",
+  "title": "French-Style Vietnamese Banh Mi",
+  "description": "A fusion of French and Vietnamese flavors, this sandwich features a crispy baguette filled with a flavorful combination of meats and pickled vegetables.",
+  "cuisine": "french",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baguette",
+      "amount": "1",
+      "notes": "preferably a crusty French baguette"
+    },
+    {
+      "name": "Vietnamese-style pork sausage",
+      "amount": "1/2 pound",
+      "notes": "such as cha siu or banh mi sausage"
+    },
+    {
+      "name": "grilled pork chops",
+      "amount": "1/2 pound",
+      "notes": "marinated in a mixture of fish sauce, lime juice, and brown sugar"
+    },
+    {
+      "name": "pickled carrots and daikon",
+      "amount": "1/2 cup",
+      "notes": "made with a mixture of vinegar, sugar, and salt"
+    },
+    {
+      "name": "cucumber slices",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": "such as Duke's or homemade"
+    },
+    {
+      "name": "sriracha",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Grill the pork chops until cooked through, about 5-7 minutes per side.",
+    "Slice the grilled pork chops into thin strips.",
+    "Grill the Vietnamese-style pork sausage until browned and crispy, about 2-3 minutes per side.",
+    "Slice the grilled sausage into thin rounds.",
+    "Split the baguette in half lengthwise and toast until crispy.",
+    "Spread mayonnaise on the bottom half of the baguette.",
+    "Add sliced grilled pork, grilled sausage, pickled carrots and daikon, cucumber slices, and cilantro leaves to the bottom half of the baguette.",
+    "Drizzle sriracha on top of the filling, if using.",
+    "Top with the top half of the baguette.",
+    "Serve immediately and enjoy!",
+    "Note: You can also assemble the sandwich just before serving and let everyone build their own."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "vietnamese",
+    "sandwich",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-warm-vietnamese-mixed-grain-bun-cha--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:13:22.335Z"
+}
