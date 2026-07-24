@@ -5460,17 +5460,15 @@
   },
   {
     "slug": "warm-peppery-australian-pumpkin-pie",
-    "title": "Warm Peppery Australian Pumpkin Pie",
+    "title": "Warm Pumpkin Pie",
     "tags": [
       "australian",
-      "comfort-food",
-      "flambe",
-      "no-garlic-no-onion",
-      "savory-pie",
-      "single-serving"
+      "pumpkin",
+      "pie",
+      "dessert"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 45,
+    "cuisine": "australian",
+    "totalTimeMin": 65,
     "shard": "w"
   },
   {
@@ -20833,6 +20831,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 22,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-tunisian-chocolate-tagine--indian",
+    "title": "Wholesome Chicken Tagine",
+    "tags": [
+      "indian",
+      "chicken",
+      "tagine",
+      "wholesome"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
     "shard": "w"
   }
 ]
