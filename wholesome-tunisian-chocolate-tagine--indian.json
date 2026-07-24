@@ -1,0 +1,86 @@
+{
+  "slug": "wholesome-tunisian-chocolate-tagine--indian",
+  "title": "Wholesome Chicken Tagine",
+  "description": "A hearty and flavorful Indian-inspired dish made with wholesome chicken, tunisian spices, and a hint of chocolate.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wholesome chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 teaspoons",
+      "notes": "A mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "1 teaspoon",
+      "notes": "Adds depth to the tagine"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the tunisian spice blend and cook for 1 minute, stirring constantly.",
+    "Add the wholesome chicken breast and cook until browned on all sides, about 5-7 minutes.",
+    "Add the cocoa powder and stir to combine.",
+    "Pour in the chicken broth and diced tomatoes.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 25-30 minutes, or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "tagine",
+    "wholesome"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-tunisian-chocolate-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:36:09.535Z"
+}
