@@ -1,0 +1,86 @@
+{
+  "slug": "warmly-spiced-jamaican-pistachio-sandwich",
+  "title": "Pistachio Jamaican Chicken Sandwich",
+  "description": "A flavorful and spicy chicken sandwich featuring Jamaican and pistachio flavors. Serve warm and enjoy!",
+  "cuisine": "Caribbean",
+  "diet": [
+    "pescatarian",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pistachio meal",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "gluten-free alternative available"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "warmly toasted buns",
+      "amount": "4",
+      "notes": "optional"
+    },
+    {
+      "name": "pistachio slaw",
+      "amount": "1 cup",
+      "notes": "see below for recipe"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together jerk seasoning, pistachio meal, and flour.",
+    "Dredge the chicken breasts in the flour mixture, shaking off excess.",
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the chicken breasts and cook for 5-6 minutes per side, or until cooked through.",
+    "Transfer the chicken to a baking sheet and bake for an additional 10-12 minutes, or until cooked to an internal temperature of 165°F (74°C).",
+    "Meanwhile, toast the buns by placing them on a baking sheet and baking for 2-3 minutes, or until lightly toasted.",
+    "Assemble the sandwiches by spreading a layer of pistachio slaw on the bottom bun, followed by a cooked chicken breast, and finishing with the top bun."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "chicken",
+    "sandwich",
+    "pistachio",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-jamaican-pistachio-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:27:18.663Z"
+}
