@@ -20506,5 +20506,30 @@
     "cuisine": "Indian",
     "totalTimeMin": 45,
     "shard": "w"
+  },
+  {
+    "slug": "wholesome-german-bread-flour-flatbread--french",
+    "title": "French Baguette Flatbread",
+    "tags": [
+      "french",
+      "flatbread",
+      "german"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 42,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-irish-cheese-wrap--german",
+    "title": "Warm Irish Wrap",
+    "tags": [
+      "german",
+      "irish",
+      "cheese",
+      "wrap"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 20,
+    "shard": "w"
   }
 ]
