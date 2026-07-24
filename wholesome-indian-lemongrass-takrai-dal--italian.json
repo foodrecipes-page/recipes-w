@@ -1,0 +1,97 @@
+{
+  "slug": "wholesome-indian-lemongrass-takrai-dal--italian",
+  "title": "Lemongrass Chicken Tikka Pasta",
+  "description": "A fusion of Italian and Indian flavors, featuring lemongrass-infused chicken in a creamy pasta dish.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "takrai",
+      "amount": "2 tbsp",
+      "notes": "paste"
+    },
+    {
+      "name": "dal",
+      "amount": "2 tbsp",
+      "notes": "ground"
+    },
+    {
+      "name": "pasta",
+      "amount": "250g",
+      "notes": "penne"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "yogurt",
+      "amount": "200g",
+      "notes": "plain"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "50g",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add lemongrass, takrai, dal, and garlic; cook for 1 minute.",
+    "Add onion and cook until softened, about 3 minutes.",
+    "Stir in yogurt and parmesan cheese until well combined.",
+    "Add cooked pasta to the skillet and toss to coat.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional lemongrass if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "indian",
+    "chicken",
+    "pasta",
+    "lemongrass",
+    "tikka"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-indian-lemongrass-takrai-dal--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:14:24.743Z"
+}
