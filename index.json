@@ -13725,18 +13725,14 @@
   },
   {
     "slug": "wholesome-jammy-irish-buckwheat-casserole",
-    "title": "Wholesome Jammy Irish Buckwheat Casserole",
+    "title": "Irish Buckwheat Casserole",
     "tags": [
-      "anti-inflammatory",
-      "buckwheat",
+      "vegetarian",
       "gluten-free",
-      "irish",
-      "jammy",
-      "kid-friendly",
-      "tandoor-pot"
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -20496,6 +20492,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 20,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-crispy-indian-eggplant-baingan-bharta--gluten-free",
+    "title": "Spiced Eggplant Bharta",
+    "tags": [
+      "gluten-free",
+      "indian",
+      "eggplant",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
     "shard": "w"
   }
 ]
