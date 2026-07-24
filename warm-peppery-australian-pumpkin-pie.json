@@ -1,0 +1,86 @@
+{
+  "slug": "warm-peppery-australian-pumpkin-pie",
+  "title": "Warm Pumpkin Pie",
+  "description": "A classic Australian dessert, this warm pumpkin pie is perfect for fall nights. Made with a flaky crust and filled with spiced pumpkin puree.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pumpkin puree",
+      "amount": "1 cup",
+      "notes": "canned or cooked fresh"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for crust"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "warm spices",
+      "amount": "1 tsp",
+      "notes": "mix of cinnamon, nutmeg, and ginger"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "for crust and filling"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "for filling"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": "for filling"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "for crust and filling"
+    },
+    {
+      "name": "pie crust",
+      "amount": "1",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Roll out pie crust and place in a 9-inch pie dish.",
+    "In a large bowl, whisk together pumpkin puree, spices, eggs, heavy cream, brown sugar, and salt.",
+    "Pour filling into pie crust.",
+    "Bake pie for 15 minutes, then reduce heat to 375°F (190°C) and continue baking for an additional 30-40 minutes, or until crust is golden brown and filling is set.",
+    "Remove pie from oven and let cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "pumpkin",
+    "pie",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-peppery-australian-pumpkin-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:43:26.363Z"
+}
