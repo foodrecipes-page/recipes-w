@@ -1,0 +1,96 @@
+{
+  "slug": "warm-argentinian-chicken-stew--gluten-free",
+  "title": "Argentinian Stew",
+  "description": "A hearty and flavorful stew originating from Argentina, made with chicken and warm spices. This dish is perfect for a chilly evening.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "red bell peppers",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add chicken and cook until browned on both sides, about 5 minutes.",
+    "Remove chicken and set aside.",
+    "Add onions and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add red bell peppers and cook for an additional 2 minutes.",
+    "Stir in cumin, smoked paprika, salt, and black pepper.",
+    "Add chicken broth and tomato paste, scraping up any browned bits from the bottom of the pot.",
+    "Return chicken to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes, or until chicken is cooked through.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "chicken",
+    "stew",
+    "warm",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-argentinian-chicken-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:18:21.553Z"
+}
