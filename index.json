@@ -11407,18 +11407,16 @@
   },
   {
     "slug": "warmly-spiced-jamaican-pistachio-sandwich",
-    "title": "Warmly Spiced Jamaican Pistachio Sandwich",
+    "title": "Pistachio Jamaican Chicken Sandwich",
     "tags": [
-      "citrusy",
-      "jain-friendly",
-      "jamaican",
+      "caribbean",
+      "chicken",
+      "sandwich",
       "pistachio",
-      "snack",
-      "spicy",
-      "vegetarian"
+      "jamaican"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 16,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 45,
     "shard": "w"
   },
   {
@@ -20769,6 +20767,18 @@
     ],
     "cuisine": null,
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "worcester-worry-free-stew--vegan",
+    "title": "Vegan Stew",
+    "tags": [
+      "vegan",
+      "stew",
+      "comfortfood"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "w"
   }
 ]
