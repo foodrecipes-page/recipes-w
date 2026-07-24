@@ -20639,5 +20639,17 @@
     "cuisine": "japanese",
     "totalTimeMin": 45,
     "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-jamaican-tiger-prawns-gratin--indian",
+    "title": "Tiger Prawn Jamaican Curry",
+    "tags": [
+      "indian",
+      "seafood",
+      "curry"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "w"
   }
 ]
