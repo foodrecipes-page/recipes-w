@@ -1,0 +1,65 @@
+{
+  "slug": "wholesome-crispy-slovakian-salt-cod-stir-fry--vegan",
+  "title": "Vegan Slovakian Stir-Fry",
+  "description": "A plant-based twist on traditional Slovakian cuisine, featuring wholesome ingredients and a crispy texture.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wholesome oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Crispy cabbage",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Slovakian mushrooms",
+      "amount": "1 cup, sliced",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Stir-fry sauce (vegan)",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat the Wholesome oil in a large skillet or wok over medium-high heat.",
+    "Add the Crispy cabbage and Slovakian mushrooms; stir-fry for 3-4 minutes.",
+    "Season with Salt to taste.",
+    "Add the Stir-fry sauce; stir-fry for another 2 minutes.",
+    "Serve hot, garnished with additional Crispy cabbage if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "slovakian",
+    "stir-fry",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-crispy-slovakian-salt-cod-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:25:25.762Z"
+}
