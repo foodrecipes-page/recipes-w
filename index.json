@@ -20780,5 +20780,59 @@
     "cuisine": null,
     "totalTimeMin": 40,
     "shard": "w"
+  },
+  {
+    "slug": "warm-nutty-middle-eastern-lentil-pilaf--french",
+    "title": "French Lentil Pilaf",
+    "tags": [
+      "french",
+      "lentil",
+      "pilaf",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-warm-vietnamese-mixed-grain-bun-cha--french",
+    "title": "French-Style Vietnamese Banh Mi",
+    "tags": [
+      "french",
+      "vietnamese",
+      "sandwich",
+      "grilled"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "wildly-charred-vietnamese-vegetable-noodles--keto",
+    "title": "Wildly Spicy Charred Beef Noodle Stir Fry",
+    "tags": [
+      "wildly charred",
+      "beef",
+      "noodle",
+      "stir-fry",
+      "vietnamese",
+      "keto"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 22,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-sauteed-canadian-oyster-mushrooms-skillet--japanese",
+    "title": "Japanese Pan-Seared Canadian Skillet",
+    "tags": [
+      "japanese",
+      "seafood",
+      "mushrooms"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 22,
+    "shard": "w"
   }
 ]
