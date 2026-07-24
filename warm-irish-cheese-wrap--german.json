@@ -1,0 +1,68 @@
+{
+  "slug": "warm-irish-cheese-wrap--german",
+  "title": "Warm Irish Wrap",
+  "description": "A hearty German-inspired wrap filled with warm, melted cheese and Irish flavors.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Irish Sausage",
+      "amount": "1",
+      "notes": "Sliced into 1-inch pieces"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "Warm tortilla-style wrap"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Cook the sliced Irish Sausage for 5 minutes or until browned, breaking into small pieces.",
+    "Add the sliced onions to the pan and cook for an additional 5 minutes.",
+    "Add the shredded cheese to the pan and stir until melted.",
+    "Warm the wrap in the microwave for 10 seconds.",
+    "Assemble the wrap by placing the sausage and onion mixture onto the center of the wrap.",
+    "Drizzle with mustard and sprinkle with chopped parsley.",
+    "Fold the wrap in half to enclose the filling.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "irish",
+    "cheese",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-irish-cheese-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:30:58.662Z"
+}
