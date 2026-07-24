@@ -20572,5 +20572,72 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "w"
+  },
+  {
+    "slug": "warm-saudi-arabian-bread-fried--vegan",
+    "title": "Warm Saudi Arabian Flatbread",
+    "tags": [
+      "saudi arabian",
+      "vegan",
+      "bread",
+      "flatbread"
+    ],
+    "cuisine": "saudi arabian",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-creamy-american-chicken-casserole--mexican",
+    "title": "Creamy Chicken Mexican Casserole",
+    "tags": [
+      "mexican",
+      "casserole",
+      "chicken",
+      "cheesy",
+      "easy-dinner"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-wholesome-kenyan-chickpeas-curry--mexican",
+    "title": "Kenyan Curry Chickpea Tacos",
+    "tags": [
+      "mexican",
+      "curry",
+      "chickpeas",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-silky-tunisian-chicken-tagine--keto",
+    "title": "Tunisian Chicken Tagine",
+    "tags": [
+      "north-african",
+      "keto",
+      "chicken",
+      "tagine",
+      "tunisian"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-american-chicken-casserole--japanese",
+    "title": "Japanese Chicken Casserole",
+    "tags": [
+      "japanese",
+      "chicken",
+      "casserole",
+      "american-fusion"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "w"
   }
 ]
