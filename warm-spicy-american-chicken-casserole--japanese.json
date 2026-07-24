@@ -1,0 +1,91 @@
+{
+  "slug": "warm-spicy-american-chicken-casserole--japanese",
+  "title": "Japanese Chicken Casserole",
+  "description": "A unique fusion of Japanese flavors in a classic American casserole, featuring tender chicken and a warm, spicy kick.",
+  "cuisine": "japanese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sake",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "grated daikon",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "casserole cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the Japanese rice according to package instructions.",
+    "In a separate pan, sauté the chicken breasts in a little oil until browned.",
+    "Add soy sauce, sake, and Gochujang to the pan and stir to coat the chicken.",
+    "Transfer the chicken mixture to a 9x13 inch baking dish.",
+    "In a separate bowl, mix together cooked Japanese rice, green onions, and grated daikon.",
+    "Spread the rice mixture evenly over the chicken.",
+    "Top with casserole cheese.",
+    "Sprinkle panko breadcrumbs over the cheese.",
+    "Bake in the preheated oven for 25-30 minutes or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "chicken",
+    "casserole",
+    "american-fusion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-american-chicken-casserole--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:43:35.224Z"
+}
