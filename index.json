@@ -20651,5 +20651,45 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "w"
+  },
+  {
+    "slug": "warm-and-dense-indian-vegetables-rasam--keto",
+    "title": "Warm Indian Rasam Soup",
+    "tags": [
+      "indian",
+      "keto",
+      "soup",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-crispy-slovakian-salt-cod-stir-fry--vegan",
+    "title": "Vegan Slovakian Stir-Fry",
+    "tags": [
+      "vegan",
+      "slovakian",
+      "stir-fry",
+      "crispy"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 18,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-crunchy-vietnamese-sesame-spring-rolls--chinese",
+    "title": "Crispy Sesame Spring Rolls",
+    "tags": [
+      "chinese",
+      "snack",
+      "sesame",
+      "spring-rolls",
+      "crunchy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "w"
   }
 ]
