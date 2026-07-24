@@ -1,0 +1,71 @@
+{
+  "slug": "wholesome-german-bread-flour-flatbread--french",
+  "title": "French Baguette Flatbread",
+  "description": "A French-inspired flatbread recipe made with wholesome ingredients and a hint of German flair. Perfect for snacking or serving alongside your favorite meals.",
+  "cuisine": "french",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole Wheat Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Active Dry Yeast",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "German Dark Beer",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine flour, salt, and yeast.",
+    "2. Gradually add water, mixing until dough forms.",
+    "3. Turn dough onto a floured surface and knead for 10 minutes.",
+    "4. Place dough in a greased bowl, cover with plastic wrap, and let rise in a warm, draft-free place for 1 hour.",
+    "5. Preheat oven to 425°F (220°C).",
+    "6. Punch down dough and divide into 4-6 equal pieces.",
+    "7. Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "8. Place on a baking sheet lined with parchment paper.",
+    "9. Brush tops with butter and sprinkle with salt.",
+    "10. Bake for 12-15 minutes, or until golden brown.",
+    "11. If using German Dark Beer, brush flatbreads with beer before baking for an added depth of flavor."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "flatbread",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-german-bread-flour-flatbread--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:33:23.188Z"
+}
