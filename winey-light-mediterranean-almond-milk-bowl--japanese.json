@@ -1,0 +1,48 @@
+{
+  "slug": "winey-light-mediterranean-almond-milk-bowl--japanese",
+  "title": "Japanese Almond Milk Dessert",
+  "description": "A unique Japanese dessert that combines almond milk with a light and airy texture. Perfect for warm days or as a sweet treat.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "light",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, whisk together almond milk and light until well combined.",
+    "2. In a separate bowl, whip the almond until it forms a light and airy mixture.",
+    "3. Fold the whipped almond into the almond milk mixture until well combined.",
+    "4. Pour the mixture into individual bowls and chill in the refrigerator for at least 30 minutes.",
+    "5. Serve the Japanese almond milk dessert chilled and garnish with additional almond if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-light-mediterranean-almond-milk-bowl--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:03:51.762Z"
+}
