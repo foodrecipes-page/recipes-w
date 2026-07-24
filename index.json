@@ -20691,5 +20691,30 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "w"
+  },
+  {
+    "slug": "winey-light-mediterranean-almond-milk-bowl--japanese",
+    "title": "Japanese Almond Milk Dessert",
+    "tags": [
+      "dessert",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-argentinian-chicken-stew--gluten-free",
+    "title": "Argentinian Stew",
+    "tags": [
+      "argentinian",
+      "chicken",
+      "stew",
+      "warm",
+      "gluten-free"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 40,
+    "shard": "w"
   }
 ]
