@@ -1,0 +1,79 @@
+{
+  "slug": "warm-spicy-mediterranean-fregola-pilaf--vegetarian",
+  "title": "Spicy Fregola Pilaf",
+  "description": "A warm and aromatic Mediterranean-inspired vegetarian pilaf made with fregola pasta, infused with the flavors of the Mediterranean.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fregola pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Spicy paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the red bell pepper and cook for an additional 2-3 minutes.",
+    "Add the fregola pasta, diced tomatoes, spicy paprika, and salt. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the fregola is tender.",
+    "Fluff the pilaf with a fork and top with chopped parsley, if desired.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "pilaf",
+    "fregola",
+    "mediterranean",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-mediterranean-fregola-pilaf--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:21:25.526Z"
+}
