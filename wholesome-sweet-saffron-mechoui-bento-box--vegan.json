@@ -1,0 +1,70 @@
+{
+  "slug": "wholesome-sweet-saffron-mechoui-bento-box--vegan",
+  "title": "Vegan Saffron Bento Bowl",
+  "description": "A flavorful and nutritious vegan saffron-infused bento bowl, perfect for a quick and easy lunch.",
+  "cuisine": "Vegan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "bento",
+      "amount": "1 box",
+      "notes": "for serving"
+    },
+    {
+      "name": "wholesome rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel the sweet potatoes and cut them into 1-inch cubes.",
+    "In a bowl, mix together the sweet potatoes and coconut oil.",
+    "Spread the sweet potatoes on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "While the sweet potatoes are roasting, cook the wholesome rice according to package instructions.",
+    "In a small saucepan, heat the saffron threads in a tablespoon of water over low heat for 5 minutes.",
+    "To assemble the bento bowl, place a scoop of cooked rice in the bottom of the box.",
+    "Add the roasted sweet potatoes on top of the rice.",
+    "Drizzle the saffron-infused water over the sweet potatoes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "saffron",
+    "bento",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-sweet-saffron-mechoui-bento-box--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:20:13.925Z"
+}
