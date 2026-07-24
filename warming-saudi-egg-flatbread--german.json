@@ -1,0 +1,62 @@
+{
+  "slug": "warming-saudi-egg-flatbread--german",
+  "title": "German-Style Flatbread with Fried Egg and Warming Sauce",
+  "description": "A simple and delicious German-inspired dish featuring crispy flatbread, a fried egg, and a side of warming sauce.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": "Large eggs"
+    },
+    {
+      "name": "Warming Sauce",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Add 1 tablespoon of olive oil, if using.",
+    "Place 2 slices of flatbread in the pan and cook for 2-3 minutes on each side, until crispy.",
+    "Repeat with the remaining flatbread slices.",
+    "In a separate pan, heat 1-2 tablespoons of warming sauce over low heat.",
+    "Fry the eggs in a separate pan until cooked through.",
+    "Serve the fried eggs on top of the crispy flatbread, with the warming sauce on the side."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "breakfast",
+    "flatbread",
+    "egg",
+    "warming-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warming-saudi-egg-flatbread--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:26:45.256Z"
+}
