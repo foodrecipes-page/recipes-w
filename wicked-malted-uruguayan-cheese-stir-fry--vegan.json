@@ -1,0 +1,83 @@
+{
+  "slug": "wicked-malted-uruguayan-cheese-stir-fry--vegan",
+  "title": "Uruguayan Cheesy Wicked Fries",
+  "description": "A vegan twist on the classic cheesy fries, made with wicked and uruguayan flavors.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fries",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Wicked vegan cheese shreds",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Malted vinegar",
+      "amount": "2 tbsp",
+      "notes": "for drizzling"
+    },
+    {
+      "name": "Uruguayan chimichurri",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Spread the fries out in a single layer on the prepared baking sheet.",
+    "Drizzle the fries with a little bit of oil and sprinkle with salt and pepper.",
+    "Bake the fries in the preheated oven for 20-25 minutes, or until crispy.",
+    "While the fries are baking, mix together the wicked vegan cheese shreds, malted vinegar, uruguayan chimichurri, chili powder, and garlic powder in a bowl.",
+    "Once the fries are done, remove them from the oven and toss them in the cheese mixture until evenly coated.",
+    "Serve the cheesy fries hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "fries",
+    "vegan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wicked-malted-uruguayan-cheese-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:01:02.574Z"
+}
