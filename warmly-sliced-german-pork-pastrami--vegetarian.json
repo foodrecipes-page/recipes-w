@@ -1,0 +1,94 @@
+{
+  "slug": "warmly-sliced-german-pork-pastrami--vegetarian",
+  "title": "German Pastrami Sandwiches",
+  "description": "A vegetarian twist on the classic pastrami sandwich, using thinly sliced german bread and a variety of toppings.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "german bread",
+      "amount": "1 loaf",
+      "notes": "sliced"
+    },
+    {
+      "name": "pastrami",
+      "amount": "1 package",
+      "notes": "vegetarian pastrami"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 jar",
+      "notes": "optional"
+    },
+    {
+      "name": "cucumber",
+      "amount": "2 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 block",
+      "notes": "optional"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 head",
+      "notes": "optional"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "onion",
+      "amount": "1 slice",
+      "notes": "optional"
+    },
+    {
+      "name": "pickles",
+      "amount": "1 jar",
+      "notes": "optional"
+    },
+    {
+      "name": "veggie mayo",
+      "amount": "1 jar",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press or grill to medium-high heat.",
+    "Slice the german bread and toast until lightly browned.",
+    "Spread a layer of veggie mayo on the bottom slice of bread.",
+    "Add a layer of sliced pastrami on top of the mayo.",
+    "Add a layer of lettuce, tomato, onion, and pickles on top of the pastrami.",
+    "Add a layer of cheese on top of the vegetables (if using).",
+    "Spread a layer of mustard on the top slice of bread.",
+    "Place the top slice of bread on the sandwich and press until crispy.",
+    "Cook for 3-4 minutes or until the bread is crispy and the cheese is melted (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 14,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "vegetarian",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-sliced-german-pork-pastrami--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:04:56.736Z"
+}
