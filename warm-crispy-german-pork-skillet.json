@@ -1,0 +1,84 @@
+{
+  "slug": "warm-crispy-german-pork-skillet",
+  "title": "Pan-Seared Pork Schnitzel",
+  "description": "Crispy German-style pork schnitzel cooked to perfection in a warm skillet. A delicious and satisfying meal for any occasion.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork cutlets",
+      "amount": "4",
+      "notes": "Thinly sliced pork"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "For coating"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "For egg wash"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": "For crispy coating"
+    },
+    {
+      "name": "skillet oil",
+      "amount": "1/2 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Season the pork cutlets with salt and pepper.",
+    "2. In a shallow dish, mix together flour, eggs, and panko breadcrumbs.",
+    "3. Dip each pork cutlet in the flour mixture, coating both sides evenly.",
+    "4. Heat the skillet oil in a large skillet over medium-high heat.",
+    "5. Add the coated pork cutlets to the skillet and cook for 2-3 minutes on each side, or until golden brown and crispy.",
+    "6. Remove the pork from the skillet and place on a paper towel-lined plate to drain excess oil.",
+    "7. Serve the pan-seared pork schnitzel hot with lemon wedges on the side.",
+    "8. Enjoy your delicious German-style pork schnitzel!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "skillet",
+    "crispy",
+    "schnitzel"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 17
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-german-pork-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:21:08.668Z"
+}
