@@ -1,0 +1,90 @@
+{
+  "slug": "warming-crispy-russian-mussels-pilaf--chinese",
+  "title": "Crispy Mussel Pilaf",
+  "description": "A Chinese-inspired dish featuring mussels in a crispy pilaf with warming spices.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mussels",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "pilaf mix",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add ginger and scallions and cook for 1 minute.",
+    "Add mussels and cook for 2 minutes, until they start to open.",
+    "Add pilaf mix and cook for 1 minute, stirring constantly.",
+    "Add soy sauce, rice vinegar, and hot sauce, and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the mussels are fully open and the pilaf is crispy.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "mussels",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warming-crispy-russian-mussels-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:26:42.437Z"
+}
