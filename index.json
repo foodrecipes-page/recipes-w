@@ -21101,5 +21101,30 @@
     "cuisine": "Mexican",
     "totalTimeMin": 45,
     "shard": "w"
+  },
+  {
+    "slug": "wholesome-wholesome-thai-butternut-squash-ji-jeen--italian",
+    "title": "Squash and Butternut Fritters with Wholesome Aioli",
+    "tags": [
+      "italian",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-jammy-french-semolina-eclair--french",
+    "title": "French Semolina Crème Brûlée",
+    "tags": [
+      "french",
+      "creme-brulee",
+      "dessert",
+      "semolina"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "w"
   }
 ]
