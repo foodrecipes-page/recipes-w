@@ -1,0 +1,81 @@
+{
+  "slug": "warm-sriracha-chinese-pork-baozi--german",
+  "title": "German-Style Pork Belly Baozi",
+  "description": "A twist on traditional Chinese baozi, this German-inspired version features slow-cooked pork belly in a sweet and spicy sauce.",
+  "cuisine": "german",
+  "diet": [
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound"
+    },
+    {
+      "name": "sriracha",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "warm water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chinese five-spice powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, salt, sugar, and five-spice powder in a large mixing bowl.",
+    "Gradually add warm water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover, and let rise in a warm place for 1 hour.",
+    "Meanwhile, cook the pork belly in a large pot of boiling water until tender, about 2 hours.",
+    "Drain the pork belly and let cool to room temperature.",
+    "Combine sriracha and ginger in a small bowl.",
+    "Split the risen dough into 8 equal pieces and roll out each piece into a thin circle.",
+    "Place a piece of pork belly in the center of each dough circle, brush the edges with egg wash, and fold the dough over to form a half-moon shape.",
+    "Bake the baozi in a preheated oven at 375°F (190°C) for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 120,
+  "totalTimeMin": 165,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "german-cuisine",
+    "baozai",
+    "pork-belly",
+    "sauerkraut"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 65,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-sriracha-chinese-pork-baozi--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:17:10.044Z"
+}
