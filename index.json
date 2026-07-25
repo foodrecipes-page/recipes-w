@@ -14595,18 +14595,15 @@
   },
   {
     "slug": "wholesome-smoky-turkish-cox-apple-soup",
-    "title": "Wholesome Smoky Turkish Cox Apple Soup",
+    "title": "Smoky Turkish Soup",
     "tags": [
-      "gluten-free",
-      "low-calorie",
-      "macrobiotic",
-      "smoky",
       "soup",
       "turkish",
-      "vegan"
+      "smoky",
+      "easy-to-make"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 45,
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -21125,6 +21122,45 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-sauteed-canadian-oyster-mushrooms-skillet--indian",
+    "title": "Saag Paneer Skillet",
+    "tags": [
+      "skillet",
+      "indian",
+      "paneer",
+      "mushroom",
+      "cheese"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-spiced-tunisian-chickpea-tagine--vegan",
+    "title": "Warm Spiced Chickpea Tagine",
+    "tags": [
+      "vegan",
+      "north-african",
+      "stew",
+      "lentil-free"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-creamy-american-chicken-casserole--vegan",
+    "title": "Vegan Casserole Delight",
+    "tags": [
+      "vegan",
+      "comfort-food",
+      "casserole"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 50,
     "shard": "w"
   }
 ]
