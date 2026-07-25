@@ -1,0 +1,75 @@
+{
+  "slug": "wholesome-wholesome-thai-butternut-squash-ji-jeen--italian",
+  "title": "Squash and Butternut Fritters with Wholesome Aioli",
+  "description": "Crunchy fritters filled with roasted squash and butternut, served with a creamy wholesome aioli for dipping. A delicious Italian-inspired side dish.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Butternut squash",
+      "amount": "1 medium, peeled and diced",
+      "notes": null
+    },
+    {
+      "name": "Butternut squash",
+      "amount": "1 large, peeled and roasted",
+      "notes": "see instructions for roasting"
+    },
+    {
+      "name": "2 wholesome",
+      "amount": "cups, grated",
+      "notes": null
+    },
+    {
+      "name": "1/2 cup thai",
+      "amount": "flour",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup ji jeen",
+      "amount": "chopped fresh parsley",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup wholesome",
+      "amount": "aioli",
+      "notes": "see instructions for making aioli"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss diced butternut squash with 1 tablespoon olive oil and roast for 25-30 minutes, or until tender.",
+    "In a large bowl, combine grated butternut squash, thai flour, ji jeen parsley, and wholesome aioli.",
+    "Stir in 1 egg and 1/4 cup grated wholesome.",
+    "Using your hands, shape the mixture into small patties.",
+    "Heat 1/2 inch vegetable oil in a large skillet over medium-high heat.",
+    "Add the patties to the skillet and cook for 3-4 minutes on each side, or until golden brown and crispy.",
+    "Drain the fritters on paper towels and serve hot with wholesome aioli for dipping.",
+    "To make wholesome aioli, mix 1/4 cup wholesome with 1 egg yolk and 1 tablespoon lemon juice in a bowl.",
+    "Slowly drizzle in 1/2 cup olive oil, whisking constantly until smooth and creamy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-wholesome-thai-butternut-squash-ji-jeen--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:20:10.026Z"
+}
