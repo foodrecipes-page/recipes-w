@@ -1,0 +1,88 @@
+{
+  "slug": "warm-canadian-onion-casserole--german",
+  "title": "German Shepherd's Casserole",
+  "description": "A hearty German-inspired casserole filled with savory flavors and tender meat.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "warm ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "casserole noodles",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "canadian cheddar cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the casserole noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion to the skillet and cook until softened.",
+    "Sprinkle the flour over the ground beef mixture and cook for 1 minute.",
+    "Gradually add the milk, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook until it thickens, stirring occasionally.",
+    "Stir in the shredded cheddar cheese until melted and smooth.",
+    "In a large mixing bowl, combine the cooked noodles, ground beef mixture, and a pinch of salt and pepper to taste.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with additional shredded cheese if desired.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown and the casserole is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "hearty",
+    "casserole",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 42,
+    "carbs": 30,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-canadian-onion-casserole--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:27:10.497Z"
+}
