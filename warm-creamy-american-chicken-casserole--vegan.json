@@ -1,0 +1,74 @@
+{
+  "slug": "warm-creamy-american-chicken-casserole--vegan",
+  "title": "Vegan Casserole Delight",
+  "description": "A warm, creamy, and satisfying vegan casserole perfect for any meal.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Vegan Cream Cheese",
+      "amount": "1 block",
+      "notes": "Softened"
+    },
+    {
+      "name": "Nutritional Yeast",
+      "amount": "2 tbsp",
+      "notes": "Sprinkled on top"
+    },
+    {
+      "name": "Vegan Mozzarella Shreds",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For greasing the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Grease a 9x13 inch baking dish with olive oil.",
+    "In a large mixing bowl, combine sweet potato and chickpeas.",
+    "In a separate bowl, mix together vegan cream cheese and nutritional yeast.",
+    "Add the vegan mozzarella shreds to the cream cheese mixture and stir until well combined.",
+    "Pour the cream cheese mixture over the sweet potato and chickpea mixture.",
+    "Stir until everything is well coated.",
+    "Transfer the mixture to the prepared baking dish.",
+    "Bake for 35-40 minutes or until the top is golden brown and the casserole is hot and bubbly.",
+    "Remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "comfort-food",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-creamy-american-chicken-casserole--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:40:47.558Z"
+}
