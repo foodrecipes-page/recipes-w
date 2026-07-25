@@ -1,0 +1,77 @@
+{
+  "slug": "warm-flaky-irish-potato-pie--japanese",
+  "title": "Japanese Potato Pie",
+  "description": "A creative twist on traditional Japanese cuisine, this potato pie combines warm and flaky pastry with a delicious irish potato filling.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "irish potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "warm puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Transfer the pastry to a 9-inch tart pan with a removable bottom.",
+    "In a large bowl, combine the diced potatoes, chopped green onions, soy sauce, sugar, and black pepper.",
+    "Fill the pastry crust with the potato mixture and spread it out evenly.",
+    "Brush the edges of the pastry with a little water and fold the excess pastry over the filling to form a crust.",
+    "Use a knife to cut a few slits in the top of the pastry to allow steam to escape.",
+    "Bake the pie for 35-40 minutes, or until the pastry is golden brown and the filling is hot and tender.",
+    "Remove the pie from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "potato",
+    "pie",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-flaky-irish-potato-pie--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:52:11.866Z"
+}
