@@ -1,0 +1,82 @@
+{
+  "slug": "warmly-spiced-peruvian-banana-skewers--italian",
+  "title": "Warm Peruvian Banana Skewers with Spiced Italian Glaze",
+  "description": "A fusion of Peruvian and Italian flavors, these banana skewers are marinated in a warm spice blend and grilled to perfection, served with a sweet and sticky Italian glaze.",
+  "cuisine": "italian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "warmly spiced peruvian seasoning",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "Italian glaze"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "Italian glaze"
+    },
+    {
+      "name": "skewers",
+      "amount": "10",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1 tbsp",
+      "notes": "Italian glaze"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "italian lemon zest",
+      "amount": "1 tsp",
+      "notes": "Italian glaze"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut bananas into 1-inch pieces and thread onto skewers.",
+    "3. In a small bowl, mix together warmly spiced peruvian seasoning, honey, lemon juice, melted butter, powdered sugar, and italian lemon zest.",
+    "4. Brush the Peruvian spice mixture onto the banana skewers.",
+    "5. Grill banana skewers for 2-3 minutes per side, or until caramelized and tender.",
+    "6. Serve warm banana skewers drizzled with additional Italian glaze, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "dessert",
+    "banana",
+    "skewers",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-spiced-peruvian-banana-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:46:27.254Z"
+}
