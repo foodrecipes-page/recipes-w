@@ -10663,17 +10663,15 @@
   },
   {
     "slug": "warmly-charred-indian-baby-new-potatoes-curry",
-    "title": "Warmly Charred Indian Baby New Potatoes Curry",
+    "title": "Baby Potatoes in Indian Curry",
     "tags": [
-      "gluten-free",
-      "indian-cuisine",
-      "one-pan",
-      "vegan",
+      "indian-curry",
       "vegetarian",
-      "weeknight"
+      "baby-potatoes",
+      "easy-recipe"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -20958,6 +20956,33 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-springy-mediterranean-chicken-roast--gluten-free",
+    "title": "Mediterranean Roast Chicken",
+    "tags": [
+      "mediterranean",
+      "chicken",
+      "gluten-free",
+      "roast"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-wholesome-norwegian-bananas-omelette--german",
+    "title": "German Banana Omelette",
+    "tags": [
+      "german",
+      "breakfast",
+      "sweet",
+      "eggs",
+      "bananas"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 9,
     "shard": "w"
   }
 ]
