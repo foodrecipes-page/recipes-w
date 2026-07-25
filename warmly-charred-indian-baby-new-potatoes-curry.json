@@ -1,0 +1,88 @@
+{
+  "slug": "warmly-charred-indian-baby-new-potatoes-curry",
+  "title": "Baby Potatoes in Indian Curry",
+  "description": "A flavorful and aromatic dish made with baby potatoes, onions, garlic, ginger, and warm spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby potatoes",
+      "amount": "4-6",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "warmly charred new potatoes",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger. Cook for another minute.",
+    "Add the chopped baby potatoes, charred new potatoes, and warm spices. Cook for 5-7 minutes, stirring occasionally.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro (optional).",
+    "Serve over basmati rice or with roti/naan for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian-curry",
+    "vegetarian",
+    "baby-potatoes",
+    "easy-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-charred-indian-baby-new-potatoes-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:08:15.376Z"
+}
