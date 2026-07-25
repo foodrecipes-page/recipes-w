@@ -20845,5 +20845,18 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "w"
+  },
+  {
+    "slug": "warm-uruguayan-pork-knuckle-wrap--german",
+    "title": "Warm Pork Knuckle Wrap",
+    "tags": [
+      "german",
+      "warm",
+      "wrap",
+      "pork"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "w"
   }
 ]
