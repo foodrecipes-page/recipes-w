@@ -3405,16 +3405,14 @@
   },
   {
     "slug": "warm-french-chicken-blanquette",
-    "title": "Warm French Chicken Blanquette",
+    "title": "French Chicken Blanquette",
     "tags": [
-      "chicken-recipe",
-      "comfort-food",
-      "french-cuisine",
-      "one-pan",
-      "weeknight"
+      "french",
+      "chicken",
+      "comfort-food"
     ],
     "cuisine": "French",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "w"
   },
   {
@@ -20857,6 +20855,18 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-yellow-turkish-chicken-kebabs--keto",
+    "title": "Turkish-Style Chicken Kebabs",
+    "tags": [
+      "turkish-kebabs",
+      "keto-recipe",
+      "grilled-chicken"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 33,
     "shard": "w"
   }
 ]
