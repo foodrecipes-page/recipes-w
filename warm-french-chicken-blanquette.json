@@ -1,0 +1,102 @@
+{
+  "slug": "warm-french-chicken-blanquette",
+  "title": "French Chicken Blanquette",
+  "description": "A classic French dish made with chicken, mushrooms, and a creamy sauce. This recipe is a comforting and flavorful meal for any occasion.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 ounces",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt and pepper.",
+    "Heat the butter in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned on both sides, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the onion and mushrooms to the skillet and cook until the vegetables are softened, about 3-4 minutes.",
+    "Add the garlic to the skillet and cook for 1 minute.",
+    "Sprinkle the flour over the vegetables and cook for 1 minute.",
+    "Slowly pour in the white wine, whisking constantly to avoid lumps.",
+    "Bring the mixture to a simmer and cook until the liquid has reduced by half, about 2-3 minutes.",
+    "Add the chicken broth and heavy cream to the skillet, whisking to combine.",
+    "Return the chicken to the skillet and simmer until the sauce has thickened and the chicken is cooked through, about 5-7 minutes.",
+    "Season the sauce with salt and pepper to taste.",
+    "Serve the chicken and sauce hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "chicken",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-french-chicken-blanquette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:51:36.776Z"
+}
