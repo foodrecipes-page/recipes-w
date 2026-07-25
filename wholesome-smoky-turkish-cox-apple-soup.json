@@ -1,0 +1,83 @@
+{
+  "slug": "wholesome-smoky-turkish-cox-apple-soup",
+  "title": "Smoky Turkish Soup",
+  "description": "A hearty, comforting soup inspired by Turkish cuisine, with a smoky twist.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkish bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "wholesome vegetable soup mix",
+      "amount": "1 packet",
+      "notes": "includes carrots, celery, onions"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 tsp",
+      "notes": "adds a deep, smoky flavor"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "balances the smokiness"
+    },
+    {
+      "name": "cox apple",
+      "amount": "1, diced",
+      "notes": "adds natural sweetness"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "enhances flavors"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "completes the flavor"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Sauté the soup mix until the vegetables are tender.",
+    "Add diced apple and cook for an additional 2-3 minutes.",
+    "Stir in smoky paprika and apple cider vinegar.",
+    "Simmer the mixture for 10-15 minutes.",
+    "Tear Turkish bread into bite-sized pieces and add to the pot.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with additional Turkish bread if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "turkish",
+    "smoky",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-smoky-turkish-cox-apple-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:35:46.649Z"
+}
