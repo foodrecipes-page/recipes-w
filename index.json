@@ -9846,15 +9846,16 @@
   },
   {
     "slug": "warm-wholesome-norwegian-bananas-omelette",
-    "title": "Norwegian Banana Omelette",
+    "title": "Norwegian Warm Omelette",
     "tags": [
       "breakfast",
-      "omelette",
-      "banana",
-      "norwegian"
+      "eggs",
+      "mushrooms",
+      "bananas",
+      "cheese"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 8,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -20879,6 +20880,30 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
+    "slug": "warming-crispy-russian-mussels-pilaf--chinese",
+    "title": "Crispy Mussel Pilaf",
+    "tags": [
+      "chinese",
+      "mussels",
+      "pilaf"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-golden-irish-sultanas-casserole--japanese",
+    "title": "Japanese Sultana Casserole",
+    "tags": [
+      "japanese",
+      "dessert",
+      "sweet"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
     "shard": "w"
   }
 ]
