@@ -1,0 +1,87 @@
+{
+  "slug": "warm-yellow-turkish-chicken-kebabs--keto",
+  "title": "Turkish-Style Chicken Kebabs",
+  "description": "A flavorful and keto-friendly twist on traditional kebabs, featuring marinated chicken cooked to perfection.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast, boneless and skinless",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing kebabs"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Bell peppers, sliced",
+      "amount": "1 large",
+      "notes": "Any color"
+    },
+    {
+      "name": "Onions, sliced",
+      "amount": "1 large",
+      "notes": "Any color"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, paprika, salt, and black pepper.",
+    "Add chicken to the marinade and mix well.",
+    "Thread chicken, bell peppers, and onions onto skewers.",
+    "Brush kebabs with remaining marinade.",
+    "Grill kebabs for 8-10 minutes per side, or until chicken reaches an internal temperature of 165°F.",
+    "Let kebabs rest for 5 minutes before serving.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish-kebabs",
+    "keto-recipe",
+    "grilled-chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 6,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-yellow-turkish-chicken-kebabs--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:40:48.960Z"
+}
