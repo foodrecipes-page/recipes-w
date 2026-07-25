@@ -1,94 +1,76 @@
 {
   "slug": "warm-crunchy-vietnamese-sesame-spring-rolls--chinese",
-  "title": "Crispy Sesame Spring Rolls",
-  "description": "A Chinese-inspired snack featuring crunchy sesame spring rolls served warm. Enjoy the perfect balance of textures and flavors.",
+  "title": "Crunchy Spring Rolls",
+  "description": "A classic Chinese appetizer with a crunchy twist, made with fresh spring rolls and crispy sesame seeds.",
   "cuisine": "chinese",
-  "diet": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
   "meal": "snack",
   "ingredients": [
     {
-      "name": "Spring Roll Wrappers",
-      "amount": "12-16 wrappers",
-      "notes": null
+      "name": "Wheat flour spring roll wrappers",
+      "amount": "8-10 sheets",
+      "notes": ""
     },
     {
-      "name": "Vegetable Oil",
-      "amount": "1/2 cup",
-      "notes": null
+      "name": "Spring roll filling",
+      "amount": "1 package",
+      "notes": "Available in most Asian grocery stores"
     },
     {
-      "name": "Sesame Oil",
-      "amount": "2 tablespoons",
-      "notes": null
-    },
-    {
-      "name": "Sesame Seeds",
+      "name": "Sesame seeds",
       "amount": "1/4 cup",
-      "notes": null
+      "notes": ""
     },
     {
-      "name": "Shredded Carrots",
-      "amount": "1 cup",
-      "notes": null
+      "name": "Warm water",
+      "amount": "for brushing",
+      "notes": ""
     },
     {
-      "name": "Shredded Cabbage",
-      "amount": "1 cup",
-      "notes": null
+      "name": "Vegetable oil",
+      "amount": "for frying",
+      "notes": ""
     },
     {
-      "name": "Shredded Zucchini",
-      "amount": "1 cup",
-      "notes": null
-    },
-    {
-      "name": "Bean Sprouts",
-      "amount": "1 cup",
-      "notes": null
-    },
-    {
-      "name": "Salt",
-      "amount": "to taste",
-      "notes": null
-    },
-    {
-      "name": "Pepper",
-      "amount": "to taste",
-      "notes": null
+      "name": "Soy sauce",
+      "amount": "for serving",
+      "notes": ""
     }
   ],
   "instructions": [
-    "1. In a small bowl, mix together sesame oil and sesame seeds. Set aside.",
-    "2. Cut the spring roll wrappers into quarters.",
-    "3. In a large pan or wok, heat 1/4 inch of vegetable oil over medium-high heat.",
-    "4. When the oil is hot, add a few spring roll wrappers to the pan and fry until crispy, about 2-3 minutes.",
-    "5. Remove the fried spring rolls from the oil and place them on a paper towel-lined plate to drain excess oil.",
-    "6. Repeat the frying process with the remaining spring roll wrappers.",
-    "7. In a separate pan, heat a small amount of oil over medium heat.",
-    "8. Add the shredded carrots, cabbage, zucchini, and bean sprouts to the pan and cook until the vegetables are tender.",
-    "9. Add the cooked vegetables to the fried spring rolls and mix well.",
-    "10. Serve the crispy sesame spring rolls warm, garnished with additional sesame seeds if desired."
+    "1. Prepare spring roll filling according to package instructions.",
+    "2. Lay a spring roll wrapper on a flat surface with one corner pointing towards you.",
+    "3. Place about 1 tablespoon of spring roll filling in the center of the wrapper.",
+    "4. Brush the edges of the wrapper with warm water.",
+    "5. Fold the bottom corner of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "6. Repeat with remaining wrappers and filling.",
+    "7. Heat about 1-2 inches of vegetable oil in a large skillet over medium-high heat.",
+    "8. When the oil is hot, add a few of the spring rolls to the skillet (do not overcrowd).",
+    "9. Fry the spring rolls until they are golden brown and crispy, about 2-3 minutes on each side.",
+    "10. Remove the spring rolls from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "11. Sprinkle the spring rolls with sesame seeds and serve hot with soy sauce for dipping."
   ],
-  "prepTimeMin": 10,
-  "cookTimeMin": 15,
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
   "totalTimeMin": 25,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "chinese",
-    "snack",
-    "sesame",
-    "spring-rolls",
-    "crunchy"
+    "appetizer",
+    "spring-rolls"
   ],
   "nutrition": {
     "calories": 220,
-    "protein": 3,
+    "protein": 4,
     "carbs": 25,
-    "fat": 12
+    "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/warm-crunchy-vietnamese-sesame-spring-rolls--chinese",
   "providerUsed": "groq",
-  "createdAt": "2026-07-20T03:35:30.014Z"
+  "createdAt": "2026-07-21T04:28:34.055Z"
 }
