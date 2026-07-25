@@ -1,0 +1,89 @@
+{
+  "slug": "warm-smoky-italian-pork-risotto",
+  "title": "Pork Risotto with Smoky Flavor",
+  "description": "A creamy risotto infused with the rich flavor of pork and a smoky twist. Perfect for a cold winter night.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Belly",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Arborio Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "White Wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the smoked paprika and cook for 1 minute.",
+    "Add the pork belly and cook until browned on all sides.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the Arborio rice to the skillet and cook for 1-2 minutes.",
+    "Add the white wine and cook until the liquid is almost completely absorbed.",
+    "Add 1 cup of chicken broth to the skillet and cook, stirring constantly, until the liquid is mostly absorbed.",
+    "Repeat the process of adding the broth in 1 cup increments, stirring constantly, until the rice is cooked and creamy.",
+    "Stir in the Parmesan cheese and cook until melted.",
+    "Add the cooked pork back into the skillet and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "italian",
+    "pork",
+    "risotto",
+    "smoky",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-italian-pork-risotto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:23:02.755Z"
+}
