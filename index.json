@@ -21036,5 +21036,44 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "w"
+  },
+  {
+    "slug": "warm-canadian-onion-casserole--german",
+    "title": "German Shepherd's Casserole",
+    "tags": [
+      "german",
+      "hearty",
+      "casserole",
+      "beef"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-malty-british-lamb-casserole--italian",
+    "title": "Lamb Casserole alla Italiana",
+    "tags": [
+      "italian",
+      "lamb",
+      "casserole",
+      "comfort food"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 180,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-herbal-norwegian-bread-soup--gluten-free",
+    "title": "Herbal Gluten-Free Soup",
+    "tags": [
+      "gluten-free",
+      "herbal",
+      "soup",
+      "comfort-food"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "w"
   }
 ]
