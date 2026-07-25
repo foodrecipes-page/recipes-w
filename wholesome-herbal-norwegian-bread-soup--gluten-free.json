@@ -1,0 +1,60 @@
+{
+  "slug": "wholesome-herbal-norwegian-bread-soup--gluten-free",
+  "title": "Herbal Gluten-Free Soup",
+  "description": "A hearty and comforting soup made with wholesome ingredients and a touch of herbal notes, perfect for a chilly evening.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wholesome Vegetable Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Herbal Tea Mix",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Norweigan Kale",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Gluten-Free Bread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable broth in a large pot over medium heat.",
+    "Add the herbal tea mix and let it steep for 5 minutes.",
+    "Add the kale to the pot and cook until wilted.",
+    "Season with salt and pepper to taste.",
+    "Serve the soup hot with gluten-free bread on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "herbal",
+    "soup",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-herbal-norwegian-bread-soup--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:44:12.190Z"
+}
