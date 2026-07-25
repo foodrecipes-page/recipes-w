@@ -21161,5 +21161,44 @@
     "cuisine": null,
     "totalTimeMin": 50,
     "shard": "w"
+  },
+  {
+    "slug": "wholesome-algerian-fenugreek-tagine--chinese",
+    "title": "Stir-Fried Chicken with Fenugreek and Algerian Spices",
+    "tags": [
+      "chinese",
+      "algerian",
+      "fenugreek",
+      "stir-fry",
+      "chicken"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-sliced-german-pork-pastrami--vegetarian",
+    "title": "German Pastrami Sandwiches",
+    "tags": [
+      "german",
+      "vegetarian",
+      "sandwich"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 14,
+    "shard": "w"
+  },
+  {
+    "slug": "worcester-worry-free-stew--chinese",
+    "title": "Delicious Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "chinese",
+      "easy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 75,
+    "shard": "w"
   }
 ]
