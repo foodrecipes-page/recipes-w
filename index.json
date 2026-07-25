@@ -20984,5 +20984,57 @@
     "cuisine": "german",
     "totalTimeMin": 9,
     "shard": "w"
+  },
+  {
+    "slug": "warm-dutch-beef-skillet--japanese",
+    "title": "Japanese Beef Skillet",
+    "tags": [
+      "beef",
+      "skillet",
+      "japanesecuisine",
+      "quickdinner"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-springy-northern-irish-jumbo-shrimp-yorkshire-pudding--italian",
+    "title": "Italian Shrimp and Yorkshire Pudding",
+    "tags": [
+      "italian",
+      "shrimp",
+      "yorkshire-pudding"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-toasted-american-almond-casserole--japanese",
+    "title": "Warm Japanese Almond Casserole",
+    "tags": [
+      "japanese",
+      "dessert",
+      "warm",
+      "almond",
+      "casserole"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-steam-kenyan-greens-pilaf--japanese",
+    "title": "Pan-Seared Japanese Greens with Kenyan Pilaf",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "greens",
+      "pilaf"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "w"
   }
 ]
