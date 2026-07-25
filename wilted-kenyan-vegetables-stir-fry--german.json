@@ -1,0 +1,74 @@
+{
+  "slug": "wilted-kenyan-vegetables-stir-fry--german",
+  "title": "Wilted Vegetable Stir Fry",
+  "description": "A quick and easy German-inspired stir fry made with wilted vegetables. Perfect for a weeknight dinner.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Wilted vegetables (such as spinach, kale, or collard greens)",
+      "amount": "2 cups",
+      "notes": "Choose your favorite wilted vegetables or use a mix"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Kenyan red pepper",
+      "amount": "1 medium",
+      "notes": "Chopped (or to taste)"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add onion and garlic and cook until softened, about 3-4 minutes.",
+    "Add wilted vegetables and cook until heated through.",
+    "Sprinkle with flour and stir to combine.",
+    "Add Kenyan red pepper and stir-fry for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "stir-fry",
+    "vegetarian",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-kenyan-vegetables-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:01:48.296Z"
+}
