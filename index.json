@@ -21075,5 +21075,31 @@
     "cuisine": null,
     "totalTimeMin": 30,
     "shard": "w"
+  },
+  {
+    "slug": "wilted-kenyan-vegetables-stir-fry--german",
+    "title": "Wilted Vegetable Stir Fry",
+    "tags": [
+      "german",
+      "stir-fry",
+      "vegetarian",
+      "quick-dinner"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-saudi-arabian-chicken-tagine--mexican",
+    "title": "Saudi Arabian Chicken Tagine with Mexican Twist",
+    "tags": [
+      "mexican",
+      "chicken",
+      "tagine",
+      "spicy"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "w"
   }
 ]
