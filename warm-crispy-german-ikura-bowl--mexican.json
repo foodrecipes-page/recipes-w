@@ -1,0 +1,77 @@
+{
+  "slug": "warm-crispy-german-ikura-bowl--mexican",
+  "title": "Warm German Breakfast Bowl",
+  "description": "A delicious Mexican-inspired warm breakfast bowl with crispy tortilla strips and ikura on top.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Crispy Tortilla Strips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ikura",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Warm German-Style Breakfast Sausage",
+      "amount": "4 links"
+    },
+    {
+      "name": "Mexican-Style Breakfast Bowl Mixture",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sliced Radishes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sliced Scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Bake the crispy tortilla strips for 5-7 minutes or until crispy and golden brown.",
+    "Cook the German-style breakfast sausage in a pan over medium heat, breaking it up into small pieces as it cooks.",
+    "Cook the Mexican-style breakfast bowl mixture according to package instructions.",
+    "To assemble the bowls, place a scoop of the cooked breakfast mixture in the bottom of a bowl.",
+    "Add a few pieces of the cooked sausage on top of the breakfast mixture.",
+    "Add a few pieces of crispy tortilla strips on top of the sausage.",
+    "Add a spoonful of ikura on top of the tortilla strips.",
+    "Garnish with sliced radishes, diced tomatoes, and sliced scallions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "mexican",
+    "warm",
+    "crispy",
+    "german",
+    "ikura",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-german-ikura-bowl--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:29:26.125Z"
+}
