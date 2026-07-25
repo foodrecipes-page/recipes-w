@@ -1624,17 +1624,16 @@
   },
   {
     "slug": "warm-crispy-german-pork-skillet",
-    "title": "Warm Crispy German Pork Skillet",
+    "title": "Pan-Seared Pork Schnitzel",
     "tags": [
-      "fodmap-friendly",
-      "german-cuisine",
-      "gluten-free",
-      "one-pan",
-      "pork-recipes",
-      "weeknight"
+      "german",
+      "pork",
+      "skillet",
+      "crispy",
+      "schnitzel"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 35,
+    "cuisine": "german",
+    "totalTimeMin": 23,
     "shard": "w"
   },
   {
