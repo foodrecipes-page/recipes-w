@@ -1,0 +1,73 @@
+{
+  "slug": "warm-golden-irish-sultanas-casserole--japanese",
+  "title": "Japanese Sultana Casserole",
+  "description": "A sweet and savory Japanese-inspired casserole made with sultanas and a hint of warm spices.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sultanas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "golden syrup",
+      "amount": "1/2 cup",
+      "notes": "or substitute with brown sugar"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "gluten-free if needed"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm spices (cinnamon, nutmeg, ginger)",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "irish oatmeal",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine sultanas, golden syrup, and melted butter. Stir until sultanas are coated.",
+    "Add flour, vanilla extract, and warm spices to the bowl. Mix until well combined.",
+    "If using, stir in irish oatmeal.",
+    "Transfer the mixture to a 9x9-inch casserole dish.",
+    "Bake for 30-35 minutes or until the casserole is golden brown and set.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "dessert",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "2g",
+    "carbs": "40g",
+    "fat": "8g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-golden-irish-sultanas-casserole--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:47:18.090Z"
+}
