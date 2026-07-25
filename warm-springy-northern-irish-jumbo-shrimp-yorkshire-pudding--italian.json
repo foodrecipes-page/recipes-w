@@ -1,0 +1,81 @@
+{
+  "slug": "warm-springy-northern-irish-jumbo-shrimp-yorkshire-pudding--italian",
+  "title": "Italian Shrimp and Yorkshire Pudding",
+  "description": "A unique Italian-inspired dish featuring shrimp and Yorkshire pudding, perfect for adventurous eaters.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "jumbo shrimp"
+    },
+    {
+      "name": "Yorkshire pudding mix",
+      "amount": "1 package",
+      "notes": "available in most grocery stores"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "for Yorkshire pudding"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shaved"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Cook the jumbo shrimp in boiling water for 2-3 minutes, or until pink and cooked through. Set aside.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute, or until fragrant.",
+    "Sprinkle the Italian seasoning over the garlic and cook for an additional minute.",
+    "Pour in the chicken broth and bring to a simmer.",
+    "Add the Yorkshire pudding mix to the skillet and stir to combine.",
+    "Cook for 2-3 minutes, or until the mixture is thick and bubbly.",
+    "Add the cooked shrimp to the skillet and toss to coat with the Yorkshire pudding mixture.",
+    "Transfer the skillet to the preheated oven and bake for 5-7 minutes, or until the pudding is golden brown.",
+    "Remove the skillet from the oven and sprinkle with parmesan cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "shrimp",
+    "yorkshire-pudding"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-springy-northern-irish-jumbo-shrimp-yorkshire-pudding--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:46:02.756Z"
+}
