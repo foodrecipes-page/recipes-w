@@ -13060,17 +13060,15 @@
   },
   {
     "slug": "wholesome-crispy-tunisian-fromage-blanc-bisque",
-    "title": "wholesome crispy tunisian fromage-blanc bisque",
+    "title": "Crispy Tunisian Vegetable Tart",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "quick-fix",
-      "spherified",
+      "breakfast",
+      "vegetarian",
       "tunisian",
-      "weeknight"
+      "flatbread"
     ],
     "cuisine": "tunisian",
-    "totalTimeMin": 17,
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -20944,6 +20942,22 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-crispy-german-ikura-bowl--mexican",
+    "title": "Warm German Breakfast Bowl",
+    "tags": [
+      "breakfast",
+      "mexican",
+      "warm",
+      "crispy",
+      "german",
+      "ikura",
+      "bowl"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
     "shard": "w"
   }
 ]
