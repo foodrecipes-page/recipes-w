@@ -1,0 +1,88 @@
+{
+  "slug": "warm-uruguayan-pork-knuckle-wrap--german",
+  "title": "Warm Pork Knuckle Wrap",
+  "description": "A hearty German-inspired wrap filled with warm pork knuckle and topped with a tangy slaw.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pork Knuckle",
+      "amount": "1 (1.5-2 lbs)"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "Large flour tortilla"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1/2 cup",
+      "notes": "Canned or homemade"
+    },
+    {
+      "name": "Brown Mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Season the pork knuckle with salt, pepper, and caraway seeds (if using).",
+    "3. Heat the olive oil in an oven-safe pan over medium-high heat. Sear the pork knuckle until browned on all sides, about 2-3 minutes per side.",
+    "4. Transfer the pan to the preheated oven and roast the pork knuckle for 20-25 minutes, or until it reaches an internal temperature of 160°F (71°C).",
+    "5. Meanwhile, cook the sliced onion and carrots in a pan over medium heat until tender, about 5-7 minutes.",
+    "6. Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "7. Assemble the wrap by placing the sliced pork knuckle, sauerkraut, and cooked onion and carrots inside the warm wrap.",
+    "8. Drizzle with brown mustard and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "warm",
+    "wrap",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-uruguayan-pork-knuckle-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:20:37.260Z"
+}
