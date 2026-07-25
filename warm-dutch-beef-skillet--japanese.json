@@ -1,0 +1,94 @@
+{
+  "slug": "warm-dutch-beef-skillet--japanese",
+  "title": "Japanese Beef Skillet",
+  "description": "A quick and savory Japanese-inspired beef skillet dish, perfect for a weeknight dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (thinly sliced)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "warm soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dutch mustard",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "skillet oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sliced green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "thinly sliced mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sliced bell peppers",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat skillet oil in a large skillet over medium-high heat.",
+    "Add beef and cook until browned, about 3-4 minutes. Remove from skillet and set aside.",
+    "Add more oil if necessary, then add mushrooms and cook until tender, about 3-4 minutes.",
+    "Add sliced bell peppers and cook until tender, about 3-4 minutes.",
+    "Add grated ginger and cook for an additional minute.",
+    "Return beef to skillet and pour in warm soy sauce, Dutch mustard, sugar, and rice vinegar.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Stir in green onions and serve hot.",
+    "Serve over rice or noodles for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "skillet",
+    "japanesecuisine",
+    "quickdinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-dutch-beef-skillet--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:39:26.545Z"
+}
