@@ -20905,5 +20905,45 @@
     "cuisine": "japanese",
     "totalTimeMin": 45,
     "shard": "w"
+  },
+  {
+    "slug": "warm-citrusy-japanese-chicken-donburi--mexican",
+    "title": "Citrus Chicken Donburi Bowl",
+    "tags": [
+      "mexican",
+      "japanese",
+      "chicken",
+      "donburi"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-sriracha-chinese-pork-baozi--german",
+    "title": "German-Style Pork Belly Baozi",
+    "tags": [
+      "german-cuisine",
+      "baozai",
+      "pork-belly",
+      "sauerkraut"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 165,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-spiced-peruvian-banana-skewers--italian",
+    "title": "Warm Peruvian Banana Skewers with Spiced Italian Glaze",
+    "tags": [
+      "italian",
+      "dessert",
+      "banana",
+      "skewers",
+      "peruvian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 15,
+    "shard": "w"
   }
 ]
