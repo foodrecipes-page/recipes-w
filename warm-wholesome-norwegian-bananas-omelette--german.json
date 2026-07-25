@@ -1,0 +1,74 @@
+{
+  "slug": "warm-wholesome-norwegian-bananas-omelette--german",
+  "title": "German Banana Omelette",
+  "description": "A classic German twist on the traditional omelette, incorporating bananas for a sweet and savory treat.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large eggs"
+    },
+    {
+      "name": "bananas",
+      "amount": "2",
+      "notes": "ripe"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tsp",
+      "notes": "melted"
+    },
+    {
+      "name": "whipped cream",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, whisk together eggs, sugar, and cinnamon until well combined.",
+    "2. Heat a non-stick pan over medium heat and add melted butter.",
+    "3. Pour in the egg mixture and cook until the edges start to set.",
+    "4. Add sliced bananas to one half of the omelette.",
+    "5. Use a spatula to gently fold the other half of the omelette over the bananas.",
+    "6. Cook for another minute and slide the omelette onto a plate.",
+    "7. Serve hot with whipped cream if desired.",
+    "8. Enjoy your German banana omelette!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "breakfast",
+    "sweet",
+    "eggs",
+    "bananas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-wholesome-norwegian-bananas-omelette--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:53:53.812Z"
+}
