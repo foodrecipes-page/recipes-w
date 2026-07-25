@@ -1,0 +1,76 @@
+{
+  "slug": "wholesome-crispy-tunisian-fromage-blanc-bisque",
+  "title": "Crispy Tunisian Vegetable Tart",
+  "description": "A flavorful and crispy tart filled with roasted vegetables, inspired by the spices of Tunisia.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tunisian flatbread",
+      "amount": "1 sheet",
+      "notes": "available in most supermarkets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Wholesome vegetables (carrot, zucchini, bell pepper)",
+      "amount": "1 bunch",
+      "notes": "any combination works well"
+    },
+    {
+      "name": "Crispy fromage",
+      "amount": "1 cup",
+      "notes": "shredded or crumbled"
+    },
+    {
+      "name": "Blanc sauce (or bechamel)",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Bisque (or egg wash)",
+      "amount": "1 egg",
+      "notes": "beaten for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Roll out the flatbread and transfer it to a baking sheet.",
+    "Brush the flatbread with olive oil.",
+    "Arrange the vegetables on one half of the flatbread.",
+    "Sprinkle the crispy fromage over the vegetables.",
+    "Spread the blanc sauce over the other half of the flatbread.",
+    "Brush the edges with bisque to create a crust.",
+    "Fold the flatbread in half and press the edges to seal.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Remove from oven and let cool for a few minutes.",
+    "Slice and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "vegetarian",
+    "tunisian",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-crispy-tunisian-fromage-blanc-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:15:46.136Z"
+}
