@@ -1,0 +1,88 @@
+{
+  "slug": "warm-citrusy-japanese-chicken-donburi--mexican",
+  "title": "Citrus Chicken Donburi Bowl",
+  "description": "A twist on the classic donburi, this Japanese-Mexican fusion dish combines citrusy flavors with tender chicken.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "2 cups",
+      "notes": "short-grain"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "avocado oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season chicken breast with cumin and coriander.",
+    "Grill chicken for 5-6 minutes per side, or until cooked through.",
+    "Let chicken rest for 5 minutes before slicing.",
+    "Cook Japanese rice according to package instructions.",
+    "In a small bowl, whisk together lime and orange juice.",
+    "To assemble the donburi bowl, place a scoop of rice on a plate, top with sliced chicken, and drizzle with citrus juice.",
+    "Garnish with chopped green onions and sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "japanese",
+    "chicken",
+    "donburi"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-citrusy-japanese-chicken-donburi--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:11:40.248Z"
+}
