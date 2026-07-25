@@ -6931,17 +6931,16 @@
   },
   {
     "slug": "warm-smoky-italian-pork-risotto",
-    "title": "Warm Smoky Italian Pork Risotto",
+    "title": "Pork Risotto with Smoky Flavor",
     "tags": [
-      "comfort-food",
-      "creamy",
-      "italian-food",
-      "one-pot",
-      "sick-day",
-      "smoky"
+      "italian",
+      "pork",
+      "risotto",
+      "smoky",
+      "creamy"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 50,
+    "cuisine": "italian",
+    "totalTimeMin": 65,
     "shard": "w"
   },
   {
@@ -20867,6 +20866,19 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 33,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-flaky-irish-potato-pie--japanese",
+    "title": "Japanese Potato Pie",
+    "tags": [
+      "japanese",
+      "potato",
+      "pie",
+      "snack"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 55,
     "shard": "w"
   }
 ]
