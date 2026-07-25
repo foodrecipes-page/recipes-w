@@ -1,0 +1,68 @@
+{
+  "slug": "wholesome-steam-kenyan-greens-pilaf--japanese",
+  "title": "Pan-Seared Japanese Greens with Kenyan Pilaf",
+  "description": "A simple and flavorful Japanese-inspired dish featuring pan-seared greens and a side of Kenyan-spiced pilaf.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "greens (such as bok choy or collard greens)",
+      "amount": "1 bunch",
+      "notes": "fresh and unwilted"
+    },
+    {
+      "name": "pilaf (Kenyan-style with spices)",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "wholesome olive oil",
+      "amount": "2 tbsp",
+      "notes": "for pan-searing"
+    },
+    {
+      "name": "steam water",
+      "amount": "as needed",
+      "notes": "for cooking greens"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the pan-seared greens to the skillet and cook for 2-3 minutes per side, until tender and slightly browned.",
+    "Remove the greens from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet and stir in the Kenyan pilaf.",
+    "Cook for 1-2 minutes, until the pilaf is heated through and starting to brown.",
+    "Return the pan-seared greens to the skillet and stir to combine with the pilaf.",
+    "Season with salt and pepper to taste, then serve hot.",
+    "Optional: add a sprinkle of sesame seeds or chopped green onions for garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "greens",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-steam-kenyan-greens-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:22:18.380Z"
+}
