@@ -1,0 +1,78 @@
+{
+  "slug": "warm-spicy-tunisian-pistachio-skillet--french",
+  "title": "Pistachio Crusted Tunny Steak with Tunisian Skillet",
+  "description": "A flavorful and aromatic dish, combining the freshness of tuna with the warmth of Tunisia and the crunch of pistachios.",
+  "cuisine": "french",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tuna steak",
+      "amount": "4 (6 oz each)"
+    },
+    {
+      "name": "pistachio meal",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon",
+      "amount": "1 (juice and wedges)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the tuna steaks with salt, black pepper, and tunisian spice blend.",
+    "In a shallow dish, mix pistachio meal and a pinch of salt.",
+    "Dip each tuna steak in the pistachio mixture, pressing gently to adhere.",
+    "Heat the olive oil in a skillet over medium-high heat.",
+    "Sear the tuna steaks for 1-2 minutes per side, or until browned.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked to desired doneness.",
+    "Remove from the oven and let rest for 2-3 minutes.",
+    "Serve with a squeeze of lemon juice and a side of your choice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "tunisian",
+    "skillet",
+    "pistachio",
+    "crusted"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-tunisian-pistachio-skillet--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:14:26.700Z"
+}
