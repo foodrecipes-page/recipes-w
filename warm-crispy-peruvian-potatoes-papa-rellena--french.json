@@ -1,0 +1,97 @@
+{
+  "slug": "warm-crispy-peruvian-potatoes-papa-rellena--french",
+  "title": "French-Style Papa Rellena",
+  "description": "A crispy Peruvian-inspired potato dish with a French twist.",
+  "cuisine": "french",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "large potatoes",
+      "amount": "2",
+      "notes": "preferably Peruvian or Andean varieties"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "or ground pork, beef, and pork mix"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oil in a large skillet to 350°F (175°C).",
+    "2. Peel the potatoes and boil them in salted water until they're cooked through.",
+    "3. Mash the potatoes in a bowl and let them cool.",
+    "4. Add ground beef, cumin, paprika, garlic, and onion to the mashed potatoes. Mix well.",
+    "5. Add beaten eggs and mix until just combined.",
+    "6. If using, add chopped cilantro and mix.",
+    "7. Cover the bowl with plastic wrap and refrigerate the mixture for at least 30 minutes.",
+    "8. When ready to fry, form the mixture into patties.",
+    "9. Dredge each patty in bread crumbs (if using).",
+    "10. Fry the patties until golden brown and crispy.",
+    "11. Remove from oil and place on a paper towel-lined plate to drain excess oil.",
+    "12. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "peruvian",
+    "potatoes",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-peruvian-potatoes-papa-rellena--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:53:19.293Z"
+}
