@@ -1,0 +1,87 @@
+{
+  "slug": "warm-smoky-polish-chicken-skillet",
+  "title": "Smoky Chicken Skillet",
+  "description": "A hearty, smoky chicken dish cooked to perfection in a skillet. Perfect for a weeknight dinner.",
+  "cuisine": "polish",
+  "diet": [
+    "pork-free",
+    "beef-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "Any size will do"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "Medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "Medium"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion and bell pepper to the skillet and cook until they start to soften.",
+    "Add the chicken to the skillet and cook until browned on both sides.",
+    "Add the smoked paprika, salt, pepper, and garlic powder to the skillet and stir to combine.",
+    "Reduce heat to medium-low and simmer for 10-15 minutes or until the chicken is cooked through.",
+    "Serve the chicken hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "skillet",
+    "polish",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-polish-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:33:28.406Z"
+}
