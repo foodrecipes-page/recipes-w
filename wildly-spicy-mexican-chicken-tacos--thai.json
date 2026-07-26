@@ -1,0 +1,94 @@
+{
+  "slug": "wildly-spicy-mexican-chicken-tacos--thai",
+  "title": "Thai Chicken Tacos",
+  "description": "A spicy twist on traditional tacos, featuring the flavors of Thailand and Mexico.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste for spice level"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "Mexican taco seasoning",
+      "amount": "1 tablespoon",
+      "notes": "Or homemade blend of chili powder, cumin, and smoked paprika"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10 corn or flour tortillas",
+      "notes": "Warm before serving"
+    },
+    {
+      "name": "Sliced radishes",
+      "amount": "1 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4-6",
+      "notes": "For serving"
+    },
+    {
+      "name": "Sour cream or Greek yogurt",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5-6 minutes.",
+    "Add Thai red curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add diced tomatoes and taco seasoning. Stir to combine.",
+    "Reduce heat to medium-low and simmer for 10-15 minutes.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by placing a portion of the chicken mixture onto a tortilla, then topping with radishes, cilantro, and a squeeze of lime juice.",
+    "Serve with sour cream or Greek yogurt and shredded cheese, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "thai-chicken-tacos",
+    "spicy-mexican-tacos",
+    "easy-recipe",
+    "dinner-ideas"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "15g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wildly-spicy-mexican-chicken-tacos--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:17:20.249Z"
+}
