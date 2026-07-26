@@ -1,0 +1,95 @@
+{
+  "slug": "wholesome-one-pot-egyptian-lamb-tagine--italian",
+  "title": "Egyptian Lamb Tagine in One Pot",
+  "description": "A twist on traditional Italian cooking, this one-pot dish combines the flavors of Egypt with lamb and wholesome ingredients.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 lbs",
+      "notes": null
+    },
+    {
+      "name": "One Pot",
+      "amount": "",
+      "notes": "large Dutch oven or heavy pot"
+    },
+    {
+      "name": "Tagine Spice Blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups, chopped",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large, chopped",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup, sliced",
+      "notes": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt and pepper.",
+    "Heat the pot over medium-high heat. Brown the lamb on all sides, about 5 minutes.",
+    "Add the onions, garlic, and tagine spice blend to the pot. Cook, stirring occasionally, for 5 minutes.",
+    "Add the chopped tomatoes, chicken broth, and lemon juice to the pot. Stir to combine.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until it is tender and falls apart easily.",
+    "Stir in the sliced almonds and chopped parsley. Serve hot over couscous or rice.",
+    "Let the dish rest for 10 minutes before serving to allow the flavors to meld.",
+    "Serve with crusty bread or over couscous for a filling meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "one-pot",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-one-pot-egyptian-lamb-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:19:48.558Z"
+}
