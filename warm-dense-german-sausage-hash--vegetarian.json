@@ -1,0 +1,79 @@
+{
+  "slug": "warm-dense-german-sausage-hash--vegetarian",
+  "title": "Hash Brown German Sausage Casserole",
+  "description": "A vegetarian twist on a traditional German sausage casserole, using hash browns instead of meat.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "hash browns",
+      "amount": "2 medium potatoes, peeled and grated"
+    },
+    {
+      "name": "sausage",
+      "amount": "1 package vegetarian German sausage, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium onion, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves garlic, minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can diced tomatoes"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté the onion and garlic until softened.",
+    "Add the sliced sausage and cook until browned.",
+    "Add the grated potatoes, diced tomatoes, caraway seeds, salt, and pepper. Cook until the potatoes are tender.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Sprinkle the shredded cheese on top.",
+    "Bake for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "vegetarian",
+    "breakfast",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-dense-german-sausage-hash--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:55:59.089Z"
+}
