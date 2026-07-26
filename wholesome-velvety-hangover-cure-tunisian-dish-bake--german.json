@@ -1,0 +1,75 @@
+{
+  "slug": "wholesome-velvety-hangover-cure-tunisian-dish-bake--german",
+  "title": "German Hangover Breakfast Casserole",
+  "description": "A hearty, comforting breakfast casserole to help ease a hangover. A German twist on a classic breakfast dish, featuring wholesome ingredients and a velvety egg custard.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tunisian bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Bake sausage",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Dish cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Eggs",
+      "amount": "6"
+    },
+    {
+      "name": "Velvety milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Wholesome onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Hangover cure, salt and pepper (to taste)",
+      "amount": "",
+      "notes": "add to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Tear Tunisian bread into 1-inch pieces and set aside.",
+    "3. Cook bake sausage in a skillet over medium-high heat, breaking up with a spoon, until browned, about 5-7 minutes. Drain on paper towels.",
+    "4. In a large mixing bowl, whisk together eggs, velvety milk, and a pinch of salt and pepper.",
+    "5. In a greased 9x13-inch baking dish, arrange half of the bread pieces in the bottom.",
+    "6. Sprinkle with half of the cooked sausage, half of the dish cheese, and half of the wholesome onion.",
+    "7. Pour half of the egg mixture over the bread mixture.",
+    "8. Repeat the layers: bread, sausage, cheese, onion, and egg mixture.",
+    "9. Cover the dish with aluminum foil and bake for 25 minutes.",
+    "10. Remove foil and continue baking for an additional 10-15 minutes, or until the eggs are set and the top is golden brown.",
+    "11. Remove from oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "breakfast",
+    "casserole",
+    "hangover"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-velvety-hangover-cure-tunisian-dish-bake--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:27:55.974Z"
+}
