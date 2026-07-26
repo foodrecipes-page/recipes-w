@@ -21438,5 +21438,32 @@
     "cuisine": "italian",
     "totalTimeMin": 22,
     "shard": "w"
+  },
+  {
+    "slug": "warm-buttery-egyptian-lentil-casserole--japanese",
+    "title": "Japanese Lentil Casserole",
+    "tags": [
+      "lentil",
+      "japanese",
+      "casserole",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-malaysian-monkfish-curry--chinese",
+    "title": "Spicy Malay Monkfish Curry",
+    "tags": [
+      "fish-recipe",
+      "curry-recipe",
+      "malaysian-cuisine",
+      "chinese-cuisine",
+      "spicy-food"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 27,
+    "shard": "w"
   }
 ]
