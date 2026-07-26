@@ -1,0 +1,70 @@
+{
+  "slug": "wilted-kenyan-vegetables-stir-fry--french",
+  "title": "French Vegetable Stir-Fry",
+  "description": "A simple French-inspired stir-fry dish made with wilted vegetables and a Kenyan twist. Perfect for a quick and easy dinner.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan vegetables (such as sweet potatoes, carrots, and bell peppers)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Wilted greens (such as kale or spinach)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the Kenyan vegetables and cook for 5-7 minutes until they start to soften.",
+    "Add the wilted greens and cook until they are wilted.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-kenyan-vegetables-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:06:28.053Z"
+}
