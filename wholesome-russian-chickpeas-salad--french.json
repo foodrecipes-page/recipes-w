@@ -1,0 +1,64 @@
+{
+  "slug": "wholesome-russian-chickpeas-salad--french",
+  "title": "French Chickpea Salad",
+  "description": "A classic French salad made with chickpeas, wholesome greens and russian dressing for a delicious and easy side dish.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 (15 ounce) can"
+    },
+    {
+      "name": "wholesome greens",
+      "amount": "4 cups, chopped"
+    },
+    {
+      "name": "russian dressing",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salad",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chopped greens and chickpeas.",
+    "In a small bowl, whisk together Russian dressing and salt and pepper to taste.",
+    "Pour dressing over the greens and chickpeas and toss to combine.",
+    "Top with chopped salad.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "salad",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-russian-chickpeas-salad--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:25:20.761Z"
+}
