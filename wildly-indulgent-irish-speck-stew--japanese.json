@@ -1,0 +1,85 @@
+{
+  "slug": "wildly-indulgent-irish-speck-stew--japanese",
+  "title": "Irish Beef Stew with a Japanese Twist",
+  "description": "A hearty and flavorful stew combining the richness of irish beef with the bold flavors of japanese ingredients. Perfect for a cold winter night.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "speck",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "irish",
+      "amount": "1 pound, cubed beef",
+      "notes": "use a flavorful cut such as chuck or round"
+    },
+    {
+      "name": "wildly",
+      "amount": "2 tablespoons, soy sauce"
+    },
+    {
+      "name": "indulgent",
+      "amount": "2 tablespoons, sake"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium, peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium, peeled and cubed"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups, beef broth"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup, chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Add the speck and cook until browned, about 5 minutes.",
+    "Add the beef and cook until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add more oil if necessary, then sauté the onion and garlic until softened, about 5 minutes.",
+    "Add the carrots and potatoes, and cook for an additional 5 minutes.",
+    "Add the soy sauce, sake, and beef broth, stirring to combine.",
+    "Return the beef to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 1/2 hours, or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 52,
+    "carbs": 30,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wildly-indulgent-irish-speck-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:19:24.925Z"
+}
