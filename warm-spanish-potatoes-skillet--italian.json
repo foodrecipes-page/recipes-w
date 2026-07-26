@@ -1,0 +1,62 @@
+{
+  "slug": "warm-spanish-potatoes-skillet--italian",
+  "title": "Italian-Style Potato Skillet",
+  "description": "A hearty, Italian-inspired potato skillet recipe, perfect for a weeknight dinner. With crispy potatoes, savory flavors, and a hint of Italian spices.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "3 medium-sized, peeled and diced"
+    },
+    {
+      "name": "Spanish Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Warm Water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Freshly Ground Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1 large, non-stick"
+    }
+  ],
+  "instructions": [
+    "Heat the Spanish Olive Oil in the Skillet over medium-high heat.",
+    "Add the diced Potatoes and cook for 5 minutes, stirring occasionally.",
+    "Add the Salt, Black Pepper, and Italian Seasoning to the Potatoes and stir to combine.",
+    "Continue cooking the Potatoes for another 10-12 minutes, or until they're tender and golden brown.",
+    "Remove the Skillet from the heat and stir in the Warm Water.",
+    "Serve the Italian-Style Potato Skillet hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "skillet",
+    "potatoes",
+    "easy",
+    "dinner"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spanish-potatoes-skillet--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:01:20.724Z"
+}
