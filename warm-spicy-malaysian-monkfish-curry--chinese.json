@@ -1,0 +1,96 @@
+{
+  "slug": "warm-spicy-malaysian-monkfish-curry--chinese",
+  "title": "Spicy Malay Monkfish Curry",
+  "description": "A flavorful and spicy Chinese-inspired curry dish featuring monkfish in a rich and aromatic Malaysian-style sauce. This recipe is a perfect combination of warm and savory flavors.",
+  "cuisine": "chinese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monkfish fillets",
+      "amount": "4 pieces (about 1 pound)",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add garlic and ginger and cook for another minute, until fragrant.",
+    "Add red curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add fish sauce and brown sugar and stir to combine.",
+    "Add monkfish fillets and cook for 2-3 minutes per side, until cooked through.",
+    "Stir in lime juice and Thai basil.",
+    "Serve immediately over rice or noodles.",
+    "Cook time: 12-15 minutes.",
+    "Servings: 4."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-recipe",
+    "curry-recipe",
+    "malaysian-cuisine",
+    "chinese-cuisine",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 44,
+    "carbs": 24,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-malaysian-monkfish-curry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:59:55.432Z"
+}
