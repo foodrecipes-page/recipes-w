@@ -20723,14 +20723,12 @@
   },
   {
     "slug": "wholesome-indian-lemongrass-takrai-dal--italian",
-    "title": "Lemongrass Chicken Tikka Pasta",
+    "title": "Lemongrass Chicken Pasta",
     "tags": [
       "italian",
-      "indian",
       "chicken",
-      "pasta",
       "lemongrass",
-      "tikka"
+      "pasta"
     ],
     "cuisine": "italian",
     "totalTimeMin": 35,
@@ -21426,6 +21424,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "winey-gooey-brazilian-fish-papillote--italian",
+    "title": "Pan-Seared Fish in Papillote with Winey Glaze",
+    "tags": [
+      "italian",
+      "fish",
+      "glaze",
+      "papillote"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
     "shard": "w"
   }
 ]
