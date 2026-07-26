@@ -1,0 +1,77 @@
+{
+  "slug": "winey-gooey-brazilian-fish-papillote--italian",
+  "title": "Pan-Seared Fish in Papillote with Winey Glaze",
+  "description": "A flavorful and moist fish dish, Italian-style, cooked in a flavorful papillote with a sweet and sticky winey glaze.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish (4 fillets)",
+      "amount": "4",
+      "notes": "fresh fish (such as salmon or tilapia)"
+    },
+    {
+      "name": "winey glaze",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "gooeey sauce",
+      "amount": "1 tablespoon",
+      "notes": "sweet and sticky sauce (such as honey or maple syrup)"
+    },
+    {
+      "name": "brazilian spices",
+      "amount": "1 teaspoon",
+      "notes": "paprika, garlic powder, or other spices of choice"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tablespoon",
+      "notes": "olive oil or other neutral-tasting oil"
+    },
+    {
+      "name": "papillote",
+      "amount": "4",
+      "notes": "four small pieces of parchment paper or aluminum foil"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "season to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the fish with salt and pepper.",
+    "Heat a tablespoon of oil in a hot skillet over medium-high heat. Sear the fish for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and cook for 8-10 minutes, or until the fish is cooked through.",
+    "Meanwhile, mix the winey and gooey ingredients in a small saucepan over medium heat, stirring until the glaze is smooth and bubbly.",
+    "Place the fish in a papillote with the glaze and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fish",
+    "glaze",
+    "papillote"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-gooey-brazilian-fish-papillote--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:01:59.756Z"
+}
