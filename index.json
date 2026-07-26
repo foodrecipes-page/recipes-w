@@ -21309,5 +21309,45 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "w"
+  },
+  {
+    "slug": "warm-brazilian-shaggy-broth--german",
+    "title": "German Shaggy's Beef Stew",
+    "tags": [
+      "beef",
+      "german",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 170,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-velvety-hangover-cure-tunisian-dish-bake--german",
+    "title": "German Hangover Breakfast Casserole",
+    "tags": [
+      "german",
+      "breakfast",
+      "casserole",
+      "hangover"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-algerian-pistachio-tagine--mexican",
+    "title": "Pistachio Chicken Tagine Tacos",
+    "tags": [
+      "mexican",
+      "chicken",
+      "tacos",
+      "tagine",
+      "pistachio"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
+    "shard": "w"
   }
 ]
