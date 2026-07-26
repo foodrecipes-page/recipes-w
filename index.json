@@ -1579,17 +1579,14 @@
   },
   {
     "slug": "warm-crispy-egyptian-fruit-mix-fritters",
-    "title": "Warm Crispy Egyptian Fruit Mix Fritters",
+    "title": "Egyptian Fritter Fruit Dessert",
     "tags": [
-      "crispy-treats",
-      "deep-fried",
-      "egyptian-desserts",
-      "fruit-filled",
-      "low-sodium",
-      "sweet-indulgence"
+      "egyptian-dessert",
+      "fruit-dessert",
+      "warm-dessert"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "w"
   },
   {
@@ -21232,6 +21229,18 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-resinous-tunisian-paella-rice-paella--mexican",
+    "title": "Mexican Paella Casserole",
+    "tags": [
+      "mexican",
+      "paella",
+      "casserole"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 50,
     "shard": "w"
   }
 ]
