@@ -1,0 +1,61 @@
+{
+  "slug": "wonton-chinese-puff-pastry-chow-fun--italian",
+  "title": "Italian Wonton Puff Pastry",
+  "description": "A unique Italian-inspired appetizer using wonton wrappers as a pastry substitute.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wonton wrappers",
+      "amount": "1 package (20-24 wrappers)"
+    },
+    {
+      "name": "Puff pastry",
+      "amount": "1 package (thawed)",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Funnel of chow mein noodles",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chow mein sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry to a thickness of 1/8 inch. Cut into 2-inch squares.",
+    "Place a wonton wrapper on each square, pressing edges to seal.",
+    "Brush edges with puff pastry and press to seal. Cut a small slit on top.",
+    "Arrange wontons on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes, or until golden brown.",
+    "Meanwhile, cook chow mein noodles according to package instructions.",
+    "In a small bowl, mix chow mein sauce and cooked noodles. Stir until combined.",
+    "Serve wontons on a platter with chow mein sauce mixture on the side.",
+    "Garnish with chopped scallions or chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "appetizer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wonton-chinese-puff-pastry-chow-fun--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:51:07.190Z"
+}
