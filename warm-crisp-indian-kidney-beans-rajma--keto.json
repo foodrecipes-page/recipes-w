@@ -1,0 +1,95 @@
+{
+  "slug": "warm-crisp-indian-kidney-beans-rajma--keto",
+  "title": "Keto Rajma Curry",
+  "description": "A flavorful and spicy curry made with kidney beans in an Indian-inspired tomato sauce. This recipe is suitable for a keto diet.",
+  "cuisine": "indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kidney beans",
+      "amount": "1 cup (rinsed and drained)",
+      "notes": "Choose a low-carb variety or cook according to package instructions."
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1/2 cup",
+      "notes": "Make sure to choose a sugar-free and low-carb tomato sauce."
+    },
+    {
+      "name": "Ghee or coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For added flavor and nutrition."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "Thinly sliced or diced."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced or crushed."
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Adjust to taste (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of ghee or coconut oil in a large pan over medium heat.",
+    "Add the sliced onion and sauté until translucent, about 3-4 minutes.",
+    "Add the minced garlic and sauté for another minute, until fragrant.",
+    "Add the garam masala, cumin powder, coriander powder, and cayenne pepper (if using). Mix well and cook for 1 minute.",
+    "Add the tomato sauce and stir to combine.",
+    "Bring the mixture to a simmer and let cook for 5-7 minutes, stirring occasionally.",
+    "Stir in the kidney beans and cook for an additional 5 minutes, until the sauce has thickened.",
+    "Season with salt to taste.",
+    "Serve hot over a bed of warm, crisp greens or with a side of cauliflower rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "indian",
+    "curry",
+    "beans",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crisp-indian-kidney-beans-rajma--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:49:05.686Z"
+}
