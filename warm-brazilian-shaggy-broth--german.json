@@ -1,0 +1,95 @@
+{
+  "slug": "warm-brazilian-shaggy-broth--german",
+  "title": "German Shaggy's Beef Stew",
+  "description": "A hearty German-inspired beef stew made with tender shanks and a rich broth, perfect for a cold evening. Serve with a side of warm bread or over egg noodles.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef shanks",
+      "amount": "2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "German broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Season the beef shanks with salt and pepper.",
+    "Sear the beef shanks until browned on all sides, about 5 minutes per side.",
+    "Remove the beef shanks from the pot and set aside.",
+    "Add the sliced onion to the pot and cook until softened, about 5 minutes.",
+    "Add the sliced carrot and celery to the pot and cook until tender, about 5 minutes.",
+    "Add the German broth, tomato paste, and beef broth to the pot, stirring to combine.",
+    "Return the beef shanks to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the beef is tender.",
+    "Remove the pot from the oven and season with salt and pepper to taste.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "german",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-brazilian-shaggy-broth--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:09:39.703Z"
+}
