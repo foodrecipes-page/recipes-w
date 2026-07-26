@@ -1,0 +1,96 @@
+{
+  "slug": "warm-algerian-pistachio-tagine--mexican",
+  "title": "Pistachio Chicken Tagine Tacos",
+  "description": "A twist on traditional Mexican tacos, incorporating warm Algerian flavors of tagine and the crunch of pistachios. A delicious fusion of cuisines.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "pistachio",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned on both sides, about 5-6 minutes.",
+    "Add the cumin, coriander, and tagine spice, and stir to combine.",
+    "Add the diced tomatoes and red onion, and stir to combine.",
+    "Reduce heat to medium-low, cover, and simmer for 10-12 minutes, or until the chicken is cooked through.",
+    "Stir in chopped pistachios and cook for 1-2 minutes.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by placing cooked chicken mixture onto a tortilla, and topping with chopped cilantro.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tacos",
+    "tagine",
+    "pistachio"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-algerian-pistachio-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:34:43.197Z"
+}
