@@ -1,0 +1,90 @@
+{
+  "slug": "warm-gooey-filipino-beef-kaldereta--chinese",
+  "title": "Beef Kaldereta Stir Fry",
+  "description": "A Chinese-inspired twist on the classic Filipino beef kaldereta dish. This stir-fry is quick, easy, and packed with flavor.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (sirloin or ribeye)",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "kaldereta",
+      "amount": "2 tablespoons",
+      "notes": "Filipino-style tomato sauce"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the wok and set aside.",
+    "Add the garlic and ginger to the wok and stir-fry until fragrant, about 30 seconds.",
+    "Add the kaldereta sauce, soy sauce, oyster sauce (if using), and brown sugar to the wok.",
+    "Stir to combine and bring the sauce to a simmer.",
+    "Return the beef to the wok and stir to coat with the sauce.",
+    "Cook for an additional 2-3 minutes, or until the sauce has thickened and the beef is cooked through.",
+    "Stir in the chopped scallions and serve hot over rice.",
+    "Optional: serve with steamed vegetables or noodles for a more filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "filipino",
+    "beef",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-gooey-filipino-beef-kaldereta--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:16:24.409Z"
+}
