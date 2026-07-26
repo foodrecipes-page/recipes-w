@@ -21389,5 +21389,30 @@
     "cuisine": "french",
     "totalTimeMin": 27,
     "shard": "w"
+  },
+  {
+    "slug": "wildly-indulgent-irish-speck-stew--japanese",
+    "title": "Irish Beef Stew with a Japanese Twist",
+    "tags": [
+      "beef",
+      "stew",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 170,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-russian-chickpeas-salad--french",
+    "title": "French Chickpea Salad",
+    "tags": [
+      "french",
+      "salad",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
+    "shard": "w"
   }
 ]
