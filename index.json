@@ -21349,5 +21349,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 27,
     "shard": "w"
+  },
+  {
+    "slug": "wholesome-one-pot-egyptian-lamb-tagine--italian",
+    "title": "Egyptian Lamb Tagine in One Pot",
+    "tags": [
+      "italian",
+      "lamb",
+      "one-pot",
+      "egyptian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 170,
+    "shard": "w"
   }
 ]
