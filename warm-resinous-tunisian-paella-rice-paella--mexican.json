@@ -1,0 +1,78 @@
+{
+  "slug": "warm-resinous-tunisian-paella-rice-paella--mexican",
+  "title": "Mexican Paella Casserole",
+  "description": "A twist on the classic Spanish dish, this Mexican paella casserole combines the flavors of the Mediterranean with the spices of Mexico.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tunisian chili peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "warm cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "resinous smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Heat oil in a large skillet over medium-high heat. Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic, chili peppers, cumin, and smoked paprika. Cook for 1 minute.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the diced tomatoes and bring to a simmer. Reduce heat to low and cook for 10 minutes.",
+    "Stir in the paella rice and cook for 2-3 minutes.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 25-30 minutes or until the rice is tender and the liquid has been absorbed.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "paella",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-resinous-tunisian-paella-rice-paella--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:04:46.575Z"
+}
