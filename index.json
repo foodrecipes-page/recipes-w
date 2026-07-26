@@ -21242,5 +21242,72 @@
     "cuisine": "mexican",
     "totalTimeMin": 50,
     "shard": "w"
+  },
+  {
+    "slug": "warm-gooey-canadian-bannock-bake--italian",
+    "title": "Warm Bannock Bake",
+    "tags": [
+      "italian",
+      "bannock",
+      "cheesy",
+      "appetizer"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "wonton-chinese-puff-pastry-chow-fun--italian",
+    "title": "Italian Wonton Puff Pastry",
+    "tags": [
+      "italian",
+      "appetizer",
+      "snack"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-thai-chicken-noodles--japanese",
+    "title": "Japanese Chicken Noodle Stir Fry",
+    "tags": [
+      "japanese",
+      "chicken",
+      "noodles",
+      "stir-fry",
+      "spicy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spanish-potatoes-skillet--italian",
+    "title": "Italian-Style Potato Skillet",
+    "tags": [
+      "italian",
+      "skillet",
+      "potatoes",
+      "easy",
+      "dinner"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-malaysian-chicken-noodles--chinese",
+    "title": "Chicken Satay Noodle Stir Fry",
+    "tags": [
+      "chinese",
+      "malaysian",
+      "chicken",
+      "noodles",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "w"
   }
 ]
