@@ -7134,18 +7134,15 @@
   },
   {
     "slug": "warm-smoky-polish-chicken-skillet",
-    "title": "Warm Smoky Polish Chicken Skillet",
+    "title": "Smoky Chicken Skillet",
     "tags": [
       "chicken",
-      "dairy-free",
-      "gluten-free",
-      "one-pan",
+      "skillet",
       "polish",
-      "potatoes",
       "smoky"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "cuisine": "polish",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -21223,6 +21220,18 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "wilted-kenyan-vegetables-stir-fry--french",
+    "title": "French Vegetable Stir-Fry",
+    "tags": [
+      "french",
+      "vegetarian",
+      "stir-fry"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 15,
     "shard": "w"
   }
 ]
