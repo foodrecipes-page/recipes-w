@@ -1,75 +1,70 @@
 {
   "slug": "wholesome-indian-lemongrass-takrai-dal--italian",
-  "title": "Lemongrass Chicken Tikka Pasta",
-  "description": "A fusion of Italian and Indian flavors, featuring lemongrass-infused chicken in a creamy pasta dish.",
+  "title": "Lemongrass Chicken Pasta",
+  "description": "A twist on traditional Italian pasta with the addition of lemongrass and spices, creating an aromatic and flavorful dish.",
   "cuisine": "italian",
   "diet": [
     "vegetarian",
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "lemongrass",
+      "name": "Penne Pasta",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Lemongrass",
       "amount": "2 stalks",
-      "notes": "chopped"
+      "notes": null
     },
     {
-      "name": "chicken breast",
-      "amount": "500g",
-      "notes": "cut into bite-sized pieces"
+      "name": "Chicken Breast",
+      "amount": "1 lb",
+      "notes": null
     },
     {
-      "name": "takrai",
-      "amount": "2 tbsp",
-      "notes": "paste"
-    },
-    {
-      "name": "dal",
-      "amount": "2 tbsp",
-      "notes": "ground"
-    },
-    {
-      "name": "pasta",
-      "amount": "250g",
-      "notes": "penne"
-    },
-    {
-      "name": "vegetable oil",
-      "amount": "2 tbsp"
-    },
-    {
-      "name": "garlic",
+      "name": "Garlic",
       "amount": "3 cloves",
-      "notes": "minced"
+      "notes": null
     },
     {
-      "name": "onion",
-      "amount": "1 onion",
-      "notes": "chopped"
+      "name": "Diced Tomatoes",
+      "amount": "1 can",
+      "notes": null
     },
     {
-      "name": "yogurt",
-      "amount": "200g",
-      "notes": "plain"
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
     },
     {
-      "name": "parmesan cheese",
-      "amount": "50g",
-      "notes": "grated"
+      "name": "Indian Dal",
+      "amount": "2 tbsp",
+      "notes": "Ground into a spice paste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
     }
   ],
   "instructions": [
-    "Cook pasta according to package instructions.",
-    "Heat oil in a large skillet over medium-high heat.",
-    "Add chicken and cook until browned, about 5 minutes.",
-    "Add lemongrass, takrai, dal, and garlic; cook for 1 minute.",
-    "Add onion and cook until softened, about 3 minutes.",
-    "Stir in yogurt and parmesan cheese until well combined.",
-    "Add cooked pasta to the skillet and toss to coat.",
-    "Season with salt and pepper to taste.",
-    "Serve hot, garnished with additional lemongrass if desired."
+    "Cook the penne pasta according to the package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat the olive oil over medium heat. Add the lemongrass and sauté for 2 minutes until fragrant.",
+    "Add the chicken breast to the skillet and cook until browned and cooked through. Remove from the skillet and set aside.",
+    "Add the garlic to the skillet and sauté for 1 minute until fragrant.",
+    "Add the diced tomatoes and Indian dal spice paste to the skillet. Stir to combine and cook for 2 minutes.",
+    "Add the cooked chicken back into the skillet and stir to combine with the tomato and dal sauce.",
+    "Add the cooked penne pasta to the skillet and toss to combine with the chicken and sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -78,20 +73,18 @@
   "difficulty": "medium",
   "tags": [
     "italian",
-    "indian",
     "chicken",
-    "pasta",
     "lemongrass",
-    "tikka"
+    "pasta"
   ],
   "nutrition": {
-    "calories": 420,
-    "protein": 37,
-    "carbs": 35,
-    "fat": 18
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-indian-lemongrass-takrai-dal--italian",
   "providerUsed": "groq",
-  "createdAt": "2026-07-20T06:14:24.743Z"
+  "createdAt": "2026-07-21T16:39:25.109Z"
 }
