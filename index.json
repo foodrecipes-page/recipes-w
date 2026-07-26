@@ -21362,5 +21362,32 @@
     "cuisine": "italian",
     "totalTimeMin": 170,
     "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-algerian-vegetable-tagine--keto",
+    "title": "Spicy Vegetable Tagine",
+    "tags": [
+      "algerian",
+      "keto",
+      "vegetarian",
+      "tagine"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-tunisian-pistachio-skillet--french",
+    "title": "Pistachio Crusted Tunny Steak with Tunisian Skillet",
+    "tags": [
+      "french",
+      "tunisian",
+      "skillet",
+      "pistachio",
+      "crusted"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 27,
+    "shard": "w"
   }
 ]
