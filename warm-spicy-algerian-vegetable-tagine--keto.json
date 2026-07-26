@@ -1,0 +1,103 @@
+{
+  "slug": "warm-spicy-algerian-vegetable-tagine--keto",
+  "title": "Spicy Vegetable Tagine",
+  "description": "A warm and spicy Algerian-inspired vegetable tagine, perfect for a keto diet. This dish is a flavorful and nutritious vegetarian option.",
+  "cuisine": "algerian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add garlic and cook for another minute.",
+    "Add carrots and zucchini, cook for 5 minutes.",
+    "Add red bell pepper and cook for another 5 minutes.",
+    "Stir in cumin, paprika, cayenne pepper, salt, and black pepper.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Garnish with parsley and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "keto",
+    "vegetarian",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-algerian-vegetable-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:56:27.767Z"
+}
