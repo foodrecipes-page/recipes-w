@@ -21414,5 +21414,18 @@
     "cuisine": "french",
     "totalTimeMin": 15,
     "shard": "w"
+  },
+  {
+    "slug": "warm-gooey-filipino-beef-kaldereta--chinese",
+    "title": "Beef Kaldereta Stir Fry",
+    "tags": [
+      "chinese",
+      "filipino",
+      "beef",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "w"
   }
 ]
