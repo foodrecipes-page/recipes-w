@@ -21198,5 +21198,31 @@
     "cuisine": "chinese",
     "totalTimeMin": 75,
     "shard": "w"
+  },
+  {
+    "slug": "warm-dense-german-sausage-hash--vegetarian",
+    "title": "Hash Brown German Sausage Casserole",
+    "tags": [
+      "german",
+      "vegetarian",
+      "breakfast",
+      "casserole"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-delicate-vietnamese-pork-pho--indian",
+    "title": "Vietnamese-Style Pork Curry",
+    "tags": [
+      "indian",
+      "pork",
+      "curry",
+      "vietnamese"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "w"
   }
 ]
