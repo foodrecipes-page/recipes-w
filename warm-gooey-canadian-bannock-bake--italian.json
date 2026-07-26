@@ -1,0 +1,78 @@
+{
+  "slug": "warm-gooey-canadian-bannock-bake--italian",
+  "title": "Warm Bannock Bake",
+  "description": "A delicious Italian-inspired warm bannock bake filled with gooey cheese and savory flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bannock",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the bannock into 1-inch cubes.",
+    "In a large bowl, combine the mozzarella and parmesan cheese.",
+    "Add the chopped basil, olive oil, garlic powder, salt, and Italian seasoning to the cheese mixture. Mix well.",
+    "Add the bannock cubes to the cheese mixture and toss until evenly coated.",
+    "Transfer the bannock mixture to a 9x13-inch baking dish.",
+    "Bake for 20-25 minutes or until the bannock is golden brown and the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "bannock",
+    "cheesy",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-gooey-canadian-bannock-bake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:48:03.378Z"
+}
