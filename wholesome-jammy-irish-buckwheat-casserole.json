@@ -1,68 +1,75 @@
 {
   "slug": "wholesome-jammy-irish-buckwheat-casserole",
   "title": "Irish Buckwheat Casserole",
-  "description": "A hearty and comforting casserole made with wholesome buckwheat and a hint of Irish charm. Perfect for a cozy dinner.",
+  "description": "A hearty, comforting dish that combines the earthiness of buckwheat with the richness of Irish sausage.",
   "cuisine": "Irish",
   "diet": [
     "gluten-free",
-    "vegetarian"
+    "dairy-free"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Buckwheat groats",
-      "amount": "1 cup"
+      "name": "Irish Buckwheat",
+      "amount": "1 cup",
+      "notes": ""
     },
     {
-      "name": "Wholesome vegetable broth",
-      "amount": "2 cups"
+      "name": "Irish Sausage",
+      "amount": "1 pound",
+      "notes": "Cooked and sliced"
     },
     {
-      "name": "Irish butter",
-      "amount": "2 tablespoons"
+      "name": "Wholesome Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
     },
     {
-      "name": "Casserole seasoning",
-      "amount": "1 teaspoon"
+      "name": "Jammy Carrots",
+      "amount": "2 medium",
+      "notes": "Sliced"
     },
     {
-      "name": "Salt and pepper",
-      "amount": "to taste"
+      "name": "Wholesome Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
     },
     {
-      "name": "Fresh parsley",
-      "amount": "chopped (optional)"
+      "name": "Buckwheat Flour",
+      "amount": "1/2 cup",
+      "notes": ""
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
-    "In a large saucepan, sauté the buckwheat groats in the Irish butter until lightly toasted.",
-    "Add the wholesome vegetable broth and casserole seasoning. Bring to a boil, then reduce heat and simmer for 20 minutes.",
-    "Season with salt and pepper to taste.",
-    "Transfer the buckwheat mixture to a 9x13 inch baking dish.",
-    "Top with additional Irish butter if desired.",
-    "Bake in the preheated oven for 25-30 minutes, or until lightly browned.",
-    "Garnish with chopped fresh parsley if desired.",
-    "Serve hot and enjoy!"
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the Irish sausage in a pan over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent.",
+    "Stir in the sliced carrots and cook for an additional 5 minutes.",
+    "In a large bowl, combine the cooked sausage mixture, sliced carrots, and chopped onion.",
+    "Add the buckwheat flour and mix until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with foil.",
+    "Bake for 30 minutes, then remove the foil and bake for an additional 15-20 minutes, or until the top is lightly browned.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 30,
-  "totalTimeMin": 45,
-  "servings": 4,
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "vegetarian",
-    "gluten-free",
+    "irish",
+    "buckwheat",
+    "casserole",
     "comfort-food"
   ],
   "nutrition": {
-    "calories": 320,
-    "protein": 10,
-    "carbs": 50,
-    "fat": 10
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-jammy-irish-buckwheat-casserole",
   "providerUsed": "groq",
-  "createdAt": "2026-07-19T21:36:11.869Z"
+  "createdAt": "2026-07-22T00:05:15.655Z"
 }
