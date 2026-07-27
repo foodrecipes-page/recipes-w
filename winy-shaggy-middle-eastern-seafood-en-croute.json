@@ -1,0 +1,78 @@
+{
+  "slug": "winy-shaggy-middle-eastern-seafood-en-croute",
+  "title": "Winy Shaggy Cakes with Eastern Croute",
+  "description": "A unique fusion of flavors from the middle east, this dish combines the richness of seafood with the crunch of croute.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Winy",
+      "amount": "2 cups",
+      "notes": "Ground winy"
+    },
+    {
+      "name": "Shaggy",
+      "amount": "1 cup",
+      "notes": "Chopped shaggy"
+    },
+    {
+      "name": "Middle Eastern Spices",
+      "amount": "2 tsp",
+      "notes": "Mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Seafood Mix",
+      "amount": "1 cup",
+      "notes": "Combination of shrimp, scallops, and mussels"
+    },
+    {
+      "name": "Eastern Croute",
+      "amount": "1 cup",
+      "notes": "Crushed croute"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Seasoning"
+    }
+  ],
+  "instructions": [
+    "1. Heat olive oil in a large skillet over medium heat.",
+    "2. Add the chopped shaggy and cook until fragrant, about 2 minutes.",
+    "3. Add the ground winy and cook, breaking it up with a spoon, until it's no longer pink, about 5 minutes.",
+    "4. Stir in the Middle Eastern spices and cook for 1 minute.",
+    "5. Add the seafood mix and cook until it's pink and cooked through, about 3-4 minutes.",
+    "6. Stir in the crushed croute and cook for an additional 2 minutes.",
+    "7. Season with salt and pepper to taste.",
+    "8. Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "middle-eastern",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winy-shaggy-middle-eastern-seafood-en-croute",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:19:53.510Z"
+}
