@@ -1,0 +1,89 @@
+{
+  "slug": "warm-spiced-moroccan-lamb-tagine--japanese",
+  "title": "Japanese Lamb Tagine",
+  "description": "A unique fusion of Japanese and Moroccan flavors, featuring tender lamb cooked in a warm spiced tagine.",
+  "cuisine": "japanese",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "500g",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "warm spiced tagine paste",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or tamari for gluten-free"
+    },
+    {
+      "name": "sake",
+      "amount": "1/4 cup",
+      "notes": "or dry white wine"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large Dutch oven or oven-safe pan over medium-high heat.",
+    "Brown lamb pieces until browned on all sides, about 5 minutes. Remove lamb from pan and set aside.",
+    "Add warm spiced tagine paste to pan and cook for 1 minute, stirring constantly.",
+    "Add soy sauce, sake, honey, green onions, garam masala, and sugar to pan. Stir to combine.",
+    "Return lamb to pan and bring to a boil.",
+    "Cover pan with a lid and transfer to a preheated oven at 300°F (150°C).",
+    "Braise lamb for 2-1/2 hours, or until tender and falling apart.",
+    "Season with salt and pepper to taste. Serve hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "moroccan",
+    "japanese",
+    "tagine",
+    "braise"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 33
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spiced-moroccan-lamb-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:28:12.477Z"
+}
