@@ -4076,17 +4076,16 @@
   },
   {
     "slug": "warm-hearty-algerian-beef-stew",
-    "title": "Warm Hearty Algerian Beef Stew",
+    "title": "Beef Algerian Stew",
     "tags": [
-      "algerian-cuisine",
-      "comfort-food",
-      "dairy-free",
-      "hearty-stew",
-      "one-pot",
-      "weeknight"
+      "beef",
+      "stew",
+      "algerian",
+      "hearty",
+      "warm"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 120,
+    "totalTimeMin": 140,
     "shard": "w"
   },
   {
