@@ -1,0 +1,74 @@
+{
+  "slug": "wholesome-russian-chickpeas-salad--italian",
+  "title": "Classic Italian Chickpea Salad",
+  "description": "A delicious, light Italian-inspired salad made with chickpeas, wholesome ingredients, and a hint of Russian flair.",
+  "cuisine": "italian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Wholesome Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Russian Dill Pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": "such as arugula, spinach, and lettuce"
+    },
+    {
+      "name": "Italian Balsamic Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the chickpeas, mixed greens, and chopped pickle.",
+    "In a small bowl, whisk together the olive oil, balsamic vinegar, salt, and pepper.",
+    "Pour the dressing over the chickpea mixture and toss to combine.",
+    "Serve immediately, garnished with additional pickle if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "chickpea",
+    "salad",
+    "lunch",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-russian-chickpeas-salad--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:32:23.822Z"
+}
