@@ -1,0 +1,71 @@
+{
+  "slug": "warm-sriracha-chinese-pork-baozi--indian",
+  "title": "Sriracha Baozi Filling",
+  "description": "A spicy twist on traditional baozi filling, featuring sriracha-marinated pork.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "boneless pork shoulder or pork belly"
+    },
+    {
+      "name": "sriracha",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "warm",
+      "amount": "1/2 cup",
+      "notes": "warm water"
+    },
+    {
+      "name": "chinese",
+      "amount": "",
+      "notes": "5-spice powder, 1 teaspoon"
+    },
+    {
+      "name": "baozi",
+      "amount": "4-6",
+      "notes": "pre-made baozi dough"
+    }
+  ],
+  "instructions": [
+    "Preheat a steamer or Instant Pot to cook the baozi.",
+    "In a large bowl, whisk together warm water, sriracha, and 5-spice powder.",
+    "Add the pork to the bowl and marinate for at least 30 minutes.",
+    "Preheat a pan over medium-high heat and cook the marinated pork until browned.",
+    "Roll out the baozi dough into balls and flatten slightly.",
+    "Place a tablespoon of the pork mixture in the center of each baozi dough.",
+    "Fold the dough over the filling and press the edges to seal.",
+    "Cook the baozi in a steamer or Instant Pot according to the manufacturer's instructions.",
+    "Serve the sriracha baozi hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chinese",
+    "pork",
+    "baozi",
+    "sriracha"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-sriracha-chinese-pork-baozi--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:28:52.723Z"
+}
