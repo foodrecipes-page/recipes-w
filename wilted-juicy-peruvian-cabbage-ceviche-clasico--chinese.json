@@ -1,0 +1,80 @@
+{
+  "slug": "wilted-juicy-peruvian-cabbage-ceviche-clasico--chinese",
+  "title": "Ceviche-Style Cabbage Stir Fry",
+  "description": "A Chinese-inspired stir fry combining the freshness of ceviche with the crunch of cabbage.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "2 cups, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian",
+      "amount": "2 tablespoons, ceviche seasoning",
+      "notes": ""
+    },
+    {
+      "name": "Wilted",
+      "amount": "1 tablespoon, vegetable oil",
+      "notes": ""
+    },
+    {
+      "name": "Juicy",
+      "amount": "1 cup, diced tomatoes",
+      "notes": ""
+    },
+    {
+      "name": "Clasico",
+      "amount": "2 cloves, minced garlic",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and stir-fry for 1 minute until fragrant.",
+    "Add the shredded cabbage and stir-fry for 3-4 minutes until slightly wilted.",
+    "Add the diced tomatoes and stir-fry for another 2-3 minutes.",
+    "In a small bowl, whisk together the ceviche seasoning, soy sauce, and rice vinegar.",
+    "Pour the sauce over the cabbage mixture and stir-fry for 1-2 minutes until well combined.",
+    "Serve hot and enjoy!",
+    "Optional: garnish with additional cilantro or green onions for added flavor and color."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-cuisine",
+    "vegetarian-recipe",
+    "stir-fry",
+    "ceviche",
+    "cabbage"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wilted-juicy-peruvian-cabbage-ceviche-clasico--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:10:07.232Z"
+}
