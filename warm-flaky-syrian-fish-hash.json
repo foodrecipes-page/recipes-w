@@ -1,0 +1,84 @@
+{
+  "slug": "warm-flaky-syrian-fish-hash",
+  "title": "Syrian Fish Hash",
+  "description": "A flavorful Syrian-inspired breakfast dish made with crispy fish and warm hash.",
+  "cuisine": "Syrian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fish Fillets",
+      "amount": "4",
+      "notes": "Fresh fish, preferably cod or tilapia"
+    },
+    {
+      "name": "Hash Browns",
+      "amount": "1 cup",
+      "notes": "Shredded potatoes"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "For added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onions and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the fish fillets and cook for 3-4 minutes on each side, until cooked through.",
+    "Meanwhile, cook the hash browns in a separate pan until golden brown, about 5 minutes per side.",
+    "Season the fish and hash with salt, black pepper, and paprika.",
+    "Serve the fish on top of the hash browns and garnish with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "fish",
+    "syrian",
+    "hash"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-flaky-syrian-fish-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:34:33.661Z"
+}
