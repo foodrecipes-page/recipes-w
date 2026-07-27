@@ -1,0 +1,83 @@
+{
+  "slug": "warm-fatty-algerian-chickpeas-tagine--chinese",
+  "title": "Chinese Chickpea Stir Fry",
+  "description": "A quick and easy Chinese-inspired dish made with chickpeas, warming spices, and a hint of Algerian flair.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "warm"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "saffron",
+      "amount": "1/2 teaspoon",
+      "notes": "algerian spice"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional minute, stirring constantly.",
+    "Add the chickpeas, saffron, soy sauce, and brown sugar (if using) to the skillet.",
+    "Stir to combine and cook for 2-3 minutes, or until the chickpeas are coated in the sauce.",
+    "Season with salt and pepper to taste.",
+    "Transfer the chickpea mixture to a serving platter and garnish with chopped green onions (optional).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "chickpeas",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-fatty-algerian-chickpeas-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:53:51.753Z"
+}
