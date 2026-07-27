@@ -21505,5 +21505,18 @@
     "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "w"
+  },
+  {
+    "slug": "warm-fatty-algerian-chickpeas-tagine--chinese",
+    "title": "Chinese Chickpea Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "chickpeas",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
+    "shard": "w"
   }
 ]
