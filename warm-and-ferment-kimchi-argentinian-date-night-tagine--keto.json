@@ -1,0 +1,86 @@
+{
+  "slug": "warm-and-ferment-kimchi-argentinian-date-night-tagine--keto",
+  "title": "Argentinian Kimchi Date Tagine",
+  "description": "A keto twist on the traditional Moroccan tagine, featuring spicy kimchi and sweet dates.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Pork shoulder",
+      "amount": "1 lb",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Dates",
+      "amount": "1/2 cup",
+      "notes": "pitted and chopped"
+    },
+    {
+      "name": "Ghee or coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "Ferment",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Night salt",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Warm spices",
+      "amount": "1 tsp",
+      "notes": "cinnamon, cumin, coriander"
+    },
+    {
+      "name": "Andean mint",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the pork shoulder with night salt and ferment (if using).",
+    "Heat the ghee or coconut oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork shoulder in batches until nicely browned, about 5 minutes per side.",
+    "Transfer the pork to a plate and set aside.",
+    "Add the chopped dates to the pot and cook until caramelized, about 5 minutes.",
+    "Add the kimchi, warm spices, and browned pork back to the pot.",
+    "Cover the pot with a lid and transfer to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the pork is tender and the meat falls apart easily.",
+    "Garnish with chopped Andean mint and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "kimchi",
+    "date",
+    "tagine",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-and-ferment-kimchi-argentinian-date-night-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:13:19.067Z"
+}
