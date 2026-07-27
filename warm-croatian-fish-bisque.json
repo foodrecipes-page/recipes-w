@@ -1,0 +1,84 @@
+{
+  "slug": "warm-croatian-fish-bisque",
+  "title": "Baked Croation Fish with Warm Bisque",
+  "description": "A hearty and flavorful fish dish from the Mediterranean, served with a side of warm bisque.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod Fish Fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Lemon",
+      "amount": "1",
+      "notes": "Juiced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Warm Bisque",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the cod fish fillets on the baking sheet.",
+    "Drizzle the olive oil over the fish, then sprinkle the garlic and oregano on top.",
+    "Season with salt and pepper to taste.",
+    "Bake the fish in the preheated oven for 12-15 minutes, or until cooked through.",
+    "While the fish is baking, heat the warm bisque in a saucepan over low heat.",
+    "Once the fish is done, serve it with a side of warm bisque.",
+    "Garnish with lemon wedges and fresh parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "mediterranean",
+    "baked-fish",
+    "warm-bisque"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-croatian-fish-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:38:52.386Z"
+}
