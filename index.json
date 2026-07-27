@@ -3221,17 +3221,16 @@
   },
   {
     "slug": "warm-flaky-syrian-fish-hash",
-    "title": "Warm Flaky Syrian Fish Hash",
+    "title": "Syrian Fish Hash",
     "tags": [
-      "adventurous",
       "breakfast",
+      "lunch",
       "fish",
-      "hash",
-      "pescatarian-friendly",
-      "syrian"
+      "syrian",
+      "hash"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
