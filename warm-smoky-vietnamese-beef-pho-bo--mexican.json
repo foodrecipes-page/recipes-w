@@ -1,0 +1,93 @@
+{
+  "slug": "warm-smoky-vietnamese-beef-pho-bo--mexican",
+  "title": "Smoky Beef Pho Tacos",
+  "description": "A fusion of Vietnamese and Mexican flavors, these tacos bring the warm and smoky taste of pho to a crispy taco shell.",
+  "cuisine": "mexican",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Pho Spice Blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Taco Shells",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Jalapeños",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Vietnamese Chili Sauce (Sriracha)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Warm Tortilla Oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing taco shells"
+    }
+  ],
+  "instructions": [
+    "1. Brown the ground beef in a large skillet over medium-high heat.",
+    "2. Add the Pho Spice Blend and cook for 1-2 minutes.",
+    "3. Brush taco shells with Warm Tortilla Oil and toast in the oven for 5 minutes.",
+    "4. Assemble the tacos by spooning the beef mixture into the shells, then topping with cilantro, sour cream, jalapeños, and a drizzle of Vietnamese Chili Sauce.",
+    "5. Serve immediately and enjoy!",
+    "6. Cook beef to an internal temperature of 160°F to ensure food safety.",
+    "7. Be sure to handle the jalapeños carefully to avoid skin irritation.",
+    "8. You can customize the toppings to your liking, but these are the classic combinations for a Smoky Beef Pho Taco.",
+    "9. For an extra kick, add a few dashes of hot sauce to the beef mixture before serving.",
+    "10. To make this recipe more substantial, add some cooked rice or beans to the tacos.",
+    "11. This recipe is best served immediately, but you can also store the beef mixture in the fridge for up to a day and reheat when needed.",
+    "12. Leftover taco shells can be stored in an airtight container for up to 2 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "vietnamese",
+    "tacos",
+    "beef",
+    "pho"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-vietnamese-beef-pho-bo--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:56:17.932Z"
+}
