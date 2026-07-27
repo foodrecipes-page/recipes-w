@@ -1,0 +1,95 @@
+{
+  "slug": "warm-hearty-algerian-beef-stew",
+  "title": "Beef Algerian Stew",
+  "description": "A warm and hearty Algerian-inspired beef stew with tender beef and vegetables.",
+  "cuisine": "Algerian",
+  "diet": [
+    "beef",
+    "stew"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high.",
+    "Brown beef on all sides, then remove from pot.",
+    "Reduce heat to medium, add onion and garlic; cook until onion is translucent.",
+    "Add carrots and potatoes; cook for 5 minutes.",
+    "Add chili powder, cumin, salt, and pepper; cook for 1 minute.",
+    "Add beef back to pot, add enough water to cover, and bring to a boil.",
+    "Cover, transfer to oven, and braise for 2 hours, or until beef is tender.",
+    "Garnish with parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "algerian",
+    "hearty",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-hearty-algerian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:02:03.558Z"
+}
