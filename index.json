@@ -21611,5 +21611,19 @@
     "cuisine": "Thai",
     "totalTimeMin": 45,
     "shard": "w"
+  },
+  {
+    "slug": "warm-german-schnitzel-gratin--indian",
+    "title": "Chicken Schnitzel Tikka Masala",
+    "tags": [
+      "chicken",
+      "tikka-masala",
+      "schnitzel",
+      "indian-fusion",
+      "german-fusion"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
+    "shard": "w"
   }
 ]
