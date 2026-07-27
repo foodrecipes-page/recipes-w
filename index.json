@@ -17144,16 +17144,14 @@
   },
   {
     "slug": "winy-shaggy-middle-eastern-seafood-en-croute",
-    "title": "winy shaggy middle-eastern seafood en-croute",
+    "title": "Winy Shaggy Cakes with Eastern Croute",
     "tags": [
-      "comfort-food",
-      "middle-eastern",
-      "one-pan",
       "seafood",
-      "weeknight"
+      "middle-eastern",
+      "gluten-free"
     ],
-    "cuisine": "middle eastern",
-    "totalTimeMin": 65,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 27,
     "shard": "w"
   },
   {
@@ -21543,6 +21541,35 @@
       "tacos"
     ],
     "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-russian-chickpeas-salad--italian",
+    "title": "Classic Italian Chickpea Salad",
+    "tags": [
+      "italian",
+      "chickpea",
+      "salad",
+      "lunch",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 10,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-smoky-vietnamese-beef-pho-bo--mexican",
+    "title": "Smoky Beef Pho Tacos",
+    "tags": [
+      "mexican",
+      "vietnamese",
+      "tacos",
+      "beef",
+      "pho"
+    ],
+    "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "w"
   }
