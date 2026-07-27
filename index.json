@@ -21585,5 +21585,31 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "w"
+  },
+  {
+    "slug": "wilted-juicy-peruvian-cabbage-ceviche-clasico--chinese",
+    "title": "Ceviche-Style Cabbage Stir Fry",
+    "tags": [
+      "chinese-cuisine",
+      "vegetarian-recipe",
+      "stir-fry",
+      "ceviche",
+      "cabbage"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-velvety-portuguese-chicken-bake--thai",
+    "title": "Thai Chicken Bake",
+    "tags": [
+      "chicken",
+      "thaicuisine",
+      "bakedchicken"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "w"
   }
 ]
