@@ -13708,12 +13708,13 @@
     "slug": "wholesome-jammy-irish-buckwheat-casserole",
     "title": "Irish Buckwheat Casserole",
     "tags": [
-      "vegetarian",
-      "gluten-free",
+      "irish",
+      "buckwheat",
+      "casserole",
       "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 65,
     "shard": "w"
   },
   {
@@ -21516,6 +21517,33 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 20,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spiced-moroccan-lamb-tagine--japanese",
+    "title": "Japanese Lamb Tagine",
+    "tags": [
+      "lamb",
+      "moroccan",
+      "japanese",
+      "tagine",
+      "braise"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 170,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-mexican-freekeh-tacos--german",
+    "title": "German-Style Beef Tacos",
+    "tags": [
+      "german",
+      "mexican",
+      "beef",
+      "tacos"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "w"
   }
 ]
