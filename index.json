@@ -1925,17 +1925,15 @@
   },
   {
     "slug": "warm-croatian-fish-bisque",
-    "title": "warm croatian fish bisque",
+    "title": "Baked Croation Fish with Warm Bisque",
     "tags": [
-      "cold-weather",
-      "comforting",
-      "croatian",
-      "seafood",
-      "soup",
-      "weeknight"
+      "fish",
+      "mediterranean",
+      "baked-fish",
+      "warm-bisque"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": 50,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
     "shard": "w"
   },
   {
@@ -21624,6 +21622,20 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-and-ferment-kimchi-argentinian-date-night-tagine--keto",
+    "title": "Argentinian Kimchi Date Tagine",
+    "tags": [
+      "argentinian",
+      "kimchi",
+      "date",
+      "tagine",
+      "keto"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 180,
     "shard": "w"
   }
 ]
