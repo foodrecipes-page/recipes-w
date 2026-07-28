@@ -12727,16 +12727,14 @@
   },
   {
     "slug": "wholesome-buttered-dutch-coconut-quiche",
-    "title": "Wholesome Buttered Dutch Coconut Quiche",
+    "title": "Coconut Quiche with Wholesome Flair",
     "tags": [
-      "bouncy",
-      "buttered",
+      "breakfast",
+      "quiche",
       "coconut",
-      "dutch",
-      "ovo-vegetarian",
-      "salt-block"
+      "wholesome"
     ],
-    "cuisine": "Dutch",
+    "cuisine": null,
     "totalTimeMin": 50,
     "shard": "w"
   },
@@ -21779,6 +21777,32 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-tunisian-chicken-tagine--indian",
+    "title": "Tunisian Chicken Tagine",
+    "tags": [
+      "chicken",
+      "indian",
+      "north-african",
+      "spicy",
+      "comfort-food"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
+    "slug": "worcester-worry-free-stew--vegetarian",
+    "title": "Vegetarian Stew",
+    "tags": [
+      "vegetarian",
+      "stew",
+      "comfort food"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 45,
     "shard": "w"
   }
 ]
