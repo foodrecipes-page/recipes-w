@@ -21703,5 +21703,43 @@
     "cuisine": null,
     "totalTimeMin": 35,
     "shard": "w"
+  },
+  {
+    "slug": "warm-sweet-canadian-almond-casserole--keto",
+    "title": "Keto Sweet Almond Casserole",
+    "tags": [
+      "keto",
+      "dessert",
+      "casserole"
+    ],
+    "cuisine": "North American",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-crispy-egyptian-fruit-mix-fritters--french",
+    "title": "Crispy French Fruit Fritters",
+    "tags": [
+      "french",
+      "fruit",
+      "fritters",
+      "sweet"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "w"
+  },
+  {
+    "slug": "warmly-sliced-german-pork-pastrami--mexican",
+    "title": "Carnitas Quesadilla",
+    "tags": [
+      "mexican",
+      "carnitas",
+      "quesadilla",
+      "pork"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 140,
+    "shard": "w"
   }
 ]
