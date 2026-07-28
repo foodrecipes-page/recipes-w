@@ -1,0 +1,84 @@
+{
+  "slug": "whole30-wholesome-croatian-grapes-grill",
+  "title": "Grilled Croatian-Style Pork Chops with Grilled Grapes",
+  "description": "A Whole30 and wholesome compliant recipe that combines the flavors of Croatia with the sweetness of grilled grapes.",
+  "cuisine": "Croatian",
+  "diet": [
+    "Whole30",
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Chops",
+      "amount": "1.5 pounds",
+      "notes": "4-6 chops, 1-1.5 inches thick"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing pork chops"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "use a Whole30 compliant salt"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": "Whole30 compliant"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "use a Whole30 compliant smoked paprika"
+    },
+    {
+      "name": "Grapes",
+      "amount": "1 cup",
+      "notes": "any red or green variety"
+    },
+    {
+      "name": "Fresh Rosemary",
+      "amount": "2 sprigs",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season pork chops with salt, pepper, garlic powder, and paprika.",
+    "3. Brush pork chops with olive oil and grill for 5-6 minutes per side, or until cooked to an internal temperature of 145°F.",
+    "4. Meanwhile, thread grapes onto skewers and brush with olive oil.",
+    "5. Grill grapes for 2-3 minutes per side, or until slightly charred.",
+    "6. Let pork chops rest for 5 minutes before serving.",
+    "7. Garnish with fresh rosemary and serve with grilled grapes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "whole30",
+    "whole",
+    "croatian",
+    "grilled",
+    "grapes"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whole30-wholesome-croatian-grapes-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:02:30.029Z"
+}
