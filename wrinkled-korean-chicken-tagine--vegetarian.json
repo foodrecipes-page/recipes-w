@@ -1,0 +1,83 @@
+{
+  "slug": "wrinkled-korean-chicken-tagine--vegetarian",
+  "title": "Korean-Style Wrinkled Tagine Stew",
+  "description": "A flavorful and hearty vegetarian stew made with wrinkled potatoes, korean chili flakes, and tagine spices.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wrinkled Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Tagine Spice Blend",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add ginger and cook for 1 minute.",
+    "Stir in chili flakes, cumin, and tagine spice blend. Cook for 1 minute.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add diced potatoes, chickpeas, and 2 cups of water. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes, or until potatoes are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "stew",
+    "korean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wrinkled-korean-chicken-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:22:18.294Z"
+}
