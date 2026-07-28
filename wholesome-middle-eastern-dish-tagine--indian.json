@@ -1,0 +1,99 @@
+{
+  "slug": "wholesome-middle-eastern-dish-tagine--indian",
+  "title": "Wholesome Indian Chicken Tagine",
+  "description": "A hearty and flavorful Indian-inspired chicken tagine made with wholesome ingredients, perfect for a weeknight dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add chicken and cook until browned, about 5-6 minutes.",
+    "Remove chicken and set aside.",
+    "Add onion, garlic, and ginger to the pot and cook until the onion is translucent.",
+    "Add red bell pepper and cook for an additional 2-3 minutes.",
+    "Stir in cumin, coriander, cayenne pepper, and salt. Cook for 1 minute.",
+    "Add diced tomatoes and chicken broth. Stir to combine.",
+    "Return chicken to the pot and bring to a simmer.",
+    "Reduce heat to medium-low and cook, covered, until the chicken is cooked through and the sauce has thickened, about 20-25 minutes.",
+    "Garnish with chopped cilantro, if desired.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "tagine",
+    "wholesome"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-middle-eastern-dish-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:05:30.547Z"
+}
