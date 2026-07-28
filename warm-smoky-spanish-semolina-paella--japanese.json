@@ -1,0 +1,73 @@
+{
+  "slug": "warm-smoky-spanish-semolina-paella--japanese",
+  "title": "Smoky Paella Semolina Bites",
+  "description": "A twist on traditional Japanese snacks, these bite-sized Paella Semolina treats infuse smoky flavors with a warm, comforting twist.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Semolina Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Paella Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Warm Water",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Safflower Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large mixing bowl, combine semolina flour and paella rice.",
+    "3. Gradually add warm water and mix until a dough forms.",
+    "4. Knead the dough for 5 minutes.",
+    "5. Divide the dough into small balls and flatten slightly.",
+    "6. Heat safflower oil in a skillet over medium heat.",
+    "7. Cook the semolina bites for 2-3 minutes on each side, until lightly browned.",
+    "8. Remove from heat and sprinkle with smoked paprika.",
+    "9. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "snack",
+    "easy",
+    "semolina",
+    "paella",
+    "warm",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-spanish-semolina-paella--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:21:20.432Z"
+}
