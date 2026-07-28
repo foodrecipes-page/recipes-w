@@ -1,0 +1,87 @@
+{
+  "slug": "winey-argentinian-lemon-wrap--mexican",
+  "title": "Argentinian Beef Wraps with Lemon",
+  "description": "A flavorful and spicy twist on traditional beef wraps, inspired by Argentinian cuisine, made with lean beef, tangy lemon, and a hint of winey notes.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lean Ground Beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Winey Red Wine Vinegar",
+      "amount": "1 tablespoon",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Argentinian Seasoning",
+      "amount": "1 teaspoon",
+      "notes": "or substitute with fajita seasoning"
+    },
+    {
+      "name": "Tortilla Wraps",
+      "amount": "4-6",
+      "notes": "look for gluten-free option"
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1 medium",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine ground beef, lemon juice, red wine vinegar, and Argentinian seasoning. Mix well with your hands until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Preheat a large skillet or griddle over medium-high heat.",
+    "Remove the beef mixture from the refrigerator and divide it into 4-6 portions, depending on desired wrap size.",
+    "Shape each portion into a ball and flatten slightly into a patty.",
+    "Add a tablespoon of oil to the preheated skillet and cook the beef patties for 3-4 minutes per side, or until cooked to desired level of doneness.",
+    "While the beef is cooking, warm the tortilla wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by placing a cooked beef patty onto a warmed tortilla, followed by a sprinkle of chopped onion and a sprinkle of cilantro.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "mexican",
+    "wrap",
+    "lemon"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-argentinian-lemon-wrap--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:38:18.276Z"
+}
