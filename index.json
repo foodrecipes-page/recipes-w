@@ -12399,11 +12399,12 @@
   },
   {
     "slug": "whisked-slovakian-date-stir-fry",
-    "title": "Whisked Slovakian Date Stir-fry",
+    "title": "Slovakian Pancakes with Date Syrup",
     "tags": [
-      "date-night",
+      "breakfast",
       "slovakian",
-      "stir-fry"
+      "pancakes",
+      "date-syrup"
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 30,
@@ -21852,6 +21853,33 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 50,
+    "shard": "w"
+  },
+  {
+    "slug": "wicked-malted-uruguayan-cheese-stir-fry--thai",
+    "title": "Thai Stir Fry with Malted Cheese",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 18,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-slovakian-pork-belly-skewers--chinese",
+    "title": "Slovakian Chinese Pork Belly Skewers",
+    "tags": [
+      "slovakian",
+      "chinese",
+      "pork",
+      "belly",
+      "skewers",
+      "grilled"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 23,
     "shard": "w"
   }
 ]
