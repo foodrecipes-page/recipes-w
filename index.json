@@ -13755,15 +13755,11 @@
   },
   {
     "slug": "wholesome-japanese-rice-bowl",
-    "title": "Wholesome Japanese Rice Bowl",
+    "title": "Japanese Wholesome Rice Bowl",
     "tags": [
-      "gluten-free",
-      "high-fiber",
-      "kid-friendly",
-      "low-fat",
-      "plant-based",
-      "vegan",
-      "weeknight"
+      "japanese",
+      "wholesome",
+      "rice-bowl"
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 30,
@@ -21740,6 +21736,22 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 140,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-smoky-spanish-semolina-paella--japanese",
+    "title": "Smoky Paella Semolina Bites",
+    "tags": [
+      "japanese",
+      "snack",
+      "easy",
+      "semolina",
+      "paella",
+      "warm",
+      "smoky"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "w"
   }
 ]
