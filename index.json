@@ -21637,5 +21637,46 @@
     "cuisine": "Argentinian",
     "totalTimeMin": 180,
     "shard": "w"
+  },
+  {
+    "slug": "winey-argentinian-lemon-wrap--mexican",
+    "title": "Argentinian Beef Wraps with Lemon",
+    "tags": [
+      "argentinian",
+      "beef",
+      "mexican",
+      "wrap",
+      "lemon"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-german-schnitzel-gratin--french",
+    "title": "German Schnitzel Gratin",
+    "tags": [
+      "german",
+      "french",
+      "schnitzel",
+      "gratin"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-french-gochugaru-cassoulet--indian",
+    "title": "Spicy Gochujang Chicken Cassoulet",
+    "tags": [
+      "indian",
+      "chicken",
+      "beans",
+      "spicy",
+      "fusion"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "w"
   }
 ]
