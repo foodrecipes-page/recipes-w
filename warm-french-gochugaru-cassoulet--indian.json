@@ -1,0 +1,80 @@
+{
+  "slug": "warm-french-gochugaru-cassoulet--indian",
+  "title": "Spicy Gochujang Chicken Cassoulet",
+  "description": "A unique fusion of Indian and French flavors, this spicy chicken cassoulet is a perfect blend of warm spices and bold gochujang sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "gochujang sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cassoulet beans",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "French onion soup mix",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "warm spices (cumin, coriander, cardamom)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, heat 1 tbsp of ghee or oil over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Add the warm spices, French onion soup mix, and gochujang sauce. Stir well.",
+    "Add the cassoulet beans and stir to combine.",
+    "Transfer the mixture to a baking dish and cover with aluminum foil.",
+    "Bake for 20-25 minutes or until the chicken is cooked through.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "beans",
+    "spicy",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-french-gochugaru-cassoulet--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:18:24.615Z"
+}
