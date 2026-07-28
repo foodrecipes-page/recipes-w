@@ -1,0 +1,62 @@
+{
+  "slug": "warm-syrian-potatoes-bake--french",
+  "title": "French Baked Potatoes",
+  "description": "A simple and comforting French-inspired dish featuring tender baked potatoes.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Choose high-starch potatoes for fluffiness"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Syrian",
+      "amount": "1 tablespoon",
+      "notes": "Assumes Syrian is a type of seasoning or spice blend"
+    },
+    {
+      "name": "Bake",
+      "amount": "350°F (175°C)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Scrub the potatoes clean and poke some holes in each with a fork.",
+    "Rub the potatoes with a little bit of Syrian seasoning.",
+    "Place the potatoes directly on the middle rack of the oven.",
+    "Bake for 45-60 minutes or until the potatoes are tender when pierced with a fork.",
+    "Remove the potatoes from the oven and let them cool for a few minutes.",
+    "Serve warm, garnished with a sprinkle of Syrian seasoning if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 45,
+  "totalTimeMin": 50,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "baked-potatoes",
+    "french-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-syrian-potatoes-bake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:39:56.986Z"
+}
