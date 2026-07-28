@@ -1,0 +1,94 @@
+{
+  "slug": "warm-argentinian-bulgur-wheat-pilaf",
+  "title": "Warm Bulgur Pilaf",
+  "description": "A simple and comforting pilaf made with warm spices and bulgur, perfect for a cozy evening.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "fine bulgur"
+    },
+    {
+      "name": "warm water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "optional",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cumin, paprika, salt, and black pepper. Cook for 1 minute.",
+    "Add the bulgur and warm water to the saucepan. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover.",
+    "Simmer for 20-25 minutes, or until the water has been absorbed and the bulgur is tender.",
+    "Fluff the pilaf with a fork and garnish with chopped fresh parsley if desired.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bulgur",
+    "pilaf",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-argentinian-bulgur-wheat-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:43:12.936Z"
+}
