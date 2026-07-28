@@ -21255,16 +21255,15 @@
   },
   {
     "slug": "warm-spicy-thai-chicken-noodles--japanese",
-    "title": "Japanese Chicken Noodle Stir Fry",
+    "title": "Spicy Chicken Ramen",
     "tags": [
       "japanese",
-      "chicken",
-      "noodles",
-      "stir-fry",
-      "spicy"
+      "ramen",
+      "spicy",
+      "chicken"
     ],
     "cuisine": "japanese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -21803,6 +21802,56 @@
     ],
     "cuisine": null,
     "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-middle-eastern-dish-tagine--indian",
+    "title": "Wholesome Indian Chicken Tagine",
+    "tags": [
+      "indian",
+      "chicken",
+      "tagine",
+      "wholesome"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-toasted-russian-almonds-toast--italian",
+    "title": "Italian Toast Crunch",
+    "tags": [
+      "italian",
+      "easy-snack",
+      "almond-crunch"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-monsoon-green-olives-tagine--keto",
+    "title": "Tagine with Olives",
+    "tags": [
+      "lamb",
+      "moroccan",
+      "keto",
+      "low-carb"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 180,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-syrian-potatoes-bake--french",
+    "title": "French Baked Potatoes",
+    "tags": [
+      "baked-potatoes",
+      "french-cuisine",
+      "comfort-food"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
     "shard": "w"
   }
 ]
