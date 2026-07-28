@@ -1,0 +1,99 @@
+{
+  "slug": "warm-crisp-moroccan-lamb-kefta-tagine--japanese",
+  "title": "Japanese Lamb Tagine",
+  "description": "A unique Japanese twist on traditional Moroccan tagine, using lamb kefta and warm spices.",
+  "cuisine": "japanese",
+  "diet": [
+    "lacto-ovo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Kefta",
+      "amount": "500g",
+      "notes": "Ground lamb mixed with warm spices"
+    },
+    {
+      "name": "Moroccan Spices",
+      "amount": "2 tbsp",
+      "notes": "Cinnamon, cumin, coriander, and turmeric"
+    },
+    {
+      "name": "Onions",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Crushed Tomatoes",
+      "amount": "1 cup",
+      "notes": "Canned or fresh"
+    },
+    {
+      "name": "Dashi Broth",
+      "amount": "2 cups",
+      "notes": "Japanese cooking stock"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tbsp",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": "For flavor"
+    },
+    {
+      "name": "Sushi Rice",
+      "amount": "1 cup",
+      "notes": "Cooked"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large Dutch oven over medium-high heat.",
+    "Add lamb kefta and cook until browned, breaking into small pieces as it cooks.",
+    "Add onions and garlic and cook until softened.",
+    "Add Moroccan spices and cook for 1 minute.",
+    "Add crushed tomatoes and dashi broth. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Stir in soy sauce and season with salt and pepper to taste.",
+    "Serve over sushi rice, garnished with sesame seeds.",
+    "Cook Japanese pickles or gari on the side, if desired.",
+    "Serve with steamed vegetables, such as bok choy or shiitake mushrooms.",
+    "Garnish with fresh cilantro or scallions, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "lamb",
+    "tagine",
+    "moroccan",
+    "kefta",
+    "warm-spices"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crisp-moroccan-lamb-kefta-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:45:31.662Z"
+}
