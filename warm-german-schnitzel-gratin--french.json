@@ -1,0 +1,103 @@
+{
+  "slug": "warm-german-schnitzel-gratin--french",
+  "title": "German Schnitzel Gratin",
+  "description": "A German-inspired take on French cuisine, this Schnitzel Gratin combines crispy breaded pork with a rich, creamy bechamel sauce.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork cutlets",
+      "amount": "4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1 cup",
+      "notes": "freshly grated Parmesan"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "for breading"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup",
+      "notes": "whole"
+    },
+    {
+      "name": "Bechamel sauce",
+      "amount": "1 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Grated Gruyère cheese",
+      "amount": "1 cup",
+      "notes": "for topping"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the pork cutlets with salt and black pepper.",
+    "In a shallow dish, mix together the flour, a pinch of salt, and a few grinds of black pepper.",
+    "Dip each cutlet in the flour mixture, coating both sides evenly.",
+    "Dip the floured cutlet in the beaten egg, making sure to coat it completely.",
+    "Finally, roll the egg-coated cutlet in the bread crumb mixture to coat, pressing the crumbs gently onto the meat to ensure they stick.",
+    "Heat 2 tablespoons of butter in a large skillet over medium-high heat.",
+    "Add the breaded cutlets to the skillet and cook for 2-3 minutes on each side, or until golden brown and cooked through.",
+    "Transfer the cooked cutlets to a baking dish and spoon some of the bechamel sauce over the top of each cutlet.",
+    "Sprinkle the grated Gruyère cheese over the top of each cutlet.",
+    "Transfer the baking dish to the preheated oven and bake for 15-20 minutes, or until the top is golden brown and the sauce is bubbly.",
+    "Remove the dish from the oven and sprinkle with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "french",
+    "schnitzel",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-german-schnitzel-gratin--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:45:20.702Z"
+}
