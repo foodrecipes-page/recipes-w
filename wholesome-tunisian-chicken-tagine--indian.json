@@ -1,0 +1,106 @@
+{
+  "slug": "wholesome-tunisian-chicken-tagine--indian",
+  "title": "Tunisian Chicken Tagine",
+  "description": "A flavorful and aromatic North African dish inspired by Indian spices. Marinated chicken cooked in a rich and spicy tomato-based sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast or thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "chicken tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": "or a mix of cumin, coriander, cinnamon, and allspice"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high. Add chicken and cook until browned, about 5 minutes.",
+    "Remove chicken and set aside. Add onion and cook until softened, about 5 minutes.",
+    "Add garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper. Cook for 1 minute.",
+    "Stir in chicken broth and bring to a boil.",
+    "Return chicken to the pot, cover, and transfer to the oven.",
+    "Bake at 300°F (150°C) for 25-30 minutes or until chicken is cooked through.",
+    "Stir in chicken tagine spice blend and cook for an additional 5 minutes.",
+    "Serve hot over wholesome rice or with tunisian flatbread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "indian",
+    "north-african",
+    "spicy",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-tunisian-chicken-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:28:51.448Z"
+}
