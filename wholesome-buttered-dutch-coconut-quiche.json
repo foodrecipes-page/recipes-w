@@ -1,0 +1,82 @@
+{
+  "slug": "wholesome-buttered-dutch-coconut-quiche",
+  "title": "Coconut Quiche with Wholesome Flair",
+  "description": "A delicious quiche filled with coconut, wholesome goodness, and a touch of dutch flavor. Perfect for a satisfying breakfast or brunch.",
+  "cuisine": null,
+  "diet": [
+    "pork-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dutch Processed Cocoa Powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Shredded Coconut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Wholesome Flour",
+      "amount": "1 1/4 cups"
+    },
+    {
+      "name": "Eggs",
+      "amount": "3 large"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25 teaspoon"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "0.25 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, melt the butter over medium heat. Whisk in the cocoa powder and cook for 1-2 minutes.",
+    "Stir in the shredded coconut and cook for an additional 2 minutes.",
+    "In a separate bowl, whisk together the flour, sugar, and salt.",
+    "Add the eggs, milk, and vanilla extract to the dry ingredients and stir until well combined.",
+    "Pour the egg mixture over the coconut mixture and stir until smooth.",
+    "Pour the mixture into a greased 9-inch pie dish.",
+    "Bake for 35-40 minutes or until the quiche is set and the edges are lightly browned.",
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "quiche",
+    "coconut",
+    "wholesome"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 32,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-buttered-dutch-coconut-quiche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:13:41.340Z"
+}
