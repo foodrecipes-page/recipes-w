@@ -21678,5 +21678,19 @@
     "cuisine": "indian",
     "totalTimeMin": 40,
     "shard": "w"
+  },
+  {
+    "slug": "warm-crispy-canadian-corn-bake--german",
+    "title": "German Corn Fritters",
+    "tags": [
+      "german",
+      "corn",
+      "fritters",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 15,
+    "shard": "w"
   }
 ]
