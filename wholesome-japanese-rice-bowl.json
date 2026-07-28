@@ -1,0 +1,88 @@
+{
+  "slug": "wholesome-japanese-rice-bowl",
+  "title": "Japanese Wholesome Rice Bowl",
+  "description": "A simple and nutritious Japanese-inspired rice bowl filled with grilled chicken, vegetables, and a savory sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "vegetarian-option"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup",
+      "notes": "short-grain Japanese rice"
+    },
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1",
+      "notes": "4 oz"
+    },
+    {
+      "name": "Mixed vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers, carrots, and green beans"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling and dressing"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the Japanese rice according to package instructions.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the chicken breast with salt, pepper, and sesame oil. Grill for 5-6 minutes per side, or until cooked through.",
+    "In a small bowl, whisk together soy sauce, honey, and sesame oil for the dressing.",
+    "In a separate pan, heat the sesame oil over medium heat. Add the mixed vegetables and cook until tender.",
+    "To assemble the bowls, place a scoop of cooked rice in the bottom, followed by sliced grilled chicken, vegetables, and a drizzle of dressing.",
+    "Garnish with sesame seeds, green onions, and pickled ginger.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "wholesome",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 50,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-japanese-rice-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:34:33.568Z"
+}
