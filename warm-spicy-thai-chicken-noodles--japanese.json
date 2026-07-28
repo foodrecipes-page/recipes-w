@@ -1,86 +1,79 @@
 {
   "slug": "warm-spicy-thai-chicken-noodles--japanese",
-  "title": "Japanese Chicken Noodle Stir Fry",
-  "description": "A simple and flavorful Japanese-inspired stir fry made with chicken, noodles, and warm, spicy Thai-inspired flavors.",
+  "title": "Spicy Chicken Ramen",
+  "description": "A Japanese-inspired ramen dish with spicy chicken and a rich broth.",
   "cuisine": "japanese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": null,
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "boneless, skinless chicken breasts",
-      "amount": "1 pound",
-      "notes": "cut into bite-sized pieces"
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
     },
     {
-      "name": "Japanese noodles",
-      "amount": "8 ounces",
-      "notes": "such as soba or udon"
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "Japanese ramen noodles"
     },
     {
-      "name": "Thai red curry paste",
-      "amount": "2 tablespoons",
-      "notes": "or to taste"
+      "name": "spicy sauce",
+      "amount": "2 tbsp",
+      "notes": "Thai chili sauce"
     },
     {
       "name": "soy sauce",
-      "amount": "2 tablespoons",
-      "notes": "or to taste"
-    },
-    {
-      "name": "honey",
-      "amount": "1 tablespoon",
-      "notes": "or to taste"
-    },
-    {
-      "name": "grated ginger",
-      "amount": "1 tablespoon",
-      "notes": "or to taste"
-    },
-    {
-      "name": "vegetable oil",
-      "amount": "1 tablespoon",
-      "notes": "for cooking"
+      "amount": "2 tbsp",
+      "notes": ""
     },
     {
       "name": "green onions",
-      "amount": "1/4 cup",
-      "notes": "chopped, for garnish"
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
     }
   ],
   "instructions": [
-    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
-    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
-    "Remove the chicken from the skillet and set aside.",
-    "Add the Thai red curry paste to the skillet and cook for 1 minute, stirring constantly.",
-    "Add the noodles to the skillet and cook for 2-3 minutes, or until they begin to soften.",
-    "Add the soy sauce, honey, and ginger to the skillet and stir to combine.",
-    "Return the chicken to the skillet and stir to combine with the noodles and sauce.",
-    "Cook for an additional 1-2 minutes, or until the chicken is coated in the sauce.",
-    "Serve the chicken and noodles hot, garnished with chopped green onions.",
-    "Optional: serve with additional soy sauce, honey, or Thai red curry paste on the side for added flavor."
+    "Cook the noodles according to the package instructions.",
+    "In a large pot, combine the chicken breast, spicy sauce, soy sauce, ginger, and garlic.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the cooked noodles to the pot and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the noodles are well coated with the sauce.",
+    "Serve hot, garnished with green onions and a drizzle of sesame oil."
   ],
   "prepTimeMin": 10,
-  "cookTimeMin": 15,
-  "totalTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "japanese",
-    "chicken",
-    "noodles",
-    "stir-fry",
-    "spicy"
+    "ramen",
+    "spicy",
+    "chicken"
   ],
   "nutrition": {
-    "calories": 350,
-    "protein": 30,
-    "carbs": 40,
-    "fat": 10
+    "calories": 450,
+    "protein": 35,
+    "carbs": 55,
+    "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-thai-chicken-noodles--japanese",
   "providerUsed": "groq",
-  "createdAt": "2026-07-21T10:00:21.261Z"
+  "createdAt": "2026-07-22T20:19:48.825Z"
 }
