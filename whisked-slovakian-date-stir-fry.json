@@ -1,0 +1,72 @@
+{
+  "slug": "whisked-slovakian-date-stir-fry",
+  "title": "Slovakian Pancakes with Date Syrup",
+  "description": "A traditional Slovakian dish with a twist of sweet date syrup. Perfect for a lazy Sunday breakfast.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 eggs",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup milk",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup date syrup",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons butter, melted",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together flour, eggs, milk, date syrup, and salt until smooth.",
+    "2. Heat a non-stick pan over medium heat.",
+    "3. Using a 1/4 cup measuring cup, scoop batter onto the pan.",
+    "4. Cook for 2-3 minutes, until bubbles appear on the surface.",
+    "5. Flip and cook for another 1-2 minutes, until golden brown.",
+    "6. Repeat with remaining batter, until all pancakes are cooked.",
+    "7. Serve warm with melted butter and additional date syrup, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "slovakian",
+    "pancakes",
+    "date-syrup"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/whisked-slovakian-date-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:34:36.611Z"
+}
