@@ -12527,16 +12527,16 @@
   },
   {
     "slug": "whole30-wholesome-croatian-grapes-grill",
-    "title": "Whole30 Wholesome Croatian Grapes Grill",
+    "title": "Grilled Croatian-Style Pork Chops with Grilled Grapes",
     "tags": [
+      "whole30",
+      "whole",
       "croatian",
-      "grill",
-      "healthy",
-      "simple",
-      "whole30"
+      "grilled",
+      "grapes"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 18,
+    "totalTimeMin": 30,
     "shard": "w"
   },
   {
@@ -21752,6 +21752,33 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "wrinkled-korean-chicken-tagine--vegetarian",
+    "title": "Korean-Style Wrinkled Tagine Stew",
+    "tags": [
+      "vegetarian",
+      "stew",
+      "korean"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-crisp-moroccan-lamb-kefta-tagine--japanese",
+    "title": "Japanese Lamb Tagine",
+    "tags": [
+      "japanese",
+      "lamb",
+      "tagine",
+      "moroccan",
+      "kefta",
+      "warm-spices"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 60,
     "shard": "w"
   }
 ]
