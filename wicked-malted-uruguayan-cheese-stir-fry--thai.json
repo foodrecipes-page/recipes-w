@@ -1,0 +1,65 @@
+{
+  "slug": "wicked-malted-uruguayan-cheese-stir-fry--thai",
+  "title": "Thai Stir Fry with Malted Cheese",
+  "description": "A unique twist on a classic Thai dish, featuring a savory stir fry with melted malted cheese.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "stir",
+      "amount": "2 tablespoons",
+      "notes": "vegetable or peanut oil"
+    },
+    {
+      "name": "malted",
+      "amount": "1 cup",
+      "notes": "shredded cheese"
+    },
+    {
+      "name": "uruguayan",
+      "amount": "1/2 cup",
+      "notes": "sliced bell peppers"
+    },
+    {
+      "name": "cheese",
+      "amount": "1/2 cup",
+      "notes": "sliced onions"
+    },
+    {
+      "name": "wicked",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced onions and stir-fry until translucent.",
+    "Add the sliced bell peppers and cook for an additional 2 minutes.",
+    "Add the minced garlic and stir-fry for 1 minute.",
+    "Add the shredded cheese and stir until melted.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wicked-malted-uruguayan-cheese-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:06:04.731Z"
+}
