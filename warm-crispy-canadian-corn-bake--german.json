@@ -1,0 +1,85 @@
+{
+  "slug": "warm-crispy-canadian-corn-bake--german",
+  "title": "German Corn Fritters",
+  "description": "Crunchy and savory corn fritters with a hint of German flavor, perfect as a side dish or snack.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cornmeal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated Canadian cheddar",
+      "amount": "1/2 cup",
+      "notes": "can be omitted for a dairy-free option"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Bake powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Crispy bacon",
+      "amount": "2 slices",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together cornmeal, cheddar cheese, and bake powder.",
+    "In a separate bowl, whisk together warm water, egg, salt, and pepper.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Fold in the crumbled bacon.",
+    "Heat about 1/2 inch of oil in a large skillet over medium heat.",
+    "Using a spoon, drop the dough into the hot oil to form small fritters.",
+    "Fry the fritters until golden brown and crispy, about 2-3 minutes per side.",
+    "Drain the fritters on paper towels and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "corn",
+    "fritters",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-canadian-corn-bake--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:32:33.376Z"
+}
