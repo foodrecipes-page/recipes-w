@@ -218,16 +218,14 @@
   },
   {
     "slug": "warm-argentinian-bulgur-wheat-pilaf",
-    "title": "Warm Argentinian Bulgur Wheat Pilaf",
+    "title": "Warm Bulgur Pilaf",
     "tags": [
-      "argentinian",
-      "comfort-food",
-      "healthy",
-      "one-pot",
-      "pescatarian"
+      "bulgur",
+      "pilaf",
+      "middle-eastern"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 45,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "w"
   },
   {
@@ -21691,6 +21689,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 15,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-croatian-fish-bisque--keto",
+    "title": "Pan-Seared Fish with Warm Croation Bisque",
+    "tags": [
+      "keto",
+      "fish",
+      "bisque",
+      "croatian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "w"
   }
 ]
