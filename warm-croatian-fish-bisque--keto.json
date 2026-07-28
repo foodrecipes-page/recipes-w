@@ -1,0 +1,102 @@
+{
+  "slug": "warm-croatian-fish-bisque--keto",
+  "title": "Pan-Seared Fish with Warm Croation Bisque",
+  "description": "A keto-friendly dish featuring pan-seared fish served with a warm Croatian-inspired bisque.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod",
+      "amount": "4 fillets",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fish stock",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium-high heat.",
+    "Add butter and let it melt.",
+    "Add garlic and sauté for 1 minute.",
+    "Add white wine and cook until reduced by half.",
+    "Add fish stock and bring to a boil.",
+    "Add heavy cream and stir to combine.",
+    "Add tomato paste and paprika.",
+    "Season with salt and pepper.",
+    "Reduce heat to medium-low and simmer for 10 minutes.",
+    "Meanwhile, season cod fillets with salt and pepper.",
+    "Pan-fry cod in the skillet with butter until cooked through.",
+    "Serve cod with warm bisque spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "fish",
+    "bisque",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-croatian-fish-bisque--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:41:56.726Z"
+}
