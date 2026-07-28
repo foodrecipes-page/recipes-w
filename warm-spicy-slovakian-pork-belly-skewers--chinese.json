@@ -1,0 +1,90 @@
+{
+  "slug": "warm-spicy-slovakian-pork-belly-skewers--chinese",
+  "title": "Slovakian Chinese Pork Belly Skewers",
+  "description": "A fusion of Slovakian and Chinese flavors, these pork belly skewers are marinated in a sweet and spicy sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "or to taste"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together brown sugar, soy sauce, rice vinegar, garlic, ginger, red pepper flakes, and black pepper.",
+    "Add the pork belly cubes to the marinade and mix well to coat.",
+    "Let the pork belly marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Thread the marinated pork belly cubes onto the bamboo skewers.",
+    "Grill the skewers for 2-3 minutes per side, or until the pork is cooked through and slightly charred.",
+    "Serve hot and enjoy!",
+    "Optional: serve with a side of steamed vegetables or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "chinese",
+    "pork",
+    "belly",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-slovakian-pork-belly-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:29:15.973Z"
+}
