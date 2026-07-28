@@ -1,0 +1,96 @@
+{
+  "slug": "warmly-sliced-german-pork-pastrami--mexican",
+  "title": "Carnitas Quesadilla",
+  "description": "A twist on traditional quesadillas, filled with slow-cooked carnitas, served with a side of sliced radishes and warm tortillas.",
+  "cuisine": "mexican",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "pastrami",
+      "amount": "8 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2",
+      "notes": "in adobo sauce"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4",
+      "notes": "warm, flour"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium heat. Add the sliced onion and cook until caramelized, about 10 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the pork shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the chipotle peppers, cumin, coriander, salt, and pepper. Stir to combine.",
+    "Add 1 cup of water to the pot and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, for 2 hours, or until the pork is tender.",
+    "Shred the pork with two forks and stir in the sliced pastrami.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the quesadillas by spooning the carnitas mixture onto half of each tortilla and topping with cheese.",
+    "Fold the tortillas in half and cook in a large skillet over medium heat until the cheese is melted and the tortillas are crispy.",
+    "Serve hot with a side of sliced radishes and warm tortillas."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "carnitas",
+    "quesadilla",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 32,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warmly-sliced-german-pork-pastrami--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:35:47.622Z"
+}
