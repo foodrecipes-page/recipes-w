@@ -1,0 +1,80 @@
+{
+  "slug": "warm-monsoon-green-olives-tagine--keto",
+  "title": "Tagine with Olives",
+  "description": "A simple Moroccan-inspired keto dish featuring tender lamb and flavorful olives.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Green Olives",
+      "amount": "1 cup pitted",
+      "notes": ""
+    },
+    {
+      "name": "Tagine Spice Mix",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season lamb shoulder with salt and black pepper.",
+    "Heat coconut oil in a large Dutch oven over medium heat.",
+    "Sear lamb shoulder until browned on all sides, about 5 minutes per side.",
+    "Add garlic and cook for 1 minute.",
+    "Add tagine spice mix and cook for another minute.",
+    "Add lamb shoulder back to the pot and transfer to preheated oven.",
+    "Braise lamb for 2 1/2 hours, or until tender and falling apart.",
+    "Add green olives to the pot and cook for an additional 10-15 minutes.",
+    "Serve lamb shoulder with olives and sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 165,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "moroccan",
+    "keto",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 5,
+    "fat": 46
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-monsoon-green-olives-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:36:52.224Z"
+}
