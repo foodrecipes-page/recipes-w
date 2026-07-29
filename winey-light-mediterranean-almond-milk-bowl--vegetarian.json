@@ -1,0 +1,68 @@
+{
+  "slug": "winey-light-mediterranean-almond-milk-bowl--vegetarian",
+  "title": "Mediterranean Almond Pudding",
+  "description": "A creamy, rich pudding infused with the flavors of the Mediterranean.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "winey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "light",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "bowl",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together the almond, milk, winey, light, and mediterranean.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Place the baking dish in a large bowl to catch any spills.",
+    "Bake for 45-50 minutes or until the pudding is set and the top is golden brown.",
+    "Remove from the oven and let cool to room temperature.",
+    "Cover with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Serve chilled, garnished with additional almonds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "almond",
+    "pudding",
+    "mediterranean",
+    "dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/winey-light-mediterranean-almond-milk-bowl--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:24:01.613Z"
+}
