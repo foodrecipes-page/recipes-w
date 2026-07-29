@@ -1,0 +1,73 @@
+{
+  "slug": "warm-jammy-french-semolina-eclair--vegetarian",
+  "title": "Warm Semolina Pudding with Jammy French Fruits",
+  "description": "A warm, comforting semolina pudding topped with sweet jammy French fruits, perfect for a cozy dessert.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Semolina",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "600ml",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "French jam",
+      "amount": "50g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "In a medium saucepan, combine semolina, milk, and sugar. Whisk until the sugar dissolves.",
+    "Cook over medium heat, stirring constantly, until the mixture thickens.",
+    "Remove from heat and stir in the egg until well combined.",
+    "Pour the mixture into 4-6 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 25-30 minutes or until the puddings are set.",
+    "Meanwhile, warm the French jam in a saucepan over low heat.",
+    "To serve, place a warm pudding on each plate and top with a spoonful of warm jam and a few fresh fruits.",
+    "Serve immediately and enjoy!",
+    "Note: You can also top with whipped cream or a dollop of mascarpone cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "pudding",
+    "semolina",
+    "french",
+    "warm",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-jammy-french-semolina-eclair--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:18:32.216Z"
+}
