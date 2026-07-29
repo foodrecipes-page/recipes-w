@@ -1,0 +1,83 @@
+{
+  "slug": "warm-spicy-thai-chicken-noodles--chinese",
+  "title": "Spicy Thai Chicken Noodles",
+  "description": "A Chinese-inspired dish made with spicy Thai flavors, featuring chicken and noodles as the main ingredients.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Spicy and aromatic"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Noodles (rice stick or egg noodles)",
+      "amount": "8 ounces",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": "For serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the chicken to the wok and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the wok and set aside.",
+    "Add the Thai red curry paste to the wok and cook for 1 minute, stirring constantly.",
+    "Add the noodles to the wok and stir-fry for 2-3 minutes, until they are well coated with the curry paste.",
+    "Return the chicken to the wok and stir-fry everything together for 1 minute.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the noodles and chicken to a serving platter and garnish with chopped cilantro.",
+    "Serve with lime wedges on the side.",
+    "Enjoy your spicy Thai chicken noodles!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "spicy",
+    "thaicurry",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-spicy-thai-chicken-noodles--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:43:01.287Z"
+}
