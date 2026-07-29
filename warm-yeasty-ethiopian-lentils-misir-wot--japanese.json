@@ -1,0 +1,79 @@
+{
+  "slug": "warm-yeasty-ethiopian-lentils-misir-wot--japanese",
+  "title": "Ethiopian-Style Lentil Stew in a Japanese-Inspired Broth",
+  "description": "A fusion of flavors from Ethiopia and Japan, this hearty stew is made with red lentils and spices.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "misir wot spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add ginger and cook for 1 minute.",
+    "Add misir wot spice blend and cook for 1 minute.",
+    "Add red lentils, soy sauce, dashi broth, sake, and sugar.",
+    "Bring to a boil, then reduce heat to low and simmer for 30 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "ethiopian",
+    "japanese",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-yeasty-ethiopian-lentils-misir-wot--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:25:51.525Z"
+}
