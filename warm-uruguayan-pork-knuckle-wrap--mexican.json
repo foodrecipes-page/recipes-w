@@ -1,0 +1,79 @@
+{
+  "slug": "warm-uruguayan-pork-knuckle-wrap--mexican",
+  "title": "Crispy Pork Knuckle Tacos",
+  "description": "A fusion of warm, Uruguayan flavors with a Mexican twist, wrapped in a crispy tortilla.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork knuckle",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Warm flour tortillas",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Uruguayan chimichurri sauce",
+      "amount": "1/2 cup",
+      "notes": "see note"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season pork knuckle with salt and black pepper.",
+    "Sear pork knuckle in a skillet over medium-high heat until browned on all sides, about 5 minutes.",
+    "Transfer pork knuckle to the oven and roast until tender and crispy, about 30-40 minutes.",
+    "Meanwhile, warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Once pork knuckle is cooked, let it rest for 5 minutes before slicing into thin strips.",
+    "Assemble tacos by placing sliced pork knuckle onto a warmed tortilla, then topping with uruguayan chimichurri sauce, cilantro, and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "uruguayan",
+    "pork",
+    "knuckle",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-uruguayan-pork-knuckle-wrap--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:58:24.484Z"
+}
