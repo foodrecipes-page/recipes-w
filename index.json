@@ -21893,5 +21893,57 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "w"
+  },
+  {
+    "slug": "warm-bouncy-chinese-fenugreek-wonton-dumplings--french",
+    "title": "Pan-Seared Wonton Dumplings with Fenugreek Butter",
+    "tags": [
+      "french",
+      "dumplings",
+      "fenugreek",
+      "wonton"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 13,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-yeasty-ethiopian-lentils-misir-wot--japanese",
+    "title": "Ethiopian-Style Lentil Stew in a Japanese-Inspired Broth",
+    "tags": [
+      "lentils",
+      "ethiopian",
+      "japanese",
+      "stew"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-thai-chicken-noodles--chinese",
+    "title": "Spicy Thai Chicken Noodles",
+    "tags": [
+      "chinese",
+      "spicy",
+      "thaicurry",
+      "noodles"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-crispy-german-ikura-bowl--german",
+    "title": "Traditional German Bratwurst Bowl",
+    "tags": [
+      "german",
+      "grill",
+      "bratwurst",
+      "potatoes"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "w"
   }
 ]
