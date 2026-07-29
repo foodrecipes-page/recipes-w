@@ -21985,5 +21985,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "w"
+  },
+  {
+    "slug": "wholesome-crispy-tunisian-fromage-blanc-bisque--vegan",
+    "title": "Tunisian Vegan Stuffed Peppers",
+    "tags": [
+      "vegan",
+      "tunisian",
+      "stuffed-peppers",
+      "bell-peppers"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 55,
+    "shard": "w"
   }
 ]
