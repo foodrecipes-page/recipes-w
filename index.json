@@ -21998,5 +21998,60 @@
     "cuisine": "tunisian",
     "totalTimeMin": 55,
     "shard": "w"
+  },
+  {
+    "slug": "warm-uruguayan-pork-knuckle-wrap--mexican",
+    "title": "Crispy Pork Knuckle Tacos",
+    "tags": [
+      "mexican",
+      "uruguayan",
+      "pork",
+      "knuckle",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-gooey-canadian-bannock-bake--keto",
+    "title": "Warm Canadian Bannock Bites",
+    "tags": [
+      "keto",
+      "canadian",
+      "bannock",
+      "bites"
+    ],
+    "cuisine": "North American",
+    "totalTimeMin": 33,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-jammy-french-semolina-eclair--vegetarian",
+    "title": "Warm Semolina Pudding with Jammy French Fruits",
+    "tags": [
+      "dessert",
+      "pudding",
+      "semolina",
+      "french",
+      "warm",
+      "comforting"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-smoky-british-fish-fry--german",
+    "title": "Pan-Seared Smoked Trout with German Beer Batter",
+    "tags": [
+      "german",
+      "beer-battered",
+      "smoked-trout",
+      "fry"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 23,
+    "shard": "w"
   }
 ]
