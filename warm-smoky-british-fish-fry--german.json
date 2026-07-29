@@ -1,0 +1,80 @@
+{
+  "slug": "warm-smoky-british-fish-fry--german",
+  "title": "Pan-Seared Smoked Trout with German Beer Batter",
+  "description": "A traditional German dish featuring pan-seared smoked trout coated in a crispy beer batter. Perfect for a cold evening.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked trout fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "For beer batter"
+    },
+    {
+      "name": "beer",
+      "amount": "1 cup",
+      "notes": "Any German beer, such as Weissbier or Pilsner"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "For beer batter"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup",
+      "notes": "For beer batter"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet with 1/2 cup of vegetable oil over medium-high heat.",
+    "Season the trout fillets with salt and pepper.",
+    "In a separate bowl, mix together flour, beer, eggs, and buttermilk to create the beer batter.",
+    "Coat each trout fillet with the beer batter, making sure to coat evenly.",
+    "Carefully place the battered trout fillets in the preheated skillet and fry for 3-4 minutes on each side.",
+    "Remove the trout from the skillet and place on a paper towel-lined plate to drain excess oil.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beer-battered",
+    "smoked-trout",
+    "fry"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-smoky-british-fish-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:21:18.826Z"
+}
