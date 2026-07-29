@@ -21945,5 +21945,45 @@
     "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "w"
+  },
+  {
+    "slug": "winey-light-mediterranean-almond-milk-bowl--vegetarian",
+    "title": "Mediterranean Almond Pudding",
+    "tags": [
+      "almond",
+      "pudding",
+      "mediterranean",
+      "dessert",
+      "vegetarian"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 60,
+    "shard": "w"
+  },
+  {
+    "slug": "wholesome-american-chicken-stew--vegan",
+    "title": "Vegan Stew",
+    "tags": [
+      "vegan",
+      "comfort-food",
+      "stew"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 55,
+    "shard": "w"
+  },
+  {
+    "slug": "warm-fatty-algerian-chickpeas-tagine--japanese",
+    "title": "Japanese-Style Chickpea Tagine",
+    "tags": [
+      "chickpea",
+      "tagine",
+      "japanese",
+      "algerian",
+      "fusion"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "w"
   }
 ]
