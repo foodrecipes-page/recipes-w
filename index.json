@@ -22053,5 +22053,18 @@
     "cuisine": "german",
     "totalTimeMin": 23,
     "shard": "w"
+  },
+  {
+    "slug": "warm-spicy-ethiopian-lentil-stew--chinese",
+    "title": "Spicy Lentil Stew",
+    "tags": [
+      "chinese",
+      "spicy",
+      "lentil",
+      "stew"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "w"
   }
 ]
