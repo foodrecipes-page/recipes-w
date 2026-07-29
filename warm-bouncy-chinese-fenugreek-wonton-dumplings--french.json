@@ -1,0 +1,61 @@
+{
+  "slug": "warm-bouncy-chinese-fenugreek-wonton-dumplings--french",
+  "title": "Pan-Seared Wonton Dumplings with Fenugreek Butter",
+  "description": "A French-inspired twist on traditional wonton dumplings, served with a flavorful fenugreek butter for dipping.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "wonton dumplings",
+      "amount": "12-15 pieces"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fenugreek leaves",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium heat.",
+    "Add butter, chopped fenugreek leaves, salt, and sugar. Cook for 1-2 minutes.",
+    "Add wonton dumplings and cook for 2-3 minutes on each side, until golden brown.",
+    "Serve the dumplings hot with the fenugreek butter for dipping."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "dumplings",
+    "fenugreek",
+    "wonton"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-bouncy-chinese-fenugreek-wonton-dumplings--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:23:32.936Z"
+}
