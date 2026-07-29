@@ -21881,5 +21881,17 @@
     "cuisine": "chinese",
     "totalTimeMin": 23,
     "shard": "w"
+  },
+  {
+    "slug": "wholesome-smoky-yucatecan-fish-enchiladas--chinese",
+    "title": "Smoky Fish Enchilada Stir Fry",
+    "tags": [
+      "fish",
+      "chinese",
+      "mexican-fusion"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "w"
   }
 ]
