@@ -1,0 +1,81 @@
+{
+  "slug": "wholesome-american-chicken-stew--vegan",
+  "title": "Vegan Stew",
+  "description": "A hearty and comforting vegan stew made with wholesome ingredients.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "potatoes",
+      "amount": "3-4 medium",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "wholesome vegetable broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "stew seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp dried",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add mushrooms and cook until they release their liquid, about 5 minutes.",
+    "Add carrots, potatoes, and vegetable broth. Bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes or until vegetables are tender.",
+    "Stir in tomato paste and stew seasoning. Simmer for an additional 10 minutes.",
+    "Season with thyme and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "comfort-food",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-american-chicken-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:44:02.017Z"
+}
