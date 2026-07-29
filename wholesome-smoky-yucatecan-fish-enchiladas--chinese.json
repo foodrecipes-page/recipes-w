@@ -1,0 +1,88 @@
+{
+  "slug": "wholesome-smoky-yucatecan-fish-enchiladas--chinese",
+  "title": "Smoky Fish Enchilada Stir Fry",
+  "description": "A fusion of Chinese and Mexican flavors, with smoky fish and crunchy vegetables. This dish is a twist on traditional Chinese stir-fry.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (tilapia or cod)",
+      "amount": "1 lb",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Wholesome Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoky Chipotle Peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Yucatecan Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Enchilada Sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a wok over medium-high heat.",
+    "Add the fish and cook until browned, about 3-4 minutes.",
+    "Remove the fish from the wok and set aside.",
+    "Add the remaining 1 tbsp of oil, then the chipotle peppers and cook for 1 minute.",
+    "Add the cumin and cook for 1 minute.",
+    "Add the soy sauce, enchilada sauce, and bell peppers. Stir-fry for 2-3 minutes.",
+    "Return the fish to the wok and stir-fry for another 2-3 minutes.",
+    "Season with sesame seeds and scallions. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "chinese",
+    "mexican-fusion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/wholesome-smoky-yucatecan-fish-enchiladas--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:24:56.699Z"
+}
