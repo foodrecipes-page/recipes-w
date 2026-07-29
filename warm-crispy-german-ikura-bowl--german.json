@@ -1,0 +1,84 @@
+{
+  "slug": "warm-crispy-german-ikura-bowl--german",
+  "title": "Traditional German Bratwurst Bowl",
+  "description": "A hearty German dish featuring grilled bratwurst sausage, crispy potatoes, and a variety of toppings. Serve in a warm bowl for a comforting meal.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bratwurst sausage",
+      "amount": "4 links"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "German beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Grill the bratwurst sausage for 5-7 minutes on each side, or until browned and cooked through.",
+    "3. Meanwhile, peel the potatoes and cut them into wedges. Toss with butter, salt, and pepper.",
+    "4. Grill the potato wedges for 5-7 minutes on each side, or until crispy.",
+    "5. Slice the onion and grill for 2-3 minutes, or until softened.",
+    "6. Warm the bowl by filling it with hot water and letting it sit for a minute. Drain the water.",
+    "7. Assemble the dish by placing the grilled bratwurst, potatoes, and onion in the warm bowl.",
+    "8. Drizzle with mustard and serve with a side of German beer.",
+    "9. Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "grill",
+    "bratwurst",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-crispy-german-ikura-bowl--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:54:59.165Z"
+}
