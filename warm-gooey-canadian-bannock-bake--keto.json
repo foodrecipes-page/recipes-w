@@ -1,0 +1,74 @@
+{
+  "slug": "warm-gooey-canadian-bannock-bake--keto",
+  "title": "Warm Canadian Bannock Bites",
+  "description": "A delicious keto bannock recipe in bite-sized form, perfect for a quick snack. Soft, warm, and full of flavor.",
+  "cuisine": "North American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Coconut flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Granulated sweetener",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Melted butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 large egg, beaten (for egg wash)"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine almond flour, coconut flour, and granulated sweetener.",
+    "Add in melted butter and mix until a dough forms.",
+    "Gradually add in beaten egg and mix until combined.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Roll out dough to 1/2-inch thickness.",
+    "Cut into squares, about 2 1/2 inches per side.",
+    "Place on a baking sheet lined with parchment paper.",
+    "Brush tops with beaten egg for a golden glaze.",
+    "Bake for 18-20 minutes or until golden brown.",
+    "Remove and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "canadian",
+    "bannock",
+    "bites"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/warm-gooey-canadian-bannock-bake--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:04:10.153Z"
+}
